@@ -44,20 +44,9 @@
 	-inzengard
 		-black wolfs			shows 60 actually cost 48
 		-sentinals			shows 55 actually cost 50	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 	-mordor
 		-morgul shadows			shows 75 actually cost 0
 		-dol guldur archers		shows 45 actually cost 75
+	-angamr
+		-soul collectors		shows 50 actually cost 45
+		-dire wolf			shows 40 actually cost 30
