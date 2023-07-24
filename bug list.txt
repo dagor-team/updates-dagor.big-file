@@ -12,7 +12,7 @@
 		-Gaurdains		 	shows 65 actually cost 40
 		-Formenos archers		shows 70 actually cost 90
 		-Formenos lancers		shows 60 actually cost 90
-		-Formenos avengers		shows 70 actually cost 90
+		-Formenos avengers		shows 60 actually cost 90
 		-lancers			shows 65 actually cost 50
 		-goldolin archers		shows 65 actually cost 50
 		-goldolin lancers		shows 65 actually cost 50
