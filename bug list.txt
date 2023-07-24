@@ -47,4 +47,6 @@
 
 
 
-	-44
+	-mordor
+		-morgul shadows			shows 75 actually cost 0
+		-dol guldur archers		shows 45 actually cost 75
