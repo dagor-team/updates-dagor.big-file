@@ -1,3 +1,58 @@
 -Drogoth not recruitable(Fixed)
 -Goblin Fort mess
 -Eonwe Crash
+-Cp cost for all units
+	-IMLADRIS
+		-Swordman		 	shows 60 actually cost 50
+		-Archers		 	shows 60 actually cost 50
+		-Spearman		 	shows 60 actually cost 50
+		-Blademaster		 	shows 60 actually cost 50
+		-Gaurdains		 	shows 65 actually cost 40
+		-Formenos		 	shows 70 actually cost 90
+	-Gondor
+		-Bal amroth knights	 	shows 90 actually cost 40
+		-Tower gaurd		 	shows 50 actually cost 40
+		-Gondor archers		 	shows 40 actually cost 45
+		-Borahir axeman		 	shows 60 actually cost 55
+		-Borahirspearman	 	shows 50 actually cost 75
+		-Borahir archers	 	shows 60 actually cost 50
+		-Pelergir Monsterslayers  	shows 40 actually cost 45
+		-Ringlo vale		 	shows 40 actually cost 45
+		-Lossarach axeman	 	shows 40 actually cost 60
+		-Morthdon archers	 	shows 40 actually cost 60
+	-Arnor
+		-Guardains of arnor		shows 60 actually cost 50
+		-Palantir Guards		shows 70 actually cost 100
+		-Hobbits 			shows 35 actually cost 30
+		-Lindon	Guardains		shows 65 actually cost 70
+	-Rohan
+		-Taniquetil guards		shows 62 actually cost 50
+		-Taniquetil archers		shows 62 actually cost 50
+	-lotherien
+		-Lotherien Galadhrim		shows 50 actually cost 70
+		-Menegroth cavalry		shows 90 actually cost 80
+		-menegroth guards 		shows 60 actually cost 70
+	-Erebor
+		-Khazad-dum vets		shows 70 actually cost 50
+		-belegost rider			shows 60 actually cost 30
+		-dale bowman			shows 50 actually cost 40
+		-dale swordman			shows 50 actually cost 60
+		-dale spearman			shows 50 actually cost 60
+		-Aglarond Pikeman		shows 60 actually cost 50
+		-iron hill guardians		shows 40 actually cost 50
+		-ironbreakers			shows 60 actually cost 50
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	-44
