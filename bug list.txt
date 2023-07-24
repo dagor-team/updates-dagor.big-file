@@ -1,16 +1,23 @@
 -Drogoth not recruitable(Fixed)
--Goblin Fort mess(Fixed)
+-Goblin Fort mess
 -Eonwe Crash
 -Dol Guldur archer fuckery
 -Cirith Ungol Forged Bblades fix
 -Cp cost for all units
 	-IMLADRIS
-		-Swordman		 	shows 60 actually cost 50
-		-Archers		 	shows 60 actually cost 50
-		-Spearman		 	shows 60 actually cost 50
-		-Blademaster		 	shows 60 actually cost 50
+		-Swordman		 	shows 65 actually cost 50
+		-Archers		 	shows 65 actually cost 50
+		-Spearman		 	shows 65 actually cost 50
+		-Blademaster		 	shows 65 actually cost 50
 		-Gaurdains		 	shows 65 actually cost 40
-		-Formenos		 	shows 70 actually cost 90
+		-Formenos archers		shows 70 actually cost 90
+		-Formenos lancers		shows 60 actually cost 90
+		-Formenos avengers		shows 70 actually cost 90
+		-lancers			shows 65 actually cost 50
+		-goldolin archers		shows 65 actually cost 50
+		-goldolin lancers		shows 65 actually cost 50
+		-goldolin warrior		shows 65 actually cost 50
+		-wind riders			shows 65 actually cost 70
 	-Gondor
 		-Bal amroth knights	 	shows 90 actually cost 40
 		-Tower gaurd		 	shows 50 actually cost 40
@@ -46,20 +53,10 @@
 	-inzengard
 		-black wolfs			shows 60 actually cost 48
 		-sentinals			shows 55 actually cost 50	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 	-mordor
 		-morgul shadows			shows 75 actually cost 0
 		-dol guldur archers		shows 45 actually cost 75
+	-angamr
+		-soul collectors		shows 50 actually cost 45
+		-dire wolf			shows 40 actually cost 30
+11
