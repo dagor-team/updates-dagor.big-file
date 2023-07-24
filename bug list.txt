@@ -32,7 +32,18 @@
 		-Lotherien Galadhrim		shows 50 actually cost 70
 		-Menegroth cavalry		shows 90 actually cost 80
 		-menegroth guards 		shows 60 actually cost 70
-	-Er
+	-drwaves
+		-Khazad-dum vets		shows 70 actually cost 50
+		-belegost rider			shows 60 actually cost 30
+		-dale bowman			shows 50 actually cost 40
+		-dale swordman			shows 50 actually cost 60
+		-dale spearman			shows 50 actually cost 60
+		-Aglarond Pikeman		shows 60 actually cost 50
+		-iron hill guardians		shows 40 actually cost 50
+		-ironbreakers			shows 60 actually cost 50
+	-inzengard
+		-black wolfs			shows 60 actually cost 48
+		-sentinals			shows 55 actually cost 50	
 
 
 
