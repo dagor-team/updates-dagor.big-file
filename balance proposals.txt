@@ -1,0 +1,51 @@
+balance
+
+DONE
+
+
+
+YET TO DO
+	gondor
+		4.tower guards formation armor nerf 
+	goblins
+		1.gundabad warg riders (inn units)
+			-capped to 3 
+		2.balrogs
+			-capped to 3
+			-take revenge dmg from pikes
+		3.narzug 
+		4.durgnabash swordsmen price ?
+		5.yazneg and fimbul recruitment fix - nico pls
+		6.untaimed allegiance switched with drums in the deep in the power tree
+		7.gobling warg riders ability fix
+		8.Great goblin´s rework
+	dwarves
+		leave to nico
+	arnor
+		3. cirdan
+			-lvl 7 changed
+	loth
+		breeze of manwe 
+			-cd increase
+		menegroth cav
+			-invisibility remove
+	imla
+      		1.arwen instead of mount lvl 1 she gets aragon blade master without the dmg buff
+		2.evening star ?
+		4.wind riders 
+			-ability change to rohans heroic charge
+			-price increase to 2k
+		5.all imla cav trample increase
+		6.cav banners speed decrease
+	mordor
+		4.sauron
+			-bat form 
+				-hit box increase
+		5.dol guldur archers
+			-allow upgrades
+			-can target flying units 
+		8.mouth of sauron
+			-lvl 9 to lvl 3
+			-lvl 7 also usable on enemy buildings
+		9.haradrim archers 
+			-dmg increase to flying units
