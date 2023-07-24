@@ -1,0 +1,3 @@
+-Drogoth not recruitable(Fixed)
+-Goblin Fort mess
+-Eonwe Crash
