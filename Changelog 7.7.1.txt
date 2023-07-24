@@ -1,6 +1,17 @@
 Update 7.7.1
 
 Changes by Gimli:
+Goblin
 -Drogoth is now properlyy recruitable from First Age fort.
 -Goblin hero recruitment centralized in the fort.
+-Broodmother's armor fixed and now they are recruitable from the Spiderpit at level 2 by all goblins.(Gorkil has access to stronger version with his summon)
+-Youngling Dragons are now available from the Wyrm lair at level 1.
+-Wyrms are avaiable from level 2 Wyrmlair and they have received a health buff.
+-The Arkenstone is avaiable from the Wyrmlair level 3 and costs 1000.
+-Cave bats come now from the Fissure level 2.
+-The tribute for the treasure summons can be purchased from the Fissure.
+-All heroes are purchased from the Goblin Fortress now. 
+Lothlorien
+-Silvan Archers summonned buffed, they are weaker than the recruited ones, but they wont deal less than gahladrims now.
+Imladris
 -Formenos Archers increased dmg.
