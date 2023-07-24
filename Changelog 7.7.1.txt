@@ -3,3 +3,4 @@ Update 7.7.1
 Changes by Gimli:
 -Drogoth is now properlyy recruitable from First Age fort.
 -Goblin hero recruitment centralized in the fort.
+-Formenos Archers increased dmg.
