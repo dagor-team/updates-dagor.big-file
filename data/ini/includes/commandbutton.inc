@@ -393,8 +393,8 @@ CommandButton Command_SelectRevivablesAngbandThangorodrim
   TextLabel               = CONTROLBAR:SelectRevivablesAngbandThangorodrim
   DescriptLabel           = CONTROLBAR:ToolTipSelectRevivablesAngbandThangorodrim
   Radial                  = Yes
-  CommandRangeStart       = 14
-  CommandRangeCount       = 14
+  CommandRangeStart       = 13
+  CommandRangeCount       = 17
 End
 
 
@@ -417,7 +417,7 @@ CommandButton Command_SelectUnitsAngbandThangorodrim
   TextLabel               = CONTROLBAR:SelectUnitsAngbandThangorodrim
   DescriptLabel           = CONTROLBAR:ToolTipSelectUnitsAngbandThangorodrim
   Radial                  = Yes
-  CommandRangeStart       = 11
+  CommandRangeStart       = 10
   CommandRangeCount       = 3
 End
 
