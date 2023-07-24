@@ -1,5 +1,5 @@
 -Drogoth not recruitable(Fixed)
--Goblin Fort mess
+-Goblin Fort mess(Fixed=
 -Eonwe Crash
 -Cp cost for all units
 	-IMLADRIS
