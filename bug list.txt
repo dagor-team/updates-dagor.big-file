@@ -4,59 +4,59 @@
 -Dol Guldur archer fuckery
 -Cirith Ungol Forged Blades fix
 -Cp cost for all units
-	-IMLADRIS
-		-Swordman		 	shows 65 actually cost 50
-		-Archers		 	shows 65 actually cost 50
-		-Spearman		 	shows 65 actually cost 50
-		-Blademaster		 	shows 65 actually cost 50
-		-Gaurdains		 	shows 65 actually cost 40
-		-Formenos archers		shows 70 actually cost 90
-		-Formenos lancers		shows 60 actually cost 90
-		-Formenos avengers		shows 60 actually cost 90
-		-lancers			shows 65 actually cost 50
-		-goldolin archers		shows 65 actually cost 50
-		-goldolin lancers		shows 65 actually cost 50
-		-goldolin warrior		shows 65 actually cost 50
-		-wind riders			shows 65 actually cost 70
+	-IMLADRIS(Fixed)
+		-Swordman		 	shows 65 actually cost 50(Fixed)
+		-Archers		 	shows 65 actually cost 50(Fixed)
+		-Spearman		 	shows 65 actually cost 50(Fixed)
+		-Blademaster		 	shows 65 actually cost 50(Fixed)
+		-Gaurdains		 	shows 65 actually cost 40(Fixed)
+		-Formenos archers		shows 70 actually cost 90(Fixed)
+		-Formenos lancers		shows 60 actually cost 90(Fixed)
+		-Formenos avengers		shows 60 actually cost 90(Fixed)
+		-lancers			shows 65 actually cost 50(Fixed)
+		-goldolin archers		shows 65 actually cost 50(Fixed)
+		-goldolin lancers		shows 65 actually cost 50(Fixed)
+		-goldolin warrior		shows 65 actually cost 50(Fixed)
+		-wind riders			shows 65 actually cost 70(Fixed)
 	-Gondor
-		-Bal amroth knights	 	shows 90 actually cost 40
-		-Tower gaurd		 	shows 50 actually cost 40
-		-Gondor archers		 	shows 40 actually cost 45
-		-Borahir axeman		 	shows 60 actually cost 55
-		-Borahirspearman	 	shows 50 actually cost 75
-		-Borahir archers	 	shows 60 actually cost 50
+		-Bal amroth knights	 	shows 90 actually cost 40(Fixed)
+		-Tower gaurd		 	shows 50 actually cost 40(Fixed)
+		-Gondor archers		 	shows 40 actually cost 45(Fixed)
+		-Borahir axeman		 	shows 60 actually cost 55(Fixed)
+		-Borahirspearman	 	shows 50 actually cost 75(Fixed)
+		-Borahir archers	 	shows 60 actually cost 50(Fixed)
 		-Pelergir Monsterslayers  	shows 40 actually cost 45
 		-Ringlo vale		 	shows 40 actually cost 45
 		-Lossarach axeman	 	shows 40 actually cost 60
 		-Morthdon archers	 	shows 40 actually cost 60
-	-Arnor
-		-Guardains of arnor		shows 60 actually cost 50
-		-Palantir Guards		shows 70 actually cost 100
-		-Hobbits 			shows 35 actually cost 30
-		-Lindon	Guardains		shows 65 actually cost 70
-	-Rohan
-		-Taniquetil guards		shows 62 actually cost 50
-		-Taniquetil archers		shows 62 actually cost 50
-	-lotherien
-		-Lotherien Galadhrim		shows 50 actually cost 70
-		-Menegroth cavalry		shows 90 actually cost 80
-		-menegroth guards 		shows 60 actually cost 70
-	-drwaves
-		-Khazad-dum vets		shows 70 actually cost 50
-		-belegost rider			shows 60 actually cost 30
-		-dale bowman			shows 50 actually cost 40
-		-dale swordman			shows 50 actually cost 60
-		-dale spearman			shows 50 actually cost 60
-		-Aglarond Pikeman		shows 60 actually cost 50
-		-iron hill guardians		shows 40 actually cost 50
-		-ironbreakers			shows 60 actually cost 50
+	-Arnor(Fixed)
+		-Guardains of arnor		shows 60 actually cost 50(Fixed)
+		-Palantir Guards		shows 70 actually cost 100(Fixed)
+		-Hobbits 			shows 35 actually cost 30(Fixed)
+		-Lindon	Guardains		shows 65 actually cost 70(Fixed)
+	-Rohan(Fixed)
+		-Taniquetil guards		shows 62 actually cost 50(Fixed)
+		-Taniquetil archers		shows 62 actually cost 50(Fixed)
+	-lotherien(Fixed)
+		-Lotherien Galadhrim		shows 50 actually cost 70(Fixed)
+		-Menegroth cavalry		shows 90 actually cost 80(Fixed)
+		-menegroth guards 		shows 60 actually cost 70(Fixed)
+	-drwaves(Fixed)
+		-Khazad-dum vets		shows 70 actually cost 50(Fixed)
+		-belegost rider			shows 60 actually cost 30(Fixed)
+		-dale bowman			shows 50 actually cost 40(Fixed)
+		-dale swordman			shows 50 actually cost 60(Fixed)
+		-dale spearman			shows 50 actually cost 60(Fixed)
+		-Aglarond Pikeman		shows 60 actually cost 50(Fixed)
+		-iron hill guardians		shows 40 actually cost 50(Fixed)
+		-ironbreakers			shows 60 actually cost 50(Fixed)
 	-inzengard
-		-black wolfs			shows 60 actually cost 48
+		-black wolfs			shows 60 actually cost 48(Fixed)
 		-sentinals			shows 55 actually cost 50	
-	-mordor
-		-morgul shadows			shows 75 actually cost 0
-		-dol guldur archers		shows 45 actually cost 75
-	-angamr
-		-soul collectors		shows 50 actually cost 45
-		-dire wolf			shows 40 actually cost 30
+	-mordor(Fixed)
+		-morgul shadows			shows 75 actually cost 0(Fixed)
+		-dol guldur archers		shows 45 actually cost 75(Fixed)
+	-angamr(Fixed)
+		-soul collectors		shows 50 actually cost 45(Fixed)
+		-dire wolf			shows 40 actually cost 30(Fixed)
 11
