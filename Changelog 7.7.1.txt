@@ -18,6 +18,7 @@ Imladris
 -Formenos Archers increased dmg.
 -Earendil's ship reduces enemy dmg by 25% and increases Armor by 10%.
 By Nimima 
-	updates all exp and attribute for evil units
+	updates all exp and attribute for evil units.
+	eonwe no longer crashes the game.
 
 
