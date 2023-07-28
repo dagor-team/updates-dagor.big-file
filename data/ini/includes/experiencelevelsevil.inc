@@ -2336,3 +2336,645 @@ ExperienceLevel    Evil_Basic_CavalryLevel5
     End
 END
 
+;----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+ExperienceLevel    Evil_Regular_Cavalry_Level1
+    TargetNames                       =    EVIL_REGULAR_CAV
+    RequiredExperience                =    EXPERIENCE_REQUIRED_REGULAR_CAV_HORDE_1
+    ExperienceAward                   =    EXPERIENCE_AWARD_REGULAR_CAV_HORDE_1
+    Rank                              =    1
+    Upgrades                          =    Upgrade_ObjectLevel1
+    SelectionDecal
+        Texture               =    decal_I_level1
+        Texture2              =    decal_evil_CO
+        Style                 =    SHADOW_MERGE_DECAL
+        OpacityMin            =    80%
+        OpacityMax            =    100%
+        MinRadius             =    70
+        MaxRadius             =    200
+        MaxSelectedUnits      =    40
+    End
+END
+
+ExperienceLevel    Evil_Regular_CavalryLevel2
+    TargetNames                       =    EVIL_REGULAR_CAV
+    RequiredExperience                =    EXPERIENCE_REQUIRED_REGULAR_CAV_HORDE_2
+    ExperienceAward                   =    EXPERIENCE_AWARD_REGULAR_CAV_HORDE_2
+    Rank                              =    2
+    Upgrades                          =    Upgrade_ObjectLevel2
+    AttributeModifiers                =    RegularCavHordeBonusRank2
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+    SelectionDecal
+        Texture               =    decal_I_level2
+        Texture2              =    decal_evil_CO
+        Style                 =    SHADOW_MERGE_DECAL
+        OpacityMin            =    80%
+        OpacityMax            =    100%
+        MinRadius             =    70
+        MaxRadius             =    200
+        MaxSelectedUnits      =    40
+    End
+END
+
+ExperienceLevel    Evil_Regular_CavalryLevel3
+    TargetNames                       =    EVIL_REGULAR_CAV
+    RequiredExperience                =    EXPERIENCE_REQUIRED_REGULAR_CAV_HORDE_3
+    ExperienceAward                   =    EXPERIENCE_AWARD_REGULAR_CAV_HORDE_3
+    Rank                              =    3
+    Upgrades                          =    Upgrade_ObjectLevel3
+    AttributeModifiers                =    RegularCavHordeBonusRank3
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+    SelectionDecal
+        Texture               =    decal_I_level3
+        Texture2              =    decal_evil_CO
+        Style                 =    SHADOW_MERGE_DECAL
+        OpacityMin            =    80%
+        OpacityMax            =    100%
+        MinRadius             =    70
+        MaxRadius             =    200
+        MaxSelectedUnits      =    40
+    End
+END
+
+ExperienceLevel    Evil_Regular_CavalryLevel4
+    TargetNames                       =    EVIL_REGULAR_CAV
+    RequiredExperience                =    EXPERIENCE_REQUIRED_REGULAR_CAV_HORDE_4
+    ExperienceAward                   =    EXPERIENCE_AWARD_REGULAR_CAV_HORDE_4
+    Rank                              =    4
+    Upgrades                          =    Upgrade_ObjectLevel4
+    AttributeModifiers                =    RegularCavHordeBonusRank4
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+    SelectionDecal
+        Texture               =    decal_I_level4
+        Texture2              =    decal_evil_CO
+        Style                 =    SHADOW_MERGE_DECAL
+        OpacityMin            =    80%
+        OpacityMax            =    100%
+        MinRadius             =    70
+        MaxRadius             =    200
+        MaxSelectedUnits      =    40
+    End
+END
+
+ExperienceLevel    Evil_Regular_CavalryLevel5
+    TargetNames                       =    EVIL_REGULAR_CAV
+    RequiredExperience                =    EXPERIENCE_REQUIRED_REGULAR_CAV_HORDE_5
+    ExperienceAward                   =    EXPERIENCE_AWARD_REGULAR_CAV_HORDE_5
+    Rank                              =    5
+    Upgrades                          =    Upgrade_ObjectLevel5
+    AttributeModifiers                =    RegularCavHordeBonusRank5
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+    SelectionDecal
+        Texture               =    decal_I_level5
+        Texture2              =    decal_evil_CO
+        Style                 =    SHADOW_MERGE_DECAL
+        OpacityMin            =    80%
+        OpacityMax            =    100%
+        MinRadius             =    70
+        MaxRadius             =    200
+        MaxSelectedUnits      =    40
+    End
+END
+
+
+;----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+ExperienceLevel    Evil_Advanced_Cavalry_Level1
+    TargetNames                       =    EVIL_ADVANCED_CAV
+    RequiredExperience                =    EXPERIENCE_REQUIRED_ADVANCED_CAV_HORDE_1
+    ExperienceAward                   =    EXPERIENCE_AWARD_ADVANCED_CAV_HORDE_1
+    Rank                              =    1
+    Upgrades                          =    Upgrade_ObjectLevel1
+    SelectionDecal
+        Texture               =    decal_I_level1
+        Texture2              =    decal_evil_CO
+        Style                 =    SHADOW_MERGE_DECAL
+        OpacityMin            =    80%
+        OpacityMax            =    100%
+        MinRadius             =    70
+        MaxRadius             =    200
+        MaxSelectedUnits      =    40
+    End
+END
+
+ExperienceLevel    Evil_Advanced_CavalryLevel2
+    TargetNames                       =    EVIL_ADVANCED_CAV
+    RequiredExperience                =    EXPERIENCE_REQUIRED_ADVANCED_CAV_HORDE_2
+    ExperienceAward                   =    EXPERIENCE_AWARD_ADVANCED_CAV_HORDE_2
+    Rank                              =    2
+    Upgrades                          =    Upgrade_ObjectLevel2
+    AttributeModifiers                =    AdvancedCavHordeBonusRank2
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+    SelectionDecal
+        Texture               =    decal_I_level2
+        Texture2              =    decal_evil_CO
+        Style                 =    SHADOW_MERGE_DECAL
+        OpacityMin            =    80%
+        OpacityMax            =    100%
+        MinRadius             =    70
+        MaxRadius             =    200
+        MaxSelectedUnits      =    40
+    End
+END
+
+ExperienceLevel    Evil_Advanced_CavalryLevel3
+    TargetNames                       =    EVIL_ADVANCED_CAV
+    RequiredExperience                =    EXPERIENCE_REQUIRED_ADVANCED_CAV_HORDE_3
+    ExperienceAward                   =    EXPERIENCE_AWARD_ADVANCED_CAV_HORDE_3
+    Rank                              =    3
+    Upgrades                          =    Upgrade_ObjectLevel3
+    AttributeModifiers                =    AdvancedCavHordeBonusRank3
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+    SelectionDecal
+        Texture               =    decal_I_level3
+        Texture2              =    decal_evil_CO
+        Style                 =    SHADOW_MERGE_DECAL
+        OpacityMin            =    80%
+        OpacityMax            =    100%
+        MinRadius             =    70
+        MaxRadius             =    200
+        MaxSelectedUnits      =    40
+    End
+END
+
+ExperienceLevel    Evil_Advanced_CavalryLevel4
+    TargetNames                       =    EVIL_ADVANCED_CAV
+    RequiredExperience                =    EXPERIENCE_REQUIRED_ADVANCED_CAV_HORDE_4
+    ExperienceAward                   =    EXPERIENCE_AWARD_ADVANCED_CAV_HORDE_4
+    Rank                              =    4
+    Upgrades                          =    Upgrade_ObjectLevel4
+    AttributeModifiers                =    AdvancedCavHordeBonusRank4
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+    SelectionDecal
+        Texture               =    decal_I_level4
+        Texture2              =    decal_evil_CO
+        Style                 =    SHADOW_MERGE_DECAL
+        OpacityMin            =    80%
+        OpacityMax            =    100%
+        MinRadius             =    70
+        MaxRadius             =    200
+        MaxSelectedUnits      =    40
+    End
+END
+
+ExperienceLevel    Evil_Advanced_CavalryLevel5
+    TargetNames                       =    EVIL_ADVANCED_CAV
+    RequiredExperience                =    EXPERIENCE_REQUIRED_ADVANCED_CAV_HORDE_5
+    ExperienceAward                   =    EXPERIENCE_AWARD_ADVANCED_CAV_HORDE_5
+    Rank                              =    5
+    Upgrades                          =    Upgrade_ObjectLevel5
+    AttributeModifiers                =    AdvancedCavHordeBonusRank5
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+    SelectionDecal
+        Texture               =    decal_I_level5
+        Texture2              =    decal_evil_CO
+        Style                 =    SHADOW_MERGE_DECAL
+        OpacityMin            =    80%
+        OpacityMax            =    100%
+        MinRadius             =    70
+        MaxRadius             =    200
+        MaxSelectedUnits      =    40
+    End
+END
+
+
+;----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+ExperienceLevel    Evil_Elite_CavLevel1
+    TargetNames                       =    EVIL_ELITE_CAV
+    RequiredExperience                =    EXPERIENCE_REQUIRED_ELITE_CAVALRY_HORDE_1
+    ExperienceAward                   =    EXPERIENCE_AWARD_ELITE_CAVALRY_HORDE_1
+    InformUpdateModule                =    Yes
+    Rank                              =    1
+    Upgrades                          =    Upgrade_EliteHordeLvl1
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+
+    SelectionDecal
+        Texture                       =    decal_I_level4
+        Texture2                      =    decal_evil_CO
+        Style                         =    SHADOW_MERGE_DECAL
+        OpacityMin                    =    80%
+        OpacityMax                    =    100%
+        MinRadius                     =    40
+        MaxRadius                     =    200
+        MaxSelectedUnits              =    40
+    End
+End
+
+ExperienceLevel    Evil_Elite_CavLevel2
+    TargetNames                       =    EVIL_ELITE_CAV
+    RequiredExperience                =    EXPERIENCE_REQUIRED_ELITE_CAVALRY_HORDE_2
+    ExperienceAward                   =    EXPERIENCE_AWARD_ELITE_CAVALRY_HORDE_2
+    InformUpdateModule                =    Yes
+    Rank                              =    2
+    AttributeModifiers                =    EliteCavHordeBonusRank2
+    Upgrades                          =    Upgrade_EliteHordeLvl2
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+
+    SelectionDecal
+        Texture                       =    decal_I_level4
+        Texture2                      =    decal_evil_CO
+        Style                         =    SHADOW_MERGE_DECAL
+        OpacityMin                    =    80%
+        OpacityMax                    =    100%
+        MinRadius                     =    40
+        MaxRadius                     =    200
+        MaxSelectedUnits              =    40
+    End
+End
+
+ExperienceLevel    Evil_Elite_CavLevel3
+    TargetNames                       =    EVIL_ELITE_CAV
+    RequiredExperience                =    EXPERIENCE_REQUIRED_ELITE_CAVALRY_HORDE_3
+    ExperienceAward                   =    EXPERIENCE_AWARD_ELITE_CAVALRY_HORDE_3
+    InformUpdateModule                =    Yes
+    Rank                              =    3
+    AttributeModifiers                =    EliteCavHordeBonusRank3
+    Upgrades                          =    Upgrade_EliteHordeLvl3
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+
+    SelectionDecal
+        Texture                       =    decal_I_level4
+        Texture2                      =    decal_evil_CO
+        Style                         =    SHADOW_MERGE_DECAL
+        OpacityMin                    =    80%
+        OpacityMax                    =    100%
+        MinRadius                     =    40
+        MaxRadius                     =    200
+        MaxSelectedUnits              =    40
+    End
+End
+
+ExperienceLevel    Evil_Elite_CavLevel4
+    TargetNames                       =    EVIL_ELITE_CAV
+    RequiredExperience                =    EXPERIENCE_REQUIRED_ELITE_CAVALRY_HORDE_4
+    ExperienceAward                   =    EXPERIENCE_AWARD_ELITE_CAVALRY_HORDE_4
+    InformUpdateModule                =    Yes
+    Rank                              =    4
+    AttributeModifiers                =    EliteCavHordeBonusRank4
+    Upgrades                          =    Upgrade_EliteHordeLvl4
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+
+    SelectionDecal
+        Texture                       =    decal_I_level4
+        Texture2                      =    decal_evil_CO
+        Style                         =    SHADOW_MERGE_DECAL
+        OpacityMin                    =    80%
+        OpacityMax                    =    100%
+        MinRadius                     =    40
+        MaxRadius                     =    200
+        MaxSelectedUnits              =    40
+    End
+End
+
+ExperienceLevel    Evil_Elite_CavLevel5
+    TargetNames                       =    EVIL_ELITE_CAV
+    RequiredExperience                =    EXPERIENCE_REQUIRED_ELITE_CAVALRY_HORDE_5
+    ExperienceAward                   =    EXPERIENCE_AWARD_ELITE_CAVALRY_HORDE_5
+    InformUpdateModule                =    Yes
+    Rank                              =    5
+    AttributeModifiers                =    EliteCavHordeBonusRank5
+    Upgrades                          =    Upgrade_EliteHordeLvl5
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+
+    SelectionDecal
+        Texture                       =    decal_I_level4
+        Texture2                      =    decal_evil_CO
+        Style                         =    SHADOW_MERGE_DECAL
+        OpacityMin                    =    80%
+        OpacityMax                    =    100%
+        MinRadius                     =    40
+        MaxRadius                     =    200
+        MaxSelectedUnits              =    40
+    End
+End
+
+ExperienceLevel    Evil_Elite_CavLevel6
+    TargetNames                       =    EVIL_ELITE_CAV
+    RequiredExperience                =    EXPERIENCE_REQUIRED_ELITE_CAVALRY_HORDE_6
+    ExperienceAward                   =    EXPERIENCE_AWARD_ELITE_CAVALRY_HORDE_6
+    InformUpdateModule                =    Yes
+    Rank                              =    6
+    AttributeModifiers                =    EliteCavHordeBonusRank6
+    Upgrades                          =    Upgrade_EliteHordeLvl6
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+
+    SelectionDecal
+        Texture                       =    decal_I_level4
+        Texture2                      =    decal_evil_CO
+        Style                         =    SHADOW_MERGE_DECAL
+        OpacityMin                    =    80%
+        OpacityMax                    =    100%
+        MinRadius                     =    40
+        MaxRadius                     =    200
+        MaxSelectedUnits              =    40
+    End
+End
+
+ExperienceLevel    Evil_Elite_CavLevel7
+    TargetNames                       =    EVIL_ELITE_CAV
+    RequiredExperience                =    EXPERIENCE_REQUIRED_ELITE_CAVALRY_HORDE_7
+    ExperienceAward                   =    EXPERIENCE_AWARD_ELITE_CAVALRY_HORDE_7
+    InformUpdateModule                =    Yes
+    Rank                              =    7
+    AttributeModifiers                =    EliteCavHordeBonusRank7
+    Upgrades                          =    Upgrade_EliteHordeLvl7 Upgrade_FormenosForgedBlades
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+
+    SelectionDecal
+        Texture                       =    decal_I_level4
+        Texture2                      =    decal_evil_CO
+        Style                         =    SHADOW_MERGE_DECAL
+        OpacityMin                    =    80%
+        OpacityMax                    =    100%
+        MinRadius                     =    40
+        MaxRadius                     =    200
+        MaxSelectedUnits              =    40
+    End
+End
+
+ExperienceLevel    Evil_Elite_CavLevel8
+    TargetNames                       =    EVIL_ELITE_CAV
+    RequiredExperience                =    EXPERIENCE_REQUIRED_ELITE_CAVALRY_HORDE_8
+    ExperienceAward                   =    EXPERIENCE_AWARD_ELITE_CAVALRY_HORDE_8
+    InformUpdateModule                =    Yes
+    Rank                              =    8
+    AttributeModifiers                =    EliteCavHordeBonusRank8
+    Upgrades                          =    Upgrade_EliteHordeLvl8
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+
+    SelectionDecal
+        Texture                       =    decal_I_level4
+        Texture2                      =    decal_evil_CO
+        Style                         =    SHADOW_MERGE_DECAL
+        OpacityMin                    =    80%
+        OpacityMax                    =    100%
+        MinRadius                     =    40
+        MaxRadius                     =    200
+        MaxSelectedUnits              =    40
+    End
+End
+
+ExperienceLevel    Evil_Elite_CavLevel9
+    TargetNames                       =    EVIL_ELITE_CAV
+    RequiredExperience                =    EXPERIENCE_REQUIRED_ELITE_CAVALRY_HORDE_9
+    ExperienceAward                   =    EXPERIENCE_AWARD_ELITE_CAVALRY_HORDE_9
+    InformUpdateModule                =    Yes
+    Rank                              =    9
+    AttributeModifiers                =    EliteCavHordeBonusRank9
+    Upgrades                          =    Upgrade_EliteHordeLvl9
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+
+    SelectionDecal
+        Texture                       =    decal_I_level4
+        Texture2                      =    decal_evil_CO
+        Style                         =    SHADOW_MERGE_DECAL
+        OpacityMin                    =    80%
+        OpacityMax                    =    100%
+        MinRadius                     =    40
+        MaxRadius                     =    200
+        MaxSelectedUnits              =    40
+    End
+End
+
+ExperienceLevel    Evil_Elite_CavLevel10
+    TargetNames                       =    EVIL_ELITE_CAV
+    RequiredExperience                =    EXPERIENCE_REQUIRED_ELITE_CAVALRY_HORDE_10
+    ExperienceAward                   =    EXPERIENCE_AWARD_ELITE_CAVALRY_HORDE_10
+    InformUpdateModule                =    Yes
+    Rank                              =    10
+    AttributeModifiers                =    EliteCavHordeBonusRank10
+    Upgrades                          =    Upgrade_EliteHordeLvl10
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+
+    SelectionDecal
+        Texture                       =    decal_I_level4
+        Texture2                      =    decal_evil_CO
+        Style                         =    SHADOW_MERGE_DECAL
+        OpacityMin                    =    80%
+        OpacityMax                    =    100%
+        MinRadius                     =    40
+        MaxRadius                     =    200
+        MaxSelectedUnits              =    40
+    End
+End
+
+
+;--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+ExperienceLevel    Evil_Cheap_Beasts_Level1
+    TargetNames                       =    EVIL_CHEAP_BEASTS
+    RequiredExperience                =    EXPERIENCE_REQUIRED_CHEAP_BEASTS_HORDE_1
+    ExperienceAward                   =    EXPERIENCE_AWARD_CHEAP_BEASTS_HORDE_1
+    Rank                              =    1
+    Upgrades                          =    Upgrade_ObjectLevel1
+    SelectionDecal
+        Texture               =    decal_I_level1
+        Texture2              =    decal_evil_CO
+        Style                 =    SHADOW_MERGE_DECAL
+        OpacityMin            =    80%
+        OpacityMax            =    100%
+        MinRadius             =    70
+        MaxRadius             =    200
+        MaxSelectedUnits      =    40
+    End
+END
+
+ExperienceLevel    Evil_Cheap_BeastsLevel2
+    TargetNames                       =    EVIL_CHEAP_BEASTS
+    RequiredExperience                =    EXPERIENCE_REQUIRED_CHEAP_BEASTS_HORDE_2
+    ExperienceAward                   =    EXPERIENCE_AWARD_CHEAP_BEASTS_HORDE_2
+    Rank                              =    2
+    Upgrades                          =    Upgrade_ObjectLevel2
+    AttributeModifiers                =    CheapBeastsHordeBonusRank2
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+    SelectionDecal
+        Texture               =    decal_I_level2
+        Texture2              =    decal_evil_CO
+        Style                 =    SHADOW_MERGE_DECAL
+        OpacityMin            =    80%
+        OpacityMax            =    100%
+        MinRadius             =    70
+        MaxRadius             =    200
+        MaxSelectedUnits      =    40
+    End
+END
+
+ExperienceLevel    Evil_Cheap_BeastsLevel3
+    TargetNames                       =    EVIL_CHEAP_BEASTS
+    RequiredExperience                =    EXPERIENCE_REQUIRED_CHEAP_BEASTS_HORDE_3
+    ExperienceAward                   =    EXPERIENCE_AWARD_CHEAP_BEASTS_HORDE_3
+    Rank                              =    3
+    Upgrades                          =    Upgrade_ObjectLevel3
+    AttributeModifiers                =    CheapBeastsHordeBonusRank3
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+    SelectionDecal
+        Texture               =    decal_I_level3
+        Texture2              =    decal_evil_CO
+        Style                 =    SHADOW_MERGE_DECAL
+        OpacityMin            =    80%
+        OpacityMax            =    100%
+        MinRadius             =    70
+        MaxRadius             =    200
+        MaxSelectedUnits      =    40
+    End
+END
+
+ExperienceLevel    Evil_Cheap_BeastsLevel4
+    TargetNames                       =    EVIL_CHEAP_BEASTS
+    RequiredExperience                =    EXPERIENCE_REQUIRED_CHEAP_BEASTS_HORDE_4
+    ExperienceAward                   =    EXPERIENCE_AWARD_CHEAP_BEASTS_HORDE_4
+    Rank                              =    4
+    Upgrades                          =    Upgrade_ObjectLevel4
+    AttributeModifiers                =    CheapBeastsHordeBonusRank4
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+    SelectionDecal
+        Texture               =    decal_I_level4
+        Texture2              =    decal_evil_CO
+        Style                 =    SHADOW_MERGE_DECAL
+        OpacityMin            =    80%
+        OpacityMax            =    100%
+        MinRadius             =    70
+        MaxRadius             =    200
+        MaxSelectedUnits      =    40
+    End
+END
+
+ExperienceLevel    Evil_Cheap_BeastsLevel5
+    TargetNames                       =    EVIL_CHEAP_BEASTS
+    RequiredExperience                =    EXPERIENCE_REQUIRED_CHEAP_BEASTS_HORDE_5
+    ExperienceAward                   =    EXPERIENCE_AWARD_CHEAP_BEASTS_HORDE_5
+    Rank                              =    5
+    Upgrades                          =    Upgrade_ObjectLevel5
+    AttributeModifiers                =    CheapBeastsHordeBonusRank5
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+    SelectionDecal
+        Texture               =    decal_I_level5
+        Texture2              =    decal_evil_CO
+        Style                 =    SHADOW_MERGE_DECAL
+        OpacityMin            =    80%
+        OpacityMax            =    100%
+        MinRadius             =    70
+        MaxRadius             =    200
+        MaxSelectedUnits      =    40
+    End
+END
+
+
+;----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+

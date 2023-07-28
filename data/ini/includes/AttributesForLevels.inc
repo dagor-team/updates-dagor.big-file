@@ -513,3 +513,165 @@ ModifierList BasicCavHordeBonusRank5
     Modifier = DAMAGE_ADD BASICCAV_HORDE_DAMAGE_ADD_LVL5
     Duration = 0
 End
+
+
+;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+ModifierList RegularCavHordeBonusRank2
+    Category = LEVEL
+    Modifier = HEALTH REGULARCAV_HORDE_HP_ADD_LVL2
+    Modifier = DAMAGE_ADD REGULARCAV_HORDE_DAMAGE_ADD_LVL2
+    Duration = 0
+End
+
+ModifierList RegularCavHordeBonusRank3
+    Category = LEVEL
+    Modifier = HEALTH REGULARCAV_HORDE_HP_ADD_LVL3
+    Modifier = DAMAGE_ADD REGULARCAV_HORDE_DAMAGE_ADD_LVL3
+    Duration = 0
+End
+
+ModifierList RegularCavHordeBonusRank4
+    Category = LEVEL
+    Modifier = HEALTH REGULARCAV_HORDE_HP_ADD_LVL4
+    Modifier = DAMAGE_ADD REGULARCAV_HORDE_DAMAGE_ADD_LVL4
+    Duration = 0
+End
+
+ModifierList RegularCavHordeBonusRank5
+    Category = LEVEL
+    Modifier = HEALTH REGULARCAV_HORDE_HP_ADD_LVL5
+    Modifier = DAMAGE_ADD REGULARCAV_HORDE_DAMAGE_ADD_LVL5
+    Duration = 0
+End
+
+;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+ModifierList AdvancedCavHordeBonusRank2
+    Category = LEVEL
+    Modifier = HEALTH ADVANCEDCAV_HORDE_HP_ADD_LVL2
+    Modifier = DAMAGE_ADD ADVANCEDCAV_HORDE_DAMAGE_ADD_LVL2
+    Duration = 0
+End
+
+ModifierList AdvancedCavHordeBonusRank3
+    Category = LEVEL
+    Modifier = HEALTH ADVANCEDCAV_HORDE_HP_ADD_LVL3
+    Modifier = DAMAGE_ADD ADVANCEDCAV_HORDE_DAMAGE_ADD_LVL3
+    Duration = 0
+End
+
+ModifierList AdvancedCavHordeBonusRank4
+    Category = LEVEL
+    Modifier = HEALTH ADVANCEDCAV_HORDE_HP_ADD_LVL4
+    Modifier = DAMAGE_ADD ADVANCEDCAV_HORDE_DAMAGE_ADD_LVL4
+    Duration = 0
+End
+
+ModifierList AdvancedCavHordeBonusRank5
+    Category = LEVEL
+    Modifier = HEALTH ADVANCEDCAV_HORDE_HP_ADD_LVL5
+    Modifier = DAMAGE_ADD ADVANCEDCAV_HORDE_DAMAGE_ADD_LVL5
+    Duration = 0
+End
+
+;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+ModifierList EliteCavHordeBonusRank2
+    Category = LEVEL
+    Modifier = HEALTH ELITE_CAVALRY_HORDE_HP_ADD_LVL2
+    Modifier = DAMAGE_ADD ELITE_CAVALRY_HORDE_DAMAGE_ADD_LVL2
+    Duration = 0
+End
+
+ModifierList EliteCavHordeBonusRank3
+    Category = LEVEL
+    Modifier = HEALTH ELITE_CAVALRY_HORDE_HP_ADD_LVL3
+    Modifier = DAMAGE_ADD ELITE_CAVALRY_HORDE_DAMAGE_ADD_LVL3
+    Duration = 0
+End
+
+ModifierList EliteCavHordeBonusRank4
+    Category = LEVEL
+    Modifier = HEALTH ELITE_CAVALRY_HORDE_HP_ADD_LVL4
+    Modifier = DAMAGE_ADD ELITE_CAVALRY_HORDE_DAMAGE_ADD_LVL4
+    Duration = 0
+End
+
+ModifierList EliteCavHordeBonusRank5
+    Category = LEVEL
+    Modifier = HEALTH ELITE_CAVALRY_HORDE_HP_ADD_LVL5
+    Modifier = DAMAGE_ADD ELITE_CAVALRY_HORDE_DAMAGE_ADD_LVL5
+    Duration = 0
+End
+
+ModifierList EliteCavHordeBonusRank6
+    Category = LEVEL
+    Modifier = HEALTH ELITE_CAVALRY_HORDE_HP_ADD_LVL6
+    Modifier = DAMAGE_ADD ELITE_CAVALRY_HORDE_DAMAGE_ADD_LVL6
+    Duration = 0
+End
+
+ModifierList EliteCavHordeBonusRank7
+    Category = LEVEL
+    Modifier = HEALTH ELITE_CAVALRY_HORDE_HP_ADD_LVL7
+    Modifier = DAMAGE_ADD ELITE_CAVALRY_HORDE_DAMAGE_ADD_LVL7
+    Duration = 0
+End
+
+ModifierList EliteCavHordeBonusRank8
+    Category = LEVEL
+    Modifier = HEALTH ELITE_CAVALRY_HORDE_HP_ADD_LVL8
+    Modifier = DAMAGE_ADD ELITE_CAVALRY_HORDE_DAMAGE_ADD_LVL8
+    Duration = 0
+End
+
+ModifierList EliteCavHordeBonusRank9
+    Category = LEVEL
+    Modifier = HEALTH ELITE_CAVALRY_HORDE_HP_ADD_LVL9
+    Modifier = DAMAGE_ADD ELITE_CAVALRY_HORDE_DAMAGE_ADD_LVL9
+    Duration = 0
+End
+
+ModifierList EliteCavHordeBonusRank10
+    Category = LEVEL
+    Modifier = HEALTH ELITE_CAVALRY_HORDE_HP_ADD_LVL10
+    Modifier = DAMAGE_ADD ELITE_CAVALRY_HORDE_DAMAGE_ADD_LVL10
+    Duration = 0
+End
+
+
+;----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ModifierList CheapBeastsHordeBonusRank2
+    Category = LEVEL
+    Modifier = HEALTH CHEAPBEASTS_HORDE_HP_ADD_LVL2
+    Modifier = DAMAGE_ADD CHEAPBEASTS_HORDE_DAMAGE_ADD_LVL2
+    Duration = 0
+End
+
+ModifierList CheapBeastsHordeBonusRank3
+    Category = LEVEL
+    Modifier = HEALTH CHEAPBEASTS_HORDE_HP_ADD_LVL3
+    Modifier = DAMAGE_ADD CHEAPBEASTS_HORDE_DAMAGE_ADD_LVL3
+    Duration = 0
+End
+
+ModifierList CheapBeastsHordeBonusRank4
+    Category = LEVEL
+    Modifier = HEALTH CHEAPBEASTS_HORDE_HP_ADD_LVL4
+    Modifier = DAMAGE_ADD CHEAPBEASTS_HORDE_DAMAGE_ADD_LVL4
+    Duration = 0
+End
+
+ModifierList CheapBeastsHordeBonusRank5
+    Category = LEVEL
+    Modifier = HEALTH CHEAPBEASTS_HORDE_HP_ADD_LVL5
+    Modifier = DAMAGE_ADD CHEAPBEASTS_HORDE_DAMAGE_ADD_LVL5
+    Duration = 0
+End
