@@ -43114,6 +43114,10 @@ CONTROLBAR:GenericMountTooltip
 "Left-click to mount or dismount"
 END
 
+CONTROLBAR:WitchkingMountTooltip
+"Requires: Level 2 \n Left-click to ride or \n to walk"
+END
+
 CONTROLBAR:ToolTipSummonEntAllies
 "Summon Ents \n Left-click on the icon, and then click a passable area"
 END

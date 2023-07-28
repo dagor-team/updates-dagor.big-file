@@ -59,4 +59,6 @@
 	-angamr(Fixed)
 		-soul collectors		shows 50 actually cost 45(Fixed)
 		-dire wolf			shows 40 actually cost 30(Fixed)
+		- Witchking Word of Power reset (fixed)
+		- Silmaril word of power (fixed)
 11
