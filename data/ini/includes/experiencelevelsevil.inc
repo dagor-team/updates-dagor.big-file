@@ -1,14 +1,23 @@
-#define EVIL_EXPANDABLE MordorGoblinSwordsman MordorGoblinFighterHorde MordorGoblinSwordsman_Slaved MordorGoblinArcher MordorGoblinArcherHorde MordorGoblinArcher_Slaved Isengardorcfighter IsengardorcfighterHorde WildPlunderork WildPlunderorkHorde GoblinFighter GoblinFighterHorde WildBannerGoblin GoblinSpear GoblinSpearHorde GoblinSpearHordeFormation GoblinSpearHorde_FromDefectedLair GoblinArcher GoblinArcher1 GoblinArcher2 GoblinArcherHorde GoblinArcherHorde_FromDefectedLair GoblinArcherHordeFormation MordorBannerOrc MordorFighter MordorFighterHorde MordorFighterHorde_Summoned MordorFighter_Gorthaur MordorFighterHordeGorthaur_Summoned MordorAufseherFighterHordeComboHorde MordorAufseherHorde MordorAufseher02Horde MordorAufseher_forHorde MordorAufseher02_forHorde MordorMorgulOrk MordorMorgulOrk_Summoned MordorMorgulOrkHorde MordorMorgulOrkHorde_Summoned MordorAufseherCirithOrkHordeComboHorde MordorAufseherCirithOrkHordeComboHordePorcupine MordorAufseherMorgulOrkHordeComboHorde MordorAufseherPikemanHordeComboHorde AngmarOrcWarriors_Summoned AngmarOrcWarriors AngmarOrcWarrior AngmarOrcWarrior_Summoned WildSklaven WildSklaveHobbit WildSklaveZwerg WildSklaveBauer1 WildSklaveBauer2 WildSklavenHorde WildSklavenHordeFree DwarvenSklaven GoblinTunnel GoblinTunnelHorde GoblinFighterHorde_FromDefectedLair GoblinFighteGroßork GoblinFighteGroßorkHorde GoblinFighterHordeFormation MordorCirithOrk MordorCirithOrk_Summoned MordorCirithOrkHorde MordorCirithOrkHorde_Summoned MordorCirithOrkHordePorcupine MordorCirithSchnuffler MordorPikeman MordorPikemanHorde MordorPikemanHordePorcupine MordorAufseherGuldurOrkHordeComboHorde
+#define EVIL_EXPANDABLE MordorGoblinSwordsman MordorGoblinFighterHorde MordorGoblinSwordsman_Slaved MordorGoblinArcher MordorGoblinArcherHorde MordorGoblinArcher_Slaved Isengardorcfighter IsengardorcfighterHorde WildPlunderork WildPlunderorkHorde GoblinFighter GoblinFighterHorde WildBannerGoblin GoblinSpear GoblinSpearHorde GoblinSpearHordeFormation GoblinSpearHorde_FromDefectedLair GoblinArcher GoblinArcher1 GoblinArcher2 GoblinArcherHorde GoblinArcherHorde_FromDefectedLair GoblinArcherHordeFormation MordorBannerOrc MordorFighter MordorFighterHorde MordorFighterHorde_Summoned MordorFighter_Gorthaur MordorFighterHordeGorthaur_Summoned MordorAufseherFighterHordeComboHorde MordorAufseherHorde MordorAufseher02Horde MordorAufseher_forHorde MordorAufseher02_forHorde MordorMorgulOrk   MordorMorgulOrkHorde  MordorAufseherCirithOrkHordeComboHorde MordorAufseherCirithOrkHordeComboHordePorcupine MordorAufseherMorgulOrkHordeComboHorde MordorAufseherPikemanHordeComboHorde AngmarOrcWarriors AngmarOrcWarrior WildSklaven WildSklaveHobbit WildSklaveZwerg WildSklaveBauer1 WildSklaveBauer2 WildSklavenHorde WildSklavenHordeFree DwarvenSklaven GoblinTunnel GoblinTunnelHorde GoblinFighterHorde_FromDefectedLair GoblinFighteGroßork GoblinFighteGroßorkHorde GoblinFighterHordeFormation MordorCirithOrk MordorCirithOrkHorde MordorCirithOrkHordePorcupine MordorCirithSchnuffler MordorPikeman MordorPikemanHorde MordorPikemanHordePorcupine MordorAufseherGuldurOrkHordeComboHorde
 
-#define EVIL_CHEAP GoblinFighterHordeUpgraded GoblinFighterUpgraded GoblinSpearUpgraded GoblinSpearHordeUpgraded GoblinArcherBolg GoblinArcherBolgHorde MordorArcher MordorArcherForSlaved MordorArcherForBlackGate MordorArcherForGrond MordorArcher_Slaved MordorArcherBarricade_Slaved MordorArcherHorde MordorAufseherArcherHordeComboHorde MordorAufseherArcherHordeComboHorde_Fire MordorAufseher02ArcherHordeComboHorde_Fire MordorAufseher02ArcherHordeComboHorde AngmarRhudaurSpearmen AngmarRhudaurSpearman AngmarRhudaurSlingers AngmarRhudaurSpearmenNoBanner AngmarRhudaurSpearmenArnorBanner RhudaurSpearman_Summoned AngmarRhudaurSlinger AngmarRhudaurSlingersNoBanner IsengardWildman IsengardWildman_Summoned IsengardWildmanHorde IsengardWildmanHordeKampagne IsengardWildmanAxe IsengardWildmanAxe_Summoned IsengardWildmanAxeHorde IsengardWildSpearman IsengardWildSpearmanHorde IsengardWildmanAxeHordeMod IsengardWildmanAxeHordeModKampagne IsengardWildmanAxeHordeKampagne RhudaurSpearmenHorde_Summoned RhudaurSlinger_Summoned RhudaurSlingerHorde_Summoned AngmarBannerOrcWarrior WildBannerGoblinBolg MordorAufseher
+#define EVIL_EXPANDABLE_SUMMONED MordorMorgulOrk_Summoned MordorMorgulOrkHorde_Summoned AngmarOrcWarriors_Summoned AngmarOrcWarrior_Summoned MordorCirithOrk_Summoned MordorCirithOrkHorde_Summoned
 
-#define EVIL_BASIC EvilmenHaradSword EvilmenHaradSwordHorde EvilmenHaradSwordHordeBlock MordorCorsairsOfUmbar MordorCorsairsOfUmbarHorde MordorCorsairBanner MordorCorsairsOfUmbarHordeInn MordorCorsairsOfUmbarHordeFree WildCorsairsOfUmbarHordeFree WildCorsairsOfUmbarHordeInn DolguldurArcher DolguldurArcherHorde MordorBlackOrc_mod MordorBlackOrcHorde_mod MordorBlackOrcHorde_Summoned MordorBlackOrc_Summoned AngmarThrallMaster AngmarThrallMasterBanner AngmarThrallMasterAxeBanner CorsairsOfUmbar CorsairsOfUmbarHorde
+#define EVIL_CHEAP GoblinFighterHordeUpgraded GoblinFighterUpgraded GoblinSpearUpgraded GoblinSpearHordeUpgraded GoblinArcherBolg GoblinArcherBolgHorde MordorArcher MordorArcherForSlaved MordorArcherForBlackGate MordorArcherForGrond MordorArcher_Slaved MordorArcherBarricade_Slaved MordorArcherHorde MordorAufseherArcherHordeComboHorde MordorAufseherArcherHordeComboHorde_Fire MordorAufseher02ArcherHordeComboHorde_Fire MordorAufseher02ArcherHordeComboHorde AngmarRhudaurSpearmen AngmarRhudaurSpearman AngmarRhudaurSlingers AngmarRhudaurSpearmenNoBanner AngmarRhudaurSpearmenArnorBanner AngmarRhudaurSlinger AngmarRhudaurSlingersNoBanner IsengardWildman IsengardWildmanHorde IsengardWildmanHordeKampagne IsengardWildmanAxe IsengardWildmanAxeHorde IsengardWildSpearman IsengardWildSpearmanHorde IsengardWildmanAxeHordeMod IsengardWildmanAxeHordeModKampagne IsengardWildmanAxeHordeKampagne AngmarBannerOrcWarrior WildBannerGoblinBolg MordorAufseher
 
-#define EVIL_REGULAR_15 MordorEasterling MordorEasterlingHorde MordorEasterlingPorcupineHorde MordorEasterlingHordeMod MordorEasterlingHordePorcupineMod IsengardFighter IsengardFighter_Summoned IsengardFighterHorde IsengardFighterHorde_Summoned IsengardFighterHordeBlock IsengardPikeman IsengardPikeman_Summoned IsengardPikemanHorde IsengardPikemanHorde_Summoned IsengardPikemanHordePorcupine IsengardUrukCrossbow IsengardUrukCrossbow_Summoned IsengardUrukCrossbowHorde IsengardUrukCrossbowHorde_Summoned IsengardShielduruk IsengardShielduruk_Summoned IsengardShieldurukHorde IsengardShieldurukHorde_Summoned IsengardPikemanShieldurukComboHorde IsengardShieldurukCrossbowComboHorde IsengardShieldurukCrossbowComboHorde_Summoned IsengardPikemanShieldurukComboHorde_Summoned IsengardFighterShieldurukComboHorde IsengardFighterShieldurukComboHorde_Summoned
+#define EVIL_CHEAP_SUMMONED RhudaurSpearman_Summoned IsengardWildman_Summoned IsengardWildmanAxe_Summoned RhudaurSpearmenHorde_Summoned RhudaurSlinger_Summoned RhudaurSlingerHorde_Summoned MordorBlackOrcHorde_Summoned MordorBlackOrc_Summoned
 
-#define EVIL_REGULAR WildMarauder WildMarauderHorde WildMarauderHordeFormation WildBannerMarauder WildGundabadBanner WildGundabadArcher WildGundabadArcherHorde WildGundabadMarauderSwords WildGundabadMarauderSwordHorde HaradHaradrimLancer HaradHaradrimLancerHorde HaradHaradrimBanner HaradHaradrimArcher HaradHaradrimArcherHorde MordorHaradrimArcherHordeMod UmbarCorsairarcher UmbarCorsairarcher_Slaved UmbarCorsairarcherFloatingBuilding_Slaved UmbarCorsairarcherHorde MordorBlackUrukBanner MordorCirithSchnuffler AngmarOrkSchlachter AngmarBannerOrc AngmarOrkSchlachter1 AngmarOrkSchlachter2 AngmarOrkSchlachter3 AngmarOrkSchlachter4 AngmarOrkSchlachter5 AngmarOrkSchlachter6 AngmarOrkSchlachter7 AngmarOrkSchlachterHorde AngmarOrkSchlachterHordeFree MordorBlackUruk MordorBlackUruk_Summoned MordorUrukBanner MordorBlackUrukBow MordorBlackUrukBow_Summoned MordorBlackUrukBowHorde MordorBlackUrukBowHorde_Limit MordorBlackUrukBowHorde_Summoned MordorBlackUrukBowHorde_forTower MordorBlackUrukHorde MordorBlackUrukHorde_Limit MordorBlackUrukHorde_Summoned MordorBlackUrukHorde_forTower AngmarRhudaurKnochenbrecher AngmarRhudaurKnochenbrecherHorde AngmarRhudaurKnochenbrecher_Summoned AngmarRhudaurKnochenbrecherHorde_Summoned AngmarInfantryBanner AngmarDarkDunedainHorde AngmarDarkDunedainHorde_Edikt AngmarDarkDunedain AngmarDarkDunedainHorde_Summoned AngmarDunedainPikeman AngmarDunedainPikemanHorde AngmarDunedainPikemanHorde_Edikt AngmarDunedainPikemanHordePorcupine AngmarDunedainPikemanHordePorcupine_Edikt AngmarNecroAcolyte AngmarNecroAcolyte_Summoned IsengardUrukScout IsengardUrukScoutHorde IsengardScoutBanner IsengardWildelite IsengardWildelite_Summoned IsengardWildeliteHorde IsengardWildeliteHorde_Summoned IsengardWildeliteHordeKampagne HaradArcher HaradArcherHorde HaradArcherMumak HaradArcherMumakil HaradArcherBarricade_Slaved
+#define EVIL_BASIC EvilmenHaradSword EvilmenHaradSwordHorde EvilmenHaradSwordHordeBlock MordorCorsairsOfUmbar MordorCorsairsOfUmbarHorde MordorCorsairBanner MordorCorsairsOfUmbarHordeInn MordorCorsairsOfUmbarHordeFree WildCorsairsOfUmbarHordeFree WildCorsairsOfUmbarHordeInn DolguldurArcher DolguldurArcherHorde MordorBlackOrc_mod MordorBlackOrcHorde_mod AngmarThrallMaster AngmarThrallMasterBanner AngmarThrallMasterAxeBanner CorsairsOfUmbar CorsairsOfUmbarHorde
 
-#define EVIL_ADVANCED WildGundabadPike WildGundabadPikesHorde WildGundabadPikesHordePorcupine WildMarauderSwords WildMarauderSwordHorde WildMarauderSwordBanner MordorRhunSword MordorRhunSwordHorde MordorRhunSwordHordeShieldWall AngmarDarkRangerHorde AngmarDarkRangerHorde_Edikt AngmarDarkRanger AngmarRangerBanner AngmarDarkRangerHorde_Summoned
+#define EVIL_REGULAR_15 MordorEasterling MordorEasterlingHorde MordorEasterlingPorcupineHorde MordorEasterlingHordeMod MordorEasterlingHordePorcupineMod IsengardFighter IsengardFighterHorde IsengardFighterHordeBlock IsengardPikeman IsengardPikemanHorde IsengardPikemanHordePorcupine IsengardUrukCrossbow IsengardUrukCrossbowHorde IsengardShielduruk IsengardShieldurukHorde IsengardPikemanShieldurukComboHorde IsengardShieldurukCrossbowComboHorde IsengardFighterShieldurukComboHorde
+
+#define EVIL_REGULAR_15_SUMMONED IsengardFighter_Summoned IsengardFighterHorde_Summoned IsengardPikeman_Summoned IsengardPikemanHorde_Summoned IsengardUrukCrossbow_Summoned IsengardUrukCrossbowHorde_Summoned IsengardShielduruk_Summoned IsengardShieldurukHorde_Summoned
+IsengardShieldurukCrossbowComboHorde_Summoned IsengardPikemanShieldurukComboHorde_Summoned IsengardFighterShieldurukComboHorde_Summoned
+
+#define EVIL_REGULAR WildMarauder WildMarauderHorde WildMarauderHordeFormation WildBannerMarauder WildGundabadBanner WildGundabadArcher WildGundabadArcherHorde WildGundabadMarauderSwords WildGundabadMarauderSwordHorde HaradHaradrimLancer HaradHaradrimLancerHorde HaradHaradrimBanner HaradHaradrimArcher HaradHaradrimArcherHorde MordorHaradrimArcherHordeMod UmbarCorsairarcher UmbarCorsairarcher_Slaved UmbarCorsairarcherFloatingBuilding_Slaved UmbarCorsairarcherHorde MordorBlackUrukBanner MordorCirithSchnuffler AngmarOrkSchlachter AngmarBannerOrc AngmarOrkSchlachter1 AngmarOrkSchlachter2 AngmarOrkSchlachter3 AngmarOrkSchlachter4 AngmarOrkSchlachter5 AngmarOrkSchlachter6 AngmarOrkSchlachter7 AngmarOrkSchlachterHorde AngmarOrkSchlachterHordeFree MordorBlackUruk  MordorUrukBanner MordorBlackUrukBow  MordorBlackUrukBowHorde MordorBlackUrukBowHorde_Limit MordorBlackUrukBowHorde_forTower MordorBlackUrukHorde MordorBlackUrukHorde_Limit MordorBlackUrukHorde_forTower AngmarRhudaurKnochenbrecher AngmarRhudaurKnochenbrecherHorde AngmarInfantryBanner AngmarDarkDunedainHorde AngmarDarkDunedainHorde_Edikt AngmarDarkDunedain AngmarDunedainPikeman AngmarDunedainPikemanHorde AngmarDunedainPikemanHorde_Edikt AngmarDunedainPikemanHordePorcupine AngmarDunedainPikemanHordePorcupine_Edikt AngmarNecroAcolyte AngmarNecroAcolyte_Summoned IsengardUrukScout IsengardUrukScoutHorde IsengardScoutBanner IsengardWildelite IsengardWildeliteHorde IsengardWildeliteHordeKampagne HaradArcher HaradArcherHorde HaradArcherMumak HaradArcherMumakil HaradArcherBarricade_Slaved
+
+#define EVIL_REGULAR_SUMMONED MordorBlackUruk_Summoned MordorBlackUrukBow_Summoned MordorBlackUrukBowHorde_Summoned MordorBlackUrukHorde_Summoned AngmarRhudaurKnochenbrecher_Summoned AngmarRhudaurKnochenbrecherHorde_Summoned IsengardWildelite_Summoned IsengardWildeliteHorde_Summoned AngmarDarkDunedainHorde_Summoned AngmarDarkRangerHorde_Summoned
+
+#define EVIL_ADVANCED WildGundabadPike WildGundabadPikesHorde WildGundabadPikesHordePorcupine WildMarauderSwords WildMarauderSwordHorde WildMarauderSwordBanner MordorRhunSword MordorRhunSwordHorde MordorRhunSwordHordeShieldWall AngmarDarkRangerHorde AngmarDarkRangerHorde_Edikt AngmarDarkRanger AngmarRangerBanner
 
 #define EVIL_ADVANCED_8 AngmarHillTrollEdain AngmarHillTrollEdain_Summoned AngmarSnowTrollEdain AngmarSnowTrollEdain_Summoned AngmarSnowTrollHorde AngmarSnowTroll AngmarBannerSnowTroll AngmarBannerDireSnowTroll AngmarHillTrollHorde AngmarHillTroll AngmarBannerHillTroll
 
@@ -75,7 +84,23 @@
 
 
 
-
+ExperienceLevel    Evil_Expandable_Infantry_Summoned
+    TargetNames                       =    EVIL_EXPANDABLE_SUMMONED
+    RequiredExperience                =    EXPERIENCE_REQUIRED_EXPANDABLE_HORDE_1
+    ExperienceAward                   =    EXPERIENCE_AWARD_EXPANDABLE_HORDE_1
+    Rank                              =    1
+    Upgrades                          =    Upgrade_ObjectLevel1
+    SelectionDecal
+        Texture               =    decal_I_level1
+        Texture2              =    decal_evil_CO
+        Style                 =    SHADOW_MERGE_DECAL
+        OpacityMin            =    80%
+        OpacityMax            =    100%
+        MinRadius             =    70
+        MaxRadius             =    200
+        MaxSelectedUnits      =    40
+    End
+END
 
 
 
@@ -200,6 +225,23 @@ END
 
 ;--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+ExperienceLevel    Evil_Cheap_Infantry_Summoned
+    TargetNames                       =    EVIL_CHEAP_SUMMONED
+    RequiredExperience                =    EXPERIENCE_REQUIRED_CHEAP_HORDE_1
+    ExperienceAward                   =    EXPERIENCE_AWARD_CHEAP_HORDE_1
+    Rank                              =    1
+    Upgrades                          =    Upgrade_ObjectLevel1
+    SelectionDecal
+        Texture               =    decal_I_level1
+        Texture2              =    decal_evil_CO
+        Style                 =    SHADOW_MERGE_DECAL
+        OpacityMin            =    80%
+        OpacityMax            =    100%
+        MinRadius             =    70
+        MaxRadius             =    200
+        MaxSelectedUnits      =    40
+    End
+END
 
 ExperienceLevel    Evil_Cheap_Infantry_Level1
     TargetNames                       =    EVIL_CHEAP
@@ -319,7 +361,7 @@ ExperienceLevel    Evil_Cheap_InfantryLevel5
     End
 END
 
-;-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 ExperienceLevel    Evil_Basic_Infantry_Level1
@@ -440,7 +482,25 @@ ExperienceLevel    Evil_Basic_InfantryLevel5
     End
 END
 
-;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+;--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ExperienceLevel    Evil_Regular15_Infantry_Summoned
+    TargetNames                       =    EVIL_REGULAR_15_SUMMONED
+    RequiredExperience                =    EXPERIENCE_REQUIRED_REGULAR_15_HORDE_1
+    ExperienceAward                   =    EXPERIENCE_AWARD_REGULAR_15_HORDE_1
+    Rank                              =    1
+    Upgrades                          =    Upgrade_ObjectLevel1
+    SelectionDecal
+        Texture               =    decal_I_level1
+        Texture2              =    decal_evil_CO
+        Style                 =    SHADOW_MERGE_DECAL
+        OpacityMin            =    80%
+        OpacityMax            =    100%
+        MinRadius             =    70
+        MaxRadius             =    200
+        MaxSelectedUnits      =    40
+    End
+END
 
 ExperienceLevel    Evil_Regular15_Infantry_Level1
     TargetNames                       =    EVIL_REGULAR_15
@@ -561,8 +621,26 @@ ExperienceLevel    Evil_Regular15_InfantryLevel5
 END
 
 
-;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+
+ExperienceLevel    Evil_Regular_Infantry_Summoned
+    TargetNames                       =    EVIL_REGULAR_SUMMONED
+    RequiredExperience                =    EXPERIENCE_REQUIRED_REGULAR_HORDE_1
+    ExperienceAward                   =    EXPERIENCE_AWARD_REGULAR_HORDE_1
+    Rank                              =    1
+    Upgrades                          =    Upgrade_ObjectLevel1
+    SelectionDecal
+        Texture               =    decal_I_level1
+        Texture2              =    decal_evil_CO
+        Style                 =    SHADOW_MERGE_DECAL
+        OpacityMin            =    80%
+        OpacityMax            =    100%
+        MinRadius             =    70
+        MaxRadius             =    200
+        MaxSelectedUnits      =    40
+    End
+END
 
 ExperienceLevel    Evil_Regular_Infantry_Level1
     TargetNames                       =    EVIL_REGULAR
