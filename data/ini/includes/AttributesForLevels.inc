@@ -675,3 +675,34 @@ ModifierList CheapBeastsHordeBonusRank5
     Modifier = DAMAGE_ADD CHEAPBEASTS_HORDE_DAMAGE_ADD_LVL5
     Duration = 0
 End
+
+;----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ModifierList BasicBeastsHordeBonusRank2
+    Category = LEVEL
+    Modifier = HEALTH BASICBEASTS_HORDE_HP_ADD_LVL2
+    Modifier = DAMAGE_ADD BASICBEASTS_HORDE_DAMAGE_ADD_LVL2
+    Duration = 0
+End
+
+ModifierList BasicBeastsHordeBonusRank3
+    Category = LEVEL
+    Modifier = HEALTH BASICBEASTS_HORDE_HP_ADD_LVL3
+    Modifier = DAMAGE_ADD BASICBEASTS_HORDE_DAMAGE_ADD_LVL3
+    Duration = 0
+End
+
+ModifierList BasicBeastsHordeBonusRank4
+    Category = LEVEL
+    Modifier = HEALTH BASICBEASTS_HORDE_HP_ADD_LVL4
+    Modifier = DAMAGE_ADD BASICBEASTS_HORDE_DAMAGE_ADD_LVL4
+    Duration = 0
+End
+
+ModifierList BasicBeastsHordeBonusRank5
+    Category = LEVEL
+    Modifier = HEALTH BASICBEASTS_HORDE_HP_ADD_LVL5
+    Modifier = DAMAGE_ADD BASICBEASTS_HORDE_DAMAGE_ADD_LVL5
+    Duration = 0
+End
+

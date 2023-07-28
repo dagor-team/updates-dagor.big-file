@@ -2977,4 +2977,125 @@ END
 
 ;----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+ExperienceLevel    Evil_Basic_Beasts_Level1
+    TargetNames                       =    EVIL_BASIC_BEASTS
+    RequiredExperience                =    EXPERIENCE_REQUIRED_BASIC_BEASTS_HORDE_1
+    ExperienceAward                   =    EXPERIENCE_AWARD_BASIC_BEASTS_HORDE_1
+    Rank                              =    1
+    Upgrades                          =    Upgrade_ObjectLevel1
+    SelectionDecal
+        Texture               =    decal_I_level1
+        Texture2              =    decal_evil_CO
+        Style                 =    SHADOW_MERGE_DECAL
+        OpacityMin            =    80%
+        OpacityMax            =    100%
+        MinRadius             =    70
+        MaxRadius             =    200
+        MaxSelectedUnits      =    40
+    End
+END
+
+ExperienceLevel    Evil_Basic_BeastsLevel2
+    TargetNames                       =    EVIL_BASIC_BEASTS
+    RequiredExperience                =    EXPERIENCE_REQUIRED_BASIC_BEASTS_HORDE_2
+    ExperienceAward                   =    EXPERIENCE_AWARD_BASIC_BEASTS_HORDE_2
+    Rank                              =    2
+    Upgrades                          =    Upgrade_ObjectLevel2
+    AttributeModifiers                =    BasicBeastsHordeBonusRank2
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+    SelectionDecal
+        Texture               =    decal_I_level2
+        Texture2              =    decal_evil_CO
+        Style                 =    SHADOW_MERGE_DECAL
+        OpacityMin            =    80%
+        OpacityMax            =    100%
+        MinRadius             =    70
+        MaxRadius             =    200
+        MaxSelectedUnits      =    40
+    End
+END
+
+ExperienceLevel    Evil_Basic_BeastsLevel3
+    TargetNames                       =    EVIL_BASIC_BEASTS
+    RequiredExperience                =    EXPERIENCE_REQUIRED_BASIC_BEASTS_HORDE_3
+    ExperienceAward                   =    EXPERIENCE_AWARD_BASIC_BEASTS_HORDE_3
+    Rank                              =    3
+    Upgrades                          =    Upgrade_ObjectLevel3
+    AttributeModifiers                =    BasicBeastsHordeBonusRank3
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+    SelectionDecal
+        Texture               =    decal_I_level3
+        Texture2              =    decal_evil_CO
+        Style                 =    SHADOW_MERGE_DECAL
+        OpacityMin            =    80%
+        OpacityMax            =    100%
+        MinRadius             =    70
+        MaxRadius             =    200
+        MaxSelectedUnits      =    40
+    End
+END
+
+ExperienceLevel    Evil_Basic_BeastsLevel4
+    TargetNames                       =    EVIL_BASIC_BEASTS
+    RequiredExperience                =    EXPERIENCE_REQUIRED_BASIC_BEASTS_HORDE_4
+    ExperienceAward                   =    EXPERIENCE_AWARD_BASIC_BEASTS_HORDE_4
+    Rank                              =    4
+    Upgrades                          =    Upgrade_ObjectLevel4
+    AttributeModifiers                =    BasicBeastsHordeBonusRank4
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+    SelectionDecal
+        Texture               =    decal_I_level4
+        Texture2              =    decal_evil_CO
+        Style                 =    SHADOW_MERGE_DECAL
+        OpacityMin            =    80%
+        OpacityMax            =    100%
+        MinRadius             =    70
+        MaxRadius             =    200
+        MaxSelectedUnits      =    40
+    End
+END
+
+ExperienceLevel    Evil_Basic_BeastsLevel5
+    TargetNames                       =    EVIL_BASIC_BEASTS
+    RequiredExperience                =    EXPERIENCE_REQUIRED_BASIC_BEASTS_HORDE_5
+    ExperienceAward                   =    EXPERIENCE_AWARD_BASIC_BEASTS_HORDE_5
+    Rank                              =    5
+    Upgrades                          =    Upgrade_ObjectLevel5
+    AttributeModifiers                =    BasicBeastsHordeBonusRank5
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+    SelectionDecal
+        Texture               =    decal_I_level5
+        Texture2              =    decal_evil_CO
+        Style                 =    SHADOW_MERGE_DECAL
+        OpacityMin            =    80%
+        OpacityMax            =    100%
+        MinRadius             =    70
+        MaxRadius             =    200
+        MaxSelectedUnits      =    40
+    End
+END
+
+
+;----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
