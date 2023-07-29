@@ -220,17 +220,17 @@
 ;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-#define EXPERIENCE_REQUIRED_ADVANCED_HORDE_1          1
-#define EXPERIENCE_REQUIRED_ADVANCED_HORDE_2        150
-#define EXPERIENCE_REQUIRED_ADVANCED_HORDE_3        230
-#define EXPERIENCE_REQUIRED_ADVANCED_HORDE_4        350
-#define EXPERIENCE_REQUIRED_ADVANCED_HORDE_5        500
+#define EXPERIENCE_REQUIRED_ADVANCED_CAV_HORDE_1          1
+#define EXPERIENCE_REQUIRED_ADVANCED_CAV_HORDE_2        150
+#define EXPERIENCE_REQUIRED_ADVANCED_CAV_HORDE_3        230
+#define EXPERIENCE_REQUIRED_ADVANCED_CAV_HORDE_4        350
+#define EXPERIENCE_REQUIRED_ADVANCED_CAV_HORDE_5        500
 
-#define EXPERIENCE_AWARD_ADVANCED_HORDE_1           10
-#define EXPERIENCE_AWARD_ADVANCED_HORDE_2           11
-#define EXPERIENCE_AWARD_ADVANCED_HORDE_3           11
-#define EXPERIENCE_AWARD_ADVANCED_HORDE_4           12
-#define EXPERIENCE_AWARD_ADVANCED_HORDE_5           13
+#define EXPERIENCE_AWARD_ADVANCED_CAV_HORDE_1           10
+#define EXPERIENCE_AWARD_ADVANCED_CAV_HORDE_2           11
+#define EXPERIENCE_AWARD_ADVANCED_CAV_HORDE_3           11
+#define EXPERIENCE_AWARD_ADVANCED_CAV_HORDE_4           12
+#define EXPERIENCE_AWARD_ADVANCED_CAV_HORDE_5           13
 
 ;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
