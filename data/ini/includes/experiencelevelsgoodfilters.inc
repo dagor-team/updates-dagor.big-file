@@ -1,86 +1,96 @@
-#define EVIL_EXPANDABLE MordorGoblinSwordsman MordorGoblinFighterHorde MordorGoblinSwordsman_Slaved MordorGoblinArcher MordorGoblinArcherHorde MordorGoblinArcher_Slaved Isengardorcfighter IsengardorcfighterHorde WildPlunderork WildPlunderorkHorde GoblinFighter GoblinFighterHorde WildBannerGoblin GoblinSpear GoblinSpearHorde GoblinSpearHordeFormation GoblinSpearHorde_FromDefectedLair GoblinArcher GoblinArcher1 GoblinArcher2 GoblinArcherHorde GoblinArcherHorde_FromDefectedLair GoblinArcherHordeFormation MordorBannerOrc MordorFighter MordorFighterHorde MordorFighterHorde_Summoned MordorFighter_Gorthaur MordorFighterHordeGorthaur_Summoned MordorAufseherFighterHordeComboHorde MordorAufseherHorde MordorAufseher02Horde MordorAufseher_forHorde MordorAufseher02_forHorde MordorMorgulOrk MordorMorgulOrk_Summoned MordorMorgulOrkHorde MordorMorgulOrkHorde_Summoned MordorAufseherCirithOrkHordeComboHorde MordorAufseherCirithOrkHordeComboHordePorcupine MordorAufseherMorgulOrkHordeComboHorde MordorAufseherPikemanHordeComboHorde AngmarOrcWarriors_Summoned AngmarOrcWarriors AngmarOrcWarrior AngmarOrcWarrior_Summoned WildSklaven WildSklaveHobbit WildSklaveZwerg WildSklaveBauer1 WildSklaveBauer2 WildSklavenHorde WildSklavenHordeFree DwarvenSklaven GoblinTunnel GoblinTunnelHorde GoblinFighterHorde_FromDefectedLair GoblinFighteGroßork GoblinFighteGroßorkHorde GoblinFighterHordeFormation MordorCirithOrk MordorCirithOrk_Summoned MordorCirithOrkHorde MordorCirithOrkHorde_Summoned MordorCirithOrkHordePorcupine MordorCirithSchnuffler MordorPikeman MordorPikemanHorde MordorPikemanHordePorcupine MordorAufseherGuldurOrkHordeComboHorde
+#define GOOD_EXPANDABLE MordorGoblinSwordsman MordorGoblinFighterHorde 
 
-#define EVIL_CHEAP GoblinFighterHordeUpgraded GoblinFighterUpgraded GoblinSpearUpgraded GoblinSpearHordeUpgraded GoblinArcherBolg GoblinArcherBolgHorde MordorArcher MordorArcherForSlaved MordorArcherForBlackGate MordorArcherForGrond MordorArcher_Slaved MordorArcherBarricade_Slaved MordorArcherHorde MordorAufseherArcherHordeComboHorde MordorAufseherArcherHordeComboHorde_Fire MordorAufseher02ArcherHordeComboHorde_Fire MordorAufseher02ArcherHordeComboHorde AngmarRhudaurSpearmen AngmarRhudaurSpearman AngmarRhudaurSlingers AngmarRhudaurSpearmenNoBanner AngmarRhudaurSpearmenArnorBanner RhudaurSpearman_Summoned AngmarRhudaurSlinger AngmarRhudaurSlingersNoBanner IsengardWildman IsengardWildman_Summoned IsengardWildmanHorde IsengardWildmanHordeKampagne IsengardWildmanAxe IsengardWildmanAxe_Summoned IsengardWildmanAxeHorde IsengardWildSpearman IsengardWildSpearmanHorde IsengardWildmanAxeHordeMod IsengardWildmanAxeHordeModKampagne IsengardWildmanAxeHordeKampagne RhudaurSpearmenHorde_Summoned RhudaurSlinger_Summoned RhudaurSlingerHorde_Summoned AngmarBannerOrcWarrior WildBannerGoblinBolg MordorAufseher
+#define GOOD_EXPANDABLE_SUMMONED MordorMorgulOrk_Summoned MordorMorgulOrkHorde_Summoned 
 
-#define EVIL_BASIC EvilmenHaradSword EvilmenHaradSwordHorde EvilmenHaradSwordHordeBlock MordorCorsairsOfUmbar MordorCorsairsOfUmbarHorde MordorCorsairBanner MordorCorsairsOfUmbarHordeInn MordorCorsairsOfUmbarHordeFree WildCorsairsOfUmbarHordeFree WildCorsairsOfUmbarHordeInn DolguldurArcher DolguldurArcherHorde MordorBlackOrc_mod MordorBlackOrcHorde_mod MordorBlackOrcHorde_Summoned MordorBlackOrc_Summoned AngmarThrallMaster AngmarThrallMasterBanner AngmarThrallMasterAxeBanner CorsairsOfUmbar CorsairsOfUmbarHorde
+#define GOOD_CHEAP GoblinFighterHordeUpgraded GoblinFighterUpgraded 
 
-#define EVIL_REGULAR_15 MordorEasterling MordorEasterlingHorde MordorEasterlingPorcupineHorde MordorEasterlingHordeMod MordorEasterlingHordePorcupineMod IsengardFighter IsengardFighter_Summoned IsengardFighterHorde IsengardFighterHorde_Summoned IsengardFighterHordeBlock IsengardPikeman IsengardPikeman_Summoned IsengardPikemanHorde IsengardPikemanHorde_Summoned IsengardPikemanHordePorcupine IsengardUrukCrossbow IsengardUrukCrossbow_Summoned IsengardUrukCrossbowHorde IsengardUrukCrossbowHorde_Summoned IsengardShielduruk IsengardShielduruk_Summoned IsengardShieldurukHorde IsengardShieldurukHorde_Summoned IsengardPikemanShieldurukComboHorde IsengardShieldurukCrossbowComboHorde IsengardShieldurukCrossbowComboHorde_Summoned IsengardPikemanShieldurukComboHorde_Summoned IsengardFighterShieldurukComboHorde IsengardFighterShieldurukComboHorde_Summoned
+#define GOOD_CHEAP_SUMMONED RhudaurSpearman_Summoned IsengardWildman_Summoned 
 
-#define EVIL_REGULAR WildMarauder WildMarauderHorde WildMarauderHordeFormation WildBannerMarauder WildGundabadBanner WildGundabadArcher WildGundabadArcherHorde WildGundabadMarauderSwords WildGundabadMarauderSwordHorde HaradHaradrimLancer HaradHaradrimLancerHorde HaradHaradrimBanner HaradHaradrimArcher HaradHaradrimArcherHorde MordorHaradrimArcherHordeMod UmbarCorsairarcher UmbarCorsairarcher_Slaved UmbarCorsairarcherFloatingBuilding_Slaved UmbarCorsairarcherHorde MordorBlackUrukBanner MordorCirithSchnuffler AngmarOrkSchlachter AngmarBannerOrc AngmarOrkSchlachter1 AngmarOrkSchlachter2 AngmarOrkSchlachter3 AngmarOrkSchlachter4 AngmarOrkSchlachter5 AngmarOrkSchlachter6 AngmarOrkSchlachter7 AngmarOrkSchlachterHorde AngmarOrkSchlachterHordeFree MordorBlackUruk MordorBlackUruk_Summoned MordorUrukBanner MordorBlackUrukBow MordorBlackUrukBow_Summoned MordorBlackUrukBowHorde MordorBlackUrukBowHorde_Limit MordorBlackUrukBowHorde_Summoned MordorBlackUrukBowHorde_forTower MordorBlackUrukHorde MordorBlackUrukHorde_Limit MordorBlackUrukHorde_Summoned MordorBlackUrukHorde_forTower AngmarRhudaurKnochenbrecher AngmarRhudaurKnochenbrecherHorde AngmarRhudaurKnochenbrecher_Summoned AngmarRhudaurKnochenbrecherHorde_Summoned AngmarInfantryBanner AngmarDarkDunedainHorde AngmarDarkDunedainHorde_Edikt AngmarDarkDunedain AngmarDarkDunedainHorde_Summoned AngmarDunedainPikeman AngmarDunedainPikemanHorde AngmarDunedainPikemanHorde_Edikt AngmarDunedainPikemanHordePorcupine AngmarDunedainPikemanHordePorcupine_Edikt AngmarNecroAcolyte AngmarNecroAcolyte_Summoned IsengardUrukScout IsengardUrukScoutHorde IsengardScoutBanner IsengardWildelite IsengardWildelite_Summoned IsengardWildeliteHorde IsengardWildeliteHorde_Summoned IsengardWildeliteHordeKampagne HaradArcher HaradArcherHorde HaradArcherMumak HaradArcherMumakil HaradArcherBarricade_Slaved
+#define GOOD_BASIC EvilmenHaradSword EvilmenHaradSwordHorde 
 
-#define EVIL_ADVANCED WildGundabadPike WildGundabadPikesHorde WildGundabadPikesHordePorcupine WildMarauderSwords WildMarauderSwordHorde WildMarauderSwordBanner MordorRhunSword MordorRhunSwordHorde MordorRhunSwordHordeShieldWall AngmarDarkRangerHorde AngmarDarkRangerHorde_Edikt AngmarDarkRanger AngmarRangerBanner AngmarDarkRangerHorde_Summoned
+#define GOOD_REGULAR_15 MordorEasterling MordorEasterlingHorde
 
-#define EVIL_ADVANCED_8 AngmarHillTrollEdain AngmarHillTrollEdain_Summoned AngmarSnowTrollEdain AngmarSnowTrollEdain_Summoned AngmarSnowTrollHorde AngmarSnowTroll AngmarBannerSnowTroll AngmarBannerDireSnowTroll AngmarHillTrollHorde AngmarHillTroll AngmarBannerHillTroll
-
-#define EVIL_ELITE WildTribeLeaderBodyGuard WildGundabadBodyGuardHorde EasterlingGuard EasterlingGuardHorde MordorMorgulschatten MordorMorgulschattenHorde AngmarShadowGuard AngmarShadowGuardHorde AngmarShadowGuardHorde_Zaphragor AngmarShadowGuardHorde_Gulzar AngmarShadowGuardHorde_Karsh AngmarNumElite AngmarNumEliteHorde AngmarGunstlingHK AngmarHauptmann AngmarHauptmannZaphragor AngmarHauptmannKarsh AngmarHauptmannGulzar AngmarNumEliteBanner AngmarNumEliteBannerZaphragor AngmarNumEliteBannerGulzar AngmarNumEliteBannerKarsh
-
-#define EVIL_ELITE_TRIO IsengardManSlayer IsengardManSlayerHorde UnderworldSoulCollector UnderworldSoulCollectorHorde
-
-#define EVIL_FIRST_AGE_REGULAR ThlimDoldronBanner ThlimDoldronArcher ThlimDoldronArcherHorde ThlimDoldronAxe ThlimDoldronAxeHorde ThargelionBanner ThargelionArcher ThargelionArcherHorde ThargelionSword ThargelionSwordHorde
-
-#define EVIL_FIRST_AGE_ELITE AngmarNumElite2 IronNumenorsHorde
+#define GOOD_REGULAR_15_SUMMONED IsengardFighter_Summoned IsengardFighterHorde_Summoned IsengardPikeman_Summoned 
 
 
+#define GOOD_REGULAR WildMarauder WildMarauderHorde WildMarauderHordeFormation 
 
+#define GOOD_REGULAR_SUMMONED MordorBlackUruk_Summoned MordorBlackUrukBow_Summoned 
 
-#define EVIL_BASIC_CAV AngmarWolfReiter AngmarWolfReiterHorde AngmarWolfRider_Summoned AngmarWolfRiders AngmarWolfRiderHordeWedgeFormation AngmarWolfRider AngmarWeißerWarg AngmarWeißerWargHorde
+#define GOOD_ADVANCED WildGundabadPike WildGundabadPikesHorde WildGundabadPikesHordePorcupine 
 
-#define EVIL_REGULAR_CAV AngmarBannerWolfRider EvilmenRhunrider EvilmenRhunriderHorde EvilmenRhunriderHordeLineFormation MordorHaradrimRiderHordeMod MordorHaradrimRider MordorHaradrimRiderBanner MordorHaradrimRiderHorde MordorHaradrimRiderHordeWedgeFormation IsengardWargRider IsengardWargRider_Sharkuswargreiter IsengardSharkuswargreiterHorde IsengardSharkuswargreiterHordeWedgeFormation IsengardWargRider_Zuchtwargreiter IsengardZuchtwargreiterHorde IsengardZuchtwargreiterHordeWedgeFormation IsengardWargRider_Bergwargreiter IsengardBergwargreiterHorde IsengardBergwargreiterHordeWedgeFormation IsengardWargRiderHorde IsengardWargRiderHorde_Summoned IsengardWargRiderHordeWedgeFormation IsengardWargRiderBanner IsengardWargRiderBanner_Sharkuswargreiter IsengardWargRiderBanner_Bergwargreiter IsengardWargRiderBanner_Zuchtwargreiter IsengardBlutwarg IsengardBlutwargRudelfuhrer GoblinRider GoblinRiderHorde GoblinRiderHordeWedgeFormation GoblinRiderHorde_FromDefectedLair WildGoblinRiderBanner AngmarThrallMasterWolfBanner
+#define GOOD_ADVANCED_8 AngmarHillTrollEdain AngmarHillTrollEdain_Summoned AngmarSnowTrollEdain 
 
-#define EVIL_ADVANCED_CAV GundabadWargPack GundabadWargPackHorde GundabadWargRider GundabadWargRiderHorde GundabadWargRiderWedgeFormation IsengardWargBow IsengardWargBow_Summoned IsengardWargBowHorde IsengardWargBowHorde_Summoned GoblinSpiderRider GoblinSpiderRiderHorde
+#define GOOD_ELITE WildTribeLeaderBodyGuard WildGundabadBodyGuardHorde EasterlingGuard EasterlingGuardHorde
 
-#define EVIL_ELITE_CAV AngmarShadowKnight AngmarShadowKnightHorde AngmarShadowKnightHorde_Karsh AngmarShadowKnightHorde_Gulzar AngmarShadowKnightHorde_Zaphragor EasterlingKataphrakt EasterlingKataphraktHorde EasterlingKataphraktHordeWedgeFormation AngmarSchwarzeRitter AngmarSchwarzeRitterHorde AngmarSchwarzeRitterBanner MordorMorgulrider MorgulRiderBanner MordorMorgulriderHorde
+#define GOOD_ELITE_TRIO IsengardManSlayer IsengardManSlayerHorde UnderworldSoulCollector UnderworldSoulCollectorHorde
+
+#define GOOD_FIRST_AGE_REGULAR ThlimDoldronBanner ThlimDoldronArcher 
+
+#define GOOD_FIRST_AGE_ELITE AngmarNumElite2 IronNumenorsHorde
 
 
 
 
+#define GOOD_BASIC_CAV AngmarWolfReiter AngmarWolfReiterHorde 
 
-#define EVIL_CHEAP_BEASTS AngmarDireWolfHorde AngmarDireWolf WildMiniSpiderForShelobh WildMiniSpiderHordeForShelobh WildMiniSpiderHordeForShelobhFast WildKankraSpiderMember WildKankraSpiderMemberHorde WildKankraSpiderMemberHordeProduce WildZuchtspinnen WildZuchtspinnenHorde
+#define GOOD_REGULAR_CAV AngmarBannerWolfRider EvilmenRhunrider 
 
-#define EVIL_BASIC_BEASTS WildMiniSpider WildMiniSpiderHorde MordorBannerSpiderling MordorSpiderling MordorSpiderlingHorde WildSpiderlingHordeMemberForCreep ingHordeMemberForCreepHorde WildSpiderling WildSpiderlingForShelobh WildSpiderlingHordeForShelobh WildSpiderlingHordeForShelobhFast WildSpiderlingHordeMember WildSpiderlingHorde IsengardWargPack IsengardWargPackHorde WildWargPackHorde
+#define GOOD_ADVANCED_CAV GundabadWargPack GundabadWargPackHorde 
 
-#define EVIL_FIRST_AGE_REGULAR_BEASTS TolinGaurhothWolf TolinGaurhothWolfHorde TolinGaurhothVampiresMinion TolinGaurhothVampires_Slaved
-
-#define EVIL_FIRST_AGE_BEST_BEASTS AngbandBabyDrake AngbandBabyDrakeHorde
-
+#define GOOD_ELITE_CAV AngmarShadowKnight AngmarShadowKnightHorde 
 
 
 
-#define EVIL_CHEAP_MONSTER BarrowWight BarrowWight_Slaved BarrowWight_Summoned MordorBarrowWight_Summoned BarrowWight_Old BarrowWight_Old_Summoned BarrowWight_Old_Slaved BarrowWight_Gulzar
 
-#define EVIL_CHEAP_CHAMPION WildDrummerOrc
 
-#define EVIL_BASIC_MONSTER Ogre WildGiantBat WildScorpion AngmarBestie DesertScorpionBlack HaradScorpion_Slaved
+#define GOOD_CHEAP_BEASTS AngmarDireWolfHorde AngmarDireWolf WildMiniSpiderForShelobh WildMiniSpiderHordeForShelobh WildMiniSpiderHordeForShelobhFast WildKankraSpiderMember WildKankraSpiderMemberHorde WildKankraSpiderMemberHordeProduce WildZuchtspinnen WildZuchtspinnenHorde
 
-#define EVIL_REGULAR_MONSTER MordorMountainTroll MordorCaveTroll CaveTroll_Slaved GoblinCaveTroll GoblinCaveTroll_FromTrollLair HillTroll_Slaved MordorCaveTroll_Summoned CaveTroll_HugeEdain GoblinCatapultTroll GoblinCatapulTrollExpansion MordorDrummerTroll
+#define GOOD_BASIC_BEASTS WildMiniSpider WildMiniSpiderHorde MordorBannerSpiderling MordorSpiderling MordorSpiderlingHorde WildSpiderlingHordeMemberForCreep ingHordeMemberForCreepHorde WildSpiderling WildSpiderlingForShelobh WildSpiderlingHordeForShelobh WildSpiderlingHordeForShelobhFast WildSpiderlingHordeMember WildSpiderlingHorde IsengardWargPack IsengardWargPackHorde WildWargPackHorde
 
-#define EVIL_REGULAR_CHAMPION WildHauptmannork WildHauptmannorkWarg IsengardBeserker IsengardBeserker_Summoned MordorKastellan MordorKastellan_AI MordorKastellan_Old MordorKastellan_Old_AI
+#define GOOD_FIRST_AGE_REGULAR_BEASTS TolinGaurhothWolf TolinGaurhothWolfHorde TolinGaurhothVampiresMinion TolinGaurhothVampires_Slaved
 
-#define EVIL_ADVANCED_MONSTER AngmarGolem AngmarGolem_Summoned AngmarHeroWolf MordorHeroWolf AngmarHeroWolfHorde WildAttackTroll WildAttackTroll_Summoned MordorAttackTroll MordorTrollupgrade MordorTrollupgradeHammer MordorTrollupgradeSword MordorTrollupgradeKeule MordorOlogHai_Summoned MordorOlogHai WildBrutmutter WildZuchtdracheBaby WildZuchtdracheBaby_Slaved MordorAttackTroll_Summoned
+#define GOOD_FIRST_AGE_BEST_BEASTS AngbandBabyDrake AngbandBabyDrakeHorde
 
-#define EVIL_ELITE_MONSTERS WildZuchtdrache WildZuchtdracheOld WildZuchtdracheOldFlying WildFireWyrm WildMountainGiant WildMountainGiantMod WildMountainGiant_Summoned
 
-#define EVIL_FIRST_AGE_REGULAR_FLYING TolinGaurhothVampires
 
-#define EVIL_FIRST_AGE_BETTER_FLYING UnderworldDragon UnderworldDragon_Slaved
+#define GOOD_FIRST_AGE_REGULAR_FLYING TolinGaurhothVampires
 
-#define EVIL_FIRST_AGE_LEGENDARY_FLYING AngbandDragon 
+#define GOOD_FIRST_AGE_BETTER_FLYING UnderworldDragon UnderworldDragon_Slaved
 
-#define EVIL_FIRST_AGE_ELITE_MONSTER AngbandFireDrake TolinGaurhothWereWolf ThargelionCharriot
+#define GOOD_FIRST_AGE_LEGENDARY_FLYING AngbandDragon 
 
-#define EVIL_FIRST_AGE_LEGENDARY_MONSTER AngbandBalrog AngbandBalrogCaptian_Summoned AngbandBalrogCaptian UnderworldDeamon ThargelionMumakil
+#define GOOD_FIRST_AGE_ELITE_MONSTER AngbandFireDrake TolinGaurhothWereWolf ThargelionCharriot
+
+#define GOOD_FIRST_AGE_LEGENDARY_MONSTER AngbandBalrog AngbandBalrogCaptian_Summoned AngbandBalrogCaptian UnderworldDeamon ThargelionMumakil
 
 
 
 
 
 
-
+ExperienceLevel    Evil_Expandable_Infantry_Summoned
+    TargetNames                       =    GOOD_EXPANDABLE_SUMMONED
+    RequiredExperience                =    EXPERIENCE_REQUIRED_EXPANDABLE_HORDE_1
+    ExperienceAward                   =    EXPERIENCE_AWARD_EXPANDABLE_HORDE_1
+    Rank                              =    1
+    Upgrades                          =    Upgrade_ObjectLevel1
+    SelectionDecal
+        Texture               =    decal_I_level1
+        Texture2              =    decal_evil_CO
+        Style                 =    SHADOW_MERGE_DECAL
+        OpacityMin            =    80%
+        OpacityMax            =    100%
+        MinRadius             =    70
+        MaxRadius             =    200
+        MaxSelectedUnits      =    40
+    End
+END
 
 
 
 ExperienceLevel    Evil_Expandable_Infantry_Level1
-    TargetNames                       =    EVIL_EXPANDABLE
+    TargetNames                       =    GOOD_EXPANDABLE
     RequiredExperience                =    EXPERIENCE_REQUIRED_EXPANDABLE_HORDE_1
     ExperienceAward                   =    EXPERIENCE_AWARD_EXPANDABLE_HORDE_1
     Rank                              =    1
@@ -98,7 +108,7 @@ ExperienceLevel    Evil_Expandable_Infantry_Level1
 END
 
 ExperienceLevel    Evil_Expandable_InfantryLevel2
-    TargetNames                       =    EVIL_EXPANDABLE
+    TargetNames                       =    GOOD_EXPANDABLE
     RequiredExperience                =    EXPERIENCE_REQUIRED_EXPANDABLE_HORDE_2
     ExperienceAward                   =    EXPERIENCE_AWARD_EXPANDABLE_HORDE_2
     Rank                              =    2
@@ -123,7 +133,7 @@ ExperienceLevel    Evil_Expandable_InfantryLevel2
 END
 
 ExperienceLevel    Evil_Expandable_InfantryLevel3
-    TargetNames                       =    EVIL_EXPANDABLE
+    TargetNames                       =    GOOD_EXPANDABLE
     RequiredExperience                =    EXPERIENCE_REQUIRED_EXPANDABLE_HORDE_3
     ExperienceAward                   =    EXPERIENCE_AWARD_EXPANDABLE_HORDE_3
     Rank                              =    3
@@ -148,7 +158,7 @@ ExperienceLevel    Evil_Expandable_InfantryLevel3
 END
 
 ExperienceLevel    Evil_Expandable_InfantryLevel4
-    TargetNames                       =    EVIL_EXPANDABLE
+    TargetNames                       =    GOOD_EXPANDABLE
     RequiredExperience                =    EXPERIENCE_REQUIRED_EXPANDABLE_HORDE_4
     ExperienceAward                   =    EXPERIENCE_AWARD_EXPANDABLE_HORDE_4
     Rank                              =    4
@@ -173,7 +183,7 @@ ExperienceLevel    Evil_Expandable_InfantryLevel4
 END
 
 ExperienceLevel    Evil_Expandable_InfantryLevel5
-    TargetNames                       =    EVIL_EXPANDABLE
+    TargetNames                       =    GOOD_EXPANDABLE
     RequiredExperience                =    EXPERIENCE_REQUIRED_EXPANDABLE_HORDE_5
     ExperienceAward                   =    EXPERIENCE_AWARD_EXPANDABLE_HORDE_5
     Rank                              =    5
@@ -200,9 +210,26 @@ END
 
 ;--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+ExperienceLevel    Evil_Cheap_Infantry_Summoned
+    TargetNames                       =    GOOD_CHEAP_SUMMONED
+    RequiredExperience                =    EXPERIENCE_REQUIRED_CHEAP_HORDE_1
+    ExperienceAward                   =    EXPERIENCE_AWARD_CHEAP_HORDE_1
+    Rank                              =    1
+    Upgrades                          =    Upgrade_ObjectLevel1
+    SelectionDecal
+        Texture               =    decal_I_level1
+        Texture2              =    decal_evil_CO
+        Style                 =    SHADOW_MERGE_DECAL
+        OpacityMin            =    80%
+        OpacityMax            =    100%
+        MinRadius             =    70
+        MaxRadius             =    200
+        MaxSelectedUnits      =    40
+    End
+END
 
 ExperienceLevel    Evil_Cheap_Infantry_Level1
-    TargetNames                       =    EVIL_CHEAP
+    TargetNames                       =    GOOD_CHEAP
     RequiredExperience                =    EXPERIENCE_REQUIRED_CHEAP_HORDE_1
     ExperienceAward                   =    EXPERIENCE_AWARD_CHEAP_HORDE_1
     Rank                              =    1
@@ -220,7 +247,7 @@ ExperienceLevel    Evil_Cheap_Infantry_Level1
 END
 
 ExperienceLevel    Evil_Cheap_InfantryLevel2
-    TargetNames                       =    EVIL_CHEAP
+    TargetNames                       =    GOOD_CHEAP
     RequiredExperience                =    EXPERIENCE_REQUIRED_CHEAP_HORDE_2
     ExperienceAward                   =    EXPERIENCE_AWARD_CHEAP_HORDE_2
     Rank                              =    2
@@ -245,7 +272,7 @@ ExperienceLevel    Evil_Cheap_InfantryLevel2
 END
 
 ExperienceLevel    Evil_Cheap_InfantryLevel3
-    TargetNames                       =    EVIL_CHEAP
+    TargetNames                       =    GOOD_CHEAP
     RequiredExperience                =    EXPERIENCE_REQUIRED_CHEAP_HORDE_3
     ExperienceAward                   =    EXPERIENCE_AWARD_CHEAP_HORDE_3
     Rank                              =    3
@@ -270,7 +297,7 @@ ExperienceLevel    Evil_Cheap_InfantryLevel3
 END
 
 ExperienceLevel    Evil_Cheap_InfantryLevel4
-    TargetNames                       =    EVIL_CHEAP
+    TargetNames                       =    GOOD_CHEAP
     RequiredExperience                =    EXPERIENCE_REQUIRED_CHEAP_HORDE_4
     ExperienceAward                   =    EXPERIENCE_AWARD_CHEAP_HORDE_4
     Rank                              =    4
@@ -295,7 +322,7 @@ ExperienceLevel    Evil_Cheap_InfantryLevel4
 END
 
 ExperienceLevel    Evil_Cheap_InfantryLevel5
-    TargetNames                       =    EVIL_CHEAP
+    TargetNames                       =    GOOD_CHEAP
     RequiredExperience                =    EXPERIENCE_REQUIRED_CHEAP_HORDE_5
     ExperienceAward                   =    EXPERIENCE_AWARD_CHEAP_HORDE_5
     Rank                              =    5
@@ -319,11 +346,11 @@ ExperienceLevel    Evil_Cheap_InfantryLevel5
     End
 END
 
-;-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 ExperienceLevel    Evil_Basic_Infantry_Level1
-    TargetNames                       =    EVIL_BASIC
+    TargetNames                       =    GOOD_BASIC
     RequiredExperience                =    EXPERIENCE_REQUIRED_BASIC_HORDE_1
     ExperienceAward                   =    EXPERIENCE_AWARD_BASIC_HORDE_1
     Rank                              =    1
@@ -341,7 +368,7 @@ ExperienceLevel    Evil_Basic_Infantry_Level1
 END
 
 ExperienceLevel    Evil_Basic_InfantryLevel2
-    TargetNames                       =    EVIL_BASIC
+    TargetNames                       =    GOOD_BASIC
     RequiredExperience                =    EXPERIENCE_REQUIRED_BASIC_HORDE_2
     ExperienceAward                   =    EXPERIENCE_AWARD_BASIC_HORDE_2
     Rank                              =    2
@@ -366,7 +393,7 @@ ExperienceLevel    Evil_Basic_InfantryLevel2
 END
 
 ExperienceLevel    Evil_Basic_InfantryLevel3
-    TargetNames                       =    EVIL_BASIC
+    TargetNames                       =    GOOD_BASIC
     RequiredExperience                =    EXPERIENCE_REQUIRED_BASIC_HORDE_3
     ExperienceAward                   =    EXPERIENCE_AWARD_BASIC_HORDE_3
     Rank                              =    3
@@ -391,7 +418,7 @@ ExperienceLevel    Evil_Basic_InfantryLevel3
 END
 
 ExperienceLevel    Evil_Basic_InfantryLevel4
-    TargetNames                       =    EVIL_BASIC
+    TargetNames                       =    GOOD_BASIC
     RequiredExperience                =    EXPERIENCE_REQUIRED_BASIC_HORDE_4
     ExperienceAward                   =    EXPERIENCE_AWARD_BASIC_HORDE_4
     Rank                              =    4
@@ -416,7 +443,7 @@ ExperienceLevel    Evil_Basic_InfantryLevel4
 END
 
 ExperienceLevel    Evil_Basic_InfantryLevel5
-    TargetNames                       =    EVIL_BASIC
+    TargetNames                       =    GOOD_BASIC
     RequiredExperience                =    EXPERIENCE_REQUIRED_BASIC_HORDE_5
     ExperienceAward                   =    EXPERIENCE_AWARD_BASIC_HORDE_5
     Rank                              =    5
@@ -440,10 +467,28 @@ ExperienceLevel    Evil_Basic_InfantryLevel5
     End
 END
 
-;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+;--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ExperienceLevel    Evil_Regular15_Infantry_Summoned
+    TargetNames                       =    GOOD_REGULAR_15_SUMMONED
+    RequiredExperience                =    EXPERIENCE_REQUIRED_REGULAR_15_HORDE_1
+    ExperienceAward                   =    EXPERIENCE_AWARD_REGULAR_15_HORDE_1
+    Rank                              =    1
+    Upgrades                          =    Upgrade_ObjectLevel1
+    SelectionDecal
+        Texture               =    decal_I_level1
+        Texture2              =    decal_evil_CO
+        Style                 =    SHADOW_MERGE_DECAL
+        OpacityMin            =    80%
+        OpacityMax            =    100%
+        MinRadius             =    70
+        MaxRadius             =    200
+        MaxSelectedUnits      =    40
+    End
+END
 
 ExperienceLevel    Evil_Regular15_Infantry_Level1
-    TargetNames                       =    EVIL_REGULAR_15
+    TargetNames                       =    GOOD_REGULAR_15
     RequiredExperience                =    EXPERIENCE_REQUIRED_REGULAR_15_HORDE_1
     ExperienceAward                   =    EXPERIENCE_AWARD_REGULAR_15_HORDE_1
     Rank                              =    1
@@ -461,7 +506,7 @@ ExperienceLevel    Evil_Regular15_Infantry_Level1
 END
 
 ExperienceLevel    Evil_Regular15_InfantryLevel2
-    TargetNames                       =    EVIL_REGULAR_15
+    TargetNames                       =    GOOD_REGULAR_15
     RequiredExperience                =    EXPERIENCE_REQUIRED_REGULAR_15_HORDE_2
     ExperienceAward                   =    EXPERIENCE_AWARD_REGULAR_15_HORDE_2
     Rank                              =    2
@@ -486,7 +531,7 @@ ExperienceLevel    Evil_Regular15_InfantryLevel2
 END
 
 ExperienceLevel    Evil_Regular15_InfantryLevel3
-    TargetNames                       =    EVIL_REGULAR_15
+    TargetNames                       =    GOOD_REGULAR_15
     RequiredExperience                =    EXPERIENCE_REQUIRED_REGULAR_15_HORDE_3
     ExperienceAward                   =    EXPERIENCE_AWARD_REGULAR_15_HORDE_3
     Rank                              =    3
@@ -511,7 +556,7 @@ ExperienceLevel    Evil_Regular15_InfantryLevel3
 END
 
 ExperienceLevel    Evil_Regular15_InfantryLevel4
-    TargetNames                       =    EVIL_REGULAR_15
+    TargetNames                       =    GOOD_REGULAR_15
     RequiredExperience                =    EXPERIENCE_REQUIRED_REGULAR_15_HORDE_4
     ExperienceAward                   =    EXPERIENCE_AWARD_REGULAR_15_HORDE_4
     Rank                              =    4
@@ -536,7 +581,7 @@ ExperienceLevel    Evil_Regular15_InfantryLevel4
 END
 
 ExperienceLevel    Evil_Regular15_InfantryLevel5
-    TargetNames                       =    EVIL_REGULAR_15
+    TargetNames                       =    GOOD_REGULAR_15
     RequiredExperience                =    EXPERIENCE_REQUIRED_REGULAR_15_HORDE_5
     ExperienceAward                   =    EXPERIENCE_AWARD_REGULAR_15_HORDE_5
     Rank                              =    5
@@ -561,11 +606,29 @@ ExperienceLevel    Evil_Regular15_InfantryLevel5
 END
 
 
-;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+
+ExperienceLevel    Evil_Regular_Infantry_Summoned
+    TargetNames                       =    GOOD_REGULAR_SUMMONED
+    RequiredExperience                =    EXPERIENCE_REQUIRED_REGULAR_HORDE_1
+    ExperienceAward                   =    EXPERIENCE_AWARD_REGULAR_HORDE_1
+    Rank                              =    1
+    Upgrades                          =    Upgrade_ObjectLevel1
+    SelectionDecal
+        Texture               =    decal_I_level1
+        Texture2              =    decal_evil_CO
+        Style                 =    SHADOW_MERGE_DECAL
+        OpacityMin            =    80%
+        OpacityMax            =    100%
+        MinRadius             =    70
+        MaxRadius             =    200
+        MaxSelectedUnits      =    40
+    End
+END
 
 ExperienceLevel    Evil_Regular_Infantry_Level1
-    TargetNames                       =    EVIL_REGULAR
+    TargetNames                       =    GOOD_REGULAR
     RequiredExperience                =    EXPERIENCE_REQUIRED_REGULAR_HORDE_1
     ExperienceAward                   =    EXPERIENCE_AWARD_REGULAR_HORDE_1
     Rank                              =    1
@@ -583,7 +646,7 @@ ExperienceLevel    Evil_Regular_Infantry_Level1
 END
 
 ExperienceLevel    Evil_Regular_InfantryLevel2
-    TargetNames                       =    EVIL_REGULAR
+    TargetNames                       =    GOOD_REGULAR
     RequiredExperience                =    EXPERIENCE_REQUIRED_REGULAR_HORDE_2
     ExperienceAward                   =    EXPERIENCE_AWARD_REGULAR_HORDE_2
     Rank                              =    2
@@ -608,7 +671,7 @@ ExperienceLevel    Evil_Regular_InfantryLevel2
 END
 
 ExperienceLevel    Evil_Regular_InfantryLevel3
-    TargetNames                       =    EVIL_REGULAR
+    TargetNames                       =    GOOD_REGULAR
     RequiredExperience                =    EXPERIENCE_REQUIRED_REGULAR_HORDE_3
     ExperienceAward                   =    EXPERIENCE_AWARD_REGULAR_HORDE_3
     Rank                              =    3
@@ -633,7 +696,7 @@ ExperienceLevel    Evil_Regular_InfantryLevel3
 END
 
 ExperienceLevel    Evil_Regular_InfantryLevel4
-    TargetNames                       =    EVIL_REGULAR
+    TargetNames                       =    GOOD_REGULAR
     RequiredExperience                =    EXPERIENCE_REQUIRED_REGULAR_HORDE_4
     ExperienceAward                   =    EXPERIENCE_AWARD_REGULAR_HORDE_4
     Rank                              =    4
@@ -658,7 +721,7 @@ ExperienceLevel    Evil_Regular_InfantryLevel4
 END
 
 ExperienceLevel    Evil_Regular_InfantryLevel5
-    TargetNames                       =    EVIL_REGULAR
+    TargetNames                       =    GOOD_REGULAR
     RequiredExperience                =    EXPERIENCE_REQUIRED_REGULAR_HORDE_5
     ExperienceAward                   =    EXPERIENCE_AWARD_REGULAR_HORDE_5
     Rank                              =    5
@@ -687,7 +750,7 @@ END
 
 
 ExperienceLevel    Evil_Advanced_Infantry_Level1
-    TargetNames                       =    EVIL_ADVANCED
+    TargetNames                       =    GOOD_ADVANCED
     RequiredExperience                =    EXPERIENCE_REQUIRED_ADVANCED_HORDE_1
     ExperienceAward                   =    EXPERIENCE_AWARD_ADVANCED_HORDE_1
     Rank                              =    1
@@ -705,7 +768,7 @@ ExperienceLevel    Evil_Advanced_Infantry_Level1
 END
 
 ExperienceLevel    Evil_Advanced_InfantryLevel2
-    TargetNames                       =    EVIL_ADVANCED
+    TargetNames                       =    GOOD_ADVANCED
     RequiredExperience                =    EXPERIENCE_REQUIRED_ADVANCED_HORDE_2
     ExperienceAward                   =    EXPERIENCE_AWARD_ADVANCED_HORDE_2
     Rank                              =    2
@@ -730,7 +793,7 @@ ExperienceLevel    Evil_Advanced_InfantryLevel2
 END
 
 ExperienceLevel    Evil_Advanced_InfantryLevel3
-    TargetNames                       =    EVIL_ADVANCED
+    TargetNames                       =    GOOD_ADVANCED
     RequiredExperience                =    EXPERIENCE_REQUIRED_ADVANCED_HORDE_3
     ExperienceAward                   =    EXPERIENCE_AWARD_ADVANCED_HORDE_3
     Rank                              =    3
@@ -755,7 +818,7 @@ ExperienceLevel    Evil_Advanced_InfantryLevel3
 END
 
 ExperienceLevel    Evil_Advanced_InfantryLevel4
-    TargetNames                       =    EVIL_ADVANCED
+    TargetNames                       =    GOOD_ADVANCED
     RequiredExperience                =    EXPERIENCE_REQUIRED_ADVANCED_HORDE_4
     ExperienceAward                   =    EXPERIENCE_AWARD_ADVANCED_HORDE_4
     Rank                              =    4
@@ -780,7 +843,7 @@ ExperienceLevel    Evil_Advanced_InfantryLevel4
 END
 
 ExperienceLevel    Evil_Advanced_InfantryLevel5
-    TargetNames                       =    EVIL_ADVANCED
+    TargetNames                       =    GOOD_ADVANCED
     RequiredExperience                =    EXPERIENCE_REQUIRED_ADVANCED_HORDE_5
     ExperienceAward                   =    EXPERIENCE_AWARD_ADVANCED_HORDE_5
     Rank                              =    5
@@ -809,7 +872,7 @@ END
 
 
 ExperienceLevel    Evil_Advanced8_Infantry_Level1
-    TargetNames                       =    EVIL_ADVANCED_8
+    TargetNames                       =    GOOD_ADVANCED_8
     RequiredExperience                =    EXPERIENCE_REQUIRED_ADVANCED_8_HORDE_1
     ExperienceAward                   =    EXPERIENCE_AWARD_ADVANCED_8_HORDE_1
     Rank                              =    1
@@ -827,7 +890,7 @@ ExperienceLevel    Evil_Advanced8_Infantry_Level1
 END
 
 ExperienceLevel    Evil_Advanced8_InfantryLevel2
-    TargetNames                       =    EVIL_ADVANCED_8
+    TargetNames                       =    GOOD_ADVANCED_8
     RequiredExperience                =    EXPERIENCE_REQUIRED_ADVANCED_8_HORDE_2
     ExperienceAward                   =    EXPERIENCE_AWARD_ADVANCED_8_HORDE_2
     Rank                              =    2
@@ -852,7 +915,7 @@ ExperienceLevel    Evil_Advanced8_InfantryLevel2
 END
 
 ExperienceLevel    Evil_Advanced8_InfantryLevel3
-    TargetNames                       =    EVIL_ADVANCED_8
+    TargetNames                       =    GOOD_ADVANCED_8
     RequiredExperience                =    EXPERIENCE_REQUIRED_ADVANCED_8_HORDE_3
     ExperienceAward                   =    EXPERIENCE_AWARD_ADVANCED_8_HORDE_3
     Rank                              =    3
@@ -877,7 +940,7 @@ ExperienceLevel    Evil_Advanced8_InfantryLevel3
 END
 
 ExperienceLevel    Evil_Advanced8_InfantryLevel4
-    TargetNames                       =    EVIL_ADVANCED_8
+    TargetNames                       =    GOOD_ADVANCED_8
     RequiredExperience                =    EXPERIENCE_REQUIRED_ADVANCED_8_HORDE_4
     ExperienceAward                   =    EXPERIENCE_AWARD_ADVANCED_8_HORDE_4
     Rank                              =    4
@@ -902,7 +965,7 @@ ExperienceLevel    Evil_Advanced8_InfantryLevel4
 END
 
 ExperienceLevel    Evil_Advanced8_InfantryLevel5
-    TargetNames                       =    EVIL_ADVANCED_8
+    TargetNames                       =    GOOD_ADVANCED_8
     RequiredExperience                =    EXPERIENCE_REQUIRED_ADVANCED_8_HORDE_5
     ExperienceAward                   =    EXPERIENCE_AWARD_ADVANCED_8_HORDE_5
     Rank                              =    5
@@ -931,7 +994,7 @@ END
 
 
 ExperienceLevel    Evil_Advanced8_Infantry_Level1
-    TargetNames                       =    EVIL_ADVANCED_8
+    TargetNames                       =    GOOD_ADVANCED_8
     RequiredExperience                =    EXPERIENCE_REQUIRED_ADVANCED_8_HORDE_1
     ExperienceAward                   =    EXPERIENCE_AWARD_ADVANCED_8_HORDE_1
     Rank                              =    1
@@ -949,7 +1012,7 @@ ExperienceLevel    Evil_Advanced8_Infantry_Level1
 END
 
 ExperienceLevel    Evil_Advanced8_InfantryLevel2
-    TargetNames                       =    EVIL_ADVANCED_8
+    TargetNames                       =    GOOD_ADVANCED_8
     RequiredExperience                =    EXPERIENCE_REQUIRED_ADVANCED_8_HORDE_2
     ExperienceAward                   =    EXPERIENCE_AWARD_ADVANCED_8_HORDE_2
     Rank                              =    2
@@ -974,7 +1037,7 @@ ExperienceLevel    Evil_Advanced8_InfantryLevel2
 END
 
 ExperienceLevel    Evil_Advanced8_InfantryLevel3
-    TargetNames                       =    EVIL_ADVANCED_8
+    TargetNames                       =    GOOD_ADVANCED_8
     RequiredExperience                =    EXPERIENCE_REQUIRED_ADVANCED_8_HORDE_3
     ExperienceAward                   =    EXPERIENCE_AWARD_ADVANCED_8_HORDE_3
     Rank                              =    3
@@ -999,7 +1062,7 @@ ExperienceLevel    Evil_Advanced8_InfantryLevel3
 END
 
 ExperienceLevel    Evil_Advanced8_InfantryLevel4
-    TargetNames                       =    EVIL_ADVANCED_8
+    TargetNames                       =    GOOD_ADVANCED_8
     RequiredExperience                =    EXPERIENCE_REQUIRED_ADVANCED_8_HORDE_4
     ExperienceAward                   =    EXPERIENCE_AWARD_ADVANCED_8_HORDE_4
     Rank                              =    4
@@ -1024,7 +1087,7 @@ ExperienceLevel    Evil_Advanced8_InfantryLevel4
 END
 
 ExperienceLevel    Evil_Advanced8_InfantryLevel5
-    TargetNames                       =    EVIL_ADVANCED_8
+    TargetNames                       =    GOOD_ADVANCED_8
     RequiredExperience                =    EXPERIENCE_REQUIRED_ADVANCED_8_HORDE_5
     ExperienceAward                   =    EXPERIENCE_AWARD_ADVANCED_8_HORDE_5
     Rank                              =    5
@@ -1053,7 +1116,7 @@ END
 ;----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ExperienceLevel    Evil_Elite_InfantryLevel1
-    TargetNames                       =    EVIL_ELITE
+    TargetNames                       =    GOOD_ELITE
     RequiredExperience                =    EXPERIENCE_REQUIRED_ELITE_HORDE_1
     ExperienceAward                   =    EXPERIENCE_AWARD_ELITE_HORDE_1
     InformUpdateModule                =    Yes
@@ -1079,7 +1142,7 @@ ExperienceLevel    Evil_Elite_InfantryLevel1
 End
 
 ExperienceLevel    Evil_Elite_InfantryLevel2
-    TargetNames                       =    EVIL_ELITE
+    TargetNames                       =    GOOD_ELITE
     RequiredExperience                =    EXPERIENCE_REQUIRED_ELITE_HORDE_2
     ExperienceAward                   =    EXPERIENCE_AWARD_ELITE_HORDE_2
     InformUpdateModule                =    Yes
@@ -1106,7 +1169,7 @@ ExperienceLevel    Evil_Elite_InfantryLevel2
 End
 
 ExperienceLevel    Evil_Elite_InfantryLevel3
-    TargetNames                       =    EVIL_ELITE
+    TargetNames                       =    GOOD_ELITE
     RequiredExperience                =    EXPERIENCE_REQUIRED_ELITE_HORDE_3
     ExperienceAward                   =    EXPERIENCE_AWARD_ELITE_HORDE_3
     InformUpdateModule                =    Yes
@@ -1133,7 +1196,7 @@ ExperienceLevel    Evil_Elite_InfantryLevel3
 End
 
 ExperienceLevel    Evil_Elite_InfantryLevel4
-    TargetNames                       =    EVIL_ELITE
+    TargetNames                       =    GOOD_ELITE
     RequiredExperience                =    EXPERIENCE_REQUIRED_ELITE_HORDE_4
     ExperienceAward                   =    EXPERIENCE_AWARD_ELITE_HORDE_4
     InformUpdateModule                =    Yes
@@ -1160,7 +1223,7 @@ ExperienceLevel    Evil_Elite_InfantryLevel4
 End
 
 ExperienceLevel    Evil_Elite_InfantryLevel5
-    TargetNames                       =    EVIL_ELITE
+    TargetNames                       =    GOOD_ELITE
     RequiredExperience                =    EXPERIENCE_REQUIRED_ELITE_HORDE_5
     ExperienceAward                   =    EXPERIENCE_AWARD_ELITE_HORDE_5
     InformUpdateModule                =    Yes
@@ -1187,7 +1250,7 @@ ExperienceLevel    Evil_Elite_InfantryLevel5
 End
 
 ExperienceLevel    Evil_Elite_InfantryLevel6
-    TargetNames                       =    EVIL_ELITE
+    TargetNames                       =    GOOD_ELITE
     RequiredExperience                =    EXPERIENCE_REQUIRED_ELITE_HORDE_6
     ExperienceAward                   =    EXPERIENCE_AWARD_ELITE_HORDE_6
     InformUpdateModule                =    Yes
@@ -1214,7 +1277,7 @@ ExperienceLevel    Evil_Elite_InfantryLevel6
 End
 
 ExperienceLevel    Evil_Elite_InfantryLevel7
-    TargetNames                       =    EVIL_ELITE
+    TargetNames                       =    GOOD_ELITE
     RequiredExperience                =    EXPERIENCE_REQUIRED_ELITE_HORDE_7
     ExperienceAward                   =    EXPERIENCE_AWARD_ELITE_HORDE_7
     InformUpdateModule                =    Yes
@@ -1241,7 +1304,7 @@ ExperienceLevel    Evil_Elite_InfantryLevel7
 End
 
 ExperienceLevel    Evil_Elite_InfantryLevel8
-    TargetNames                       =    EVIL_ELITE
+    TargetNames                       =    GOOD_ELITE
     RequiredExperience                =    EXPERIENCE_REQUIRED_ELITE_HORDE_8
     ExperienceAward                   =    EXPERIENCE_AWARD_ELITE_HORDE_8
     InformUpdateModule                =    Yes
@@ -1268,7 +1331,7 @@ ExperienceLevel    Evil_Elite_InfantryLevel8
 End
 
 ExperienceLevel    Evil_Elite_InfantryLevel9
-    TargetNames                       =    EVIL_ELITE
+    TargetNames                       =    GOOD_ELITE
     RequiredExperience                =    EXPERIENCE_REQUIRED_ELITE_HORDE_9
     ExperienceAward                   =    EXPERIENCE_AWARD_ELITE_HORDE_9
     InformUpdateModule                =    Yes
@@ -1295,7 +1358,7 @@ ExperienceLevel    Evil_Elite_InfantryLevel9
 End
 
 ExperienceLevel    Evil_Elite_InfantryLevel10
-    TargetNames                       =    EVIL_ELITE
+    TargetNames                       =    GOOD_ELITE
     RequiredExperience                =    EXPERIENCE_REQUIRED_ELITE_HORDE_10
     ExperienceAward                   =    EXPERIENCE_AWARD_ELITE_HORDE_10
     InformUpdateModule                =    Yes
@@ -1325,7 +1388,7 @@ End
 ;----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ExperienceLevel    Evil_Elite3_InfantryLevel1
-    TargetNames                       =    EVIL_EVIL_ELITE_TRIO
+    TargetNames                       =    GOOD_GOOD_ELITE_TRIO
     RequiredExperience                =    EXPERIENCE_REQUIRED_ELITE_HORDE_1
     ExperienceAward                   =    EXPERIENCE_AWARD_ELITE_TRIO_HORDE_1
     InformUpdateModule                =    Yes
@@ -1351,7 +1414,7 @@ ExperienceLevel    Evil_Elite3_InfantryLevel1
 End
 
 ExperienceLevel    Evil_Elite3_InfantryLevel2
-    TargetNames                       =    EVIL_EVIL_ELITE_TRIO
+    TargetNames                       =    GOOD_GOOD_ELITE_TRIO
     RequiredExperience                =    EXPERIENCE_REQUIRED_ELITE_HORDE_2
     ExperienceAward                   =    EXPERIENCE_AWARD_ELITE_TRIO_HORDE_2
     InformUpdateModule                =    Yes
@@ -1378,7 +1441,7 @@ ExperienceLevel    Evil_Elite3_InfantryLevel2
 End
 
 ExperienceLevel    Evil_Elite3_InfantryLevel3
-    TargetNames                       =    EVIL_EVIL_ELITE_TRIO
+    TargetNames                       =    GOOD_GOOD_ELITE_TRIO
     RequiredExperience                =    EXPERIENCE_REQUIRED_ELITE_HORDE_3
     ExperienceAward                   =    EXPERIENCE_AWARD_ELITE_TRIO_HORDE_3
     InformUpdateModule                =    Yes
@@ -1405,7 +1468,7 @@ ExperienceLevel    Evil_Elite3_InfantryLevel3
 End
 
 ExperienceLevel    Evil_Elite3_InfantryLevel4
-    TargetNames                       =    EVIL_EVIL_ELITE_TRIO
+    TargetNames                       =    GOOD_GOOD_ELITE_TRIO
     RequiredExperience                =    EXPERIENCE_REQUIRED_ELITE_HORDE_4
     ExperienceAward                   =    EXPERIENCE_AWARD_ELITE_TRIO_HORDE_4
     InformUpdateModule                =    Yes
@@ -1432,7 +1495,7 @@ ExperienceLevel    Evil_Elite3_InfantryLevel4
 End
 
 ExperienceLevel    Evil_Elite3_InfantryLevel5
-    TargetNames                       =    EVIL_EVIL_ELITE_TRIO
+    TargetNames                       =    GOOD_GOOD_ELITE_TRIO
     RequiredExperience                =    EXPERIENCE_REQUIRED_ELITE_HORDE_5
     ExperienceAward                   =    EXPERIENCE_AWARD_ELITE_TRIO_HORDE_5
     InformUpdateModule                =    Yes
@@ -1459,7 +1522,7 @@ ExperienceLevel    Evil_Elite3_InfantryLevel5
 End
 
 ExperienceLevel    Evil_Elite3_InfantryLevel6
-    TargetNames                       =    EVIL_EVIL_ELITE_TRIO
+    TargetNames                       =    GOOD_GOOD_ELITE_TRIO
     RequiredExperience                =    EXPERIENCE_REQUIRED_ELITE_HORDE_6
     ExperienceAward                   =    EXPERIENCE_AWARD_ELITE_TRIO_HORDE_6
     InformUpdateModule                =    Yes
@@ -1486,7 +1549,7 @@ ExperienceLevel    Evil_Elite3_InfantryLevel6
 End
 
 ExperienceLevel    Evil_Elite3_InfantryLevel7
-    TargetNames                       =    EVIL_EVIL_ELITE_TRIO
+    TargetNames                       =    GOOD_GOOD_ELITE_TRIO
     RequiredExperience                =    EXPERIENCE_REQUIRED_ELITE_HORDE_7
     ExperienceAward                   =    EXPERIENCE_AWARD_ELITE_TRIO_HORDE_7
     InformUpdateModule                =    Yes
@@ -1513,7 +1576,7 @@ ExperienceLevel    Evil_Elite3_InfantryLevel7
 End
 
 ExperienceLevel    Evil_Elite3_InfantryLevel8
-    TargetNames                       =    EVIL_EVIL_ELITE_TRIO
+    TargetNames                       =    GOOD_GOOD_ELITE_TRIO
     RequiredExperience                =    EXPERIENCE_REQUIRED_ELITE_HORDE_8
     ExperienceAward                   =    EXPERIENCE_AWARD_ELITE_TRIO_HORDE_8
     InformUpdateModule                =    Yes
@@ -1540,7 +1603,7 @@ ExperienceLevel    Evil_Elite3_InfantryLevel8
 End
 
 ExperienceLevel    Evil_Elite3_InfantryLevel9
-    TargetNames                       =    EVIL_EVIL_ELITE_TRIO
+    TargetNames                       =    GOOD_GOOD_ELITE_TRIO
     RequiredExperience                =    EXPERIENCE_REQUIRED_ELITE_HORDE_9
     ExperienceAward                   =    EXPERIENCE_AWARD_ELITE_TRIO_HORDE_9
     InformUpdateModule                =    Yes
@@ -1567,7 +1630,7 @@ ExperienceLevel    Evil_Elite3_InfantryLevel9
 End
 
 ExperienceLevel    Evil_Elite3_InfantryLevel10
-    TargetNames                       =    EVIL_EVIL_ELITE_TRIO
+    TargetNames                       =    GOOD_GOOD_ELITE_TRIO
     RequiredExperience                =    EXPERIENCE_REQUIRED_ELITE_HORDE_10
     ExperienceAward                   =    EXPERIENCE_AWARD_ELITE_TRIO_HORDE_10
     InformUpdateModule                =    Yes
@@ -1596,7 +1659,7 @@ End
 ;----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ExperienceLevel    Evil_First_Age_RegularInfantryLevel1
-    TargetNames                       =    EVIL_FIRST_AGE_REGULAR
+    TargetNames                       =    GOOD_FIRST_AGE_REGULAR
     RequiredExperience                =    EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_1
     ExperienceAward                   =    EXPERIENCE_AWARD_FIRST_AGE_REGULAR_HORDE_1
     InformUpdateModule                =    Yes
@@ -1622,7 +1685,7 @@ ExperienceLevel    Evil_First_Age_RegularInfantryLevel1
 End
 
 ExperienceLevel    Evil_First_Age_RegularInfantryLevel2
-    TargetNames                       =    EVIL_FIRST_AGE_REGULAR
+    TargetNames                       =    GOOD_FIRST_AGE_REGULAR
     RequiredExperience                =    EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_2
     ExperienceAward                   =    EXPERIENCE_AWARD_FIRST_AGE_REGULAR_HORDE_2
     InformUpdateModule                =    Yes
@@ -1649,7 +1712,7 @@ ExperienceLevel    Evil_First_Age_RegularInfantryLevel2
 End
 
 ExperienceLevel    Evil_First_Age_RegularInfantryLevel3
-    TargetNames                       =    EVIL_FIRST_AGE_REGULAR
+    TargetNames                       =    GOOD_FIRST_AGE_REGULAR
     RequiredExperience                =    EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_3
     ExperienceAward                   =    EXPERIENCE_AWARD_FIRST_AGE_REGULAR_HORDE_3
     InformUpdateModule                =    Yes
@@ -1676,7 +1739,7 @@ ExperienceLevel    Evil_First_Age_RegularInfantryLevel3
 End
 
 ExperienceLevel    Evil_First_Age_RegularInfantryLevel4
-    TargetNames                       =    EVIL_FIRST_AGE_REGULAR
+    TargetNames                       =    GOOD_FIRST_AGE_REGULAR
     RequiredExperience                =    EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_4
     ExperienceAward                   =    EXPERIENCE_AWARD_FIRST_AGE_REGULAR_HORDE_4
     InformUpdateModule                =    Yes
@@ -1703,7 +1766,7 @@ ExperienceLevel    Evil_First_Age_RegularInfantryLevel4
 End
 
 ExperienceLevel    Evil_First_Age_RegularInfantryLevel5
-    TargetNames                       =    EVIL_FIRST_AGE_REGULAR
+    TargetNames                       =    GOOD_FIRST_AGE_REGULAR
     RequiredExperience                =    EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_5
     ExperienceAward                   =    EXPERIENCE_AWARD_FIRST_AGE_REGULAR_HORDE_5
     InformUpdateModule                =    Yes
@@ -1730,7 +1793,7 @@ ExperienceLevel    Evil_First_Age_RegularInfantryLevel5
 End
 
 ExperienceLevel    Evil_First_Age_RegularInfantryLevel6
-    TargetNames                       =    EVIL_FIRST_AGE_REGULAR
+    TargetNames                       =    GOOD_FIRST_AGE_REGULAR
     RequiredExperience                =    EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_6
     ExperienceAward                   =    EXPERIENCE_AWARD_FIRST_AGE_REGULAR_HORDE_6
     InformUpdateModule                =    Yes
@@ -1757,7 +1820,7 @@ ExperienceLevel    Evil_First_Age_RegularInfantryLevel6
 End
 
 ExperienceLevel    Evil_First_Age_RegularInfantryLevel7
-    TargetNames                       =    EVIL_FIRST_AGE_REGULAR
+    TargetNames                       =    GOOD_FIRST_AGE_REGULAR
     RequiredExperience                =    EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_7
     ExperienceAward                   =    EXPERIENCE_AWARD_FIRST_AGE_REGULAR_HORDE_7
     InformUpdateModule                =    Yes
@@ -1784,7 +1847,7 @@ ExperienceLevel    Evil_First_Age_RegularInfantryLevel7
 End
 
 ExperienceLevel    Evil_First_Age_RegularInfantryLevel8
-    TargetNames                       =    EVIL_FIRST_AGE_REGULAR
+    TargetNames                       =    GOOD_FIRST_AGE_REGULAR
     RequiredExperience                =    EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_8
     ExperienceAward                   =    EXPERIENCE_AWARD_FIRST_AGE_REGULAR_HORDE_8
     InformUpdateModule                =    Yes
@@ -1811,7 +1874,7 @@ ExperienceLevel    Evil_First_Age_RegularInfantryLevel8
 End
 
 ExperienceLevel    Evil_First_Age_RegularInfantryLevel9
-    TargetNames                       =    EVIL_FIRST_AGE_REGULAR
+    TargetNames                       =    GOOD_FIRST_AGE_REGULAR
     RequiredExperience                =    EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_9
     ExperienceAward                   =    EXPERIENCE_AWARD_FIRST_AGE_REGULAR_HORDE_9
     InformUpdateModule                =    Yes
@@ -1838,7 +1901,7 @@ ExperienceLevel    Evil_First_Age_RegularInfantryLevel9
 End
 
 ExperienceLevel    Evil_First_Age_RegularInfantryLevel10
-    TargetNames                       =    EVIL_FIRST_AGE_REGULAR
+    TargetNames                       =    GOOD_FIRST_AGE_REGULAR
     RequiredExperience                =    EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_10
     ExperienceAward                   =    EXPERIENCE_AWARD_FIRST_AGE_REGULAR_HORDE_10
     InformUpdateModule                =    Yes
@@ -1869,7 +1932,7 @@ End
 
 
 ExperienceLevel    Evil_First_Age_EliteInfantryLevel1
-    TargetNames                       =    EVIL_FIRST_AGE_REGULAR
+    TargetNames                       =    GOOD_FIRST_AGE_REGULAR
     RequiredExperience                =    EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_1
     ExperienceAward                   =    EXPERIENCE_AWARD_FIRST_AGE_ELITE_HORDE_1
     InformUpdateModule                =    Yes
@@ -1895,7 +1958,7 @@ ExperienceLevel    Evil_First_Age_EliteInfantryLevel1
 End
 
 ExperienceLevel    Evil_First_Age_EliteInfantryLevel2
-    TargetNames                       =    EVIL_FIRST_AGE_REGULAR
+    TargetNames                       =    GOOD_FIRST_AGE_REGULAR
     RequiredExperience                =    EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_2
     ExperienceAward                   =    EXPERIENCE_AWARD_FIRST_AGE_ELITE_HORDE_2
     InformUpdateModule                =    Yes
@@ -1922,7 +1985,7 @@ ExperienceLevel    Evil_First_Age_EliteInfantryLevel2
 End
 
 ExperienceLevel    Evil_First_Age_EliteInfantryLevel3
-    TargetNames                       =    EVIL_FIRST_AGE_REGULAR
+    TargetNames                       =    GOOD_FIRST_AGE_REGULAR
     RequiredExperience                =    EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_3
     ExperienceAward                   =    EXPERIENCE_AWARD_FIRST_AGE_ELITE_HORDE_3
     InformUpdateModule                =    Yes
@@ -1949,7 +2012,7 @@ ExperienceLevel    Evil_First_Age_EliteInfantryLevel3
 End
 
 ExperienceLevel    Evil_First_Age_EliteInfantryLevel4
-    TargetNames                       =    EVIL_FIRST_AGE_REGULAR
+    TargetNames                       =    GOOD_FIRST_AGE_REGULAR
     RequiredExperience                =    EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_4
     ExperienceAward                   =    EXPERIENCE_AWARD_FIRST_AGE_ELITE_HORDE_4
     InformUpdateModule                =    Yes
@@ -1976,7 +2039,7 @@ ExperienceLevel    Evil_First_Age_EliteInfantryLevel4
 End
 
 ExperienceLevel    Evil_First_Age_EliteInfantryLevel5
-    TargetNames                       =    EVIL_FIRST_AGE_REGULAR
+    TargetNames                       =    GOOD_FIRST_AGE_REGULAR
     RequiredExperience                =    EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_5
     ExperienceAward                   =    EXPERIENCE_AWARD_FIRST_AGE_ELITE_HORDE_5
     InformUpdateModule                =    Yes
@@ -2003,7 +2066,7 @@ ExperienceLevel    Evil_First_Age_EliteInfantryLevel5
 End
 
 ExperienceLevel    Evil_First_Age_EliteInfantryLevel6
-    TargetNames                       =    EVIL_FIRST_AGE_REGULAR
+    TargetNames                       =    GOOD_FIRST_AGE_REGULAR
     RequiredExperience                =    EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_6
     ExperienceAward                   =    EXPERIENCE_AWARD_FIRST_AGE_ELITE_HORDE_6
     InformUpdateModule                =    Yes
@@ -2030,7 +2093,7 @@ ExperienceLevel    Evil_First_Age_EliteInfantryLevel6
 End
 
 ExperienceLevel    Evil_First_Age_EliteInfantryLevel7
-    TargetNames                       =    EVIL_FIRST_AGE_REGULAR
+    TargetNames                       =    GOOD_FIRST_AGE_REGULAR
     RequiredExperience                =    EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_7
     ExperienceAward                   =    EXPERIENCE_AWARD_FIRST_AGE_ELITE_HORDE_7
     InformUpdateModule                =    Yes
@@ -2057,7 +2120,7 @@ ExperienceLevel    Evil_First_Age_EliteInfantryLevel7
 End
 
 ExperienceLevel    Evil_First_Age_EliteInfantryLevel8
-    TargetNames                       =    EVIL_FIRST_AGE_REGULAR
+    TargetNames                       =    GOOD_FIRST_AGE_REGULAR
     RequiredExperience                =    EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_8
     ExperienceAward                   =    EXPERIENCE_AWARD_FIRST_AGE_ELITE_HORDE_8
     InformUpdateModule                =    Yes
@@ -2084,7 +2147,7 @@ ExperienceLevel    Evil_First_Age_EliteInfantryLevel8
 End
 
 ExperienceLevel    Evil_First_Age_EliteInfantryLevel9
-    TargetNames                       =    EVIL_FIRST_AGE_REGULAR
+    TargetNames                       =    GOOD_FIRST_AGE_REGULAR
     RequiredExperience                =    EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_9
     ExperienceAward                   =    EXPERIENCE_AWARD_FIRST_AGE_ELITE_HORDE_9
     InformUpdateModule                =    Yes
@@ -2111,7 +2174,7 @@ ExperienceLevel    Evil_First_Age_EliteInfantryLevel9
 End
 
 ExperienceLevel    Evil_First_Age_EliteInfantryLevel10
-    TargetNames                       =    EVIL_FIRST_AGE_REGULAR
+    TargetNames                       =    GOOD_FIRST_AGE_REGULAR
     RequiredExperience                =    EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_10
     ExperienceAward                   =    EXPERIENCE_AWARD_FIRST_AGE_ELITE_HORDE_10
     InformUpdateModule                =    Yes
@@ -2141,7 +2204,7 @@ End
 
 
 ExperienceLevel    Evil_Basic_Cavalry_Level1
-    TargetNames                       =    EVIL_BASIC_CAV
+    TargetNames                       =    GOOD_BASIC_CAV
     RequiredExperience                =    EXPERIENCE_REQUIRED_BASIC_CAV_HORDE_1
     ExperienceAward                   =    EXPERIENCE_AWARD_BASIC_CAV_HORDE_1
     Rank                              =    1
@@ -2159,7 +2222,7 @@ ExperienceLevel    Evil_Basic_Cavalry_Level1
 END
 
 ExperienceLevel    Evil_Basic_CavalryLevel2
-    TargetNames                       =    EVIL_BASIC_CAV
+    TargetNames                       =    GOOD_BASIC_CAV
     RequiredExperience                =    EXPERIENCE_REQUIRED_BASIC_CAV_HORDE_2
     ExperienceAward                   =    EXPERIENCE_AWARD_BASIC_CAV_HORDE_2
     Rank                              =    2
@@ -2184,7 +2247,7 @@ ExperienceLevel    Evil_Basic_CavalryLevel2
 END
 
 ExperienceLevel    Evil_Basic_CavalryLevel3
-    TargetNames                       =    EVIL_BASIC_CAV
+    TargetNames                       =    GOOD_BASIC_CAV
     RequiredExperience                =    EXPERIENCE_REQUIRED_BASIC_CAV_HORDE_3
     ExperienceAward                   =    EXPERIENCE_AWARD_BASIC_CAV_HORDE_3
     Rank                              =    3
@@ -2209,7 +2272,7 @@ ExperienceLevel    Evil_Basic_CavalryLevel3
 END
 
 ExperienceLevel    Evil_Basic_CavalryLevel4
-    TargetNames                       =    EVIL_BASIC_CAV
+    TargetNames                       =    GOOD_BASIC_CAV
     RequiredExperience                =    EXPERIENCE_REQUIRED_BASIC_CAV_HORDE_4
     ExperienceAward                   =    EXPERIENCE_AWARD_BASIC_CAV_HORDE_4
     Rank                              =    4
@@ -2234,7 +2297,7 @@ ExperienceLevel    Evil_Basic_CavalryLevel4
 END
 
 ExperienceLevel    Evil_Basic_CavalryLevel5
-    TargetNames                       =    EVIL_BASIC_CAV
+    TargetNames                       =    GOOD_BASIC_CAV
     RequiredExperience                =    EXPERIENCE_REQUIRED_BASIC_CAV_HORDE_5
     ExperienceAward                   =    EXPERIENCE_AWARD_BASIC_CAV_HORDE_5
     Rank                              =    5
