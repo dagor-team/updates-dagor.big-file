@@ -194,19 +194,6 @@
 ;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-#define BASICCAV_HORDE_HP_ADD_LVL2                85
-#define BASICCAV_HORDE_HP_ADD_LVL3                85
-#define BASICCAV_HORDE_HP_ADD_LVL4                85
-#define BASICCAV_HORDE_HP_ADD_LVL5                85
-
-#define BASICCAV_HORDE_DAMAGE_ADD_LVL2            12
-#define BASICCAV_HORDE_DAMAGE_ADD_LVL3            12
-#define BASICCAV_HORDE_DAMAGE_ADD_LVL4            12
-#define BASICCAV_HORDE_DAMAGE_ADD_LVL5            12
-
-;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
 #define ADVANCEDCAV_HORDE_HP_ADD_LVL2               110
 #define ADVANCEDCAV_HORDE_HP_ADD_LVL3               110
 #define ADVANCEDCAV_HORDE_HP_ADD_LVL4               110
