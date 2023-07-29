@@ -1,6 +1,8 @@
 Update 7.7.1
 
 Changes by Gimli:
+General Changes:
+-Builders should now resist enemy hero hits with ease, in order to kill buiilders players are expected to attack them with regular units,siege or powers. 
 Goblin
 -Drogoth is now properly recruitable from First Age fort.
 -Goblin hero recruitment centralized in the fort.
@@ -17,10 +19,10 @@ Lothlorien
 Imladris
 -Formenos Archers increased dmg.
 -Earendil's ship reduces enemy dmg by 25% and increases Armor by 10%.
-By Ninima 
-	updates all exp and attribute for evil units.
-	eonwe no longer crashes the game.
-	Witchking´s word of power is fixed
-	Witchking mount description fixed
+By Ninima
+-Updates all exp and attribute for evil units.
+-Eonwe no longer crashes the game.
+-Witchking´s word of power is fixed.
+-Witchking mount description fixed.
 
 
