@@ -4,7 +4,7 @@ DONE
 
 
 
-YET TO DO
+YET TO DO ( ooglie,gorgo stuffs)
 	gondor
 		4.tower guards formation armor nerf 
 	goblins
@@ -49,3 +49,21 @@ YET TO DO
 			-lvl 7 also usable on enemy buildings
 		9.haradrim archers 
 			-dmg increase to flying units
+
+Quick hotfix stuffs(Gimli)
+General
+-Scouts killing buillders fix
+-Valar healing objectfilter fix
+Dwarves
+-Telchar buffs
+-Ram Riders(dmg, bugged anim what is the issue?)
+-Durin buffs
+-Durin abilities boosted because obv reasons, duplicate and nerf
+-Celebrimbor nerf ability
+-Dwarven Catas make useless
+-Dain main attack wtf is this?
+-Murin Level 5 nerf
+-Drar Flame bolts nerf
+Imladris 
+-Nerf trample Arwen, horse loccked bheind building/level.
+
