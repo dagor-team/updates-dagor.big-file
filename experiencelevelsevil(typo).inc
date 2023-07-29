@@ -10,7 +10,8 @@
 
 #define EVIL_REGULAR_15 MordorEasterling MordorEasterlingHorde MordorEasterlingPorcupineHorde MordorEasterlingHordeMod MordorEasterlingHordePorcupineMod IsengardFighter IsengardFighterHorde IsengardFighterHordeBlock IsengardPikeman IsengardPikemanHorde IsengardPikemanHordePorcupine IsengardUrukCrossbow IsengardUrukCrossbowHorde IsengardShielduruk IsengardShieldurukHorde IsengardPikemanShieldurukComboHorde IsengardShieldurukCrossbowComboHorde IsengardFighterShieldurukComboHorde
 
-#define EVIL_REGULAR_15_SUMMONED IsengardFighter_Summoned IsengardFighterHorde_Summoned IsengardPikeman_Summoned IsengardPikemanHorde_Summoned IsengardUrukCrossbow_Summoned IsengardUrukCrossbowHorde_Summoned IsengardShielduruk_Summoned IsengardShieldurukHorde_Summoned IsengardShieldurukCrossbowComboHorde_Summoned IsengardPikemanShieldurukComboHorde_Summoned IsengardFighterShieldurukComboHorde_Summoned
+#define EVIL_REGULAR_15_SUMMONED IsengardFighter_Summoned IsengardFighterHorde_Summoned IsengardPikeman_Summoned IsengardPikemanHorde_Summoned IsengardUrukCrossbow_Summoned IsengardUrukCrossbowHorde_Summoned IsengardShielduruk_Summoned IsengardShieldurukHorde_Summoned
+IsengardShieldurukCrossbowComboHorde_Summoned IsengardPikemanShieldurukComboHorde_Summoned IsengardFighterShieldurukComboHorde_Summoned
 
 #define EVIL_REGULAR WildMarauder WildMarauderHorde WildMarauderHordeFormation WildBannerMarauder WildGundabadBanner WildGundabadArcher WildGundabadArcherHorde WildGundabadMarauderSwords WildGundabadMarauderSwordHorde HaradHaradrimLancer HaradHaradrimLancerHorde HaradHaradrimBanner HaradHaradrimArcher HaradHaradrimArcherHorde MordorHaradrimArcherHordeMod UmbarCorsairarcher UmbarCorsairarcher_Slaved UmbarCorsairarcherFloatingBuilding_Slaved UmbarCorsairarcherHorde MordorBlackUrukBanner MordorCirithSchnuffler AngmarOrkSchlachter AngmarBannerOrc AngmarOrkSchlachter1 AngmarOrkSchlachter2 AngmarOrkSchlachter3 AngmarOrkSchlachter4 AngmarOrkSchlachter5 AngmarOrkSchlachter6 AngmarOrkSchlachter7 AngmarOrkSchlachterHorde AngmarOrkSchlachterHordeFree MordorBlackUruk  MordorUrukBanner MordorBlackUrukBow  MordorBlackUrukBowHorde MordorBlackUrukBowHorde_Limit MordorBlackUrukBowHorde_forTower MordorBlackUrukHorde MordorBlackUrukHorde_Limit MordorBlackUrukHorde_forTower AngmarRhudaurKnochenbrecher AngmarRhudaurKnochenbrecherHorde AngmarInfantryBanner AngmarDarkDunedainHorde AngmarDarkDunedainHorde_Edikt AngmarDarkDunedain AngmarDunedainPikeman AngmarDunedainPikemanHorde AngmarDunedainPikemanHorde_Edikt AngmarDunedainPikemanHordePorcupine AngmarDunedainPikemanHordePorcupine_Edikt AngmarNecroAcolyte AngmarNecroAcolyte_Summoned IsengardUrukScout IsengardUrukScoutHorde IsengardScoutBanner IsengardWildelite IsengardWildeliteHorde IsengardWildeliteHordeKampagne HaradArcher HaradArcherHorde HaradArcherMumak HaradArcherMumakil HaradArcherBarricade_Slaved
 
@@ -2335,7 +2336,7 @@ ExperienceLevel    Evil_Basic_CavalryLevel5
     End
 END
 
-;----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-;----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 ExperienceLevel    Evil_Regular_Cavalry_Level1
@@ -3095,4 +3096,7 @@ ExperienceLevel    Evil_Basic_BeastsLevel5
 END
 
 
+;----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+
+>>>>>>> 59c2ef9f7c5f008b94440cff3c88505555ca9af7
