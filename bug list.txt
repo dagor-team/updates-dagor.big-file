@@ -19,7 +19,7 @@
 		-goldolin warrior		shows 65 actually cost 50(Fixed)
 		-wind riders			shows 65 actually cost 70(Fixed)
 	-Gondor
-		-Bal amroth knights	 	shows 90 actually cost 40(Fixed)
+		-dol maroth knights	 	shows 90 actually cost 40(Fixed)
 		-Tower gaurd		 	shows 50 actually cost 40(Fixed)
 		-Gondor archers		 	shows 40 actually cost 45(Fixed)
 		-Borahir axeman		 	shows 60 actually cost 55(Fixed)
