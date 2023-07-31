@@ -55,12 +55,12 @@ General
 -Scouts killing buillders fix
 -Valar healing objectfilter fix
 Dwarves
--Telchar buffs
--Ram Riders(dmg, bugged anim what is the issue?)
+-Telchar buffs?*
+-Ram Riders*
 -Durin buffs
--Durin abilities boosted because obv reasons, duplicate and nerf
--Celebrimbor nerf ability
--Dwarven Catas make useless
+-Durin abilities boosted because obv reasons, duplicate and nerf.Next patch
+-Celebrimbor nerfed his Magic resist leadership to proper value.
+-Dwarven Catas make useless.
 -Dain main attack wtf is this?
 -Murin Level 5 nerf
 -Drar Flame bolts nerf
