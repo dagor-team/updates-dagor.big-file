@@ -177,8 +177,7 @@ GetreueSchwertHordeHauptmannWedge IsenfurtWachter IsenfurtWachter_Summoned Isenf
 DwarvenGarde DwarvenGarde_Slaved DwarvenGardeHorde DwarvenGardeHordeAlternativ DruedainWeiser DruedainWeiserBanner DruedainKrieger DruedainKriegerHorde RohanSpearmen RohanSpearmenHorde RohanSpearmenHordeHordePorcupine GondorInfantryBanner
 
  
-
-                
+   
 
 
 
