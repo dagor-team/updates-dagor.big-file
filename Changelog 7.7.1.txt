@@ -19,6 +19,15 @@ Lothlorien
 Imladris
 -Formenos Archers increased dmg.
 -Earendil's ship reduces enemy dmg by 25% and increases Armor by 10%.
+-Durin Word of Silence fixed.
+-
+Mordor:
+-Easterling cav bonus fixed.
+Dwarves
+-Celebrimbor nerfed his Magic resist leadership to proper value.
+-Telchar level 10 leadership nerfed from 150% armor to 100% armor.
+-Telchar Debuff nerfed from -50% damage to -25%.
+-Ram Riders fixed weird Speed bug. Needs confirmation. 
 By Ninima
 -Updates all exp and attribute for evil units.
 -Eonwe no longer crashes the game.
