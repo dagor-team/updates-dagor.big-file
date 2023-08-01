@@ -1402,7 +1402,7 @@ End
 ;----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ExperienceLevel    Evil_Elite3_InfantryLevel1
-    TargetNames                       =    EVIL_EVIL_ELITE_TRIO
+    TargetNames                       =    EVIL_ELITE_TRIO
     RequiredExperience                =    EXPERIENCE_REQUIRED_ELITE_HORDE_1
     ExperienceAward                   =    EXPERIENCE_AWARD_ELITE_TRIO_HORDE_1
     InformUpdateModule                =    Yes
@@ -1428,7 +1428,7 @@ ExperienceLevel    Evil_Elite3_InfantryLevel1
 End
 
 ExperienceLevel    Evil_Elite3_InfantryLevel2
-    TargetNames                       =    EVIL_EVIL_ELITE_TRIO
+    TargetNames                       =    EVIL_ELITE_TRIO
     RequiredExperience                =    EXPERIENCE_REQUIRED_ELITE_HORDE_2
     ExperienceAward                   =    EXPERIENCE_AWARD_ELITE_TRIO_HORDE_2
     InformUpdateModule                =    Yes
@@ -1455,7 +1455,7 @@ ExperienceLevel    Evil_Elite3_InfantryLevel2
 End
 
 ExperienceLevel    Evil_Elite3_InfantryLevel3
-    TargetNames                       =    EVIL_EVIL_ELITE_TRIO
+    TargetNames                       =    EVIL_ELITE_TRIO
     RequiredExperience                =    EXPERIENCE_REQUIRED_ELITE_HORDE_3
     ExperienceAward                   =    EXPERIENCE_AWARD_ELITE_TRIO_HORDE_3
     InformUpdateModule                =    Yes
@@ -1482,7 +1482,7 @@ ExperienceLevel    Evil_Elite3_InfantryLevel3
 End
 
 ExperienceLevel    Evil_Elite3_InfantryLevel4
-    TargetNames                       =    EVIL_EVIL_ELITE_TRIO
+    TargetNames                       =    EVIL_ELITE_TRIO
     RequiredExperience                =    EXPERIENCE_REQUIRED_ELITE_HORDE_4
     ExperienceAward                   =    EXPERIENCE_AWARD_ELITE_TRIO_HORDE_4
     InformUpdateModule                =    Yes
@@ -1509,7 +1509,7 @@ ExperienceLevel    Evil_Elite3_InfantryLevel4
 End
 
 ExperienceLevel    Evil_Elite3_InfantryLevel5
-    TargetNames                       =    EVIL_EVIL_ELITE_TRIO
+    TargetNames                       =    EVIL_ELITE_TRIO
     RequiredExperience                =    EXPERIENCE_REQUIRED_ELITE_HORDE_5
     ExperienceAward                   =    EXPERIENCE_AWARD_ELITE_TRIO_HORDE_5
     InformUpdateModule                =    Yes
@@ -1536,7 +1536,7 @@ ExperienceLevel    Evil_Elite3_InfantryLevel5
 End
 
 ExperienceLevel    Evil_Elite3_InfantryLevel6
-    TargetNames                       =    EVIL_EVIL_ELITE_TRIO
+    TargetNames                       =    EVIL_ELITE_TRIO
     RequiredExperience                =    EXPERIENCE_REQUIRED_ELITE_HORDE_6
     ExperienceAward                   =    EXPERIENCE_AWARD_ELITE_TRIO_HORDE_6
     InformUpdateModule                =    Yes
@@ -1563,7 +1563,7 @@ ExperienceLevel    Evil_Elite3_InfantryLevel6
 End
 
 ExperienceLevel    Evil_Elite3_InfantryLevel7
-    TargetNames                       =    EVIL_EVIL_ELITE_TRIO
+    TargetNames                       =    EVIL_ELITE_TRIO
     RequiredExperience                =    EXPERIENCE_REQUIRED_ELITE_HORDE_7
     ExperienceAward                   =    EXPERIENCE_AWARD_ELITE_TRIO_HORDE_7
     InformUpdateModule                =    Yes
@@ -1590,7 +1590,7 @@ ExperienceLevel    Evil_Elite3_InfantryLevel7
 End
 
 ExperienceLevel    Evil_Elite3_InfantryLevel8
-    TargetNames                       =    EVIL_EVIL_ELITE_TRIO
+    TargetNames                       =    EVIL_ELITE_TRIO
     RequiredExperience                =    EXPERIENCE_REQUIRED_ELITE_HORDE_8
     ExperienceAward                   =    EXPERIENCE_AWARD_ELITE_TRIO_HORDE_8
     InformUpdateModule                =    Yes
@@ -1617,7 +1617,7 @@ ExperienceLevel    Evil_Elite3_InfantryLevel8
 End
 
 ExperienceLevel    Evil_Elite3_InfantryLevel9
-    TargetNames                       =    EVIL_EVIL_ELITE_TRIO
+    TargetNames                       =    EVIL_ELITE_TRIO
     RequiredExperience                =    EXPERIENCE_REQUIRED_ELITE_HORDE_9
     ExperienceAward                   =    EXPERIENCE_AWARD_ELITE_TRIO_HORDE_9
     InformUpdateModule                =    Yes
@@ -1644,7 +1644,7 @@ ExperienceLevel    Evil_Elite3_InfantryLevel9
 End
 
 ExperienceLevel    Evil_Elite3_InfantryLevel10
-    TargetNames                       =    EVIL_EVIL_ELITE_TRIO
+    TargetNames                       =    EVIL_ELITE_TRIO
     RequiredExperience                =    EXPERIENCE_REQUIRED_ELITE_HORDE_10
     ExperienceAward                   =    EXPERIENCE_AWARD_ELITE_TRIO_HORDE_10
     InformUpdateModule                =    Yes
@@ -2194,6 +2194,2183 @@ ExperienceLevel    Evil_First_Age_EliteInfantryLevel10
     InformUpdateModule                =    Yes
     Rank                              =    10
     AttributeModifiers                =    First_Age_EliteInfantryHordeBonusRank10
+    Upgrades                          =    Upgrade_EliteHordeLvl10
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+
+    SelectionDecal
+        Texture                       =    decal_I_level4
+        Texture2                      =    decal_evil_CO
+        Style                         =    SHADOW_MERGE_DECAL
+        OpacityMin                    =    80%
+        OpacityMax                    =    100%
+        MinRadius                     =    40
+        MaxRadius                     =    200
+        MaxSelectedUnits              =    40
+    End
+End
+
+
+;----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ExperienceLevel    Evil_First_Age_RegularFlyingLevel1
+    TargetNames                       =    EVIL_FIRST_AGE_REGULAR_FLYING
+    RequiredExperience                =    EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_1
+    ExperienceAward                   =    EXPERIENCE_AWARD_FIRST_AGE_REGULAR_FLYING_HORDE_1
+    InformUpdateModule                =    Yes
+    Rank                              =    1
+    Upgrades                          =    Upgrade_EliteHordeLvl1
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+
+    SelectionDecal
+        Texture                       =    decal_I_level4
+        Texture2                      =    decal_evil_CO
+        Style                         =    SHADOW_MERGE_DECAL
+        OpacityMin                    =    80%
+        OpacityMax                    =    100%
+        MinRadius                     =    40
+        MaxRadius                     =    200
+        MaxSelectedUnits              =    40
+    End
+End
+
+ExperienceLevel    Evil_First_Age_RegularFlyingLevel2
+    TargetNames                       =    EVIL_FIRST_AGE_REGULAR_FLYING
+    RequiredExperience                =    EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_2
+    ExperienceAward                   =    EXPERIENCE_AWARD_FIRST_AGE_REGULAR_FLYING_HORDE_2
+    InformUpdateModule                =    Yes
+    Rank                              =    2
+    AttributeModifiers                =    First_Age_RegularFlyingHordeBonusRank2
+    Upgrades                          =    Upgrade_EliteHordeLvl2
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+
+    SelectionDecal
+        Texture                       =    decal_I_level4
+        Texture2                      =    decal_evil_CO
+        Style                         =    SHADOW_MERGE_DECAL
+        OpacityMin                    =    80%
+        OpacityMax                    =    100%
+        MinRadius                     =    40
+        MaxRadius                     =    200
+        MaxSelectedUnits              =    40
+    End
+End
+
+ExperienceLevel    Evil_First_Age_RegularFlyingLevel3
+    TargetNames                       =    EVIL_FIRST_AGE_REGULAR_FLYING
+    RequiredExperience                =    EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_3
+    ExperienceAward                   =    EXPERIENCE_AWARD_FIRST_AGE_REGULAR_FLYING_HORDE_3
+    InformUpdateModule                =    Yes
+    Rank                              =    3
+    AttributeModifiers                =    First_Age_RegularFlyingHordeBonusRank3
+    Upgrades                          =    Upgrade_EliteHordeLvl3
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+
+    SelectionDecal
+        Texture                       =    decal_I_level4
+        Texture2                      =    decal_evil_CO
+        Style                         =    SHADOW_MERGE_DECAL
+        OpacityMin                    =    80%
+        OpacityMax                    =    100%
+        MinRadius                     =    40
+        MaxRadius                     =    200
+        MaxSelectedUnits              =    40
+    End
+End
+
+ExperienceLevel    Evil_First_Age_RegularFlyingLevel4
+    TargetNames                       =    EVIL_FIRST_AGE_REGULAR_FLYING
+    RequiredExperience                =    EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_4
+    ExperienceAward                   =    EXPERIENCE_AWARD_FIRST_AGE_REGULAR_FLYING_HORDE_4
+    InformUpdateModule                =    Yes
+    Rank                              =    4
+    AttributeModifiers                =    First_Age_RegularFlyingHordeBonusRank4
+    Upgrades                          =    Upgrade_EliteHordeLvl4
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+
+    SelectionDecal
+        Texture                       =    decal_I_level4
+        Texture2                      =    decal_evil_CO
+        Style                         =    SHADOW_MERGE_DECAL
+        OpacityMin                    =    80%
+        OpacityMax                    =    100%
+        MinRadius                     =    40
+        MaxRadius                     =    200
+        MaxSelectedUnits              =    40
+    End
+End
+
+ExperienceLevel    Evil_First_Age_RegularFlyingLevel5
+    TargetNames                       =    EVIL_FIRST_AGE_REGULAR_FLYING
+    RequiredExperience                =    EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_5
+    ExperienceAward                   =    EXPERIENCE_AWARD_FIRST_AGE_REGULAR_FLYING_HORDE_5
+    InformUpdateModule                =    Yes
+    Rank                              =    5
+    AttributeModifiers                =    First_Age_RegularFlyingHordeBonusRank5
+    Upgrades                          =    Upgrade_EliteHordeLvl5
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+
+    SelectionDecal
+        Texture                       =    decal_I_level4
+        Texture2                      =    decal_evil_CO
+        Style                         =    SHADOW_MERGE_DECAL
+        OpacityMin                    =    80%
+        OpacityMax                    =    100%
+        MinRadius                     =    40
+        MaxRadius                     =    200
+        MaxSelectedUnits              =    40
+    End
+End
+
+ExperienceLevel    Evil_First_Age_RegularFlyingLevel6
+    TargetNames                       =    EVIL_FIRST_AGE_REGULAR_FLYING
+    RequiredExperience                =    EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_6
+    ExperienceAward                   =    EXPERIENCE_AWARD_FIRST_AGE_REGULAR_FLYING_HORDE_6
+    InformUpdateModule                =    Yes
+    Rank                              =    6
+    AttributeModifiers                =    First_Age_RegularFlyingHordeBonusRank6
+    Upgrades                          =    Upgrade_EliteHordeLvl6
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+
+    SelectionDecal
+        Texture                       =    decal_I_level4
+        Texture2                      =    decal_evil_CO
+        Style                         =    SHADOW_MERGE_DECAL
+        OpacityMin                    =    80%
+        OpacityMax                    =    100%
+        MinRadius                     =    40
+        MaxRadius                     =    200
+        MaxSelectedUnits              =    40
+    End
+End
+
+ExperienceLevel    Evil_First_Age_RegularFlyingLevel7
+    TargetNames                       =    EVIL_FIRST_AGE_REGULAR_FLYING
+    RequiredExperience                =    EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_7
+    ExperienceAward                   =    EXPERIENCE_AWARD_FIRST_AGE_REGULAR_FLYING_HORDE_7
+    InformUpdateModule                =    Yes
+    Rank                              =    7
+    AttributeModifiers                =    First_Age_RegularFlyingHordeBonusRank7
+    Upgrades                          =    Upgrade_EliteHordeLvl7 Upgrade_FormenosForgedBlades
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+
+    SelectionDecal
+        Texture                       =    decal_I_level4
+        Texture2                      =    decal_evil_CO
+        Style                         =    SHADOW_MERGE_DECAL
+        OpacityMin                    =    80%
+        OpacityMax                    =    100%
+        MinRadius                     =    40
+        MaxRadius                     =    200
+        MaxSelectedUnits              =    40
+    End
+End
+
+ExperienceLevel    Evil_First_Age_RegularFlyingLevel8
+    TargetNames                       =    EVIL_FIRST_AGE_REGULAR_FLYING
+    RequiredExperience                =    EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_8
+    ExperienceAward                   =    EXPERIENCE_AWARD_FIRST_AGE_REGULAR_FLYING_HORDE_8
+    InformUpdateModule                =    Yes
+    Rank                              =    8
+    AttributeModifiers                =    First_Age_RegularFlyingHordeBonusRank8
+    Upgrades                          =    Upgrade_EliteHordeLvl8
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+
+    SelectionDecal
+        Texture                       =    decal_I_level4
+        Texture2                      =    decal_evil_CO
+        Style                         =    SHADOW_MERGE_DECAL
+        OpacityMin                    =    80%
+        OpacityMax                    =    100%
+        MinRadius                     =    40
+        MaxRadius                     =    200
+        MaxSelectedUnits              =    40
+    End
+End
+
+ExperienceLevel    Evil_First_Age_RegularFlyingLevel9
+    TargetNames                       =    EVIL_FIRST_AGE_REGULAR_FLYING
+    RequiredExperience                =    EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_9
+    ExperienceAward                   =    EXPERIENCE_AWARD_FIRST_AGE_REGULAR_FLYING_HORDE_9
+    InformUpdateModule                =    Yes
+    Rank                              =    9
+    AttributeModifiers                =    First_Age_RegularFlyingHordeBonusRank9
+    Upgrades                          =    Upgrade_EliteHordeLvl9
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+
+    SelectionDecal
+        Texture                       =    decal_I_level4
+        Texture2                      =    decal_evil_CO
+        Style                         =    SHADOW_MERGE_DECAL
+        OpacityMin                    =    80%
+        OpacityMax                    =    100%
+        MinRadius                     =    40
+        MaxRadius                     =    200
+        MaxSelectedUnits              =    40
+    End
+End
+
+ExperienceLevel    Evil_First_Age_RegularFlyingLevel10
+    TargetNames                       =    EVIL_FIRST_AGE_REGULAR_FLYING
+    RequiredExperience                =    EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_10
+    ExperienceAward                   =    EXPERIENCE_AWARD_FIRST_AGE_REGULAR_FLYING_HORDE_10
+    InformUpdateModule                =    Yes
+    Rank                              =    10
+    AttributeModifiers                =    First_Age_RegularFlyingHordeBonusRank10
+    Upgrades                          =    Upgrade_EliteHordeLvl10
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+
+    SelectionDecal
+        Texture                       =    decal_I_level4
+        Texture2                      =    decal_evil_CO
+        Style                         =    SHADOW_MERGE_DECAL
+        OpacityMin                    =    80%
+        OpacityMax                    =    100%
+        MinRadius                     =    40
+        MaxRadius                     =    200
+        MaxSelectedUnits              =    40
+    End
+End
+
+;----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+ExperienceLevel    Evil_First_Age_RegularFlyingLevel1
+    TargetNames                       =    EVIL_FIRST_AGE_REGULAR_FLYING
+    RequiredExperience                =    EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_1
+    ExperienceAward                   =    EXPERIENCE_AWARD_FIRST_AGE_REGULAR_FLYING_HORDE_1
+    InformUpdateModule                =    Yes
+    Rank                              =    1
+    Upgrades                          =    Upgrade_EliteHordeLvl1
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+
+    SelectionDecal
+        Texture                       =    decal_I_level4
+        Texture2                      =    decal_evil_CO
+        Style                         =    SHADOW_MERGE_DECAL
+        OpacityMin                    =    80%
+        OpacityMax                    =    100%
+        MinRadius                     =    40
+        MaxRadius                     =    200
+        MaxSelectedUnits              =    40
+    End
+End
+
+ExperienceLevel    Evil_First_Age_RegularFlyingLevel2
+    TargetNames                       =    EVIL_FIRST_AGE_REGULAR_FLYING
+    RequiredExperience                =    EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_2
+    ExperienceAward                   =    EXPERIENCE_AWARD_FIRST_AGE_REGULAR_FLYING_HORDE_2
+    InformUpdateModule                =    Yes
+    Rank                              =    2
+    AttributeModifiers                =    First_Age_RegularFlyingHordeBonusRank2
+    Upgrades                          =    Upgrade_EliteHordeLvl2
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+
+    SelectionDecal
+        Texture                       =    decal_I_level4
+        Texture2                      =    decal_evil_CO
+        Style                         =    SHADOW_MERGE_DECAL
+        OpacityMin                    =    80%
+        OpacityMax                    =    100%
+        MinRadius                     =    40
+        MaxRadius                     =    200
+        MaxSelectedUnits              =    40
+    End
+End
+
+ExperienceLevel    Evil_First_Age_RegularFlyingLevel3
+    TargetNames                       =    EVIL_FIRST_AGE_REGULAR_FLYING
+    RequiredExperience                =    EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_3
+    ExperienceAward                   =    EXPERIENCE_AWARD_FIRST_AGE_REGULAR_FLYING_HORDE_3
+    InformUpdateModule                =    Yes
+    Rank                              =    3
+    AttributeModifiers                =    First_Age_RegularFlyingHordeBonusRank3
+    Upgrades                          =    Upgrade_EliteHordeLvl3
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+
+    SelectionDecal
+        Texture                       =    decal_I_level4
+        Texture2                      =    decal_evil_CO
+        Style                         =    SHADOW_MERGE_DECAL
+        OpacityMin                    =    80%
+        OpacityMax                    =    100%
+        MinRadius                     =    40
+        MaxRadius                     =    200
+        MaxSelectedUnits              =    40
+    End
+End
+
+ExperienceLevel    Evil_First_Age_RegularFlyingLevel4
+    TargetNames                       =    EVIL_FIRST_AGE_REGULAR_FLYING
+    RequiredExperience                =    EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_4
+    ExperienceAward                   =    EXPERIENCE_AWARD_FIRST_AGE_REGULAR_FLYING_HORDE_4
+    InformUpdateModule                =    Yes
+    Rank                              =    4
+    AttributeModifiers                =    First_Age_RegularFlyingHordeBonusRank4
+    Upgrades                          =    Upgrade_EliteHordeLvl4
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+
+    SelectionDecal
+        Texture                       =    decal_I_level4
+        Texture2                      =    decal_evil_CO
+        Style                         =    SHADOW_MERGE_DECAL
+        OpacityMin                    =    80%
+        OpacityMax                    =    100%
+        MinRadius                     =    40
+        MaxRadius                     =    200
+        MaxSelectedUnits              =    40
+    End
+End
+
+ExperienceLevel    Evil_First_Age_RegularFlyingLevel5
+    TargetNames                       =    EVIL_FIRST_AGE_REGULAR_FLYING
+    RequiredExperience                =    EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_5
+    ExperienceAward                   =    EXPERIENCE_AWARD_FIRST_AGE_REGULAR_FLYING_HORDE_5
+    InformUpdateModule                =    Yes
+    Rank                              =    5
+    AttributeModifiers                =    First_Age_RegularFlyingHordeBonusRank5
+    Upgrades                          =    Upgrade_EliteHordeLvl5
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+
+    SelectionDecal
+        Texture                       =    decal_I_level4
+        Texture2                      =    decal_evil_CO
+        Style                         =    SHADOW_MERGE_DECAL
+        OpacityMin                    =    80%
+        OpacityMax                    =    100%
+        MinRadius                     =    40
+        MaxRadius                     =    200
+        MaxSelectedUnits              =    40
+    End
+End
+
+ExperienceLevel    Evil_First_Age_RegularFlyingLevel6
+    TargetNames                       =    EVIL_FIRST_AGE_REGULAR_FLYING
+    RequiredExperience                =    EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_6
+    ExperienceAward                   =    EXPERIENCE_AWARD_FIRST_AGE_REGULAR_FLYING_HORDE_6
+    InformUpdateModule                =    Yes
+    Rank                              =    6
+    AttributeModifiers                =    First_Age_RegularFlyingHordeBonusRank6
+    Upgrades                          =    Upgrade_EliteHordeLvl6
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+
+    SelectionDecal
+        Texture                       =    decal_I_level4
+        Texture2                      =    decal_evil_CO
+        Style                         =    SHADOW_MERGE_DECAL
+        OpacityMin                    =    80%
+        OpacityMax                    =    100%
+        MinRadius                     =    40
+        MaxRadius                     =    200
+        MaxSelectedUnits              =    40
+    End
+End
+
+ExperienceLevel    Evil_First_Age_RegularFlyingLevel7
+    TargetNames                       =    EVIL_FIRST_AGE_REGULAR_FLYING
+    RequiredExperience                =    EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_7
+    ExperienceAward                   =    EXPERIENCE_AWARD_FIRST_AGE_REGULAR_FLYING_HORDE_7
+    InformUpdateModule                =    Yes
+    Rank                              =    7
+    AttributeModifiers                =    First_Age_RegularFlyingHordeBonusRank7
+    Upgrades                          =    Upgrade_EliteHordeLvl7 Upgrade_FormenosForgedBlades
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+
+    SelectionDecal
+        Texture                       =    decal_I_level4
+        Texture2                      =    decal_evil_CO
+        Style                         =    SHADOW_MERGE_DECAL
+        OpacityMin                    =    80%
+        OpacityMax                    =    100%
+        MinRadius                     =    40
+        MaxRadius                     =    200
+        MaxSelectedUnits              =    40
+    End
+End
+
+ExperienceLevel    Evil_First_Age_RegularFlyingLevel8
+    TargetNames                       =    EVIL_FIRST_AGE_REGULAR_FLYING
+    RequiredExperience                =    EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_8
+    ExperienceAward                   =    EXPERIENCE_AWARD_FIRST_AGE_REGULAR_FLYING_HORDE_8
+    InformUpdateModule                =    Yes
+    Rank                              =    8
+    AttributeModifiers                =    First_Age_RegularFlyingHordeBonusRank8
+    Upgrades                          =    Upgrade_EliteHordeLvl8
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+
+    SelectionDecal
+        Texture                       =    decal_I_level4
+        Texture2                      =    decal_evil_CO
+        Style                         =    SHADOW_MERGE_DECAL
+        OpacityMin                    =    80%
+        OpacityMax                    =    100%
+        MinRadius                     =    40
+        MaxRadius                     =    200
+        MaxSelectedUnits              =    40
+    End
+End
+
+ExperienceLevel    Evil_First_Age_RegularFlyingLevel9
+    TargetNames                       =    EVIL_FIRST_AGE_REGULAR_FLYING
+    RequiredExperience                =    EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_9
+    ExperienceAward                   =    EXPERIENCE_AWARD_FIRST_AGE_REGULAR_FLYING_HORDE_9
+    InformUpdateModule                =    Yes
+    Rank                              =    9
+    AttributeModifiers                =    First_Age_RegularFlyingHordeBonusRank9
+    Upgrades                          =    Upgrade_EliteHordeLvl9
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+
+    SelectionDecal
+        Texture                       =    decal_I_level4
+        Texture2                      =    decal_evil_CO
+        Style                         =    SHADOW_MERGE_DECAL
+        OpacityMin                    =    80%
+        OpacityMax                    =    100%
+        MinRadius                     =    40
+        MaxRadius                     =    200
+        MaxSelectedUnits              =    40
+    End
+End
+
+ExperienceLevel    Evil_First_Age_RegularFlyingLevel10
+    TargetNames                       =    EVIL_FIRST_AGE_REGULAR_FLYING
+    RequiredExperience                =    EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_10
+    ExperienceAward                   =    EXPERIENCE_AWARD_FIRST_AGE_REGULAR_FLYING_HORDE_10
+    InformUpdateModule                =    Yes
+    Rank                              =    10
+    AttributeModifiers                =    First_Age_RegularFlyingHordeBonusRank10
+    Upgrades                          =    Upgrade_EliteHordeLvl10
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+
+    SelectionDecal
+        Texture                       =    decal_I_level4
+        Texture2                      =    decal_evil_CO
+        Style                         =    SHADOW_MERGE_DECAL
+        OpacityMin                    =    80%
+        OpacityMax                    =    100%
+        MinRadius                     =    40
+        MaxRadius                     =    200
+        MaxSelectedUnits              =    40
+    End
+End
+
+;----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+ExperienceLevel    Evil_First_Age_BetterFlyingLevel1
+    TargetNames                       =    EVIL_FIRST_AGE_BETTER_FLYING
+    RequiredExperience                =    EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_1
+    ExperienceAward                   =    EXPERIENCE_AWARD_FIRST_AGE_BETTER_FLYING_HORDE_1
+    InformUpdateModule                =    Yes
+    Rank                              =    1
+    Upgrades                          =    Upgrade_EliteHordeLvl1
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+
+    SelectionDecal
+        Texture                       =    decal_I_level4
+        Texture2                      =    decal_evil_CO
+        Style                         =    SHADOW_MERGE_DECAL
+        OpacityMin                    =    80%
+        OpacityMax                    =    100%
+        MinRadius                     =    40
+        MaxRadius                     =    200
+        MaxSelectedUnits              =    40
+    End
+End
+
+ExperienceLevel    Evil_First_Age_BetterFlyingLevel2
+    TargetNames                       =    EVIL_FIRST_AGE_BETTER_FLYING
+    RequiredExperience                =    EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_2
+    ExperienceAward                   =    EXPERIENCE_AWARD_FIRST_AGE_BETTER_FLYING_HORDE_2
+    InformUpdateModule                =    Yes
+    Rank                              =    2
+    AttributeModifiers                =    First_Age_BetterFlyingHordeBonusRank2
+    Upgrades                          =    Upgrade_EliteHordeLvl2
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+
+    SelectionDecal
+        Texture                       =    decal_I_level4
+        Texture2                      =    decal_evil_CO
+        Style                         =    SHADOW_MERGE_DECAL
+        OpacityMin                    =    80%
+        OpacityMax                    =    100%
+        MinRadius                     =    40
+        MaxRadius                     =    200
+        MaxSelectedUnits              =    40
+    End
+End
+
+ExperienceLevel    Evil_First_Age_BetterFlyingLevel3
+    TargetNames                       =    EVIL_FIRST_AGE_BETTER_FLYING
+    RequiredExperience                =    EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_3
+    ExperienceAward                   =    EXPERIENCE_AWARD_FIRST_AGE_BETTER_FLYING_HORDE_3
+    InformUpdateModule                =    Yes
+    Rank                              =    3
+    AttributeModifiers                =    First_Age_BetterFlyingHordeBonusRank3
+    Upgrades                          =    Upgrade_EliteHordeLvl3
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+
+    SelectionDecal
+        Texture                       =    decal_I_level4
+        Texture2                      =    decal_evil_CO
+        Style                         =    SHADOW_MERGE_DECAL
+        OpacityMin                    =    80%
+        OpacityMax                    =    100%
+        MinRadius                     =    40
+        MaxRadius                     =    200
+        MaxSelectedUnits              =    40
+    End
+End
+
+ExperienceLevel    Evil_First_Age_BetterFlyingLevel4
+    TargetNames                       =    EVIL_FIRST_AGE_BETTER_FLYING
+    RequiredExperience                =    EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_4
+    ExperienceAward                   =    EXPERIENCE_AWARD_FIRST_AGE_BETTER_FLYING_HORDE_4
+    InformUpdateModule                =    Yes
+    Rank                              =    4
+    AttributeModifiers                =    First_Age_BetterFlyingHordeBonusRank4
+    Upgrades                          =    Upgrade_EliteHordeLvl4
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+
+    SelectionDecal
+        Texture                       =    decal_I_level4
+        Texture2                      =    decal_evil_CO
+        Style                         =    SHADOW_MERGE_DECAL
+        OpacityMin                    =    80%
+        OpacityMax                    =    100%
+        MinRadius                     =    40
+        MaxRadius                     =    200
+        MaxSelectedUnits              =    40
+    End
+End
+
+ExperienceLevel    Evil_First_Age_BetterFlyingLevel5
+    TargetNames                       =    EVIL_FIRST_AGE_BETTER_FLYING
+    RequiredExperience                =    EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_5
+    ExperienceAward                   =    EXPERIENCE_AWARD_FIRST_AGE_BETTER_FLYING_HORDE_5
+    InformUpdateModule                =    Yes
+    Rank                              =    5
+    AttributeModifiers                =    First_Age_BetterFlyingHordeBonusRank5
+    Upgrades                          =    Upgrade_EliteHordeLvl5
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+
+    SelectionDecal
+        Texture                       =    decal_I_level4
+        Texture2                      =    decal_evil_CO
+        Style                         =    SHADOW_MERGE_DECAL
+        OpacityMin                    =    80%
+        OpacityMax                    =    100%
+        MinRadius                     =    40
+        MaxRadius                     =    200
+        MaxSelectedUnits              =    40
+    End
+End
+
+ExperienceLevel    Evil_First_Age_BetterFlyingLevel6
+    TargetNames                       =    EVIL_FIRST_AGE_BETTER_FLYING
+    RequiredExperience                =    EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_6
+    ExperienceAward                   =    EXPERIENCE_AWARD_FIRST_AGE_BETTER_FLYING_HORDE_6
+    InformUpdateModule                =    Yes
+    Rank                              =    6
+    AttributeModifiers                =    First_Age_BetterFlyingHordeBonusRank6
+    Upgrades                          =    Upgrade_EliteHordeLvl6
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+
+    SelectionDecal
+        Texture                       =    decal_I_level4
+        Texture2                      =    decal_evil_CO
+        Style                         =    SHADOW_MERGE_DECAL
+        OpacityMin                    =    80%
+        OpacityMax                    =    100%
+        MinRadius                     =    40
+        MaxRadius                     =    200
+        MaxSelectedUnits              =    40
+    End
+End
+
+ExperienceLevel    Evil_First_Age_BetterFlyingLevel7
+    TargetNames                       =    EVIL_FIRST_AGE_BETTER_FLYING
+    RequiredExperience                =    EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_7
+    ExperienceAward                   =    EXPERIENCE_AWARD_FIRST_AGE_BETTER_FLYING_HORDE_7
+    InformUpdateModule                =    Yes
+    Rank                              =    7
+    AttributeModifiers                =    First_Age_BetterFlyingHordeBonusRank7
+    Upgrades                          =    Upgrade_EliteHordeLvl7 Upgrade_FormenosForgedBlades
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+
+    SelectionDecal
+        Texture                       =    decal_I_level4
+        Texture2                      =    decal_evil_CO
+        Style                         =    SHADOW_MERGE_DECAL
+        OpacityMin                    =    80%
+        OpacityMax                    =    100%
+        MinRadius                     =    40
+        MaxRadius                     =    200
+        MaxSelectedUnits              =    40
+    End
+End
+
+ExperienceLevel    Evil_First_Age_BetterFlyingLevel8
+    TargetNames                       =    EVIL_FIRST_AGE_BETTER_FLYING
+    RequiredExperience                =    EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_8
+    ExperienceAward                   =    EXPERIENCE_AWARD_FIRST_AGE_BETTER_FLYING_HORDE_8
+    InformUpdateModule                =    Yes
+    Rank                              =    8
+    AttributeModifiers                =    First_Age_BetterFlyingHordeBonusRank8
+    Upgrades                          =    Upgrade_EliteHordeLvl8
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+
+    SelectionDecal
+        Texture                       =    decal_I_level4
+        Texture2                      =    decal_evil_CO
+        Style                         =    SHADOW_MERGE_DECAL
+        OpacityMin                    =    80%
+        OpacityMax                    =    100%
+        MinRadius                     =    40
+        MaxRadius                     =    200
+        MaxSelectedUnits              =    40
+    End
+End
+
+ExperienceLevel    Evil_First_Age_BetterFlyingLevel9
+    TargetNames                       =    EVIL_FIRST_AGE_BETTER_FLYING
+    RequiredExperience                =    EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_9
+    ExperienceAward                   =    EXPERIENCE_AWARD_FIRST_AGE_BETTER_FLYING_HORDE_9
+    InformUpdateModule                =    Yes
+    Rank                              =    9
+    AttributeModifiers                =    First_Age_BetterFlyingHordeBonusRank9
+    Upgrades                          =    Upgrade_EliteHordeLvl9
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+
+    SelectionDecal
+        Texture                       =    decal_I_level4
+        Texture2                      =    decal_evil_CO
+        Style                         =    SHADOW_MERGE_DECAL
+        OpacityMin                    =    80%
+        OpacityMax                    =    100%
+        MinRadius                     =    40
+        MaxRadius                     =    200
+        MaxSelectedUnits              =    40
+    End
+End
+
+ExperienceLevel    Evil_First_Age_BetterFlyingLevel10
+    TargetNames                       =    EVIL_FIRST_AGE_BETTER_FLYING
+    RequiredExperience                =    EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_10
+    ExperienceAward                   =    EXPERIENCE_AWARD_FIRST_AGE_BETTER_FLYING_HORDE_10
+    InformUpdateModule                =    Yes
+    Rank                              =    10
+    AttributeModifiers                =    First_Age_BetterFlyingHordeBonusRank10
+    Upgrades                          =    Upgrade_EliteHordeLvl10
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+
+    SelectionDecal
+        Texture                       =    decal_I_level4
+        Texture2                      =    decal_evil_CO
+        Style                         =    SHADOW_MERGE_DECAL
+        OpacityMin                    =    80%
+        OpacityMax                    =    100%
+        MinRadius                     =    40
+        MaxRadius                     =    200
+        MaxSelectedUnits              =    40
+    End
+End
+
+;----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+ExperienceLevel    Evil_First_Age_LegendaryFlyingLevel1
+    TargetNames                       =    EVIL_FIRST_AGE_LEGENDARY_FLYING
+    RequiredExperience                =    EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_1
+    ExperienceAward                   =    EXPERIENCE_AWARD_FIRST_AGE_LEGENDARY_FLYING_HORDE_1
+    InformUpdateModule                =    Yes
+    Rank                              =    1
+    Upgrades                          =    Upgrade_EliteHordeLvl1
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+
+    SelectionDecal
+        Texture                       =    decal_I_level4
+        Texture2                      =    decal_evil_CO
+        Style                         =    SHADOW_MERGE_DECAL
+        OpacityMin                    =    80%
+        OpacityMax                    =    100%
+        MinRadius                     =    40
+        MaxRadius                     =    200
+        MaxSelectedUnits              =    40
+    End
+End
+
+ExperienceLevel    Evil_First_Age_LegendaryFlyingLevel2
+    TargetNames                       =    EVIL_FIRST_AGE_LEGENDARY_FLYING
+    RequiredExperience                =    EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_2
+    ExperienceAward                   =    EXPERIENCE_AWARD_FIRST_AGE_LEGENDARY_FLYING_HORDE_2
+    InformUpdateModule                =    Yes
+    Rank                              =    2
+    AttributeModifiers                =    First_Age_LegendaryFlyingHordeBonusRank2
+    Upgrades                          =    Upgrade_EliteHordeLvl2
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+
+    SelectionDecal
+        Texture                       =    decal_I_level4
+        Texture2                      =    decal_evil_CO
+        Style                         =    SHADOW_MERGE_DECAL
+        OpacityMin                    =    80%
+        OpacityMax                    =    100%
+        MinRadius                     =    40
+        MaxRadius                     =    200
+        MaxSelectedUnits              =    40
+    End
+End
+
+ExperienceLevel    Evil_First_Age_LegendaryFlyingLevel3
+    TargetNames                       =    EVIL_FIRST_AGE_LEGENDARY_FLYING
+    RequiredExperience                =    EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_3
+    ExperienceAward                   =    EXPERIENCE_AWARD_FIRST_AGE_LEGENDARY_FLYING_HORDE_3
+    InformUpdateModule                =    Yes
+    Rank                              =    3
+    AttributeModifiers                =    First_Age_LegendaryFlyingHordeBonusRank3
+    Upgrades                          =    Upgrade_EliteHordeLvl3
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+
+    SelectionDecal
+        Texture                       =    decal_I_level4
+        Texture2                      =    decal_evil_CO
+        Style                         =    SHADOW_MERGE_DECAL
+        OpacityMin                    =    80%
+        OpacityMax                    =    100%
+        MinRadius                     =    40
+        MaxRadius                     =    200
+        MaxSelectedUnits              =    40
+    End
+End
+
+ExperienceLevel    Evil_First_Age_LegendaryFlyingLevel4
+    TargetNames                       =    EVIL_FIRST_AGE_LEGENDARY_FLYING
+    RequiredExperience                =    EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_4
+    ExperienceAward                   =    EXPERIENCE_AWARD_FIRST_AGE_LEGENDARY_FLYING_HORDE_4
+    InformUpdateModule                =    Yes
+    Rank                              =    4
+    AttributeModifiers                =    First_Age_LegendaryFlyingHordeBonusRank4
+    Upgrades                          =    Upgrade_EliteHordeLvl4
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+
+    SelectionDecal
+        Texture                       =    decal_I_level4
+        Texture2                      =    decal_evil_CO
+        Style                         =    SHADOW_MERGE_DECAL
+        OpacityMin                    =    80%
+        OpacityMax                    =    100%
+        MinRadius                     =    40
+        MaxRadius                     =    200
+        MaxSelectedUnits              =    40
+    End
+End
+
+ExperienceLevel    Evil_First_Age_LegendaryFlyingLevel5
+    TargetNames                       =    EVIL_FIRST_AGE_LEGENDARY_FLYING
+    RequiredExperience                =    EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_5
+    ExperienceAward                   =    EXPERIENCE_AWARD_FIRST_AGE_LEGENDARY_FLYING_HORDE_5
+    InformUpdateModule                =    Yes
+    Rank                              =    5
+    AttributeModifiers                =    First_Age_LegendaryFlyingHordeBonusRank5
+    Upgrades                          =    Upgrade_EliteHordeLvl5
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+
+    SelectionDecal
+        Texture                       =    decal_I_level4
+        Texture2                      =    decal_evil_CO
+        Style                         =    SHADOW_MERGE_DECAL
+        OpacityMin                    =    80%
+        OpacityMax                    =    100%
+        MinRadius                     =    40
+        MaxRadius                     =    200
+        MaxSelectedUnits              =    40
+    End
+End
+
+ExperienceLevel    Evil_First_Age_LegendaryFlyingLevel6
+    TargetNames                       =    EVIL_FIRST_AGE_LEGENDARY_FLYING
+    RequiredExperience                =    EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_6
+    ExperienceAward                   =    EXPERIENCE_AWARD_FIRST_AGE_LEGENDARY_FLYING_HORDE_6
+    InformUpdateModule                =    Yes
+    Rank                              =    6
+    AttributeModifiers                =    First_Age_LegendaryFlyingHordeBonusRank6
+    Upgrades                          =    Upgrade_EliteHordeLvl6
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+
+    SelectionDecal
+        Texture                       =    decal_I_level4
+        Texture2                      =    decal_evil_CO
+        Style                         =    SHADOW_MERGE_DECAL
+        OpacityMin                    =    80%
+        OpacityMax                    =    100%
+        MinRadius                     =    40
+        MaxRadius                     =    200
+        MaxSelectedUnits              =    40
+    End
+End
+
+ExperienceLevel    Evil_First_Age_LegendaryFlyingLevel7
+    TargetNames                       =    EVIL_FIRST_AGE_LEGENDARY_FLYING
+    RequiredExperience                =    EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_7
+    ExperienceAward                   =    EXPERIENCE_AWARD_FIRST_AGE_LEGENDARY_FLYING_HORDE_7
+    InformUpdateModule                =    Yes
+    Rank                              =    7
+    AttributeModifiers                =    First_Age_LegendaryFlyingHordeBonusRank7
+    Upgrades                          =    Upgrade_EliteHordeLvl7 Upgrade_FormenosForgedBlades
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+
+    SelectionDecal
+        Texture                       =    decal_I_level4
+        Texture2                      =    decal_evil_CO
+        Style                         =    SHADOW_MERGE_DECAL
+        OpacityMin                    =    80%
+        OpacityMax                    =    100%
+        MinRadius                     =    40
+        MaxRadius                     =    200
+        MaxSelectedUnits              =    40
+    End
+End
+
+ExperienceLevel    Evil_First_Age_LegendaryFlyingLevel8
+    TargetNames                       =    EVIL_FIRST_AGE_LEGENDARY_FLYING
+    RequiredExperience                =    EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_8
+    ExperienceAward                   =    EXPERIENCE_AWARD_FIRST_AGE_LEGENDARY_FLYING_HORDE_8
+    InformUpdateModule                =    Yes
+    Rank                              =    8
+    AttributeModifiers                =    First_Age_LegendaryFlyingHordeBonusRank8
+    Upgrades                          =    Upgrade_EliteHordeLvl8
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+
+    SelectionDecal
+        Texture                       =    decal_I_level4
+        Texture2                      =    decal_evil_CO
+        Style                         =    SHADOW_MERGE_DECAL
+        OpacityMin                    =    80%
+        OpacityMax                    =    100%
+        MinRadius                     =    40
+        MaxRadius                     =    200
+        MaxSelectedUnits              =    40
+    End
+End
+
+ExperienceLevel    Evil_First_Age_LegendaryFlyingLevel9
+    TargetNames                       =    EVIL_FIRST_AGE_LEGENDARY_FLYING
+    RequiredExperience                =    EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_9
+    ExperienceAward                   =    EXPERIENCE_AWARD_FIRST_AGE_LEGENDARY_FLYING_HORDE_9
+    InformUpdateModule                =    Yes
+    Rank                              =    9
+    AttributeModifiers                =    First_Age_LegendaryFlyingHordeBonusRank9
+    Upgrades                          =    Upgrade_EliteHordeLvl9
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+
+    SelectionDecal
+        Texture                       =    decal_I_level4
+        Texture2                      =    decal_evil_CO
+        Style                         =    SHADOW_MERGE_DECAL
+        OpacityMin                    =    80%
+        OpacityMax                    =    100%
+        MinRadius                     =    40
+        MaxRadius                     =    200
+        MaxSelectedUnits              =    40
+    End
+End
+
+ExperienceLevel    Evil_First_Age_LegendaryFlyingLevel10
+    TargetNames                       =    EVIL_FIRST_AGE_LEGENDARY_FLYING
+    RequiredExperience                =    EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_10
+    ExperienceAward                   =    EXPERIENCE_AWARD_FIRST_AGE_LEGENDARY_FLYING_HORDE_10
+    InformUpdateModule                =    Yes
+    Rank                              =    10
+    AttributeModifiers                =    First_Age_LegendaryFlyingHordeBonusRank10
+    Upgrades                          =    Upgrade_EliteHordeLvl10
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+
+    SelectionDecal
+        Texture                       =    decal_I_level4
+        Texture2                      =    decal_evil_CO
+        Style                         =    SHADOW_MERGE_DECAL
+        OpacityMin                    =    80%
+        OpacityMax                    =    100%
+        MinRadius                     =    40
+        MaxRadius                     =    200
+        MaxSelectedUnits              =    40
+    End
+End
+
+;----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ExperienceLevel    Evil_First_Age_EliteMontserLevel1
+    TargetNames                       =    EVIL_FIRST_AGE_ELITE_MONSTER
+    RequiredExperience                =    EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_1
+    ExperienceAward                   =    EXPERIENCE_AWARD_FIRST_AGE_ELITE_MONSTER_HORDE_1
+    InformUpdateModule                =    Yes
+    Rank                              =    1
+    Upgrades                          =    Upgrade_EliteHordeLvl1
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+
+    SelectionDecal
+        Texture                       =    decal_I_level4
+        Texture2                      =    decal_evil_CO
+        Style                         =    SHADOW_MERGE_DECAL
+        OpacityMin                    =    80%
+        OpacityMax                    =    100%
+        MinRadius                     =    40
+        MaxRadius                     =    200
+        MaxSelectedUnits              =    40
+    End
+End
+
+ExperienceLevel    Evil_First_Age_EliteMontserLevel2
+    TargetNames                       =    EVIL_FIRST_AGE_ELITE_MONSTER
+    RequiredExperience                =    EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_2
+    ExperienceAward                   =    EXPERIENCE_AWARD_FIRST_AGE_ELITE_MONSTER_HORDE_2
+    InformUpdateModule                =    Yes
+    Rank                              =    2
+    AttributeModifiers                =    First_Age_EliteMontserHordeBonusRank2
+    Upgrades                          =    Upgrade_EliteHordeLvl2
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+
+    SelectionDecal
+        Texture                       =    decal_I_level4
+        Texture2                      =    decal_evil_CO
+        Style                         =    SHADOW_MERGE_DECAL
+        OpacityMin                    =    80%
+        OpacityMax                    =    100%
+        MinRadius                     =    40
+        MaxRadius                     =    200
+        MaxSelectedUnits              =    40
+    End
+End
+
+ExperienceLevel    Evil_First_Age_EliteMontserLevel3
+    TargetNames                       =    EVIL_FIRST_AGE_ELITE_MONSTER
+    RequiredExperience                =    EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_3
+    ExperienceAward                   =    EXPERIENCE_AWARD_FIRST_AGE_ELITE_MONSTER_HORDE_3
+    InformUpdateModule                =    Yes
+    Rank                              =    3
+    AttributeModifiers                =    First_Age_EliteMontserHordeBonusRank3
+    Upgrades                          =    Upgrade_EliteHordeLvl3
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+
+    SelectionDecal
+        Texture                       =    decal_I_level4
+        Texture2                      =    decal_evil_CO
+        Style                         =    SHADOW_MERGE_DECAL
+        OpacityMin                    =    80%
+        OpacityMax                    =    100%
+        MinRadius                     =    40
+        MaxRadius                     =    200
+        MaxSelectedUnits              =    40
+    End
+End
+
+ExperienceLevel    Evil_First_Age_EliteMontserLevel4
+    TargetNames                       =    EVIL_FIRST_AGE_ELITE_MONSTER
+    RequiredExperience                =    EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_4
+    ExperienceAward                   =    EXPERIENCE_AWARD_FIRST_AGE_ELITE_MONSTER_HORDE_4
+    InformUpdateModule                =    Yes
+    Rank                              =    4
+    AttributeModifiers                =    First_Age_EliteMontserHordeBonusRank4
+    Upgrades                          =    Upgrade_EliteHordeLvl4
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+
+    SelectionDecal
+        Texture                       =    decal_I_level4
+        Texture2                      =    decal_evil_CO
+        Style                         =    SHADOW_MERGE_DECAL
+        OpacityMin                    =    80%
+        OpacityMax                    =    100%
+        MinRadius                     =    40
+        MaxRadius                     =    200
+        MaxSelectedUnits              =    40
+    End
+End
+
+ExperienceLevel    Evil_First_Age_EliteMontserLevel5
+    TargetNames                       =    EVIL_FIRST_AGE_ELITE_MONSTER
+    RequiredExperience                =    EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_5
+    ExperienceAward                   =    EXPERIENCE_AWARD_FIRST_AGE_ELITE_MONSTER_HORDE_5
+    InformUpdateModule                =    Yes
+    Rank                              =    5
+    AttributeModifiers                =    First_Age_EliteMontserHordeBonusRank5
+    Upgrades                          =    Upgrade_EliteHordeLvl5
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+
+    SelectionDecal
+        Texture                       =    decal_I_level4
+        Texture2                      =    decal_evil_CO
+        Style                         =    SHADOW_MERGE_DECAL
+        OpacityMin                    =    80%
+        OpacityMax                    =    100%
+        MinRadius                     =    40
+        MaxRadius                     =    200
+        MaxSelectedUnits              =    40
+    End
+End
+
+ExperienceLevel    Evil_First_Age_EliteMontserLevel6
+    TargetNames                       =    EVIL_FIRST_AGE_ELITE_MONSTER
+    RequiredExperience                =    EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_6
+    ExperienceAward                   =    EXPERIENCE_AWARD_FIRST_AGE_ELITE_MONSTER_HORDE_6
+    InformUpdateModule                =    Yes
+    Rank                              =    6
+    AttributeModifiers                =    First_Age_EliteMontserHordeBonusRank6
+    Upgrades                          =    Upgrade_EliteHordeLvl6
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+
+    SelectionDecal
+        Texture                       =    decal_I_level4
+        Texture2                      =    decal_evil_CO
+        Style                         =    SHADOW_MERGE_DECAL
+        OpacityMin                    =    80%
+        OpacityMax                    =    100%
+        MinRadius                     =    40
+        MaxRadius                     =    200
+        MaxSelectedUnits              =    40
+    End
+End
+
+ExperienceLevel    Evil_First_Age_EliteMontserLevel7
+    TargetNames                       =    EVIL_FIRST_AGE_ELITE_MONSTER
+    RequiredExperience                =    EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_7
+    ExperienceAward                   =    EXPERIENCE_AWARD_FIRST_AGE_ELITE_MONSTER_HORDE_7
+    InformUpdateModule                =    Yes
+    Rank                              =    7
+    AttributeModifiers                =    First_Age_EliteMontserHordeBonusRank7
+    Upgrades                          =    Upgrade_EliteHordeLvl7 Upgrade_FormenosForgedBlades
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+
+    SelectionDecal
+        Texture                       =    decal_I_level4
+        Texture2                      =    decal_evil_CO
+        Style                         =    SHADOW_MERGE_DECAL
+        OpacityMin                    =    80%
+        OpacityMax                    =    100%
+        MinRadius                     =    40
+        MaxRadius                     =    200
+        MaxSelectedUnits              =    40
+    End
+End
+
+ExperienceLevel    Evil_First_Age_EliteMontserLevel8
+    TargetNames                       =    EVIL_FIRST_AGE_ELITE_MONSTER
+    RequiredExperience                =    EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_8
+    ExperienceAward                   =    EXPERIENCE_AWARD_FIRST_AGE_ELITE_MONSTER_HORDE_8
+    InformUpdateModule                =    Yes
+    Rank                              =    8
+    AttributeModifiers                =    First_Age_EliteMontserHordeBonusRank8
+    Upgrades                          =    Upgrade_EliteHordeLvl8
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+
+    SelectionDecal
+        Texture                       =    decal_I_level4
+        Texture2                      =    decal_evil_CO
+        Style                         =    SHADOW_MERGE_DECAL
+        OpacityMin                    =    80%
+        OpacityMax                    =    100%
+        MinRadius                     =    40
+        MaxRadius                     =    200
+        MaxSelectedUnits              =    40
+    End
+End
+
+ExperienceLevel    Evil_First_Age_EliteMontserLevel9
+    TargetNames                       =    EVIL_FIRST_AGE_ELITE_MONSTER
+    RequiredExperience                =    EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_9
+    ExperienceAward                   =    EXPERIENCE_AWARD_FIRST_AGE_ELITE_MONSTER_HORDE_9
+    InformUpdateModule                =    Yes
+    Rank                              =    9
+    AttributeModifiers                =    First_Age_EliteMontserHordeBonusRank9
+    Upgrades                          =    Upgrade_EliteHordeLvl9
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+
+    SelectionDecal
+        Texture                       =    decal_I_level4
+        Texture2                      =    decal_evil_CO
+        Style                         =    SHADOW_MERGE_DECAL
+        OpacityMin                    =    80%
+        OpacityMax                    =    100%
+        MinRadius                     =    40
+        MaxRadius                     =    200
+        MaxSelectedUnits              =    40
+    End
+End
+
+ExperienceLevel    Evil_First_Age_EliteMontserLevel10
+    TargetNames                       =    EVIL_FIRST_AGE_ELITE_MONSTER
+    RequiredExperience                =    EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_10
+    ExperienceAward                   =    EXPERIENCE_AWARD_FIRST_AGE_ELITE_MONSTER_HORDE_10
+    InformUpdateModule                =    Yes
+    Rank                              =    10
+    AttributeModifiers                =    First_Age_EliteMontserHordeBonusRank10
+    Upgrades                          =    Upgrade_EliteHordeLvl10
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+
+    SelectionDecal
+        Texture                       =    decal_I_level4
+        Texture2                      =    decal_evil_CO
+        Style                         =    SHADOW_MERGE_DECAL
+        OpacityMin                    =    80%
+        OpacityMax                    =    100%
+        MinRadius                     =    40
+        MaxRadius                     =    200
+        MaxSelectedUnits              =    40
+    End
+End
+
+;----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+ExperienceLevel    Evil_First_Age_LegendaryMontserLevel1
+    TargetNames                       =    EVIL_FIRST_AGE_LEGENDARY_MONSTER
+    RequiredExperience                =    EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_1
+    ExperienceAward                   =    EXPERIENCE_AWARD_FIRST_AGE_LEGENDARY_MONSTER_HORDE_1
+    InformUpdateModule                =    Yes
+    Rank                              =    1
+    Upgrades                          =    Upgrade_EliteHordeLvl1
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+
+    SelectionDecal
+        Texture                       =    decal_I_level4
+        Texture2                      =    decal_evil_CO
+        Style                         =    SHADOW_MERGE_DECAL
+        OpacityMin                    =    80%
+        OpacityMax                    =    100%
+        MinRadius                     =    40
+        MaxRadius                     =    200
+        MaxSelectedUnits              =    40
+    End
+End
+
+ExperienceLevel    Evil_First_Age_LegendaryMontserLevel2
+    TargetNames                       =    EVIL_FIRST_AGE_LEGENDARY_MONSTER
+    RequiredExperience                =    EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_2
+    ExperienceAward                   =    EXPERIENCE_AWARD_FIRST_AGE_LEGENDARY_MONSTER_HORDE_2
+    InformUpdateModule                =    Yes
+    Rank                              =    2
+    AttributeModifiers                =    First_Age_LegendaryMontserHordeBonusRank2
+    Upgrades                          =    Upgrade_EliteHordeLvl2
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+
+    SelectionDecal
+        Texture                       =    decal_I_level4
+        Texture2                      =    decal_evil_CO
+        Style                         =    SHADOW_MERGE_DECAL
+        OpacityMin                    =    80%
+        OpacityMax                    =    100%
+        MinRadius                     =    40
+        MaxRadius                     =    200
+        MaxSelectedUnits              =    40
+    End
+End
+
+ExperienceLevel    Evil_First_Age_LegendaryMontserLevel3
+    TargetNames                       =    EVIL_FIRST_AGE_LEGENDARY_MONSTER
+    RequiredExperience                =    EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_3
+    ExperienceAward                   =    EXPERIENCE_AWARD_FIRST_AGE_LEGENDARY_MONSTER_HORDE_3
+    InformUpdateModule                =    Yes
+    Rank                              =    3
+    AttributeModifiers                =    First_Age_LegendaryMontserHordeBonusRank3
+    Upgrades                          =    Upgrade_EliteHordeLvl3
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+
+    SelectionDecal
+        Texture                       =    decal_I_level4
+        Texture2                      =    decal_evil_CO
+        Style                         =    SHADOW_MERGE_DECAL
+        OpacityMin                    =    80%
+        OpacityMax                    =    100%
+        MinRadius                     =    40
+        MaxRadius                     =    200
+        MaxSelectedUnits              =    40
+    End
+End
+
+ExperienceLevel    Evil_First_Age_LegendaryMontserLevel4
+    TargetNames                       =    EVIL_FIRST_AGE_LEGENDARY_MONSTER
+    RequiredExperience                =    EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_4
+    ExperienceAward                   =    EXPERIENCE_AWARD_FIRST_AGE_LEGENDARY_MONSTER_HORDE_4
+    InformUpdateModule                =    Yes
+    Rank                              =    4
+    AttributeModifiers                =    First_Age_LegendaryMontserHordeBonusRank4
+    Upgrades                          =    Upgrade_EliteHordeLvl4
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+
+    SelectionDecal
+        Texture                       =    decal_I_level4
+        Texture2                      =    decal_evil_CO
+        Style                         =    SHADOW_MERGE_DECAL
+        OpacityMin                    =    80%
+        OpacityMax                    =    100%
+        MinRadius                     =    40
+        MaxRadius                     =    200
+        MaxSelectedUnits              =    40
+    End
+End
+
+ExperienceLevel    Evil_First_Age_LegendaryMontserLevel5
+    TargetNames                       =    EVIL_FIRST_AGE_LEGENDARY_MONSTER
+    RequiredExperience                =    EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_5
+    ExperienceAward                   =    EXPERIENCE_AWARD_FIRST_AGE_LEGENDARY_MONSTER_HORDE_5
+    InformUpdateModule                =    Yes
+    Rank                              =    5
+    AttributeModifiers                =    First_Age_LegendaryMontserHordeBonusRank5
+    Upgrades                          =    Upgrade_EliteHordeLvl5
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+
+    SelectionDecal
+        Texture                       =    decal_I_level4
+        Texture2                      =    decal_evil_CO
+        Style                         =    SHADOW_MERGE_DECAL
+        OpacityMin                    =    80%
+        OpacityMax                    =    100%
+        MinRadius                     =    40
+        MaxRadius                     =    200
+        MaxSelectedUnits              =    40
+    End
+End
+
+ExperienceLevel    Evil_First_Age_LegendaryMontserLevel6
+    TargetNames                       =    EVIL_FIRST_AGE_LEGENDARY_MONSTER
+    RequiredExperience                =    EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_6
+    ExperienceAward                   =    EXPERIENCE_AWARD_FIRST_AGE_LEGENDARY_MONSTER_HORDE_6
+    InformUpdateModule                =    Yes
+    Rank                              =    6
+    AttributeModifiers                =    First_Age_LegendaryMontserHordeBonusRank6
+    Upgrades                          =    Upgrade_EliteHordeLvl6
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+
+    SelectionDecal
+        Texture                       =    decal_I_level4
+        Texture2                      =    decal_evil_CO
+        Style                         =    SHADOW_MERGE_DECAL
+        OpacityMin                    =    80%
+        OpacityMax                    =    100%
+        MinRadius                     =    40
+        MaxRadius                     =    200
+        MaxSelectedUnits              =    40
+    End
+End
+
+ExperienceLevel    Evil_First_Age_LegendaryMontserLevel7
+    TargetNames                       =    EVIL_FIRST_AGE_LEGENDARY_MONSTER
+    RequiredExperience                =    EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_7
+    ExperienceAward                   =    EXPERIENCE_AWARD_FIRST_AGE_LEGENDARY_MONSTER_HORDE_7
+    InformUpdateModule                =    Yes
+    Rank                              =    7
+    AttributeModifiers                =    First_Age_LegendaryMontserHordeBonusRank7
+    Upgrades                          =    Upgrade_EliteHordeLvl7 Upgrade_FormenosForgedBlades
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+
+    SelectionDecal
+        Texture                       =    decal_I_level4
+        Texture2                      =    decal_evil_CO
+        Style                         =    SHADOW_MERGE_DECAL
+        OpacityMin                    =    80%
+        OpacityMax                    =    100%
+        MinRadius                     =    40
+        MaxRadius                     =    200
+        MaxSelectedUnits              =    40
+    End
+End
+
+ExperienceLevel    Evil_First_Age_LegendaryMontserLevel8
+    TargetNames                       =    EVIL_FIRST_AGE_LEGENDARY_MONSTER
+    RequiredExperience                =    EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_8
+    ExperienceAward                   =    EXPERIENCE_AWARD_FIRST_AGE_LEGENDARY_MONSTER_HORDE_8
+    InformUpdateModule                =    Yes
+    Rank                              =    8
+    AttributeModifiers                =    First_Age_LegendaryMontserHordeBonusRank8
+    Upgrades                          =    Upgrade_EliteHordeLvl8
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+
+    SelectionDecal
+        Texture                       =    decal_I_level4
+        Texture2                      =    decal_evil_CO
+        Style                         =    SHADOW_MERGE_DECAL
+        OpacityMin                    =    80%
+        OpacityMax                    =    100%
+        MinRadius                     =    40
+        MaxRadius                     =    200
+        MaxSelectedUnits              =    40
+    End
+End
+
+ExperienceLevel    Evil_First_Age_LegendaryMontserLevel9
+    TargetNames                       =    EVIL_FIRST_AGE_LEGENDARY_MONSTER
+    RequiredExperience                =    EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_9
+    ExperienceAward                   =    EXPERIENCE_AWARD_FIRST_AGE_LEGENDARY_MONSTER_HORDE_9
+    InformUpdateModule                =    Yes
+    Rank                              =    9
+    AttributeModifiers                =    First_Age_LegendaryMontserHordeBonusRank9
+    Upgrades                          =    Upgrade_EliteHordeLvl9
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+
+    SelectionDecal
+        Texture                       =    decal_I_level4
+        Texture2                      =    decal_evil_CO
+        Style                         =    SHADOW_MERGE_DECAL
+        OpacityMin                    =    80%
+        OpacityMax                    =    100%
+        MinRadius                     =    40
+        MaxRadius                     =    200
+        MaxSelectedUnits              =    40
+    End
+End
+
+ExperienceLevel    Evil_First_Age_LegendaryMontserLevel10
+    TargetNames                       =    EVIL_FIRST_AGE_LEGENDARY_MONSTER
+    RequiredExperience                =    EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_10
+    ExperienceAward                   =    EXPERIENCE_AWARD_FIRST_AGE_LEGENDARY_MONSTER_HORDE_10
+    InformUpdateModule                =    Yes
+    Rank                              =    10
+    AttributeModifiers                =    First_Age_LegendaryMontserHordeBonusRank10
+    Upgrades                          =    Upgrade_EliteHordeLvl10
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+
+    SelectionDecal
+        Texture                       =    decal_I_level4
+        Texture2                      =    decal_evil_CO
+        Style                         =    SHADOW_MERGE_DECAL
+        OpacityMin                    =    80%
+        OpacityMax                    =    100%
+        MinRadius                     =    40
+        MaxRadius                     =    200
+        MaxSelectedUnits              =    40
+    End
+End
+EVIL_FIRST_AGE_REGULAR_BEASTS
+;----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+ExperienceLevel    Evil_First_Age_RegularBeastsLevel1 
+    TargetNames                       =    EVIL_FIRST_AGE_REGULAR_BEASTS
+    RequiredExperience                =    EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_1
+    ExperienceAward                   =    EXPERIENCE_AWARD_FIRST_AGE_REGULAR_BEASTS_HORDE_1
+    InformUpdateModule                =    Yes
+    Rank                              =    1
+    Upgrades                          =    Upgrade_EliteHordeLvl1
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+
+    SelectionDecal
+        Texture                       =    decal_I_level4
+        Texture2                      =    decal_evil_CO
+        Style                         =    SHADOW_MERGE_DECAL
+        OpacityMin                    =    80%
+        OpacityMax                    =    100%
+        MinRadius                     =    40
+        MaxRadius                     =    200
+        MaxSelectedUnits              =    40
+    End
+End
+
+ExperienceLevel    Evil_First_Age_RegularBeastsLevel2
+    TargetNames                       =    EVIL_FIRST_AGE_REGULAR_BEASTS
+    RequiredExperience                =    EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_2
+    ExperienceAward                   =    EXPERIENCE_AWARD_FIRST_AGE_REGULAR_BEASTS_HORDE_2
+    InformUpdateModule                =    Yes
+    Rank                              =    2
+    AttributeModifiers                =    First_Age_RegularBeastsHordeBonusRank2
+    Upgrades                          =    Upgrade_EliteHordeLvl2
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+
+    SelectionDecal
+        Texture                       =    decal_I_level4
+        Texture2                      =    decal_evil_CO
+        Style                         =    SHADOW_MERGE_DECAL
+        OpacityMin                    =    80%
+        OpacityMax                    =    100%
+        MinRadius                     =    40
+        MaxRadius                     =    200
+        MaxSelectedUnits              =    40
+    End
+End
+
+ExperienceLevel    Evil_First_Age_RegularBeastsLevel3
+    TargetNames                       =    EVIL_FIRST_AGE_REGULAR_BEASTS
+    RequiredExperience                =    EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_3
+    ExperienceAward                   =    EXPERIENCE_AWARD_FIRST_AGE_REGULAR_BEASTS_HORDE_3
+    InformUpdateModule                =    Yes
+    Rank                              =    3
+    AttributeModifiers                =    First_Age_RegularBeastsHordeBonusRank3
+    Upgrades                          =    Upgrade_EliteHordeLvl3
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+
+    SelectionDecal
+        Texture                       =    decal_I_level4
+        Texture2                      =    decal_evil_CO
+        Style                         =    SHADOW_MERGE_DECAL
+        OpacityMin                    =    80%
+        OpacityMax                    =    100%
+        MinRadius                     =    40
+        MaxRadius                     =    200
+        MaxSelectedUnits              =    40
+    End
+End
+
+ExperienceLevel    Evil_First_Age_RegularBeastsLevel4
+    TargetNames                       =    EVIL_FIRST_AGE_REGULAR_BEASTS
+    RequiredExperience                =    EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_4
+    ExperienceAward                   =    EXPERIENCE_AWARD_FIRST_AGE_REGULAR_BEASTS_HORDE_4
+    InformUpdateModule                =    Yes
+    Rank                              =    4
+    AttributeModifiers                =    First_Age_RegularBeastsHordeBonusRank4
+    Upgrades                          =    Upgrade_EliteHordeLvl4
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+
+    SelectionDecal
+        Texture                       =    decal_I_level4
+        Texture2                      =    decal_evil_CO
+        Style                         =    SHADOW_MERGE_DECAL
+        OpacityMin                    =    80%
+        OpacityMax                    =    100%
+        MinRadius                     =    40
+        MaxRadius                     =    200
+        MaxSelectedUnits              =    40
+    End
+End
+
+ExperienceLevel    Evil_First_Age_RegularBeastsLevel5
+    TargetNames                       =    EVIL_FIRST_AGE_REGULAR_BEASTS
+    RequiredExperience                =    EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_5
+    ExperienceAward                   =    EXPERIENCE_AWARD_FIRST_AGE_REGULAR_BEASTS_HORDE_5
+    InformUpdateModule                =    Yes
+    Rank                              =    5
+    AttributeModifiers                =    First_Age_RegularBeastsHordeBonusRank5
+    Upgrades                          =    Upgrade_EliteHordeLvl5
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+
+    SelectionDecal
+        Texture                       =    decal_I_level4
+        Texture2                      =    decal_evil_CO
+        Style                         =    SHADOW_MERGE_DECAL
+        OpacityMin                    =    80%
+        OpacityMax                    =    100%
+        MinRadius                     =    40
+        MaxRadius                     =    200
+        MaxSelectedUnits              =    40
+    End
+End
+
+ExperienceLevel    Evil_First_Age_RegularBeastsLevel6
+    TargetNames                       =    EVIL_FIRST_AGE_REGULAR_BEASTS
+    RequiredExperience                =    EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_6
+    ExperienceAward                   =    EXPERIENCE_AWARD_FIRST_AGE_REGULAR_BEASTS_HORDE_6
+    InformUpdateModule                =    Yes
+    Rank                              =    6
+    AttributeModifiers                =    First_Age_RegularBeastsHordeBonusRank6
+    Upgrades                          =    Upgrade_EliteHordeLvl6
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+
+    SelectionDecal
+        Texture                       =    decal_I_level4
+        Texture2                      =    decal_evil_CO
+        Style                         =    SHADOW_MERGE_DECAL
+        OpacityMin                    =    80%
+        OpacityMax                    =    100%
+        MinRadius                     =    40
+        MaxRadius                     =    200
+        MaxSelectedUnits              =    40
+    End
+End
+
+ExperienceLevel    Evil_First_Age_RegularBeastsLevel7
+    TargetNames                       =    EVIL_FIRST_AGE_REGULAR_BEASTS
+    RequiredExperience                =    EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_7
+    ExperienceAward                   =    EXPERIENCE_AWARD_FIRST_AGE_REGULAR_BEASTS_HORDE_7
+    InformUpdateModule                =    Yes
+    Rank                              =    7
+    AttributeModifiers                =    First_Age_RegularBeastsHordeBonusRank7
+    Upgrades                          =    Upgrade_EliteHordeLvl7 Upgrade_FormenosForgedBlades
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+
+    SelectionDecal
+        Texture                       =    decal_I_level4
+        Texture2                      =    decal_evil_CO
+        Style                         =    SHADOW_MERGE_DECAL
+        OpacityMin                    =    80%
+        OpacityMax                    =    100%
+        MinRadius                     =    40
+        MaxRadius                     =    200
+        MaxSelectedUnits              =    40
+    End
+End
+
+ExperienceLevel    Evil_First_Age_RegularBeastsLevel8
+    TargetNames                       =    EVIL_FIRST_AGE_REGULAR_BEASTS
+    RequiredExperience                =    EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_8
+    ExperienceAward                   =    EXPERIENCE_AWARD_FIRST_AGE_REGULAR_BEASTS_HORDE_8
+    InformUpdateModule                =    Yes
+    Rank                              =    8
+    AttributeModifiers                =    First_Age_RegularBeastsHordeBonusRank8
+    Upgrades                          =    Upgrade_EliteHordeLvl8
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+
+    SelectionDecal
+        Texture                       =    decal_I_level4
+        Texture2                      =    decal_evil_CO
+        Style                         =    SHADOW_MERGE_DECAL
+        OpacityMin                    =    80%
+        OpacityMax                    =    100%
+        MinRadius                     =    40
+        MaxRadius                     =    200
+        MaxSelectedUnits              =    40
+    End
+End
+
+ExperienceLevel    Evil_First_Age_RegularBeastsLevel9
+    TargetNames                       =    EVIL_FIRST_AGE_REGULAR_BEASTS
+    RequiredExperience                =    EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_9
+    ExperienceAward                   =    EXPERIENCE_AWARD_FIRST_AGE_REGULAR_BEASTS_HORDE_9
+    InformUpdateModule                =    Yes
+    Rank                              =    9
+    AttributeModifiers                =    First_Age_RegularBeastsHordeBonusRank9
+    Upgrades                          =    Upgrade_EliteHordeLvl9
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+
+    SelectionDecal
+        Texture                       =    decal_I_level4
+        Texture2                      =    decal_evil_CO
+        Style                         =    SHADOW_MERGE_DECAL
+        OpacityMin                    =    80%
+        OpacityMax                    =    100%
+        MinRadius                     =    40
+        MaxRadius                     =    200
+        MaxSelectedUnits              =    40
+    End
+End
+
+ExperienceLevel    Evil_First_Age_RegularBeastsLevel10
+    TargetNames                       =    EVIL_FIRST_AGE_REGULAR_BEASTS
+    RequiredExperience                =    EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_10
+    ExperienceAward                   =    EXPERIENCE_AWARD_FIRST_AGE_REGULAR_BEASTS_HORDE_10
+    InformUpdateModule                =    Yes
+    Rank                              =    10
+    AttributeModifiers                =    First_Age_RegularBeastsHordeBonusRank10
+    Upgrades                          =    Upgrade_EliteHordeLvl10
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+
+    SelectionDecal
+        Texture                       =    decal_I_level4
+        Texture2                      =    decal_evil_CO
+        Style                         =    SHADOW_MERGE_DECAL
+        OpacityMin                    =    80%
+        OpacityMax                    =    100%
+        MinRadius                     =    40
+        MaxRadius                     =    200
+        MaxSelectedUnits              =    40
+    End
+End
+
+;----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+BEST_BEASTS
+
+ExperienceLevel    Evil_First_Age_BestBeastsLevel1 
+    TargetNames                       =    EVIL_FIRST_AGE_BEST_BEASTS
+    RequiredExperience                =    EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_1
+    ExperienceAward                   =    EXPERIENCE_AWARD_FIRST_AGE_BEST_BEASTS_HORDE_1
+    InformUpdateModule                =    Yes
+    Rank                              =    1
+    Upgrades                          =    Upgrade_EliteHordeLvl1
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+
+    SelectionDecal
+        Texture                       =    decal_I_level4
+        Texture2                      =    decal_evil_CO
+        Style                         =    SHADOW_MERGE_DECAL
+        OpacityMin                    =    80%
+        OpacityMax                    =    100%
+        MinRadius                     =    40
+        MaxRadius                     =    200
+        MaxSelectedUnits              =    40
+    End
+End
+
+ExperienceLevel    Evil_First_Age_BestBeastsLevel2
+    TargetNames                       =    EVIL_FIRST_AGE_BEST_BEASTS
+    RequiredExperience                =    EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_2
+    ExperienceAward                   =    EXPERIENCE_AWARD_FIRST_AGE_BEST_BEASTS_HORDE_2
+    InformUpdateModule                =    Yes
+    Rank                              =    2
+    AttributeModifiers                =    First_Age_BestBeastsHordeBonusRank2
+    Upgrades                          =    Upgrade_EliteHordeLvl2
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+
+    SelectionDecal
+        Texture                       =    decal_I_level4
+        Texture2                      =    decal_evil_CO
+        Style                         =    SHADOW_MERGE_DECAL
+        OpacityMin                    =    80%
+        OpacityMax                    =    100%
+        MinRadius                     =    40
+        MaxRadius                     =    200
+        MaxSelectedUnits              =    40
+    End
+End
+
+ExperienceLevel    Evil_First_Age_BestBeastsLevel3
+    TargetNames                       =    EVIL_FIRST_AGE_BEST_BEASTS
+    RequiredExperience                =    EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_3
+    ExperienceAward                   =    EXPERIENCE_AWARD_FIRST_AGE_BEST_BEASTS_HORDE_3
+    InformUpdateModule                =    Yes
+    Rank                              =    3
+    AttributeModifiers                =    First_Age_BestBeastsHordeBonusRank3
+    Upgrades                          =    Upgrade_EliteHordeLvl3
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+
+    SelectionDecal
+        Texture                       =    decal_I_level4
+        Texture2                      =    decal_evil_CO
+        Style                         =    SHADOW_MERGE_DECAL
+        OpacityMin                    =    80%
+        OpacityMax                    =    100%
+        MinRadius                     =    40
+        MaxRadius                     =    200
+        MaxSelectedUnits              =    40
+    End
+End
+
+ExperienceLevel    Evil_First_Age_BestBeastsLevel4
+    TargetNames                       =    EVIL_FIRST_AGE_BEST_BEASTS
+    RequiredExperience                =    EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_4
+    ExperienceAward                   =    EXPERIENCE_AWARD_FIRST_AGE_BEST_BEASTS_HORDE_4
+    InformUpdateModule                =    Yes
+    Rank                              =    4
+    AttributeModifiers                =    First_Age_BestBeastsHordeBonusRank4
+    Upgrades                          =    Upgrade_EliteHordeLvl4
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+
+    SelectionDecal
+        Texture                       =    decal_I_level4
+        Texture2                      =    decal_evil_CO
+        Style                         =    SHADOW_MERGE_DECAL
+        OpacityMin                    =    80%
+        OpacityMax                    =    100%
+        MinRadius                     =    40
+        MaxRadius                     =    200
+        MaxSelectedUnits              =    40
+    End
+End
+
+ExperienceLevel    Evil_First_Age_BestBeastsLevel5
+    TargetNames                       =    EVIL_FIRST_AGE_BEST_BEASTS
+    RequiredExperience                =    EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_5
+    ExperienceAward                   =    EXPERIENCE_AWARD_FIRST_AGE_BEST_BEASTS_HORDE_5
+    InformUpdateModule                =    Yes
+    Rank                              =    5
+    AttributeModifiers                =    First_Age_BestBeastsHordeBonusRank5
+    Upgrades                          =    Upgrade_EliteHordeLvl5
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+
+    SelectionDecal
+        Texture                       =    decal_I_level4
+        Texture2                      =    decal_evil_CO
+        Style                         =    SHADOW_MERGE_DECAL
+        OpacityMin                    =    80%
+        OpacityMax                    =    100%
+        MinRadius                     =    40
+        MaxRadius                     =    200
+        MaxSelectedUnits              =    40
+    End
+End
+
+ExperienceLevel    Evil_First_Age_BestBeastsLevel6
+    TargetNames                       =    EVIL_FIRST_AGE_BEST_BEASTS
+    RequiredExperience                =    EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_6
+    ExperienceAward                   =    EXPERIENCE_AWARD_FIRST_AGE_BEST_BEASTS_HORDE_6
+    InformUpdateModule                =    Yes
+    Rank                              =    6
+    AttributeModifiers                =    First_Age_BestBeastsHordeBonusRank6
+    Upgrades                          =    Upgrade_EliteHordeLvl6
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+
+    SelectionDecal
+        Texture                       =    decal_I_level4
+        Texture2                      =    decal_evil_CO
+        Style                         =    SHADOW_MERGE_DECAL
+        OpacityMin                    =    80%
+        OpacityMax                    =    100%
+        MinRadius                     =    40
+        MaxRadius                     =    200
+        MaxSelectedUnits              =    40
+    End
+End
+
+ExperienceLevel    Evil_First_Age_BestBeastsLevel7
+    TargetNames                       =    EVIL_FIRST_AGE_BEST_BEASTS
+    RequiredExperience                =    EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_7
+    ExperienceAward                   =    EXPERIENCE_AWARD_FIRST_AGE_BEST_BEASTS_HORDE_7
+    InformUpdateModule                =    Yes
+    Rank                              =    7
+    AttributeModifiers                =    First_Age_BestBeastsHordeBonusRank7
+    Upgrades                          =    Upgrade_EliteHordeLvl7 Upgrade_FormenosForgedBlades
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+
+    SelectionDecal
+        Texture                       =    decal_I_level4
+        Texture2                      =    decal_evil_CO
+        Style                         =    SHADOW_MERGE_DECAL
+        OpacityMin                    =    80%
+        OpacityMax                    =    100%
+        MinRadius                     =    40
+        MaxRadius                     =    200
+        MaxSelectedUnits              =    40
+    End
+End
+
+ExperienceLevel    Evil_First_Age_BestBeastsLevel8
+    TargetNames                       =    EVIL_FIRST_AGE_BEST_BEASTS
+    RequiredExperience                =    EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_8
+    ExperienceAward                   =    EXPERIENCE_AWARD_FIRST_AGE_BEST_BEASTS_HORDE_8
+    InformUpdateModule                =    Yes
+    Rank                              =    8
+    AttributeModifiers                =    First_Age_BestBeastsHordeBonusRank8
+    Upgrades                          =    Upgrade_EliteHordeLvl8
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+
+    SelectionDecal
+        Texture                       =    decal_I_level4
+        Texture2                      =    decal_evil_CO
+        Style                         =    SHADOW_MERGE_DECAL
+        OpacityMin                    =    80%
+        OpacityMax                    =    100%
+        MinRadius                     =    40
+        MaxRadius                     =    200
+        MaxSelectedUnits              =    40
+    End
+End
+
+ExperienceLevel    Evil_First_Age_BestBeastsLevel9
+    TargetNames                       =    EVIL_FIRST_AGE_BEST_BEASTS
+    RequiredExperience                =    EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_9
+    ExperienceAward                   =    EXPERIENCE_AWARD_FIRST_AGE_BEST_BEASTS_HORDE_9
+    InformUpdateModule                =    Yes
+    Rank                              =    9
+    AttributeModifiers                =    First_Age_BestBeastsHordeBonusRank9
+    Upgrades                          =    Upgrade_EliteHordeLvl9
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+
+    SelectionDecal
+        Texture                       =    decal_I_level4
+        Texture2                      =    decal_evil_CO
+        Style                         =    SHADOW_MERGE_DECAL
+        OpacityMin                    =    80%
+        OpacityMax                    =    100%
+        MinRadius                     =    40
+        MaxRadius                     =    200
+        MaxSelectedUnits              =    40
+    End
+End
+
+ExperienceLevel    Evil_First_Age_BestBeastsLevel10
+    TargetNames                       =    EVIL_FIRST_AGE_BEST_BEASTS
+    RequiredExperience                =    EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_10
+    ExperienceAward                   =    EXPERIENCE_AWARD_FIRST_AGE_BEST_BEASTS_HORDE_10
+    InformUpdateModule                =    Yes
+    Rank                              =    10
+    AttributeModifiers                =    First_Age_BestBeastsHordeBonusRank10
     Upgrades                          =    Upgrade_EliteHordeLvl10
     LevelUpFx                         =    FX:EvilLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
@@ -3093,6 +5270,491 @@ ExperienceLevel    Evil_Basic_BeastsLevel5
         MaxSelectedUnits      =    40
     End
 END
+
+;----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ExperienceLevel    Evil_Cheap_Monster_Level1
+    TargetNames                       =    EVIL_CHEAP_MONSTER
+    RequiredExperience                =    EXPERIENCE_REQUIRED_CHEAP_MONSTER_HORDE_1
+    ExperienceAward                   =    EXPERIENCE_AWARD_CHEAP_MONSTER_HORDE_1
+    Rank                              =    1
+    Upgrades                          =    Upgrade_ObjectLevel1
+    SelectionDecal
+        Texture               =    decal_I_level1
+        Texture2              =    decal_evil_CO
+        Style                 =    SHADOW_MERGE_DECAL
+        OpacityMin            =    80%
+        OpacityMax            =    100%
+        MinRadius             =    70
+        MaxRadius             =    200
+        MaxSelectedUnits      =    40
+    End
+END
+
+ExperienceLevel    Evil_Cheap_MonsterLevel2
+    TargetNames                       =    EVIL_CHEAP_MONSTER
+    RequiredExperience                =    EXPERIENCE_REQUIRED_CHEAP_MONSTER_HORDE_2
+    ExperienceAward                   =    EXPERIENCE_AWARD_CHEAP_MONSTER_HORDE_2
+    Rank                              =    2
+    Upgrades                          =    Upgrade_ObjectLevel2
+    AttributeModifiers                =    CheapMonsterHordeBonusRank2
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+    SelectionDecal
+        Texture               =    decal_I_level2
+        Texture2              =    decal_evil_CO
+        Style                 =    SHADOW_MERGE_DECAL
+        OpacityMin            =    80%
+        OpacityMax            =    100%
+        MinRadius             =    70
+        MaxRadius             =    200
+        MaxSelectedUnits      =    40
+    End
+END
+
+ExperienceLevel    Evil_Cheap_MonsterLevel3
+    TargetNames                       =    EVIL_CHEAP_MONSTER
+    RequiredExperience                =    EXPERIENCE_REQUIRED_CHEAP_MONSTER_HORDE_3
+    ExperienceAward                   =    EXPERIENCE_AWARD_CHEAP_MONSTER_HORDE_3
+    Rank                              =    3
+    Upgrades                          =    Upgrade_ObjectLevel3
+    AttributeModifiers                =    CheapMonsterHordeBonusRank3
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+    SelectionDecal
+        Texture               =    decal_I_level3
+        Texture2              =    decal_evil_CO
+        Style                 =    SHADOW_MERGE_DECAL
+        OpacityMin            =    80%
+        OpacityMax            =    100%
+        MinRadius             =    70
+        MaxRadius             =    200
+        MaxSelectedUnits      =    40
+    End
+END
+
+ExperienceLevel    Evil_Cheap_MonsterLevel4
+    TargetNames                       =    EVIL_CHEAP_MONSTER
+    RequiredExperience                =    EXPERIENCE_REQUIRED_CHEAP_MONSTER_HORDE_4
+    ExperienceAward                   =    EXPERIENCE_AWARD_CHEAP_MONSTER_HORDE_4
+    Rank                              =    4
+    Upgrades                          =    Upgrade_ObjectLevel4
+    AttributeModifiers                =    CheapMonsterHordeBonusRank4
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+    SelectionDecal
+        Texture               =    decal_I_level4
+        Texture2              =    decal_evil_CO
+        Style                 =    SHADOW_MERGE_DECAL
+        OpacityMin            =    80%
+        OpacityMax            =    100%
+        MinRadius             =    70
+        MaxRadius             =    200
+        MaxSelectedUnits      =    40
+    End
+END
+
+ExperienceLevel    Evil_Cheap_MonsterLevel5
+    TargetNames                       =    EVIL_CHEAP_MONSTER
+    RequiredExperience                =    EXPERIENCE_REQUIRED_CHEAP_MONSTER_HORDE_5
+    ExperienceAward                   =    EXPERIENCE_AWARD_CHEAP_MONSTER_HORDE_5
+    Rank                              =    5
+    Upgrades                          =    Upgrade_ObjectLevel5
+    AttributeModifiers                =    CheapBeastsHordeBonusRank5
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+    SelectionDecal
+        Texture               =    decal_I_level5
+        Texture2              =    decal_evil_CO
+        Style                 =    SHADOW_MERGE_DECAL
+        OpacityMin            =    80%
+        OpacityMax            =    100%
+        MinRadius             =    70
+        MaxRadius             =    200
+        MaxSelectedUnits      =    40
+    End
+END
+
+;----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ExperienceLevel    Evil_Regular_Monster_Level1
+    TargetNames                       =    EVIL_REGULAR_MONSTER
+    RequiredExperience                =    EXPERIENCE_REQUIRED_REGULAR_MONSTER_HORDE_1
+    ExperienceAward                   =    EXPERIENCE_AWARD_REGULAR_MONSTER_HORDE_1
+    Rank                              =    1
+    Upgrades                          =    Upgrade_ObjectLevel1
+    SelectionDecal
+        Texture               =    decal_I_level1
+        Texture2              =    decal_evil_CO
+        Style                 =    SHADOW_MERGE_DECAL
+        OpacityMin            =    80%
+        OpacityMax            =    100%
+        MinRadius             =    70
+        MaxRadius             =    200
+        MaxSelectedUnits      =    40
+    End
+END
+
+ExperienceLevel    Evil_Regular_MonsterLevel2
+    TargetNames                       =    EVIL_REGULAR_MONSTER
+    RequiredExperience                =    EXPERIENCE_REQUIRED_REGULAR_MONSTER_HORDE_2
+    ExperienceAward                   =    EXPERIENCE_AWARD_REGULAR_MONSTER_HORDE_2
+    Rank                              =    2
+    Upgrades                          =    Upgrade_ObjectLevel2
+    AttributeModifiers                =    RegularMonsterHordeBonusRank2
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+    SelectionDecal
+        Texture               =    decal_I_level2
+        Texture2              =    decal_evil_CO
+        Style                 =    SHADOW_MERGE_DECAL
+        OpacityMin            =    80%
+        OpacityMax            =    100%
+        MinRadius             =    70
+        MaxRadius             =    200
+        MaxSelectedUnits      =    40
+    End
+END
+
+ExperienceLevel    Evil_Regular_MonsterLevel3
+    TargetNames                       =    EVIL_REGULAR_MONSTER
+    RequiredExperience                =    EXPERIENCE_REQUIRED_REGULAR_MONSTER_HORDE_3
+    ExperienceAward                   =    EXPERIENCE_AWARD_REGULAR_MONSTER_HORDE_3
+    Rank                              =    3
+    Upgrades                          =    Upgrade_ObjectLevel3
+    AttributeModifiers                =    RegularMonsterHordeBonusRank3
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+    SelectionDecal
+        Texture               =    decal_I_level3
+        Texture2              =    decal_evil_CO
+        Style                 =    SHADOW_MERGE_DECAL
+        OpacityMin            =    80%
+        OpacityMax            =    100%
+        MinRadius             =    70
+        MaxRadius             =    200
+        MaxSelectedUnits      =    40
+    End
+END
+
+ExperienceLevel    Evil_Regular_MonsterLevel4
+    TargetNames                       =    EVIL_REGULAR_MONSTER
+    RequiredExperience                =    EXPERIENCE_REQUIRED_REGULAR_MONSTER_HORDE_4
+    ExperienceAward                   =    EXPERIENCE_AWARD_REGULAR_MONSTER_HORDE_4
+    Rank                              =    4
+    Upgrades                          =    Upgrade_ObjectLevel4
+    AttributeModifiers                =    RegularMonsterHordeBonusRank4
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+    SelectionDecal
+        Texture               =    decal_I_level4
+        Texture2              =    decal_evil_CO
+        Style                 =    SHADOW_MERGE_DECAL
+        OpacityMin            =    80%
+        OpacityMax            =    100%
+        MinRadius             =    70
+        MaxRadius             =    200
+        MaxSelectedUnits      =    40
+    End
+END
+
+ExperienceLevel    Evil_Regular_MonsterLevel5
+    TargetNames                       =    EVIL_REGULAR_MONSTER
+    RequiredExperience                =    EXPERIENCE_REQUIRED_REGULAR_MONSTER_HORDE_5
+    ExperienceAward                   =    EXPERIENCE_AWARD_REGULAR_MONSTER_HORDE_5
+    Rank                              =    5
+    Upgrades                          =    Upgrade_ObjectLevel5
+    AttributeModifiers                =    RegularBeastsHordeBonusRank5
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+    SelectionDecal
+        Texture               =    decal_I_level5
+        Texture2              =    decal_evil_CO
+        Style                 =    SHADOW_MERGE_DECAL
+        OpacityMin            =    80%
+        OpacityMax            =    100%
+        MinRadius             =    70
+        MaxRadius             =    200
+        MaxSelectedUnits      =    40
+    End
+END
+
+
+;----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ExperienceLevel    Evil_Advanced_Monster_Level1
+    TargetNames                       =    EVIL_ADVANCED_MONSTER
+    RequiredExperience                =    EXPERIENCE_REQUIRED_ADVANCED_MONSTER_HORDE_1
+    ExperienceAward                   =    EXPERIENCE_AWARD_ADVANCED_MONSTER_HORDE_1
+    Rank                              =    1
+    Upgrades                          =    Upgrade_ObjectLevel1
+    SelectionDecal
+        Texture               =    decal_I_level1
+        Texture2              =    decal_evil_CO
+        Style                 =    SHADOW_MERGE_DECAL
+        OpacityMin            =    80%
+        OpacityMax            =    100%
+        MinRadius             =    70
+        MaxRadius             =    200
+        MaxSelectedUnits      =    40
+    End
+END
+
+ExperienceLevel    Evil_Advanced_MonsterLevel2
+    TargetNames                       =    EVIL_ADVANCED_MONSTER
+    RequiredExperience                =    EXPERIENCE_REQUIRED_ADVANCED_MONSTER_HORDE_2
+    ExperienceAward                   =    EXPERIENCE_AWARD_ADVANCED_MONSTER_HORDE_2
+    Rank                              =    2
+    Upgrades                          =    Upgrade_ObjectLevel2
+    AttributeModifiers                =    AdvancedMonsterHordeBonusRank2
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+    SelectionDecal
+        Texture               =    decal_I_level2
+        Texture2              =    decal_evil_CO
+        Style                 =    SHADOW_MERGE_DECAL
+        OpacityMin            =    80%
+        OpacityMax            =    100%
+        MinRadius             =    70
+        MaxRadius             =    200
+        MaxSelectedUnits      =    40
+    End
+END
+
+ExperienceLevel    Evil_Advanced_MonsterLevel3
+    TargetNames                       =    EVIL_ADVANCED_MONSTER
+    RequiredExperience                =    EXPERIENCE_REQUIRED_ADVANCED_MONSTER_HORDE_3
+    ExperienceAward                   =    EXPERIENCE_AWARD_ADVANCED_MONSTER_HORDE_3
+    Rank                              =    3
+    Upgrades                          =    Upgrade_ObjectLevel3
+    AttributeModifiers                =    AdvancedMonsterHordeBonusRank3
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+    SelectionDecal
+        Texture               =    decal_I_level3
+        Texture2              =    decal_evil_CO
+        Style                 =    SHADOW_MERGE_DECAL
+        OpacityMin            =    80%
+        OpacityMax            =    100%
+        MinRadius             =    70
+        MaxRadius             =    200
+        MaxSelectedUnits      =    40
+    End
+END
+
+ExperienceLevel    Evil_Advanced_MonsterLevel4
+    TargetNames                       =    EVIL_ADVANCED_MONSTER
+    RequiredExperience                =    EXPERIENCE_REQUIRED_ADVANCED_MONSTER_HORDE_4
+    ExperienceAward                   =    EXPERIENCE_AWARD_ADVANCED_MONSTER_HORDE_4
+    Rank                              =    4
+    Upgrades                          =    Upgrade_ObjectLevel4
+    AttributeModifiers                =    AdvancedMonsterHordeBonusRank4
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+    SelectionDecal
+        Texture               =    decal_I_level4
+        Texture2              =    decal_evil_CO
+        Style                 =    SHADOW_MERGE_DECAL
+        OpacityMin            =    80%
+        OpacityMax            =    100%
+        MinRadius             =    70
+        MaxRadius             =    200
+        MaxSelectedUnits      =    40
+    End
+END
+
+ExperienceLevel    Evil_Advanced_MonsterLevel5
+    TargetNames                       =    EVIL_ADVANCED_MONSTER
+    RequiredExperience                =    EXPERIENCE_REQUIRED_ADVANCED_MONSTER_HORDE_5
+    ExperienceAward                   =    EXPERIENCE_AWARD_ADVANCED_MONSTER_HORDE_5
+    Rank                              =    5
+    Upgrades                          =    Upgrade_ObjectLevel5
+    AttributeModifiers                =    AdvancedBeastsHordeBonusRank5
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+    SelectionDecal
+        Texture               =    decal_I_level5
+        Texture2              =    decal_evil_CO
+        Style                 =    SHADOW_MERGE_DECAL
+        OpacityMin            =    80%
+        OpacityMax            =    100%
+        MinRadius             =    70
+        MaxRadius             =    200
+        MaxSelectedUnits      =    40
+    End
+END
+
+
+;----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ExperienceLevel    Evil_Elite_Monster_Level1
+    TargetNames                       =    EVIL_ELITE_MONSTER
+    RequiredExperience                =    EXPERIENCE_REQUIRED_ELITE_MONSTER_HORDE_1
+    ExperienceAward                   =    EXPERIENCE_AWARD_ELITE_MONSTER_HORDE_1
+    Rank                              =    1
+    Upgrades                          =    Upgrade_ObjectLevel1
+    SelectionDecal
+        Texture               =    decal_I_level1
+        Texture2              =    decal_evil_CO
+        Style                 =    SHADOW_MERGE_DECAL
+        OpacityMin            =    80%
+        OpacityMax            =    100%
+        MinRadius             =    70
+        MaxRadius             =    200
+        MaxSelectedUnits      =    40
+    End
+END
+
+ExperienceLevel    Evil_Elite_MonsterLevel2
+    TargetNames                       =    EVIL_ELITE_MONSTER
+    RequiredExperience                =    EXPERIENCE_REQUIRED_ELITE_MONSTER_HORDE_2
+    ExperienceAward                   =    EXPERIENCE_AWARD_ELITE_MONSTER_HORDE_2
+    Rank                              =    2
+    Upgrades                          =    Upgrade_ObjectLevel2
+    AttributeModifiers                =    EliteMonsterHordeBonusRank2
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+    SelectionDecal
+        Texture               =    decal_I_level2
+        Texture2              =    decal_evil_CO
+        Style                 =    SHADOW_MERGE_DECAL
+        OpacityMin            =    80%
+        OpacityMax            =    100%
+        MinRadius             =    70
+        MaxRadius             =    200
+        MaxSelectedUnits      =    40
+    End
+END
+
+ExperienceLevel    Evil_Elite_MonsterLevel3
+    TargetNames                       =    EVIL_ELITE_MONSTER
+    RequiredExperience                =    EXPERIENCE_REQUIRED_ELITE_MONSTER_HORDE_3
+    ExperienceAward                   =    EXPERIENCE_AWARD_ELITE_MONSTER_HORDE_3
+    Rank                              =    3
+    Upgrades                          =    Upgrade_ObjectLevel3
+    AttributeModifiers                =    EliteMonsterHordeBonusRank3
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+    SelectionDecal
+        Texture               =    decal_I_level3
+        Texture2              =    decal_evil_CO
+        Style                 =    SHADOW_MERGE_DECAL
+        OpacityMin            =    80%
+        OpacityMax            =    100%
+        MinRadius             =    70
+        MaxRadius             =    200
+        MaxSelectedUnits      =    40
+    End
+END
+
+ExperienceLevel    Evil_Elite_MonsterLevel4
+    TargetNames                       =    EVIL_ELITE_MONSTER
+    RequiredExperience                =    EXPERIENCE_REQUIRED_ELITE_MONSTER_HORDE_4
+    ExperienceAward                   =    EXPERIENCE_AWARD_ELITE_MONSTER_HORDE_4
+    Rank                              =    4
+    Upgrades                          =    Upgrade_ObjectLevel4
+    AttributeModifiers                =    EliteMonsterHordeBonusRank4
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+    SelectionDecal
+        Texture               =    decal_I_level4
+        Texture2              =    decal_evil_CO
+        Style                 =    SHADOW_MERGE_DECAL
+        OpacityMin            =    80%
+        OpacityMax            =    100%
+        MinRadius             =    70
+        MaxRadius             =    200
+        MaxSelectedUnits      =    40
+    End
+END
+
+ExperienceLevel    Evil_Elite_MonsterLevel5
+    TargetNames                       =    EVIL_ELITE_MONSTER
+    RequiredExperience                =    EXPERIENCE_REQUIRED_ELITE_MONSTER_HORDE_5
+    ExperienceAward                   =    EXPERIENCE_AWARD_ELITE_MONSTER_HORDE_5
+    Rank                              =    5
+    Upgrades                          =    Upgrade_ObjectLevel5
+    AttributeModifiers                =    EliteBeastsHordeBonusRank5
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+    SelectionDecal
+        Texture               =    decal_I_level5
+        Texture2              =    decal_evil_CO
+        Style                 =    SHADOW_MERGE_DECAL
+        OpacityMin            =    80%
+        OpacityMax            =    100%
+        MinRadius             =    70
+        MaxRadius             =    200
+        MaxSelectedUnits      =    40
+    End
+END
+
+
+
 
 
 
