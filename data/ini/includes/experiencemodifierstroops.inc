@@ -38,6 +38,18 @@
 
 ;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+#define BASIC10_HORDE_HP_ADD_LVL2                60
+#define BASIC10_HORDE_HP_ADD_LVL3                60
+#define BASIC10_HORDE_HP_ADD_LVL4                60
+#define BASIC10_HORDE_HP_ADD_LVL5                60
+
+#define BASIC10_HORDE_DAMAGE_ADD_LVL2            8
+#define BASIC10_HORDE_DAMAGE_ADD_LVL3            8
+#define BASIC10_HORDE_DAMAGE_ADD_LVL4            8
+#define BASIC10_HORDE_DAMAGE_ADD_LVL5            8
+
+;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 #define REGULAR15_HORDE_HP_ADD_LVL2                65
 #define REGULAR15_HORDE_HP_ADD_LVL3                65
 #define REGULAR15_HORDE_HP_ADD_LVL4                65
@@ -47,6 +59,18 @@
 #define REGULAR15_HORDE_DAMAGE_ADD_LVL3            10
 #define REGULAR15_HORDE_DAMAGE_ADD_LVL4            10
 #define REGULAR15_HORDE_DAMAGE_ADD_LVL5            10
+
+;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#define REGULAR5_HORDE_HP_ADD_LVL2                180
+#define REGULAR5_HORDE_HP_ADD_LVL3                180
+#define REGULAR5_HORDE_HP_ADD_LVL4                180
+#define REGULAR5_HORDE_HP_ADD_LVL5                180
+
+#define REGULAR5_HORDE_DAMAGE_ADD_LVL2            26
+#define REGULAR5_HORDE_DAMAGE_ADD_LVL3            26
+#define REGULAR5_HORDE_DAMAGE_ADD_LVL4            26
+#define REGULAR5_HORDE_DAMAGE_ADD_LVL5            26
 
 ;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -71,6 +95,30 @@
 #define ADVANCED_HORDE_DAMAGE_ADD_LVL3            20
 #define ADVANCED_HORDE_DAMAGE_ADD_LVL4            20
 #define ADVANCED_HORDE_DAMAGE_ADD_LVL5            20
+
+;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#define ADVANCED5_HORDE_HP_ADD_LVL2                200
+#define ADVANCED5_HORDE_HP_ADD_LVL3                200
+#define ADVANCED5_HORDE_HP_ADD_LVL4                200
+#define ADVANCED5_HORDE_HP_ADD_LVL5                200
+
+#define ADVANCED5_HORDE_DAMAGE_ADD_LVL2            40
+#define ADVANCED5_HORDE_DAMAGE_ADD_LVL3            40
+#define ADVANCED5_HORDE_DAMAGE_ADD_LVL4            40
+#define ADVANCED5_HORDE_DAMAGE_ADD_LVL5            40
+
+;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#define ADVANCED3_HORDE_HP_ADD_LVL2                300
+#define ADVANCED3_HORDE_HP_ADD_LVL3                300
+#define ADVANCED3_HORDE_HP_ADD_LVL4                300
+#define ADVANCED3_HORDE_HP_ADD_LVL5                300
+
+#define ADVANCED3_HORDE_DAMAGE_ADD_LVL2            60
+#define ADVANCED3_HORDE_DAMAGE_ADD_LVL3            60
+#define ADVANCED3_HORDE_DAMAGE_ADD_LVL4            60
+#define ADVANCED3_HORDE_DAMAGE_ADD_LVL5            60
 
 ;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -109,6 +157,73 @@
 
 ;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+#define VETERANS_HORDE_HP_ADD_LVL2                225
+#define VETERANS_HORDE_HP_ADD_LVL3                225
+#define VETERANS_HORDE_HP_ADD_LVL4                225
+#define VETERANS_HORDE_HP_ADD_LVL5                225
+#define VETERANS_HORDE_HP_ADD_LVL6                225
+#define VETERANS_HORDE_HP_ADD_LVL7                225
+#define VETERANS_HORDE_HP_ADD_LVL8                225
+#define VETERANS_HORDE_HP_ADD_LVL9                225
+#define VETERANS_HORDE_HP_ADD_LVL10               225
+#define VETERANS_HORDE_HP_ADD_LVL11               225
+#define VETERANS_HORDE_HP_ADD_LVL12               225
+#define VETERANS_HORDE_HP_ADD_LVL13               225
+#define VETERANS_HORDE_HP_ADD_LVL14               225
+#define VETERANS_HORDE_HP_ADD_LVL15               225
+#define VETERANS_HORDE_HP_ADD_LVL16               225
+#define VETERANS_HORDE_HP_ADD_LVL17               225
+#define VETERANS_HORDE_HP_ADD_LVL18               225
+#define VETERANS_HORDE_HP_ADD_LVL19               225
+#define VETERANS_HORDE_HP_ADD_LVL20               225
+
+
+#define VETERANS_HORDE_DAMAGE_ADD_LVL2            27
+#define VETERANS_HORDE_DAMAGE_ADD_LVL3            27
+#define VETERANS_HORDE_DAMAGE_ADD_LVL4            27
+#define VETERANS_HORDE_DAMAGE_ADD_LVL5            27
+#define VETERANS_HORDE_DAMAGE_ADD_LVL6            27
+#define VETERANS_HORDE_DAMAGE_ADD_LVL7            27
+#define VETERANS_HORDE_DAMAGE_ADD_LVL8            27
+#define VETERANS_HORDE_DAMAGE_ADD_LVL9            27
+#define VETERANS_HORDE_DAMAGE_ADD_LVL10           27
+#define VETERANS_HORDE_DAMAGE_ADD_LVL11           27
+#define VETERANS_HORDE_DAMAGE_ADD_LVL12           27
+#define VETERANS_HORDE_DAMAGE_ADD_LVL13           27
+#define VETERANS_HORDE_DAMAGE_ADD_LVL14           27
+#define VETERANS_HORDE_DAMAGE_ADD_LVL15           27
+#define VETERANS_HORDE_DAMAGE_ADD_LVL16           27
+#define VETERANS_HORDE_DAMAGE_ADD_LVL17           27
+#define VETERANS_HORDE_DAMAGE_ADD_LVL18           27
+#define VETERANS_HORDE_DAMAGE_ADD_LVL19           27
+#define VETERANS_HORDE_DAMAGE_ADD_LVL20           27
+
+
+;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#define ELITE_10_HORDE_HP_ADD_LVL2                150
+#define ELITE_10_HORDE_HP_ADD_LVL3                150
+#define ELITE_10_HORDE_HP_ADD_LVL4                150
+#define ELITE_10_HORDE_HP_ADD_LVL5                150
+#define ELITE_10_HORDE_HP_ADD_LVL6                150
+#define ELITE_10_HORDE_HP_ADD_LVL7                150
+#define ELITE_10_HORDE_HP_ADD_LVL8                150
+#define ELITE_10_HORDE_HP_ADD_LVL9                150
+#define ELITE_10_HORDE_HP_ADD_LVL10               150
+
+
+#define ELITE_10_HORDE_DAMAGE_ADD_LVL2            17
+#define ELITE_10_HORDE_DAMAGE_ADD_LVL3            17
+#define ELITE_10_HORDE_DAMAGE_ADD_LVL4            17
+#define ELITE_10_HORDE_DAMAGE_ADD_LVL5            17
+#define ELITE_10_HORDE_DAMAGE_ADD_LVL6            17
+#define ELITE_10_HORDE_DAMAGE_ADD_LVL7            17
+#define ELITE_10_HORDE_DAMAGE_ADD_LVL8            17
+#define ELITE_10_HORDE_DAMAGE_ADD_LVL9            17
+#define ELITE_10_HORDE_DAMAGE_ADD_LVL10           17
+
+;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 #define ELITE3_HORDE_HP_ADD_LVL2                420
 #define ELITE3_HORDE_HP_ADD_LVL3                420
 #define ELITE3_HORDE_HP_ADD_LVL4                420
@@ -129,6 +244,30 @@
 #define ELITE3_HORDE_DAMAGE_ADD_LVL8            50
 #define ELITE3_HORDE_DAMAGE_ADD_LVL9            50
 #define ELITE3_HORDE_DAMAGE_ADD_LVL10           50
+
+;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#define CHEAP_CHAMPION_HORDE_HP_ADD_LVL2                300
+#define CHEAP_CHAMPION_HORDE_HP_ADD_LVL3                300
+#define CHEAP_CHAMPION_HORDE_HP_ADD_LVL4                300
+#define CHEAP_CHAMPION_HORDE_HP_ADD_LVL5                300
+
+#define CHEAP_CHAMPION_HORDE_DAMAGE_ADD_LVL2            30
+#define CHEAP_CHAMPION_HORDE_DAMAGE_ADD_LVL3            30
+#define CHEAP_CHAMPION_HORDE_DAMAGE_ADD_LVL4            30
+#define CHEAP_CHAMPION_HORDE_DAMAGE_ADD_LVL5            30
+
+;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#define REGULAR_CHAMPION_HORDE_HP_ADD_LVL2                500
+#define REGULAR_CHAMPION_HORDE_HP_ADD_LVL3                500
+#define REGULAR_CHAMPION_HORDE_HP_ADD_LVL4                500
+#define REGULAR_CHAMPION_HORDE_HP_ADD_LVL5                500
+
+#define REGULAR_CHAMPION_HORDE_DAMAGE_ADD_LVL2            50
+#define REGULAR_CHAMPION_HORDE_DAMAGE_ADD_LVL3            50
+#define REGULAR_CHAMPION_HORDE_DAMAGE_ADD_LVL4            50
+#define REGULAR_CHAMPION_HORDE_DAMAGE_ADD_LVL5            50
 
 ;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -265,5 +404,66 @@
 #define BASICBEASTS_HORDE_DAMAGE_ADD_LVL3            8
 #define BASICBEASTS_HORDE_DAMAGE_ADD_LVL4            8
 #define BASICBEASTS_HORDE_DAMAGE_ADD_LVL5            8
+
+;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#define CHEAPMONSTER_HORDE_HP_ADD_LVL2               40
+#define CHEAPMONSTER_HORDE_HP_ADD_LVL3               40
+#define CHEAPMONSTER_HORDE_HP_ADD_LVL4               40
+#define CHEAPMONSTER_HORDE_HP_ADD_LVL5               40
+
+#define CHEAPMONSTER_HORDE_DAMAGE_ADD_LVL2            7
+#define CHEAPMONSTER_HORDE_DAMAGE_ADD_LVL3            8
+#define CHEAPMONSTER_HORDE_DAMAGE_ADD_LVL4            8
+#define CHEAPMONSTER_HORDE_DAMAGE_ADD_LVL5            8
+
+;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+#define BASICMONSTER_HORDE_HP_ADD_LVL2               80
+#define BASICMONSTER_HORDE_HP_ADD_LVL3               80
+#define BASICMONSTER_HORDE_HP_ADD_LVL4               80
+#define BASICMONSTER_HORDE_HP_ADD_LVL5               80
+
+#define BASICMONSTER_HORDE_DAMAGE_ADD_LVL2            9
+#define BASICMONSTER_HORDE_DAMAGE_ADD_LVL3            10
+#define BASICMONSTER_HORDE_DAMAGE_ADD_LVL4            10
+#define BASICMONSTER_HORDE_DAMAGE_ADD_LVL5            10
+
+;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#define REGULARMONSTER_HORDE_HP_ADD_LVL2               200
+#define REGULARMONSTER_HORDE_HP_ADD_LVL3               200
+#define REGULARMONSTER_HORDE_HP_ADD_LVL4               200
+#define REGULARMONSTER_HORDE_HP_ADD_LVL5               200
+
+#define REGULARMONSTER_HORDE_DAMAGE_ADD_LVL2            15
+#define REGULARMONSTER_HORDE_DAMAGE_ADD_LVL3            20
+#define REGULARMONSTER_HORDE_DAMAGE_ADD_LVL4            20
+#define REGULARMONSTER_HORDE_DAMAGE_ADD_LVL5            20
+
+;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#define ADVANCEDMONSTER_HORDE_HP_ADD_LVL2               400
+#define ADVANCEDMONSTER_HORDE_HP_ADD_LVL3               400
+#define ADVANCEDMONSTER_HORDE_HP_ADD_LVL4               400
+#define ADVANCEDMONSTER_HORDE_HP_ADD_LVL5               400
+
+#define ADVANCEDMONSTER_HORDE_DAMAGE_ADD_LVL2            30
+#define ADVANCEDMONSTER_HORDE_DAMAGE_ADD_LVL3            35
+#define ADVANCEDMONSTER_HORDE_DAMAGE_ADD_LVL4            35
+#define ADVANCEDMONSTER_HORDE_DAMAGE_ADD_LVL5            35
+
+;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#define ELITEMONSTER_HORDE_HP_ADD_LVL2               500
+#define ELITEMONSTER_HORDE_HP_ADD_LVL3               500
+#define ELITEMONSTER_HORDE_HP_ADD_LVL4               500
+#define ELITEMONSTER_HORDE_HP_ADD_LVL5               500
+
+#define ELITEMONSTER_HORDE_DAMAGE_ADD_LVL2            50
+#define ELITEMONSTER_HORDE_DAMAGE_ADD_LVL3            55
+#define ELITEMONSTER_HORDE_DAMAGE_ADD_LVL4            55
+#define ELITEMONSTER_HORDE_DAMAGE_ADD_LVL5            55
 
 ;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
