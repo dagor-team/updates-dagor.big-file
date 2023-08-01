@@ -11,7 +11,7 @@ Changes by ooglie
 Imladris
 -Imladris banner carriers now give 80% Knockback resistance increase.
 -Update all expirience attributes for Good side units and the remaining Evil side.
-
+-Durin Word of Silence should not affect valars anymore.
 Changes by Gimli:
 General Changes:
 -Builders should now resist enemy hero hits with ease, in order to kill builders players are expected to attack them with regular units,siege or powers.
@@ -43,7 +43,6 @@ Dwarves
 -Telchar Debuff nerfed from -50% damage to -25%.(needs new text)
 -Dain AoE basic attack nerfed, it still knocks down but the Damage is only dealt to direct hammer hits.
 -Ram Riders fixed weird Speed bug. Needs confirmation.
--Durin Word of Silence should not affect valars anymore.
 -Nogrod Smiths capped to 5. 
 Hotfixed Damage Splits:
 -All Flood powers.
