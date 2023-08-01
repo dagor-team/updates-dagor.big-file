@@ -89467,7 +89467,7 @@ CONTROLBAR:FingolfinLeadership
 END
 
 CONTROLBAR:ToolTipFingolfinLeadership
-"After the death of Fëanor, Maedhros renounced the throne of the Noldor and gave it to Fingolfin for being the eldest son of Finwë \n Level 1: Allied heroes near Fingolfin gain 20% armor and magic inmunity \n Level 5: Nearby enemies lose armor. \n Passive ability"
+"After the death of Fëanor, Maedhros renounced the throne of the Noldor and gave it to Fingolfin for being the eldest son of Finwë \n Level 1: Allied heroes near Fingolfin gain 20% armor and magic immunity \n Level 5: Nearby enemies lose armor. \n Passive ability"
 END
 
 CONTROLBAR:FingolfinHorn
@@ -89475,7 +89475,7 @@ CONTROLBAR:FingolfinHorn
 END
 
 CONTROLBAR:ToolTipFingolfinHorn
-"Requires: Level 3 \n Fingolfin sounds his great horn, knocking down nearby enemy units and giving friendly units and himself inmunity to unupgraded arrow damage, magic, fire and frost damage for 30 seconds \n Can only be activated while on foot.\n Left-click to activate"
+"Requires: Level 3 \n Fingolfin sounds his great horn, knocking down nearby enemy units and giving friendly units and himself immunity to unupgraded arrow damage, magic, fire and frost damage for 30 seconds \n Can only be activated while on foot.\n Left-click to activate"
 END
 
 CONTROLBAR:FingolfinRochallor
@@ -91526,7 +91526,7 @@ CONTROLBAR:TelcharArmorUpgrade
 END
 
 CONTROLBAR:ToolTipTelcharArmorUpgrade
-"Requires: Level 2 \n Telchar's wisdom in the art of blacksmithing \n Grants inmunity against magic and fire attacks \n Left click on icon then left-click on units"
+"Requires: Level 2 \n Telchar's wisdom in the art of blacksmithing \n Grants immunity against magic and fire attacks \n Left click on icon then left-click on units"
 END
 
 CONTROLBAR:TelcharStructureInvulneravility
@@ -93728,7 +93728,7 @@ CONTROLBAR:NogrodSmiteBonus
 END
 
 CONTROLBAR:ToolTipNogrodSmiteBonus
-"Allied units near a Nogrod Blacksmith gain 100% experience and inmunity to magic,frost and poison. \n Level 6: \n Structures near a Nogrond Blacksmith gain 50% resistance to siege attacks. \n Passive ability"
+"Allied units near a Nogrod Blacksmith gain 100% experience and immunity to magic,frost and poison. \n Level 6: \n Structures near a Nogrond Blacksmith gain 50% resistance to siege attacks. \n Passive ability"
 END
 
 CONTROLBAR:NogrodSmiteKnowledge
@@ -94538,7 +94538,7 @@ CONTROLBAR:ThuringwethilWomanofSecretShadow
 END
 
 CONTROLBAR:ToolTipThuringwethilWomanofSecretShadow
-"As leader of the vampires of Tol-in-Gaurhoth, \n Thuringwethil gives them protection bonus armor and magic inmunity. \n Passive ability"
+"As leader of the vampires of Tol-in-Gaurhoth, \n Thuringwethil gives them protection bonus armor and magic immunity. \n Passive ability"
 END
 
 CONTROLBAR:ThuringwethilMounted
