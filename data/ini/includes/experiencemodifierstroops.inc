@@ -201,26 +201,26 @@
 
 ;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#define ELITE10_HORDE_HP_ADD_LVL2                150
-#define ELITE10_HORDE_HP_ADD_LVL3                150
-#define ELITE10_HORDE_HP_ADD_LVL4                150
-#define ELITE10_HORDE_HP_ADD_LVL5                150
-#define ELITE10_HORDE_HP_ADD_LVL6                150
-#define ELITE10_HORDE_HP_ADD_LVL7                150
-#define ELITE10_HORDE_HP_ADD_LVL8                150
-#define ELITE10_HORDE_HP_ADD_LVL9                150
-#define ELITE10_HORDE_HP_ADD_LVL10               150
+#define ELITE_10_HORDE_HP_ADD_LVL2                150
+#define ELITE_10_HORDE_HP_ADD_LVL3                150
+#define ELITE_10_HORDE_HP_ADD_LVL4                150
+#define ELITE_10_HORDE_HP_ADD_LVL5                150
+#define ELITE_10_HORDE_HP_ADD_LVL6                150
+#define ELITE_10_HORDE_HP_ADD_LVL7                150
+#define ELITE_10_HORDE_HP_ADD_LVL8                150
+#define ELITE_10_HORDE_HP_ADD_LVL9                150
+#define ELITE_10_HORDE_HP_ADD_LVL10               150
 
 
-#define ELITE10_HORDE_DAMAGE_ADD_LVL2            17
-#define ELITE10_HORDE_DAMAGE_ADD_LVL3            17
-#define ELITE10_HORDE_DAMAGE_ADD_LVL4            17
-#define ELITE10_HORDE_DAMAGE_ADD_LVL5            17
-#define ELITE10_HORDE_DAMAGE_ADD_LVL6            17
-#define ELITE10_HORDE_DAMAGE_ADD_LVL7            17
-#define ELITE10_HORDE_DAMAGE_ADD_LVL8            17
-#define ELITE10_HORDE_DAMAGE_ADD_LVL9            17
-#define ELITE10_HORDE_DAMAGE_ADD_LVL10           17
+#define ELITE_10_HORDE_DAMAGE_ADD_LVL2            17
+#define ELITE_10_HORDE_DAMAGE_ADD_LVL3            17
+#define ELITE_10_HORDE_DAMAGE_ADD_LVL4            17
+#define ELITE_10_HORDE_DAMAGE_ADD_LVL5            17
+#define ELITE_10_HORDE_DAMAGE_ADD_LVL6            17
+#define ELITE_10_HORDE_DAMAGE_ADD_LVL7            17
+#define ELITE_10_HORDE_DAMAGE_ADD_LVL8            17
+#define ELITE_10_HORDE_DAMAGE_ADD_LVL9            17
+#define ELITE_10_HORDE_DAMAGE_ADD_LVL10           17
 
 ;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
