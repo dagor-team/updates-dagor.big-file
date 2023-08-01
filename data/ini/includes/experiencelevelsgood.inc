@@ -2,9 +2,9 @@
 
 #define GOOD_EXPANDABLE_SUMMONED RohanHobbit_Summoned RohanHobbitFriendsHorde_Summoned RohanHobbit_Summoned RohanHobbitFriendsHorde_Summoned ArnorHobbitBow_Summoned ArnorHobbitBowHorde_Summoned
 
-#define GOOD_CHEAP 
+; #define GOOD_CHEAP 
 
-#define GOOD_CHEAP_SUMMONED  
+; #define GOOD_CHEAP_SUMMONED  
 
 #define GOOD_BASIC RohanSpeerwerfer RohanSpearmen RohanSpearmenHorde RohanSpearmenHordeHordePorcupine RohanSpeerwerfer_AI RohanSpeerwerferHorde RohanSpeerwerferHorde_AI RohanWestfoldSpeerwerfer RohanWestfoldSpeerwerfer_Slaved RohanHerold RohanHeroldBow RohanHeroldBanner RohanHeroldBannerBow RohanYeomanSpearThrower RohanYeomanSpearThrowerHorde RohanYeomanSpearThrowerHordeWedge RohanAxeFighter RohanAxeFighterHorde RohanAxeFighterHordeHerold RohanArcher_mod RohanArcherHorde_mod RohanArcherHordeHerold RohanFighter RohanFighterHorde RohanFighterHordeHerold RohanLancer RohanLancerHorde RohanWachterMeduseldsHordeHerold RohanHelmAxeGuardPeasant RohanHelmAxeGuardPeasantHorde LehenLeibwacheHorde RohanRohirrimArcher RohanRohirrimArcherHorde RohanBanner GondorInfantryBanner GondorSpearmanHorde GondorArcherHorde GondorArcherMonsterHunterHorde GondorArcherHorde_Denethor GondorTowerShieldGuardHorde GondorTowerShieldGuardHorde_Denethor GondorTowerShieldGuardHordePorcupine GondorTowerShieldGuardHordeShieldWall_Denethor GondorTowerShieldGuard GondorTowerShieldGuard_Denethor GondorSpearmanHordePorcupine GondorSpearman GondorInfantryBannerUpgraded_Summoned GondorArcher_Denethor GondorSpearman_Denethor GondorSpearmanHordePorcupine_Denethor MorthondBowmen MorthondBowmenHorde LehenLeibwache LehenDolsoldaten LehenDolFighterBanner LehenDolsoldatenHorde LehenLossarnachAxte LehenLossarnachAxteHorde RingValeSwordsman RingValeSwordsmanHorde PelegirSpearmen PelegirSpearmenHorde PelegirSpearmenHordeShieldWall DwarvenLaketownBanner DwarvenLaketownSwordman DwarvenLaketownSwordmanHorde DwarvenLaketownSwordmanHordeBlock DwarvenLaketownPikeman DwarvenLaketownPikemanHorde DwarvenLaketownPikemanHordePorcupine ThalBanner ThalPike ThalPikeHorde DwarvenThalBanner DwarvenThalSwordman DwarvenThalSwordmanHorde DwarvenThalSwordmanHordeBlock DwarvenThalPikeman DwarvenThalPikemanHorde DwarvenThalPikemanHordePorcupine DwarvenDaleFighter DwarvenDaleFighterHorde
 
@@ -16,7 +16,7 @@
 
 #define GOOD_REGULAR_5 ImladrisSwordmasterBanner ImladrisBanner ImladrisWaffenmeister ImladrisWaffenmeisterHorde ImladrisWaffenmeisterHordeLine ImladrisWarriorHorde ElvenImladrisWarrior ImladrisSwordManHorde ImladrisSwordMan
 
-#define GOOD_REGULAR_5_SUMMONED 
+; #define GOOD_REGULAR_5_SUMMONED 
 
 #define GOOD_REGULAR DolAmrothGardeFoot DolAmrothGardeFootHorde DolAmrothGardeBanner DwarvenOrocarniBanner DwarvenOrocarni DwarvenOrocarniHorde DunedainFighter IthilienSchwertkampfer IthilienSchwertkampferHorde DunedainFighterHorde DwarvenGarde DwarvenGarde_Slaved DwarvenGardeHorde DwarvenGardeHordeAlternative IsenfurtWachterHorde IsenfurtWachterHordeHerold  IsenfurtSpeertragerHorde IsenfurtSpeertragerHordeHerold IsenfurtWachter_Hauptmann IsenfurtSpeertrager_Hauptmann GetreueSpeerHordeHauptmann GetreueSpeerHordeHauptmannPorcupine IsenfurtSpeertrager IsenfurtSpeertragerHordePorcupine GondorWachterderKompanie GondorWachterderVeste GondorWachterderKompanieHorde GondorWachterderKompanieHordePorcupine RohanCaptain RohanHauptmannForAI RohanHauptmannBanner MirkwoodWarrior MirkwoodWarriorHorde LindonWarrior LindonWarriorHorde ArnorLindonLanzentrager ArnorLindonLanzentragerHorde ArnorLindonLanzentragerHordePorcupine LindonHeavenLancer LindonHeavenLancerHorde LindonHeavenLancerHordePorcupine LindonHeavenWarrior LindonHeavenWarriorHorde  DwarvenAxtschwinger DwarvenAxtschwingerHorde DwarvenAxtschwingerBanner DwarvenEreborDefender DwarvenEreborDefendersHorde DwarvenEreborGuardianBanner DwarvenEreborDefendersHordeBlock DwarvenPhalanxErebor DwarvenPhalanxEreborHorde DwarvenPhalanxBreitschultern DwarvenPhalanxBreitschulternHorde DwarvenPhalanxBreitschulternHordePorcupine DwarvenGuardianBreitschultern DwarvenGuardianBreitschulternHorde DwarvenPhalanxIronHills DwarvenPhalanxIronHillsHorde DwarvenGuardianIronHills DwarvenGuardianIronHillsHorde DwarvenGuardianErebor DwarvenGuardianEreborHorde DwarvenCrossbowIronHills DwarvenCrossbowIronHillsHorde DwarvenCrossbow DruedainWeiser DruedainWeiserBanner DruedainKrieger DruedainKriegerHorde DwarvenEreborDefender DwarvenEreborDefendersHorde DwarvenEreborGuardianBanner DwarvenEreborDefendersHordeBlock DwarvenPhalanxErebor DwarvenPhalanxEreborHorde DwarvenPhalanxBreitschultern DwarvenPhalanxBreitschulternHorde DwarvenPhalanxBreitschulternHordePorcupine DwarvenGuardianBreitschultern DwarvenGuardianBreitschulternHorde DwarvenPhalanxIronHills DwarvenPhalanxIronHillsHorde DwarvenGuardianIronHills DwarvenGuardianIronHillsHorde DwarvenGuardianErebor DwarvenGuardianEreborHorde DwarvenCrossbowIronHills DwarvenCrossbowIronHillsHorde DwarvenCrossbow GondorOrkjager GondorOrkjagerHorde IthilienSpeertrager IthilienSpeertragerHorde IthilienSpeertragerHordePorcupine LothlorienGrenzwachter LothlorienGrenzwachterHorde MirkwoodSpearmenHordePorcupine MirkwoodAvariWarrior MirkwoodAvariWarriorHorde MirkwoodSpearmen MirkwoodSpearmenHorde MirkwoodBanner MirkwoodBanner_SlavedWache ElvenMithlondSentry ElvenMithlondSentryHorde DwarvenCrossbowHorde DwarvenBow DwarvenBowHorde DwarvenGuardian DwarvenGuardianHorde DwarvenBanner DwarvenBreitschulternBanner DwarvenEreborBanner DwarvenIronHillsBanner DwarvenAxeThrower DwarvenAxeThrowerHorde DwarvenPhalanx DwarvenPhalanxHorde DwarvenGuardianEredMithrin DwarvenGuardianEredMithrinHorde DwarvenEredMithrinHunter DwarvenEredMithrinHunterHorde DwarvenAxtschwinger DwarvenAxtschwingerHorde DwarvenAxtschwingerBanner
 
@@ -32,7 +32,7 @@
 
 #define GOOD_ADVANCED_5 BruchtalLanzer BruchtalLancerHorde ElvenRivendellArcher ElvenRivendellArcherHorde ElvenRivendellArcherMod ElvenRivendellArcherHordeMod ElvenRivendellArcherHordeModWedgeFormation BruchtalBogenschuetzen BruchtalBogenschuetzenHorde BruchtalBogenschuetzenHordeAmbush
 
-#define GOOD_ADVANCED_8 
+; #define GOOD_ADVANCED_8 
 
 #define GOOD_ELITE RohanHelmAxeGuard RohanHelmAxeGuardHorde GondorBoromirGuard GondorBoromirGuardHorde DwarvenKhazadDumWaechter DwarvenKhazadDumWaechterHorde DwarvenKhazadVeteranen Bruchtalwachter BruchtalwachterHorde BruchtalwachterHordePorcupine BruchtalSchwertmeister BruchtalSchwertmeisterHorde BruchtalSchwertmeisterAlone DwarvenZerker DwarvenZerkerHorde LothlorienBerserker LothlorienBerserkerHorde LothlorienBerserkerHordeShieldWall ElvenMirkwoodArcher ElvenMirkwoodArcherHorde NoldorWarriorHorde NoldorWarriorHorde NoldorWarrior NoldorWarriorHordeMod
 
@@ -40,7 +40,7 @@
 
 #define GOOD_VETERANS BruchtalVeteran BruchtalVeteranHorde 
  
-#define GOOD_ELITE_TRIO 
+; #define GOOD_ELITE_TRIO 
 
 #define GOOD_CHEAP_CHAMPION LothlorienTierflusterer LothlorienTierflusterer_NachRing LothlorienHeiler DwarvenEredMithrinDragonSlayer ImladrisElbenfuerst NogrodSmite
 
@@ -70,25 +70,25 @@
 
 #define GOOD_ELITE_CAV_SUMMONED RohanKoniglicheGardeHorde_Summoned 
 
-#define GOOD_CHEAP_BEASTS 
+; #define GOOD_CHEAP_BEASTS 
 
 #define GOOD_BASIC_BEASTS BeorningerBear BeorningerBearHorde GasthausBeorninger GasthausBeorninger_Lorien GasthausBeorningerFree
 
-#define GOOD_FIRST_AGE_REGULAR_BEASTS 
+; #define GOOD_FIRST_AGE_REGULAR_BEASTS 
 
-#define GOOD_FIRST_AGE_BEST_BEASTS 
+; #define GOOD_FIRST_AGE_BEST_BEASTS 
 
 
 
-#define GOOD_FIRST_AGE_REGULAR_FLYING 
+; #define GOOD_FIRST_AGE_REGULAR_FLYING 
 
 #define GOOD_FIRST_AGE_BETTER_FLYING ValinorEagle 
 
-#define GOOD_FIRST_AGE_LEGENDARY_FLYING  
+; #define GOOD_FIRST_AGE_LEGENDARY_FLYING  
 
-#define GOOD_FIRST_AGE_ELITE_MONSTER 
+; #define GOOD_FIRST_AGE_ELITE_MONSTER 
 
-#define GOOD_FIRST_AGE_LEGENDARY_MONSTER 
+; #define GOOD_FIRST_AGE_LEGENDARY_MONSTER 
 
 
 
@@ -4530,128 +4530,6 @@ End
 
 
 ;--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-ExperienceLevel    Good_Cheap_Beasts_Level1
-    TargetNames                       =    GOOD_CHEAP_BEASTS
-    RequiredExperience                =    EXPERIENCE_REQUIRED_CHEAP_BEASTS_HORDE_1
-    ExperienceAward                   =    EXPERIENCE_AWARD_CHEAP_BEASTS_HORDE_1
-    Rank                              =    1
-    Upgrades                          =    Upgrade_ObjectLevel1
-    SelectionDecal
-        Texture               =    decal_I_level1
-        Texture2              =    decal_evil_CO
-        Style                 =    SHADOW_MERGE_DECAL
-        OpacityMin            =    80%
-        OpacityMax            =    100%
-        MinRadius             =    70
-        MaxRadius             =    200
-        MaxSelectedUnits      =    40
-    End
-END
-
-ExperienceLevel    Good_Cheap_BeastsLevel2
-    TargetNames                       =    GOOD_CHEAP_BEASTS
-    RequiredExperience                =    EXPERIENCE_REQUIRED_CHEAP_BEASTS_HORDE_2
-    ExperienceAward                   =    EXPERIENCE_AWARD_CHEAP_BEASTS_HORDE_2
-    Rank                              =    2
-    Upgrades                          =    Upgrade_ObjectLevel2
-    AttributeModifiers                =    CheapBeastsHordeBonusRank2
-    LevelUpFx                         =    FX:GoodLevelUp1FX
-    LevelUpTintColor                  =    R:255 G:255 B:255
-    LevelUpTintPreColorTime           =    500
-    LevelUpTintPostColorTime          =    3000
-    LevelUpTintSustainColorTime       =    500
-    EmotionType                       =    CHEER
-    SelectionDecal
-        Texture               =    decal_I_level2
-        Texture2              =    decal_evil_CO
-        Style                 =    SHADOW_MERGE_DECAL
-        OpacityMin            =    80%
-        OpacityMax            =    100%
-        MinRadius             =    70
-        MaxRadius             =    200
-        MaxSelectedUnits      =    40
-    End
-END
-
-ExperienceLevel    Good_Cheap_BeastsLevel3
-    TargetNames                       =    GOOD_CHEAP_BEASTS
-    RequiredExperience                =    EXPERIENCE_REQUIRED_CHEAP_BEASTS_HORDE_3
-    ExperienceAward                   =    EXPERIENCE_AWARD_CHEAP_BEASTS_HORDE_3
-    Rank                              =    3
-    Upgrades                          =    Upgrade_ObjectLevel3
-    AttributeModifiers                =    CheapBeastsHordeBonusRank3
-    LevelUpFx                         =    FX:GoodLevelUp1FX
-    LevelUpTintColor                  =    R:255 G:255 B:255
-    LevelUpTintPreColorTime           =    500
-    LevelUpTintPostColorTime          =    3000
-    LevelUpTintSustainColorTime       =    500
-    EmotionType                       =    CHEER
-    SelectionDecal
-        Texture               =    decal_I_level3
-        Texture2              =    decal_evil_CO
-        Style                 =    SHADOW_MERGE_DECAL
-        OpacityMin            =    80%
-        OpacityMax            =    100%
-        MinRadius             =    70
-        MaxRadius             =    200
-        MaxSelectedUnits      =    40
-    End
-END
-
-ExperienceLevel    Good_Cheap_BeastsLevel4
-    TargetNames                       =    GOOD_CHEAP_BEASTS
-    RequiredExperience                =    EXPERIENCE_REQUIRED_CHEAP_BEASTS_HORDE_4
-    ExperienceAward                   =    EXPERIENCE_AWARD_CHEAP_BEASTS_HORDE_4
-    Rank                              =    4
-    Upgrades                          =    Upgrade_ObjectLevel4
-    AttributeModifiers                =    CheapBeastsHordeBonusRank4
-    LevelUpFx                         =    FX:GoodLevelUp1FX
-    LevelUpTintColor                  =    R:255 G:255 B:255
-    LevelUpTintPreColorTime           =    500
-    LevelUpTintPostColorTime          =    3000
-    LevelUpTintSustainColorTime       =    500
-    EmotionType                       =    CHEER
-    SelectionDecal
-        Texture               =    decal_I_level4
-        Texture2              =    decal_evil_CO
-        Style                 =    SHADOW_MERGE_DECAL
-        OpacityMin            =    80%
-        OpacityMax            =    100%
-        MinRadius             =    70
-        MaxRadius             =    200
-        MaxSelectedUnits      =    40
-    End
-END
-
-ExperienceLevel    Good_Cheap_BeastsLevel5
-    TargetNames                       =    GOOD_CHEAP_BEASTS
-    RequiredExperience                =    EXPERIENCE_REQUIRED_CHEAP_BEASTS_HORDE_5
-    ExperienceAward                   =    EXPERIENCE_AWARD_CHEAP_BEASTS_HORDE_5
-    Rank                              =    5
-    Upgrades                          =    Upgrade_ObjectLevel5
-    AttributeModifiers                =    CheapBeastsHordeBonusRank5
-    LevelUpFx                         =    FX:GoodLevelUp1FX
-    LevelUpTintColor                  =    R:255 G:255 B:255
-    LevelUpTintPreColorTime           =    500
-    LevelUpTintPostColorTime          =    3000
-    LevelUpTintSustainColorTime       =    500
-    EmotionType                       =    CHEER
-    SelectionDecal
-        Texture               =    decal_I_level5
-        Texture2              =    decal_evil_CO
-        Style                 =    SHADOW_MERGE_DECAL
-        OpacityMin            =    80%
-        OpacityMax            =    100%
-        MinRadius             =    70
-        MaxRadius             =    200
-        MaxSelectedUnits      =    40
-    End
-END
-
-
-;----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ExperienceLevel    Good_Basic_Beasts_Level1
     TargetNames                       =    GOOD_BASIC_BEASTS
