@@ -1,37 +1,64 @@
 Update 7.7.1
+Changes by Ninima
+General Changes
+-Update some expirience attributes for Evil side units.
+Rohan
+-Eonwe no longer crashes the game.
+Angmar
+-Witchking´s word of power is fixed.
+-Witchking mount description fixed.
+Changes by ooglie
+Imladris
+-Imladris banner carriers now give 80% Knockback resistance increase.
+-Update all expirience attributes for Good side units and the remaining Evil side.
 
 Changes by Gimli:
 General Changes:
--Builders should now resist enemy hero hits with ease, in order to kill buiilders players are expected to attack them with regular units,siege or powers. 
+-Builders should now resist enemy hero hits with ease, in order to kill builders players are expected to attack them with regular units,siege or powers.
+IMPORTANT STUFF HERE**** 
+-Upon discovery that any kind of elemental resistance is actually 100% INVULNERABILITY to the element listed we are releasing a hotfix giving split damage to many abilities and weapons that didnt have it before.
+-We will fix this properly in the future but will require to so much more work than the older and wrong implementation.For noow text will be changed as much as posible, but if you see any text listing 15%, 50% magioc resistance or frost or element... its actually total inmmunity.
+****
 Goblin
 -Drogoth is now properly recruitable from First Age fort.
 -Goblin hero recruitment centralized in the fort.
 -Broodmother's armor fixed and now they are recruitable from the Spiderpit at level 2 by all goblins.(Gorkil has access to stronger version with his summon)
 -Youngling Dragons are now available from the Wyrm lair at level 1.
--Wyrms are avaiable from level 2 Wyrmlair and they have received a huge health buff as well as a slight increase in armor.
+-Wyrms are avaiable from level 2 Wyrmlair and they have received a huge health buff as well as a slight increase in armor and damage.
 -The Arkenstone is avaiable from the Wyrmlair level 3 and costs 1000.
 -Cave bats come now from the Fissure level 2.
 -The tribute for the treasure summons can be purchased from the Fissure.
 -All heroes are purchased from the Goblin Fortress now.
--Smaug damage on the ground reduced by 25%. 
+-Smaug damage on the ground reduced by 25%.
+-Smaug Flying peck/claw damage reduced by 50%. 
 Lothlorien
 -Silvan Archers summonned buffed, they are weaker than the recruited ones, but they wont deal less than gahladrims now.
 Imladris
 -Formenos Archers increased dmg.
 -Earendil's ship reduces enemy dmg by 25% and increases Armor by 10%.
--Durin Word of Silence fixed.
--
 Mordor:
 -Easterling cav bonus fixed.
 Dwarves
--Celebrimbor nerfed his Magic resist leadership to proper value.
--Telchar level 10 leadership nerfed from 150% armor to 100% armor.
--Telchar Debuff nerfed from -50% damage to -25%.
--Ram Riders fixed weird Speed bug. Needs confirmation. 
-By Ninima
--Updates all exp and attribute for evil units.
--Eonwe no longer crashes the game.
--Witchking´s word of power is fixed.
--Witchking mount description fixed.
+-Telchar level 10 leadership nerfed from 150% armor to 100% armor.(needs new text)
+-Telchar Debuff nerfed from -50% damage to -25%.(needs new text)
+-Dain AoE basic attack nerfed, it still knocks down but the Damage is only dealt to direct hammer hits.
+-Ram Riders fixed weird Speed bug. Needs confirmation.
+-Durin Word of Silence should not affect valars anymore.
+-Nogrod Smiths capped to 5. 
+Hotfixed Damage Splits:
+-All Flood powers.
+-All Wizard blasts.
+-Upgraded Uruk crossbowmen.
+-All Words of power.
+-Tears of the Valar.
+-Gil Galad's Vilya.
+-Zaphragor Powers
+-Clown Troll earthquake.
+-Fingolfin.
+-Manwe basic attack.
+-Overlord abilities.
+-Underwolrd Wizard attack and powers.
+(if you think any powers are not dealing any dmg near magic resisting units you are encouraged to report them).
+
 
 
