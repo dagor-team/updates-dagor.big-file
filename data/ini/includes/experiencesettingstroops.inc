@@ -306,34 +306,6 @@
 
 ;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#define EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_1          1
-#define EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_2        150
-#define EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_3        350
-#define EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_4        470
-#define EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_5        750
-#define EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_6       1050
-#define EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_7       1380
-#define EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_8       1720
-#define EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_9       2120
-#define EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_10      2570
-
-
-
-#define EXPERIENCE_AWARD_FIRST_AGE_REGULAR_HORDE_1           15
-#define EXPERIENCE_AWARD_FIRST_AGE_REGULAR_HORDE_2           20
-#define EXPERIENCE_AWARD_FIRST_AGE_REGULAR_HORDE_3           22
-#define EXPERIENCE_AWARD_FIRST_AGE_REGULAR_HORDE_4           25
-#define EXPERIENCE_AWARD_FIRST_AGE_REGULAR_HORDE_5           30
-#define EXPERIENCE_AWARD_FIRST_AGE_REGULAR_HORDE_6           33
-#define EXPERIENCE_AWARD_FIRST_AGE_REGULAR_HORDE_7           35
-#define EXPERIENCE_AWARD_FIRST_AGE_REGULAR_HORDE_8           40
-#define EXPERIENCE_AWARD_FIRST_AGE_REGULAR_HORDE_9           45
-#define EXPERIENCE_AWARD_FIRST_AGE_REGULAR_HORDE_10          50
-
-
-;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
 #define EXPERIENCE_AWARD_FIRST_AGE_ELITE_HORDE_1           30
 #define EXPERIENCE_AWARD_FIRST_AGE_ELITE_HORDE_2           40
 #define EXPERIENCE_AWARD_FIRST_AGE_ELITE_HORDE_3           45
