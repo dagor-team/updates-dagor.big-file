@@ -398,6 +398,19 @@
 
 ;------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+#define EXPERIENCE_AWARD_FIRST_AGE_REGULAR_BEST_BEASTS_HORDE_1           130
+#define EXPERIENCE_AWARD_FIRST_AGE_REGULAR_BEST_BEASTS_HORDE_2           150
+#define EXPERIENCE_AWARD_FIRST_AGE_REGULAR_BEST_BEASTS_HORDE_3           180
+#define EXPERIENCE_AWARD_FIRST_AGE_REGULAR_BEST_BEASTS_HORDE_4           220
+#define EXPERIENCE_AWARD_FIRST_AGE_REGULAR_BEST_BEASTS_HORDE_5           250
+#define EXPERIENCE_AWARD_FIRST_AGE_REGULAR_BEST_BEASTS_HORDE_6           300
+#define EXPERIENCE_AWARD_FIRST_AGE_REGULAR_BEST_BEASTS_HORDE_7           350
+#define EXPERIENCE_AWARD_FIRST_AGE_REGULAR_BEST_BEASTS_HORDE_8           400
+#define EXPERIENCE_AWARD_FIRST_AGE_REGULAR_BEST_BEASTS_HORDE_9           450
+#define EXPERIENCE_AWARD_FIRST_AGE_REGULAR_BEST_BEASTS_HORDE_10          500
+
+;------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 #define EXPERIENCE_REQUIRED_BASIC_CAV_HORDE_1          1
 #define EXPERIENCE_REQUIRED_BASIC_CAV_HORDE_2         75
 #define EXPERIENCE_REQUIRED_BASIC_CAV_HORDE_3        165
