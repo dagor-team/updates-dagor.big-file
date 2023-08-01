@@ -181,6 +181,33 @@
 
 ;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+#define EXPERIENCE_REQUIRED_ELITE_10_HORDE_1          1
+#define EXPERIENCE_REQUIRED_ELITE_10_HORDE_2        100
+#define EXPERIENCE_REQUIRED_ELITE_10_HORDE_3        225
+#define EXPERIENCE_REQUIRED_ELITE_10_HORDE_4        375
+#define EXPERIENCE_REQUIRED_ELITE_10_HORDE_5        550
+#define EXPERIENCE_REQUIRED_ELITE_10_HORDE_6        650
+#define EXPERIENCE_REQUIRED_ELITE_10_HORDE_7        775
+#define EXPERIENCE_REQUIRED_ELITE_10_HORDE_8        925
+#define EXPERIENCE_REQUIRED_ELITE_10_HORDE_9       1200
+#define EXPERIENCE_REQUIRED_ELITE_10_HORDE_10      1500
+
+
+
+#define EXPERIENCE_AWARD_ELITE_10_HORDE_1           10
+#define EXPERIENCE_AWARD_ELITE_10_HORDE_2           12
+#define EXPERIENCE_AWARD_ELITE_10_HORDE_3           15
+#define EXPERIENCE_AWARD_ELITE_10_HORDE_4           17
+#define EXPERIENCE_AWARD_ELITE_10_HORDE_5           20
+#define EXPERIENCE_AWARD_ELITE_10_HORDE_6           23
+#define EXPERIENCE_AWARD_ELITE_10_HORDE_7           25
+#define EXPERIENCE_AWARD_ELITE_10_HORDE_8           23
+#define EXPERIENCE_AWARD_ELITE_10_HORDE_9           30
+#define EXPERIENCE_AWARD_ELITE_10_HORDE_10          33
+
+
+;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 #define EXPERIENCE_REQUIRED_VETERANS_HORDE_1          1
 #define EXPERIENCE_REQUIRED_VETERANS_HORDE_2        100
 #define EXPERIENCE_REQUIRED_VETERANS_HORDE_3        215
