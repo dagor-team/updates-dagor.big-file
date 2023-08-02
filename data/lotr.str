@@ -96899,7 +96899,7 @@ CONTROLBAR:PurchaseArkenStone
 END
 
 TOOLTIP:RequirementArkenStone
-"Requires the Silmaril \n The king's jewel claimed by King Thrór and stolen by Smaug the Golden \n The Arkenstone is needed to recruit Smaug the Golden \n Smaug can be recruited at the Treasure Trove"
+"Requires the Silmaril \n The king's jewel claimed by King Thrór and stolen by Smaug the Golden \n The Arkenstone is needed to unlock Smaug's second palantir,\n Smaug can be recruited from the fortress after the Dragon nest upgrade"
 END
 
 OBJECT:RohanNewSpecialSubFactionThingmajiggle
