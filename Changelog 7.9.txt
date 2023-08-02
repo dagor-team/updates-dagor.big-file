@@ -1,0 +1,6 @@
+Update 7.9
+By Gimli:
+Dwarves
+-Ered mithrin hunters increased damage against Flying units drastically, improoved Anti-monster capabilities. ( need testing to see if they fire up properly).
+-Ered Mithin hunters cost reduced to 400.
+Mordor
