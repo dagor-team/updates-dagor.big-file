@@ -80,8 +80,8 @@
 
 ;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#define EXPERIENCE_REQUIRED_REGULAR_5_HORDE_1          1
-#define EXPERIENCE_REQUIRED_REGULAR_5_HORDE_2         7000
+#define EXPERIENCE_REQUIRED_REGULAR_5_HORDE_1        1
+#define EXPERIENCE_REQUIRED_REGULAR_5_HORDE_2        7000
 #define EXPERIENCE_REQUIRED_REGULAR_5_HORDE_3        7140
 #define EXPERIENCE_REQUIRED_REGULAR_5_HORDE_4        7230
 #define EXPERIENCE_REQUIRED_REGULAR_5_HORDE_5        7335
@@ -90,7 +90,7 @@
 #define EXPERIENCE_AWARD_REGULAR_5_HORDE_2            14
 #define EXPERIENCE_AWARD_REGULAR_5_HORDE_3            16
 #define EXPERIENCE_AWARD_REGULAR_5_HORDE_4            18
-#define EXPERIENCE_AWARD_REGULAR_5_HORDE_5           20
+#define EXPERIENCE_AWARD_REGULAR_5_HORDE_5            20
 
 
 ;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -119,8 +119,8 @@
 #define EXPERIENCE_AWARD_ADVANCED_3_HORDE_1            18
 #define EXPERIENCE_AWARD_ADVANCED_3_HORDE_2            20
 #define EXPERIENCE_AWARD_ADVANCED_3_HORDE_3            20
-#define EXPERIENCE_AWARD_ADVANCED_3_HORDE_4           22
-#define EXPERIENCE_AWARD_ADVANCED_3_HORDE_5           26
+#define EXPERIENCE_AWARD_ADVANCED_3_HORDE_4            22
+#define EXPERIENCE_AWARD_ADVANCED_3_HORDE_5            26
 
 
 ;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -134,8 +134,8 @@
 #define EXPERIENCE_AWARD_ADVANCED_5_HORDE_1            16
 #define EXPERIENCE_AWARD_ADVANCED_5_HORDE_2            18
 #define EXPERIENCE_AWARD_ADVANCED_5_HORDE_3            18
-#define EXPERIENCE_AWARD_ADVANCED_5_HORDE_4           20
-#define EXPERIENCE_AWARD_ADVANCED_5_HORDE_5           24
+#define EXPERIENCE_AWARD_ADVANCED_5_HORDE_4            20
+#define EXPERIENCE_AWARD_ADVANCED_5_HORDE_5            24
 
 
 ;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -278,30 +278,50 @@
 ;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #define EXPERIENCE_REQUIRED_CHEAP_CHAMPION_HORDE_1          1
-#define EXPERIENCE_REQUIRED_CHEAP_CHAMPION_HORDE_2        200
-#define EXPERIENCE_REQUIRED_CHEAP_CHAMPION_HORDE_3        400
-#define EXPERIENCE_REQUIRED_CHEAP_CHAMPION_HORDE_4        600
-#define EXPERIENCE_REQUIRED_CHEAP_CHAMPION_HORDE_5        800
+#define EXPERIENCE_REQUIRED_CHEAP_CHAMPION_HORDE_2        150
+#define EXPERIENCE_REQUIRED_CHEAP_CHAMPION_HORDE_3        200
+#define EXPERIENCE_REQUIRED_CHEAP_CHAMPION_HORDE_4        250
+#define EXPERIENCE_REQUIRED_CHEAP_CHAMPION_HORDE_5        300
+#define EXPERIENCE_REQUIRED_CHEAP_CHAMPION_HORDE_6        400
+#define EXPERIENCE_REQUIRED_CHEAP_CHAMPION_HORDE_7        500
+#define EXPERIENCE_REQUIRED_CHEAP_CHAMPION_HORDE_8        600
+#define EXPERIENCE_REQUIRED_CHEAP_CHAMPION_HORDE_9        700
+#define EXPERIENCE_REQUIRED_CHEAP_CHAMPION_HORDE_10       800
 
 #define EXPERIENCE_AWARD_CHEAP_CHAMPION_HORDE_1           20
 #define EXPERIENCE_AWARD_CHEAP_CHAMPION_HORDE_2           30
 #define EXPERIENCE_AWARD_CHEAP_CHAMPION_HORDE_3           40
 #define EXPERIENCE_AWARD_CHEAP_CHAMPION_HORDE_4           50
 #define EXPERIENCE_AWARD_CHEAP_CHAMPION_HORDE_5           60
+#define EXPERIENCE_AWARD_CHEAP_CHAMPION_HORDE_6           70
+#define EXPERIENCE_AWARD_CHEAP_CHAMPION_HORDE_7           80
+#define EXPERIENCE_AWARD_CHEAP_CHAMPION_HORDE_8           90
+#define EXPERIENCE_AWARD_CHEAP_CHAMPION_HORDE_9           95
+#define EXPERIENCE_AWARD_CHEAP_CHAMPION_HORDE_10          100
 
 ;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #define EXPERIENCE_REQUIRED_REGULAR_CHAMPION_HORDE_1          1
-#define EXPERIENCE_REQUIRED_REGULAR_CHAMPION_HORDE_2        250
-#define EXPERIENCE_REQUIRED_REGULAR_CHAMPION_HORDE_3        500
-#define EXPERIENCE_REQUIRED_REGULAR_CHAMPION_HORDE_4        750
-#define EXPERIENCE_REQUIRED_REGULAR_CHAMPION_HORDE_5        1000
+#define EXPERIENCE_REQUIRED_REGULAR_CHAMPION_HORDE_2        200
+#define EXPERIENCE_REQUIRED_REGULAR_CHAMPION_HORDE_3        300
+#define EXPERIENCE_REQUIRED_REGULAR_CHAMPION_HORDE_4        400
+#define EXPERIENCE_REQUIRED_REGULAR_CHAMPION_HORDE_5        500
+#define EXPERIENCE_REQUIRED_REGULAR_CHAMPION_HORDE_6        600
+#define EXPERIENCE_REQUIRED_REGULAR_CHAMPION_HORDE_7        700
+#define EXPERIENCE_REQUIRED_REGULAR_CHAMPION_HORDE_8        800
+#define EXPERIENCE_REQUIRED_REGULAR_CHAMPION_HORDE_9        900
+#define EXPERIENCE_REQUIRED_REGULAR_CHAMPION_HORDE_10       1000
 
 #define EXPERIENCE_AWARD_REGULAR_CHAMPION_HORDE_1           30
 #define EXPERIENCE_AWARD_REGULAR_CHAMPION_HORDE_2           40
 #define EXPERIENCE_AWARD_REGULAR_CHAMPION_HORDE_3           50
 #define EXPERIENCE_AWARD_REGULAR_CHAMPION_HORDE_4           60
 #define EXPERIENCE_AWARD_REGULAR_CHAMPION_HORDE_5           70
+#define EXPERIENCE_AWARD_REGULAR_CHAMPION_HORDE_6           80
+#define EXPERIENCE_AWARD_REGULAR_CHAMPION_HORDE_7           90
+#define EXPERIENCE_AWARD_REGULAR_CHAMPION_HORDE_8          	100
+#define EXPERIENCE_AWARD_REGULAR_CHAMPION_HORDE_9           110
+#define EXPERIENCE_AWARD_REGULAR_CHAMPION_HORDE_10          120
 
 ;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
