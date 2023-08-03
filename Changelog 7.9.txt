@@ -11,3 +11,5 @@ Mordor
 Goblins
 -Wyrm health reduced by 40%, damage halved.
 -Smaug damage and other flyers increased 25%.
+-Drogoth and Thorondor Damage increased.
+-Drogoth Health increased severely.
