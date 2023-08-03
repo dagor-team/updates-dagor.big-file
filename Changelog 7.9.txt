@@ -9,6 +9,7 @@ Dwarves
 Mordor
 -Trols limited to 10.
 Goblins
+-Azog gives Faction Leader Fear and Terror Immunity to all goblin units. 
 -Wyrm health reduced by 40%, damage halved.
 -Smaug damage and other flyers increased 25%.
 -Drogoth and Thorondor Damage increased.
