@@ -54,17 +54,17 @@
 
 
 
-#define EVIL_CHEAP_MONSTER BarrowWight BarrowWight_Slaved BarrowWight_Summoned MordorBarrowWight_Summoned BarrowWight_Old BarrowWight_Old_Summoned BarrowWight_Old_Slaved BarrowWight_Gulzar
+#define EVIL_CHEAP_MONSTERS BarrowWight BarrowWight_Slaved BarrowWight_Summoned MordorBarrowWight_Summoned BarrowWight_Old BarrowWight_Old_Summoned BarrowWight_Old_Slaved BarrowWight_Gulzar
 
 #define EVIL_CHEAP_CHAMPION WildDrummerOrc
 
-#define EVIL_BASIC_MONSTER Ogre WildGiantBat WildScorpion AngmarBestie DesertScorpionBlack HaradScorpion_Slaved
+#define EVIL_BASIC_MONSTERS Ogre WildGiantBat WildScorpion AngmarBestie DesertScorpionBlack HaradScorpion_Slaved
 
-#define EVIL_REGULAR_MONSTER MordorMountainTroll MordorCaveTroll CaveTroll_Slaved GoblinCaveTroll GoblinCaveTroll_FromTrollLair HillTroll_Slaved MordorCaveTroll_Summoned CaveTroll_HugeEdain GoblinCatapultTroll GoblinCatapulTrollExpansion MordorDrummerTroll
+#define EVIL_REGULAR_MONSTERS MordorMountainTroll MordorCaveTroll CaveTroll_Slaved GoblinCaveTroll GoblinCaveTroll_FromTrollLair HillTroll_Slaved MordorCaveTroll_Summoned CaveTroll_HugeEdain GoblinCatapultTroll GoblinCatapulTrollExpansion MordorDrummerTroll
 
 #define EVIL_REGULAR_CHAMPION WildHauptmannork WildHauptmannorkWarg IsengardBeserker IsengardBeserker_Summoned MordorKastellan MordorKastellan_AI MordorKastellan_Old MordorKastellan_Old_AI
 
-#define EVIL_ADVANCED_MONSTER AngmarGolem AngmarGolem_Summoned AngmarHeroWolf MordorHeroWolf AngmarHeroWolfHorde WildAttackTroll WildAttackTroll_Summoned MordorAttackTroll MordorTrollupgrade MordorTrollupgradeHammer MordorTrollupgradeSword MordorTrollupgradeKeule MordorOlogHai_Summoned MordorOlogHai WildBrutmutter WildZuchtdracheBaby WildZuchtdracheBaby_Slaved MordorAttackTroll_Summoned
+#define EVIL_ADVANCED_MONSTERS AngmarGolem AngmarGolem_Summoned AngmarHeroWolf MordorHeroWolf AngmarHeroWolfHorde WildAttackTroll WildAttackTroll_Summoned MordorAttackTroll MordorTrollupgrade MordorTrollupgradeHammer MordorTrollupgradeSword MordorTrollupgradeKeule MordorOlogHai_Summoned MordorOlogHai WildBrutmutter WildZuchtdracheBaby WildZuchtdracheBaby_Slaved MordorAttackTroll_Summoned
 
 #define EVIL_ELITE_MONSTERS WildZuchtdrache WildZuchtdracheOld WildZuchtdracheOldFlying WildFireWyrm WildMountainGiant WildMountainGiantMod WildMountainGiant_Summoned
 
@@ -5273,7 +5273,7 @@ END
 ;----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ExperienceLevel    Evil_Cheap_Monster_Level1
-    TargetNames                       =    EVIL_CHEAP_MONSTER
+    TargetNames                       =    EVIL_CHEAP_MONSTERS
     RequiredExperience                =    EXPERIENCE_REQUIRED_CHEAP_MONSTER_HORDE_1
     ExperienceAward                   =    EXPERIENCE_AWARD_CHEAP_MONSTER_HORDE_1
     Rank                              =    1
@@ -5291,7 +5291,7 @@ ExperienceLevel    Evil_Cheap_Monster_Level1
 END
 
 ExperienceLevel    Evil_Cheap_MonsterLevel2
-    TargetNames                       =    EVIL_CHEAP_MONSTER
+    TargetNames                       =    EVIL_CHEAP_MONSTERS
     RequiredExperience                =    EXPERIENCE_REQUIRED_CHEAP_MONSTER_HORDE_2
     ExperienceAward                   =    EXPERIENCE_AWARD_CHEAP_MONSTER_HORDE_2
     Rank                              =    2
@@ -5316,7 +5316,7 @@ ExperienceLevel    Evil_Cheap_MonsterLevel2
 END
 
 ExperienceLevel    Evil_Cheap_MonsterLevel3
-    TargetNames                       =    EVIL_CHEAP_MONSTER
+    TargetNames                       =    EVIL_CHEAP_MONSTERS
     RequiredExperience                =    EXPERIENCE_REQUIRED_CHEAP_MONSTER_HORDE_3
     ExperienceAward                   =    EXPERIENCE_AWARD_CHEAP_MONSTER_HORDE_3
     Rank                              =    3
@@ -5341,7 +5341,7 @@ ExperienceLevel    Evil_Cheap_MonsterLevel3
 END
 
 ExperienceLevel    Evil_Cheap_MonsterLevel4
-    TargetNames                       =    EVIL_CHEAP_MONSTER
+    TargetNames                       =    EVIL_CHEAP_MONSTERS
     RequiredExperience                =    EXPERIENCE_REQUIRED_CHEAP_MONSTER_HORDE_4
     ExperienceAward                   =    EXPERIENCE_AWARD_CHEAP_MONSTER_HORDE_4
     Rank                              =    4
@@ -5366,7 +5366,7 @@ ExperienceLevel    Evil_Cheap_MonsterLevel4
 END
 
 ExperienceLevel    Evil_Cheap_MonsterLevel5
-    TargetNames                       =    EVIL_CHEAP_MONSTER
+    TargetNames                       =    EVIL_CHEAP_MONSTERS
     RequiredExperience                =    EXPERIENCE_REQUIRED_CHEAP_MONSTER_HORDE_5
     ExperienceAward                   =    EXPERIENCE_AWARD_CHEAP_MONSTER_HORDE_5
     Rank                              =    5
@@ -5393,7 +5393,7 @@ END
 ;----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ExperienceLevel    Evil_Regular_Monster_Level1
-    TargetNames                       =    EVIL_REGULAR_MONSTER
+    TargetNames                       =    EVIL_REGULAR_MONSTERS
     RequiredExperience                =    EXPERIENCE_REQUIRED_REGULAR_MONSTER_HORDE_1
     ExperienceAward                   =    EXPERIENCE_AWARD_REGULAR_MONSTER_HORDE_1
     Rank                              =    1
@@ -5411,7 +5411,7 @@ ExperienceLevel    Evil_Regular_Monster_Level1
 END
 
 ExperienceLevel    Evil_Regular_MonsterLevel2
-    TargetNames                       =    EVIL_REGULAR_MONSTER
+    TargetNames                       =    EVIL_REGULAR_MONSTERS
     RequiredExperience                =    EXPERIENCE_REQUIRED_REGULAR_MONSTER_HORDE_2
     ExperienceAward                   =    EXPERIENCE_AWARD_REGULAR_MONSTER_HORDE_2
     Rank                              =    2
@@ -5436,7 +5436,7 @@ ExperienceLevel    Evil_Regular_MonsterLevel2
 END
 
 ExperienceLevel    Evil_Regular_MonsterLevel3
-    TargetNames                       =    EVIL_REGULAR_MONSTER
+    TargetNames                       =    EVIL_REGULAR_MONSTERS
     RequiredExperience                =    EXPERIENCE_REQUIRED_REGULAR_MONSTER_HORDE_3
     ExperienceAward                   =    EXPERIENCE_AWARD_REGULAR_MONSTER_HORDE_3
     Rank                              =    3
@@ -5461,7 +5461,7 @@ ExperienceLevel    Evil_Regular_MonsterLevel3
 END
 
 ExperienceLevel    Evil_Regular_MonsterLevel4
-    TargetNames                       =    EVIL_REGULAR_MONSTER
+    TargetNames                       =    EVIL_REGULAR_MONSTERS
     RequiredExperience                =    EXPERIENCE_REQUIRED_REGULAR_MONSTER_HORDE_4
     ExperienceAward                   =    EXPERIENCE_AWARD_REGULAR_MONSTER_HORDE_4
     Rank                              =    4
@@ -5486,7 +5486,7 @@ ExperienceLevel    Evil_Regular_MonsterLevel4
 END
 
 ExperienceLevel    Evil_Regular_MonsterLevel5
-    TargetNames                       =    EVIL_REGULAR_MONSTER
+    TargetNames                       =    EVIL_REGULAR_MONSTERS
     RequiredExperience                =    EXPERIENCE_REQUIRED_REGULAR_MONSTER_HORDE_5
     ExperienceAward                   =    EXPERIENCE_AWARD_REGULAR_MONSTER_HORDE_5
     Rank                              =    5
@@ -5514,7 +5514,7 @@ END
 ;----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ExperienceLevel    Evil_Advanced_Monster_Level1
-    TargetNames                       =    EVIL_ADVANCED_MONSTER
+    TargetNames                       =    EVIL_ADVANCED_MONSTERS
     RequiredExperience                =    EXPERIENCE_REQUIRED_ADVANCED_MONSTER_HORDE_1
     ExperienceAward                   =    EXPERIENCE_AWARD_ADVANCED_MONSTER_HORDE_1
     Rank                              =    1
@@ -5532,7 +5532,7 @@ ExperienceLevel    Evil_Advanced_Monster_Level1
 END
 
 ExperienceLevel    Evil_Advanced_MonsterLevel2
-    TargetNames                       =    EVIL_ADVANCED_MONSTER
+    TargetNames                       =    EVIL_ADVANCED_MONSTERS
     RequiredExperience                =    EXPERIENCE_REQUIRED_ADVANCED_MONSTER_HORDE_2
     ExperienceAward                   =    EXPERIENCE_AWARD_ADVANCED_MONSTER_HORDE_2
     Rank                              =    2
@@ -5557,7 +5557,7 @@ ExperienceLevel    Evil_Advanced_MonsterLevel2
 END
 
 ExperienceLevel    Evil_Advanced_MonsterLevel3
-    TargetNames                       =    EVIL_ADVANCED_MONSTER
+    TargetNames                       =    EVIL_ADVANCED_MONSTERS
     RequiredExperience                =    EXPERIENCE_REQUIRED_ADVANCED_MONSTER_HORDE_3
     ExperienceAward                   =    EXPERIENCE_AWARD_ADVANCED_MONSTER_HORDE_3
     Rank                              =    3
@@ -5582,7 +5582,7 @@ ExperienceLevel    Evil_Advanced_MonsterLevel3
 END
 
 ExperienceLevel    Evil_Advanced_MonsterLevel4
-    TargetNames                       =    EVIL_ADVANCED_MONSTER
+    TargetNames                       =    EVIL_ADVANCED_MONSTERS
     RequiredExperience                =    EXPERIENCE_REQUIRED_ADVANCED_MONSTER_HORDE_4
     ExperienceAward                   =    EXPERIENCE_AWARD_ADVANCED_MONSTER_HORDE_4
     Rank                              =    4
@@ -5607,7 +5607,7 @@ ExperienceLevel    Evil_Advanced_MonsterLevel4
 END
 
 ExperienceLevel    Evil_Advanced_MonsterLevel5
-    TargetNames                       =    EVIL_ADVANCED_MONSTER
+    TargetNames                       =    EVIL_ADVANCED_MONSTERS
     RequiredExperience                =    EXPERIENCE_REQUIRED_ADVANCED_MONSTER_HORDE_5
     ExperienceAward                   =    EXPERIENCE_AWARD_ADVANCED_MONSTER_HORDE_5
     Rank                              =    5
@@ -5635,7 +5635,7 @@ END
 ;----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ExperienceLevel    Evil_Elite_Monster_Level1
-    TargetNames                       =    EVIL_ELITE_MONSTER
+    TargetNames                       =    EVIL_ELITE_MONSTERS
     RequiredExperience                =    EXPERIENCE_REQUIRED_ELITE_MONSTER_HORDE_1
     ExperienceAward                   =    EXPERIENCE_AWARD_ELITE_MONSTER_HORDE_1
     Rank                              =    1
@@ -5653,7 +5653,7 @@ ExperienceLevel    Evil_Elite_Monster_Level1
 END
 
 ExperienceLevel    Evil_Elite_MonsterLevel2
-    TargetNames                       =    EVIL_ELITE_MONSTER
+    TargetNames                       =    EVIL_ELITE_MONSTERS
     RequiredExperience                =    EXPERIENCE_REQUIRED_ELITE_MONSTER_HORDE_2
     ExperienceAward                   =    EXPERIENCE_AWARD_ELITE_MONSTER_HORDE_2
     Rank                              =    2
@@ -5678,7 +5678,7 @@ ExperienceLevel    Evil_Elite_MonsterLevel2
 END
 
 ExperienceLevel    Evil_Elite_MonsterLevel3
-    TargetNames                       =    EVIL_ELITE_MONSTER
+    TargetNames                       =    EVIL_ELITE_MONSTERS
     RequiredExperience                =    EXPERIENCE_REQUIRED_ELITE_MONSTER_HORDE_3
     ExperienceAward                   =    EXPERIENCE_AWARD_ELITE_MONSTER_HORDE_3
     Rank                              =    3
@@ -5703,7 +5703,7 @@ ExperienceLevel    Evil_Elite_MonsterLevel3
 END
 
 ExperienceLevel    Evil_Elite_MonsterLevel4
-    TargetNames                       =    EVIL_ELITE_MONSTER
+    TargetNames                       =    EVIL_ELITE_MONSTERS
     RequiredExperience                =    EXPERIENCE_REQUIRED_ELITE_MONSTER_HORDE_4
     ExperienceAward                   =    EXPERIENCE_AWARD_ELITE_MONSTER_HORDE_4
     Rank                              =    4
@@ -5728,7 +5728,7 @@ ExperienceLevel    Evil_Elite_MonsterLevel4
 END
 
 ExperienceLevel    Evil_Elite_MonsterLevel5
-    TargetNames                       =    EVIL_ELITE_MONSTER
+    TargetNames                       =    EVIL_ELITE_MONSTERS
     RequiredExperience                =    EXPERIENCE_REQUIRED_ELITE_MONSTER_HORDE_5
     ExperienceAward                   =    EXPERIENCE_AWARD_ELITE_MONSTER_HORDE_5
     Rank                              =    5
