@@ -211,7 +211,7 @@ ExperienceLevel    Evil_Expandable_InfantryLevel5
     LevelUpTintSustainColorTime       =    500
     EmotionType                       =    CHEER
     SelectionDecal
-        Texture               =    decal_I_level5
+        Texture               =    decal_I_level4
         Texture2              =    decal_evil_CO
         Style                 =    SHADOW_MERGE_DECAL
         OpacityMin            =    80%
@@ -350,7 +350,7 @@ ExperienceLevel    Evil_Cheap_InfantryLevel5
     LevelUpTintSustainColorTime       =    500
     EmotionType                       =    CHEER
     SelectionDecal
-        Texture               =    decal_I_level5
+        Texture               =    decal_I_level4
         Texture2              =    decal_evil_CO
         Style                 =    SHADOW_MERGE_DECAL
         OpacityMin            =    80%
@@ -471,7 +471,7 @@ ExperienceLevel    Evil_Basic_InfantryLevel5
     LevelUpTintSustainColorTime       =    500
     EmotionType                       =    CHEER
     SelectionDecal
-        Texture               =    decal_I_level5
+        Texture               =    decal_I_level4
         Texture2              =    decal_evil_CO
         Style                 =    SHADOW_MERGE_DECAL
         OpacityMin            =    80%
@@ -609,7 +609,7 @@ ExperienceLevel    Evil_Regular15_InfantryLevel5
     LevelUpTintSustainColorTime       =    500
     EmotionType                       =    CHEER
     SelectionDecal
-        Texture               =    decal_I_level5
+        Texture               =    decal_I_level4
         Texture2              =    decal_evil_CO
         Style                 =    SHADOW_MERGE_DECAL
         OpacityMin            =    80%
@@ -749,7 +749,7 @@ ExperienceLevel    Evil_Regular_InfantryLevel5
     LevelUpTintSustainColorTime       =    500
     EmotionType                       =    CHEER
     SelectionDecal
-        Texture               =    decal_I_level5
+        Texture               =    decal_I_level4
         Texture2              =    decal_evil_CO
         Style                 =    SHADOW_MERGE_DECAL
         OpacityMin            =    80%
@@ -871,7 +871,7 @@ ExperienceLevel    Evil_Advanced_InfantryLevel5
     LevelUpTintSustainColorTime       =    500
     EmotionType                       =    CHEER
     SelectionDecal
-        Texture               =    decal_I_level5
+        Texture               =    decal_I_level4
         Texture2              =    decal_evil_CO
         Style                 =    SHADOW_MERGE_DECAL
         OpacityMin            =    80%
@@ -993,7 +993,7 @@ ExperienceLevel    Evil_Advanced8_InfantryLevel5
     LevelUpTintSustainColorTime       =    500
     EmotionType                       =    CHEER
     SelectionDecal
-        Texture               =    decal_I_level5
+        Texture               =    decal_I_level4
         Texture2              =    decal_evil_CO
         Style                 =    SHADOW_MERGE_DECAL
         OpacityMin            =    80%
@@ -1115,7 +1115,7 @@ ExperienceLevel    Evil_Advanced8_InfantryLevel5
     LevelUpTintSustainColorTime       =    500
     EmotionType                       =    CHEER
     SelectionDecal
-        Texture               =    decal_I_level5
+        Texture               =    decal_I_level4
         Texture2              =    decal_evil_CO
         Style                 =    SHADOW_MERGE_DECAL
         OpacityMin            =    80%
@@ -4500,7 +4500,7 @@ ExperienceLevel    Evil_Basic_CavalryLevel5
     LevelUpTintSustainColorTime       =    500
     EmotionType                       =    CHEER
     SelectionDecal
-        Texture               =    decal_I_level5
+        Texture               =    decal_I_level4
         Texture2              =    decal_evil_CO
         Style                 =    SHADOW_MERGE_DECAL
         OpacityMin            =    80%
@@ -4621,7 +4621,7 @@ ExperienceLevel    Evil_Regular_CavalryLevel5
     LevelUpTintSustainColorTime       =    500
     EmotionType                       =    CHEER
     SelectionDecal
-        Texture               =    decal_I_level5
+        Texture               =    decal_I_level4
         Texture2              =    decal_evil_CO
         Style                 =    SHADOW_MERGE_DECAL
         OpacityMin            =    80%
@@ -4743,7 +4743,7 @@ ExperienceLevel    Evil_Advanced_CavalryLevel5
     LevelUpTintSustainColorTime       =    500
     EmotionType                       =    CHEER
     SelectionDecal
-        Texture               =    decal_I_level5
+        Texture               =    decal_I_level4
         Texture2              =    decal_evil_CO
         Style                 =    SHADOW_MERGE_DECAL
         OpacityMin            =    80%
@@ -5138,7 +5138,7 @@ ExperienceLevel    Evil_Cheap_BeastsLevel5
     LevelUpTintSustainColorTime       =    500
     EmotionType                       =    CHEER
     SelectionDecal
-        Texture               =    decal_I_level5
+        Texture               =    decal_I_level4
         Texture2              =    decal_evil_CO
         Style                 =    SHADOW_MERGE_DECAL
         OpacityMin            =    80%
@@ -5259,7 +5259,7 @@ ExperienceLevel    Evil_Basic_BeastsLevel5
     LevelUpTintSustainColorTime       =    500
     EmotionType                       =    CHEER
     SelectionDecal
-        Texture               =    decal_I_level5
+        Texture               =    decal_I_level4
         Texture2              =    decal_evil_CO
         Style                 =    SHADOW_MERGE_DECAL
         OpacityMin            =    80%
@@ -5379,7 +5379,7 @@ ExperienceLevel    Evil_Cheap_MonsterLevel5
     LevelUpTintSustainColorTime       =    500
     EmotionType                       =    CHEER
     SelectionDecal
-        Texture               =    decal_I_level5
+        Texture               =    decal_I_level4
         Texture2              =    decal_evil_CO
         Style                 =    SHADOW_MERGE_DECAL
         OpacityMin            =    80%
@@ -5499,7 +5499,7 @@ ExperienceLevel    Evil_Regular_MonsterLevel5
     LevelUpTintSustainColorTime       =    500
     EmotionType                       =    CHEER
     SelectionDecal
-        Texture               =    decal_I_level5
+        Texture               =    decal_I_level4
         Texture2              =    decal_evil_CO
         Style                 =    SHADOW_MERGE_DECAL
         OpacityMin            =    80%
@@ -5620,7 +5620,7 @@ ExperienceLevel    Evil_Advanced_MonsterLevel5
     LevelUpTintSustainColorTime       =    500
     EmotionType                       =    CHEER
     SelectionDecal
-        Texture               =    decal_I_level5
+        Texture               =    decal_I_level4
         Texture2              =    decal_evil_CO
         Style                 =    SHADOW_MERGE_DECAL
         OpacityMin            =    80%
@@ -5741,7 +5741,7 @@ ExperienceLevel    Evil_Elite_MonsterLevel5
     LevelUpTintSustainColorTime       =    500
     EmotionType                       =    CHEER
     SelectionDecal
-        Texture               =    decal_I_level5
+        Texture               =    decal_I_level4
         Texture2              =    decal_evil_CO
         Style                 =    SHADOW_MERGE_DECAL
         OpacityMin            =    80%
