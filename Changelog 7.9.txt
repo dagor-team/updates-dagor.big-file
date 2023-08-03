@@ -1,8 +1,11 @@
 Update 7.9
 By Gimli:
+General Changes
+-Outpost production severely reduced, now they are fair game to fight for.
 Dwarves
 -Ered mithrin hunters increased damage against Flying units drastically, improved Anti-monster capabilities. (need testing to see if they fire up properly).
 -Ered Mithin hunters cost reduced to 400.
+-Dain gets back his AoE.
 Mordor
 -Trols limited to 10.
 Goblins
