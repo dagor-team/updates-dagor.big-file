@@ -135,7 +135,7 @@ ExperienceLevel    Good_Expandable_InfantryLevel5
     LevelUpTintSustainColorTime       =    500
     EmotionType                       =    CHEER
     SelectionDecal
-        Texture               =    decal_G_level5
+        Texture               =    decal_G_level4
         Texture2              =    decal_good_CO
         Style                 =    SHADOW_MERGE_DECAL
         OpacityMin            =    80%
@@ -274,7 +274,7 @@ ExperienceLevel    Good_Cheap_InfantryLevel5
     LevelUpTintSustainColorTime       =    500
     EmotionType                       =    CHEER
     SelectionDecal
-        Texture               =    decal_G_level5
+        Texture               =    decal_G_level4
         Texture2              =    decal_good_CO
         Style                 =    SHADOW_MERGE_DECAL
         OpacityMin            =    80%
@@ -395,7 +395,7 @@ ExperienceLevel    Good_Basic_InfantryLevel5
     LevelUpTintSustainColorTime       =    500
     EmotionType                       =    CHEER
     SelectionDecal
-        Texture               =    decal_G_level5
+        Texture               =    decal_G_level4
         Texture2              =    decal_good_CO
         Style                 =    SHADOW_MERGE_DECAL
         OpacityMin            =    80%
@@ -514,7 +514,7 @@ ExperienceLevel    Good_Basic10_InfantryLevel5
     LevelUpTintSustainColorTime       =    500
     EmotionType                       =    CHEER
     SelectionDecal
-        Texture               =    decal_G_level5
+        Texture               =    decal_G_level4
         Texture2              =    decal_good_CO
         Style                 =    SHADOW_MERGE_DECAL
         OpacityMin            =    80%
@@ -654,7 +654,7 @@ ExperienceLevel    Good_Regular15_InfantryLevel5
     LevelUpTintSustainColorTime       =    500
     EmotionType                       =    CHEER
     SelectionDecal
-        Texture               =    decal_G_level5
+        Texture               =    decal_G_level4
         Texture2              =    decal_good_CO
         Style                 =    SHADOW_MERGE_DECAL
         OpacityMin            =    80%
@@ -800,7 +800,7 @@ ExperienceLevel    Good_Regular_InfantryLevel5
     LevelUpTintSustainColorTime       =    500
     EmotionType                       =    CHEER
     SelectionDecal
-        Texture               =    decal_G_level5
+        Texture               =    decal_G_level4
         Texture2              =    decal_good_CO
         Style                 =    SHADOW_MERGE_DECAL
         OpacityMin            =    80%
@@ -920,7 +920,7 @@ ExperienceLevel    Good_Regular5_InfantryLevel5
     LevelUpTintSustainColorTime       =    500
     EmotionType                       =    CHEER
     SelectionDecal
-        Texture               =    decal_G_level5
+        Texture               =    decal_G_level4
         Texture2              =    decal_good_CO
         Style                 =    SHADOW_MERGE_DECAL
         OpacityMin            =    80%
@@ -1042,7 +1042,7 @@ ExperienceLevel    Good_Advanced_InfantryLevel5
     LevelUpTintSustainColorTime       =    500
     EmotionType                       =    CHEER
     SelectionDecal
-        Texture               =    decal_G_level5
+        Texture               =    decal_G_level4
         Texture2              =    decal_good_CO
         Style                 =    SHADOW_MERGE_DECAL
         OpacityMin            =    80%
@@ -1163,7 +1163,7 @@ ExperienceLevel    Good_Advanced3_InfantryLevel5
     LevelUpTintSustainColorTime       =    500
     EmotionType                       =    CHEER
     SelectionDecal
-        Texture               =    decal_G_level5
+        Texture               =    decal_G_level4
         Texture2              =    decal_good_CO
         Style                 =    SHADOW_MERGE_DECAL
         OpacityMin            =    80%
@@ -1284,7 +1284,7 @@ ExperienceLevel    Good_Advanced5_InfantryLevel5
     LevelUpTintSustainColorTime       =    500
     EmotionType                       =    CHEER
     SelectionDecal
-        Texture               =    decal_G_level5
+        Texture               =    decal_G_level4
         Texture2              =    decal_good_CO
         Style                 =    SHADOW_MERGE_DECAL
         OpacityMin            =    80%
@@ -1406,7 +1406,7 @@ ExperienceLevel    Good_Advanced8_InfantryLevel5
     LevelUpTintSustainColorTime       =    500
     EmotionType                       =    CHEER
     SelectionDecal
-        Texture               =    decal_G_level5
+        Texture               =    decal_G_level4
         Texture2              =    decal_good_CO
         Style                 =    SHADOW_MERGE_DECAL
         OpacityMin            =    80%
@@ -2088,7 +2088,7 @@ ExperienceLevel    Good_Veterans_InfantryLevel5
     EmotionType                       =    CHEER
 
     SelectionDecal
-        Texture                       =    decal_G_level5
+        Texture                       =    decal_G_level4
         Texture2                      =    decal_good_CO
         Style                         =    SHADOW_MERGE_DECAL
         OpacityMin                    =    80%
@@ -2115,7 +2115,7 @@ ExperienceLevel    Good_Veterans_InfantryLevel6
     EmotionType                       =    CHEER
 
     SelectionDecal
-        Texture                       =    decal_G_level6
+        Texture                       =    decal_G_level4
         Texture2                      =    decal_good_CO
         Style                         =    SHADOW_MERGE_DECAL
         OpacityMin                    =    80%
@@ -2142,7 +2142,7 @@ ExperienceLevel    Good_Veterans_InfantryLevel7
     EmotionType                       =    CHEER
 
     SelectionDecal
-        Texture                       =    decal_G_level7
+        Texture                       =    decal_G_level4
         Texture2                      =    decal_good_CO
         Style                         =    SHADOW_MERGE_DECAL
         OpacityMin                    =    80%
@@ -2169,7 +2169,7 @@ ExperienceLevel    Good_Veterans_InfantryLevel8
     EmotionType                       =    CHEER
 
     SelectionDecal
-        Texture                       =    decal_G_level8
+        Texture                       =    decal_G_level4
         Texture2                      =    decal_good_CO
         Style                         =    SHADOW_MERGE_DECAL
         OpacityMin                    =    80%
@@ -2196,7 +2196,7 @@ ExperienceLevel    Good_Veterans_InfantryLevel9
     EmotionType                       =    CHEER
 
     SelectionDecal
-        Texture                       =    decal_G_level9
+        Texture                       =    decal_G_level4
         Texture2                      =    decal_good_CO
         Style                         =    SHADOW_MERGE_DECAL
         OpacityMin                    =    80%
@@ -2223,7 +2223,7 @@ ExperienceLevel    Good_Veterans_InfantryLevel10
     EmotionType                       =    CHEER
 
     SelectionDecal
-        Texture                       =    decal_G_level10
+        Texture                       =    decal_G_level4
         Texture2                      =    decal_good_CO
         Style                         =    SHADOW_MERGE_DECAL
         OpacityMin                    =    80%
@@ -2250,7 +2250,7 @@ ExperienceLevel    Good_Veterans_InfantryLevel11
     EmotionType                       =    CHEER
 
     SelectionDecal
-        Texture                       =    decal_G_level12
+        Texture                       =    decal_G_level4
         Texture2                      =    decal_good_CO
         Style                         =    SHADOW_MERGE_DECAL
         OpacityMin                    =    80%
@@ -2277,7 +2277,7 @@ ExperienceLevel    Good_Veterans_InfantryLevel12
     EmotionType                       =    CHEER
 
     SelectionDecal
-        Texture                       =    decal_G_level12
+        Texture                       =    decal_G_level4
         Texture2                      =    decal_good_CO
         Style                         =    SHADOW_MERGE_DECAL
         OpacityMin                    =    80%
@@ -2304,7 +2304,7 @@ ExperienceLevel    Good_Veterans_InfantryLevel13
     EmotionType                       =    CHEER
 
     SelectionDecal
-        Texture                       =    decal_G_level13
+        Texture                       =    decal_G_level4
         Texture2                      =    decal_good_CO
         Style                         =    SHADOW_MERGE_DECAL
         OpacityMin                    =    80%
@@ -2331,7 +2331,7 @@ ExperienceLevel    Good_Veterans_InfantryLevel14
     EmotionType                       =    CHEER
 
     SelectionDecal
-        Texture                       =    decal_G_level14
+        Texture                       =    decal_G_level4
         Texture2                      =    decal_good_CO
         Style                         =    SHADOW_MERGE_DECAL
         OpacityMin                    =    80%
@@ -2358,7 +2358,7 @@ ExperienceLevel    Good_Veterans_InfantryLevel15
     EmotionType                       =    CHEER
 
     SelectionDecal
-        Texture                       =    decal_G_level15
+        Texture                       =    decal_G_level4
         Texture2                      =    decal_good_CO
         Style                         =    SHADOW_MERGE_DECAL
         OpacityMin                    =    80%
@@ -2385,7 +2385,7 @@ ExperienceLevel    Good_Veterans_InfantryLevel16
     EmotionType                       =    CHEER
 
     SelectionDecal
-        Texture                       =    decal_G_level16
+        Texture                       =    decal_G_level4
         Texture2                      =    decal_good_CO
         Style                         =    SHADOW_MERGE_DECAL
         OpacityMin                    =    80%
@@ -2412,7 +2412,7 @@ ExperienceLevel    Good_Veterans_InfantryLevel17
     EmotionType                       =    CHEER
 
     SelectionDecal
-        Texture                       =    decal_G_level17
+        Texture                       =    decal_G_level4
         Texture2                      =    decal_good_CO
         Style                         =    SHADOW_MERGE_DECAL
         OpacityMin                    =    80%
@@ -2439,7 +2439,7 @@ ExperienceLevel    Good_Veterans_InfantryLevel18
     EmotionType                       =    CHEER
 
     SelectionDecal
-        Texture                       =    decal_G_level18
+        Texture                       =    decal_G_level4
         Texture2                      =    decal_good_CO
         Style                         =    SHADOW_MERGE_DECAL
         OpacityMin                    =    80%
@@ -2466,7 +2466,7 @@ ExperienceLevel    Good_Veterans_InfantryLevel19
     EmotionType                       =    CHEER
 
     SelectionDecal
-        Texture                       =    decal_G_level19
+        Texture                       =    decal_G_level4
         Texture2                      =    decal_good_CO
         Style                         =    SHADOW_MERGE_DECAL
         OpacityMin                    =    80%
@@ -2493,7 +2493,7 @@ ExperienceLevel    Good_Veterans_InfantryLevel20
     EmotionType                       =    CHEER
 
     SelectionDecal
-        Texture                       =    decal_G_level20
+        Texture                       =    decal_G_level4
         Texture2                      =    decal_good_CO
         Style                         =    SHADOW_MERGE_DECAL
         OpacityMin                    =    80%
@@ -2885,7 +2885,7 @@ ExperienceLevel    Good_CheapChampon_InfantryLevel5
     LevelUpTintSustainColorTime       =    500
     EmotionType                       =    CHEER
     SelectionDecal
-        Texture               =    decal_G_level5
+        Texture               =    decal_G_level4
         Texture2              =    decal_good_CO
         Style                 =    SHADOW_MERGE_DECAL
         OpacityMin            =    80%
@@ -2904,7 +2904,7 @@ ExperienceLevel    Good_CheapChampon_Infantry_Level6
     Rank                              =    1
     Upgrades                          =    Upgrade_ObjectLevel6 Upgrade_MiniHordeLvl6 Upgrade_EliteHordeLvl6
     SelectionDecal
-        Texture               =    decal_G_level6
+        Texture               =    decal_G_level4
         Texture2              =    decal_good_CO
         Style                 =    SHADOW_MERGE_DECAL
         OpacityMin            =    80%
@@ -2929,7 +2929,7 @@ ExperienceLevel    Good_CheapChampon_InfantryLevel7
     LevelUpTintSustainColorTime       =    500
     EmotionType                       =    CHEER
     SelectionDecal
-        Texture               =    decal_G_level7
+        Texture               =    decal_G_level4
         Texture2              =    decal_good_CO
         Style                 =    SHADOW_MERGE_DECAL
         OpacityMin            =    80%
@@ -2956,7 +2956,7 @@ ExperienceLevel    Good_CheapChampon_InfantryLevel8
     LevelUpTintSustainColorTime       =    500
     EmotionType                       =    CHEER
     SelectionDecal
-        Texture               =    decal_G_level8
+        Texture               =    decal_G_level4
         Texture2              =    decal_good_CO
         Style                 =    SHADOW_MERGE_DECAL
         OpacityMin            =    80%
@@ -2981,7 +2981,7 @@ ExperienceLevel    Good_CheapChampon_InfantryLevel9
     LevelUpTintSustainColorTime       =    500
     EmotionType                       =    CHEER
     SelectionDecal
-        Texture               =    decal_G_level9
+        Texture               =    decal_G_level4
         Texture2              =    decal_good_CO
         Style                 =    SHADOW_MERGE_DECAL
         OpacityMin            =    80%
@@ -3006,7 +3006,7 @@ ExperienceLevel    Good_CheapChampon_InfantryLevel10
     LevelUpTintSustainColorTime       =    500
     EmotionType                       =    CHEER
     SelectionDecal
-        Texture               =    decal_G_level10
+        Texture               =    decal_G_level4
         Texture2              =    decal_good_CO
         Style                 =    SHADOW_MERGE_DECAL
         OpacityMin            =    80%
@@ -3127,7 +3127,7 @@ ExperienceLevel    Good_RegularChampon_InfantryLevel5
     LevelUpTintSustainColorTime       =    500
     EmotionType                       =    CHEER
     SelectionDecal
-        Texture               =    decal_G_level5
+        Texture               =    decal_G_level4
         Texture2              =    decal_good_CO
         Style                 =    SHADOW_MERGE_DECAL
         OpacityMin            =    80%
@@ -3146,7 +3146,7 @@ ExperienceLevel    Good_RegularChampon_Infantry_Level6
     Rank                              =    1
     Upgrades                          =    Upgrade_ObjectLevel6 Upgrade_MiniHordeLvl6 Upgrade_EliteHordeLvl6
     SelectionDecal
-        Texture               =    decal_G_level6
+        Texture               =    decal_G_level4
         Texture2              =    decal_good_CO
         Style                 =    SHADOW_MERGE_DECAL
         OpacityMin            =    80%
@@ -3171,7 +3171,7 @@ ExperienceLevel    Good_RegularChampon_InfantryLevel7
     LevelUpTintSustainColorTime       =    500
     EmotionType                       =    CHEER
     SelectionDecal
-        Texture               =    decal_G_level7
+        Texture               =    decal_G_level4
         Texture2              =    decal_good_CO
         Style                 =    SHADOW_MERGE_DECAL
         OpacityMin            =    80%
@@ -3196,7 +3196,7 @@ ExperienceLevel    Good_RegularChampon_InfantryLevel8
     LevelUpTintSustainColorTime       =    500
     EmotionType                       =    CHEER
     SelectionDecal
-        Texture               =    decal_G_level8
+        Texture               =    decal_G_level4
         Texture2              =    decal_good_CO
         Style                 =    SHADOW_MERGE_DECAL
         OpacityMin            =    80%
@@ -3221,7 +3221,7 @@ ExperienceLevel    Good_RegularChampon_InfantryLevel9
     LevelUpTintSustainColorTime       =    500
     EmotionType                       =    CHEER
     SelectionDecal
-        Texture               =    decal_G_level9
+        Texture               =    decal_G_level4
         Texture2              =    decal_good_CO
         Style                 =    SHADOW_MERGE_DECAL
         OpacityMin            =    80%
@@ -3246,7 +3246,7 @@ ExperienceLevel    Good_RegularChampon_InfantryLevel10
     LevelUpTintSustainColorTime       =    500
     EmotionType                       =    CHEER
     SelectionDecal
-        Texture               =    decal_G_level10
+        Texture               =    decal_G_level4
         Texture2              =    decal_good_CO
         Style                 =    SHADOW_MERGE_DECAL
         OpacityMin            =    80%
@@ -4183,7 +4183,7 @@ ExperienceLevel    Good_Basic_CavalryLevel5
     LevelUpTintSustainColorTime       =    500
     EmotionType                       =    CHEER
     SelectionDecal
-        Texture               =    decal_G_level5
+        Texture               =    decal_G_level4
         Texture2              =    decal_good_CO
         Style                 =    SHADOW_MERGE_DECAL
         OpacityMin            =    80%
@@ -4304,7 +4304,7 @@ ExperienceLevel    Good_Regular_CavalryLevel5
     LevelUpTintSustainColorTime       =    500
     EmotionType                       =    CHEER
     SelectionDecal
-        Texture               =    decal_G_level5
+        Texture               =    decal_G_level4
         Texture2              =    decal_good_CO
         Style                 =    SHADOW_MERGE_DECAL
         OpacityMin            =    80%
@@ -4426,7 +4426,7 @@ ExperienceLevel    Good_Advanced_CavalryLevel5
     LevelUpTintSustainColorTime       =    500
     EmotionType                       =    CHEER
     SelectionDecal
-        Texture               =    decal_G_level5
+        Texture               =    decal_G_level4
         Texture2              =    decal_good_CO
         Style                 =    SHADOW_MERGE_DECAL
         OpacityMin            =    80%
@@ -4820,7 +4820,7 @@ ExperienceLevel    Good_Basic_BeastsLevel5
     LevelUpTintSustainColorTime       =    500
     EmotionType                       =    CHEER
     SelectionDecal
-        Texture               =    decal_G_level5
+        Texture               =    decal_G_level4
         Texture2              =    decal_good_CO
         Style                 =    SHADOW_MERGE_DECAL
         OpacityMin            =    80%
