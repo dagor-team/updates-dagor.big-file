@@ -1427,7 +1427,7 @@ ExperienceLevel    Good_Elite_InfantryLevel1
     ExperienceAward                   =    EXPERIENCE_AWARD_ELITE_HORDE_1
     InformUpdateModule                =    Yes
     Rank                              =    1
-    Upgrades                          =    Upgrade_EliteHordeLvl1
+    Upgrades                          =    Upgrade_ObjectLevel1 Upgrade_MiniHordeLvl1 Upgrade_EliteHordeLvl1
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -1454,7 +1454,7 @@ ExperienceLevel    Good_Elite_InfantryLevel2
     InformUpdateModule                =    Yes
     Rank                              =    2
     AttributeModifiers                =    EliteHordeBonusRank2
-    Upgrades                          =    Upgrade_EliteHordeLvl2
+    Upgrades                          =    Upgrade_ObjectLevel2 Upgrade_MiniHordeLvl2 Upgrade_EliteHordeLvl2
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -1481,7 +1481,7 @@ ExperienceLevel    Good_Elite_InfantryLevel3
     InformUpdateModule                =    Yes
     Rank                              =    3
     AttributeModifiers                =    EliteHordeBonusRank3
-    Upgrades                          =    Upgrade_EliteHordeLvl3
+    Upgrades                          =    Upgrade_ObjectLevel3 Upgrade_MiniHordeLvl3 Upgrade_EliteHordeLvl3
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -1508,7 +1508,7 @@ ExperienceLevel    Good_Elite_InfantryLevel4
     InformUpdateModule                =    Yes
     Rank                              =    4
     AttributeModifiers                =    EliteHordeBonusRank4
-    Upgrades                          =    Upgrade_EliteHordeLvl4
+    Upgrades                          =    Upgrade_ObjectLevel4 Upgrade_MiniHordeLvl4 Upgrade_EliteHordeLvl4
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -1535,7 +1535,7 @@ ExperienceLevel    Good_Elite_InfantryLevel5
     InformUpdateModule                =    Yes
     Rank                              =    5
     AttributeModifiers                =    EliteHordeBonusRank5
-    Upgrades                          =    Upgrade_EliteHordeLvl5
+    Upgrades                          =    Upgrade_ObjectLevel5 Upgrade_MiniHordeLvl5 Upgrade_EliteHordeLvl5
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -1562,7 +1562,7 @@ ExperienceLevel    Good_Elite_InfantryLevel6
     InformUpdateModule                =    Yes
     Rank                              =    6
     AttributeModifiers                =    EliteHordeBonusRank6
-    Upgrades                          =    Upgrade_EliteHordeLvl6
+    Upgrades                          =    Upgrade_ObjectLevel6 Upgrade_MiniHordeLvl6 Upgrade_EliteHordeLvl6
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -1589,7 +1589,7 @@ ExperienceLevel    Good_Elite_InfantryLevel7
     InformUpdateModule                =    Yes
     Rank                              =    7
     AttributeModifiers                =    EliteHordeBonusRank7
-    Upgrades                          =    Upgrade_EliteHordeLvl7 Upgrade_FormenosForgedBlades
+    Upgrades                          =    Upgrade_ObjectLevel7 Upgrade_MiniHordeLvl7 Upgrade_EliteHordeLvl7 Upgrade_FormenosForgedBlades
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -1616,7 +1616,7 @@ ExperienceLevel    Good_Elite_InfantryLevel8
     InformUpdateModule                =    Yes
     Rank                              =    8
     AttributeModifiers                =    EliteHordeBonusRank8
-    Upgrades                          =    Upgrade_EliteHordeLvl8
+    Upgrades                          =    Upgrade_ObjectLevel8 Upgrade_MiniHordeLvl8 Upgrade_EliteHordeLvl8
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -1643,7 +1643,7 @@ ExperienceLevel    Good_Elite_InfantryLevel9
     InformUpdateModule                =    Yes
     Rank                              =    9
     AttributeModifiers                =    EliteHordeBonusRank9
-    Upgrades                          =    Upgrade_EliteHordeLvl9
+    Upgrades                          =    Upgrade_ObjectLevel9 Upgrade_MiniHordeLvl9 Upgrade_EliteHordeLvl9
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -1670,7 +1670,7 @@ ExperienceLevel    Good_Elite_InfantryLevel10
     InformUpdateModule                =    Yes
     Rank                              =    10
     AttributeModifiers                =    EliteHordeBonusRank10
-    Upgrades                          =    Upgrade_EliteHordeLvl10
+    Upgrades                          =    Upgrade_ObjectLevel1 Upgrade_MiniHordeLvl1 Upgrade_EliteHordeLvl10
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -1699,7 +1699,7 @@ ExperienceLevel    Good_Elite10_InfantryLevel1
     ExperienceAward                   =    EXPERIENCE_AWARD_ELITE_10_HORDE_1
     InformUpdateModule                =    Yes
     Rank                              =    1
-    Upgrades                          =    Upgrade_EliteHordeLvl1
+    Upgrades                          =    Upgrade_ObjectLevel1 Upgrade_MiniHordeLvl1 Upgrade_EliteHordeLvl1
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -1726,7 +1726,7 @@ ExperienceLevel    Good_Elite10_InfantryLevel2
     InformUpdateModule                =    Yes
     Rank                              =    2
     AttributeModifiers                =    Elite10HordeBonusRank2
-    Upgrades                          =    Upgrade_EliteHordeLvl2
+    Upgrades                          =    Upgrade_ObjectLevel2 Upgrade_MiniHordeLvl2 Upgrade_EliteHordeLvl2
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -1753,7 +1753,7 @@ ExperienceLevel    Good_Elite10_InfantryLevel3
     InformUpdateModule                =    Yes
     Rank                              =    3
     AttributeModifiers                =    Elite10HordeBonusRank3
-    Upgrades                          =    Upgrade_EliteHordeLvl3
+    Upgrades                          =    Upgrade_ObjectLevel3 Upgrade_MiniHordeLvl3 Upgrade_EliteHordeLvl3
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -1780,7 +1780,7 @@ ExperienceLevel    Good_Elite10_InfantryLevel4
     InformUpdateModule                =    Yes
     Rank                              =    4
     AttributeModifiers                =    Elite10HordeBonusRank4
-    Upgrades                          =    Upgrade_EliteHordeLvl4
+    Upgrades                          =    Upgrade_ObjectLevel4 Upgrade_MiniHordeLvl4 Upgrade_EliteHordeLvl4
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -1807,7 +1807,7 @@ ExperienceLevel    Good_Elite10_InfantryLevel5
     InformUpdateModule                =    Yes
     Rank                              =    5
     AttributeModifiers                =    Elite10HordeBonusRank5
-    Upgrades                          =    Upgrade_EliteHordeLvl5
+    Upgrades                          =    Upgrade_ObjectLevel5 Upgrade_MiniHordeLvl5 Upgrade_EliteHordeLvl5
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -1834,7 +1834,7 @@ ExperienceLevel    Good_Elite10_InfantryLevel6
     InformUpdateModule                =    Yes
     Rank                              =    6
     AttributeModifiers                =    Elite10HordeBonusRank6
-    Upgrades                          =    Upgrade_EliteHordeLvl6
+    Upgrades                          =    Upgrade_ObjectLevel6 Upgrade_MiniHordeLvl6 Upgrade_EliteHordeLvl6
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -1861,7 +1861,7 @@ ExperienceLevel    Good_Elite10_InfantryLevel7
     InformUpdateModule                =    Yes
     Rank                              =    7
     AttributeModifiers                =    Elite10HordeBonusRank7
-    Upgrades                          =    Upgrade_EliteHordeLvl7 Upgrade_FormenosForgedBlades
+    Upgrades                          =    Upgrade_ObjectLevel7 Upgrade_MiniHordeLvl7 Upgrade_EliteHordeLvl7 Upgrade_FormenosForgedBlades
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -1888,7 +1888,7 @@ ExperienceLevel    Good_Elite10_InfantryLevel8
     InformUpdateModule                =    Yes
     Rank                              =    8
     AttributeModifiers                =    Elite10HordeBonusRank8
-    Upgrades                          =    Upgrade_EliteHordeLvl8
+    Upgrades                          =    Upgrade_ObjectLevel8 Upgrade_MiniHordeLvl8 Upgrade_EliteHordeLvl8
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -1915,7 +1915,7 @@ ExperienceLevel    Good_Elite10_InfantryLevel9
     InformUpdateModule                =    Yes
     Rank                              =    9
     AttributeModifiers                =    Elite10HordeBonusRank9
-    Upgrades                          =    Upgrade_EliteHordeLvl9
+    Upgrades                          =    Upgrade_ObjectLevel9 Upgrade_MiniHordeLvl9 Upgrade_EliteHordeLvl9
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -1942,7 +1942,7 @@ ExperienceLevel    Good_Elite10_InfantryLevel10
     InformUpdateModule                =    Yes
     Rank                              =    10
     AttributeModifiers                =    Elite10HordeBonusRank10
-    Upgrades                          =    Upgrade_EliteHordeLvl10
+    Upgrades                          =    Upgrade_ObjectLevel1 Upgrade_MiniHordeLvl1 Upgrade_EliteHordeLvl10
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -1971,7 +1971,7 @@ ExperienceLevel    Good_Veterans_InfantryLevel1
     ExperienceAward                   =    EXPERIENCE_AWARD_VETERANS_HORDE_1
     InformUpdateModule                =    Yes
     Rank                              =    1
-    Upgrades                          =    Upgrade_EliteHordeLvl1
+    Upgrades                          =    Upgrade_ObjectLevel1 Upgrade_MiniHordeLvl1 Upgrade_EliteHordeLvl1
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -1998,7 +1998,7 @@ ExperienceLevel    Good_Veterans_InfantryLevel2
     InformUpdateModule                =    Yes
     Rank                              =    2
     AttributeModifiers                =    VeteransHordeBonusRank2
-    Upgrades                          =    Upgrade_EliteHordeLvl2
+    Upgrades                          =    Upgrade_ObjectLevel2 Upgrade_MiniHordeLvl2 Upgrade_EliteHordeLvl2
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -2025,7 +2025,7 @@ ExperienceLevel    Good_Veterans_InfantryLevel3
     InformUpdateModule                =    Yes
     Rank                              =    3
     AttributeModifiers                =    VeteransHordeBonusRank3
-    Upgrades                          =    Upgrade_EliteHordeLvl3
+    Upgrades                          =    Upgrade_ObjectLevel3 Upgrade_MiniHordeLvl3 Upgrade_EliteHordeLvl3
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -2052,7 +2052,7 @@ ExperienceLevel    Good_Veterans_InfantryLevel4
     InformUpdateModule                =    Yes
     Rank                              =    4
     AttributeModifiers                =    VeteransHordeBonusRank4
-    Upgrades                          =    Upgrade_EliteHordeLvl4
+    Upgrades                          =    Upgrade_ObjectLevel4 Upgrade_MiniHordeLvl4 Upgrade_EliteHordeLvl4
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -2079,7 +2079,7 @@ ExperienceLevel    Good_Veterans_InfantryLevel5
     InformUpdateModule                =    Yes
     Rank                              =    5
     AttributeModifiers                =    VeteransHordeBonusRank5
-    Upgrades                          =    Upgrade_EliteHordeLvl5
+    Upgrades                          =    Upgrade_ObjectLevel5 Upgrade_MiniHordeLvl5 Upgrade_EliteHordeLvl5
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -2106,7 +2106,7 @@ ExperienceLevel    Good_Veterans_InfantryLevel6
     InformUpdateModule                =    Yes
     Rank                              =    6
     AttributeModifiers                =    VeteransHordeBonusRank6
-    Upgrades                          =    Upgrade_EliteHordeLvl6
+    Upgrades                          =    Upgrade_ObjectLevel6 Upgrade_MiniHordeLvl6 Upgrade_EliteHordeLvl6
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -2133,7 +2133,7 @@ ExperienceLevel    Good_Veterans_InfantryLevel7
     InformUpdateModule                =    Yes
     Rank                              =    7
     AttributeModifiers                =    VeteransHordeBonusRank7
-    Upgrades                          =    Upgrade_EliteHordeLvl7 Upgrade_FormenosForgedBlades
+    Upgrades                          =    Upgrade_ObjectLevel7 Upgrade_MiniHordeLvl7 Upgrade_EliteHordeLvl7 Upgrade_FormenosForgedBlades
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -2160,7 +2160,7 @@ ExperienceLevel    Good_Veterans_InfantryLevel8
     InformUpdateModule                =    Yes
     Rank                              =    8
     AttributeModifiers                =    VeteransHordeBonusRank8
-    Upgrades                          =    Upgrade_EliteHordeLvl8
+    Upgrades                          =    Upgrade_ObjectLevel8 Upgrade_MiniHordeLvl8 Upgrade_EliteHordeLvl8
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -2187,7 +2187,7 @@ ExperienceLevel    Good_Veterans_InfantryLevel9
     InformUpdateModule                =    Yes
     Rank                              =    9
     AttributeModifiers                =    VeteransHordeBonusRank9
-    Upgrades                          =    Upgrade_EliteHordeLvl9
+    Upgrades                          =    Upgrade_ObjectLevel9 Upgrade_MiniHordeLvl9 Upgrade_EliteHordeLvl9
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -2214,7 +2214,7 @@ ExperienceLevel    Good_Veterans_InfantryLevel10
     InformUpdateModule                =    Yes
     Rank                              =    10
     AttributeModifiers                =    VeteransHordeBonusRank10
-    Upgrades                          =    Upgrade_EliteHordeLvl10
+    Upgrades                          =    Upgrade_ObjectLevel1 Upgrade_MiniHordeLvl1 Upgrade_EliteHordeLvl10
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -2241,7 +2241,7 @@ ExperienceLevel    Good_Veterans_InfantryLevel11
     InformUpdateModule                =    Yes
     Rank                              =    10
     AttributeModifiers                =    VeteransHordeBonusRank11
-    Upgrades                          =    Upgrade_EliteHordeLvl11
+    Upgrades                          =    Upgrade_ObjectLevel1 Upgrade_MiniHordeLvl1 Upgrade_EliteHordeLvl11
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -2268,7 +2268,7 @@ ExperienceLevel    Good_Veterans_InfantryLevel12
     InformUpdateModule                =    Yes
     Rank                              =    10
     AttributeModifiers                =    VeteransHordeBonusRank12
-    Upgrades                          =    Upgrade_EliteHordeLvl12
+    Upgrades                          =    Upgrade_ObjectLevel1 Upgrade_MiniHordeLvl1 Upgrade_EliteHordeLvl12
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -2295,7 +2295,7 @@ ExperienceLevel    Good_Veterans_InfantryLevel13
     InformUpdateModule                =    Yes
     Rank                              =    10
     AttributeModifiers                =    VeteransHordeBonusRank13
-    Upgrades                          =    Upgrade_EliteHordeLvl13
+    Upgrades                          =    Upgrade_ObjectLevel1 Upgrade_MiniHordeLvl1 Upgrade_EliteHordeLvl13
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -2322,7 +2322,7 @@ ExperienceLevel    Good_Veterans_InfantryLevel14
     InformUpdateModule                =    Yes
     Rank                              =    10
     AttributeModifiers                =    VeteransHordeBonusRank14
-    Upgrades                          =    Upgrade_EliteHordeLvl14
+    Upgrades                          =    Upgrade_ObjectLevel1 Upgrade_MiniHordeLvl1 Upgrade_EliteHordeLvl14
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -2349,7 +2349,7 @@ ExperienceLevel    Good_Veterans_InfantryLevel15
     InformUpdateModule                =    Yes
     Rank                              =    10
     AttributeModifiers                =    VeteransHordeBonusRank15
-    Upgrades                          =    Upgrade_EliteHordeLvl15
+    Upgrades                          =    Upgrade_ObjectLevel1 Upgrade_MiniHordeLvl1 Upgrade_EliteHordeLvl15
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -2376,7 +2376,7 @@ ExperienceLevel    Good_Veterans_InfantryLevel16
     InformUpdateModule                =    Yes
     Rank                              =    10
     AttributeModifiers                =    VeteransHordeBonusRank16
-    Upgrades                          =    Upgrade_EliteHordeLvl16
+    Upgrades                          =    Upgrade_ObjectLevel1 Upgrade_MiniHordeLvl1 Upgrade_EliteHordeLvl16
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -2403,7 +2403,7 @@ ExperienceLevel    Good_Veterans_InfantryLevel17
     InformUpdateModule                =    Yes
     Rank                              =    10
     AttributeModifiers                =    VeteransHordeBonusRank17
-    Upgrades                          =    Upgrade_EliteHordeLvl17
+    Upgrades                          =    Upgrade_ObjectLevel1 Upgrade_MiniHordeLvl1 Upgrade_EliteHordeLvl17
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -2430,7 +2430,7 @@ ExperienceLevel    Good_Veterans_InfantryLevel18
     InformUpdateModule                =    Yes
     Rank                              =    10
     AttributeModifiers                =    VeteransHordeBonusRank18
-    Upgrades                          =    Upgrade_EliteHordeLvl18
+    Upgrades                          =    Upgrade_ObjectLevel1 Upgrade_MiniHordeLvl1 Upgrade_EliteHordeLvl18
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -2457,7 +2457,7 @@ ExperienceLevel    Good_Veterans_InfantryLevel19
     InformUpdateModule                =    Yes
     Rank                              =    10
     AttributeModifiers                =    VeteransHordeBonusRank19
-    Upgrades                          =    Upgrade_EliteHordeLvl10
+    Upgrades                          =    Upgrade_ObjectLevel1 Upgrade_MiniHordeLvl1 Upgrade_EliteHordeLvl10
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -2484,7 +2484,7 @@ ExperienceLevel    Good_Veterans_InfantryLevel20
     InformUpdateModule                =    Yes
     Rank                              =    10
     AttributeModifiers                =    VeteransHordeBonusRank20
-    Upgrades                          =    Upgrade_EliteHordeLvl20
+    Upgrades                          =    Upgrade_ObjectLevel2 Upgrade_MiniHordeLvl2 Upgrade_EliteHordeLvl20
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -2512,7 +2512,7 @@ ExperienceLevel    Good_Elite3_InfantryLevel1
     ExperienceAward                   =    EXPERIENCE_AWARD_ELITE_TRIO_HORDE_1
     InformUpdateModule                =    Yes
     Rank                              =    1
-    Upgrades                          =    Upgrade_EliteHordeLvl1
+    Upgrades                          =    Upgrade_ObjectLevel1 Upgrade_MiniHordeLvl1 Upgrade_EliteHordeLvl1
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -2539,7 +2539,7 @@ ExperienceLevel    Good_Elite3_InfantryLevel2
     InformUpdateModule                =    Yes
     Rank                              =    2
     AttributeModifiers                =    Elite3HordeBonusRank2
-    Upgrades                          =    Upgrade_EliteHordeLvl2
+    Upgrades                          =    Upgrade_ObjectLevel2 Upgrade_MiniHordeLvl2 Upgrade_EliteHordeLvl2
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -2566,7 +2566,7 @@ ExperienceLevel    Good_Elite3_InfantryLevel3
     InformUpdateModule                =    Yes
     Rank                              =    3
     AttributeModifiers                =    Elite3HordeBonusRank3
-    Upgrades                          =    Upgrade_EliteHordeLvl3
+    Upgrades                          =    Upgrade_ObjectLevel3 Upgrade_MiniHordeLvl3 Upgrade_EliteHordeLvl3
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -2593,7 +2593,7 @@ ExperienceLevel    Good_Elite3_InfantryLevel4
     InformUpdateModule                =    Yes
     Rank                              =    4
     AttributeModifiers                =    Elite3HordeBonusRank4
-    Upgrades                          =    Upgrade_EliteHordeLvl4
+    Upgrades                          =    Upgrade_ObjectLevel4 Upgrade_MiniHordeLvl4 Upgrade_EliteHordeLvl4
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -2620,7 +2620,7 @@ ExperienceLevel    Good_Elite3_InfantryLevel5
     InformUpdateModule                =    Yes
     Rank                              =    5
     AttributeModifiers                =    Elite3HordeBonusRank5
-    Upgrades                          =    Upgrade_EliteHordeLvl5
+    Upgrades                          =    Upgrade_ObjectLevel5 Upgrade_MiniHordeLvl5 Upgrade_EliteHordeLvl5
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -2647,7 +2647,7 @@ ExperienceLevel    Good_Elite3_InfantryLevel6
     InformUpdateModule                =    Yes
     Rank                              =    6
     AttributeModifiers                =    Elite3HordeBonusRank6
-    Upgrades                          =    Upgrade_EliteHordeLvl6
+    Upgrades                          =    Upgrade_ObjectLevel6 Upgrade_MiniHordeLvl6 Upgrade_EliteHordeLvl6
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -2674,7 +2674,7 @@ ExperienceLevel    Good_Elite3_InfantryLevel7
     InformUpdateModule                =    Yes
     Rank                              =    7
     AttributeModifiers                =    Elite3HordeBonusRank7
-    Upgrades                          =    Upgrade_EliteHordeLvl7 Upgrade_FormenosForgedBlades
+    Upgrades                          =    Upgrade_ObjectLevel7 Upgrade_MiniHordeLvl7 Upgrade_EliteHordeLvl7 Upgrade_FormenosForgedBlades
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -2701,7 +2701,7 @@ ExperienceLevel    Good_Elite3_InfantryLevel8
     InformUpdateModule                =    Yes
     Rank                              =    8
     AttributeModifiers                =    Elite3HordeBonusRank8
-    Upgrades                          =    Upgrade_EliteHordeLvl8
+    Upgrades                          =    Upgrade_ObjectLevel8 Upgrade_MiniHordeLvl8 Upgrade_EliteHordeLvl8
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -2728,7 +2728,7 @@ ExperienceLevel    Good_Elite3_InfantryLevel9
     InformUpdateModule                =    Yes
     Rank                              =    9
     AttributeModifiers                =    Elite3HordeBonusRank9
-    Upgrades                          =    Upgrade_EliteHordeLvl9
+    Upgrades                          =    Upgrade_ObjectLevel9 Upgrade_MiniHordeLvl9 Upgrade_EliteHordeLvl9
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -2755,7 +2755,7 @@ ExperienceLevel    Good_Elite3_InfantryLevel10
     InformUpdateModule                =    Yes
     Rank                              =    10
     AttributeModifiers                =    Elite3HordeBonusRank10
-    Upgrades                          =    Upgrade_EliteHordeLvl10
+    Upgrades                          =    Upgrade_ObjectLevel1 Upgrade_MiniHordeLvl1 Upgrade_EliteHordeLvl10
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -2997,7 +2997,7 @@ ExperienceLevel    Good_CheapChampon_InfantryLevel10
     RequiredExperience                =    EXPERIENCE_REQUIRED_CHEAP_CHAMPION_HORDE_10
     ExperienceAward                   =    EXPERIENCE_AWARD_CHEAP_CHAMPION_HORDE_10
     Rank                              =    5
-    Upgrades                          =    Upgrade_ObjectLevel10 Upgrade_MiniHordeLvl10 Upgrade_EliteHordeLvl10
+    Upgrades                          =    Upgrade_ObjectLevel1 Upgrade_MiniHordeLvl1 Upgrade_EliteHordeLvl10
     AttributeModifiers                =    CheapChamponHordeBonusRank10
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
@@ -3162,7 +3162,7 @@ ExperienceLevel    Good_RegularChampon_InfantryLevel7
     RequiredExperience                =    EXPERIENCE_REQUIRED_REGULAR_CHAMPION_HORDE_7
     ExperienceAward                   =    EXPERIENCE_AWARD_REGULAR_CHAMPION_HORDE_7
     Rank                              =    2
-    Upgrades                          =    Upgrade_ObjectLevel2 Upgrade_MiniHordeLvl7 Upgrade_EliteHordeLvl7
+    Upgrades                          =    Upgrade_ObjectLevel7 Upgrade_MiniHordeLvl7 Upgrade_EliteHordeLvl7
     AttributeModifiers                =    RegularChamponHordeBonusRank7
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
@@ -3237,7 +3237,7 @@ ExperienceLevel    Good_RegularChampon_InfantryLevel10
     RequiredExperience                =    EXPERIENCE_REQUIRED_REGULAR_CHAMPION_HORDE_10
     ExperienceAward                   =    EXPERIENCE_AWARD_REGULAR_CHAMPION_HORDE_10
     Rank                              =    5
-    Upgrades                          =    Upgrade_ObjectLevel10 Upgrade_MiniHordeLvl10 Upgrade_EliteHordeLvl10
+    Upgrades                          =    Upgrade_ObjectLevel1 Upgrade_MiniHordeLvl1 Upgrade_EliteHordeLvl10
     AttributeModifiers                =    RegularChamponHordeBonusRank5
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
@@ -3265,7 +3265,7 @@ ExperienceLevel    Good_First_Age_RegularInfantryLevel1
     ExperienceAward                   =    EXPERIENCE_AWARD_FIRST_AGE_REGULAR_HORDE_1
     InformUpdateModule                =    Yes
     Rank                              =    1
-    Upgrades                          =    Upgrade_EliteHordeLvl1
+    Upgrades                          =    Upgrade_ObjectLevel1 Upgrade_MiniHordeLvl1 Upgrade_EliteHordeLvl1
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -3292,7 +3292,7 @@ ExperienceLevel    Good_First_Age_RegularInfantryLevel2
     InformUpdateModule                =    Yes
     Rank                              =    2
     AttributeModifiers                =    First_Age_RegularInfantryHordeBonusRank2
-    Upgrades                          =    Upgrade_EliteHordeLvl2
+    Upgrades                          =    Upgrade_ObjectLevel2 Upgrade_MiniHordeLvl2 Upgrade_EliteHordeLvl2
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -3319,7 +3319,7 @@ ExperienceLevel    Good_First_Age_RegularInfantryLevel3
     InformUpdateModule                =    Yes
     Rank                              =    3
     AttributeModifiers                =    First_Age_RegularInfantryHordeBonusRank3
-    Upgrades                          =    Upgrade_EliteHordeLvl3
+    Upgrades                          =    Upgrade_ObjectLevel3 Upgrade_MiniHordeLvl3 Upgrade_EliteHordeLvl3
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -3346,7 +3346,7 @@ ExperienceLevel    Good_First_Age_RegularInfantryLevel4
     InformUpdateModule                =    Yes
     Rank                              =    4
     AttributeModifiers                =    First_Age_RegularInfantryHordeBonusRank4
-    Upgrades                          =    Upgrade_EliteHordeLvl4
+    Upgrades                          =    Upgrade_ObjectLevel4 Upgrade_MiniHordeLvl4 Upgrade_EliteHordeLvl4
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -3373,7 +3373,7 @@ ExperienceLevel    Good_First_Age_RegularInfantryLevel5
     InformUpdateModule                =    Yes
     Rank                              =    5
     AttributeModifiers                =    First_Age_RegularInfantryHordeBonusRank5
-    Upgrades                          =    Upgrade_EliteHordeLvl5
+    Upgrades                          =    Upgrade_ObjectLevel5 Upgrade_MiniHordeLvl5 Upgrade_EliteHordeLvl5
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -3400,7 +3400,7 @@ ExperienceLevel    Good_First_Age_RegularInfantryLevel6
     InformUpdateModule                =    Yes
     Rank                              =    6
     AttributeModifiers                =    First_Age_RegularInfantryHordeBonusRank6
-    Upgrades                          =    Upgrade_EliteHordeLvl6
+    Upgrades                          =    Upgrade_ObjectLevel6 Upgrade_MiniHordeLvl6 Upgrade_EliteHordeLvl6
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -3427,7 +3427,7 @@ ExperienceLevel    Good_First_Age_RegularInfantryLevel7
     InformUpdateModule                =    Yes
     Rank                              =    7
     AttributeModifiers                =    First_Age_RegularInfantryHordeBonusRank7
-    Upgrades                          =    Upgrade_EliteHordeLvl7 Upgrade_FormenosForgedBlades
+    Upgrades                          =    Upgrade_ObjectLevel7 Upgrade_MiniHordeLvl7 Upgrade_EliteHordeLvl7 Upgrade_FormenosForgedBlades
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -3454,7 +3454,7 @@ ExperienceLevel    Good_First_Age_RegularInfantryLevel8
     InformUpdateModule                =    Yes
     Rank                              =    8
     AttributeModifiers                =    First_Age_RegularInfantryHordeBonusRank8
-    Upgrades                          =    Upgrade_EliteHordeLvl8
+    Upgrades                          =    Upgrade_ObjectLevel8 Upgrade_MiniHordeLvl8 Upgrade_EliteHordeLvl8
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -3481,7 +3481,7 @@ ExperienceLevel    Good_First_Age_RegularInfantryLevel9
     InformUpdateModule                =    Yes
     Rank                              =    9
     AttributeModifiers                =    First_Age_RegularInfantryHordeBonusRank9
-    Upgrades                          =    Upgrade_EliteHordeLvl9
+    Upgrades                          =    Upgrade_ObjectLevel9 Upgrade_MiniHordeLvl9 Upgrade_EliteHordeLvl9
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -3508,7 +3508,7 @@ ExperienceLevel    Good_First_Age_RegularInfantryLevel10
     InformUpdateModule                =    Yes
     Rank                              =    10
     AttributeModifiers                =    First_Age_RegularInfantryHordeBonusRank10
-    Upgrades                          =    Upgrade_EliteHordeLvl10
+    Upgrades                          =    Upgrade_ObjectLevel1 Upgrade_MiniHordeLvl1 Upgrade_EliteHordeLvl10
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -3538,7 +3538,7 @@ ExperienceLevel    Good_First_Age_EliteInfantryLevel1
     ExperienceAward                   =    EXPERIENCE_AWARD_FIRST_AGE_ELITE_HORDE_1
     InformUpdateModule                =    Yes
     Rank                              =    1
-    Upgrades                          =    Upgrade_EliteHordeLvl1
+    Upgrades                          =    Upgrade_ObjectLevel1 Upgrade_MiniHordeLvl1 Upgrade_EliteHordeLvl1
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -3565,7 +3565,7 @@ ExperienceLevel    Good_First_Age_EliteInfantryLevel2
     InformUpdateModule                =    Yes
     Rank                              =    2
     AttributeModifiers                =    First_Age_EliteInfantryHordeBonusRank2
-    Upgrades                          =    Upgrade_EliteHordeLvl2
+    Upgrades                          =    Upgrade_ObjectLevel2 Upgrade_MiniHordeLvl2 Upgrade_EliteHordeLvl2
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -3592,7 +3592,7 @@ ExperienceLevel    Good_First_Age_EliteInfantryLevel3
     InformUpdateModule                =    Yes
     Rank                              =    3
     AttributeModifiers                =    First_Age_EliteInfantryHordeBonusRank3
-    Upgrades                          =    Upgrade_EliteHordeLvl3
+    Upgrades                          =    Upgrade_ObjectLevel3 Upgrade_MiniHordeLvl3 Upgrade_EliteHordeLvl3
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -3619,7 +3619,7 @@ ExperienceLevel    Good_First_Age_EliteInfantryLevel4
     InformUpdateModule                =    Yes
     Rank                              =    4
     AttributeModifiers                =    First_Age_EliteInfantryHordeBonusRank4
-    Upgrades                          =    Upgrade_EliteHordeLvl4
+    Upgrades                          =    Upgrade_ObjectLevel4 Upgrade_MiniHordeLvl4 Upgrade_EliteHordeLvl4
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -3646,7 +3646,7 @@ ExperienceLevel    Good_First_Age_EliteInfantryLevel5
     InformUpdateModule                =    Yes
     Rank                              =    5
     AttributeModifiers                =    First_Age_EliteInfantryHordeBonusRank5
-    Upgrades                          =    Upgrade_EliteHordeLvl5
+    Upgrades                          =    Upgrade_ObjectLevel5 Upgrade_MiniHordeLvl5 Upgrade_EliteHordeLvl5
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -3673,7 +3673,7 @@ ExperienceLevel    Good_First_Age_EliteInfantryLevel6
     InformUpdateModule                =    Yes
     Rank                              =    6
     AttributeModifiers                =    First_Age_EliteInfantryHordeBonusRank6
-    Upgrades                          =    Upgrade_EliteHordeLvl6
+    Upgrades                          =    Upgrade_ObjectLevel6 Upgrade_MiniHordeLvl6 Upgrade_EliteHordeLvl6
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -3700,7 +3700,7 @@ ExperienceLevel    Good_First_Age_EliteInfantryLevel7
     InformUpdateModule                =    Yes
     Rank                              =    7
     AttributeModifiers                =    First_Age_EliteInfantryHordeBonusRank7
-    Upgrades                          =    Upgrade_EliteHordeLvl7 Upgrade_FormenosForgedBlades
+    Upgrades                          =    Upgrade_ObjectLevel7 Upgrade_MiniHordeLvl7 Upgrade_EliteHordeLvl7 Upgrade_FormenosForgedBlades
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -3727,7 +3727,7 @@ ExperienceLevel    Good_First_Age_EliteInfantryLevel8
     InformUpdateModule                =    Yes
     Rank                              =    8
     AttributeModifiers                =    First_Age_EliteInfantryHordeBonusRank8
-    Upgrades                          =    Upgrade_EliteHordeLvl8
+    Upgrades                          =    Upgrade_ObjectLevel8 Upgrade_MiniHordeLvl8 Upgrade_EliteHordeLvl8
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -3754,7 +3754,7 @@ ExperienceLevel    Good_First_Age_EliteInfantryLevel9
     InformUpdateModule                =    Yes
     Rank                              =    9
     AttributeModifiers                =    First_Age_EliteInfantryHordeBonusRank9
-    Upgrades                          =    Upgrade_EliteHordeLvl9
+    Upgrades                          =    Upgrade_ObjectLevel9 Upgrade_MiniHordeLvl9 Upgrade_EliteHordeLvl9
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -3781,7 +3781,7 @@ ExperienceLevel    Good_First_Age_EliteInfantryLevel10
     InformUpdateModule                =    Yes
     Rank                              =    10
     AttributeModifiers                =    First_Age_EliteInfantryHordeBonusRank10
-    Upgrades                          =    Upgrade_EliteHordeLvl10
+    Upgrades                          =    Upgrade_ObjectLevel1 Upgrade_MiniHordeLvl1 Upgrade_EliteHordeLvl10
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -3810,7 +3810,7 @@ ExperienceLevel    Good_First_Age_BetterFlyingLevel1
     ExperienceAward                   =    EXPERIENCE_AWARD_FIRST_AGE_BETTER_FLYING_HORDE_1
     InformUpdateModule                =    Yes
     Rank                              =    1
-    Upgrades                          =    Upgrade_EliteHordeLvl1
+    Upgrades                          =    Upgrade_ObjectLevel1 Upgrade_MiniHordeLvl1 Upgrade_EliteHordeLvl1
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -3837,7 +3837,7 @@ ExperienceLevel    Good_First_Age_BetterFlyingLevel2
     InformUpdateModule                =    Yes
     Rank                              =    2
     AttributeModifiers                =    First_Age_BetterFlyingHordeBonusRank2
-    Upgrades                          =    Upgrade_EliteHordeLvl2
+    Upgrades                          =    Upgrade_ObjectLevel2 Upgrade_MiniHordeLvl2 Upgrade_EliteHordeLvl2
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -3864,7 +3864,7 @@ ExperienceLevel    Good_First_Age_BetterFlyingLevel3
     InformUpdateModule                =    Yes
     Rank                              =    3
     AttributeModifiers                =    First_Age_BetterFlyingHordeBonusRank3
-    Upgrades                          =    Upgrade_EliteHordeLvl3
+    Upgrades                          =    Upgrade_ObjectLevel3 Upgrade_MiniHordeLvl3 Upgrade_EliteHordeLvl3
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -3891,7 +3891,7 @@ ExperienceLevel    Good_First_Age_BetterFlyingLevel4
     InformUpdateModule                =    Yes
     Rank                              =    4
     AttributeModifiers                =    First_Age_BetterFlyingHordeBonusRank4
-    Upgrades                          =    Upgrade_EliteHordeLvl4
+    Upgrades                          =    Upgrade_ObjectLevel4 Upgrade_MiniHordeLvl4 Upgrade_EliteHordeLvl4
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -3918,7 +3918,7 @@ ExperienceLevel    Good_First_Age_BetterFlyingLevel5
     InformUpdateModule                =    Yes
     Rank                              =    5
     AttributeModifiers                =    First_Age_BetterFlyingHordeBonusRank5
-    Upgrades                          =    Upgrade_EliteHordeLvl5
+    Upgrades                          =    Upgrade_ObjectLevel5 Upgrade_MiniHordeLvl5 Upgrade_EliteHordeLvl5
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -3945,7 +3945,7 @@ ExperienceLevel    Good_First_Age_BetterFlyingLevel6
     InformUpdateModule                =    Yes
     Rank                              =    6
     AttributeModifiers                =    First_Age_BetterFlyingHordeBonusRank6
-    Upgrades                          =    Upgrade_EliteHordeLvl6
+    Upgrades                          =    Upgrade_ObjectLevel6 Upgrade_MiniHordeLvl6 Upgrade_EliteHordeLvl6
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -3972,7 +3972,7 @@ ExperienceLevel    Good_First_Age_BetterFlyingLevel7
     InformUpdateModule                =    Yes
     Rank                              =    7
     AttributeModifiers                =    First_Age_BetterFlyingHordeBonusRank7
-    Upgrades                          =    Upgrade_EliteHordeLvl7 Upgrade_FormenosForgedBlades
+    Upgrades                          =    Upgrade_ObjectLevel7 Upgrade_MiniHordeLvl7 Upgrade_EliteHordeLvl7 Upgrade_FormenosForgedBlades
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -3999,7 +3999,7 @@ ExperienceLevel    Good_First_Age_BetterFlyingLevel8
     InformUpdateModule                =    Yes
     Rank                              =    8
     AttributeModifiers                =    First_Age_BetterFlyingHordeBonusRank8
-    Upgrades                          =    Upgrade_EliteHordeLvl8
+    Upgrades                          =    Upgrade_ObjectLevel8 Upgrade_MiniHordeLvl8 Upgrade_EliteHordeLvl8
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -4026,7 +4026,7 @@ ExperienceLevel    Good_First_Age_BetterFlyingLevel9
     InformUpdateModule                =    Yes
     Rank                              =    9
     AttributeModifiers                =    First_Age_BetterFlyingHordeBonusRank9
-    Upgrades                          =    Upgrade_EliteHordeLvl9
+    Upgrades                          =    Upgrade_ObjectLevel9 Upgrade_MiniHordeLvl9 Upgrade_EliteHordeLvl9
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -4053,7 +4053,7 @@ ExperienceLevel    Good_First_Age_BetterFlyingLevel10
     InformUpdateModule                =    Yes
     Rank                              =    10
     AttributeModifiers                =    First_Age_BetterFlyingHordeBonusRank10
-    Upgrades                          =    Upgrade_EliteHordeLvl10
+    Upgrades                          =    Upgrade_ObjectLevel1 Upgrade_MiniHordeLvl1 Upgrade_EliteHordeLvl10
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -4447,7 +4447,7 @@ ExperienceLevel    Good_Elite_CavLevel1
     ExperienceAward                   =    EXPERIENCE_AWARD_ELITE_CAVALRY_HORDE_1
     InformUpdateModule                =    Yes
     Rank                              =    1
-    Upgrades                          =    Upgrade_EliteHordeLvl1
+    Upgrades                          =    Upgrade_ObjectLevel1 Upgrade_MiniHordeLvl1 Upgrade_EliteHordeLvl1
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -4474,7 +4474,7 @@ ExperienceLevel    Good_Elite_CavLevel2
     InformUpdateModule                =    Yes
     Rank                              =    2
     AttributeModifiers                =    EliteCavHordeBonusRank2
-    Upgrades                          =    Upgrade_EliteHordeLvl2
+    Upgrades                          =    Upgrade_ObjectLevel2 Upgrade_MiniHordeLvl2 Upgrade_EliteHordeLvl2
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -4501,7 +4501,7 @@ ExperienceLevel    Good_Elite_CavLevel3
     InformUpdateModule                =    Yes
     Rank                              =    3
     AttributeModifiers                =    EliteCavHordeBonusRank3
-    Upgrades                          =    Upgrade_EliteHordeLvl3
+    Upgrades                          =    Upgrade_ObjectLevel3 Upgrade_MiniHordeLvl3 Upgrade_EliteHordeLvl3
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -4528,7 +4528,7 @@ ExperienceLevel    Good_Elite_CavLevel4
     InformUpdateModule                =    Yes
     Rank                              =    4
     AttributeModifiers                =    EliteCavHordeBonusRank4
-    Upgrades                          =    Upgrade_EliteHordeLvl4
+    Upgrades                          =    Upgrade_ObjectLevel4 Upgrade_MiniHordeLvl4 Upgrade_EliteHordeLvl4
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -4555,7 +4555,7 @@ ExperienceLevel    Good_Elite_CavLevel5
     InformUpdateModule                =    Yes
     Rank                              =    5
     AttributeModifiers                =    EliteCavHordeBonusRank5
-    Upgrades                          =    Upgrade_EliteHordeLvl5
+    Upgrades                          =    Upgrade_ObjectLevel5 Upgrade_MiniHordeLvl5 Upgrade_EliteHordeLvl5
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -4582,7 +4582,7 @@ ExperienceLevel    Good_Elite_CavLevel6
     InformUpdateModule                =    Yes
     Rank                              =    6
     AttributeModifiers                =    EliteCavHordeBonusRank6
-    Upgrades                          =    Upgrade_EliteHordeLvl6
+    Upgrades                          =    Upgrade_ObjectLevel6 Upgrade_MiniHordeLvl6 Upgrade_EliteHordeLvl6
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -4609,7 +4609,7 @@ ExperienceLevel    Good_Elite_CavLevel7
     InformUpdateModule                =    Yes
     Rank                              =    7
     AttributeModifiers                =    EliteCavHordeBonusRank7
-    Upgrades                          =    Upgrade_EliteHordeLvl7 Upgrade_FormenosForgedBlades
+    Upgrades                          =    Upgrade_ObjectLevel7 Upgrade_MiniHordeLvl7 Upgrade_EliteHordeLvl7 Upgrade_FormenosForgedBlades
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -4636,7 +4636,7 @@ ExperienceLevel    Good_Elite_CavLevel8
     InformUpdateModule                =    Yes
     Rank                              =    8
     AttributeModifiers                =    EliteCavHordeBonusRank8
-    Upgrades                          =    Upgrade_EliteHordeLvl8
+    Upgrades                          =    Upgrade_ObjectLevel8 Upgrade_MiniHordeLvl8 Upgrade_EliteHordeLvl8
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -4663,7 +4663,7 @@ ExperienceLevel    Good_Elite_CavLevel9
     InformUpdateModule                =    Yes
     Rank                              =    9
     AttributeModifiers                =    EliteCavHordeBonusRank9
-    Upgrades                          =    Upgrade_EliteHordeLvl9
+    Upgrades                          =    Upgrade_ObjectLevel9 Upgrade_MiniHordeLvl9 Upgrade_EliteHordeLvl9
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -4690,7 +4690,7 @@ ExperienceLevel    Good_Elite_CavLevel10
     InformUpdateModule                =    Yes
     Rank                              =    10
     AttributeModifiers                =    EliteCavHordeBonusRank10
-    Upgrades                          =    Upgrade_EliteHordeLvl10
+    Upgrades                          =    Upgrade_ObjectLevel1 Upgrade_MiniHordeLvl1 Upgrade_EliteHordeLvl10
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -4830,3 +4830,15 @@ ExperienceLevel    Good_Basic_BeastsLevel5
         MaxSelectedUnits      =    40
     End
 END
+
+
+
+
+
+
+
+
+
+
+
+
