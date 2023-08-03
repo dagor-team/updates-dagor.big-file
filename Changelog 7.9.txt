@@ -13,3 +13,12 @@ Goblins
 -Smaug damage and other flyers increased 25%.
 -Drogoth and Thorondor Damage increased.
 -Drogoth Health increased severely.
+By oogglie 
+	-exp system 
+		-fixed all firstage elite unit not being able to lvl
+  		-fixed and increased all monsters values for leveling up and giving exp.
+		-fixed purple box should be fixed let me know if it still happens and at what level and unit
+		-fixed issue with units not getting there ablilties when level 
+	if any of the issues are still there let me know what unit and what broken.
+-Smaug now cost 3000
+
