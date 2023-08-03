@@ -579,11 +579,11 @@
 #define EXPERIENCE_REQUIRED_BASIC_MONSTER_HORDE_4        250
 #define EXPERIENCE_REQUIRED_BASIC_MONSTER_HORDE_5        400
 
-#define EXPERIENCE_AWARD_BASIC_MONSTER_HORDE_1            4
-#define EXPERIENCE_AWARD_BASIC_MONSTER_HORDE_2            6
-#define EXPERIENCE_AWARD_BASIC_MONSTER_HORDE_3            7
-#define EXPERIENCE_AWARD_BASIC_MONSTER_HORDE_4            8
-#define EXPERIENCE_AWARD_BASIC_MONSTER_HORDE_5            9
+#define EXPERIENCE_AWARD_BASIC_MONSTER_HORDE_1            10
+#define EXPERIENCE_AWARD_BASIC_MONSTER_HORDE_2            20
+#define EXPERIENCE_AWARD_BASIC_MONSTER_HORDE_3            30
+#define EXPERIENCE_AWARD_BASIC_MONSTER_HORDE_4            40
+#define EXPERIENCE_AWARD_BASIC_MONSTER_HORDE_5            50
 
 ;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -593,11 +593,11 @@
 #define EXPERIENCE_REQUIRED_REGULAR_MONSTER_HORDE_4        400
 #define EXPERIENCE_REQUIRED_REGULAR_MONSTER_HORDE_5        500
 
-#define EXPERIENCE_AWARD_REGULAR_MONSTER_HORDE_1            12
-#define EXPERIENCE_AWARD_REGULAR_MONSTER_HORDE_2            16
-#define EXPERIENCE_AWARD_REGULAR_MONSTER_HORDE_3            20
-#define EXPERIENCE_AWARD_REGULAR_MONSTER_HORDE_4            30
-#define EXPERIENCE_AWARD_REGULAR_MONSTER_HORDE_5            35
+#define EXPERIENCE_AWARD_REGULAR_MONSTER_HORDE_1            110
+#define EXPERIENCE_AWARD_REGULAR_MONSTER_HORDE_2            120
+#define EXPERIENCE_AWARD_REGULAR_MONSTER_HORDE_3            130
+#define EXPERIENCE_AWARD_REGULAR_MONSTER_HORDE_4            140
+#define EXPERIENCE_AWARD_REGULAR_MONSTER_HORDE_5            150
 
 ;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -607,11 +607,11 @@
 #define EXPERIENCE_REQUIRED_ADVANCED_MONSTER_HORDE_4        600
 #define EXPERIENCE_REQUIRED_ADVANCED_MONSTER_HORDE_5        800
 
-#define EXPERIENCE_AWARD_ADVANCED_MONSTER_HORDE_1            16
-#define EXPERIENCE_AWARD_ADVANCED_MONSTER_HORDE_2            24
-#define EXPERIENCE_AWARD_ADVANCED_MONSTER_HORDE_3            30
-#define EXPERIENCE_AWARD_ADVANCED_MONSTER_HORDE_4            35
-#define EXPERIENCE_AWARD_ADVANCED_MONSTER_HORDE_5            45
+#define EXPERIENCE_AWARD_ADVANCED_MONSTER_HORDE_1            160
+#define EXPERIENCE_AWARD_ADVANCED_MONSTER_HORDE_2            170
+#define EXPERIENCE_AWARD_ADVANCED_MONSTER_HORDE_3            180
+#define EXPERIENCE_AWARD_ADVANCED_MONSTER_HORDE_4            190
+#define EXPERIENCE_AWARD_ADVANCED_MONSTER_HORDE_5            200
 
 ;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -622,11 +622,11 @@
 #define EXPERIENCE_REQUIRED_ELITE_MONSTER_HORDE_4        800
 #define EXPERIENCE_REQUIRED_ELITE_MONSTER_HORDE_5        900
 
-#define EXPERIENCE_AWARD_ELITE_MONSTER_HORDE_1            30
-#define EXPERIENCE_AWARD_ELITE_MONSTER_HORDE_2            40
-#define EXPERIENCE_AWARD_ELITE_MONSTER_HORDE_3            50
-#define EXPERIENCE_AWARD_ELITE_MONSTER_HORDE_4            60
-#define EXPERIENCE_AWARD_ELITE_MONSTER_HORDE_5            70
+#define EXPERIENCE_AWARD_ELITE_MONSTER_HORDE_1            200
+#define EXPERIENCE_AWARD_ELITE_MONSTER_HORDE_2            210
+#define EXPERIENCE_AWARD_ELITE_MONSTER_HORDE_3            220
+#define EXPERIENCE_AWARD_ELITE_MONSTER_HORDE_4            230
+#define EXPERIENCE_AWARD_ELITE_MONSTER_HORDE_5            240
 
 ;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
