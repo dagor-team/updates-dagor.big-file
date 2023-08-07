@@ -1,0 +1,7 @@
+Update 7.8.4 
+By Gimli:
+nerfed mirkwood elite damage 250 to 100
+By Ninima 
+Add new voice lines telmiron and sauron
+By Oogglie 
+Exp stats given to horde units reduced by 50% 
