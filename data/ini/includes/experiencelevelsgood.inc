@@ -4466,7 +4466,7 @@ ExperienceLevel    Good_Advanced5_CavalryLevel2
     ExperienceAward                   =    EXPERIENCE_AWARD_ADVANCED_5_CAV_HORDE_2
     Rank                              =    2
     Upgrades                          =    Upgrade_ObjectLevel2 Upgrade_MiniHordeLvl2 Upgrade_EliteHordeLvl2
-    AttributeModifiers                =     
+    AttributeModifiers                =    Advanced5CavHordeBonusRank2 
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
