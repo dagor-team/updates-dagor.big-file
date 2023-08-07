@@ -504,6 +504,22 @@
 ;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
+#define EXPERIENCE_REQUIRED_ADVANCED_5_CAV_HORDE_1          1
+#define EXPERIENCE_REQUIRED_ADVANCED_5_CAV_HORDE_2        150
+#define EXPERIENCE_REQUIRED_ADVANCED_5_CAV_HORDE_3        230
+#define EXPERIENCE_REQUIRED_ADVANCED_5_CAV_HORDE_4        350
+#define EXPERIENCE_REQUIRED_ADVANCED_5_CAV_HORDE_5        500
+
+#define EXPERIENCE_AWARD_ADVANCED_5_CAV_HORDE_1           20
+#define EXPERIENCE_AWARD_ADVANCED_5_CAV_HORDE_2           22
+#define EXPERIENCE_AWARD_ADVANCED_5_CAV_HORDE_3           22
+#define EXPERIENCE_AWARD_ADVANCED_5_CAV_HORDE_4           24
+#define EXPERIENCE_AWARD_ADVANCED_5_CAV_HORDE_5           26
+
+;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
 #define EXPERIENCE_REQUIRED_ELITE_CAVALRY_HORDE_1          1
 #define EXPERIENCE_REQUIRED_ELITE_CAVALRY_HORDE_2        120
 #define EXPERIENCE_REQUIRED_ELITE_CAVALRY_HORDE_3        250
