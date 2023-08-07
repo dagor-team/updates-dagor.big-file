@@ -212,15 +212,15 @@
 #define ELITE_10_HORDE_HP_ADD_LVL10               150
 
 
-#define ELITE_10_HORDE_DAMAGE_ADD_LVL2            12
-#define ELITE_10_HORDE_DAMAGE_ADD_LVL3            12
-#define ELITE_10_HORDE_DAMAGE_ADD_LVL4            12
-#define ELITE_10_HORDE_DAMAGE_ADD_LVL5            12
-#define ELITE_10_HORDE_DAMAGE_ADD_LVL6            12
-#define ELITE_10_HORDE_DAMAGE_ADD_LVL7            12
-#define ELITE_10_HORDE_DAMAGE_ADD_LVL8            12
-#define ELITE_10_HORDE_DAMAGE_ADD_LVL9            12
-#define ELITE_10_HORDE_DAMAGE_ADD_LVL10           12
+#define ELITE_10_HORDE_DAMAGE_ADD_LVL2            9
+#define ELITE_10_HORDE_DAMAGE_ADD_LVL3            9
+#define ELITE_10_HORDE_DAMAGE_ADD_LVL4            9
+#define ELITE_10_HORDE_DAMAGE_ADD_LVL5            9
+#define ELITE_10_HORDE_DAMAGE_ADD_LVL6            9
+#define ELITE_10_HORDE_DAMAGE_ADD_LVL7            9
+#define ELITE_10_HORDE_DAMAGE_ADD_LVL8            9
+#define ELITE_10_HORDE_DAMAGE_ADD_LVL9            9
+#define ELITE_10_HORDE_DAMAGE_ADD_LVL10           9
 
 ;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -282,15 +282,15 @@
 #define FIRST_AGE_REGULARINFANTRY_HORDE_HP_ADD_LVL10               200
 
 
-#define FIRST_AGE_REGULARINFANTRY_HORDE_DAMAGE_ADD_LVL2            17
-#define FIRST_AGE_REGULARINFANTRY_HORDE_DAMAGE_ADD_LVL3            17
-#define FIRST_AGE_REGULARINFANTRY_HORDE_DAMAGE_ADD_LVL4            17
-#define FIRST_AGE_REGULARINFANTRY_HORDE_DAMAGE_ADD_LVL5            17
-#define FIRST_AGE_REGULARINFANTRY_HORDE_DAMAGE_ADD_LVL6            17
-#define FIRST_AGE_REGULARINFANTRY_HORDE_DAMAGE_ADD_LVL7            17
-#define FIRST_AGE_REGULARINFANTRY_HORDE_DAMAGE_ADD_LVL8            17
-#define FIRST_AGE_REGULARINFANTRY_HORDE_DAMAGE_ADD_LVL9            17
-#define FIRST_AGE_REGULARINFANTRY_HORDE_DAMAGE_ADD_LVL10           17
+#define FIRST_AGE_REGULARINFANTRY_HORDE_DAMAGE_ADD_LVL2            20
+#define FIRST_AGE_REGULARINFANTRY_HORDE_DAMAGE_ADD_LVL3            20
+#define FIRST_AGE_REGULARINFANTRY_HORDE_DAMAGE_ADD_LVL4            20
+#define FIRST_AGE_REGULARINFANTRY_HORDE_DAMAGE_ADD_LVL5            20
+#define FIRST_AGE_REGULARINFANTRY_HORDE_DAMAGE_ADD_LVL6            20
+#define FIRST_AGE_REGULARINFANTRY_HORDE_DAMAGE_ADD_LVL7            20
+#define FIRST_AGE_REGULARINFANTRY_HORDE_DAMAGE_ADD_LVL8            20
+#define FIRST_AGE_REGULARINFANTRY_HORDE_DAMAGE_ADD_LVL9            20
+#define FIRST_AGE_REGULARINFANTRY_HORDE_DAMAGE_ADD_LVL10           20
 
 
 ;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -306,15 +306,15 @@
 #define FIRST_AGE_ELITEINFANTRY_HORDE_HP_ADD_LVL10               400
 
 
-#define FIRST_AGE_ELITEINFANTRY_HORDE_DAMAGE_ADD_LVL2            19
-#define FIRST_AGE_ELITEINFANTRY_HORDE_DAMAGE_ADD_LVL3            19
-#define FIRST_AGE_ELITEINFANTRY_HORDE_DAMAGE_ADD_LVL4            19
-#define FIRST_AGE_ELITEINFANTRY_HORDE_DAMAGE_ADD_LVL5            19
-#define FIRST_AGE_ELITEINFANTRY_HORDE_DAMAGE_ADD_LVL6            19
-#define FIRST_AGE_ELITEINFANTRY_HORDE_DAMAGE_ADD_LVL7            19
-#define FIRST_AGE_ELITEINFANTRY_HORDE_DAMAGE_ADD_LVL8            19
-#define FIRST_AGE_ELITEINFANTRY_HORDE_DAMAGE_ADD_LVL9            19
-#define FIRST_AGE_ELITEINFANTRY_HORDE_DAMAGE_ADD_LVL10           19
+#define FIRST_AGE_ELITEINFANTRY_HORDE_DAMAGE_ADD_LVL2            25
+#define FIRST_AGE_ELITEINFANTRY_HORDE_DAMAGE_ADD_LVL3            25
+#define FIRST_AGE_ELITEINFANTRY_HORDE_DAMAGE_ADD_LVL4            25
+#define FIRST_AGE_ELITEINFANTRY_HORDE_DAMAGE_ADD_LVL5            25
+#define FIRST_AGE_ELITEINFANTRY_HORDE_DAMAGE_ADD_LVL6            25
+#define FIRST_AGE_ELITEINFANTRY_HORDE_DAMAGE_ADD_LVL7            25
+#define FIRST_AGE_ELITEINFANTRY_HORDE_DAMAGE_ADD_LVL8            25
+#define FIRST_AGE_ELITEINFANTRY_HORDE_DAMAGE_ADD_LVL9            25
+#define FIRST_AGE_ELITEINFANTRY_HORDE_DAMAGE_ADD_LVL10           25
 
 
 ;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
