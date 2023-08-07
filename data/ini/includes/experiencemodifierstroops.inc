@@ -62,12 +62,12 @@
 
 ;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#define REGULAR5_HORDE_HP_ADD_LVL2                180
+#define REGULAR5_HORDE_HP_ADD_LVL2                0
 #define REGULAR5_HORDE_HP_ADD_LVL3                180
 #define REGULAR5_HORDE_HP_ADD_LVL4                180
 #define REGULAR5_HORDE_HP_ADD_LVL5                180
 
-#define REGULAR5_HORDE_DAMAGE_ADD_LVL2            10
+#define REGULAR5_HORDE_DAMAGE_ADD_LVL2            0
 #define REGULAR5_HORDE_DAMAGE_ADD_LVL3            10
 #define REGULAR5_HORDE_DAMAGE_ADD_LVL4            10
 #define REGULAR5_HORDE_DAMAGE_ADD_LVL5            10
@@ -98,12 +98,12 @@
 
 ;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#define ADVANCED5_HORDE_HP_ADD_LVL2                200
+#define ADVANCED5_HORDE_HP_ADD_LVL2                1
 #define ADVANCED5_HORDE_HP_ADD_LVL3                200
 #define ADVANCED5_HORDE_HP_ADD_LVL4                200
 #define ADVANCED5_HORDE_HP_ADD_LVL5                200
 
-#define ADVANCED5_HORDE_DAMAGE_ADD_LVL2            13
+#define ADVANCED5_HORDE_DAMAGE_ADD_LVL2            1
 #define ADVANCED5_HORDE_DAMAGE_ADD_LVL3            13
 #define ADVANCED5_HORDE_DAMAGE_ADD_LVL4            13
 #define ADVANCED5_HORDE_DAMAGE_ADD_LVL5            13
@@ -358,12 +358,12 @@
 ;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-#define ADVANCEDCAV5_HORDE_HP_ADD_LVL2               110
+#define ADVANCEDCAV5_HORDE_HP_ADD_LVL2               1
 #define ADVANCEDCAV5_HORDE_HP_ADD_LVL3               110
 #define ADVANCEDCAV5_HORDE_HP_ADD_LVL4               110
 #define ADVANCEDCAV5_HORDE_HP_ADD_LVL5               110
 
-#define ADVANCEDCAV5_HORDE_DAMAGE_ADD_LVL2            12
+#define ADVANCEDCAV5_HORDE_DAMAGE_ADD_LVL2            1
 #define ADVANCEDCAV5_HORDE_DAMAGE_ADD_LVL3            12
 #define ADVANCEDCAV5_HORDE_DAMAGE_ADD_LVL4            12
 #define ADVANCEDCAV5_HORDE_DAMAGE_ADD_LVL5            12
