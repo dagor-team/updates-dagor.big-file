@@ -4,4 +4,4 @@ nerfed mirkwood elite damage 250 to 100
 By Ninima 
 Add new voice lines telmiron and sauron
 By Oogglie 
-Exp stats given to horde units reduced by 50% 
+Exp damage stats given to horde units reduced by 50% 
