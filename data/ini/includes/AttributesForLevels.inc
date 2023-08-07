@@ -185,7 +185,7 @@ End
 
 ModifierList RegularImladrisHordeBonusRank2
     Category = LEVEL
-    Modifier = HEALTH REGULAR_HORDE_HP_ADD_LVL2 ImladrisFighterRank2 ImladrisCavalryRank2 ImladrisBannerLeadership 
+    Modifier = HEALTH REGULAR_HORDE_HP_ADD_LVL2 ImladrisFighterRank2 ImladrisBannerLeadership
     Modifier = DAMAGE_ADD REGULAR_HORDE_DAMAGE_ADD_LVL2
     Duration = 0
 End
@@ -1400,7 +1400,7 @@ End
 
 ModifierList AdvancedCavHordeBonusRank2
     Category = LEVEL
-    Modifier = HEALTH ADVANCEDCAV_HORDE_HP_ADD_LVL2
+    Modifier = HEALTH ADVANCEDCAV_HORDE_HP_ADD_LVL2 ImladrisCavalryRank2 ImladrisBannerLeadership
     Modifier = DAMAGE_ADD ADVANCEDCAV_HORDE_DAMAGE_ADD_LVL2
     Duration = 0
 End
@@ -1423,6 +1423,38 @@ ModifierList AdvancedCavHordeBonusRank5
     Category = LEVEL
     Modifier = HEALTH ADVANCEDCAV_HORDE_HP_ADD_LVL5
     Modifier = DAMAGE_ADD ADVANCEDCAV_HORDE_DAMAGE_ADD_LVL5
+    Duration = 0
+End
+
+;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+ModifierList Advanced5CavHordeBonusRank2
+    Category = LEVEL
+    Modifier = HEALTH ADVANCEDCAV5_HORDE_HP_ADD_LVL2
+    Modifier = DAMAGE_ADD ADVANCEDCAV5_HORDE_DAMAGE_ADD_LVL2
+    Duration = 0
+End
+
+ModifierList Advanced5CavHordeBonusRank3
+    Category = LEVEL
+    Modifier = HEALTH ADVANCEDCAV5_HORDE_HP_ADD_LVL3
+    Modifier = DAMAGE_ADD ADVANCEDCAV5_HORDE_DAMAGE_ADD_LVL3
+    Duration = 0
+End
+
+ModifierList Advanced5CavHordeBonusRank4
+    Category = LEVEL
+    Modifier = HEALTH ADVANCEDCAV5_HORDE_HP_ADD_LVL4
+    Modifier = DAMAGE_ADD ADVANCEDCAV5_HORDE_DAMAGE_ADD_LVL4
+    Duration = 0
+End
+
+ModifierList Advanced5CavHordeBonusRank5
+    Category = LEVEL
+    Modifier = HEALTH ADVANCEDCAV5_HORDE_HP_ADD_LVL5
+    Modifier = DAMAGE_ADD ADVANCEDCAV5_HORDE_DAMAGE_ADD_LVL5
     Duration = 0
 End
 
