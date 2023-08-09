@@ -6,3 +6,7 @@ By Ninima
 By Oogglie 
 Builders hero damage armor somewhat reverted to 30% from 1%
 general exp update for some units not getting or giving xp
+balorg stats given from level up fixed
+Goblin DurbagashWarrior price semi reverted from 250 to 170
+
+
