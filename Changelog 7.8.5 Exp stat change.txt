@@ -1,0 +1,8 @@
+Update 7.8.5
+By Gimli:
+
+By Ninima 
+
+By Oogglie 
+Builders hero damage armor somewhat reverted to 30% from 1%
+general exp update for some units not getting or giving xp

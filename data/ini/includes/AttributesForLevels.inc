@@ -1142,56 +1142,56 @@ ModifierList First_Age_LegendaryMontserHordeBonusRank2
     Duration = 0
 End
 
-ModifierList First_Age_LegendaryMontserHordeBonusBonusRank3
+ModifierList First_Age_LegendaryMontserHordeBonusRank3
     Category = LEVEL
     Modifier = HEALTH FIRST_AGE_ELITEINFANTRY_HORDE_HP_ADD_LVL3
     Modifier = DAMAGE_ADD FIRST_AGE_ELITEINFANTRY_HORDE_DAMAGE_ADD_LVL3
     Duration = 0
 End
 
-ModifierList First_Age_LegendaryMontserHordeBonusBonusRank4
+ModifierList First_Age_LegendaryMontserHordeBonusRank4
     Category = LEVEL
     Modifier = HEALTH FIRST_AGE_ELITEINFANTRY_HORDE_HP_ADD_LVL4
     Modifier = DAMAGE_ADD FIRST_AGE_ELITEINFANTRY_HORDE_DAMAGE_ADD_LVL4
     Duration = 0
 End
 
-ModifierList First_Age_LegendaryMontserHordeBonusBonusRank5
+ModifierList First_Age_LegendaryMontserHordeBonusRank5
     Category = LEVEL
     Modifier = HEALTH FIRST_AGE_ELITEINFANTRY_HORDE_HP_ADD_LVL5
     Modifier = DAMAGE_ADD FIRST_AGE_ELITEINFANTRY_HORDE_DAMAGE_ADD_LVL5
     Duration = 0
 End
 
-ModifierList First_Age_LegendaryMontserHordeBonusBonusRank6
+ModifierList First_Age_LegendaryMontserHordeBonusRank6
     Category = LEVEL
     Modifier = HEALTH FIRST_AGE_ELITEINFANTRY_HORDE_HP_ADD_LVL6
     Modifier = DAMAGE_ADD FIRST_AGE_ELITEINFANTRY_HORDE_DAMAGE_ADD_LVL6
     Duration = 0
 End
 
-ModifierList First_Age_LegendaryMontserHordeBonusBonusRank7
+ModifierList First_Age_LegendaryMontserHordeBonusRank7
     Category = LEVEL
     Modifier = HEALTH FIRST_AGE_ELITEINFANTRY_HORDE_HP_ADD_LVL7
     Modifier = DAMAGE_ADD FIRST_AGE_ELITEINFANTRY_HORDE_DAMAGE_ADD_LVL7
     Duration = 0
 End
 
-ModifierList First_Age_LegendaryMontserHordeBonusBonusRank8
+ModifierList First_Age_LegendaryMontserHordeBonusRank8
     Category = LEVEL
     Modifier = HEALTH FIRST_AGE_ELITEINFANTRY_HORDE_HP_ADD_LVL8
     Modifier = DAMAGE_ADD FIRST_AGE_ELITEINFANTRY_HORDE_DAMAGE_ADD_LVL8
     Duration = 0
 End
 
-ModifierList First_Age_LegendaryMontserHordeBonusBonusRank9
+ModifierList First_Age_LegendaryMontserHordeBonusRank9
     Category = LEVEL
     Modifier = HEALTH FIRST_AGE_ELITEINFANTRY_HORDE_HP_ADD_LVL9
     Modifier = DAMAGE_ADD FIRST_AGE_ELITEINFANTRY_HORDE_DAMAGE_ADD_LVL9
     Duration = 0
 End
 
-ModifierList First_Age_LegendaryMontserHordeBonusBonusRank10
+ModifierList First_Age_LegendaryMontserHordeBonusRank10
     Category = LEVEL
     Modifier = HEALTH FIRST_AGE_ELITEINFANTRY_HORDE_HP_ADD_LVL10
     Modifier = DAMAGE_ADD FIRST_AGE_ELITEINFANTRY_HORDE_DAMAGE_ADD_LVL10
