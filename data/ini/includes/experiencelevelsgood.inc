@@ -4443,7 +4443,7 @@ END
 
 
 ExperienceLevel    Good_Advanced5_Cavalry_Level1
-    TargetNames                       =    GOOD_ADVANCED_5_CAV
+    TargetNames                       =    GOOD_REGULAR_CAV_5
     RequiredExperience                =    EXPERIENCE_REQUIRED_ADVANCED_5_CAV_HORDE_1
     ExperienceAward                   =    EXPERIENCE_AWARD_ADVANCED_5_CAV_HORDE_1
     Rank                              =    1
@@ -4461,7 +4461,7 @@ ExperienceLevel    Good_Advanced5_Cavalry_Level1
 END
 
 ExperienceLevel    Good_Advanced5_CavalryLevel2
-    TargetNames                       =    GOOD_ADVANCED_5_CAV
+    TargetNames                       =    GOOD_REGULAR_CAV_5
     RequiredExperience                =    EXPERIENCE_REQUIRED_ADVANCED_5_CAV_HORDE_2
     ExperienceAward                   =    EXPERIENCE_AWARD_ADVANCED_5_CAV_HORDE_2
     Rank                              =    2
@@ -4486,7 +4486,7 @@ ExperienceLevel    Good_Advanced5_CavalryLevel2
 END
 
 ExperienceLevel    Good_Advanced5_CavalryLevel3
-    TargetNames                       =    GOOD_ADVANCED_5_CAV
+    TargetNames                       =    GOOD_REGULAR_CAV_5
     RequiredExperience                =    EXPERIENCE_REQUIRED_ADVANCED_5_CAV_HORDE_3
     ExperienceAward                   =    EXPERIENCE_AWARD_ADVANCED_5_CAV_HORDE_3
     Rank                              =    3
@@ -4511,7 +4511,7 @@ ExperienceLevel    Good_Advanced5_CavalryLevel3
 END
 
 ExperienceLevel    Good_Advanced5_CavalryLevel4
-    TargetNames                       =    GOOD_ADVANCED_5_CAV
+    TargetNames                       =    GOOD_REGULAR_CAV_5
     RequiredExperience                =    EXPERIENCE_REQUIRED_ADVANCED_5_CAV_HORDE_4
     ExperienceAward                   =    EXPERIENCE_AWARD_ADVANCED_5_CAV_HORDE_4
     Rank                              =    4
@@ -4536,7 +4536,7 @@ ExperienceLevel    Good_Advanced5_CavalryLevel4
 END
 
 ExperienceLevel    Good_Advanced5_CavalryLevel5
-    TargetNames                       =    GOOD_ADVANCED_5_CAV
+    TargetNames                       =    GOOD_REGULAR_CAV_5
     RequiredExperience                =    EXPERIENCE_REQUIRED_ADVANCED_5_CAV_HORDE_5
     ExperienceAward                   =    EXPERIENCE_AWARD_ADVANCED_5_CAV_HORDE_5
     Rank                              =    5
