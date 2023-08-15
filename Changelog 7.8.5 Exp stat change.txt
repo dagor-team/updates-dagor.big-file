@@ -1,14 +1,22 @@
 Update 7.8.5
 By Gimli:
+Dwarves:
+-Erebor Catapult cost increase 900->1400
+-Ironhills Catapult cost increase 900->2100
+Arnor
+-Armenelos Oathbreaker (Valar summon) now are resistant to all kinds of damage, and should receieve no damage from AoE.(needs testing)
+Angmar
+-Split damage for Black Guards on foot and cavalry, improved posion damage with gulzar upgrade.
+Imladris
+-Split damage for Wind Riders.
 
 By Ninima 
-Arnor flood change (just look at it)
-Arnor flood and last alliance switched
-
+-Arnor flood Nerf
+-Arnor flood and last alliance switched
 By Oogglie 
-Builders hero damage armor somewhat reverted to 30% from 1%
-general exp update for some units not getting or giving xp
-balorg stats given from leveling up fixed
-Goblin DurbagashWarrior price semi reverted from 250 to 170
+-Builders hero damage armor somewhat reverted to 30% from 1%
+-general exp update for some units not getting or giving xp
+-balorg stats given from leveling up fixed
+-Goblin DurbagashWarrior price semi reverted from 250 to 170
 
 
