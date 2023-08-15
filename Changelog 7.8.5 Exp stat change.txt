@@ -2,6 +2,8 @@ Update 7.8.5
 By Gimli:
 
 By Ninima 
+Arnor flood change (just look at it)
+Arnor flood and last alliance switched
 
 By Oogglie 
 Builders hero damage armor somewhat reverted to 30% from 1%
