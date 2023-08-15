@@ -11,7 +11,7 @@ Imladris
 -Split damage for Wind Riders.
 
 By Ninima 
--Arnor flood Nerf
+-Arnor flood buff
 -Arnor flood and last alliance switched
 By Oogglie 
 -Builders hero damage armor somewhat reverted to 30% from 1%
