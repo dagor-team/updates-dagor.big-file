@@ -1,7 +1,7 @@
 
 
-#define EXPERIENCE_REQUIRED_EXPANDABLE_HORDE_1          1
-#define EXPERIENCE_REQUIRED_EXPANDABLE_HORDE_2         20
+#define EXPERIENCE_REQUIRED_EXPANDABLE_HORDE_1        1
+#define EXPERIENCE_REQUIRED_EXPANDABLE_HORDE_2        20
 #define EXPERIENCE_REQUIRED_EXPANDABLE_HORDE_3        30
 #define EXPERIENCE_REQUIRED_EXPANDABLE_HORDE_4        60
 #define EXPERIENCE_REQUIRED_EXPANDABLE_HORDE_5        110
@@ -15,9 +15,9 @@
 ;------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-#define EXPERIENCE_REQUIRED_CHEAP_HORDE_1          1
-#define EXPERIENCE_REQUIRED_CHEAP_HORDE_2         40
-#define EXPERIENCE_REQUIRED_CHEAP_HORDE_3         85
+#define EXPERIENCE_REQUIRED_CHEAP_HORDE_1        1
+#define EXPERIENCE_REQUIRED_CHEAP_HORDE_2        40
+#define EXPERIENCE_REQUIRED_CHEAP_HORDE_3        85
 #define EXPERIENCE_REQUIRED_CHEAP_HORDE_4        145
 #define EXPERIENCE_REQUIRED_CHEAP_HORDE_5        230
 
@@ -30,8 +30,8 @@
 ;------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-#define EXPERIENCE_REQUIRED_BASIC_HORDE_1          1
-#define EXPERIENCE_REQUIRED_BASIC_HORDE_2         50
+#define EXPERIENCE_REQUIRED_BASIC_HORDE_1        1
+#define EXPERIENCE_REQUIRED_BASIC_HORDE_2        50
 #define EXPERIENCE_REQUIRED_BASIC_HORDE_3        110
 #define EXPERIENCE_REQUIRED_BASIC_HORDE_4        185
 #define EXPERIENCE_REQUIRED_BASIC_HORDE_5        280
@@ -50,8 +50,8 @@
 
 ;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#define EXPERIENCE_REQUIRED_REGULAR_15_HORDE_1          1
-#define EXPERIENCE_REQUIRED_REGULAR_15_HORDE_2         70
+#define EXPERIENCE_REQUIRED_REGULAR_15_HORDE_1        1
+#define EXPERIENCE_REQUIRED_REGULAR_15_HORDE_2        70
 #define EXPERIENCE_REQUIRED_REGULAR_15_HORDE_3        140
 #define EXPERIENCE_REQUIRED_REGULAR_15_HORDE_4        230
 #define EXPERIENCE_REQUIRED_REGULAR_15_HORDE_5        335
@@ -65,8 +65,8 @@
 
 ;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#define EXPERIENCE_REQUIRED_REGULAR_HORDE_1          1
-#define EXPERIENCE_REQUIRED_REGULAR_HORDE_2         70
+#define EXPERIENCE_REQUIRED_REGULAR_HORDE_1        1
+#define EXPERIENCE_REQUIRED_REGULAR_HORDE_2        70
 #define EXPERIENCE_REQUIRED_REGULAR_HORDE_3        140
 #define EXPERIENCE_REQUIRED_REGULAR_HORDE_4        230
 #define EXPERIENCE_REQUIRED_REGULAR_HORDE_5        335
@@ -75,7 +75,7 @@
 #define EXPERIENCE_AWARD_REGULAR_HORDE_2            7
 #define EXPERIENCE_AWARD_REGULAR_HORDE_3            8
 #define EXPERIENCE_AWARD_REGULAR_HORDE_4            9
-#define EXPERIENCE_AWARD_REGULAR_HORDE_5           10
+#define EXPERIENCE_AWARD_REGULAR_HORDE_5            10
 
 
 ;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -95,7 +95,7 @@
 
 ;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#define EXPERIENCE_REQUIRED_ADVANCED_HORDE_1          1
+#define EXPERIENCE_REQUIRED_ADVANCED_HORDE_1        1
 #define EXPERIENCE_REQUIRED_ADVANCED_HORDE_2        130
 #define EXPERIENCE_REQUIRED_ADVANCED_HORDE_3        165
 #define EXPERIENCE_REQUIRED_ADVANCED_HORDE_4        300
@@ -110,7 +110,7 @@
 
 ;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#define EXPERIENCE_REQUIRED_ADVANCED_3_HORDE_1          1
+#define EXPERIENCE_REQUIRED_ADVANCED_3_HORDE_1        1
 #define EXPERIENCE_REQUIRED_ADVANCED_3_HORDE_2        130
 #define EXPERIENCE_REQUIRED_ADVANCED_3_HORDE_3        165
 #define EXPERIENCE_REQUIRED_ADVANCED_3_HORDE_4        300
@@ -125,7 +125,7 @@
 
 ;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#define EXPERIENCE_REQUIRED_ADVANCED_5_HORDE_1          1
+#define EXPERIENCE_REQUIRED_ADVANCED_5_HORDE_1       1
 #define EXPERIENCE_REQUIRED_ADVANCED_5_HORDE_2       7130
 #define EXPERIENCE_REQUIRED_ADVANCED_5_HORDE_3       7165
 #define EXPERIENCE_REQUIRED_ADVANCED_5_HORDE_4       7300
@@ -140,7 +140,7 @@
 
 ;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#define EXPERIENCE_REQUIRED_ADVANCED_8_HORDE_1          1
+#define EXPERIENCE_REQUIRED_ADVANCED_8_HORDE_1        1
 #define EXPERIENCE_REQUIRED_ADVANCED_8_HORDE_2        130
 #define EXPERIENCE_REQUIRED_ADVANCED_8_HORDE_3        165
 #define EXPERIENCE_REQUIRED_ADVANCED_8_HORDE_4        300
@@ -154,7 +154,7 @@
 
 ;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#define EXPERIENCE_REQUIRED_ELITE_HORDE_1          1
+#define EXPERIENCE_REQUIRED_ELITE_HORDE_1        1
 #define EXPERIENCE_REQUIRED_ELITE_HORDE_2        100
 #define EXPERIENCE_REQUIRED_ELITE_HORDE_3        225
 #define EXPERIENCE_REQUIRED_ELITE_HORDE_4        375
@@ -181,7 +181,7 @@
 
 ;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#define EXPERIENCE_REQUIRED_ELITE_10_HORDE_1          1
+#define EXPERIENCE_REQUIRED_ELITE_10_HORDE_1        1
 #define EXPERIENCE_REQUIRED_ELITE_10_HORDE_2        100
 #define EXPERIENCE_REQUIRED_ELITE_10_HORDE_3        225
 #define EXPERIENCE_REQUIRED_ELITE_10_HORDE_4        375
@@ -208,7 +208,7 @@
 
 ;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#define EXPERIENCE_REQUIRED_VETERANS_HORDE_1          1
+#define EXPERIENCE_REQUIRED_VETERANS_HORDE_1        1
 #define EXPERIENCE_REQUIRED_VETERANS_HORDE_2        100
 #define EXPERIENCE_REQUIRED_VETERANS_HORDE_3        215
 #define EXPERIENCE_REQUIRED_VETERANS_HORDE_4        330
@@ -253,7 +253,7 @@
 #define EXPERIENCE_AWARD_VETERANS_HORDE_20          96
 
 ;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-#define EXPERIENCE_REQUIRED_ELITE_TRIO_HORDE_1          1
+#define EXPERIENCE_REQUIRED_ELITE_TRIO_HORDE_1        1
 #define EXPERIENCE_REQUIRED_ELITE_TRIO_HORDE_2        100
 #define EXPERIENCE_REQUIRED_ELITE_TRIO_HORDE_3        225
 #define EXPERIENCE_REQUIRED_ELITE_TRIO_HORDE_4        375
@@ -277,7 +277,7 @@
 
 ;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#define EXPERIENCE_REQUIRED_CHEAP_CHAMPION_HORDE_1          1
+#define EXPERIENCE_REQUIRED_CHEAP_CHAMPION_HORDE_1        1
 #define EXPERIENCE_REQUIRED_CHEAP_CHAMPION_HORDE_2        150
 #define EXPERIENCE_REQUIRED_CHEAP_CHAMPION_HORDE_3        200
 #define EXPERIENCE_REQUIRED_CHEAP_CHAMPION_HORDE_4        250
@@ -301,7 +301,7 @@
 
 ;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#define EXPERIENCE_REQUIRED_REGULAR_CHAMPION_HORDE_1          1
+#define EXPERIENCE_REQUIRED_REGULAR_CHAMPION_HORDE_1        1
 #define EXPERIENCE_REQUIRED_REGULAR_CHAMPION_HORDE_2        200
 #define EXPERIENCE_REQUIRED_REGULAR_CHAMPION_HORDE_3        300
 #define EXPERIENCE_REQUIRED_REGULAR_CHAMPION_HORDE_4        400
@@ -326,7 +326,7 @@
 ;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-#define EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_1          1
+#define EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_1        1
 #define EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_2        150
 #define EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_3        350
 #define EXPERIENCE_REQUIRED_FIRST_AGE_REGULAR_HORDE_4        470
@@ -458,8 +458,8 @@
 
 ;------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#define EXPERIENCE_REQUIRED_BASIC_CAV_HORDE_1          1
-#define EXPERIENCE_REQUIRED_BASIC_CAV_HORDE_2         75
+#define EXPERIENCE_REQUIRED_BASIC_CAV_HORDE_1        1
+#define EXPERIENCE_REQUIRED_BASIC_CAV_HORDE_2        75
 #define EXPERIENCE_REQUIRED_BASIC_CAV_HORDE_3        165
 #define EXPERIENCE_REQUIRED_BASIC_CAV_HORDE_4        270
 #define EXPERIENCE_REQUIRED_BASIC_CAV_HORDE_5        390
@@ -473,7 +473,7 @@
 
 ;------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#define EXPERIENCE_REQUIRED_REGULAR_CAV_HORDE_1          1
+#define EXPERIENCE_REQUIRED_REGULAR_CAV_HORDE_1        1
 #define EXPERIENCE_REQUIRED_REGULAR_CAV_HORDE_2        100
 #define EXPERIENCE_REQUIRED_REGULAR_CAV_HORDE_3        200
 #define EXPERIENCE_REQUIRED_REGULAR_CAV_HORDE_4        300
@@ -489,7 +489,7 @@
 ;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-#define EXPERIENCE_REQUIRED_ADVANCED_CAV_HORDE_1          1
+#define EXPERIENCE_REQUIRED_ADVANCED_CAV_HORDE_1        1
 #define EXPERIENCE_REQUIRED_ADVANCED_CAV_HORDE_2        150
 #define EXPERIENCE_REQUIRED_ADVANCED_CAV_HORDE_3        230
 #define EXPERIENCE_REQUIRED_ADVANCED_CAV_HORDE_4        350
@@ -504,7 +504,7 @@
 ;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-#define EXPERIENCE_REQUIRED_ADVANCED_5_CAV_HORDE_1          1
+#define EXPERIENCE_REQUIRED_ADVANCED_5_CAV_HORDE_1        1
 #define EXPERIENCE_REQUIRED_ADVANCED_5_CAV_HORDE_2        150
 #define EXPERIENCE_REQUIRED_ADVANCED_5_CAV_HORDE_3        230
 #define EXPERIENCE_REQUIRED_ADVANCED_5_CAV_HORDE_4        350
@@ -520,7 +520,7 @@
 
 
 
-#define EXPERIENCE_REQUIRED_ELITE_CAVALRY_HORDE_1          1
+#define EXPERIENCE_REQUIRED_ELITE_CAVALRY_HORDE_1        1
 #define EXPERIENCE_REQUIRED_ELITE_CAVALRY_HORDE_2        120
 #define EXPERIENCE_REQUIRED_ELITE_CAVALRY_HORDE_3        250
 #define EXPERIENCE_REQUIRED_ELITE_CAVALRY_HORDE_4        400
@@ -546,8 +546,8 @@
 ;------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-#define EXPERIENCE_REQUIRED_CHEAP_BEASTS_HORDE_1          1
-#define EXPERIENCE_REQUIRED_CHEAP_BEASTS_HORDE_2         50
+#define EXPERIENCE_REQUIRED_CHEAP_BEASTS_HORDE_1        1
+#define EXPERIENCE_REQUIRED_CHEAP_BEASTS_HORDE_2        50
 #define EXPERIENCE_REQUIRED_CHEAP_BEASTS_HORDE_3        110
 #define EXPERIENCE_REQUIRED_CHEAP_BEASTS_HORDE_4        170
 #define EXPERIENCE_REQUIRED_CHEAP_BEASTS_HORDE_5        280
@@ -560,8 +560,8 @@
 
 ;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#define EXPERIENCE_REQUIRED_BASIC_BEASTS_HORDE_1          1
-#define EXPERIENCE_REQUIRED_BASIC_BEASTS_HORDE_2         75
+#define EXPERIENCE_REQUIRED_BASIC_BEASTS_HORDE_1        1
+#define EXPERIENCE_REQUIRED_BASIC_BEASTS_HORDE_2        75
 #define EXPERIENCE_REQUIRED_BASIC_BEASTS_HORDE_3        165
 #define EXPERIENCE_REQUIRED_BASIC_BEASTS_HORDE_4        250
 #define EXPERIENCE_REQUIRED_BASIC_BEASTS_HORDE_5        400
@@ -575,8 +575,8 @@
 ;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-#define EXPERIENCE_REQUIRED_CHEAP_MONSTER_HORDE_1          1
-#define EXPERIENCE_REQUIRED_CHEAP_MONSTER_HORDE_2         50
+#define EXPERIENCE_REQUIRED_CHEAP_MONSTER_HORDE_1        1
+#define EXPERIENCE_REQUIRED_CHEAP_MONSTER_HORDE_2        50
 #define EXPERIENCE_REQUIRED_CHEAP_MONSTER_HORDE_3        110
 #define EXPERIENCE_REQUIRED_CHEAP_MONSTER_HORDE_4        170
 #define EXPERIENCE_REQUIRED_CHEAP_MONSTER_HORDE_5        280
@@ -589,8 +589,8 @@
 
 ;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#define EXPERIENCE_REQUIRED_BASIC_MONSTER_HORDE_1          1
-#define EXPERIENCE_REQUIRED_BASIC_MONSTER_HORDE_2         75
+#define EXPERIENCE_REQUIRED_BASIC_MONSTER_HORDE_1        1
+#define EXPERIENCE_REQUIRED_BASIC_MONSTER_HORDE_2        75
 #define EXPERIENCE_REQUIRED_BASIC_MONSTER_HORDE_3        165
 #define EXPERIENCE_REQUIRED_BASIC_MONSTER_HORDE_4        250
 #define EXPERIENCE_REQUIRED_BASIC_MONSTER_HORDE_5        400
@@ -603,7 +603,7 @@
 
 ;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#define EXPERIENCE_REQUIRED_REGULAR_MONSTER_HORDE_1         1
+#define EXPERIENCE_REQUIRED_REGULAR_MONSTER_HORDE_1        1
 #define EXPERIENCE_REQUIRED_REGULAR_MONSTER_HORDE_2        150
 #define EXPERIENCE_REQUIRED_REGULAR_MONSTER_HORDE_3        320
 #define EXPERIENCE_REQUIRED_REGULAR_MONSTER_HORDE_4        400
@@ -617,7 +617,7 @@
 
 ;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#define EXPERIENCE_REQUIRED_ADVANCED_MONSTER_HORDE_1         1
+#define EXPERIENCE_REQUIRED_ADVANCED_MONSTER_HORDE_1        1
 #define EXPERIENCE_REQUIRED_ADVANCED_MONSTER_HORDE_2        200
 #define EXPERIENCE_REQUIRED_ADVANCED_MONSTER_HORDE_3        400
 #define EXPERIENCE_REQUIRED_ADVANCED_MONSTER_HORDE_4        600
@@ -632,7 +632,7 @@
 ;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-#define EXPERIENCE_REQUIRED_ELITE_MONSTER_HORDE_1         1
+#define EXPERIENCE_REQUIRED_ELITE_MONSTER_HORDE_1        1
 #define EXPERIENCE_REQUIRED_ELITE_MONSTER_HORDE_2        350
 #define EXPERIENCE_REQUIRED_ELITE_MONSTER_HORDE_3        550
 #define EXPERIENCE_REQUIRED_ELITE_MONSTER_HORDE_4        800
