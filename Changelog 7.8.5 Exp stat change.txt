@@ -1,4 +1,4 @@
-Update 7.8.5
+Update 7.8.6
 By Gimli:
 General:
 -Trol Crush weapon nerfed, they were doing 3 times their weapon damage trampling. they will still trample and resist pikes, but they will no longer kill so many units just by trampling them.
@@ -20,12 +20,12 @@ By Ninima
 -Arwen horse locked behind stables
 -Rohirrim armor fix
 -Some knock backs to heroes were removed (Black guard, Witchking)
-- Fixed bugs regarding cav armor
-- Gil Galad and exthelion level up faster
-- Arwen gives less exp
+-Fixed bugs regarding cav armor
+-Gil Galad and exthelion level up faster
+-Arwen gives less exp
 -Scout heroes need longer to reach level 3
 -Vardamir voice fix
-
+-Rohan spearthrowers bug fixed and buffed
 
 By Oogglie 
 -general exp update for some units not getting or giving xp
