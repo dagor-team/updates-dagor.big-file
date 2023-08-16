@@ -24,6 +24,7 @@ By Ninima
 - Gil Galad and exthelion level up faster
 - Arwen gives less exp
 -Scout heroes need longer to reach level 3
+-Vardamir voice fix
 
 
 By Oogglie 
