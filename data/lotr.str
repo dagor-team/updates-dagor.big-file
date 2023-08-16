@@ -335,7 +335,7 @@ CONTROLBAR:FloodOarni
 END
 
 CONTROLBAR:TooltipFloodOarni
-"As a spirit of the sea in the service of Ulmo, Ossë guarded the waters around Middle-earth. \n Ossë is sent by the Orni (spirits of the sea) \n to help the Men of the West. \n Left-click icon then left-click on target area"
+"As a spirit of the sea in the service of Ulmo, Ossë guarded the waters around Middle-earth. \n Ossë sends the Oarni to help the Men of the West. Heroes hit by the spirits suffer major debuffs while units suffer damage and will get knocked down \n Left-click icon then left-click on target area"
 END
 
 
