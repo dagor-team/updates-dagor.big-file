@@ -24,6 +24,7 @@ By Ninima
 - Gil Galad and exthelion level up faster
 - Arwen gives less exp
 -Scout heroes need longer to reach level 3
+-Vardamir voice fix
 
 
 By Oogglie 
@@ -31,5 +32,9 @@ By Oogglie
 -general exp update for some units not getting or giving xp
 -balorg stats given from leveling up fixed
 -Goblin DurbagashWarrior price semi reverted from 250 to 170
+
+By Gorgo
+-Cirdan lvl 7 gets an armor upgrade instead of ships
+-castamir lvl 3 oil barrel toss instead of ships
 
 
