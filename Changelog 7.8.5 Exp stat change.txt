@@ -21,4 +21,8 @@ By Oogglie
 -balorg stats given from leveling up fixed
 -Goblin DurbagashWarrior price semi reverted from 250 to 170
 
+By Gorgo
+-Cirdan lvl 7 gets an armor upgrade instead of ships
+-castamir lvl 3 oil barrel toss instead of ships
+
 
