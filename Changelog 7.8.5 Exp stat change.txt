@@ -13,9 +13,18 @@ Imladris
 -Split damage for Wind Riders.
 
 By Ninima 
-Arnor flood change (just look at it)
-Arnor flood and last alliance switched
-Wrath of Minas Morgul damage nerfed by 30%
+-Arnor flood change (just look at it)
+-Arnor flood and last alliance switched
+-Wrath of Minas Morgul damage nerfed by 30%
+-Gondor flood was buffed
+-Arwen horse locked behind stables
+-Rohirrim armor fix
+-Some knock backs to heroes were removed (Black guard, Witchking)
+- Fixed bugs regarding cav armor
+- Gil Galad and exthelion level up faster
+- Arwen gives less exp
+-Scout heroes need longer to reach level 3
+
 
 By Oogglie 
 -Builders hero damage armor somewhat reverted to 30% from 1%
