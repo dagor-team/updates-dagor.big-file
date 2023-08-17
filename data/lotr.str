@@ -21186,7 +21186,7 @@ CONTROLBAR:TooltipBuildHobbitBarracksLevel3Upgrade
 END
 
 CONTROLBAR:HobbitRiderHorde
-"Requires: Hobbit Barracks Level 2 \n Strong vs: Archers"
+"Unit Type: Basic Cavalry \n Strong vs: Archers"
 END
 
 OBJECT:HobbitBarracks
@@ -22228,7 +22228,7 @@ OBJECT:LindonHeavenWarrior
 END
 
 CONTROLBAR:ConstructLindonHeavenLancerHorde
-"&Lancers of Gray Havens"
+"&Lancers of Mithlond"
 END
 
 CONTROLBAR:ToolTipBuildLindonLanzentragerHorde
@@ -22236,15 +22236,15 @@ CONTROLBAR:ToolTipBuildLindonLanzentragerHorde
 END
 
 OBJECT:LindonHeavenLancer
-"Lancer of Gray Havens"
+"Lancer of Mithlond"
 END
 
 OBJECT:LindonHeavenLancerHorde
-"Lancers of Gray Havens"
+"Lancers of Mithlond"
 END
 
 CONTROLBAR:LW_Unit_LindonHeavenLancerHorde
-"Lancer Battalion of Gray Havens"
+"Lancer Battalion of Mithlond"
 END
 
 CONTROLBAR:GoldbeereHauchdesLebens
@@ -22256,7 +22256,7 @@ CONTROLBAR:ConstructLindonBarracks
 END
 
 CONTROLBAR:ToolTipLindonBarracks
-"Recruits Lindon pikemen and Wardens"
+"Requires: Cirdan is on the battlefield \n Recruits units from Lindon and the Shire"
 END
 
 CONTROLBAR:PurchaseUpgradeGoldspitzenArrows

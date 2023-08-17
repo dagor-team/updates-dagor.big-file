@@ -13,19 +13,24 @@ Imladris
 -Split damage for Wind Riders.
 
 By Ninima 
--Arnor flood change (just look at it)
--Arnor flood and last alliance switched
--Wrath of Minas Morgul damage nerfed by 30%
--Gondor flood was buffed
--Arwen horse locked behind stables
--Rohirrim armor fix
--Some knock backs to heroes were removed (Black guard, Witchking)
--Fixed bugs regarding cav armor
--Gil Galad and exthelion level up faster
--Arwen gives less exp
--Scout heroes need longer to reach level 3
--Vardamir voice fix
--Rohan spearthrowers bug fixed and buffed
+-Arnor:
+ -Lindon units  can get banners now
+ -Lindon Lanncer build cost: 500 -> 700
+ -Units of the elven barracks and donkey riders are now affected by the discount of the library
+ -Elven Barracks are locked behind Cirdan
+ -Palantir guardians are locked behind blades and armor
+
+
+Isengard:
+ -Menslayers are locked behind armor and blades
+
+
+Bugfixes:
+-Grand Harvest no longer needs to be researched again after the stoneworker or library was destroyed
+-Visual Fix for Cirdans new armor upgrade
+-Switched Palantir pictures for Cirdans leadership and fear
+-Erestors upgrade purchases can now be cancelled as any other purchase (Right click on the icon cancels the purchase)
+
 
 By Oogglie 
 -general exp update for some units not getting or giving xp
@@ -35,5 +40,6 @@ By Oogglie
 By Gorgo
 -Cirdan lvl 7 gets an armor upgrade instead of ships
 -castamir lvl 3 oil barrel toss instead of ships
+
 
 
