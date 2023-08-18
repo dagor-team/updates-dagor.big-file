@@ -19,10 +19,15 @@ By Ninima
  -Units of the elven barracks and donkey riders are now affected by the discount of the library
  -Elven Barracks are locked behind Cirdan
  -Palantir guardians are locked behind blades and armor
+ -Aranarth deadly sniper and Arrow wind deal less damage to heroes
 
 
 Isengard:
  -Menslayers are locked behind armor and blades
+
+
+Angmar:
+ -Hilltrolls deal 40% less damage
 
 
 Bugfixes:
