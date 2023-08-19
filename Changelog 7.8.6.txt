@@ -16,7 +16,7 @@ By Ninima
 -Arnor:
  -Lindon units  can get banners now
  -Lindon Lanncer build cost: 500 -> 700
- -Units of the elven barracks and donkey riders are now affected by the discount of the library
+ -Units of the elven barracks, donkey riders and Fa units are now affected by the discount of the library
  -Elven Barracks are locked behind Cirdan
  -Palantir guardians are locked behind blades and armor
  -Aranarth deadly sniper and Arrow wind deal less damage to heroes
