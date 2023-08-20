@@ -44766,6 +44766,10 @@ GUI:UPGRADE_DISCOUNT
 "Upgrade Bonus: -%d%%"
 END
 
+GUI:BANNER_DISCOUNT
+"Banner Carrier Bonus: -%d%%"
+END
+
 GUI:STRUCTURE_WALL_DISCOUNT
 "Building Bonus: -%d%%"
 END
