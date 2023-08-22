@@ -1723,7 +1723,6 @@ CommandSet  MordorHaradrimSchwerterCommandSet
     3       = Command_PurchaseUpgradeMordorHaradBasicTraining
     4       = Command_PurchaseUpgradeMordorHaradArmor
     5       = Command_PurchaseUpgradeMordorHaradBlades
-    6       = Command_PurchaseUpgradeEvilmenShield
     12      = Command_CaptureBuilding
     13      = Command_AttackMove
     14      = Command_EvilStop
@@ -1781,33 +1780,32 @@ CommandSet HaradPorterSummonedCommandSet
     8 = Command_ConstructMordorTavern
 End
 
-
 CommandSet HaradBarracksCommandSet
-        1    = Command_ConstructEasterlingHorde
         2    = Command_ConstructEvilmenHaradSwordHorde
         3    = Command_ConstructMordorHaradrimLancerModHordeBarracks
         4    = Command_ConstructHaradHaradrimArcherHordeBarracks
-        5    = Command_ConstructMordorRhunSchwertHorde
-        6    = Command_UpgradeHaradBarracksLevel2
-        7    = Command_Sell
+        5    = Command_ConstructEvilmenKhandSoldierHorde
+        7    = Command_ConstructHaradrimSpearmanHordeMod
+        8    = Command_UpgradeHaradBarracksLevel2
+        9    = Command_Sell
 End
 
 CommandSet HaradBarracksCommandSetLevel2
-        1    = Command_ConstructEasterlingHorde
         2    = Command_ConstructEvilmenHaradSwordHorde
         3    = Command_ConstructMordorHaradrimLancerModHordeBarracks
         4    = Command_ConstructHaradHaradrimArcherHordeBarracks
-        5    = Command_ConstructMordorRhunSchwertHorde
+        5    = Command_ConstructEvilmenKhandSoldierHorde
+        7    = Command_ConstructHaradrimSpearmanHordeMod
         6    = Command_UpgradeHaradBarracksLevel3
         7    = Command_Sell
 End
 
 CommandSet HaradBarracksCommandSetLevel3
-        1    = Command_ConstructEasterlingHorde
         2    = Command_ConstructEvilmenHaradSwordHorde
         3    = Command_ConstructMordorHaradrimLancerModHordeBarracks
         4    = Command_ConstructHaradHaradrimArcherHordeBarracks
-        5    = Command_ConstructMordorRhunSchwertHorde
+        5    = Command_ConstructEvilmenKhandSoldierHorde
+        7    = Command_ConstructHaradrimSpearmanHordeMod
         6    = Command_Sell
 End
 

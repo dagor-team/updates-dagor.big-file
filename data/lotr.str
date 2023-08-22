@@ -109804,19 +109804,19 @@ CONTROLBAR:ToolTipBuildHaradMumakilMahud
 END
 
 OBJECT:UmbarCorsairFortress
-"Umbar Fortress of Corsairs"
+"Corsair Stronghold"
 END
 
 OBJECT:UmbarCorsairFortressDescription
-"Recruit heroes "
+"Recruit Pirates and fortify a position "
 END
 
 CONTROLBAR:ConstructUmbarCorsairFortress
-"U&mbar Fortress"
+"U&mbar Stronghold"
 END
 
 CONTROLBAR:ToolTipConstructUmbarCorsairFortress
-"Recruit heroes and purchase upgrades "
+"Fortify your position and train pirates "
 END
 
 CONTROLBAR:PurchaseUpgradeUmbarCorsairGarissonDefences
@@ -109824,7 +109824,7 @@ CONTROLBAR:PurchaseUpgradeUmbarCorsairGarissonDefences
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeUmbarCorsairGarissonDefences
-"Summon Corsair archers to guard the Fort"
+" Position Corsair archers to guard the Fort"
 END
 
 CONTROLBAR:PurchaseUpgradeHaradFortressBannerTotem 
@@ -109852,7 +109852,7 @@ CONTROLBAR:ToolTipPurchaseUpgradeHaradFortressBlastingMunitions
 END
 
 CONTROLBAR:PurchaseUpgradeHaradFortressBrickBurner
-"Brick Burner "
+"Burned bricks"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeHaradBrickBurner
@@ -109872,7 +109872,7 @@ CONTROLBAR:ConstructUmbarCorsairWallBallistaExpansion
 END
 
 CONTROLBAR:ToolTipConstructUmbarCorsairWallBallistaExpansion
-"Defensive ballista Tower that fires at enemies. \N Strong weapon but of low accurancy "
+"Defensive ballista Tower that fires at enemies. \N Strong weapon but of low accuracy "
 END
 
 OBJECT:UmbarCorsairWallBallistaExpansion
@@ -109908,7 +109908,7 @@ CONTROLBAR:UmbarFortLighthouseexpanStartFire
 END
 
 CONTROLBAR:ToolTipUmbarFortLighthouseexpanStartFire
-"Purchase the necessary woods needed to light the fires in the Lighthouse. \n Increases detection of units by 40 % and vision by 40 % . \n You can purchase it again, when fire is put out"
+"Purchase the necessary wood needed to light the fires in the Lighthouse. \n Increases detection of units and vision by 40 % . \n You can purchase it again, once the fire runs out"
 END
 
 OBJECT:UmbarTavern  
