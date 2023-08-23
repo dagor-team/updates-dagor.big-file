@@ -2489,7 +2489,7 @@ CONTROLBAR:SpecialAbilityBeutekarrendesGroﬂorks
 END
 
 CONTROLBAR:ToolTipSpecialAbilityBeutekarrendesGroﬂorks
-"Requires: the Great Goblin to be crowned as Lord of the Misty Mountains \n The Great Goblin calls for a cart into which his minions can load their loot. \n Left-click on the desired target area"
+"Requires: Level 4 \n The Great Goblin calls for a cart into which his minions can load their loot. \n Left-click on the desired target area"
 END
 
 CONTROLBAR:SpecialAbilityFleischbeladen
@@ -9448,11 +9448,63 @@ CONTROLBAR:HerrderPlunderhorden
 END
 
 CONTROLBAR:ToolTipHerrderPlunderhorden
-"The Great Goblin commands the hordes of Goblin-town \n Every time he uses an ability he receives experience points \n As long as the Great Goblin is on the battlefield all the Goblin Hordes gain 5% damage and gain experience faster \n Passive ability"
+"The Great Goblin commands the hordes of Goblin-town \n Great Goblin gains experience points upon casting of some abilities \n As long as the Great Goblin is on the battlefield all the Goblin Hordes gain 10% damage and gain experience faster \n Passive ability"
 END
 
 CONTROLBAR:ToolTipHerrderPlunderhorden_Befehle
-"The Great Goblin commands the hordes of Goblin-town \n Every time he uses an ability he receives experience points \n As long as the Great Goblin is on the battlefield all the Goblin Hordes gain 15% damage, 25% armor and gain experience faster \n Passive ability"
+"The Great Goblin commands the hordes of Goblin-town \n Great Goblin gains experience points upon casting of some abilities \n As long as the Great Goblin is on the battlefield all the Goblin Hordes gain 15% damage, 25% armor and are faster \n Passive ability"
+END
+
+CONTROLBAR:GreatGoblinGatherGoblins
+"Gather goblins!"
+END
+
+CONTROLBAR:ToolTipGreatGoblinGatherGoblins
+"Requires: Level 3 \n Great Goblin summons a raiding party of goblins. \n Left-click on the desired target area"
+END
+
+CONTROLBAR:GreatGoblinTunnelgraberdesGroﬂorks
+"Tunnel diggers of the Great Goblin"
+END
+
+CONTROLBAR:ToolTipGreatGoblinTunnelgraberdesGroﬂorks
+"Requires: Level 5 \n Great Goblin summons a battalion of tunnel diggers. \n Left-click on the desired target area"
+END
+
+CONTROLBAR:GreatGoblinRallyGoblinTown
+"Support from a chief"
+END
+
+CONTROLBAR:ToolTipGreatGoblinRallyGoblinTown
+"Requires: Level 6 \n Great Goblin summons 3 battalions of goblin archers with poison arrows. \n Left-click on the desired goblin cave"
+END
+
+CONTROLBAR:ToolTipGreatGoblinHuntingParty
+"Hunting Party"
+END
+
+CONTROLBAR:ToolTipGreatGoblinHuntingParty
+"Requires: Level 7 \n Great Goblin summons a battalion of goblin riders. \n Once crowned summons 2 captains of the Great Goblin \n Left-click on the desired target area"
+END
+
+CONTROLBAR:BeastsOfTheGreatGoblin
+"Beasts of the Great Goblin"
+END
+
+CONTROLBAR:ToolTipBeastsOfTheGreatGoblin
+"Requires: Level 9 \n Great Goblin summons 3 giant bats and 3 warg packs. \n Left-click on the desired tunnel"
+END
+
+CONTROLBAR:GreatGoblinSongCrowned
+"Terrible song"
+END
+
+CONTROLBAR:ToolTipGreatGoblinSong
+"Requires: Level 10 \n Enemy units in the area are stuned and enemy heroes receive -10% armor. \n The Great Goblin cant move while singing. \n The song lasts 10 seconds."
+END
+
+CONTROLBAR:ToolTipGreatGoblinSongCrowned
+"Requires: Level 10 \n Enemy units in the area are stuned and enemy heroes receive -20% armor. \n The Great Goblin can move while singing. \n The song lasts 10 seconds."
 END
 
 CONTROLBAR:SpecialAbilityPlundertdieWaffenkammern
