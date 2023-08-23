@@ -16,13 +16,21 @@ By Ninima
 -Arnor:
  -Lindon units  can get banners now
  -Lindon Lanncer build cost: 500 -> 700
- -Units of the elven barracks and donkey riders are now affected by the discount of the library
+ -Units of the elven barracks, donkey riders and Fa units are now affected by the discount of the library
  -Elven Barracks are locked behind Cirdan
  -Palantir guardians are locked behind blades and armor
+ -Aranarth deadly sniper and Arrow wind deal less damage to heroes
+ -Arnor Statues now give discount to Banner carriers
 
 
 Isengard:
  -Menslayers are locked behind armor and blades
+
+
+Angmar:
+ -Hilltrolls deal 40% less damage
+ -Snow trolls now have cavalry armor
+ 
 
 
 Bugfixes:
@@ -30,7 +38,7 @@ Bugfixes:
 -Visual Fix for Cirdans new armor upgrade
 -Switched Palantir pictures for Cirdans leadership and fear
 -Erestors upgrade purchases can now be cancelled as any other purchase (Right click on the icon cancels the purchase)
-
+-ö decreased volume of Tar Mairon vc lines
 
 By Oogglie 
 -general exp update for some units not getting or giving xp
