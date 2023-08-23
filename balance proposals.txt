@@ -1,10 +1,14 @@
 balance
-
+	mini fortress buildings all get +1,5k hp
 DONE
 
 
+<<<<<<< Updated upstream
 
 YET TO DO ( ooglie,gorgo stuffs)
+=======
+YET TO DO
+>>>>>>> Stashed changes
 	gondor
 		4.tower guards formation armor nerf 
 	goblins
@@ -13,10 +17,7 @@ YET TO DO ( ooglie,gorgo stuffs)
 		2.balrogs
 			-capped to 3
 			-take revenge dmg from pikes
-		3.narzug 
-		4.durgnabash swordsmen price ?
 		5.yazneg and fimbul recruitment fix - nico pls
-		6.untaimed allegiance switched with drums in the deep in the power tree
 		7.gobling warg riders ability fix
 		8.Great goblin´s rework
 	dwarves
@@ -38,6 +39,10 @@ YET TO DO ( ooglie,gorgo stuffs)
 		5.all imla cav trample increase
 		6.cav banners speed decrease
 	mordor
+		rhun halberds
+			-cost 60 cp
+		corsairs of umbar
+			-raid ability fix
 		4.sauron
 			-bat form 
 				-hit box increase
