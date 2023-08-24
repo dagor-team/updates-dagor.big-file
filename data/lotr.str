@@ -9479,7 +9479,7 @@ CONTROLBAR:ToolTipGreatGoblinRallyGoblinTown
 "Requires: Level 6 \n Great Goblin summons 3 battalions of goblin archers with poison arrows. \n Left-click on the desired goblin cave"
 END
 
-CONTROLBAR:ToolTipGreatGoblinHuntingParty
+CONTROLBAR:GreatGoblinHuntingParty
 "Hunting Party"
 END
 
@@ -9495,7 +9495,7 @@ CONTROLBAR:ToolTipBeastsOfTheGreatGoblin
 "Requires: Level 9 \n Great Goblin summons 3 giant bats and 3 warg packs. \n Left-click on the desired tunnel"
 END
 
-CONTROLBAR:GreatGoblinSongCrowned
+CONTROLBAR:GreatGoblinSong
 "Terrible song"
 END
 
