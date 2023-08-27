@@ -1,0 +1,4 @@
+By gimli:
+-Spider Rider nerfed damage with bows by 30% unupgraded and 40% upgraded.
+-Broodmother dmg vs heroes massively reduced, damage split, now they are properly buffed by Gorkill coronation.
+-Rohan Horse archer upgrade fire arrow dmg fix, they were not recieving the proper upgraded piercing damage every other archer in the game gets. 
