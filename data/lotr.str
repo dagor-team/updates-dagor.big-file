@@ -2481,7 +2481,7 @@ CONTROLBAR:KriegshornAngmars
 END
 
 CONTROLBAR:TooltipKriegshornAngmars
-"Targeted allies do 50% increased damage \n Left-click on icon then left-click on target units"
+"Targeted allies gain +50% damage and +50% armor and 20% speed  \n Left-click on icon then left-click on target units"
 END
 
 CONTROLBAR:SpecialAbilityBeutekarrendesGroﬂorks
@@ -41669,7 +41669,7 @@ CONTROLBAR:WarChant
 END
 
 CONTROLBAR:ToolTipWarChant
-"Targeted allies gain +50% damage and +50% armor \n Left click icon then left click on targeted units \n Does not stack"
+"Targeted allies gain +50% damage and +50% armor and 20% speed \n Left click icon then left click on targeted units \n Does not stack"
 END
 
 CONTROLBAR:TooltipPalantirVision
@@ -42001,7 +42001,7 @@ CONTROLBAR:RallyingCall
 END
 
 CONTROLBAR:TooltipRallyingCall
-"Targeted allies gain +50% damage and +50% armor \n Left click icon then left click on target units \n Does not stack"
+"Targeted allies gain +50% damage and +50% armor and 20% speed \n Left click icon then left click on target units \n Does not stack"
 END
 
 CONTROLBAR:LoneTower
