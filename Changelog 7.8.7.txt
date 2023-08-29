@@ -5,8 +5,11 @@ General changes:
 Goblins
 -Spider Rider nerfed damage with bows by 30% unupgraded and 40% upgraded.
 -Broodmother dmg vs heroes massively reduced, damage split, now they are properly buffed by Gorkill coronation.
+-All fire breathing dragons removed friendly fire (many already were like this, only 3 missing), Most fire attacks now have split damage beyond fire and magic to help them be usefull vs targets with Fire and Magic Resist.
 Rohan
--Rohan Horse archer upgrade fire arrow dmg fix, they were not recieving the proper upgraded piercing damage every other archer in the game gets. 
+-Rohan Horse archer upgrade fire arrow dmg fix, they were not recieving the proper upgraded piercing damage every other archer in the game gets.
+Imladris:
+-Fixed a bug where Pikemen and Swordsmen werent getting properly upgraded weapons after forged blades.(they dealt the same or even less damage).
 By Ninima 
 -Arnor:
  -Lindon units  can get banners now
