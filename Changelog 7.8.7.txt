@@ -37,5 +37,14 @@ By Oogglie
 -Arwen spell revert to 25% armor and cooldown to near by heros.
 
 By Gorgo
--Cirdan lvl 7 gets an armor upgrade instead of ships
--castamir lvl 3 oil barrel toss instead of ships
+-Great Goblin remake
+-Legolas revive price fix
+-Gundabad basic units each +2 units in a battalion, better armor
+-Gundabad swordsmen +20 dmg per unit 
+-Smaug recruit price lowered to 3K
+-Arkenstone price lowered to 1K
+-goblin archers range slightly increased
+-Increased speed of the durburz guards on his lvl 10
+-Durburz lvl 3 duration increase to 30s
+-Rohans spell tree rearranged
+-Rohans radagasts eagle strike buffed

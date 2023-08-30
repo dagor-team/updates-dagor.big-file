@@ -2593,7 +2593,7 @@ CONTROLBAR:ToolTipHauptmannorkTruppenbefehligen_Warg
 END
 
 CONTROLBAR:TogglePalantir2_Groﬂork
-"Minions"
+"Great Goblin leadership"
 END
 
 CONTROLBAR:ToolTipTogglePalantir2_Groﬂork
@@ -2601,11 +2601,11 @@ CONTROLBAR:ToolTipTogglePalantir2_Groﬂork
 END
 
 CONTROLBAR:TogglePalantir1_Groﬂork
-"Commands"
+"Great Goblin leadership"
 END
 
 CONTROLBAR:ToolTipTogglePalantir1_Groﬂork
-"Changes to the Command Palantir"
+"Great Goblin expands his dominion. \n Goblin all over the map enjoy 15% damage, 25% armor and 50% more experience \n left-click to toggle palantir"
 END
 
 CONTROLBAR:Wargreitermobilisieren
