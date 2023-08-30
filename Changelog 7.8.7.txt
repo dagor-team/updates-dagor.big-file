@@ -1,8 +1,15 @@
 By gimli:
+General changes:
+-Crebain and bats no longer deny buffs. Time alive reduced from 60 seconds to 30 seconds
+-Horns, warchants and rallying calls standariced. All of them now give the same 50% increase of Armor, Damage and 20% speed. Duration increased from 15 seconds to 30 seconds.
+Goblins
 -Spider Rider nerfed damage with bows by 30% unupgraded and 40% upgraded.
 -Broodmother dmg vs heroes massively reduced, damage split, now they are properly buffed by Gorkill coronation.
--Rohan Horse archer upgrade fire arrow dmg fix, they were not recieving the proper upgraded piercing damage every other archer in the game gets. 
-
+-All fire breathing dragons removed friendly fire (many already were like this, only 3 missing), Most fire attacks now have split damage beyond fire and magic to help them be usefull vs targets with Fire and Magic Resist.
+Rohan
+-Rohan Horse archer upgrade fire arrow dmg fix, they were not recieving the proper upgraded piercing damage every other archer in the game gets.
+Imladris:
+-Fixed a bug where Pikemen and Swordsmen werent getting properly upgraded weapons after forged blades.(they dealt the same or even less damage).
 By Ninima 
 -Arnor:
  -Lindon units  can get banners now
@@ -12,30 +19,21 @@ By Ninima
  -Palantir guardians are locked behind blades and armor
  -Aranarth deadly sniper and Arrow wind deal less damage to heroes
  -Arnor Statues now give discount to Banner carriers
-
-
 Isengard:
  -Menslayers are locked behind armor and blades
-
-
 Angmar:
  -Hilltrolls deal 40% less damage
  -Snow trolls now have cavalry armor
- 
-
-
 Bugfixes:
 -Grand Harvest no longer needs to be researched again after the stoneworker or library was destroyed
 -Visual Fix for Cirdans new armor upgrade
 -Switched Palantir pictures for Cirdans leadership and fear
 -Erestors upgrade purchases can now be cancelled as any other purchase (Right click on the icon cancels the purchase)
 -ö decreased volume of Tar Mairon vc lines
-
 By Oogglie 
 -general exp update for some units not getting or giving xp
 -Arwen armor buff when she gets the spell
 -Arwen spell revert to 25% armor and cooldown to near by heros.
-
 By Gorgo
 -Great Goblin remake
 -Legolas revive price fix
