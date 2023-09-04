@@ -259,15 +259,15 @@
 
 ;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#define REGULAR_CHAMPION_HORDE_HP_ADD_LVL2                500
-#define REGULAR_CHAMPION_HORDE_HP_ADD_LVL3                500
-#define REGULAR_CHAMPION_HORDE_HP_ADD_LVL4                500
-#define REGULAR_CHAMPION_HORDE_HP_ADD_LVL5                500
+#define REGULAR_CHAMPION_HORDE_HP_ADD_LVL2                200
+#define REGULAR_CHAMPION_HORDE_HP_ADD_LVL3                200
+#define REGULAR_CHAMPION_HORDE_HP_ADD_LVL4                200
+#define REGULAR_CHAMPION_HORDE_HP_ADD_LVL5                200
 
-#define REGULAR_CHAMPION_HORDE_DAMAGE_ADD_LVL2            50
-#define REGULAR_CHAMPION_HORDE_DAMAGE_ADD_LVL3            50
-#define REGULAR_CHAMPION_HORDE_DAMAGE_ADD_LVL4            50
-#define REGULAR_CHAMPION_HORDE_DAMAGE_ADD_LVL5            50
+#define REGULAR_CHAMPION_HORDE_DAMAGE_ADD_LVL2            35
+#define REGULAR_CHAMPION_HORDE_DAMAGE_ADD_LVL3            35
+#define REGULAR_CHAMPION_HORDE_DAMAGE_ADD_LVL4            35
+#define REGULAR_CHAMPION_HORDE_DAMAGE_ADD_LVL5            35
 
 ;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -433,10 +433,10 @@
 ;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-#define BASICMONSTER_HORDE_HP_ADD_LVL2               80
-#define BASICMONSTER_HORDE_HP_ADD_LVL3               80
-#define BASICMONSTER_HORDE_HP_ADD_LVL4               80
-#define BASICMONSTER_HORDE_HP_ADD_LVL5               80
+#define BASICMONSTER_HORDE_HP_ADD_LVL2               120
+#define BASICMONSTER_HORDE_HP_ADD_LVL3               120
+#define BASICMONSTER_HORDE_HP_ADD_LVL4               120
+#define BASICMONSTER_HORDE_HP_ADD_LVL5               120
 
 #define BASICMONSTER_HORDE_DAMAGE_ADD_LVL2            9
 #define BASICMONSTER_HORDE_DAMAGE_ADD_LVL3            10

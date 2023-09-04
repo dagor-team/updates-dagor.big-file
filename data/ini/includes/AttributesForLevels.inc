@@ -183,6 +183,38 @@ End
 ;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
+ModifierList RegularChampionHordeBonusRank2
+    Category = LEVEL
+    Modifier = HEALTH REGULAR_CHAMPION_HORDE_HP_ADD_LVL2
+    Modifier = DAMAGE_ADD REGULAR_CHAMPION_HORDE_DAMAGE_ADD_LVL2
+    Duration = 0
+End
+
+ModifierList RegularChampionHordeBonusRank3
+    Category = LEVEL
+    Modifier = HEALTH REGULAR_CHAMPION_HORDE_HP_ADD_LVL3
+    Modifier = DAMAGE_ADD REGULAR_CHAMPION_HORDE_DAMAGE_ADD_LVL3
+    Duration = 0
+End
+
+ModifierList RegularChampionHordeBonusRank4
+    Category = LEVEL
+    Modifier = HEALTH REGULAR_CHAMPION_HORDE_HP_ADD_LVL4
+    Modifier = DAMAGE_ADD REGULAR_CHAMPION_HORDE_DAMAGE_ADD_LVL4
+    Duration = 0
+End
+
+ModifierList RegularChampionHordeBonusRank5
+    Category = LEVEL
+    Modifier = HEALTH REGULAR_CHAMPION_HORDE_HP_ADD_LVL5
+    Modifier = DAMAGE_ADD REGULAR_CHAMPION_HORDE_DAMAGE_ADD_LVL5
+    Duration = 0
+End
+
+
+;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 ModifierList RegularImladrisHordeBonusRank2
     Category = LEVEL
     Modifier = HEALTH REGULAR_HORDE_HP_ADD_LVL2 ImladrisFighterRank2 ImladrisBannerLeadership
@@ -1590,28 +1622,28 @@ End
 
 ;----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-ModifierList BasicBeastsHordeBonusRank2
+ModifierList RegularBeastsHordeBonusRank2
     Category = LEVEL
     Modifier = HEALTH BASICMONSTER_HORDE_HP_ADD_LVL2
     Modifier = DAMAGE_ADD BASICMONSTER_HORDE_DAMAGE_ADD_LVL2
     Duration = 0
 End
 
-ModifierList BasicBeastsHordeBonusRank3
+ModifierList RegularBeastsHordeBonusRank3
     Category = LEVEL
     Modifier = HEALTH BASICMONSTER_HORDE_HP_ADD_LVL3
     Modifier = DAMAGE_ADD BASICMONSTER_HORDE_DAMAGE_ADD_LVL3
     Duration = 0
 End
 
-ModifierList BasicBeastsHordeBonusRank4
+ModifierList RegularBeastsHordeBonusRank4
     Category = LEVEL
     Modifier = HEALTH BASICMONSTER_HORDE_HP_ADD_LVL4
     Modifier = DAMAGE_ADD BASICMONSTER_HORDE_DAMAGE_ADD_LVL4
     Duration = 0
 End
 
-ModifierList BasicBeastsHordeBonusRank5
+ModifierList RegularBeastsHordeBonusRank5
     Category = LEVEL
     Modifier = HEALTH BASICMONSTER_HORDE_HP_ADD_LVL5
     Modifier = DAMAGE_ADD BASICMONSTER_HORDE_DAMAGE_ADD_LVL5

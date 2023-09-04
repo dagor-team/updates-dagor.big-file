@@ -620,6 +620,126 @@ ExperienceLevel    Evil_Regular15_InfantryLevel5
     End
 END
 
+;--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ExperienceLevel    Evil_Regular_Champion_Infantry_Level1
+    TargetNames                       =    EVIL_REGULAR_CHAMPION
+    RequiredExperience                =    EXPERIENCE_REQUIRED_REGULAR_15_HORDE_1
+    ExperienceAward                   =    EXPERIENCE_AWARD_REGULAR_15_HORDE_1
+    Rank                              =    1
+    Upgrades                          =    Upgrade_ObjectLevel1 Upgrade_MiniHordeLvl1 Upgrade_EliteHordeLvl1
+    SelectionDecal
+        Texture               =    decal_I_level1
+        Texture2              =    decal_evil_CO
+        Style                 =    SHADOW_MERGE_DECAL
+        OpacityMin            =    80%
+        OpacityMax            =    100%
+        MinRadius             =    70
+        MaxRadius             =    200
+        MaxSelectedUnits      =    40
+    End
+END
+
+ExperienceLevel    Evil_Regular_Champion_InfantryLevel2
+    TargetNames                       =    EVIL_REGULAR_CHAMPION
+    RequiredExperience                =    EXPERIENCE_REQUIRED_REGULAR_15_HORDE_2
+    ExperienceAward                   =    EXPERIENCE_AWARD_REGULAR_15_HORDE_2
+    Rank                              =    2
+    Upgrades                          =    Upgrade_ObjectLevel2 Upgrade_MiniHordeLvl2 Upgrade_EliteHordeLvl2
+    AttributeModifiers                =    RegularChampionHordeBonusRank2
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+    SelectionDecal
+        Texture               =    decal_I_level2
+        Texture2              =    decal_evil_CO
+        Style                 =    SHADOW_MERGE_DECAL
+        OpacityMin            =    80%
+        OpacityMax            =    100%
+        MinRadius             =    70
+        MaxRadius             =    200
+        MaxSelectedUnits      =    40
+    End
+END
+
+ExperienceLevel    Evil_Regular_Champion_InfantryLevel3
+    TargetNames                       =    EVIL_REGULAR_CHAMPION
+    RequiredExperience                =    EXPERIENCE_REQUIRED_REGULAR_15_HORDE_3
+    ExperienceAward                   =    EXPERIENCE_AWARD_REGULAR_15_HORDE_3
+    Rank                              =    3
+    Upgrades                          =    Upgrade_ObjectLevel3 Upgrade_MiniHordeLvl3 Upgrade_EliteHordeLvl3
+    AttributeModifiers                =    RegularChampionHordeBonusRank3
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+    SelectionDecal
+        Texture               =    decal_I_level3
+        Texture2              =    decal_evil_CO
+        Style                 =    SHADOW_MERGE_DECAL
+        OpacityMin            =    80%
+        OpacityMax            =    100%
+        MinRadius             =    70
+        MaxRadius             =    200
+        MaxSelectedUnits      =    40
+    End
+END
+
+ExperienceLevel    Evil_Regular_Champion_InfantryLevel4
+    TargetNames                       =    EVIL_REGULAR_CHAMPION
+    RequiredExperience                =    EXPERIENCE_REQUIRED_REGULAR_15_HORDE_4
+    ExperienceAward                   =    EXPERIENCE_AWARD_REGULAR_15_HORDE_4
+    Rank                              =    4
+    Upgrades                          =    Upgrade_ObjectLevel4 Upgrade_MiniHordeLvl4 Upgrade_EliteHordeLvl4
+    AttributeModifiers                =    RegularChampionHordeBonusRank4
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+    SelectionDecal
+        Texture               =    decal_I_level4
+        Texture2              =    decal_evil_CO
+        Style                 =    SHADOW_MERGE_DECAL
+        OpacityMin            =    80%
+        OpacityMax            =    100%
+        MinRadius             =    70
+        MaxRadius             =    200
+        MaxSelectedUnits      =    40
+    End
+END
+
+ExperienceLevel    Evil_Regular_Champion_InfantryLevel5
+    TargetNames                       =    EVIL_REGULAR_CHAMPION
+    RequiredExperience                =    EXPERIENCE_REQUIRED_REGULAR_15_HORDE_5
+    ExperienceAward                   =    EXPERIENCE_AWARD_REGULAR_15_HORDE_5
+    Rank                              =    5
+    Upgrades                          =    Upgrade_ObjectLevel5 Upgrade_MiniHordeLvl5 Upgrade_EliteHordeLvl5
+    AttributeModifiers                =    RegularChampionHordeBonusRank5
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+    SelectionDecal
+        Texture               =    decal_I_level4
+        Texture2              =    decal_evil_CO
+        Style                 =    SHADOW_MERGE_DECAL
+        OpacityMin            =    80%
+        OpacityMax            =    100%
+        MinRadius             =    70
+        MaxRadius             =    200
+        MaxSelectedUnits      =    40
+    End
+END
+
 
 ;----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -5389,6 +5509,128 @@ ExperienceLevel    Evil_Cheap_MonsterLevel5
         MaxSelectedUnits      =    40
     End
 END
+
+;----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ExperienceLevel    Evil_Basic_Monster_Level1
+    TargetNames                       =    EVIL_BASIC_MONSTERS
+    RequiredExperience                =    EXPERIENCE_REQUIRED_BASIC_MONSTER_HORDE_1
+    ExperienceAward                   =    EXPERIENCE_AWARD_BASIC_MONSTER_HORDE_1
+    Rank                              =    1
+    Upgrades                          =    Upgrade_ObjectLevel1 Upgrade_MiniHordeLvl1 Upgrade_EliteHordeLvl1
+    SelectionDecal
+        Texture               =    decal_I_level1
+        Texture2              =    decal_evil_CO
+        Style                 =    SHADOW_MERGE_DECAL
+        OpacityMin            =    80%
+        OpacityMax            =    100%
+        MinRadius             =    70
+        MaxRadius             =    200
+        MaxSelectedUnits      =    40
+    End
+END
+
+ExperienceLevel    Evil_Basic_MonsterLevel2
+    TargetNames                       =    EVIL_BASIC_MONSTERS
+    RequiredExperience                =    EXPERIENCE_REQUIRED_BASIC_MONSTER_HORDE_2
+    ExperienceAward                   =    EXPERIENCE_AWARD_BASIC_MONSTER_HORDE_2
+    Rank                              =    2
+    Upgrades                          =    Upgrade_ObjectLevel2 Upgrade_MiniHordeLvl2 Upgrade_EliteHordeLvl2
+    AttributeModifiers                =    BasicMonsterHordeBonusRank2
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+    SelectionDecal
+        Texture               =    decal_I_level2
+        Texture2              =    decal_evil_CO
+        Style                 =    SHADOW_MERGE_DECAL
+        OpacityMin            =    80%
+        OpacityMax            =    100%
+        MinRadius             =    70
+        MaxRadius             =    200
+        MaxSelectedUnits      =    40
+    End
+END
+
+ExperienceLevel    Evil_Basic_MonsterLevel3
+    TargetNames                       =    EVIL_BASIC_MONSTERS
+    RequiredExperience                =    EXPERIENCE_REQUIRED_BASIC_MONSTER_HORDE_3
+    ExperienceAward                   =    EXPERIENCE_AWARD_BASIC_MONSTER_HORDE_3
+    Rank                              =    3
+    Upgrades                          =    Upgrade_ObjectLevel3 Upgrade_MiniHordeLvl3 Upgrade_EliteHordeLvl3
+    AttributeModifiers                =    BasicMonsterHordeBonusRank3
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+    SelectionDecal
+        Texture               =    decal_I_level3
+        Texture2              =    decal_evil_CO
+        Style                 =    SHADOW_MERGE_DECAL
+        OpacityMin            =    80%
+        OpacityMax            =    100%
+        MinRadius             =    70
+        MaxRadius             =    200
+        MaxSelectedUnits      =    40
+    End
+END
+
+ExperienceLevel    Evil_Basic_MonsterLevel4
+    TargetNames                       =    EVIL_BASIC_MONSTERS
+    RequiredExperience                =    EXPERIENCE_REQUIRED_BASIC_MONSTER_HORDE_4
+    ExperienceAward                   =    EXPERIENCE_AWARD_BASIC_MONSTER_HORDE_4
+    Rank                              =    4
+    Upgrades                          =    Upgrade_ObjectLevel4 Upgrade_MiniHordeLvl4 Upgrade_EliteHordeLvl4
+    AttributeModifiers                =    BasicMonsterHordeBonusRank4
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+    SelectionDecal
+        Texture               =    decal_I_level4
+        Texture2              =    decal_evil_CO
+        Style                 =    SHADOW_MERGE_DECAL
+        OpacityMin            =    80%
+        OpacityMax            =    100%
+        MinRadius             =    70
+        MaxRadius             =    200
+        MaxSelectedUnits      =    40
+    End
+END
+
+ExperienceLevel    Evil_Basic_MonsterLevel5
+    TargetNames                       =    EVIL_BASIC_MONSTERS
+    RequiredExperience                =    EXPERIENCE_REQUIRED_BASIC_MONSTER_HORDE_5
+    ExperienceAward                   =    EXPERIENCE_AWARD_BASIC_MONSTER_HORDE_5
+    Rank                              =    5
+    Upgrades                          =    Upgrade_ObjectLevel5 Upgrade_MiniHordeLvl5 Upgrade_EliteHordeLvl5
+    AttributeModifiers                =    BasicBeastsHordeBonusRank5
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+    SelectionDecal
+        Texture               =    decal_I_level4
+        Texture2              =    decal_evil_CO
+        Style                 =    SHADOW_MERGE_DECAL
+        OpacityMin            =    80%
+        OpacityMax            =    100%
+        MinRadius             =    70
+        MaxRadius             =    200
+        MaxSelectedUnits      =    40
+    End
+END
+
+
 
 ;----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 

@@ -1021,7 +1021,7 @@ CONTROLBAR:FaramirSummonForbiddenPool
 END
 
 CONTROLBAR:TooltipFaramirSummonForbiddenPool
-"Requires: Level 10 \n Faramir summmons the secret base from Ithilien.\n The Forbidden Pool can recruit Damrod and various Ranger soldiers.\n Only one Pool may be summoned at a time.\n Left-click on the icon and select the desired target area"
+"Requires: Level 6 \n Faramir summmons the secret base from Ithilien.\n The Forbidden Pool can recruit Damrod and various Ranger soldiers.\n Only one Pool may be summoned at a time.\n Left-click on the icon and select the desired target area"
 END
 
 OBJECT:Vingilot
@@ -7239,7 +7239,7 @@ CONTROLBAR:GildorGnadenschuss
 END
 
 CONTROLBAR:ToolTipGildorGnadenschuss
-"Requires: Level 9 \n Gildor fires a piercing shot from his bow, inflicting massive damage \n Left click on the desired destination"
+"Requires: Level 7 \n Gildor fires a piercing shot from his bow, inflicting massive damage \n Left click on the desired destination"
 END
 
 OBJECT:ImladrisGildor
@@ -7267,7 +7267,7 @@ CONTROLBAR:SpecialAbilityGildorGesang
 END
 
 CONTROLBAR:ToolTipSpecialAbilityGildorGesang
-"Requires: Level 3 \n The purity of his singing weakens enemies and inspires his allies \n Enemy units that hear Gildor's singing are only half as fast; \n Allies however, are twice as fast \n The song lasts 15 seconds \n Left click to activate"
+"Requires: Level 5 \n The purity of his singing weakens enemies and inspires his allies \n Enemy units that hear Gildor's singing lose 20% speed; \n Allies however, gain 10% speed \n The song lasts 15 seconds \n Left click to activate"
 END
 
 CONTROLBAR:SpecialAbilityMurinKriegsschrei
@@ -28131,7 +28131,7 @@ CONTROLBAR:FaramirKnightRanger
 END
 
 CONTROLBAR:ToolTipFaramirKnightRanger
-"Requires: Level 5 \n Faramir inspires the hearts of his allies with renewed courage in times of trouble.\n\n Passive Ability:\n Units near Faramir are resistant to fear and gain the following attributes:\n Infantry: +25% attack \n Cavalry: +25% armor \n Rangers: Are camouflaged and are 10% faster\n\n Active Ability:\n Faramir can mount his horse, leading the forces of Gondor as a knight.\n Left-click to mount or dismount his horse."
+"Requires: Level 5 \n Faramir inspires the hearts of his allies with renewed courage in times of trouble.\n\n Passive Ability:\n Units near Faramir are resistant to fear and gain the following attributes:\n Infantry: +25% attack \n Cavalry: +25% armor \n\n Active Ability:\n Faramir can mount his horse, leading the forces of Gondor as a knight.\n Left-click to mount or dismount his horse."
 END
 
 CONTROLBAR:ToolTipFaramirMount_Neu
@@ -107315,7 +107315,7 @@ CONTROLBAR:CaptainofGondorF
 END
 
 CONTROLBAR:ToolTipCaptainofGondorNew
-"Requires Level 7 \n Faramir shares his skills, giving targeted friendly troops experience.\n Left-click icon then left-click on target units"
+"Requires Level 9 \n Faramir shares his skills, giving targeted friendly troops experience.\n Left-click icon then left-click on target units"
 END
 
 CONTROLBAR:BlackEasterlingDeathMask
