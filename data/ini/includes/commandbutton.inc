@@ -934,3 +934,58 @@ CommandButton Command_DiplomacyGimli
   InPalantir            = Yes
   AutoAbility            = Yes
 End
+
+CommandButton Command_SpecialAbilityMahudRaserei 
+    Command                 = SPECIAL_POWER
+    SpecialPower            = SpecialAbilityMahudRaserei 
+  Options     = OK_FOR_MULTI_SELECT OK_FOR_MULTI_EXECUTE
+    TextLabel               = CONTROLBAR:SpecialAbilityMahudRaserei
+    ButtonImage             = _uHaradMhdFiMahudRaserei
+    RadiusCursorType        = TrainingRadiusCursor    
+    ButtonBorderType        = ACTION
+    DescriptLabel           = CONTROLBAR:TooltipSpecialAbilityMahudRaserei
+    InPalantir    = Yes
+  AutoAbility   = Yes
+End
+
+CommandButton Command_SpecialAbilityMahudGuardMumak
+  Command                   = SPECIAL_POWER 
+  SpecialPower              = SpecialAbilityMahudGuardMumak
+  Options                   = NEED_TARGET_ALLY_OBJECT ; CONTEXTMODE_COMMAND
+  TextLabel                 = CONTROLBAR:GuardMumakMahud
+  CursorName                = Defector
+  InvalidCursorName         = GenericInvalid 
+  ButtonImage               = _uHaradMhdFiMahudGuardMumak
+  ButtonBorderType          = ACTION 
+  DescriptLabel             = CONTROLBAR:TooltipGuardMumakMahud
+  InPalantir      = Yes
+  AutoAbility     = Yes  
+DisableOnModelCondition = USER_74
+End
+
+CommandButton Command_ToggleFormationEvilMenHaradrimSoldier
+    Command            = HORDE_TOGGLE_FORMATION                ; Gondor Soldier
+    Options            = TOGGLE_IMAGE_ON_FORMATION OK_FOR_MULTI_SELECT
+    ButtonImage        = UCFormation_Block UCFormation_Line
+    ButtonBorderType    = ACTION 
+    TextLabel        = CONTROLBAR:ToggleFormationHaradSouthWatcher         CONTROLBAR:ToggleFormationBackHaradSouthWatcher
+    DescriptLabel        = CONTROLBAR:ToolTipToggleFormationHaradSouthWatcher  CONTROLBAR:ToolTipToggleFormationBackHaradSouthWatcher
+    InPalantir        = Yes
+    DoubleClick        = Yes
+    UnitSpecificSound    = HaradrimVoiceWedgeFormation HaradrimVoiceLineFormation
+    DisableOnModelCondition = USER_74
+End
+
+CommandButton Command_ConstructHaradSouthWatcherHorde
+    Command                 = UNIT_BUILD
+    Object                  = HaradSouthWatcherHorde
+    Options                 = CANCELABLE
+    TextLabel               = CONTROLBAR:ConstructHaradMahudFighterHorde
+    ButtonImage             = __uMuhadButton ;UISouthWatcher
+    ButtonBorderType        = ACTION ;BUILD
+    DescriptLabel           = CONTROLBAR:ToolTipConstructHaradMahudFighterHorde
+    Radial                  = Yes
+    InPalantir              = Yes
+    ShowProductionCount     = Yes 
+    DisableOnModelCondition = USER_74
+End

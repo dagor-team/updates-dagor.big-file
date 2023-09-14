@@ -1783,30 +1783,30 @@ End
 
 CommandSet HaradBarracksCommandSet
         2    = Command_ConstructEvilmenHaradSwordHorde
-        3    = Command_ConstructMordorHaradrimLancerModHordeBarracks
+        3    = Command_ConstructHaradrimSpearmanHordeMod
         4    = Command_ConstructHaradHaradrimArcherHordeBarracks
-        5    = Command_ConstructEvilmenKhandSoldierHorde
-        7    = Command_ConstructHaradrimSpearmanHordeMod
+        5    = Command_ConstructMordorHaradrimLancerModHordeBarracks
+        7    = Command_ConstructEvilmenKhandSoldierHorde
         8    = Command_UpgradeHaradBarracksLevel2
         9    = Command_Sell
 End
 
 CommandSet HaradBarracksCommandSetLevel2
         2    = Command_ConstructEvilmenHaradSwordHorde
-        3    = Command_ConstructMordorHaradrimLancerModHordeBarracks
+        3    = Command_ConstructHaradrimSpearmanHordeMod
         4    = Command_ConstructHaradHaradrimArcherHordeBarracks
-        5    = Command_ConstructEvilmenKhandSoldierHorde
-        7    = Command_ConstructHaradrimSpearmanHordeMod
+        5    = Command_ConstructMordorHaradrimLancerModHordeBarracks
+        7    = Command_ConstructEvilmenKhandSoldierHorde
         6    = Command_UpgradeHaradBarracksLevel3
         7    = Command_Sell
 End
 
 CommandSet HaradBarracksCommandSetLevel3
         2    = Command_ConstructEvilmenHaradSwordHorde
-        3    = Command_ConstructMordorHaradrimLancerModHordeBarracks
+        3    = Command_ConstructHaradrimSpearmanHordeMod
         4    = Command_ConstructHaradHaradrimArcherHordeBarracks
-        5    = Command_ConstructEvilmenKhandSoldierHorde
-        7    = Command_ConstructHaradrimSpearmanHordeMod
+        5    = Command_ConstructMordorHaradrimLancerModHordeBarracks
+        7    = Command_ConstructEvilmenKhandSoldierHorde
         6    = Command_Sell
 End
 
@@ -1904,4 +1904,20 @@ CommandSet DwarvenBarracksDiplomacyCommandSet
      25     = Command_ConstructAglarondPikeHorde
      26     = Command_ConstructAglarondCavalaryHorde
      27     = Command_RadialBack
+End
+
+CommandSet HaradSouthWatcherHordeCommandSet
+    1     = Command_ToggleStance
+    2     = Command_SpecialAbilityMahudRaserei 
+    3       = Command_PurchaseUpgradeMordorHaradBasicTraining ;
+    4       = Command_PurchaseUpgradeMordorHaradArmor
+    5       = Command_PurchaseUpgradeMordorHaradBlades
+    6     = Command_PurchaseUpgradeEvilmenShield
+    7     = Command_ToggleFormationEvilMenHaradrimSoldier ;Command_ToggleFormationOrksNebelberge
+    12  = Command_CaptureBuilding
+    13  = Command_AttackMove
+    14  = Command_Stop
+    16      = Command_SetStanceBattle
+    17      = Command_SetStanceAggressive
+    18      = Command_SetStanceHoldGround
 End
