@@ -12,3 +12,4 @@ By Gorgo:
 -spiderlings armor nerf (cause they were insane)
 -water lore masters debuff no longer affects heroes
 -all lore masters range increased
+-ecthelion leadership only gives immunity to frost and slight trample resistance
