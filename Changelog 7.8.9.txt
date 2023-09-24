@@ -13,3 +13,8 @@ By Gorgo:
 -water lore masters debuff no longer affects heroes
 -all lore masters range increased
 -ecthelion leadership only gives immunity to frost and slight trample resistance
+By Ooggle
+-Gilgalad locked behind Ecthelion and gets a second palantir
+-Elrond locked behind Glorfindel gets unit buff.
+-wizard exp increased 
+-legolas lvl 10 cooldown nerfed
