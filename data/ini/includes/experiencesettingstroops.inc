@@ -208,14 +208,14 @@
 
 ;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#define EXPERIENCE_REQUIRED_VETERANS_HORDE_1        1
-#define EXPERIENCE_REQUIRED_VETERANS_HORDE_2        100
-#define EXPERIENCE_REQUIRED_VETERANS_HORDE_3        215
-#define EXPERIENCE_REQUIRED_VETERANS_HORDE_4        330
-#define EXPERIENCE_REQUIRED_VETERANS_HORDE_5        445
-#define EXPERIENCE_REQUIRED_VETERANS_HORDE_6        560
-#define EXPERIENCE_REQUIRED_VETERANS_HORDE_7        675
-#define EXPERIENCE_REQUIRED_VETERANS_HORDE_8        790
+#define EXPERIENCE_REQUIRED_VETERANS_HORDE_1       1
+#define EXPERIENCE_REQUIRED_VETERANS_HORDE_2       100
+#define EXPERIENCE_REQUIRED_VETERANS_HORDE_3       215
+#define EXPERIENCE_REQUIRED_VETERANS_HORDE_4       330
+#define EXPERIENCE_REQUIRED_VETERANS_HORDE_5       445
+#define EXPERIENCE_REQUIRED_VETERANS_HORDE_6       560
+#define EXPERIENCE_REQUIRED_VETERANS_HORDE_7       675
+#define EXPERIENCE_REQUIRED_VETERANS_HORDE_8       790
 #define EXPERIENCE_REQUIRED_VETERANS_HORDE_9       900
 #define EXPERIENCE_REQUIRED_VETERANS_HORDE_10      1100
 #define EXPERIENCE_REQUIRED_VETERANS_HORDE_11      1215
