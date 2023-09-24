@@ -9476,7 +9476,7 @@ CONTROLBAR:GreatGoblinRallyGoblinTown
 END
 
 CONTROLBAR:ToolTipGreatGoblinRallyGoblinTown
-"Requires: Level 6 \n Great Goblin summons 3 battalions of goblin archers with poison arrows. \n Left-click on the desired goblin cave"
+"Requires: Level 6 \n Great Goblin summons 3 battalions of goblin archers with poison arrows. \n Left-click on the desired target area"
 END
 
 CONTROLBAR:GreatGoblinHuntingParty
@@ -9492,7 +9492,7 @@ CONTROLBAR:BeastsOfTheGreatGoblin
 END
 
 CONTROLBAR:ToolTipBeastsOfTheGreatGoblin
-"Requires: Level 9 \n Great Goblin summons 3 giant bats and 3 warg packs. \n Left-click on the desired tunnel"
+"Requires: Level 9 \n Great Goblin summons 3 giant bats and 3 warg packs. \n 3 wild wargs will also appear as guards \n Left-click on the desired tunnel"
 END
 
 CONTROLBAR:GreatGoblinSong
@@ -43046,8 +43046,16 @@ CONTROLBAR:ToolTipSpecialAbilityShieldWall
 "Shield Wall For&mation"
 END
 
+CONTROLBAR:DolAmrothBlood
+"Blood of Dol Amroth"
+END
+
+CONTROLBAR:ToolTipDolAmrothBlood
+"Requires: Level 3 \n Dol Amroth soldiers gain passive self healing \n Requires: Level 4 \n Gain immunity to poison damage \n Passive ability"
+END
+
 CONTROLBAR:ToolTipFaramirLeadership
-"Requires: Level 6 \n Faramir, even in times of need, fills the hearts of his allies with renewed courage \n Infantry: +50% armor and resistance to fear and terror\n Archers: +25% vision and firing range \n Cavalry: +50% armor, +25% speed, and resistance to fear and terror \n Passive ability"
+"Requires: Level 6 \n Faramir, even in times of need, fills the hearts of his allies with renewed courage \n Infantry: +50% armor and resistance to fear and terror \n Archers: +25% vision and firing rangew \n Cavalry: +50% armor, +25% speed, and resistance to fear and terror \n Passive ability"
 END
 
 CONTROLBAR:ToolTipDainLeadership
