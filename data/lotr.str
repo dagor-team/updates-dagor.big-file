@@ -27107,7 +27107,39 @@ CONTROLBAR:KonigderNoldor
 END
 
 CONTROLBAR:ToolTipKonigderNoldor
-"Imladris infantry lines gain 15% armor and damage around the returned King of the Noldor \n  Passive ability"
+"Imladris infantry lines gain 15% armor and damage around the returned King of the Noldor \n Gilgalad switches to Aeglos hidden powers and using them in combact \n Gilgalad switches off Aeglos powers \n Passive ability"
+END
+
+CONTROLBAR:GilgaladSpearThrust
+"Mighty spear thrust"
+END
+
+CONTROLBAR:ToolTipGilgaladSpearThrust
+"Requires: Level 3 \n Gil-Galad Thrusts his spear doing high single target damage \n Left click on enemy target unit"
+END
+
+CONTROLBAR:GilgaladAeglosSnow
+"Aeglos slow"
+END
+
+CONTROLBAR:TooltipGilgaladAeglosSnow
+"Requires: Level 6 \n Gil-Galad Thrusts his Aeglos doing Aoe damage and debuffing enimies damageAeglos slow \n Left click on enemy target unit"
+END
+
+CONTROLBAR:GilgaladsBodyguards
+"Gilgalads bodyguards"
+END
+
+CONTROLBAR:GilgaladsBodyguards
+"Requires: Level 10 \n  Gilgalads calls forth to his personal bodyguards to aid him in battle \n Left click activate"
+END
+
+CONTROLBAR:GilgaladsWordofPower
+"Word of Power"
+END
+
+CONTROLBAR:GilgaladsWordofPower
+"Requires: Level 4 \n Gil-Galad using the star on his shield to stun enimies. \n Requires: Level 10 \n Gil-Galad using power of the Vilya to summon waves of wind. \n Requires: Level 15 \n Gil-Galad using power of the Vilya, his shield, and Aeglos for one big blast. \n Left click activate"
 END
 
 CONTROLBAR:GilgaladVilya
@@ -101312,7 +101344,7 @@ END
 
 CONTROLBAR:ToolTipGilGaladAeglos
 "Requires: Level 8 \n Gil-Galad temporarily reinforces the attacks of his legendary spear by using the ring Vilya\n Whenever Gil-Galad strikes, enemies are knocked around by a gust of wind\n Left-click to activate"
-END
+ENDToolTipKonigderNoldor
 
 CONTROLBAR:GilGaladNaryasMacht
 "Narya's Power"
