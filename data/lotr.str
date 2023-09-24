@@ -26966,7 +26966,7 @@ CONTROLBAR:SegenderNoldor
 END
 
 CONTROLBAR:ToolTipSegenderNoldor
-"Requires: Level 10 \n Ereinion leaves the soft darkness and enemies feel his unimaginable power \n Left-click on the target area"
+"Requires: Level 9 \n Ereinion leaves the soft darkness and enemies feel his unimaginable power \n Left-click on the target area"
 END
 
 CONTROLBAR:Firepower
@@ -27130,7 +27130,7 @@ CONTROLBAR:GilgaladsBodyguards
 "Gilgalads bodyguards"
 END
 
-CONTROLBAR:GilgaladsBodyguards
+CONTROLBAR:ToolTipGilgaladsBodyguards
 "Requires: Level 10 \n  Gilgalads calls forth to his personal bodyguards to aid him in battle \n Left click activate"
 END
 
@@ -27138,7 +27138,7 @@ CONTROLBAR:GilgaladsWordofPower
 "Word of Power"
 END
 
-CONTROLBAR:GilgaladsWordofPower
+CONTROLBAR:ToolTipGilgaladsWordofPower
 "Requires: Level 4 \n Gil-Galad using the star on his shield to stun enimies. \n Requires: Level 10 \n Gil-Galad using power of the Vilya to summon waves of wind. \n Requires: Level 15 \n Gil-Galad using power of the Vilya, his shield, and Aeglos for one big blast. \n Left click activate"
 END
 
@@ -28571,7 +28571,7 @@ CONTROLBAR:ElrondErfahrungsLeadership
 END
 
 CONTROLBAR:TooltipElrondErfahrungsLeadership
-"Elrond unsheathes his sword, Hadhafang \n Elrond gives nearby Imladris units Armor and Damage , it scales with every level (from 2% to 30%) until level 10 \n At level 5 Elrond will combine the power of Vilya and Hadhafang and will deal Water damaga in a big area. He will also equip his Last Alliance armor and gain 50% Armor"
+"Elrond unsheathes his sword, Hadhafang \n Elrond gives nearby Imladris units Armor and Damage , it scales with every level (from 2% to 30%) until level 10 \n At level 5 Elrond will combine the power of Vilya and Hadhafang and will deal Water damaga in a big area. He will also equip his Last Alliance armor and gain 50% Armor \n Elrond uses his vast knowledge to improve the combat skills of the Veterans. At level 5 they use the knowledge boost their experience. At Level 10 they improve their weapon skills. And at level 15 there crush their enemies and learn to become evasive. \n Elrond Uses his wisdom to train news scholars."
 END
 
 CONTROLBAR:DerRingVilya
@@ -101352,7 +101352,7 @@ END
 
 CONTROLBAR:ToolTipGilGaladAeglos
 "Requires: Level 8 \n Gil-Galad temporarily reinforces the attacks of his legendary spear by using the ring Vilya\n Whenever Gil-Galad strikes, enemies are knocked around by a gust of wind\n Left-click to activate"
-ENDToolTipKonigderNoldor
+END
 
 CONTROLBAR:GilGaladNaryasMacht
 "Narya's Power"
