@@ -12,3 +12,7 @@ By Gorgo:
 -spiderlings armor nerf (cause they were insane)
 -water lore masters debuff no longer affects heroes
 -all lore masters range increased
+-Wulf two new abilities
+-loth farms leadership no longer 50% armor, instead 25% vision
+-goblin archers slight range nerf 300 -> 270
+-goblin pikes do dmg to buildings now
