@@ -22663,6 +22663,22 @@ CONTROLBAR:VermachtnisdesNordens
 "Legacy of the North"
 END
 
+CONTROLBAR:WulfAmbush
+"Unexpected Ambush"
+END
+
+CONTROLBAR:ToolTipWulfAmbush
+"Requires: Level 5 \n Wulf summons a camp of hillmen to ambush the enemy \n Left click on a selected area"
+END
+
+CONTROLBAR:WulfAxeSwing
+"Crushn Their Skulls"
+END
+
+CONTROLBAR:ToolTipWulfAxeSwing
+"Requires: Level 3 \n Wulf swings his axe crushing enemies in a radius in front of him \n Left click to activate"
+END	
+
 CONTROLBAR:TooltipVermachtnisdesNordens
 "Requires: Level 7 \n On his journey to the end of the world the dark Istari came to many knowledge \n Ealendril combines the power of cold \n Left click on the desired destination area"
 END
