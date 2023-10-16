@@ -64,9 +64,9 @@
 
 #define EVIL_REGULAR_CHAMPION WildHauptmannork WildHauptmannorkWarg IsengardBeserker IsengardBeserker_Summoned MordorKastellan MordorKastellan_AI MordorKastellan_Old MordorKastellan_Old_AI
 
-#define EVIL_ADVANCED_MONSTERS AngmarGolem AngmarGolem_Summoned AngmarHeroWolf MordorHeroWolf AngmarHeroWolfHorde WildAttackTroll WildAttackTroll_Summoned MordorAttackTroll MordorTrollupgrade MordorTrollupgradeHammer MordorTrollupgradeSword MordorTrollupgradeKeule MordorOlogHai_Summoned MordorOlogHai WildBrutmutter WildZuchtdracheBaby WildZuchtdracheBaby_Slaved MordorAttackTroll_Summoned
+#define EVIL_ADVANCED_MONSTERS AngmarGolem AngmarGolem_Summoned AngmarHeroWolf MordorHeroWolf AngmarHeroWolfHorde WildAttackTroll WildAttackTroll_Summoned MordorAttackTroll MordorTrollupgrade MordorTrollupgradeHammer MordorTrollupgradeSword MordorTrollupgradeKeule MordorOlogHai_Summoned MordorOlogHai WildBrutmutter WildZuchtdracheBaby WildZuchtdracheBaby_Slaved MordorAttackTroll_Summoned WildMountainGiant WildMountainGiantMod WildMountainGiant_Summoned
 
-#define EVIL_ELITE_MONSTERS WildZuchtdrache WildZuchtdracheOld WildZuchtdracheOldFlying WildFireWyrm WildMountainGiant WildMountainGiantMod WildMountainGiant_Summoned
+#define EVIL_ELITE_MONSTERS WildZuchtdrache WildZuchtdracheOld WildZuchtdracheOldFlying WildFireWyrm
 
 #define EVIL_FIRST_AGE_REGULAR_FLYING TolinGaurhothVampires
 
@@ -5975,7 +5975,7 @@ ExperienceLevel    Evil_Elite_MonsterLevel5
     ExperienceAward                   =    EXPERIENCE_AWARD_ELITE_MONSTER_HORDE_5
     Rank                              =    5
     Upgrades                          =    Upgrade_ObjectLevel5 Upgrade_MiniHordeLvl5 Upgrade_EliteHordeLvl5
-    AttributeModifiers                =    EliteBeastsHordeBonusRank5
+    AttributeModifiers                =    EliteMonsterHordeBonusRank5
     LevelUpFx                         =    FX:EvilLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -5994,9 +5994,130 @@ ExperienceLevel    Evil_Elite_MonsterLevel5
     End
 END
 
+ExperienceLevel    Evil_Elite_MonsterLevel6
+    TargetNames                       =    EVIL_ELITE_MONSTERS
+    RequiredExperience                =    EXPERIENCE_REQUIRED_ELITE_MONSTER_HORDE_6
+    ExperienceAward                   =    EXPERIENCE_AWARD_ELITE_MONSTER_HORDE_6
+    Rank                              =    6
+    Upgrades                          =    Upgrade_ObjectLevel6 Upgrade_MiniHordeLvl6 Upgrade_EliteHordeLvl6
+    AttributeModifiers                =    EliteMonsterHordeBonusRank6
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+    SelectionDecal
+        Texture               =    decal_I_level4
+        Texture2              =    decal_evil_CO
+        Style                 =    SHADOW_MERGE_DECAL
+        OpacityMin            =    80%
+        OpacityMax            =    100%
+        MinRadius             =    70
+        MaxRadius             =    200
+        MaxSelectedUnits      =    40
+    End
+END
 
+ExperienceLevel    Evil_Elite_MonsterLevel7
+    TargetNames                       =    EVIL_ELITE_MONSTERS
+    RequiredExperience                =    EXPERIENCE_REQUIRED_ELITE_MONSTER_HORDE_7
+    ExperienceAward                   =    EXPERIENCE_AWARD_ELITE_MONSTER_HORDE_7
+    Rank                              =    7
+    Upgrades                          =    Upgrade_ObjectLevel7 Upgrade_MiniHordeLvl7 Upgrade_EliteHordeLvl7
+    AttributeModifiers                =    EliteMonsterHordeBonusRank7
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+    SelectionDecal
+        Texture               =    decal_I_level4
+        Texture2              =    decal_evil_CO
+        Style                 =    SHADOW_MERGE_DECAL
+        OpacityMin            =    80%
+        OpacityMax            =    100%
+        MinRadius             =    70
+        MaxRadius             =    200
+        MaxSelectedUnits      =    40
+    End
+END
 
+ExperienceLevel    Evil_Elite_MonsterLevel8
+    TargetNames                       =    EVIL_ELITE_MONSTERS
+    RequiredExperience                =    EXPERIENCE_REQUIRED_ELITE_MONSTER_HORDE_8
+    ExperienceAward                   =    EXPERIENCE_AWARD_ELITE_MONSTER_HORDE_8
+    Rank                              =    8
+    Upgrades                          =    Upgrade_ObjectLevel8 Upgrade_MiniHordeLvl8 Upgrade_EliteHordeLvl8
+    AttributeModifiers                =    EliteMonsterHordeBonusRank8
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+    SelectionDecal
+        Texture               =    decal_I_level4
+        Texture2              =    decal_evil_CO
+        Style                 =    SHADOW_MERGE_DECAL
+        OpacityMin            =    80%
+        OpacityMax            =    100%
+        MinRadius             =    70
+        MaxRadius             =    200
+        MaxSelectedUnits      =    40
+    End
+END
 
+ExperienceLevel    Evil_Elite_MonsterLevel9
+    TargetNames                       =    EVIL_ELITE_MONSTERS
+    RequiredExperience                =    EXPERIENCE_REQUIRED_ELITE_MONSTER_HORDE_9
+    ExperienceAward                   =    EXPERIENCE_AWARD_ELITE_MONSTER_HORDE_9
+    Rank                              =    9
+    Upgrades                          =    Upgrade_ObjectLevel9 Upgrade_MiniHordeLvl9 Upgrade_EliteHordeLvl9
+    AttributeModifiers                =    EliteMonsterHordeBonusRank9
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+    SelectionDecal
+        Texture               =    decal_I_level4
+        Texture2              =    decal_evil_CO
+        Style                 =    SHADOW_MERGE_DECAL
+        OpacityMin            =    80%
+        OpacityMax            =    100%
+        MinRadius             =    70
+        MaxRadius             =    200
+        MaxSelectedUnits      =    40
+    End
+END
+
+ExperienceLevel    Evil_Elite_MonsterLevel10
+    TargetNames                       =    EVIL_ELITE_MONSTERS
+    RequiredExperience                =    EXPERIENCE_REQUIRED_ELITE_MONSTER_HORDE_10
+    ExperienceAward                   =    EXPERIENCE_AWARD_ELITE_MONSTER_HORDE_10
+    Rank                              =    10
+    Upgrades                          =    Upgrade_ObjectLevel10 Upgrade_MiniHordeLvl10 Upgrade_EliteHordeLvl10
+    AttributeModifiers                =    EliteMonsterHordeBonusRank10
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+    SelectionDecal
+        Texture               =    decal_I_level4
+        Texture2              =    decal_evil_CO
+        Style                 =    SHADOW_MERGE_DECAL
+        OpacityMin            =    80%
+        OpacityMax            =    100%
+        MinRadius             =    70
+        MaxRadius             =    200
+        MaxSelectedUnits      =    40
+    End
+END
 
 
 

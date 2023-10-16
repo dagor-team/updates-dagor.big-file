@@ -1779,6 +1779,40 @@ ModifierList EliteMonsterHordeBonusRank5
     Duration = 0
 End
 
+ModifierList EliteMonsterHordeBonusRank6
+    Category = LEVEL
+    Modifier = HEALTH ELITEMONSTER_HORDE_HP_ADD_LVL6
+    Modifier = DAMAGE_ADD ELITEMONSTER_HORDE_DAMAGE_ADD_LVL6
+    Duration = 0
+End
+
+ModifierList EliteMonsterHordeBonusRank7
+    Category = LEVEL
+    Modifier = HEALTH ELITEMONSTER_HORDE_HP_ADD_LVL7
+    Modifier = DAMAGE_ADD ELITEMONSTER_HORDE_DAMAGE_ADD_LVL7
+    Duration = 0
+End
+
+ModifierList EliteMonsterHordeBonusRank8
+    Category = LEVEL
+    Modifier = HEALTH ELITEMONSTER_HORDE_HP_ADD_LVL8
+    Modifier = DAMAGE_ADD ELITEMONSTER_HORDE_DAMAGE_ADD_LVL8
+    Duration = 0
+End
+
+ModifierList EliteMonsterHordeBonusRank9
+    Category = LEVEL
+    Modifier = HEALTH ELITEMONSTER_HORDE_HP_ADD_LVL9
+    Modifier = DAMAGE_ADD ELITEMONSTER_HORDE_DAMAGE_ADD_LVL9
+    Duration = 0
+End
+
+ModifierList EliteMonsterHordeBonusRank10
+    Category = LEVEL
+    Modifier = HEALTH ELITEMONSTER_HORDE_HP_ADD_LVL10
+    Modifier = DAMAGE_ADD ELITEMONSTER_HORDE_DAMAGE_ADD_LVL10
+    Duration = 0
+End
 ;----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 

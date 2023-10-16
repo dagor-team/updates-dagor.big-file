@@ -473,12 +473,21 @@
 #define ELITEMONSTER_HORDE_HP_ADD_LVL3               500
 #define ELITEMONSTER_HORDE_HP_ADD_LVL4               500
 #define ELITEMONSTER_HORDE_HP_ADD_LVL5               500
+#define ELITEMONSTER_HORDE_HP_ADD_LVL6               550
+#define ELITEMONSTER_HORDE_HP_ADD_LVL7               550
+#define ELITEMONSTER_HORDE_HP_ADD_LVL8               550
+#define ELITEMONSTER_HORDE_HP_ADD_LVL9               550
+#define ELITEMONSTER_HORDE_HP_ADD_LVL10              550
 
 #define ELITEMONSTER_HORDE_DAMAGE_ADD_LVL2            50
 #define ELITEMONSTER_HORDE_DAMAGE_ADD_LVL3            55
 #define ELITEMONSTER_HORDE_DAMAGE_ADD_LVL4            55
 #define ELITEMONSTER_HORDE_DAMAGE_ADD_LVL5            55
-
+#define ELITEMONSTER_HORDE_DAMAGE_ADD_LVL6            55
+#define ELITEMONSTER_HORDE_DAMAGE_ADD_LVL7            60
+#define ELITEMONSTER_HORDE_DAMAGE_ADD_LVL8            60
+#define ELITEMONSTER_HORDE_DAMAGE_ADD_LVL9            60
+#define ELITEMONSTER_HORDE_DAMAGE_ADD_LVL10           60
 ;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
