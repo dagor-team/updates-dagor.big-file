@@ -1,5 +1,4 @@
 By Gorgo:
--ecthelion no longer has frost immunty gives crush 
 By Oogglie:
 -hero and unit exp change 
 -fixed ecthelion being able to be recuited from the first age forts
