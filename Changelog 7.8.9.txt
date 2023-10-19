@@ -1,18 +1,14 @@
 By Gorgo:
--Dol amroth soldiers passive healing on lvl 3 and immunity to poison at lvl 4
--giant scorpion purchasable at spider pit lvl 2 instead of the broodmothers
--ecthelion leadership only gives immunity to frost dmg and slight resistance to trample
--gothmog (orc) leadership actually scales now through lvls
--zaphragor mini rework/buff
--gorkil duplicating bug fixed
--spider catapults limited to 3
--archer mount upgrades for battle wagons dmg increased significantly
--gondor monster hunters dmg multiplier against monsters fixed
--elf lords speed nerf from 62 to 52, upgraded armor nerf, base dmg from 400 to 350, upgraded dmg from 130 to 100
--spiderlings armor nerf (cause they were insane)
--water lore masters debuff no longer affects heroes
--all lore masters range increased
--Wulf two new abilities
--loth farms leadership no longer 50% armor, instead 25% vision
--goblin archers slight range nerf 300 -> 270
--goblin pikes do dmg to buildings now
+-ecthelion no longer has frost immunty gives crush 
+By Oogglie:
+-hero and unit exp change 
+-fixed ecthelion being able to be recuited from the first age forts
+-nerf silver throns  
+ 	-pierce    100 -> 90
+       	-magic     50  -> 45
+-nerfed Haldirs leadership
+			damage  multipler 150% -> 130%
+-gilglad slight buff 
+
+
+ 
