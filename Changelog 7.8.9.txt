@@ -1,5 +1,6 @@
 By Gorgo:
--ecthelion no longer has frost immunty gives crush 
+-ecthelion no longer has frost immunty gives crush, fear and terror resist
+-dragons and fire wyrms lvl up to lvl 10 fix
 By Oogglie:
 -hero and unit exp change 
 -fixed ecthelion being able to be recuited from the first age forts
