@@ -6,11 +6,11 @@
 #define EXPERIENCE_REQUIRED_EXPANDABLE_HORDE_4        80
 #define EXPERIENCE_REQUIRED_EXPANDABLE_HORDE_5        140
 
-#define EXPERIENCE_AWARD_EXPANDABLE_HORDE_1            3
-#define EXPERIENCE_AWARD_EXPANDABLE_HORDE_2            4
-#define EXPERIENCE_AWARD_EXPANDABLE_HORDE_3            5
-#define EXPERIENCE_AWARD_EXPANDABLE_HORDE_4            6
-#define EXPERIENCE_AWARD_EXPANDABLE_HORDE_5            7
+#define EXPERIENCE_AWARD_EXPANDABLE_HORDE_1            2
+#define EXPERIENCE_AWARD_EXPANDABLE_HORDE_2            3
+#define EXPERIENCE_AWARD_EXPANDABLE_HORDE_3            3
+#define EXPERIENCE_AWARD_EXPANDABLE_HORDE_4            4
+#define EXPERIENCE_AWARD_EXPANDABLE_HORDE_5            4
 
 ;------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -22,10 +22,10 @@
 #define EXPERIENCE_REQUIRED_CHEAP_HORDE_5        250
 
 #define EXPERIENCE_AWARD_CHEAP_HORDE_1            4
-#define EXPERIENCE_AWARD_CHEAP_HORDE_2            5
-#define EXPERIENCE_AWARD_CHEAP_HORDE_3            6
-#define EXPERIENCE_AWARD_CHEAP_HORDE_4            7
-#define EXPERIENCE_AWARD_CHEAP_HORDE_5            8
+#define EXPERIENCE_AWARD_CHEAP_HORDE_2            4
+#define EXPERIENCE_AWARD_CHEAP_HORDE_3            5
+#define EXPERIENCE_AWARD_CHEAP_HORDE_4            5
+#define EXPERIENCE_AWARD_CHEAP_HORDE_5            6
 
 ;------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -37,16 +37,16 @@
 #define EXPERIENCE_REQUIRED_BASIC_HORDE_5        340
 
 #define EXPERIENCE_AWARD_BASIC_HORDE_1            5
-#define EXPERIENCE_AWARD_BASIC_HORDE_2            6
-#define EXPERIENCE_AWARD_BASIC_HORDE_3            7
-#define EXPERIENCE_AWARD_BASIC_HORDE_4            8
-#define EXPERIENCE_AWARD_BASIC_HORDE_5            9
+#define EXPERIENCE_AWARD_BASIC_HORDE_2            5
+#define EXPERIENCE_AWARD_BASIC_HORDE_3            6
+#define EXPERIENCE_AWARD_BASIC_HORDE_4            7
+#define EXPERIENCE_AWARD_BASIC_HORDE_5            7
 
 #define EXPERIENCE_AWARD_BASIC_10_HORDE_1            6
-#define EXPERIENCE_AWARD_BASIC_10_HORDE_2            7
-#define EXPERIENCE_AWARD_BASIC_10_HORDE_3            8
-#define EXPERIENCE_AWARD_BASIC_10_HORDE_4            9
-#define EXPERIENCE_AWARD_BASIC_10_HORDE_5            10
+#define EXPERIENCE_AWARD_BASIC_10_HORDE_2            6
+#define EXPERIENCE_AWARD_BASIC_10_HORDE_3            7
+#define EXPERIENCE_AWARD_BASIC_10_HORDE_4            7
+#define EXPERIENCE_AWARD_BASIC_10_HORDE_5            8
 
 ;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -57,10 +57,10 @@
 #define EXPERIENCE_REQUIRED_REGULAR_15_HORDE_5        400
 
 #define EXPERIENCE_AWARD_REGULAR_15_HORDE_1            7
-#define EXPERIENCE_AWARD_REGULAR_15_HORDE_2            8
-#define EXPERIENCE_AWARD_REGULAR_15_HORDE_3            9
-#define EXPERIENCE_AWARD_REGULAR_15_HORDE_4            10
-#define EXPERIENCE_AWARD_REGULAR_15_HORDE_5            11
+#define EXPERIENCE_AWARD_REGULAR_15_HORDE_2            7
+#define EXPERIENCE_AWARD_REGULAR_15_HORDE_3            8
+#define EXPERIENCE_AWARD_REGULAR_15_HORDE_4            8
+#define EXPERIENCE_AWARD_REGULAR_15_HORDE_5            9
 
 
 ;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -72,10 +72,10 @@
 #define EXPERIENCE_REQUIRED_REGULAR_HORDE_5        335
 
 #define EXPERIENCE_AWARD_REGULAR_HORDE_1            8
-#define EXPERIENCE_AWARD_REGULAR_HORDE_2            9
-#define EXPERIENCE_AWARD_REGULAR_HORDE_3            10
-#define EXPERIENCE_AWARD_REGULAR_HORDE_4            11
-#define EXPERIENCE_AWARD_REGULAR_HORDE_5            12
+#define EXPERIENCE_AWARD_REGULAR_HORDE_2            8
+#define EXPERIENCE_AWARD_REGULAR_HORDE_3            9
+#define EXPERIENCE_AWARD_REGULAR_HORDE_4            9
+#define EXPERIENCE_AWARD_REGULAR_HORDE_5            10
 
 
 ;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -86,11 +86,11 @@
 #define EXPERIENCE_REQUIRED_REGULAR_5_HORDE_4        7290
 #define EXPERIENCE_REQUIRED_REGULAR_5_HORDE_5        7400
 
-#define EXPERIENCE_AWARD_REGULAR_5_HORDE_1            14
-#define EXPERIENCE_AWARD_REGULAR_5_HORDE_2            16
-#define EXPERIENCE_AWARD_REGULAR_5_HORDE_3            18
-#define EXPERIENCE_AWARD_REGULAR_5_HORDE_4            20
-#define EXPERIENCE_AWARD_REGULAR_5_HORDE_5            22
+#define EXPERIENCE_AWARD_REGULAR_5_HORDE_1            10
+#define EXPERIENCE_AWARD_REGULAR_5_HORDE_2            12
+#define EXPERIENCE_AWARD_REGULAR_5_HORDE_3            14
+#define EXPERIENCE_AWARD_REGULAR_5_HORDE_4            16
+#define EXPERIENCE_AWARD_REGULAR_5_HORDE_5            18
 
 
 ;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -102,10 +102,10 @@
 #define EXPERIENCE_REQUIRED_ADVANCED_HORDE_5        520
 
 #define EXPERIENCE_AWARD_ADVANCED_HORDE_1           9
-#define EXPERIENCE_AWARD_ADVANCED_HORDE_2           10
-#define EXPERIENCE_AWARD_ADVANCED_HORDE_3           11
-#define EXPERIENCE_AWARD_ADVANCED_HORDE_4           12
-#define EXPERIENCE_AWARD_ADVANCED_HORDE_5           13
+#define EXPERIENCE_AWARD_ADVANCED_HORDE_2           9
+#define EXPERIENCE_AWARD_ADVANCED_HORDE_3           10
+#define EXPERIENCE_AWARD_ADVANCED_HORDE_4           10
+#define EXPERIENCE_AWARD_ADVANCED_HORDE_5           11
 
 
 ;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -116,11 +116,11 @@
 #define EXPERIENCE_REQUIRED_ADVANCED_3_HORDE_4        300
 #define EXPERIENCE_REQUIRED_ADVANCED_3_HORDE_5        450
 
-#define EXPERIENCE_AWARD_ADVANCED_3_HORDE_1            20
-#define EXPERIENCE_AWARD_ADVANCED_3_HORDE_2            22
-#define EXPERIENCE_AWARD_ADVANCED_3_HORDE_3            24
-#define EXPERIENCE_AWARD_ADVANCED_3_HORDE_4            26
-#define EXPERIENCE_AWARD_ADVANCED_3_HORDE_5            28
+#define EXPERIENCE_AWARD_ADVANCED_3_HORDE_1            16
+#define EXPERIENCE_AWARD_ADVANCED_3_HORDE_2            18
+#define EXPERIENCE_AWARD_ADVANCED_3_HORDE_3            20
+#define EXPERIENCE_AWARD_ADVANCED_3_HORDE_4            22
+#define EXPERIENCE_AWARD_ADVANCED_3_HORDE_5            24
 
 
 ;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -147,10 +147,10 @@
 #define EXPERIENCE_REQUIRED_ADVANCED_8_HORDE_5        450
 
 #define EXPERIENCE_AWARD_ADVANCED_8_HORDE_1           10
-#define EXPERIENCE_AWARD_ADVANCED_8_HORDE_2           11
-#define EXPERIENCE_AWARD_ADVANCED_8_HORDE_3           12
-#define EXPERIENCE_AWARD_ADVANCED_8_HORDE_4           13
-#define EXPERIENCE_AWARD_ADVANCED_8_HORDE_5           14
+#define EXPERIENCE_AWARD_ADVANCED_8_HORDE_2           10
+#define EXPERIENCE_AWARD_ADVANCED_8_HORDE_3           11
+#define EXPERIENCE_AWARD_ADVANCED_8_HORDE_4           11
+#define EXPERIENCE_AWARD_ADVANCED_8_HORDE_5           12
 
 ;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
