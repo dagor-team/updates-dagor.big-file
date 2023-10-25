@@ -1145,11 +1145,11 @@ CONTROLBAR:ToolTipSpecialAbilityBardSchwarzerPfeil
 END
 
 CONTROLBAR:SpecialAbilityBardLeadership
-"Girion's Heir Small Leadership"
+"Girion's Heir Leadership"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityBardLeadership
-"Requires: Level 5 \n Changing Leadership \n Bard is the heir of Girion, and inspires nearby men with his heroism. \n Nearby men of Lake Town gain double experience and +25% damage in a medium range \n Can be toggled to have longer range at the cost of the experience gain. \n Left click to toggle the leadership \n Passive Ability"
+"Requires: Level 5 \n Changing Leadership \n Bard is the heir of Girion, and inspires nearby men with his heroism. \n Nearby men of Lake Town gain double experience and +25% damage in a medium range \n Passive Ability"
 END
 
 CONTROLBAR:SpecialAbilityBardLeadershipLarge
@@ -1158,6 +1158,14 @@ END
 
 CONTROLBAR:ToolTipSpecialAbilityBardLeadershipLarge
 "Requires: Level 5 \n Changing Leadership \n Bard is the heir of Girion, and inspires nearby men with his heroism. \n Nearby men of Lake Town gain double experience and +25% damage in a medium range \n Can be toggled to have longer range at the cost of the experience gain. \n Left click to toggle the leadership \n Passive Ability"
+END
+
+CONTROLBAR:DwarvenHallLeadership
+"Dwarven Hall Leadership"
+END
+
+CONTROLBAR:ToolTipDwarvenHallLeadership
+"Level 1: Dwarven hall is immune to siege damage \n Level 2: Allied infantry and cavalry near the hall gain +50% armor \n Level 3: Dwarven hall heals allied in its vicinity \n Level 4: Dwarven mines and the laketown in a wide radius gain 10% bonus production \n Level 5: Dwarven halls emit terror to nearby enemy units"
 END
 
 CONTROLBAR:BardDrosselLeadership
