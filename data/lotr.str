@@ -672,6 +672,14 @@ OBJECT:DwarvenBegleiterdesPrinzen
 "Unburnt"
 END
 
+CONTROLBAR:ZerkerRage
+"Decapitate"
+END
+
+CONTROLBAR:ToolTipZerkerRage
+"Requires: Level 10 \n Zerkers swing their axes in front of them dealing great amount of damage \n Left-click to activate"
+END
+
 CONTROLBAR:LW_Unit_DwarvenBegleiterdesPrinzenHorde
 "Unburnt from Ered Luin"
 END
@@ -1157,7 +1165,7 @@ CONTROLBAR:SpecialAbilityBardLeadershipLarge
 END
 
 CONTROLBAR:ToolTipSpecialAbilityBardLeadershipLarge
-"Requires: Level 5 \n Changing Leadership \n Bard is the heir of Girion, and inspires nearby men with his heroism. \n Nearby men of Lake Town gain double experience and +25% damage in a medium range \n Can be toggled to have longer range at the cost of the experience gain. \n Left click to toggle the leadership \n Passive Ability"
+"Requires: Level 5 \n Bard is the heir of Girion, and inspires nearby men with his heroism. \n Nearby men of Lake Town gain double experience and +25% damage in a medium range \n Can be toggled to have longer range at the cost of the experience gain. \n Left click to toggle the leadership \n Passive Ability"
 END
 
 CONTROLBAR:DwarvenHallLeadership
@@ -1166,6 +1174,14 @@ END
 
 CONTROLBAR:ToolTipDwarvenHallLeadership
 "Level 1: Dwarven hall is immune to siege damage \n Level 2: Allied infantry and cavalry near the hall gain +50% armor \n Level 3: Dwarven hall heals allied in its vicinity \n Level 4: Dwarven mines and the laketown in a wide radius gain 10% bonus production \n Level 5: Dwarven halls emit terror to nearby enemy units"
+END
+
+CONTROLBAR:ToolTipSpecialAbilityBardDwarvenHall
+"Requires: Level 7 \n Bard summon a dwarven hall from which gifts of the king under the mountain come \n Left click on a target area"
+END
+
+CONTROLBAR:SpecialAbilityBardDwarvenHall
+"Gift of the king under the mountain"
 END
 
 CONTROLBAR:BardDrosselLeadership
@@ -1190,6 +1206,14 @@ END
 
 OBJECT:BardBlackArrowCrate
 "Black Arrow"
+END
+
+CONTROLBAR:BuildDwarvenZerkerHorde
+"Dwarven Zerkers"
+END
+
+CONTROLBAR:ToolTipBuildDwarvenZerkerHorde
+"Requires: Level 5 \n Recruit personal elite of the king under the mountain \n Strong vs. everything, especially heroes"
 END
 
 OBJECT:DwarvenBrand
