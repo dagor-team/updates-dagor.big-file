@@ -1081,7 +1081,7 @@ CONTROLBAR:TaurielLeadership
 END
 
 CONTROLBAR:ToolTipTaurielLeadership
-"Mirkwood Archers near Tauriel gain 25% range and 50% vision.\n Passive ability"
+"Requires: Level 3 \n Mirkwood Archers near Tauriel gain 25% range and 50% vision.\n Passive ability"
 END
 
 CONTROLBAR:TaurielBowFightingMode
@@ -1089,7 +1089,7 @@ CONTROLBAR:TaurielBowFightingMode
 END
 
 CONTROLBAR:ToolTipTaurielBowFightingMode
-"Requires: Level 3 \n Tauriel commands the watch of Mirkwood.\n For 30 seconds Tauriel switches to her daggers.\n Left click to activate"
+"Tauriel commands the watch of Mirkwood.\n For 30 seconds Tauriel switches to her daggers.\n Left click to activate"
 END
 
 CONTROLBAR:SpecialAbilityTaurielAnspringen
@@ -4162,6 +4162,70 @@ END
 
 CONTROLBAR:ToolTipSpecialAbilitySpecialAbilityLeuchtfeuerGondor
 "The beacons of Gondor have been ignited \n The Men from the South go to Gondor's rescue \n Left-click on target area"
+END
+
+CONTROLBAR:PurchaseMorthrondFiefdom
+"Blackroot vale fiefdom"
+END
+
+CONTROLBAR:ToolTipPurchaseMorthrondFiefdom
+"Allies from the Blackroot vale come to your aid"
+END
+
+CONTROLBAR:PurchaseRingoValeFiefdom
+"Ringo vale fiefdom"
+END
+
+CONTROLBAR:ToolTipPurchaseRingoValeFiefdom
+"Allies from Ringo vale come to your aid"
+END
+
+CONTROLBAR:PurchaseLossarnachFiefdom
+"Lossarnach fiefdom"
+END
+
+CONTROLBAR:ToolTipPurchaseLossarnachFiefdom
+"Allies from Lossarnach come to your aid"
+END
+
+CONTROLBAR:PurchasePelargirFiefdom
+"Pelargir fiefdom"
+END
+
+CONTROLBAR:ToolTipPurchasePelargirFiefdom
+"Allies from Pelargir come to your aid"
+END
+
+CONTROLBAR:LossarnachAllies
+"Lossarnach allies"
+END
+
+CONTROLBAR:ToolTipLossarnachAllies
+"Summon 2 battalions of lossarnach axemen. \n Left click on target area"
+END
+
+CONTROLBAR:PelargirAllies
+"Pelargir allies"
+END
+
+CONTROLBAR:ToolTipPelargirAllies
+"Summon 2 battalions of pelargir spearmen. \n Left click on target area"
+END
+
+CONTROLBAR:RingoValeAllies
+"Ringo vale allies"
+END
+
+CONTROLBAR:ToolTipRingoValeAllies
+"Summon 2 battalions of ringo vale swordsmen. \n Left click on target area"
+END
+
+CONTROLBAR:BlackrootValeAllies
+"Blackroot vale allies"
+END
+
+CONTROLBAR:ToolTipBlackrootValeAllies
+"Summon 2 battalions of morthond archers. \n Left click on target area"
 END
 
 CONTROLBAR:BaumeisterArnors
@@ -22739,6 +22803,14 @@ CONTROLBAR:ToolTipEasMacht
 "Requires: Level 10 \n Ealendril brings the wrath of the old world \n Left click to activate"
 END
 
+CONTROLBAR:ConstructArnorHobbitArchers
+"Hobbit archers"
+END
+
+CONTROLBAR:ToolTipConstructArnorHobbitArchers
+"Purchase tookish archers from the inn."
+END
+
 CONTROLBAR:ToolTipHamonLeiEdain
 "Requires: Level 10 \n Arvedui kamoft obsessed with evil and puts tremendous power in his blows \n invulnerability, +50% damage and enemy units around him suffer permanent damage \n Arvedui uses his blessed sword \n Left click to activate"
 END
@@ -22748,7 +22820,7 @@ CONTROLBAR:ArveduiModLeadership
 END
 
 CONTROLBAR:ToolTipArveduiModLeadership
-"Requires: Level 7 \n Arvedui has an indomitable will and will never surrender, even if his kingdom is doomed\n He grants +50% armor and damage as well as +100% experience gain for troops near him \n Passive ability"
+"Arvedui has an indomitable will and will never surrender, even if his kingdom is doomed\n He grants +50% armor to nearby troops and buildings\n Passive ability"
 END
 
 CONTROLBAR:ToolTipPalantirAnnumias
@@ -90099,7 +90171,7 @@ CONTROLBAR:MablungCaptianFavour
 END
 
 CONTROLBAR:ToolTipMablungCaptianFavour
-"Requires: Level 3 \n Mablung gives experience to allied troops.\n Left-click icon then left-click on target area"
+"Requires: Level 10 \n Mablung gives experience to allied troops.\n Left-click icon then left-click on target area"
 END
 
 CONTROLBAR:MablungMounted
@@ -90123,7 +90195,7 @@ CONTROLBAR:MablungEpesse
 END
 
 CONTROLBAR:ToolTipMablungEpesse
-"Requires: Level 10 \n Mablung is a Quenya word which translates to "Heavy Hand." As his hand fell from the weight of the silmaril rescued from the clutches of Carcharoth, many have seen this Epessë, honorable after-name, more than prophetic.\n Mablung begins to use his terrible force against his enemies, knocking down enemy units with every strike in a wide area around him.\n Left-click to activate"
+"Requires: Level 3 \n Mablung is a Quenya word which translates to "Heavy Hand." As his hand fell from the weight of the silmaril rescued from the clutches of Carcharoth, many have seen this Epessë, honorable after-name, more than prophetic.\n Mablung begins to use his terrible force against his enemies, knocking down enemy units with every strike in a wide area around him.\n Left-click to activate"
 END
 
 
@@ -90628,6 +90700,18 @@ END
 
 CONTROLBAR:ToolTipLuhtienSong
 "Requires: Level 10 \n The magic song of Lúthien paralyzes all enemy units around the map.\n Lúthien remains motionless as she sings.\n The power of her words takes a heavy toll on her body, forcing her to recharge the ability after respawning.\n Left-click to activate" 
+END
+
+CONTROLBAR:SpecialAbilityArathornHobbitFarm
+"Hobbit farm"
+END
+
+CONTROLBAR:ToolTipSpecialAbilityArathornHobbitFarm
+"Requires: Level 3 \n After a difficult mission Arathorn stays at a hobbit farm enjoying a warm welcome. \n Arathorn summons a hobbit farm that produces great amount of resources. \n Left-click on a selected area"
+END
+
+CONTROLBAR:ToolTipArathornLeadership
+"Requires: Level 5 \n Arathorn gives nearby infantry fear and terror resistance on top of 25% damage. \n This leadership can´t be countered by a debuff. \n Passive ability"
 END
 
 OBJECT:ValinorHuan
