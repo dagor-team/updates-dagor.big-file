@@ -22787,6 +22787,22 @@ CONTROLBAR:ToolTipIstariderDunkelheit
 "Requires: Level 3 will be weakened \n The blood and malice of Morgoth flows through the veins Ealendrils \n Enemy units near him \n  \n  Passive ability"
 END
 
+CONTROLBAR:ArgdushDecimate
+"No retreat!"
+END
+
+CONTROLBAR:ToolTipArgdushDecimate
+"Ardush slaughters every orc in an area, signaling no retreat to all nearby orcs and sends enemies in the vicinity running in terror. \n Nearby orcs gain 25% armor and lose 40% speed. \n Left click on the desired area."
+END
+
+CONTROLBAR:GothmogsCaptains
+"Gothmog´s captains"
+END
+
+CONTROLBAR:ToolTipGothmogsCaptains
+"Requires: Level 3 \n Gothmog summons his captains do aid in the siege of Minas Tirith \n Left click on the desired area"
+END
+
 CONTROLBAR:DunkleMagie
 "Dark Arts"
 END
