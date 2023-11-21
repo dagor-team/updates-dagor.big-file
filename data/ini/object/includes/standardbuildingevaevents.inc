@@ -1,0 +1,4 @@
+	EvaEventDamagedOwner	        = StructureUnderAttack
+
+        EvaEnemyObjectSightedEvent	= EnemyCampSighted
+

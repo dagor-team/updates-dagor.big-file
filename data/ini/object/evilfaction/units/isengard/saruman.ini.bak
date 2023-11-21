@@ -1,0 +1,2882 @@
+Object IsengardSaruman_Mod
+
+    ButtonImage    = HISarumannew
+    SelectPortrait = HPSarumanAvatarNew
+
+    DescriptionStrategic = CONTROLBAR:LW_ToolTip_LeaderHero
+
+    Draw = W3DScriptedModelDraw ModuleTag_DRAW
+
+        ShowShadowWhileContained = Yes
+
+        ExtraPublicBone = STAFFFX
+
+        DefaultModelConditionState
+            Model               = IUSaruman_SKNF
+            Skeleton            = IUSaruman_SKL
+            WeaponLaunchBone    = PRIMARY STAFFFX
+        End
+
+        ModelConditionState     = USER_2
+            Model               = IUSaruman_SKNE
+            WeaponLaunchBone    = PRIMARY STAFFFX
+        End
+
+        IdleAnimationState
+            StateName = Idle
+            Animation = IDLB
+                AnimationName       = IUSaruman_IDLB
+                AnimationMode       = ONCE
+                AnimationPriority   = 20
+            End
+
+            Animation = IDLC
+                AnimationName       = IUSaruman_IDLC
+                AnimationMode       = ONCE
+                AnimationPriority   = 3
+            End
+
+            Animation = IDLD
+                AnimationName       = IUSaruman_IDLD
+                AnimationMode       = ONCE
+                AnimationPriority   = 1
+            End
+
+            BeginScript
+                Prev = CurDrawablePrevAnimationState()
+                if Prev == "Selected" then CurDrawableSetTransitionAnimState("TRANS_Selected_To_Idle") end
+            EndScript
+        End
+
+        AnimationState        = STUNNED_FLAILING
+            Flags               = RANDOMSTART
+            Animation           = FLYA
+                AnimationName     = IUSaruman_FLYA
+                AnimationMode     = LOOP
+            End
+        End
+
+
+        AnimationState            = DYING BURNINGDEATH DEATH_1
+            Animation
+                AnimationName    = IUSaruman_DIEB
+                AnimationMode    = ONCE
+                AnimationBlendTime = 10
+            End
+        End
+
+        AnimationState        = DYING SPLATTED DEATH_1
+            Animation
+                AnimationName     = IUSaruman_LNDA
+                AnimationMode     = ONCE
+            End
+        End
+
+        AnimationState        = DYING AFLAME DEATH_1
+            Animation = DieAflame
+                AnimationName     = IUSaruman_MFDA
+                AnimationMode     = LOOP
+            End
+        End
+
+        AnimationState        = DYING
+            Animation = DieB
+                AnimationName     = IUSaruman_DIEB
+                AnimationMode     = ONCE
+            End
+        End
+
+        AnimationState        = DYING DEATH_1
+            Animation = DieB
+                AnimationName     = IUSaruman_DIEB
+                AnimationMode     = ONCE
+            End
+        End
+
+        AnimationState        = DYING DEATH_2
+            Animation = ByeBye
+                AnimationName     = IUSaruman_IDLA
+                AnimationMode     = LOOP
+            End
+        End
+
+
+
+        AnimationState        = STUNNED_STANDING_UP
+            Animation
+                AnimationName     = IUSaruman_GTPA
+                AnimationMode     = ONCE
+                AnimationSpeedFactorRange = 1.5 1.5
+            End
+        End
+        AnimationState        = STUNNED
+            Animation
+                AnimationName     = IUSaruman_LNDA
+                AnimationMode     = ONCE
+            End
+        End
+
+        AnimationState            = BURNINGDEATH
+            Animation
+                AnimationName    = IUSaruman_MFDA
+                AnimationMode    = LOOP
+                Distance        = 50
+            End
+        End
+
+        AnimationState                        = PARALYZED
+            Animation
+                AnimationName                = IUSaruman_IDLB
+                AnimationMode                = LOOP
+            End
+        End
+
+
+        AnimationState                = PACKING_TYPE_1
+            StateName                = Dominate
+            Animation
+                AnimationName        = IUSaruman_TNTB
+                AnimationMode        = ONCE
+                AnimationBlendTime  = 5
+            End
+            FXEvent    = Frame:6    Name: FX_SarumanDominateAtSelf
+        End
+
+
+        AnimationState                = PACKING_TYPE_2
+            StateName                = Spped_Craft
+            Animation
+                AnimationName        = IUSaruman_TNTB
+                AnimationMode        = ONCE
+            End
+            FXEvent    = Frame:15    Name: FX_SpeechCraft
+        End
+
+
+        AnimationState                = PACKING_TYPE_3
+            StateName                = Dominate
+            Animation
+                AnimationName        = IUSaruman_TNTB
+                AnimationMode        = ONCE
+                AnimationBlendTime  = 5
+            End
+            FXEvent    = Frame:6    Name: FX_SarumanCurunirAtSelf
+        End
+
+
+
+
+         AnimationState = MOVING FIRING_OR_PREATTACK_A
+            Animation = TrotAndFire
+                AnimationName = IUSaruman_ATRA
+                AnimationMode = LOOP
+            End
+            Flags = RANDOMSTART
+
+        End
+
+
+         AnimationState                = MOVING USING_SPECIAL_ABILITY
+             Flags                    = RANDOMSTART
+             Animation                = IUSaruman_RUNB
+                 AnimationName     = IUSaruman_RUNB
+                 AnimationMode     = LOOP
+             End
+         End
+
+
+
+         AnimationState            = MOVING BACKING_UP
+            Animation            = BackingUp
+                AnimationName    = IUSaruman_BAKA
+                AnimationMode    = LOOP
+            End
+            Flags = RANDOMSTART
+        End
+
+        AnimationState        = MOVING ATTACKING
+             Animation              = IUSaruman_RUNB
+                 AnimationName     = IUSaruman_RUNB
+                 AnimationMode     = LOOP
+             End
+        End
+
+        AnimationState        = MOVING
+             Animation                = IUSaruman_RUNA
+                 AnimationName     = IUSaruman_RUNA
+                 AnimationMode     = LOOP
+             End
+        End
+
+
+        AnimationState          = SPECIAL_WEAPON_ONE
+            Animation                = Throwing Fireball
+                AnimationName        = IUSaruman_ATKB
+                AnimationMode        = ONCE
+            End
+            FrameForPristineBonePositions = 27
+        End
+
+
+         AnimationState        =  SPECIAL_WEAPON_TWO
+            StateName = Attacking
+            Animation
+                AnimationName       = IUSaruman_ATKB
+                AnimationMode       = ONCE
+            End
+            FrameForPristineBonePositions = 27
+        End
+
+
+        AnimationState          = SPECIAL_WEAPON_THREE
+            Animation                = Throwing Fireball
+                AnimationName        = IUSaruman_SPCA
+                AnimationMode        = ONCE
+                UseWeaponTiming        =    Yes
+            End
+            FrameForPristineBonePositions = 48
+            FXEvent    = Frame:6    Name: FX_SarumanWeiﬂerRatAtSelf
+        End
+
+
+
+        AnimationState        = FIRING_OR_PREATTACK_A
+            Animation           = IUSaruman_ATKC
+                AnimationName     = IUSaruman_ATKC
+                AnimationMode     = ONCE
+                UseWeaponTiming        =    Yes
+            End
+
+            Animation           = IUSaruman_ATKD
+                AnimationName     = IUSaruman_ATKD
+                AnimationMode     = ONCE
+                UseWeaponTiming        =    Yes
+            End
+        End
+
+
+        AnimationState = WAR_CHANT
+
+
+
+
+            Animation = Chant
+                AnimationName = IUSaruman_TNTB
+                AnimationMode = LOOP
+            End
+        End
+
+        AnimationState = EMOTION_TAUNTING
+            Animation = Chant
+                AnimationName = IUSaruman_TNTB
+                AnimationMode = ONCE
+            End
+            Flags                        = RANDOMSTART RESTART_ANIM_WHEN_COMPLETE
+        End
+
+        AnimationState = EMOTION_CELEBRATING
+            Animation = Chant
+                AnimationName = IUSaruman_TNTB
+                AnimationMode = ONCE
+            End
+            Flags                        = RANDOMSTART RESTART_ANIM_WHEN_COMPLETE
+        End
+
+
+        AnimationState = HIT_REACTION
+            Animation = Hit_Level_1_a
+                AnimationName = IUSaruman_HITA
+                AnimationMode = ONCE
+            End
+        End
+
+
+        AnimationState        = ATTACKING
+            Animation           = ALERT_1
+                AnimationName     = IUSaruman_IDLA
+                AnimationMode     = LOOP
+            End
+        End
+
+        TransitionState                    =    TRANS_Idle_to_Selected
+            Animation                    =    ATNA
+                AnimationName            =    IUSaruman_ATNA
+                AnimationMode            =    ONCE
+            End
+        End
+
+        TransitionState                    =    TRANS_Selected_To_Idle
+            Animation                    =    ATND
+                AnimationName            =    IUSaruman_ATND
+                AnimationMode            =    ONCE
+            End
+        End
+
+
+        AnimationState        = LEVELED
+            Animation = Yippee
+                AnimationName       = IUSaruman_TNTA
+                AnimationMode       = ONCE
+            End
+        End
+
+
+        AnimationState        = EMOTION_ALERT
+            Animation           = ALERT_1
+                AnimationName     = IUSaruman_IDLA
+                AnimationMode     = LOOP
+            End
+        End
+
+        AnimationState = RAISING_FLAG
+            Animation = Chant
+                AnimationName = IUSaruman_TNTA
+                AnimationMode = ONCE
+            End
+            Animation = Chant
+                AnimationName = IUSaruman_TNTB
+                AnimationMode = ONCE
+            End
+            Flags                        = RESTART_ANIM_WHEN_COMPLETE
+        End
+
+        AnimationState                =    SELECTED
+            StateName                =    Selected
+            SimilarRestart            =   Yes
+            Animation                =    ATNB
+                AnimationName        =    IUSaruman_ATNB
+                AnimationMode        =    LOOP
+                AnimationBlendTime  =   15
+            End
+            BeginScript
+                Prev = CurDrawablePrevAnimationState()
+                if Prev == "Idle" then CurDrawableSetTransitionAnimState("TRANS_Idle_to_Selected") end
+            EndScript
+        End
+    End
+
+    Draw = W3DScriptedModelDraw Icon
+        ModelConditionState = NONE
+            Model           = bbox
+        End
+    End
+
+    #include "..\..\..\includes\StunDrawModuleSmall.inc"
+
+
+    Side = Isengard
+    EditorSorting = UNIT
+    ThreatLevel = SARUMAN_THREAT_LEVEL
+    ThingClass = CHARACTER_UNIT
+    BuildCost           = SARUMANDAG_COST
+    BuildTime           = VERY_STRONG_HERO_BUILDTIME
+    DisplayMeleeDamage = STRONG_HERO_DAMAGE
+    MaxSimultaneousOfType = 1
+    TransportSlotCount = TRANSPORTSLOTCOUNT_HERO
+
+    WeaponSet
+        Conditions        = None
+        Weapon            = PRIMARY    SarumanWeaponKorrumpierte
+        AutoChooseSources = PRIMARY FROM_PLAYER FROM_SCRIPT FROM_AI
+    End
+
+    WeaponSet
+        Conditions        = CONTAINED
+        Weapon            = PRIMARY    SarumanWeaponFeuer_Orthanc
+        AutoChooseSources = PRIMARY FROM_PLAYER FROM_SCRIPT FROM_AI
+    End
+
+    WeaponSet
+        Conditions        = PASSENGER_TYPE_ONE
+        Weapon            = PRIMARY    SarumanWeaponFeuer_Orthanc
+        AutoChooseSources = PRIMARY FROM_PLAYER FROM_SCRIPT FROM_AI
+    End
+
+    WeaponSet
+        Conditions        = HIDDEN
+    End
+
+    ArmorSet
+        Conditions        = None
+        Armor             = StrongHeroArmor
+        DamageFX          = NormalDamageFX
+    End
+
+    VisionRange = VISION_STANDARD_MELEE
+    ShroudClearingRange = SHROUD_CLEAR_HERO
+    MaxVisionBonusPercent = 300%
+    VisionBonusTestRadius = 200
+    VisionBonusPercentPerFoot = 1.0%
+
+    BountyValue       = ISENGARD_SARUMAN_BOUNTY_VALUE
+    DisplayName       = OBJECT:IsengardSaruman
+    RecruitText       = CONTROLBAR:IsengardSarumanRecruit
+    ReviveText        = CONTROLBAR:IsengardSarumanRevive
+    Hotkey            = CONTROLBAR:IsengardSarumanHotkey
+    CrushableLevel    = 3
+    CrusherLevel      = 0
+
+    CommandSet = SarumanKorrumpierteCommandSet
+    CommandPoints = 0
+
+
+
+    AutoResolveUnitType = AutoResolveUnit_Hero
+    AutoResolveCombatChain = AutoResolve_HeroCombatChain
+
+    AutoResolveBody = AutoResolve_SarumanBody
+
+    AutoResolveArmor
+        Armor = AutoResolve_SarumanArmor
+    End
+
+    AutoResolveWeapon
+        Weapon = AutoResolve_SarumanWeapon
+    End
+
+
+
+    VoiceAttack                   = SarumanVoiceAttack
+    VoiceAttackCharge             = SarumanVoiceAttackCharge
+    VoiceFear                     = SarumanVoiceHelpMe
+    VoiceGuard                    = SarumanVoiceMove
+    VoiceMove                     = SarumanVoiceMove
+    VoiceMoveWhileAttacking       = SarumanVoiceDisengage
+    VoicePriority                 = 95
+    VoiceSelect                   = SarumanVoiceSelectMS
+    VoiceSelectBattle             = SarumanVoiceSelectBattle
+
+
+    SoundImpact                    = ImpactHorse
+
+    UnitSpecificSounds
+        VoiceEnterUnitEvilMenTransportShip    = SarumanVoiceMove
+        VoiceEnterUnitMordorMumakil           = SarumanVoiceMove
+        VoiceEnterUnitSlaughterHouse          = SarumanVoiceMove
+        VoiceGarrison                         = SarumanVoiceMove
+        VoiceInitiateCaptureBuilding          = SarumanVoiceMove
+    End
+
+    CrowdResponseKey = EvilMen1
+
+    #include "..\..\..\includes\StandardUnitEvaEvents.inc"
+    EvaEventDieOwner            = SarumanDie
+
+
+    Behavior = LargeGroupAudioUpdate ModuleTag_LGAU
+        Key = Humanoid_Male Man Man_Male Hero
+    End
+
+    ClientBehavior = AnimationSoundClientBehavior ModuleTag_AnimAudioBehavior
+        MaxUpdateRangeCap = 800
+        AnimationSound = Sound:FootstepDirtA        Animation:IUSaruman_SKL.IUSaruman_ATKB    Frames:39 104
+        AnimationSound = Sound:FootstepDirtA        Animation:IUSaruman_SKL.IUSaruman_ATKC     Frames:43 92
+        AnimationSound = Sound:FootstepDirtA        Animation:IUSaruman_SKL.IUSaruman_ATKD     Frames:13 29 55
+        AnimationSound = Sound:FootstepDirtA        Animation:IUSaruman_SKL.IUSaruman_ATRA    Frames:9 20 31 43 55 67
+        AnimationSound = Sound:FootstepDirtA        Animation:IUSaruman_SKL.IUSaruman_DIEB    Frames:20
+        AnimationSound = Sound:BodyFallGenericNoArmor    Animation:IUSaruman_SKL.IUSaruman_DIEB    Frames:34
+        AnimationSound = Sound:FootstepDirtA        Animation:IUSaruman_SKL.IUSaruman_GTPA    Frames:51 75 113 139
+        AnimationSound = Sound:FootstepDirtA        Animation:IUSaruman_SKL.IUSaruman_HITA    Frames:12
+        AnimationSound = Sound:FootstepDirtA        Animation:IUSaruman_SKL.IUSaruman_IDLC    Frames:116 188
+        AnimationSound = Sound:FootstepDirtA        Animation:IUSaruman_SKL.IUSaruman_IDLD    Frames:43
+        AnimationSound = Sound:BodyFallGenericNoArmor    Animation:IUSaruman_SKL.IUSaruman_LNDA    Frames:4
+        AnimationSound = Sound:FootstepDirtA        Animation:IUSaruman_SKL.IUSaruman_MFDA    Frames:10 19 29 39 48 57 66
+        AnimationSound = Sound:FootstepDirtA        Animation:IUSaruman_SKL.IUSaruman_RUNA    Frames:11 22 34 46 57 69
+        AnimationSound = Sound:FootstepDirtA        Animation:IUSaruman_SKL.IUSaruman_RUNB    Frames:10 23 36 49 62 75
+        AnimationSound = Sound:FootstepDirtA        Animation:IUSaruman_SKL.IUSaruman_TNTA    Frames:36 49 103 123
+        AnimationSound = Sound:FootstepDirtA        Animation:IUSaruman_SKL.IUSaruman_TNTB    Frames:24 111
+    End
+
+
+
+
+    RadarPriority = UNIT
+    KindOf = HERO PRELOAD GANDALF SELECTABLE CAN_CAST_REFLECTIONS INFANTRY PATH_THROUGH_EACH_OTHER SCORE NOTIFY_OF_PREATTACK ARMY_SUMMARY ATTACK_NEEDS_LINE_OF_SIGHT HEAVY_MELEE_HITTER
+    PathfindDiameter = 40.0
+
+
+    Body = RespawnBody ModuleTag_RespawnBody
+        CheerRadius                = EMOTION_CHEER_RADIUS
+        MaxHealth                  = SARUMANDAG_HEALTH
+        PermanentlyKilledByFilter  = NONE
+        DodgePercent               = HERO_DODGE_PERCENT
+        CheerRadius                = EMOTION_CHEER_RADIUS
+    End
+
+    Behavior = RespawnUpdate ModuleTag_RespawnUpdate
+	DeathAnim	           = DYING
+	DeathFX			   = FX_SarumanDieToRespawn
+	DeathAnimationTime	   = 5500
+	InitialSpawnFX		   = FX_SarumanInitialSpawn
+	RespawnAnim		   = LEVELED
+	RespawnFX		   = FX_SarumanRespawn
+	RespawnAnimationTime	   = 2000
+	AutoRespawnAtObjectFilter  = NONE +CASTLE_KEEP
+        ButtonImage                = HISarumannew
+        RespawnAsTemplate          = IsengardSaruman_Mod
+
+        RespawnRules =    AutoSpawn:No           Cost:SARUMANDAG_COST       Time:VERY_STRONG_HERO_RESPAWNTIME        Health:100%
+    End
+
+    Behavior = ObjectCreationUpgrade ModuleTag_GiveUpgrade5
+        TriggeredBy     = Upgrade_Level_5
+        Delay           = 0
+        ThingToSpawn    = Held5RespawnLevel
+    End
+
+    Behavior = ObjectCreationUpgrade ModuleTag_GiveUpgrade7
+        TriggeredBy     = Upgrade_Level_7
+        Delay           = 0
+        ThingToSpawn    = Held7RespawnLevel
+    End
+
+    Behavior = ObjectCreationUpgrade ModuleTag_GiveUpgrade10
+        TriggeredBy     = Upgrade_Level_10
+        Delay           = 0
+        ThingToSpawn    = Held10RespawnLevel
+    End
+
+    Behavior = AutoHealBehavior ModuleTag_SarumanHealing
+        StartsActive = Yes
+        HealingAmount = HERO_HEAL_AMOUNT
+        HealingDelay = 1000
+        StartHealingDelay = HERO_HEAL_DELAY
+        HealOnlyIfNotInCombat = Yes
+    End
+
+    Behavior = StancesBehavior ModuleTag_StancesBehavior
+        StanceTemplate = Hero
+
+    End
+
+    #include "..\..\..\includes\CaptureBuilding.inc"
+
+
+
+
+
+    Behavior = CitadelSlaughterHordeContain ModuleTag_SlaughterMe
+        PassengerFilter              = NONE +TheDroppedRing
+        ObjectStatusOfContained      = UNSELECTABLE ENCLOSED
+        ContainMax                   = 1
+        AllowEnemiesInside           = No
+        AllowAlliesInside            = Yes
+        AllowNeutralInside           = No
+        AllowOwnPlayerInsideOverride = Yes
+        EntryOffset                  = X:0.0 Y:0.0 Z:0.0
+        EntryPosition                = X:0.0 Y:0.0 Z:0.0
+        ExitOffset                   = X:0.0 Y:0.0 Z:0.0
+        StatusForRingEntry           = HOLDING_THE_RING
+        UpgradeForRingEntry          = Upgrade_RingHero Upgrade_FortressRingHero
+        ObjectToDestroyForRingEntry  = NONE +TheDroppedRing
+        FXForRingEntry               = FX_OneRingFlare
+    End
+
+    Behavior = PickupStuffUpdate ModuleTag_PickupStuffUpdate
+        SkirmishAIOnly = Yes
+        StuffToPickUp = NONE +TheDroppedRing
+        ScanRange = 3000
+        ScanIntervalSeconds = 0.5
+    End
+
+    Behavior = ModelConditionUpgrade ModulTag_RingHeroMC
+        TriggeredBy         = Upgrade_RingHero Upgrade_FortressRingHero
+        RequiresAllTriggers = Yes
+        AddConditionFlags   = ONE_RING
+    End
+
+    Behavior = AIUpdateInterface ModuleTag_03
+        AutoAcquireEnemiesWhenIdle    = Yes ATTACK_BUILDINGS
+        CanAttackWhileContained       = Yes
+        AttackPriority                = AttackPriority_Infantry
+        AILuaEventsList               = SarumanEdainFunctions
+    End
+
+    Behavior = EmotionTrackerUpdate    Module_EmotionTracker
+        TauntAndPointDistance               = 300
+        TauntAndPointUpdateDelay            = 10000
+        AddEmotion            =    Doom_Base
+        AddEmotion            =    Point_Base
+        AddEmotion            =    Taunt_Base
+        AddEmotion            =    CheerIdle_Base
+        AddEmotion            =    CheerBusy_Base
+        AddEmotion            =    Alert_Base
+        AddEmotion            =    CheerForAboutToCrush_Base
+    End
+
+    LocomotorSet
+        Locomotor = HumanLocomotor
+        Condition = SET_NORMAL
+        Speed     = NORMAL_EVIL_HERO_SPEED
+    End
+
+    LocomotorSet
+        Locomotor = HumanWanderLocomotor
+        Condition = SET_WANDER
+        Speed     = 32
+    End
+
+    LocomotorSet
+        Locomotor = BurningDeathLocomotorInfantry
+        Condition = SET_BURNINGDEATH
+        Speed      = BURNINGDEATH_WANDERSPEED_INFANTRY
+    End
+
+    Behavior = PhysicsBehavior ModuleTag_04
+        GravityMult = 1.0
+        ShockStandingTime        = 4000
+    End
+
+    Behavior = SlowDeathBehavior ModuleTag_05
+        DeathTypes = ALL -FADED
+        SinkDelay = 3000
+        SinkRate = 0.40
+        DestructionDelay = 8000
+        Sound = INITIAL SarumanVoiceDie
+        ShadowWhenDead = No
+        DeathFlags = DEATH_1
+    End
+
+    Behavior = SlowDeathBehavior ModuleTag_FadeDeath
+        DeathTypes = NONE +FADED
+        SinkDelay = 3000
+        SinkRate = 0.60
+        DestructionDelay = 100
+        DeathFlags = DEATH_2
+    End
+
+    Behavior = SquishCollide ModuleTag_06
+
+    End
+
+    Behavior = HitReactionBehavior HitReactionBehaviorModuleTag
+        HitReactionLifeTimer1 = 3000
+        HitReactionThreshold1 = 5.0
+    End
+
+    Behavior = AttributeModifierUpgrade ModuleTag_TurnVielfarbigBonus
+        TriggeredBy           = Upgrade_SarumanVielfarbig
+        AttributeModifier     = SpellBookSarumanVielfarbigeNew
+    End
+
+    Behavior = ModelConditionUpgrade ModuleTag_TurnVielfarbig
+        TriggeredBy           = Upgrade_SarumanVielfarbig
+        AddConditionFlags     = USER_2
+    End
+
+    Behavior = MonitorConditionUpdate ModuleTag_CommandSetSwapper1
+        WeaponSetFlags         = WEAPONSET_TOGGLE_1
+        WeaponToggleCommandSet = SarumanKorrumpierteCommandSet2
+    End
+
+    Behavior = MonitorConditionUpdate ModuleTag_CommandSetSwapper2
+        WeaponSetFlags         = WEAPONSET_TOGGLE_2
+        WeaponToggleCommandSet = SarumanKorrumpierteCommandSet
+    End
+
+    Behavior = CommandSetUpgrade ModuleTag_CommandSetAI
+        TriggeredBy    = Upgrade_ObjectUnderAIControl
+        CommandSet     = SarumanKorrumpierteCommandSetAI
+    End
+
+
+
+
+
+    Behavior = UnpauseSpecialPowerUpgrade ModuleTag_FactionLeaderLeadershipStart
+        SpecialPowerTemplate    = SpecialAbilityFakeLeadership3
+    End
+
+    Behavior = SpecialPowerModule ModuleTag_FactionLeaderLeadershipUpdate
+        SpecialPowerTemplate        = SpecialAbilityFakeLeadership3
+        UpdateModuleStartsAttack    = No
+        StartsPaused                = No
+    End
+
+    Behavior = AttributeModifierAuraUpdate ModuleTag_FactionLeaderLeadership
+        StartsActive     = Yes
+        BonusName        = FactionLeaderGlobalLeadership
+        RefreshDelay     = 2000
+        Range            = 625
+	    TargetEnemy	 = No
+        ObjectFilter     = ISENGARD_LEADERSHIP_UNITS_OBF
+    End
+
+
+
+
+
+    Behavior = UnpauseSpecialPowerUpgrade ModuleTag_LeadershipUnpause
+        SpecialPowerTemplate        = SpecialAbilityFakeLeadership2
+        TriggeredBy                 = Upgrade_Level_1
+    End
+
+    Behavior = SpecialPowerModule ModuleTag_Leadership
+        SpecialPowerTemplate        = SpecialAbilityFakeLeadership2
+        UpdateModuleStartsAttack    = No
+        StartsPaused                = No
+    End
+
+    Behavior = AttributeModifierAuraUpdate ModuleTag_LeadershipUpdate
+        StartsActive                = Yes
+        BonusName                   = SarumanLeadershipEdain
+        RefreshDelay                = 2000
+        Range                       = 200
+        ObjectFilter                = ISENGARD_LEADERSHIP_UNITS_OBF ;ANY +INFANTRY +CAVALRY +MACHINE -SHIP -HERO -DOZER -STRUCTURE ALLIES
+    End
+
+
+
+
+
+    Behavior = SpecialPowerModule ModuleTag_WizardBlastStarter
+        SpecialPowerTemplate        = SpecialPowerTelekeneticPush
+        UpdateModuleStartsAttack    = Yes
+        InitiateSound               = SarumanModVoiceAttack
+    End
+
+    Behavior = WeaponFireSpecialAbilityUpdate ModuleTag_WizardBlastUpdate
+        SpecialPowerTemplate        = SpecialPowerTelekeneticPush
+        WhichSpecialWeapon          = 2
+        SkipContinue                = Yes
+        UnpackTime                  = 700
+        PreparationTime             = 1
+        PersistentPrepTime          = 1000
+        PackTime                    = 100
+
+        AwardXPForTriggering        = 0
+        StartAbilityRange           = 80.0
+        MustFinishAbility           = Yes
+        SpecialWeapon               = SarumanWizardBlast
+    End
+
+    Behavior = AutoAbilityBehavior ModuleTag_WizardBlastAutoAbility
+        SpecialAbility              = SpecialPowerTelekeneticPush
+        MaxScanRange                = #SUBTRACT( GANDALF_FORCE_ATTACK_RANGE 25 )
+        Query                       = 1 ALL ENEMIES -STRUCTURE
+    End
+
+
+
+
+
+    Behavior = UnpauseSpecialPowerUpgrade ModuleTag_FireballEnabler
+        SpecialPowerTemplate    = SpecialAbilitySarumanFireball
+        TriggeredBy                = Upgrade_Level_2
+    End
+
+    Behavior = SpecialPowerModule ModuleTag_FireballStarter
+        SpecialPowerTemplate        = SpecialAbilitySarumanFireball
+        UpdateModuleStartsAttack    = Yes
+        StartsPaused            = Yes
+        InitiateSound            = SarumanVoiceAttackFireball
+    End
+
+    Behavior = WeaponFireSpecialAbilityUpdate ModuleTag_FireballUpdate
+        SpecialPowerTemplate    = SpecialAbilitySarumanFireball
+        WhichSpecialWeapon        = 1
+        SkipContinue            = Yes
+
+        UnpackTime                 = 800
+        PreparationTime            = 1
+        PersistentPrepTime        = 1000
+        PackTime                = 100
+
+        AwardXPForTriggering    = 0
+
+        StartAbilityRange        = SARUMAN_FIREBALL_RANGE
+        MustFinishAbility        = Yes
+        SpecialWeapon            = SarumanFireball
+    End
+
+    Behavior = AutoAbilityBehavior ModuleTag_FirBallAutoAbility
+        SpecialAbility                = SpecialAbilitySarumanFireball
+        MaxScanRange                = #SUBTRACT( SARUMAN_FIREBALL_RANGE 25 )
+        Query                        = 1 ALL ENEMIES -STRUCTURE
+    End
+
+
+
+
+
+    Behavior = UnpauseSpecialPowerUpgrade ModuleTag_KingsFavorEnabler
+        SpecialPowerTemplate           = SpecialAbilityKingsFavor
+        TriggeredBy                    = Upgrade_Level_4
+    End
+
+     Behavior = SpecialPowerModule ModuleTag_KingsFavorSpecialPowerModule
+        SpecialPowerTemplate        = SpecialAbilityKingsFavor
+        StartsPaused                = Yes
+        UpdateModuleStartsAttack    = Yes
+        InitiateSound                = SarumanVoiceSpeechCraft
+    End
+
+     Behavior = LevelGrantSpecialPower ModuleTag_KingsFavor
+        SpecialPowerTemplate        = SpecialAbilityKingsFavor
+        UnpackingVariation            = 2
+        StartAbilityRange            = 200.0
+
+
+        Experience                    = 150
+        RadiusEffect                = 100
+        AcceptanceFilter            = KINGSFAVOR_OBJECTFILTER
+        LevelFX                        = FX_LevelUp
+
+        UnpackTime                    = 2000
+        PreparationTime                = 1
+        FreezeAfterTriggerDuration    = 2500
+    End
+
+
+
+
+
+    Behavior = UnpauseSpecialPowerUpgrade ModuleTag_DominateEnabler
+        SpecialPowerTemplate           = SpecialAbilityDominateEnemySaruman
+        TriggeredBy                    = Upgrade_Level_5
+    End
+
+    Behavior = SpecialPowerModule ModuleTag_DominateEnemySpecialPowerModule
+        SpecialPowerTemplate           = SpecialAbilityDominateEnemySaruman
+        StartsPaused                   = Yes
+        UpdateModuleStartsAttack       = Yes
+        InitiateSound                  = SarumanVoiceDominate
+    End
+
+    Behavior = DominateEnemySpecialPower ModuleTag_DominateEnemySpecialPower
+        SpecialPowerTemplate           = SpecialAbilityDominateEnemySaruman
+        UnpackingVariation             = 1
+        StartAbilityRange              = 200.0
+        PermanentlyConvert             = No
+        AttributeModifierAffects       = ALL -DOZER -HERO -STRUCTURE -ARMY_OF_DEAD -MOVE_ONLY ENEMIES NEUTRAL
+        DominateRadius                 = 100
+        DominatedFX                    = FX_SarumanDominateTargets
+        TriggerFX                      = FX_SarumanDominateTrigger
+        UnpackTime                     = 2000
+        PreparationTime                = 1
+        FreezeAfterTriggerDuration     = 2500
+    End
+
+
+
+
+
+    Behavior = UnpauseSpecialPowerUpgrade ModuleTag_OCLZweifelsEnabler
+       SpecialPowerTemplate        = SpecialAbilityWortedesZweifels
+       TriggeredBy                 = Upgrade_Level_7
+       ObeyRechageOnTrigger        = Yes
+    End
+
+    Behavior = OCLSpecialPower  ModuleTag_OCLZweifels
+       SpecialPowerTemplate        = SpecialAbilityWortedesZweifels
+       OCL                         = OCL_WortedesZweifelsPing
+       CreateLocation              = CREATE_AT_LOCATION
+       StartsPaused                = Yes
+    End
+
+    Behavior = SpecialAbilityUpdate ModuleTag_OCLZweifelsUpdate
+        SpecialPowerTemplate       = SpecialAbilityWortedesZweifels
+        UnpackTime                 = 1
+        PreparationTime            = 3
+        PackTime                   = 2096
+        AwardXPForTriggering       = 0
+        FreezeAfterTriggerDuration = 0
+    End
+
+
+
+
+
+    Behavior = UnpauseSpecialPowerUpgrade ModuleTag_LightningEnabler
+        SpecialPowerTemplate        = SpecialAbilityMachtCurunirs
+        TriggeredBy                 = Upgrade_Level_15
+    End
+
+    Behavior = SpecialPowerModule ModuleTag_LightningStrike
+        SpecialPowerTemplate        = SpecialAbilityMachtCurunirs
+        UpdateModuleStartsAttack    = Yes
+        StartsPaused                = Yes
+        InitiateSound               = SarumanMachtCurunirLightningMS
+    End
+
+    Behavior = ArrowStormUpdate ModuleTag_ShootLightningBolts
+        SpecialPowerTemplate    = SpecialAbilityMachtCurunirs
+        StartAbilityRange       = 400.0
+        UnpackingVariation      = 3
+        CanShootEmptyGround     = Yes
+
+        UnpackTime              = 2500
+        PreparationTime         = 1
+        PersistentPrepTime      = 500
+        PackTime                = 1500
+        ApproachRequiresLOS     = No
+        AwardXPForTriggering    = 0
+
+        WeaponTemplate  = MachtCurunirsWeapon
+        TargetRadius    = 100
+        ShotsPerTarget  = 1
+        ShotsPerBurst   = 5
+        MaxShots        = ISENGARD_SARUMAN_LIGHTNING_NUMSHOTS
+    End
+
+    Behavior = AutoAbilityBehavior ModuleTag_MachtCurunirsAutoAbility
+        SpecialAbility               = SpecialAbilityMachtCurunirs
+        MaxScanRange                 = #SUBTRACT( SARUMAN_LIGHTNING_RANGE 25 )
+        Query                        = 1 ALL ENEMIES -STRUCTURE
+    End
+
+
+
+
+
+    Behavior = SpecialPowerModule ModuleTag_RingToggleStarter
+         SpecialPowerTemplate        = SpecialAbilityGandalfVerfuhrte
+         UpdateModuleStartsAttack    = Yes
+         StartsPaused                = Yes
+    End
+
+    Behavior = ToggleMountedSpecialAbilityUpdate RingToggle
+         SpecialPowerTemplate        = SpecialAbilityGandalfVerfuhrte
+         MountedTemplate             = IsengardSarumanRing
+         SynchronizeTimerOnSpecialPower = SpecialPowerTelekeneticPush SpecialAbilityDominateEnemySaruman SpecialAbilityWortedesZweifels SpecialAbilitySarumanFireball
+         UnpackTime                  = OBJECT_TOGGLE_TIME
+         PreparationTime             = 0
+         PackTime                    = 0
+         OpacityTarget               = .0
+         AwardXPForTriggering        = 0
+         IgnoreFacingCheck           = Yes
+    End
+
+    Behavior = DoCommandUpgrade Module_DoCommandUpgradeRing
+        TriggeredBy                 = Upgrade_RingHero
+        GetUpgradeCommandButtonName = Command_SpecialAbilityMountainTrollToggle
+    End
+
+
+
+
+
+    Behavior = AISpecialPowerUpdate GondorFighterHordeStanceBattle
+        CommandButtonName  = Command_SetStanceBattle
+        SpecialPowerAIType = AI_SPECIAL_POWER_STANCEBATTLE
+    End
+
+    Behavior = AISpecialPowerUpdate GondorFighterHordeStanceAggressive
+        CommandButtonName  = Command_SetStanceAggressive
+        SpecialPowerAIType = AI_SPECIAL_POWER_STANCEAGGRESSIVE
+    End
+
+    Behavior = AISpecialPowerUpdate GondorFighterHordeHoldGround
+        CommandButtonName  = Command_SetStanceHoldGround
+        SpecialPowerAIType = AI_SPECIAL_POWER_STANCEHOLDGROUND
+    End
+
+    Behavior = AISpecialPowerUpdate ElvenLorienWarriorHordeCaptureBuildingAI
+        CommandButtonName  = Command_CaptureBuilding
+        SpecialPowerAIType = AI_SPECIAL_POWER_CAPTURE_BUILDING
+    End
+
+    Behavior = AISpecialPowerUpdate WizardBlastAI
+	CommandButtonName = Command_SpecialAbilityIsengardWizardBlast
+	SpecialPowerAIType = AI_SPECIAL_POWER_GANDALF_WIZARD_BLAST
+	SpecialPowerRadius = 100
+    End
+
+    Behavior = AISpecialPowerUpdate FireballAI
+	CommandButtonName = Command_SarumanFeuerball
+	SpecialPowerAIType = AI_SPECIAL_POWER_ENEMY_TYPE_KILLER
+	SpecialPowerAIType = AI_SPECIAL_POWER_MORGUL_BLADE
+    End
+
+    Behavior = AISpecialPowerUpdate SpecialPowerSarumanGiveXPAoE
+	CommandButtonName = Command_SpecialAbilitySpeechCraftSarumanEdain
+	SpecialPowerAIType = AI_SPECIAL_POWER_GIVEXP_AOE
+	SpecialPowerRadius = 30.0
+    End
+
+    Behavior = AISpecialPowerUpdate DominateAI
+	CommandButtonName = Command_SpecialAbilityDominateEnemySaruman
+	SpecialPowerAIType = AI_SPECIAL_POWER_RANGED_AOE_ATTACK
+	SpecialPowerRadius = 100
+    End
+
+    Behavior = AISpecialPowerUpdate WordsofDoubtAI
+	CommandButtonName = Command_SpecialAbilityWortedesZweifels
+	SpecialPowerAIType = AI_SPECIAL_POWER_CHARGE
+    End
+
+    Behavior = AISpecialPowerUpdate ThunderboltNonRingAI
+	CommandButtonName = Command_SarumanPower
+	SpecialPowerAIType = AI_SPELLBOOK_ARMY_BREAKER
+	SpecialPowerRadius = 100
+    End
+
+    Geometry                  = CYLINDER
+    GeometryMajorRadius       = 8.0
+    GeometryMinorRadius       = 8.0
+    GeometryHeight            = 19.2
+    GeometryIsSmall           = Yes
+
+    Shadow                    = SHADOW_DECAL
+    ShadowSizeX               = 19
+    ShadowSizeY               = 19
+    ShadowTexture             = ShadowI
+End
+
+ChildObject IsengardSaruman IsengardSaruman_Mod
+End
+
+ChildObject IsengardSarumanKorrumpierte IsengardSaruman_Mod
+End
+
+Object IsengardSarumanRing
+
+    ButtonImage    = HISarumanRing
+    SelectPortrait = HPSarumanRing
+
+    EquivalentTo = IsengardSaruman_Mod
+
+    Draw = W3DScriptedModelDraw ModuleTag_01
+        DefaultModelConditionState
+            Model               = IUSaruman_SKA
+            Skeleton            = IUSaruman_SKL
+            WeaponLaunchBone    = PRIMARY STAFFFX
+        End
+    End
+
+    Side = Isengard
+    EditorSorting = UNIT
+    BuildVariations = IsengardSarumanVerfluchter IsengardSarumanGesegneter
+    MaxSimultaneousOfType = 1
+    KindOf = HERO PRELOAD SELECTABLE CAN_CAST_REFLECTIONS INFANTRY PATH_THROUGH_EACH_OTHER SCORE NOTIFY_OF_PREATTACK ARMY_SUMMARY ATTACK_NEEDS_LINE_OF_SIGHT HEAVY_MELEE_HITTER GANDALF
+
+    Behavior = RespawnUpdate ModuleTag_RespawnUpdate
+	DeathAnim	           = DYING
+	DeathFX			   = FX_SarumanDieToRespawn
+	DeathAnimationTime	   = 5500
+	InitialSpawnFX		   = FX_SarumanInitialSpawn
+	RespawnAnim		   = LEVELED
+	RespawnFX		   = FX_SarumanRespawn
+	RespawnAnimationTime	   = 2000
+	AutoRespawnAtObjectFilter  = NONE +CASTLE_KEEP
+        ButtonImage                = HISarumannew
+        RespawnAsTemplate          = IsengardSaruman_Mod
+
+        RespawnRules =            AutoSpawn:No    Cost:SARUMANDAG_COST        Time:VERY_STRONG_HERO_BUILDTIME        Health:100%
+    End
+
+    Behavior = UnpauseSpecialPowerUpgrade ModuleTag_SilmarilHeroLeadershipStart
+        SpecialPowerTemplate    = SpecialAbilityFakeLeadership3
+    End
+
+    Behavior = SpecialPowerModule ModuleTag_SilmarilHeroLeadershipUpdate
+        SpecialPowerTemplate        = SpecialAbilityFakeLeadership3
+        UpdateModuleStartsAttack    = No
+        StartsPaused                = No
+    End
+
+    Behavior = AttributeModifierAuraUpdate ModuleTag_SilmarilHeroLeadership
+        StartsActive     = Yes
+        BonusName        = SilmarilHeroGlobalLeadership
+        RefreshDelay     = 2000
+        Range            = 1250
+        ObjectFilter     = ALL -HERO -MACHINE -SHIP -DOZER -STRUCTURE ALLIES
+    End
+End
+
+ChildObject IsengardSarumanRing_RingHero IsengardSarumanRing
+End
+
+
+Object IsengardSarumanVerfluchter
+
+    ButtonImage    = HISarumanRing
+    SelectPortrait = HPSarumanRing
+
+      EquivalentTo = IsengardSaruman_Mod
+
+    DescriptionStrategic = CONTROLBAR:LW_ToolTip_Saruman
+
+    Draw = W3DScriptedModelDraw ModuleTag_DRAW
+
+        RandomTexture = iusaruman_verflucht.tga  0 iusaruman.tga
+
+        ExtraPublicBone = STAFFFX
+
+        DefaultModelConditionState
+            Model               = IUSaruman_SKNF
+            Skeleton            = IUSaruman_SKL
+            WeaponLaunchBone    = PRIMARY STAFFFX
+            ParticleSysBone     = B_STAFF SarumanStabFX FollowBone:Yes
+        End
+
+
+        IdleAnimationState
+            StateName = Idle
+            Animation = IDLB
+                AnimationName       = IUSaruman_IDLB
+                AnimationMode       = ONCE
+                AnimationPriority   = 20
+            End
+
+            Animation = IDLC
+                AnimationName       = IUSaruman_IDLC
+                AnimationMode       = ONCE
+                AnimationPriority   = 3
+            End
+
+            Animation = IDLD
+                AnimationName       = IUSaruman_IDLD
+                AnimationMode       = ONCE
+                AnimationPriority   = 1
+            End
+
+            BeginScript
+                Prev = CurDrawablePrevAnimationState()
+                if Prev == "Selected" then CurDrawableSetTransitionAnimState("TRANS_Selected_To_Idle") end
+            EndScript
+        End
+
+        AnimationState        = STUNNED_FLAILING
+            Flags               = RANDOMSTART
+            Animation           = FLYA
+                AnimationName     = IUSaruman_FLYA
+                AnimationMode     = LOOP
+            End
+        End
+
+
+        AnimationState            = DYING BURNINGDEATH
+            Animation
+                AnimationName    = IUSaruman_DIEB
+                AnimationMode    = ONCE
+                AnimationBlendTime = 10
+            End
+        End
+
+        AnimationState        = DYING SPLATTED
+            Animation
+                AnimationName     = IUSaruman_LNDA
+                AnimationMode     = ONCE
+            End
+        End
+        AnimationState        = DYING AFLAME
+            Animation = DieAflame
+                AnimationName     = IUSaruman_MFDA
+                AnimationMode     = LOOP
+            End
+        End
+        AnimationState        = DYING
+            Animation = DieB
+                AnimationName     = IUSaruman_DIEB
+                AnimationMode     = ONCE
+            End
+        End
+
+
+
+        AnimationState        = STUNNED_STANDING_UP
+            Animation
+                AnimationName     = IUSaruman_GTPA
+                AnimationMode     = ONCE
+                AnimationSpeedFactorRange = 1.5 1.5
+            End
+        End
+        AnimationState        = STUNNED
+            Animation
+                AnimationName     = IUSaruman_LNDA
+                AnimationMode     = ONCE
+            End
+        End
+
+        AnimationState            = BURNINGDEATH
+            Animation
+                AnimationName    = IUSaruman_MFDA
+                AnimationMode    = LOOP
+                Distance        = 50
+            End
+        End
+
+        AnimationState                        = PARALYZED
+            Animation
+                AnimationName                = IUSaruman_IDLB
+                AnimationMode                = LOOP
+            End
+        End
+
+
+        AnimationState                = PACKING_TYPE_1
+            StateName                = Dominate
+            Animation
+                AnimationName        = IUSaruman_TNTB
+                AnimationMode        = ONCE
+                AnimationBlendTime  = 5
+            End
+            FXEvent    = Frame:6    Name: FX_SarumanDominateAtSelf
+        End
+
+
+        AnimationState                = PACKING_TYPE_2
+            StateName                = Spped_Craft
+            Animation
+                AnimationName        = IUSaruman_TNTB
+                AnimationMode        = ONCE
+            End
+            FXEvent    = Frame:15    Name: FX_SpeechCraft
+        End
+
+
+        AnimationState                = PACKING_TYPE_3
+            StateName                = Dominate
+            Animation
+                AnimationName        = IUSaruman_TNTB
+                AnimationMode        = ONCE
+                AnimationBlendTime  = 5
+            End
+            FXEvent    = Frame:6    Name: FX_SarumanFeuersturmAtSelf
+        End
+
+
+
+
+         AnimationState = MOVING FIRING_OR_PREATTACK_A
+            Animation = TrotAndFire
+                AnimationName = IUSaruman_ATRA
+                AnimationMode = LOOP
+            End
+            Flags = RANDOMSTART
+            FXEvent    = Frame:0 FireWhenSkipped Name:FX_SarumanLeftFootStep
+            FXEvent    = Frame:12 FireWhenSkipped Name:FX_SarumanRightFootStep
+            FXEvent    = Frame:23 FireWhenSkipped Name:FX_SarumanLeftFootStep
+            FXEvent    = Frame:36 FireWhenSkipped Name:FX_SarumanRightFootStep
+            FXEvent    = Frame:48 FireWhenSkipped Name:FX_SarumanLeftFootStep
+            FXEvent    = Frame:59 FireWhenSkipped Name:FX_SarumanRightFootStep
+        End
+
+
+         AnimationState                = MOVING USING_SPECIAL_ABILITY
+             Flags                    = RANDOMSTART
+             Animation                = IUSaruman_RUNB
+                 AnimationName     = IUSaruman_RUNB
+                 AnimationMode     = LOOP
+             End
+            FXEvent    = Frame:0 FireWhenSkipped Name:FX_SarumanLeftFootStep
+            FXEvent    = Frame:12 FireWhenSkipped Name:FX_SarumanRightFootStep
+            FXEvent    = Frame:23 FireWhenSkipped Name:FX_SarumanLeftFootStep
+            FXEvent    = Frame:36 FireWhenSkipped Name:FX_SarumanRightFootStep
+            FXEvent    = Frame:48 FireWhenSkipped Name:FX_SarumanLeftFootStep
+            FXEvent    = Frame:59 FireWhenSkipped Name:FX_SarumanRightFootStep
+         End
+
+
+
+         AnimationState            = MOVING BACKING_UP
+            Animation            = BackingUp
+                AnimationName    = IUSaruman_BAKA
+                AnimationMode    = LOOP
+            End
+            Flags = RANDOMSTART
+            FXEvent    = Frame:0 FireWhenSkipped Name:FX_SarumanLeftFootStep
+            FXEvent    = Frame:12 FireWhenSkipped Name:FX_SarumanRightFootStep
+            FXEvent    = Frame:23 FireWhenSkipped Name:FX_SarumanLeftFootStep
+            FXEvent    = Frame:36 FireWhenSkipped Name:FX_SarumanRightFootStep
+            FXEvent    = Frame:48 FireWhenSkipped Name:FX_SarumanLeftFootStep
+            FXEvent    = Frame:59 FireWhenSkipped Name:FX_SarumanRightFootStep
+        End
+
+        AnimationState        = MOVING ATTACKING
+             Animation              = IUSaruman_RUNB
+                 AnimationName     = IUSaruman_RUNB
+                 AnimationMode     = LOOP
+             End
+            FXEvent    = Frame:0 FireWhenSkipped Name:FX_SarumanLeftFootStep
+            FXEvent    = Frame:12 FireWhenSkipped Name:FX_SarumanRightFootStep
+            FXEvent    = Frame:23 FireWhenSkipped Name:FX_SarumanLeftFootStep
+            FXEvent    = Frame:36 FireWhenSkipped Name:FX_SarumanRightFootStep
+            FXEvent    = Frame:48 FireWhenSkipped Name:FX_SarumanLeftFootStep
+            FXEvent    = Frame:59 FireWhenSkipped Name:FX_SarumanRightFootStep
+        End
+
+        AnimationState        = MOVING
+             Animation                = IUSaruman_RUNA
+                 AnimationName     = IUSaruman_RUNA
+                 AnimationMode     = LOOP
+             End
+            FXEvent    = Frame:0 FireWhenSkipped Name:FX_SarumanLeftFootStep
+            FXEvent    = Frame:12 FireWhenSkipped Name:FX_SarumanRightFootStep
+            FXEvent    = Frame:23 FireWhenSkipped Name:FX_SarumanLeftFootStep
+            FXEvent    = Frame:36 FireWhenSkipped Name:FX_SarumanRightFootStep
+            FXEvent    = Frame:48 FireWhenSkipped Name:FX_SarumanLeftFootStep
+            FXEvent    = Frame:59 FireWhenSkipped Name:FX_SarumanRightFootStep
+        End
+
+
+        AnimationState          = SPECIAL_WEAPON_ONE
+            Animation                = Throwing Fireball
+                AnimationName        = IUSaruman_ATKB
+                AnimationMode        = ONCE
+            End
+            FrameForPristineBonePositions = 27
+        End
+
+
+         AnimationState        =  SPECIAL_WEAPON_TWO
+            StateName = Attacking
+            Animation
+                AnimationName       = IUSaruman_ATKB
+                AnimationMode       = ONCE
+            End
+            FrameForPristineBonePositions = 27
+        End
+
+
+        AnimationState          = SPECIAL_WEAPON_THREE
+            Animation                = Throwing Fireball
+                AnimationName        = IUSaruman_SPCA
+                AnimationMode        = ONCE
+                UseWeaponTiming        =    Yes
+            End
+
+            FrameForPristineBonePositions = 48
+        End
+
+        AnimationState          = USER_3
+            Animation                = Throwing Fireball
+                AnimationName        = IUSaruman_SPCA
+                AnimationMode        = ONCE
+                UseWeaponTiming        =    Yes
+            End
+            FrameForPristineBonePositions = 48
+        End
+
+
+
+        AnimationState        = FIRING_OR_PREATTACK_A
+            Animation                = Throwing Fireball
+                AnimationName        = IUSaruman_ATKB
+                AnimationMode     = ONCE
+                UseWeaponTiming        =    Yes
+            End
+        End
+
+        AnimationState        = FIRING_OR_PREATTACK_B
+            Animation           = IUSaruman_ATKC
+                AnimationName     = IUSaruman_ATKC
+                AnimationMode     = ONCE
+                UseWeaponTiming        =    Yes
+            End
+
+            Animation           = IUSaruman_ATKD
+                AnimationName     = IUSaruman_ATKD
+                AnimationMode     = ONCE
+                UseWeaponTiming        =    Yes
+            End
+        End
+
+        AnimationState = WAR_CHANT
+            Animation = Chant
+                AnimationName = IUSaruman_TNTB
+                AnimationMode = LOOP
+            End
+        End
+
+        AnimationState = EMOTION_TAUNTING
+            Animation = Chant
+                AnimationName = IUSaruman_TNTA
+                AnimationMode = ONCE
+            End
+            Flags                        = RANDOMSTART RESTART_ANIM_WHEN_COMPLETE
+        End
+
+        AnimationState = EMOTION_CELEBRATING
+            Animation = Chant
+                AnimationName = IUSaruman_TNTB
+                AnimationMode = ONCE
+            End
+            Flags                        = RANDOMSTART RESTART_ANIM_WHEN_COMPLETE
+        End
+
+
+        AnimationState = HIT_REACTION
+            Animation = Hit_Level_1_a
+                AnimationName = IUSaruman_HITA
+                AnimationMode = ONCE
+            End
+        End
+
+
+        AnimationState        = ATTACKING
+            Animation           = ALERT_1
+                AnimationName     = IUSaruman_IDLA
+                AnimationMode     = LOOP
+            End
+        End
+
+        TransitionState                    =    TRANS_Idle_to_Selected
+            Animation                    =    ATNA
+                AnimationName            =    IUSaruman_ATNA
+                AnimationMode            =    ONCE
+            End
+        End
+
+        TransitionState                    =    TRANS_Selected_To_Idle
+            Animation                    =    ATND
+                AnimationName            =    IUSaruman_ATND
+                AnimationMode            =    ONCE
+            End
+        End
+
+
+        AnimationState        = LEVELED
+            Animation = Yippee
+                AnimationName       = IUSaruman_TNTA
+                AnimationMode       = ONCE
+            End
+        End
+
+
+        AnimationState        = EMOTION_ALERT
+            Animation           = ALERT_1
+                AnimationName     = IUSaruman_IDLA
+                AnimationMode     = LOOP
+            End
+        End
+
+        AnimationState = RAISING_FLAG
+            Animation = Chant
+                AnimationName = IUSaruman_TNTA
+                AnimationMode = ONCE
+            End
+            Animation = Chant
+                AnimationName = IUSaruman_TNTB
+                AnimationMode = ONCE
+            End
+            Flags                        = RESTART_ANIM_WHEN_COMPLETE
+        End
+
+        AnimationState                =    SELECTED
+            StateName                =    Selected
+            SimilarRestart            =   Yes
+            Animation                =    ATNB
+                AnimationName        =    IUSaruman_ATNB
+                AnimationMode        =    LOOP
+                AnimationBlendTime  =   15
+            End
+            BeginScript
+                Prev = CurDrawablePrevAnimationState()
+                if Prev == "Idle" then CurDrawableSetTransitionAnimState("TRANS_Idle_to_Selected") end
+            EndScript
+        End
+    End
+
+    #include "..\..\..\includes\StunDrawModuleSmall.inc"
+
+
+    Side = Isengard
+    EditorSorting = UNIT
+    ThreatLevel = SARUMAN_THREAT_LEVEL
+    ThingClass = CHARACTER_UNIT
+    BuildCost           = SARUMANDAG_COST
+    BuildTime           = VERY_STRONG_HERO_BUILDTIME
+    ShockwaveResistance = SHOCKWAVE_RESISTANCE_STRONG
+    DisplayRangedDamage = SARUMANDAG_DAMAGE
+    EquivalentTo         = IsengardSaruman_Mod
+    MaxSimultaneousOfType = 1
+    TransportSlotCount = TRANSPORTSLOTCOUNT_HERO
+
+    WeaponSet
+        Conditions = None
+        Weapon = PRIMARY    SarumanWeaponFeuerRing
+        AutoChooseSources = PRIMARY FROM_PLAYER FROM_SCRIPT FROM_AI
+    End
+
+    WeaponSet
+        Conditions = CLOSE_RANGE
+        Weapon = PRIMARY    SarumanWeaponFeuerRing
+        Weapon = SECONDARY  SarumanWeaponKorrumpierte
+        OnlyAgainst = PRIMARY STRUCTURE
+    End
+
+    WeaponSet
+        Conditions        = CONTAINED
+        Weapon            = PRIMARY    SarumanWeaponFeuerRing
+        AutoChooseSources = PRIMARY FROM_PLAYER FROM_SCRIPT FROM_AI
+    End
+
+    WeaponSet
+        Conditions        = PASSENGER_TYPE_ONE
+        Weapon            = PRIMARY    SarumanWeaponFeuerRing
+        AutoChooseSources = PRIMARY FROM_PLAYER FROM_SCRIPT FROM_AI
+    End
+
+    ArmorSet
+        Conditions      = None
+        Armor           = SilmarilHeroHeavyArmor
+        DamageFX        = NormalDamageFX
+    End
+
+    VisionRange = VISION_STANDARD_MELEE
+    ShroudClearingRange = SHROUD_CLEAR_HERO
+
+    MaxVisionBonusPercent = 300%
+    VisionBonusTestRadius = 200
+    VisionBonusPercentPerFoot = 1.0%
+
+    BountyValue       = ISENGARD_SARUMAN_BOUNTY_VALUE
+    DisplayName       = OBJECT:IsengardSarumanEvilSilmaril
+    RecruitText       = CONTROLBAR:IsengardSarumanRecruit
+    ReviveText        = CONTROLBAR:IsengardSarumanRevive
+    Hotkey            = CONTROLBAR:IsengardSarumanHotkey
+    CrushableLevel    = 4
+    CrusherLevel      = 0
+
+    CommandSet        = SarumanVerfluchteCommandSet
+    CommandPoints     = 0
+
+
+
+    AutoResolveUnitType = AutoResolveUnit_Hero
+    AutoResolveCombatChain = AutoResolve_HeroCombatChain
+
+    AutoResolveBody = AutoResolve_SarumanBody
+
+    AutoResolveArmor
+        Armor = AutoResolve_SarumanArmor
+    End
+
+    AutoResolveWeapon
+        Weapon = AutoResolve_SarumanWeapon
+    End
+
+
+    VoiceAttack                   = SarumanVoiceAttack
+    VoiceAttackCharge             = SarumanVoiceAttackCharge
+    VoiceFear                     = SarumanVoiceHelpMe
+    VoiceGuard                    = SarumanVoiceMove
+    VoiceMove                     = SarumanVoiceMove
+    VoiceMoveWhileAttacking       = SarumanVoiceDisengage
+    VoicePriority                 = 95
+    VoiceSelect                   = SarumanVoiceSelectMS
+    VoiceSelectBattle             = SarumanVoiceSelectBattle
+	VoiceCreated				  = SH_ForSaruman
+	VoiceFullyCreated			  = SH_ForSaruman
+
+    SoundImpact                   = ImpactHorse
+
+    UnitSpecificSounds
+        VoiceEnterUnitEvilMenTransportShip    = SarumanVoiceMove
+        VoiceEnterUnitMordorMumakil           = SarumanVoiceMove
+        VoiceEnterUnitSlaughterHouse          = SarumanVoiceMove
+        VoiceGarrison                         = SarumanVoiceMove
+        VoiceInitiateCaptureBuilding          = SarumanVoiceMove
+    End
+
+    CrowdResponseKey = EvilMen1
+
+    #include "..\..\..\includes\StandardUnitEvaEvents.inc"
+    EvaEventDieOwner            = SarumanDie
+
+    Behavior = LargeGroupAudioUpdate ModuleTag_LGAU
+        Key = Humanoid_Male Man Man_Male Hero
+    End
+
+    ClientBehavior = AnimationSoundClientBehavior ModuleTag_AnimAudioBehavior
+        MaxUpdateRangeCap = 800
+        AnimationSound = Sound:FootstepDirtA        Animation:IUSaruman_SKL.IUSaruman_ATKB    Frames:39 104
+        AnimationSound = Sound:FootstepDirtA        Animation:IUSaruman_SKL.IUSaruman_ATKC     Frames:43 92
+        AnimationSound = Sound:FootstepDirtA        Animation:IUSaruman_SKL.IUSaruman_ATKD     Frames:13 29 55
+        AnimationSound = Sound:FootstepDirtA        Animation:IUSaruman_SKL.IUSaruman_ATRA    Frames:9 20 31 43 55 67
+        AnimationSound = Sound:FootstepDirtA        Animation:IUSaruman_SKL.IUSaruman_DIEB    Frames:20
+        AnimationSound = Sound:BodyFallGenericNoArmor    Animation:IUSaruman_SKL.IUSaruman_DIEB    Frames:34
+        AnimationSound = Sound:FootstepDirtA        Animation:IUSaruman_SKL.IUSaruman_GTPA    Frames:51 75 113 139
+        AnimationSound = Sound:FootstepDirtA        Animation:IUSaruman_SKL.IUSaruman_HITA    Frames:12
+        AnimationSound = Sound:FootstepDirtA        Animation:IUSaruman_SKL.IUSaruman_IDLC    Frames:116 188
+        AnimationSound = Sound:FootstepDirtA        Animation:IUSaruman_SKL.IUSaruman_IDLD    Frames:43
+        AnimationSound = Sound:BodyFallGenericNoArmor    Animation:IUSaruman_SKL.IUSaruman_LNDA    Frames:4
+        AnimationSound = Sound:FootstepDirtA        Animation:IUSaruman_SKL.IUSaruman_MFDA    Frames:10 19 29 39 48 57 66
+        AnimationSound = Sound:FootstepDirtA        Animation:IUSaruman_SKL.IUSaruman_RUNA    Frames:11 22 34 46 57 69
+        AnimationSound = Sound:FootstepDirtA        Animation:IUSaruman_SKL.IUSaruman_RUNB    Frames:10 23 36 49 62 75
+        AnimationSound = Sound:FootstepDirtA        Animation:IUSaruman_SKL.IUSaruman_TNTA    Frames:36 49 103 123
+        AnimationSound = Sound:FootstepDirtA        Animation:IUSaruman_SKL.IUSaruman_TNTB    Frames:24 111
+    End
+
+
+
+    RadarPriority = UNIT
+    KindOf = HERO PRELOAD SELECTABLE CAN_CAST_REFLECTIONS INFANTRY PATH_THROUGH_EACH_OTHER SCORE NOTIFY_OF_PREATTACK ARMY_SUMMARY ATTACK_NEEDS_LINE_OF_SIGHT HEAVY_MELEE_HITTER GANDALF
+    PathfindDiameter = 40.0
+
+
+    Body = RespawnBody ModuleTag_RespawnBody
+        CheerRadius                = EMOTION_CHEER_RADIUS
+        MaxHealth                  = SARUMANDAG_HEALTH
+        PermanentlyKilledByFilter  = NONE
+        DodgePercent               = HERO_DODGE_PERCENT
+        CheerRadius                = EMOTION_CHEER_RADIUS
+    End
+
+    Behavior = RespawnUpdate ModuleTag_RespawnUpdate
+	DeathAnim	           = DYING
+	DeathFX			   = FX_SarumanDieToRespawn
+	DeathAnimationTime	   = 5500
+	InitialSpawnFX		   = FX_SarumanInitialSpawn
+	RespawnAnim		   = LEVELED
+	RespawnFX		   = FX_SarumanRespawn
+	RespawnAnimationTime	   = 2000
+	AutoRespawnAtObjectFilter  = NONE +CASTLE_KEEP
+        ButtonImage                = HISarumannew
+        RespawnAsTemplate          = IsengardSaruman_Mod
+
+        RespawnRules =            AutoSpawn:No    Cost:SARUMANDAG_COST        Time:VERY_STRONG_HERO_RESPAWNTIME        Health:100%
+    End
+
+    Behavior = ObjectCreationUpgrade ModuleTag_GiveUpgrade5
+        TriggeredBy     = Upgrade_Level_5
+        Delay           = 0
+        ThingToSpawn    = Held5RespawnLevel
+    End
+
+    Behavior = ObjectCreationUpgrade ModuleTag_GiveUpgrade7
+        TriggeredBy     = Upgrade_Level_7
+        Delay           = 0
+        ThingToSpawn    = Held7RespawnLevel
+    End
+
+    Behavior = ObjectCreationUpgrade ModuleTag_GiveUpgrade10
+        TriggeredBy     = Upgrade_Level_10
+        Delay           = 0
+        ThingToSpawn    = Held10RespawnLevel
+    End
+
+    Behavior = AutoHealBehavior ModuleTag_SarumanHealing
+        StartsActive = Yes
+        HealingAmount = HERO_HEAL_AMOUNT
+        HealingDelay = 1000
+        StartHealingDelay = HERO_HEAL_DELAY
+        HealOnlyIfNotInCombat = Yes
+    End
+
+    Behavior = StancesBehavior ModuleTag_StancesBehavior
+        StanceTemplate = Hero
+    End
+
+    #include "..\..\..\includes\CaptureBuilding.inc"
+
+    Behavior = AIUpdateInterface ModuleTag_03
+        AutoAcquireEnemiesWhenIdle    = Yes ATTACK_BUILDINGS
+        AttackPriority                = AttackPriority_Infantry
+        AILuaEventsList               = SarumanEdainFunctions
+    End
+
+    Behavior = EmotionTrackerUpdate    Module_EmotionTracker
+        TauntAndPointDistance                = 300
+        TauntAndPointUpdateDelay            = 10000
+        AddEmotion            =    Doom_Base
+        AddEmotion            =    Point_Base
+        AddEmotion            =    Taunt_Base
+        AddEmotion            =    CheerIdle_Base
+        AddEmotion            =    CheerBusy_Base
+        AddEmotion            =    Alert_Base
+        AddEmotion            =    CheerForAboutToCrush_Base
+    End
+
+    LocomotorSet
+        Locomotor = HumanLocomotor
+        Condition = SET_NORMAL
+        Speed     = NORMAL_EVIL_HERO_SPEED
+    End
+
+    LocomotorSet
+        Locomotor = HumanWanderLocomotor
+        Condition = SET_WANDER
+        Speed     = 32
+    End
+
+    LocomotorSet
+        Locomotor = BurningDeathLocomotorInfantry
+        Condition = SET_BURNINGDEATH
+        Speed      = BURNINGDEATH_WANDERSPEED_INFANTRY
+    End
+
+    Behavior = PhysicsBehavior ModuleTag_04
+        GravityMult = 1.0
+        ShockStandingTime        = 4000
+    End
+
+    Behavior = SlowDeathBehavior ModuleTag_05
+        DeathTypes = ALL
+        SinkDelay = 3000
+        SinkRate = 0.40
+        DestructionDelay = 8000
+        Sound = INITIAL SarumanVoiceDie
+        ShadowWhenDead = No
+    End
+
+    Behavior = SquishCollide ModuleTag_06
+
+    End
+
+    Behavior = HitReactionBehavior HitReactionBehaviorModuleTag
+        HitReactionLifeTimer1 = 3000
+        HitReactionThreshold1 = 5.0
+    End
+
+    Behavior = RemoveUpgradeUpgrade ModuleTag_RemoveSilmaril
+        TriggeredBy                   = Upgrade_AllFactionUpgrade
+        UpgradeToRemove               = Upgrade_FortressRingHero Upgrade_RingHero
+        RemoveFromAllPlayerObjects    = Yes
+        SuppressEvaEventForRemoval    = Yes
+    End
+
+
+
+
+
+    Behavior = UnpauseSpecialPowerUpgrade ModuleTag_SilmarilHeroLeadershipStart
+        SpecialPowerTemplate    = SpecialAbilityFakeLeadership3
+    End
+
+    Behavior = SpecialPowerModule ModuleTag_SilmarilHeroLeadershipUpdate
+        SpecialPowerTemplate        = SpecialAbilityFakeLeadership3
+        UpdateModuleStartsAttack    = No
+        StartsPaused                = No
+    End
+
+    Behavior = AttributeModifierAuraUpdate ModuleTag_SilmarilHeroLeadership
+        StartsActive     = Yes
+        BonusName        = SilmarilHeroGlobalLeadership
+        RefreshDelay     = 2000
+        Range            = 1250
+        ObjectFilter     = ALL -HERO -MACHINE -SHIP -DOZER -STRUCTURE ALLIES
+    End
+
+
+
+
+
+    Behavior = UnpauseSpecialPowerUpgrade ModuleTag_WahnUnpause
+        SpecialPowerTemplate        = SpecialAbilityVerfluchterIndustriellerWahn
+        TriggeredBy                 = Upgrade_Level_1
+    End
+
+    Behavior = SpecialPowerModule Wahn_ModuleTag
+        SpecialPowerTemplate        = SpecialAbilityVerfluchterIndustriellerWahn
+        AttributeModifier           = VerfluchterIndustry
+        AttributeModifierRange      = 100
+        AttributeModifierAffects    = INDUSTRY_TYPE_SPELL_OBJECT_FILTER
+        TriggerFX                   = FX_IndustrySarumanCuromo
+        UpdateModuleStartsAttack    = No
+        StartsPaused                = Yes
+    End
+
+
+
+
+
+
+
+    Behavior = UnpauseSpecialPowerUpgrade ModuleTag_AntriebEnabler
+        SpecialPowerTemplate         = SpecialAbilityAntriebdesVerfluchten
+        TriggeredBy                  = Upgrade_Level_3
+    End
+
+    Behavior = SpecialPowerModule ModuleTag_AntriebUpdate
+        SpecialPowerTemplate         = SpecialAbilityAntriebdesVerfluchten
+        UpdateModuleStartsAttack     = Yes
+        StartsPaused                 = Yes
+        AttributeModifier            = SarumanRingBonusFeuerUnits
+        AttributeModifierRange       = 250
+        AttributeModifierAffectsSelf = Yes
+        AttributeModifierAffects     = ANY +INFANTRY +CAVALRY -HERO -STRUCTURE -DOZER -SHIP -MACHINE +IsengardSarumanVerfluchter ALLIES
+        AttributeModifierFX          = FX_AntriebdesVerfluchtenFX
+    End
+
+    Behavior = SpecialAbilityUpdate ModuleTag_AntriebAnimation
+        UnpackTime                   = 1000
+        UnpackingVariation           = 2
+        SpecialPowerTemplate         = SpecialAbilityAntriebdesVerfluchten
+        PreparationTime              = 0
+        PersistentPrepTime           = 0
+        PackTime                     = 1330
+     End
+
+
+
+
+
+
+    Behavior = UnpauseSpecialPowerUpgrade ModuleTag_DominateEnabler
+        SpecialPowerTemplate           = SpecialAbilitySarumanDauerbekehrung
+        TriggeredBy                    = Upgrade_Level_5
+    End
+
+    Behavior = SpecialPowerModule ModuleTag_DominateEnemySpecialPowerModule
+        SpecialPowerTemplate           = SpecialAbilitySarumanDauerbekehrung
+        StartsPaused                   = Yes
+        UpdateModuleStartsAttack       = Yes
+        InitiateSound                  = SarumanVoiceDominate
+    End
+
+    Behavior = DominateEnemySpecialPower ModuleTag_DominateEnemySpecialPower
+        SpecialPowerTemplate           = SpecialAbilitySarumanDauerbekehrung
+        UnpackingVariation             = 1
+        StartAbilityRange              = 200.0
+        PermanentlyConvert             = No
+        AttributeModifierAffects       = ALL -DOZER -HERO -STRUCTURE -ARMY_OF_DEAD -MOVE_ONLY ENEMIES NEUTRAL
+        DominateRadius                 = 150
+        DominatedFX                    = FX_SarumanDominateTargets
+        TriggerFX                      = FX_SarumanDominateTrigger
+        UnpackTime                     = 2000
+        PreparationTime                = 1
+        FreezeAfterTriggerDuration     = 2500
+    End
+
+
+
+
+
+    Behavior = UnpauseSpecialPowerUpgrade ModuleTag_BrennendeSteppen
+        SpecialPowerTemplate        = SpecialAbilityBrennendeSteppen2
+        TriggeredBy                 = Upgrade_Level_7
+    End
+
+    Behavior = SpecialPowerModule ModuleTag_BrennendeSteppenStarter
+        SpecialPowerTemplate        = SpecialAbilityBrennendeSteppen2
+        UpdateModuleStartsAttack    = Yes
+        StartsPaused                = Yes
+    End
+
+    Behavior = WeaponFireSpecialAbilityUpdate ModuleTag_BrennendeSteppenUpdate
+        SpecialPowerTemplate        = SpecialAbilityBrennendeSteppen2
+        SkipContinue                = Yes
+        UnpackTime                  = 700
+        PreparationTime             = 1
+        PersistentPrepTime          = 1000
+        PackTime                    = 100
+        StartAbilityRange           = 250
+        SpecialWeapon               = BrennendeSteppenWeapon
+        WhichSpecialWeapon          = 3
+        MustFinishAbility           = Yes
+    End
+
+    Behavior = UnpauseSpecialPowerUpgrade ModuleTag_BrennendeSteppenEnabler2
+        SpecialPowerTemplate          = SpecialAbilityBrennendeSteppen
+        TriggeredBy                   = Upgrade_Level_7
+    End
+
+    Behavior = OCLSpecialPower ModuleTag_OCLSpecialPowerBrennendeSteppen2
+        SpecialPowerTemplate          = SpecialAbilityBrennendeSteppen
+        OCL                           = OCL_BrennendeSteppen
+        CreateLocation                = CREATE_AT_LOCATION
+        StartsPaused                  = Yes
+        TriggerFX                     = FX_SteppenFlames
+        SetModelCondition             = ModelConditionState:USER_3
+        SetModelConditionTime         = 2.333
+    End
+
+
+
+
+
+
+
+    Behavior = UnpauseSpecialPowerUpgrade ModuleTag_LightningEnabler
+        SpecialPowerTemplate = SpecialAbilitySarumanFeuersturm
+        TriggeredBy = Upgrade_Level_15
+    End
+
+    Behavior = SpecialPowerModule ModuleTag_11
+        SpecialPowerTemplate       = SpecialAbilitySarumanFeuersturm
+        UpdateModuleStartsAttack   = Yes
+        StartsPaused               = Yes
+    End
+
+    Behavior = ArrowStormUpdate ModuleTag_12
+        SpecialPowerTemplate    = SpecialAbilitySarumanFeuersturm
+        StartAbilityRange       = 400.0
+        UnpackingVariation      = 3
+        UnpackTime              = 2000
+        PreparationTime         = 200
+        PersistentPrepTime      = 1200
+        PackTime                = 1500
+	ApproachRequiresLOS     = Yes
+        AwardXPForTriggering    = 0
+        WeaponTemplate  	= SarumanFeuersturmWeapon
+        TargetRadius    	= 150
+        ShotsPerTarget  	= 1
+        ShotsPerBurst   	= 5
+        MaxShots        	= 25
+    End
+
+    Behavior = AutoAbilityBehavior ModuleTag_LightningAutoAbility
+        SpecialAbility          = SpecialAbilitySarumanFeuersturm
+        MaxScanRange            = #SUBTRACT( SARUMAN_LIGHTNING_RANGE 25 )
+        Query                   = 1 ALL ENEMIES -STRUCTURE
+    End
+
+    Behavior = FireWeaponUpdate ModuleTag_WeaponFiring
+        FireWeaponNugget
+            WeaponName = SarumanGesinnungWeapon
+            Offset = X:0 Y:0 Z:0
+            FireDelay = 0
+            OneShot = No
+        End
+    End
+
+    Behavior = FXListDie ModuleTag_AnnounceWeLostTheRing
+        DeathFX             	= GandalfAnnounceFortressDeathLostRingFX
+    End
+
+    Behavior = CreateObjectDie ModuleTag_DropTheRing
+        CreationList             = OCL_TheOneRing
+    End
+
+    Behavior = AttributeModifierUpgrade ModuleTag_TurnVielfarbigBonus
+        TriggeredBy           = Upgrade_SarumanVielfarbig
+        AttributeModifier     = SpellBookSarumanVielfarbigeNew
+    End
+
+
+
+
+
+    Behavior = AISpecialPowerUpdate GondorFighterHordeStanceBattle
+        CommandButtonName  = Command_SetStanceBattle
+        SpecialPowerAIType = AI_SPECIAL_POWER_STANCEBATTLE
+    End
+
+    Behavior = AISpecialPowerUpdate GondorFighterHordeStanceAggressive
+        CommandButtonName  = Command_SetStanceAggressive
+        SpecialPowerAIType = AI_SPECIAL_POWER_STANCEAGGRESSIVE
+    End
+
+    Behavior = AISpecialPowerUpdate GondorFighterHordeHoldGround
+        CommandButtonName  = Command_SetStanceHoldGround
+        SpecialPowerAIType = AI_SPECIAL_POWER_STANCEHOLDGROUND
+    End
+
+    Behavior = AISpecialPowerUpdate ElvenLorienWarriorHordeCaptureBuildingAI
+        CommandButtonName  = Command_CaptureBuilding
+        SpecialPowerAIType = AI_SPECIAL_POWER_CAPTURE_BUILDING
+    End
+
+
+    Behavior = AISpecialPowerUpdate SarumanCursedIndustryAI
+	CommandButtonName = Command_IndustriellerWahn
+	SpecialPowerAIType = AI_SPELLBOOK_BUFFECONOMYBUILDING
+	SpecialPowerRadius = 100
+    End
+
+    Behavior = AISpecialPowerUpdate SpecialPowerSarumanCharge
+	CommandButtonName = Command_SpecialAbilityAntriebdesVerfluchten
+	SpecialPowerAIType = AI_SPECIAL_POWER_BASIC_SELF_BUFF
+    End
+
+    Behavior = AISpecialPowerUpdate DominateAI
+	CommandButtonName = Command_SpecialAbilitySarumanDauerbekehrung
+	SpecialPowerAIType = AI_SPECIAL_POWER_RANGED_AOE_ATTACK
+	SpecialPowerRadius = 150
+    End
+
+    Behavior = AISpecialPowerUpdate SarumanFlareAI
+	CommandButtonName = Command_SpecialAbilityBrennendeSteppen
+	SpecialPowerAIType = AI_SPELLBOOK_ARMY_BREAKER
+	SpecialPowerRadius = 120
+	SpecialPowerRange  = 350
+    End
+
+    Behavior = AISpecialPowerUpdate SarumanFireStormAI
+	CommandButtonName = Command_SpecialAbilitySarumanFeuersturm
+	SpecialPowerAIType = AI_SPELLBOOK_ARMY_BREAKER
+	SpecialPowerRadius = 300
+    End
+
+    Geometry                  = CYLINDER
+    GeometryMajorRadius       = 8.0
+    GeometryMinorRadius       = 8.0
+    GeometryHeight            = 19.2
+    GeometryIsSmall           = Yes
+
+    Shadow                    = SHADOW_DECAL
+    ShadowSizeX               = 19
+    ShadowSizeY               = 19
+    ShadowTexture             = ShadowI
+End
+
+Object IsengardSarumanGesegneter
+
+
+    ButtonImage    = HISarumanRingBlessed
+    SelectPortrait = UPSarumanWhiteRing
+
+      EquivalentTo = IsengardSaruman_Mod
+
+    DescriptionStrategic = CONTROLBAR:LW_ToolTip_Saruman
+
+    Draw = W3DScriptedModelDraw ModuleTag_DRAW
+
+        ExtraPublicBone = STAFFFX
+
+        DefaultModelConditionState
+            Model               = IUSaruman_SKNG
+            Skeleton            = IUSaruman_SKL
+            ParticleSysBone     = None SarumanLightningFlare01 FollowBone:No
+            ParticleSysBone     = None SarumanLightningFlare02 FollowBone:No
+            WeaponLaunchBone    = PRIMARY STAFFFX
+        End
+
+
+
+        IdleAnimationState
+            StateName = Idle
+            Animation = IDLB
+                AnimationName       = IUSaruman_IDLB
+                AnimationMode       = ONCE
+                AnimationPriority   = 20
+            End
+
+            Animation = IDLC
+                AnimationName       = IUSaruman_IDLC
+                AnimationMode       = ONCE
+                AnimationPriority   = 3
+            End
+
+            Animation = IDLD
+                AnimationName       = IUSaruman_IDLD
+                AnimationMode       = ONCE
+                AnimationPriority   = 1
+            End
+
+            BeginScript
+                Prev = CurDrawablePrevAnimationState()
+                if Prev == "Selected" then CurDrawableSetTransitionAnimState("TRANS_Selected_To_Idle") end
+            EndScript
+        End
+
+        AnimationState        = STUNNED_FLAILING
+            Flags               = RANDOMSTART
+            Animation           = FLYA
+                AnimationName     = IUSaruman_FLYA
+                AnimationMode     = LOOP
+            End
+        End
+
+
+        AnimationState            = DYING BURNINGDEATH
+            Animation
+                AnimationName    = IUSaruman_DIEB
+                AnimationMode    = ONCE
+                AnimationBlendTime = 10
+            End
+        End
+
+        AnimationState        = DYING SPLATTED
+            Animation
+                AnimationName     = IUSaruman_LNDA
+                AnimationMode     = ONCE
+            End
+        End
+        AnimationState        = DYING AFLAME
+            Animation = DieAflame
+                AnimationName     = IUSaruman_MFDA
+                AnimationMode     = LOOP
+            End
+        End
+        AnimationState        = DYING
+            Animation = DieB
+                AnimationName     = IUSaruman_DIEB
+                AnimationMode     = ONCE
+            End
+        End
+
+
+
+        AnimationState        = STUNNED_STANDING_UP
+            Animation
+                AnimationName     = IUSaruman_GTPA
+                AnimationMode     = ONCE
+                AnimationSpeedFactorRange = 1.5 1.5
+
+            End
+        End
+        AnimationState        = STUNNED
+            Animation
+                AnimationName     = IUSaruman_LNDA
+                AnimationMode     = ONCE
+            End
+        End
+
+        AnimationState            = BURNINGDEATH
+            Animation
+                AnimationName    = IUSaruman_MFDA
+                AnimationMode    = LOOP
+                Distance        = 50
+            End
+        End
+
+        AnimationState                        = PARALYZED
+            Animation
+                AnimationName                = IUSaruman_IDLB
+                AnimationMode                = LOOP
+            End
+        End
+
+
+        AnimationState                = PACKING_TYPE_1
+            StateName                = Dominate
+            Animation
+                AnimationName        = IUSaruman_TNTB
+                AnimationMode        = ONCE
+                AnimationBlendTime  = 5
+            End
+            FXEvent    = Frame:6    Name: FX_SarumanDominateAtSelf
+        End
+
+
+        AnimationState                = PACKING_TYPE_2
+            StateName                = Spped_Craft
+            Animation
+                AnimationName        = IUSaruman_TNTB
+                AnimationMode        = ONCE
+            End
+            FXEvent    = Frame:15    Name: FX_SpeechCraft
+        End
+
+
+        AnimationState                = PACKING_TYPE_3
+            StateName                = Dominate
+            Animation
+                AnimationName        = IUSaruman_TNTB
+                AnimationMode        = ONCE
+                AnimationBlendTime  = 5
+            End
+            FXEvent    = Frame:6    Name: FX_SarumanCurunirAtSelf
+        End
+
+
+
+
+         AnimationState = MOVING FIRING_OR_PREATTACK_A
+            Animation = TrotAndFire
+                AnimationName = IUSaruman_ATRA
+                AnimationMode = LOOP
+            End
+            Flags = RANDOMSTART
+
+        End
+
+
+         AnimationState                = MOVING USING_SPECIAL_ABILITY
+             Flags                    = RANDOMSTART
+             Animation                = IUSaruman_RUNB
+                 AnimationName     = IUSaruman_RUNB
+                 AnimationMode     = LOOP
+             End
+         End
+
+
+
+         AnimationState            = MOVING BACKING_UP
+            Animation            = BackingUp
+                AnimationName    = IUSaruman_BAKA
+                AnimationMode    = LOOP
+            End
+            Flags = RANDOMSTART
+        End
+
+        AnimationState        = MOVING ATTACKING
+             Animation              = IUSaruman_RUNB
+                 AnimationName     = IUSaruman_RUNB
+                 AnimationMode     = LOOP
+             End
+        End
+
+        AnimationState        = MOVING
+             Animation                = IUSaruman_RUNA
+                 AnimationName     = IUSaruman_RUNA
+                 AnimationMode     = LOOP
+             End
+        End
+
+
+        AnimationState          = SPECIAL_WEAPON_ONE
+
+            Animation                = Throwing Fireball
+                AnimationName        = IUSaruman_ATKB
+                AnimationMode        = ONCE
+            End
+            FrameForPristineBonePositions = 27
+        End
+
+
+         AnimationState        =  SPECIAL_WEAPON_TWO
+            StateName = Attacking
+            Animation
+                AnimationName       = IUSaruman_ATKB
+                AnimationMode       = ONCE
+            End
+            FrameForPristineBonePositions = 27
+        End
+
+
+        AnimationState          = SPECIAL_WEAPON_THREE
+            Animation                = Throwing Fireball
+                AnimationName        = IUSaruman_SPCA
+                AnimationMode        = ONCE
+                UseWeaponTiming        =    Yes
+            End
+
+            FrameForPristineBonePositions = 48
+        End
+
+
+        AnimationState        = FIRING_OR_PREATTACK_A
+            Animation                = Throwing Fireball
+                AnimationName        = IUSaruman_ATKB
+                AnimationMode        = ONCE
+                UseWeaponTiming        =    Yes
+            End
+        End
+
+        AnimationState        = FIRING_OR_PREATTACK_B
+            Animation           = IUSaruman_ATKC
+                AnimationName     = IUSaruman_ATKC
+                AnimationMode     = ONCE
+                UseWeaponTiming        =    Yes
+            End
+
+            Animation           = IUSaruman_ATKD
+                AnimationName     = IUSaruman_ATKD
+                AnimationMode     = ONCE
+                UseWeaponTiming        =    Yes
+            End
+        End
+
+
+        AnimationState = WAR_CHANT
+            Animation = Chant
+                AnimationName = IUSaruman_TNTB
+                AnimationMode = LOOP
+            End
+        End
+
+        AnimationState = EMOTION_TAUNTING
+            Animation = Chant
+                AnimationName = IUSaruman_TNTA
+                AnimationMode = ONCE
+            End
+            Flags                        = RANDOMSTART RESTART_ANIM_WHEN_COMPLETE
+        End
+
+        AnimationState = EMOTION_CELEBRATING
+            Animation = Chant
+                AnimationName = IUSaruman_TNTB
+                AnimationMode = ONCE
+            End
+            Flags                        = RANDOMSTART RESTART_ANIM_WHEN_COMPLETE
+        End
+
+
+        AnimationState = HIT_REACTION
+            Animation = Hit_Level_1_a
+                AnimationName = IUSaruman_HITA
+                AnimationMode = ONCE
+            End
+        End
+
+
+        AnimationState        = ATTACKING
+            Animation           = ALERT_1
+                AnimationName     = IUSaruman_IDLA
+                AnimationMode     = LOOP
+            End
+        End
+
+        TransitionState                    =    TRANS_Idle_to_Selected
+            Animation                    =    ATNA
+                AnimationName            =    IUSaruman_ATNA
+                AnimationMode            =    ONCE
+            End
+        End
+
+        TransitionState                    =    TRANS_Selected_To_Idle
+            Animation                    =    ATND
+                AnimationName            =    IUSaruman_ATND
+                AnimationMode            =    ONCE
+            End
+        End
+
+
+        AnimationState        = LEVELED
+            Animation = Yippee
+                AnimationName       = IUSaruman_TNTA
+                AnimationMode       = ONCE
+            End
+        End
+
+
+        AnimationState        = EMOTION_ALERT
+            Animation           = ALERT_1
+                AnimationName     = IUSaruman_IDLA
+                AnimationMode     = LOOP
+            End
+        End
+
+        AnimationState = RAISING_FLAG
+            Animation = Chant
+                AnimationName = IUSaruman_TNTA
+                AnimationMode = ONCE
+            End
+            Animation = Chant
+                AnimationName = IUSaruman_TNTB
+                AnimationMode = ONCE
+            End
+            Flags                        = RESTART_ANIM_WHEN_COMPLETE
+        End
+
+        AnimationState                =    SELECTED
+            StateName                =    Selected
+            SimilarRestart            =   Yes
+            Animation                =    ATNB
+                AnimationName        =    IUSaruman_ATNB
+                AnimationMode        =    LOOP
+                AnimationBlendTime  =   15
+            End
+            BeginScript
+                Prev = CurDrawablePrevAnimationState()
+                if Prev == "Idle" then CurDrawableSetTransitionAnimState("TRANS_Idle_to_Selected") end
+            EndScript
+        End
+    End
+
+    #include "..\..\..\includes\StunDrawModuleSmall.inc"
+
+
+    Side = Isengard
+    EditorSorting = UNIT
+    ThreatLevel = SARUMAN_THREAT_LEVEL
+    ThingClass = CHARACTER_UNIT
+    BuildCost           = SARUMANDAG_COST
+    BuildTime           = VERY_STRONG_HERO_BUILDTIME
+    ShockwaveResistance = SHOCKWAVE_RESISTANCE_STRONG
+    DisplayRangedDamage = SARUMANDAG_DAMAGE
+    EquivalentTo         = IsengardSaruman_Mod
+    MaxSimultaneousOfType = 1
+    TransportSlotCount = TRANSPORTSLOTCOUNT_HERO
+
+    WeaponSet
+        Conditions = None
+        Weapon = PRIMARY   SarumanGesegneterBlitz
+        AutoChooseSources = PRIMARY FROM_PLAYER FROM_SCRIPT FROM_AI
+    End
+
+    WeaponSet
+        Conditions = CLOSE_RANGE
+        Weapon = PRIMARY    SarumanGesegneterBlitz
+        Weapon = SECONDARY  SarumanWeaponKorrumpierte
+        OnlyAgainst = PRIMARY STRUCTURE
+    End
+
+    WeaponSet
+        Conditions        = CONTAINED
+        Weapon            = PRIMARY    SarumanGesegneterBlitz_Orthanc
+        AutoChooseSources = PRIMARY FROM_PLAYER FROM_SCRIPT FROM_AI
+    End
+
+    WeaponSet
+        Conditions        = PASSENGER_TYPE_ONE
+        Weapon            = PRIMARY    SarumanGesegneterBlitz_Orthanc
+        AutoChooseSources = PRIMARY FROM_PLAYER FROM_SCRIPT FROM_AI
+    End
+
+
+    ArmorSet
+        Conditions      = None
+        Armor           = SilmarilHeroHeavyArmor
+        DamageFX        = NormalDamageFX
+    End
+
+    VisionRange = VISION_STANDARD_MELEE
+    ShroudClearingRange = SHROUD_CLEAR_HERO
+
+    MaxVisionBonusPercent = 300%
+    VisionBonusTestRadius = 200
+    VisionBonusPercentPerFoot = 1.0%
+
+    BountyValue     = ISENGARD_SARUMAN_BOUNTY_VALUE
+    DisplayName        = OBJECT:IsengardSarumanGoodSilmaril
+    RecruitText        = CONTROLBAR:IsengardSarumanRecruit
+    ReviveText        = CONTROLBAR:IsengardSarumanRevive
+    Hotkey            = CONTROLBAR:IsengardSarumanHotkey
+    CrushableLevel    = 4
+    CrusherLevel = 0
+
+    CommandSet = SarumanGesegneteCommandSet
+    CommandPoints = 0
+
+
+
+    AutoResolveUnitType = AutoResolveUnit_Hero
+    AutoResolveCombatChain = AutoResolve_HeroCombatChain
+
+    AutoResolveBody = AutoResolve_SarumanBody
+
+    AutoResolveArmor
+        Armor = AutoResolve_SarumanArmor
+    End
+
+    AutoResolveWeapon
+        Weapon = AutoResolve_SarumanWeapon
+    End
+
+
+
+    VoiceAttack                    = SarumanVoiceAttack
+    VoiceAttackCharge            = SarumanVoiceAttackCharge
+    VoiceFear                     = SarumanVoiceHelpMe
+    VoiceGuard                    = SarumanVoiceMove
+    VoiceMove                    = SarumanVoiceMove
+    VoiceMoveWhileAttacking        = SarumanVoiceDisengage
+    VoicePriority                = 95
+    VoiceSelect                    = SarumanVoiceSelectMS
+    VoiceSelectBattle             = SarumanVoiceSelectBattle
+	VoiceCreated				  = SH_ForSaruman
+	VoiceFullyCreated			  = SH_ForSaruman
+
+    SoundImpact                    = ImpactHorse
+
+    UnitSpecificSounds
+        VoiceEnterUnitEvilMenTransportShip    = SarumanVoiceMove
+        VoiceEnterUnitMordorMumakil            = SarumanVoiceMove
+        VoiceEnterUnitSlaughterHouse        = SarumanVoiceMove
+        VoiceGarrison                        = SarumanVoiceMove
+        VoiceInitiateCaptureBuilding        = SarumanVoiceMove
+    End
+
+    CrowdResponseKey = EvilMen1
+
+    #include "..\..\..\includes\StandardUnitEvaEvents.inc"
+    EvaEventDieOwner            = SarumanDie
+
+    Behavior = LargeGroupAudioUpdate ModuleTag_LGAU
+        Key = Humanoid_Male Man Man_Male Hero
+    End
+
+    ClientBehavior = AnimationSoundClientBehavior ModuleTag_AnimAudioBehavior
+        MaxUpdateRangeCap = 800
+        AnimationSound = Sound:FootstepDirtA        Animation:IUSaruman_SKL.IUSaruman_ATKB    Frames:39 104
+        AnimationSound = Sound:FootstepDirtA        Animation:IUSaruman_SKL.IUSaruman_ATKC     Frames:43 92
+        AnimationSound = Sound:FootstepDirtA        Animation:IUSaruman_SKL.IUSaruman_ATKD     Frames:13 29 55
+        AnimationSound = Sound:FootstepDirtA        Animation:IUSaruman_SKL.IUSaruman_ATRA    Frames:9 20 31 43 55 67
+        AnimationSound = Sound:FootstepDirtA        Animation:IUSaruman_SKL.IUSaruman_DIEB    Frames:20
+        AnimationSound = Sound:BodyFallGenericNoArmor    Animation:IUSaruman_SKL.IUSaruman_DIEB    Frames:34
+        AnimationSound = Sound:FootstepDirtA        Animation:IUSaruman_SKL.IUSaruman_GTPA    Frames:51 75 113 139
+        AnimationSound = Sound:FootstepDirtA        Animation:IUSaruman_SKL.IUSaruman_HITA    Frames:12
+        AnimationSound = Sound:FootstepDirtA        Animation:IUSaruman_SKL.IUSaruman_IDLC    Frames:116 188
+        AnimationSound = Sound:FootstepDirtA        Animation:IUSaruman_SKL.IUSaruman_IDLD    Frames:43
+        AnimationSound = Sound:BodyFallGenericNoArmor    Animation:IUSaruman_SKL.IUSaruman_LNDA    Frames:4
+        AnimationSound = Sound:FootstepDirtA        Animation:IUSaruman_SKL.IUSaruman_MFDA    Frames:10 19 29 39 48 57 66
+        AnimationSound = Sound:FootstepDirtA        Animation:IUSaruman_SKL.IUSaruman_RUNA    Frames:11 22 34 46 57 69
+        AnimationSound = Sound:FootstepDirtA        Animation:IUSaruman_SKL.IUSaruman_RUNB    Frames:10 23 36 49 62 75
+        AnimationSound = Sound:FootstepDirtA        Animation:IUSaruman_SKL.IUSaruman_TNTA    Frames:36 49 103 123
+        AnimationSound = Sound:FootstepDirtA        Animation:IUSaruman_SKL.IUSaruman_TNTB    Frames:24 111
+    End
+
+
+
+
+    RadarPriority = UNIT
+    KindOf = HERO PRELOAD SELECTABLE CAN_CAST_REFLECTIONS INFANTRY PATH_THROUGH_EACH_OTHER SCORE NOTIFY_OF_PREATTACK ARMY_SUMMARY ATTACK_NEEDS_LINE_OF_SIGHT HEAVY_MELEE_HITTER GANDALF
+    PathfindDiameter = 40.0
+
+    Body = RespawnBody ModuleTag_RespawnBody
+        CheerRadius               = EMOTION_CHEER_RADIUS
+        MaxHealth                 = SARUMANDAG_HEALTH
+        PermanentlyKilledByFilter = NONE
+        DodgePercent              = HERO_DODGE_PERCENT
+        CheerRadius               = EMOTION_CHEER_RADIUS
+    End
+
+    Behavior = RespawnUpdate ModuleTag_RespawnUpdate
+	DeathAnim	           = DYING
+	DeathFX			   = FX_SarumanDieToRespawn
+	DeathAnimationTime	   = 5500
+	InitialSpawnFX		   = FX_SarumanInitialSpawn
+	RespawnAnim		   = LEVELED
+	RespawnFX		   = FX_SarumanRespawn
+	RespawnAnimationTime	   = 2000
+	AutoRespawnAtObjectFilter  = NONE +CASTLE_KEEP
+        ButtonImage                = HISarumannew
+        RespawnAsTemplate          = IsengardSaruman_Mod
+
+        RespawnRules =            AutoSpawn:No    Cost:SARUMANDAG_COST        Time:VERY_STRONG_HERO_RESPAWNTIME        Health:100%
+    End
+
+    Behavior = ObjectCreationUpgrade ModuleTag_GiveUpgrade5
+        TriggeredBy     = Upgrade_Level_5
+        Delay           = 0
+        ThingToSpawn    = Held5RespawnLevel
+    End
+
+    Behavior = ObjectCreationUpgrade ModuleTag_GiveUpgrade7
+        TriggeredBy     = Upgrade_Level_7
+        Delay           = 0
+        ThingToSpawn    = Held7RespawnLevel
+    End
+
+    Behavior = ObjectCreationUpgrade ModuleTag_GiveUpgrade10
+        TriggeredBy     = Upgrade_Level_10
+        Delay           = 0
+        ThingToSpawn    = Held10RespawnLevel
+    End
+
+    Behavior = AutoHealBehavior ModuleTag_SarumanHealing
+        StartsActive = Yes
+        HealingAmount = HERO_HEAL_AMOUNT
+        HealingDelay = 1000
+        StartHealingDelay = HERO_HEAL_DELAY
+        HealOnlyIfNotInCombat = Yes
+    End
+
+    Behavior = StancesBehavior ModuleTag_StancesBehavior
+        StanceTemplate = Hero
+    End
+
+    #include "..\..\..\includes\CaptureBuilding.inc"
+
+    Behavior = AIUpdateInterface ModuleTag_03
+        AutoAcquireEnemiesWhenIdle    = Yes ATTACK_BUILDINGS
+        AttackPriority                = AttackPriority_Infantry
+        AILuaEventsList               = SarumanEdainFunctions
+    End
+
+    Behavior = EmotionTrackerUpdate    Module_EmotionTracker
+        TauntAndPointDistance           = 300
+        TauntAndPointUpdateDelay        = 10000
+        AddEmotion            =    Doom_Base
+        AddEmotion            =    Point_Base
+        AddEmotion            =    Taunt_Base
+        AddEmotion            =    CheerIdle_Base
+        AddEmotion            =    CheerBusy_Base
+        AddEmotion            =    Alert_Base
+        AddEmotion            =    CheerForAboutToCrush_Base
+    End
+
+    LocomotorSet
+        Locomotor = HumanLocomotor
+        Condition = SET_NORMAL
+        Speed     = NORMAL_EVIL_HERO_SPEED
+    End
+
+    LocomotorSet
+        Locomotor = HumanWanderLocomotor
+        Condition = SET_WANDER
+        Speed     = 32
+    End
+
+    LocomotorSet
+        Locomotor = BurningDeathLocomotorInfantry
+        Condition = SET_BURNINGDEATH
+        Speed      = BURNINGDEATH_WANDERSPEED_INFANTRY
+    End
+
+    Behavior = PhysicsBehavior ModuleTag_04
+        GravityMult        = 1.0
+        ShockStandingTime  = 4000
+    End
+
+    Behavior = SlowDeathBehavior ModuleTag_05
+        DeathTypes = ALL
+        SinkDelay = 3000
+        SinkRate = 0.40
+        DestructionDelay = 8000
+        Sound = INITIAL SarumanVoiceDie
+        ShadowWhenDead = No
+    End
+
+    Behavior = SquishCollide ModuleTag_06
+
+    End
+
+    Behavior = HitReactionBehavior HitReactionBehaviorModuleTag
+        HitReactionLifeTimer1 = 3000
+        HitReactionThreshold1 = 5.0
+    End
+
+    Behavior = RemoveUpgradeUpgrade ModuleTag_RemoveSilmaril
+        TriggeredBy                   = Upgrade_AllFactionUpgrade
+        UpgradeToRemove               = Upgrade_FortressRingHero Upgrade_RingHero
+        RemoveFromAllPlayerObjects    = Yes
+        SuppressEvaEventForRemoval    = Yes
+    End
+
+
+
+
+
+    Behavior = UnpauseSpecialPowerUpgrade ModuleTag_SilmarilHeroLeadershipStart
+        SpecialPowerTemplate    = SpecialAbilityFakeLeadership3
+    End
+
+    Behavior = SpecialPowerModule ModuleTag_SilmarilHeroLeadershipUpdate
+        SpecialPowerTemplate        = SpecialAbilityFakeLeadership3
+        UpdateModuleStartsAttack    = No
+        StartsPaused                = No
+    End
+
+    Behavior = AttributeModifierAuraUpdate ModuleTag_SilmarilHeroLeadership
+        StartsActive     = Yes
+        BonusName        = SilmarilHeroGlobalLeadership
+        RefreshDelay     = 2000
+        Range            = 1250
+        ObjectFilter     = ALL -HERO -MACHINE -SHIP -DOZER -STRUCTURE ALLIES
+    End
+
+
+
+
+
+    Behavior = UnpauseSpecialPowerUpgrade ModuleTag_LeadershipUnpause
+        SpecialPowerTemplate        = SpecialAbilityFakeLeadership
+        TriggeredBy                 = Upgrade_Level_1
+    End
+
+    Behavior = SpecialPowerModule ModuleTag_Leadership
+        SpecialPowerTemplate        = SpecialAbilityFakeLeadership
+        UpdateModuleStartsAttack    = No
+        StartsPaused                = No
+    End
+
+    Behavior = AttributeModifierAuraUpdate ModuleTag_LeadershipUpdate
+        StartsActive                = Yes
+        BonusName                   = SarumanEhrwurdigePrasenz
+        RefreshDelay                = 2000
+        Range                       = 200
+        ObjectFilter                = ANY +INFANTRY +CAVALRY +HERO +MONSTER +MACHINE +SHIP +DOZER +HORDE -STRUCTURE ALLIES
+    End
+
+
+
+
+
+
+
+    Behavior = UnpauseSpecialPowerUpgrade ModuleTag_AntriebdesGesegnetenEnabler
+        SpecialPowerTemplate         = SpecialAbilityAntriebdesGesegneten
+        TriggeredBy                  = Upgrade_Level_3
+    End
+
+    Behavior = SpecialPowerModule ModuleTag_AntriebdesGesegnetenUpdate
+        SpecialPowerTemplate         = SpecialAbilityAntriebdesGesegneten
+        UpdateModuleStartsAttack     = Yes
+        StartsPaused                 = Yes
+        AttributeModifier            = SarumanRingBonusMagieUnits
+        AttributeModifierRange       = 250
+        AttributeModifierAffectsSelf = Yes
+        AttributeModifierAffects     = ANY +INFANTRY +CAVALRY -HERO -STRUCTURE -DOZER -SHIP -MACHINE +IsengardSarumanGesegneter ALLIES
+        AttributeModifierFX          = FX_AntriebdesVerfluchtenFX
+    End
+
+    Behavior = SpecialAbilityUpdate ModuleTag_AntriebdesGesegnetenAnimation
+        UnpackTime                   = 1000
+        UnpackingVariation           = 2
+        SpecialPowerTemplate         = SpecialAbilityAntriebdesGesegneten
+        PreparationTime              = 0
+        PersistentPrepTime           = 0
+        PackTime                     = 1330
+     End
+
+
+
+
+
+
+     Behavior = UnpauseSpecialPowerUpgrade ModuleTag_DominateEnabler
+        SpecialPowerTemplate           = SpecialAbilitySarumanDauerbekehrung
+        TriggeredBy                    = Upgrade_Level_5
+    End
+
+    Behavior = SpecialPowerModule ModuleTag_DominateEnemySpecialPowerModule
+        SpecialPowerTemplate           = SpecialAbilitySarumanDauerbekehrung
+        StartsPaused                   = Yes
+        UpdateModuleStartsAttack       = Yes
+        InitiateSound                  = SarumanVoiceDominate
+    End
+
+    Behavior = DominateEnemySpecialPower ModuleTag_DominateEnemySpecialPower
+        SpecialPowerTemplate           = SpecialAbilitySarumanDauerbekehrung
+        UnpackingVariation             = 1
+        StartAbilityRange              = 200.0
+        PermanentlyConvert             = No
+        AttributeModifierAffects       = ALL -DOZER -HERO -STRUCTURE -ARMY_OF_DEAD -MOVE_ONLY ENEMIES NEUTRAL
+        DominateRadius                 = 150
+        DominatedFX                    = FX_SarumanDominateTargets
+        TriggerFX                      = FX_SarumanDominateTrigger
+        UnpackTime                     = 2000
+        PreparationTime                = 1
+        FreezeAfterTriggerDuration     = 2500
+    End
+
+
+
+
+
+
+
+    Behavior = UnpauseSpecialPowerUpgrade ModuleTag_BrennenderHimmel
+        SpecialPowerTemplate        = SpecialAbilityBrennenderHimmel
+        TriggeredBy                 = Upgrade_Level_7
+    End
+
+    Behavior = SpecialPowerModule ModuleTag_BrennenderHimmelStarter
+        SpecialPowerTemplate        = SpecialAbilityBrennenderHimmel
+        UpdateModuleStartsAttack    = Yes
+        StartsPaused                = Yes
+
+    End
+
+    Behavior = WeaponFireSpecialAbilityUpdate ModuleTag_BrennenderHimmelUpdate
+        SpecialPowerTemplate        = SpecialAbilityBrennenderHimmel
+        SkipContinue                = Yes
+        UnpackTime                  = 700
+        PreparationTime             = 1
+        PersistentPrepTime          = 1000
+        PackTime                    = 100
+        StartAbilityRange           = 250
+        SpecialWeapon               = BrennenderHimmelWeapon
+        WhichSpecialWeapon          = 3
+        MustFinishAbility           = Yes
+    End
+
+
+
+
+
+
+    Behavior = UnpauseSpecialPowerUpgrade ModuleTag_GewittersturmStarter
+        SpecialPowerTemplate     = SpecialAbilitySarumanGewittersturm
+        TriggeredBy              = Upgrade_Level_15
+    End
+
+    Behavior = SpecialPowerModule ModuleTag_LightningStrike
+        SpecialPowerTemplate     = SpecialAbilitySarumanGewittersturm
+        UpdateModuleStartsAttack = Yes
+        StartsPaused             = Yes
+        InitiateSound            = SarumanMachtCurunirLightning
+    End
+
+    Behavior = ArrowStormUpdate ModuleTag_ShootLightningBolts
+        SpecialPowerTemplate    = SpecialAbilitySarumanGewittersturm
+        StartAbilityRange       = 400.0
+        UnpackingVariation      = 3
+        CanShootEmptyGround     = Yes
+        UnpackTime              = 2500
+        PreparationTime         = 1
+        PersistentPrepTime      = 5000
+        PackTime                = 1500
+        ApproachRequiresLOS     = No
+        AwardXPForTriggering    = 0
+        WeaponTemplate  	= SarumanMightOfCurunirWeapon
+        TargetRadius    	= 150
+        ShotsPerTarget  	= 1
+        ShotsPerBurst   	= 60
+        MaxShots        	= 180
+        CanShootEmptyGround     = Yes
+    End
+
+    Behavior = AutoAbilityBehavior ModuleTag_LightningBoltsAutoAbility
+        SpecialAbility               = SpecialAbilitySarumanGewittersturm
+        MaxScanRange                 = #SUBTRACT( SARUMAN_LIGHTNING_RANGE 25 )
+        Query                        = 1 ALL ENEMIES -STRUCTURE
+    End
+
+    Behavior = FreezingRainSpecialPower ModuleTag_FreezingRain
+        SpecialPowerTemplate            = SpecialAbilitySarumanGewittersturm
+        AttributeModifierAffects        = ALL ENEMIES
+        AntiCategory                    = LEADERSHIP
+        AttributeModifierWeatherBased   = Yes
+        WeatherDuration                 = SPELL_FREEZINGRAIN_DURATION
+        ChangeWeather                   = RAINY
+        AvailableAtStart                = Yes
+        BurnRateModifier                = -100
+        BurnDecayModifier               = 20
+    End
+
+    Behavior = FXListDie ModuleTag_AnnounceWeLostTheRing
+        DeathFX             	= GandalfAnnounceFortressDeathLostRingFX
+    End
+
+    Behavior = CreateObjectDie ModuleTag_DropTheRing
+        CreationList             = OCL_TheOneRing
+    End
+
+
+
+
+
+    Behavior = AttributeModifierUpgrade ModuleTag_TurnVielfarbigBonus
+        TriggeredBy           = Upgrade_SarumanVielfarbig
+        AttributeModifier     = SpellBookSarumanVielfarbigeNew
+    End
+
+
+
+
+
+    Behavior = AISpecialPowerUpdate GondorFighterHordeStanceBattle
+        CommandButtonName  = Command_SetStanceBattle
+        SpecialPowerAIType = AI_SPECIAL_POWER_STANCEBATTLE
+    End
+
+    Behavior = AISpecialPowerUpdate GondorFighterHordeStanceAggressive
+        CommandButtonName  = Command_SetStanceAggressive
+        SpecialPowerAIType = AI_SPECIAL_POWER_STANCEAGGRESSIVE
+    End
+
+    Behavior = AISpecialPowerUpdate GondorFighterHordeHoldGround
+        CommandButtonName  = Command_SetStanceHoldGround
+        SpecialPowerAIType = AI_SPECIAL_POWER_STANCEHOLDGROUND
+    End
+
+    Behavior = AISpecialPowerUpdate ElvenLorienWarriorHordeCaptureBuildingAI
+        CommandButtonName  = Command_CaptureBuilding
+        SpecialPowerAIType = AI_SPECIAL_POWER_CAPTURE_BUILDING
+    End
+
+
+    Behavior = AISpecialPowerUpdate SpecialPowerSarumanBlessedCharge
+	CommandButtonName = Command_SpecialAbilityAntriebdesGesegneten
+	SpecialPowerAIType = AI_SPECIAL_POWER_BASIC_SELF_BUFF
+    End
+
+    Behavior = AISpecialPowerUpdate DominateAI
+	CommandButtonName = Command_SpecialAbilitySarumanDauerbekehrung
+	SpecialPowerAIType = AI_SPECIAL_POWER_RANGED_AOE_ATTACK
+	SpecialPowerRadius = 150
+    End
+
+    Behavior = AISpecialPowerUpdate SarumanFlareBlessedAI
+	CommandButtonName = Command_SpecialAbilityBrennenderHimmel
+	SpecialPowerAIType = AI_SPELLBOOK_ARMY_BREAKER
+	SpecialPowerRadius = 120
+	SpecialPowerRange  = 350
+    End
+
+    Behavior = AISpecialPowerUpdate SarumanLightningStormBlessedAI
+	CommandButtonName = Command_SpecialAbilitySarumanGewittersturm
+	SpecialPowerAIType = AI_SPELLBOOK_ARMY_BREAKER
+	SpecialPowerRadius = 150
+    End
+
+    Geometry                  = CYLINDER
+    GeometryMajorRadius       = 8.0
+    GeometryMinorRadius       = 8.0
+    GeometryHeight            = 19.2
+    GeometryIsSmall           = Yes
+
+    Shadow                    = SHADOW_DECAL
+    ShadowSizeX               = 19
+    ShadowSizeY               = 19
+    ShadowTexture             = ShadowI
+End
+

@@ -1,0 +1,623 @@
+
+
+    IdleAnimationState
+        StateName     = STATE_Idle
+        Animation     = IDLB
+            AnimationName         = MUOrcWarr_IDLB
+            AnimationPriority     = 4
+            AnimationMode        = ONCE
+            AnimationBlendTime    = 15
+        End
+        Animation = IDLO
+            AnimationName = MUOrcWarr_IDLO
+            AnimationPriority = 1
+            AnimationMode        =    ONCE
+            AnimationBlendTime    = 15
+        End
+        Animation = IDLP
+            AnimationName = MUOrcWarr_IDLP
+            AnimationPriority = 1
+            AnimationMode        =    ONCE
+            AnimationBlendTime    = 15
+        End
+        Animation = IDLQ
+            AnimationName = MUOrcWarr_IDLQ
+            AnimationPriority = 1
+            AnimationMode        =    ONCE
+            AnimationBlendTime    = 15
+        End
+        Animation = IDLR
+            AnimationName = MUOrcWarr_IDLR
+            AnimationPriority = 1
+            AnimationMode        =    ONCE
+            AnimationBlendTime    = 15
+        End
+        Animation = IDLS
+            AnimationName = MUOrcWarr_IDLS
+            AnimationPriority = 1
+            AnimationMode        =    ONCE
+            AnimationBlendTime    = 15
+        End
+        Animation = IDLM
+            AnimationName = MUOrcWarr_IDLM
+            AnimationPriority = 1
+            AnimationMode        =    ONCE
+            AnimationBlendTime    = 15
+        End
+        Animation = IDLL
+            AnimationName = MUOrcWarr_IDLL
+            AnimationPriority = 1
+            AnimationMode        =    ONCE
+            AnimationBlendTime    = 15
+        End
+        Flags                =    RESTART_ANIM_WHEN_COMPLETE
+        BeginScript
+            Prev = CurDrawablePrevAnimationState()
+            if Prev == "STATE_Selected" then CurDrawableSetTransitionAnimState("TRANS_Selected_to_Idle") end
+        EndScript
+    End
+
+    AnimationState = THROWN_PROJECTILE
+
+
+
+
+
+        Animation = Thrown
+            AnimationName = MUOrcWarr_FLYB
+            AnimationMode = LOOP
+        End
+        Animation = Thrown
+            AnimationName = MUOrcWarr_FLYC
+            AnimationMode = LOOP
+        End
+    End
+
+    AnimationState                        = PASSENGER FREEFALL
+        Animation                    = gettingGrabbed
+            AnimationName                = MUOrcWarr_FLLA
+            AnimationMode                = LOOP
+        End
+    End
+
+    AnimationState                        = FREEFALL
+        Animation                    = Falling
+            AnimationName                = MUOrcWarr_FLYC
+            AnimationMode                = LOOP
+            AnimationSpeedFactorRange        = 0.45    0.45
+            AnimationBlendTime            = 5
+        End
+    End
+
+    AnimationState                        = PASSENGER EATING
+        Animation                    = being eaten
+            AnimationName                = MUOrcWarr_EATA
+            AnimationMode                = ONCE
+        End
+    End
+
+    AnimationState                        = PASSENGER SIEGE_CONTAIN
+        Animation                    = IDLP
+            AnimationName                = MUOrcWarr_IDLB
+            AnimationBlendTime            = 5
+            AnimationMode                = LOOP
+        End
+    End
+
+
+
+        AnimationState                = DYING BURNINGDEATH
+            Animation
+                AnimationName        = MUOrcWarr_DIEA
+                AnimationMode        = ONCE
+                AnimationBlendTime     = 10
+            End
+            Animation
+                AnimationName    = MUOrcWarr_DIEB
+                AnimationMode    = ONCE
+                AnimationBlendTime = 10
+            End
+            Animation
+                AnimationName    = MUOrcWarr_DIEC
+                AnimationMode    = ONCE
+                AnimationBlendTime = 10
+            End
+            Animation
+                AnimationName    = MUOrcWarr_DIED
+                AnimationMode    = ONCE
+                AnimationBlendTime = 10
+            End
+            Animation
+                AnimationName    = MUOrcWarr_DIEE
+                AnimationMode    = ONCE
+                AnimationBlendTime = 10
+            End
+            Animation
+                AnimationName    = MUOrcWarr_DIEF
+                AnimationMode    = ONCE
+                AnimationBlendTime = 10
+            End
+        End
+
+
+    AnimationState = DYING DEATH_2
+        Animation = Splatted_On_Ground
+            AnimationName = MUOrcWarr_IDLA
+            AnimationMode = LOOP
+        End
+    End
+    AnimationState = DYING SPLATTED
+        Animation = Splatted_On_Ground
+            AnimationName = MUOrcWarr_LNDA
+            AnimationMode = ONCE
+        End
+        EnteringStateFX = FX_OrcHitGround
+    End
+
+    AnimationState = DYING AFLAME
+        Animation = Flaming_Death
+            AnimationName = MUOrcWarr_MFDA
+            AnimationMode = LOOP
+        End
+    End
+
+    AnimationState = DYING
+        Animation = Dying_1
+            AnimationName = MUOrcWarr_DIEA
+            AnimationMode = ONCE
+            AnimationPriority = 1
+        End
+        Animation = Dying_2
+            AnimationName = MUOrcWarr_DIEB
+            AnimationMode = ONCE
+            AnimationPriority = 20
+        End
+        Animation = Dying_3
+            AnimationName = MUOrcWarr_DIEC
+            AnimationMode = ONCE
+            AnimationPriority = 6
+        End
+        Animation = Dying_4
+            AnimationName = MUOrcWarr_DIED
+            AnimationMode = ONCE
+            AnimationPriority = 20
+        End
+        Animation = Dying_5
+            AnimationName = MUOrcWarr_DIEE
+            AnimationMode = ONCE
+            AnimationPriority = 20
+        End
+        Animation = Dying_6
+            AnimationName = MUOrcWarr_DIEF
+            AnimationMode = ONCE
+            AnimationPriority = 4
+        End
+    End
+
+    AnimationState = STUNNED_STANDING_UP
+        Animation = Standing_Back_Up
+            AnimationName = MUOrcWarr_GTPA
+            AnimationMode = ONCE
+            AnimationSpeedFactorRange = 1.5 1.5
+        End
+    End
+
+    AnimationState = STUNNED
+        Animation = Splatted_On_Ground
+            AnimationName = MUOrcWarr_LNDA
+            AnimationMode = ONCE
+        End
+        EnteringStateFX = FX_OrcHitGround
+    End
+
+
+
+        AnimationState            = BURNINGDEATH
+            Animation
+                AnimationName    = MUOrcWarr_MFDA
+                AnimationMode    = LOOP
+                Distance    = 50
+            End
+        End
+
+    AnimationState                = PARALYZED
+        Animation
+            AnimationName        = MUOrcWarr_IDLA
+            AnimationMode        = LOOP
+        End
+    End
+
+
+
+    AnimationState = MOVING FIRING_OR_PREATTACK_A
+            Animation = TrotAndFire
+                AnimationName = MUOrcWarr_ATRA
+                AnimationMode = LOOP
+            End
+            Flags = RANDOMSTART
+
+        End
+
+     AnimationState = MOVING CLIMBING BACKING_UP
+        ShareAnimation = Yes
+        Animation = Climbing_Down
+            AnimationName = MUOrcWarr_CLMA
+            AnimationMode = LOOP_BACKWARDS
+        End
+    End
+
+    AnimationState = MOVING CLIMBING
+        ShareAnimation = Yes
+        Animation = Climbing_Up
+            AnimationName = MUOrcWarr_CLMA
+            AnimationMode = LOOP
+        End
+    End
+
+   AnimationState                =    MOVING BACKING_UP
+        Animation            =    BackingUpA
+            AnimationName        =    MUOrcWarr_BAKA
+            AnimationMode        =    LOOP
+        End
+        Animation            =    BackingUpB
+            AnimationName        =    MUOrcWarr_BAKB
+            AnimationMode        =    LOOP
+        End
+        Flags                =    RANDOMSTART
+    End
+
+    AnimationState                = MOVING EMOTION_TERROR
+        ShareAnimation = Yes
+        Animation            = Terror1
+            AnimationName        = MUOrcWarr_RUND
+            AnimationMode        = LOOP
+        End
+        Animation            = Terror2
+            AnimationName        = MUOrcWarr_RUNE
+            AnimationMode        = LOOP
+        End
+    End
+
+    AnimationState = MOVING ATTACKING
+        ShareAnimation = Yes
+        Animation = RUNA
+            AnimationName = MUOrcWarr_RUNA
+            AnimationMode = LOOP
+            AnimationPriority = 7
+        End
+        Animation = RUNB
+            AnimationName = MUOrcWarr_RUNB
+            AnimationMode = LOOP
+        End
+        Animation = RUNC
+            AnimationName = MUOrcWarr_RUNC
+            AnimationMode = LOOP
+            AnimationPriority = 2
+        End
+    End
+
+    AnimationState = MOVING
+        ShareAnimation = Yes
+        Animation = RUNB
+            AnimationName = MUOrcWarr_RUNB
+            AnimationMode = LOOP
+        End
+        Animation = RUNC
+            AnimationName = MUOrcWarr_RUNC
+            AnimationMode = LOOP
+            AnimationPriority = 2
+        End
+        ParticleSysBone = None InfantryDustTrails
+    End
+
+
+    AnimationState = STUNNED_FLAILING
+        Animation = Flying_2
+            AnimationName = MUOrcWarr_FLYC
+            AnimationMode = LOOP
+            AnimationPriority = 10
+            AnimationSpeedFactorRange    = 0.4 0.6
+        End
+        Animation = Flying_3
+            AnimationName = MUOrcWarr_FLYB
+            AnimationMode = LOOP
+            AnimationPriority = 2
+            AnimationSpeedFactorRange    = 0.4 0.6
+        End
+    End
+
+
+    AnimationState = HIT_REACTION HIT_LEVEL_1
+        Animation = Hit_Level_1_a
+            AnimationName = MUOrcWarr_HITA
+            AnimationMode = ONCE
+        End
+    End
+    AnimationState = HIT_REACTION HIT_LEVEL_2
+        Animation = Hit_Level_2_a
+            AnimationName = MUOrcWarr_HITB
+            AnimationMode = ONCE
+        End
+    End
+    AnimationState = HIT_REACTION
+        Animation = Hit_Level_1_a
+            AnimationName = MUOrcWarr_HITA
+            AnimationMode = ONCE
+        End
+        Animation = Hit_Level_2_a
+            AnimationName = MUOrcWarr_HITB
+            AnimationMode = ONCE
+        End
+    End
+
+    AnimationState = FIRING_OR_PREATTACK_A
+        Animation = ATKA
+            AnimationName = MUOrcWarr_ATKA
+            AnimationMode = LOOP
+            UseWeaponTiming        = Yes
+        End
+        Animation = ATKB
+            AnimationName = MUOrcWarr_ATKB
+            AnimationMode = LOOP
+            UseWeaponTiming        = Yes
+        End
+        Animation = ATKC
+            AnimationName = MUOrcWarr_ATKC
+            AnimationMode = LOOP
+            UseWeaponTiming        = Yes
+        End
+        Animation = ATKD
+            AnimationName = MUOrcWarr_ATKD
+            AnimationMode = LOOP
+            UseWeaponTiming        = Yes
+        End
+    End
+
+    AnimationState = WAR_CHANT
+        Animation = ChantA
+            AnimationName = MUOrcWarr_CHRA
+            AnimationMode = ONCE
+        End
+        Animation = ChantB
+            AnimationName = MUOrcWarr_CHRB
+            AnimationMode = ONCE
+        End
+        Animation = ChantC
+            AnimationName = MUOrcWarr_CHRC
+            AnimationMode = ONCE
+        End
+        Animation = ChantD
+            AnimationName = MUOrcWarr_CHRD
+            AnimationMode = ONCE
+        End
+        Animation = IDLH
+            AnimationName = MUOrcWarr_IDLH
+            AnimationMode = ONCE
+        End
+        Animation = IDLI
+            AnimationName = MUOrcWarr_IDLI
+            AnimationMode = ONCE
+        End
+        Flags                = RANDOMSTART RESTART_ANIM_WHEN_COMPLETE
+    End
+
+
+    AnimationState                    = EMOTION_AFRAID UNCONTROLLABLE
+        Animation                = FERA
+            AnimationName            = MUOrcWarr_FERA
+            AnimationMode            = LOOP
+        End
+        Animation                = FERB
+            AnimationName            = MUOrcWarr_FERB
+            AnimationMode            = LOOP
+        End
+        Animation                = FERC
+            AnimationName            = MUOrcWarr_FERC
+            AnimationMode            = LOOP
+        End
+    End
+
+
+    AnimationState                    = EMOTION_AFRAID
+        Animation                = FERA
+            AnimationName            = MUOrcWarr_FERA
+            AnimationMode            = LOOP
+        End
+        Animation                = FERB
+            AnimationName            = MUOrcWarr_FERB
+            AnimationMode            = LOOP
+        End
+        Animation                = FERC
+            AnimationName            = MUOrcWarr_FERC
+            AnimationMode            = LOOP
+        End
+    End
+
+    AnimationState                    = EMOTION_TAUNTING
+        Animation                = TNTA
+            AnimationName            = MUOrcWarr_TNTA
+            AnimationMode            = ONCE
+            AnimationSpeedFactorRange    = 0.8 1.2
+        End
+        Animation                = TNTA
+            AnimationName            = MUOrcWarr_TNTC
+            AnimationMode            = ONCE
+            AnimationSpeedFactorRange    = 0.8 1.2
+        End
+        Flags                    = RANDOMSTART RESTART_ANIM_WHEN_COMPLETE
+    End
+
+    AnimationState                    = EMOTION_POINTING
+        Animation                = Pointing1
+            AnimationName            = MUOrcWarr_PNTA
+            AnimationMode            = LOOP
+        End
+        Animation                = Pointing1
+            AnimationName            = MUOrcWarr_PNTB
+            AnimationMode            = LOOP
+        End
+    End
+
+    AnimationState                    = EMOTION_CELEBRATING
+        Animation                = ChantA
+            AnimationName            = MUOrcWarr_CHRA
+            AnimationMode            = ONCE
+        End
+        Animation                = ChantB
+            AnimationName            = MUOrcWarr_CHRB
+            AnimationMode            = ONCE
+        End
+        Animation                = ChantC
+            AnimationName            = MUOrcWarr_CHRC
+            AnimationMode            = ONCE
+        End
+        Animation                = ChantD
+            AnimationName            = MUOrcWarr_CHRD
+            AnimationMode            = ONCE
+        End
+        Flags                    = RESTART_ANIM_WHEN_COMPLETE
+    End
+
+    AnimationState                    = EMOTION_ALERT
+        Animation                = ALERT
+            AnimationName            = MUOrcWarr_IDLA
+            AnimationMode            = LOOP
+        End
+        Flags                    = RESTART_ANIM_WHEN_COMPLETE RANDOMSTART
+    End
+
+    AnimationState                    = RAISING_FLAG
+        Animation                = ChantA
+            AnimationName            = MUOrcWarr_CHRA
+            AnimationMode            = ONCE
+            AnimationSpeedFactorRange    = 0.9 1.1
+        End
+        Animation                = ChantB
+            AnimationName            = MUOrcWarr_CHRB
+            AnimationMode            = ONCE
+            AnimationSpeedFactorRange    = 0.9 1.1
+        End
+        Animation                = ChantC
+            AnimationName            = MUOrcWarr_CHRC
+            AnimationMode            = ONCE
+            AnimationSpeedFactorRange    = 0.9 1.1
+        End
+        Animation                = ChantD
+            AnimationName            = MUOrcWarr_CHRD
+            AnimationMode            = ONCE
+            AnimationSpeedFactorRange    = 0.9 1.1
+        End
+        Flags                =    RESTART_ANIM_WHEN_COMPLETE
+    End
+
+    AnimationState = SELECTED
+        StateName            = STATE_Selected
+        SimilarRestart            =   Yes
+        Flags                = RESTART_ANIM_WHEN_COMPLETE
+
+        Animation = IDLA
+            AnimationName        = MUOrcWarr_IDLA
+            AnimationMode        = ONCE
+            AnimationPriority    = 4
+            AnimationBlendTime    = 10
+        End
+        Animation = IDLC
+            AnimationName        = MUOrcWarr_IDLC
+            AnimationMode        = ONCE
+            AnimationPriority    = 10
+            AnimationBlendTime    = 10
+        End
+        Animation = IDLE
+            AnimationName        = MUOrcWarr_IDLE
+            AnimationMode        = ONCE
+            AnimationPriority    = 2
+            AnimationBlendTime    = 10
+        End
+        Animation = IDLZ
+            AnimationName        = MUOrcWarr_IDLZ
+            AnimationMode        = ONCE
+            AnimationPriority    = 8
+            AnimationBlendTime    = 10
+        End
+
+        BeginScript
+            Prev = CurDrawablePrevAnimationState()
+            if Prev == "STATE_Idle" then CurDrawableSetTransitionAnimState("TRANS_Idle_to_Selected") end
+        EndScript
+    End
+
+    TransitionState = TRANS_Idle_to_Selected
+        Animation = ATNA
+            AnimationName        = MUOrcWarr_ATNA
+            AnimationMode        = ONCE
+            AnimationBlendTime    = 10
+        End
+    End
+
+    TransitionState = TRANS_Selected_to_Idle
+        Animation = ATNF
+            AnimationName        = MUOrcWarr_ATNF
+            AnimationMode        = ONCE
+            AnimationBlendTime    = 10
+        End
+    End
+
+
+    AnimationState = QUARRELSOME_FIGHTING
+        StateName = SomeState
+        Animation = ATKB
+            AnimationName     = MUOrcWarr_ATKB
+            AnimationMode     = ONCE
+        End
+        Animation = ATKC
+            AnimationName     = MUOrcWarr_ATKC
+            AnimationMode     = ONCE
+        End
+        Flags            = RESTART_ANIM_WHEN_COMPLETE
+    End
+
+    AnimationState = EMOTION_QUARRELSOME
+        SimilarRestart = Yes
+        StateName = Quarrel
+          Animation = Chant
+            AnimationName = MUOrcWarr_CHRA
+            AnimationMode = ONCE
+            AnimationPriority = 500
+        End
+        Animation = Chant1
+            AnimationName = MUOrcWarr_IDLB
+            AnimationMode = ONCE
+            AnimationPriority = 500
+        End
+        Animation = Chant2
+            AnimationName = MUOrcWarr_IDLF
+            AnimationMode = ONCE
+            AnimationPriority = 500
+        End
+        Animation = Chant3
+            AnimationName = MUOrcWarr_IDLG
+            AnimationMode = ONCE
+            AnimationPriority = 500
+        End
+        Animation = Chant4
+            AnimationName = MUOrcWarr_IDLJ
+            AnimationMode = ONCE
+            AnimationPriority = 500
+        End
+        Animation = BIG_BLEND_QUARREL
+            AnimationName = MUOrcWarr_CHRA
+            AnimationMode = ONCE
+            AnimationBlendTime    = 15
+            AnimationPriority = 1
+        End
+        Flags = RESTART_ANIM_WHEN_COMPLETE RANDOMSTART
+        BeginScript
+            Prev = CurDrawablePrevAnimationState()
+            if Prev ~= "Quarrel"
+            then
+                return "BIG_BLEND_QUARREL"
+            end
+        EndScript
+
+    End
+
