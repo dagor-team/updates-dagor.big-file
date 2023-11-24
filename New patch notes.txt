@@ -3,5 +3,5 @@ by Gorgo:
 -xp changes to mordor orcs
 -hobbit balistas range nerf
 -gorthaur expansions fixed
+-hasharin new ability
 -easter egg
-
