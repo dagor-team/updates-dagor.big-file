@@ -4068,6 +4068,22 @@ CONTROLBAR:ToolTipGothmogGefangenen
 "Requires: Level 7 \n Gothmog orders his catapults to launch the prisoners back\n Catapults near him can for a short time \n bombard the enemy with corpses \n Passive Ability: \n Nearby catapults deal 50% more damage Left-click to activate"
 END
 
+CONTROLBAR:SpecialAbilityLieutenantOfMorgul
+""
+END
+
+CONTROLBAR:ToolTipSpecialAbilityLieutenantOfMorgul
+""
+END
+
+CONTROLBAR:ToolTipArgdushDecimate
+"No Retreat"
+END
+
+CONTROLBAR:ToolTipArgdushDecimate
+"Argdush slaughters fleeing orcs, terrifying surrounding enemy units. \n Nearby orcs are forced to fight again. \n Orcs near the slaughter gain 25% armor and lose 25% speed 10 seconds. \n Left-click on a selected area"
+END
+
 CONTROLBAR:AngmarZaphragorRevive
 "Revive the fallen hero Zaphragor"
 END
@@ -4362,6 +4378,14 @@ END
 
 CONTROLBAR:ToolTipSpecialAbilityOinGloinSpawn
 "Requires: Level 5 \n Not available in ranged combat \n Oin calls his brother Gloin to aid him. Gloin attacks the chosen enemies with a strong bash, then immediately disappears. \n Left-click on icon then left-click on target"
+END
+
+CONTROLBAR:SpecialAbilityHasharinTeleport
+"Assassinate"
+END
+
+CONTROLBAR:ToolTipSpecialAbilityHasharinTeleport
+"Requires: Level 3 \n Hasharin jump to a location hurling throwing knives around them. \n Left-click on a desired location"
 END
 
 OBJECT:DwarvenNori

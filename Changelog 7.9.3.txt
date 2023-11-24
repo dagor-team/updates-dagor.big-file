@@ -1,12 +1,7 @@
-By Gorgo:
-menegroth cav no longer invisible
-arvedui leadership 30% armor -> 50% armor
-arvedui heromode crushes units now
-gondor beacon rework
-inn units for arnor reworked
-ancient wisdom cost 1750 -> 1000
-cirdan small aoe on hit
-gobo archers fixed
-tauriel leadership lvl 3 now
-formenos units now cost 72 cp each
-fingolfin crush oneshot fixed
+by Gorgo:
+-gothmogs captains abilities fixed
+-xp changes to mordor orcs
+-hobbit balistas range nerf
+-gorthaur expansions fixed
+-easter egg
+
