@@ -592,7 +592,7 @@ CommandButton Command_SpecialAbilitySuladanPorter
   Command           = SPECIAL_POWER
   SpecialPower      = SpecialAbilitySuladanPorter
   TextLabel         = CONTROLBAR:SpecialAbilitySuladanPorter
-  ButtonImage       = HSEvilmenPorter
+  ButtonImage       = BIHaradOasis
   Options           = NEED_TARGET_POS CONTEXTMODE_COMMAND
   RadiusCursorType  = FatamorganaRadiusCursor
   CursorName        = Bombard

@@ -4380,6 +4380,14 @@ CONTROLBAR:ToolTipSpecialAbilityOinGloinSpawn
 "Requires: Level 5 \n Not available in ranged combat \n Oin calls his brother Gloin to aid him. Gloin attacks the chosen enemies with a strong bash, then immediately disappears. \n Left-click on icon then left-click on target"
 END
 
+CONTROLBAR:MountainBreed
+"Mountain Breed"
+END
+
+CONTROLBAR:TooltipMountainBreed
+"Requires: Level 4 \n Bodyguads gain 5% armor on hit up to 25%. \n Passive ability"
+END
+
 CONTROLBAR:SpecialAbilityHasharinTeleport
 "Assassinate"
 END
@@ -61191,6 +61199,14 @@ CONTROLBAR:ToolTipFireWeaponMordorFortressSpireFireball
 "Launches a Fireball \n Left-click on icon then left-click on target area"
 END
 
+CONTROLBAR:DarkPowersRising
+"Dark Powers Rising"
+END
+
+CONTROLBAR:ToolTipDarkPowersRising
+"The sorcerers of Witch-king create a foul atmosphere \n The dark spell creates a perfect conditions for the angmar mills \n Angmar mills get a production bonus for 1 minute \n Left-click to activate""
+END
+
 CONTROLBAR:SturmaufGondor
 "Minas Morgul Unleashed"
 END
@@ -68159,7 +68175,7 @@ CONTROLBAR:ConstructAngmarNumEliteHorde
 END
 
 CONTROLBAR:ToolTipBuildAngmarNumEliteHorde
-"Requires: Chambers of the Black Guard \n Unit Type: Elite Infantry \n Strong vs: Infantry and Heroes"
+"Requires: Chambers of the Black Guard and Zaphragor recruited \n Unit Type: Elite Infantry \n Strong vs: Infantry and Heroes"
 END
 
 CONTROLBAR:ToolTipBuildAngmarNumEliteHorde_forCarnDum
@@ -68211,7 +68227,7 @@ CONTROLBAR:ConstructAngmarSchwarzeRitterHorde
 END
 
 CONTROLBAR:ToolTipBuildAngmarSchwarzeRitterHorde
-"Requires: Chambers of the Black Guard \n Unit Type: Elite Cavalry \n Strong vs: Cavalry and Monsters"
+"Requires: Chambers of the Black Guard and Zaphragor recruited \n Unit Type: Elite Cavalry \n Strong vs: Cavalry and Monsters"
 END
 
 BANNERUI:AngmarSchwarzeRitter
@@ -96497,7 +96513,7 @@ CONTROLBAR:MaeglinSummonTower
 END
 
 CONTROLBAR:TooltipMaeglinSummonTower
-"Requires: Level 10 \n Maeglin summons Thlim Doldron Tower, one of 7 entrances to Gondolin \n The tower provides bonuses and allows the training of Thlim Doldron battalions \n Left-click on the icon and then click passable area"
+"Requires: Level 5 \n Maeglin summons Thlim Doldron Tower, one of 7 entrances to Gondolin \n The tower provides bonuses and allows the training of Thlim Doldron battalions \n Left-click on the icon and then click passable area"
 END
 
 
@@ -106245,7 +106261,7 @@ CONTROLBAR:SpecialAbilitySuladanPorter
 END
 
 CONTROLBAR:ToolTipSpecialAbilitySuladanPorter
-"Suladân summons a builder of the royal court that is able to construct all the buildings the servants of Sauron need to strengthen the effort in the war against the free peoples"
+"Suladân summons an oasis to keep the marching armies of Harad upkept and always ready for a fight. \n Left-click on a selected area"
 END 
 
 
@@ -108535,7 +108551,7 @@ CONTROLBAR:ConstructWildBodyGuardHorde
 END
 
 CONTROLBAR:ToolTipBuildWildBodyGuardHorde
-"Strong vs. All Normal Troops\n Requires Level 3 Gundabad Barracks \n \n Through years of torment and horrifying hardship, these deranged Gundabad Orcs are the greatest warriors the Mountain has to offer."
+"Strong vs. All Normal Troops\n Requires Level 3 Gundabad Barracks and Forged Blades researched \n \n Through years of torment and horrifying hardship, these deranged Gundabad Orcs are the greatest warriors the Mountain has to offer."
 END
 
 CONTROLBAR:ConstructGundabadBarracks

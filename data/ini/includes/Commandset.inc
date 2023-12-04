@@ -1634,7 +1634,7 @@ End
 CommandSet AngmarHallofTwilightCommandSet
  InitialVisible = 8
       ;1 = Command_SelectRevivablesHallTwilight
-      ;2 = Command_SelectRevivablesSpellMenu
+      2 = Command_DarkPowersRising
       3 = Command_ConstructAngmarNecromancerHorde
       4 = Command_TechnologyAngmarSoulFreezeEnabled
       5 = Command_TechnologyAngmarWellOfSoulsEnabled
@@ -1659,7 +1659,7 @@ End
 CommandSet AngmarHallofTwilightCommandSetLevel2
  InitialVisible = 8
       ;1 = Command_SelectRevivablesHallTwilight
-      ;2 = Command_SelectRevivablesSpellMenu
+      2 = Command_DarkPowersRising
       3 = Command_ConstructAngmarNecromancerHorde
       4 = Command_TechnologyAngmarSoulFreezeEnabled
       5 = Command_TechnologyAngmarWellOfSoulsEnabled2
@@ -1684,7 +1684,7 @@ End
 CommandSet AngmarHallofTwilightCommandSetLevel3
  InitialVisible = 7
       ;1 = Command_SelectRevivablesHallTwilight
-      ;2 = Command_SelectRevivablesSpellMenu
+      2 = Command_DarkPowersRising
       3 = Command_ConstructAngmarNecromancerHorde
       4 = Command_TechnologyAngmarSoulFreezeEnabled
       5 = Command_TechnologyAngmarWellOfSoulsEnabled2
