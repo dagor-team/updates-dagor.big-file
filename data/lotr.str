@@ -4065,7 +4065,7 @@ CONTROLBAR:AngmarZaphragorHotkey
 END
 
 CONTROLBAR:ToolTipGothmogGefangenen
-"Requires: Level 7 \n Gothmog orders his catapults to launch the prisoners back\n Catapults near him can for a short time \n bombard the enemy with corpses \n Passive Ability: \n Nearby catapults deal 50% more damage Left-click to activate"
+"Requires: Level 5 \n Gothmog orders his catapults to launch the prisoners back\n Catapults near him can for a short time \n bombard the enemy with corpses \n Passive Ability: \n Nearby catapults deal 50% more damage Left-click to activate"
 END
 
 CONTROLBAR:SpecialAbilityLieutenantOfMorgul
@@ -20908,7 +20908,7 @@ OBJECT:ConstructWildScorpion
 END
 
 CONTROLBAR:WildScorpionRecruit
-"A huge scorpion, the will Gorkils docile \n Requires spider cave level 3 \n You can Control a maximum of 7 Scorpions \n Strong vs: Melee"
+"A huge scorpion bred by Gorkil, ready at his command \n Requires spider pit level 2 \n You can Control a maximum of 3 Scorpions \n Strong vs: Melee"
 END
 
 OBJECT:WildScorpion
@@ -22832,7 +22832,7 @@ CONTROLBAR:GothmogsCaptains
 END
 
 CONTROLBAR:ToolTipGothmogsCaptains
-"Requires: Level 3 \n Gothmog summons his captains do aid in the siege of Minas Tirith \n Left click on the desired area"
+"Requires: Level 7 \n Gothmog summons his captains do aid in the siege of Minas Tirith \n Left click on the desired area"
 END
 
 CONTROLBAR:DunkleMagie
@@ -27182,7 +27182,7 @@ CONTROLBAR:BuildIsengardWildSpearHorde
 END
 
 CONTROLBAR:ToolTipBuildIsengardWildSpearHorde
-"Requires: Dunland Shelter Level 2 \n Strong vs: Cavalry"
+"Strong vs: Cavalry"
 END
 
 CONTROLBAR:ToolTipBuildAngmarHeroWolfHorde
@@ -53822,7 +53822,7 @@ CONTROLBAR:BuildGondorWachterderVesteHorde
 END
 
 CONTROLBAR:ToolTipBuildGondorWachterderVesteHorde
-"Requires: Barracks Level 3 \n Unit Type: Elite Infantry \n Strong vs: Depending on the situation \n Can switch between Sword and Lance"
+"Requires: Barracks Level 3 and reseached Forged Blades \n Unit Type: Elite Infantry \n Strong vs: Depending on the situation"
 END
 
 CONTROLBAR:ToolTipBuildGondorWachterderVesteHorde_Monument
@@ -66387,7 +66387,7 @@ CONTROLBAR:ConstructWildSpiderRiderHorde
 END
 
 CONTROLBAR:ToolTipBuildWildSpiderRiderHorde
-"Requires: Gorkil has been crowned and Spider Pit Level 3 \n Unit Type: Elite Cavalry \n Strong vs: Depending on the situation \n Can switch between Sword and Bow"
+"Requires: Gorkil has been crowned and Spider Pit Level 3 \n Unit Type: Elite Cavalry \n Strong vs: Depending on the situation \n Can switch between Sword and Bow \n You can only build 5 Spider riders at the same time"
 END
 
 CONTROLBAR:ToolTipBuildWildSpiderRiderHordeEdain_forEtteenmoors

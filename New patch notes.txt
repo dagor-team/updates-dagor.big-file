@@ -1,10 +1,10 @@
 by Gorgo:
--Angmar eco buff available in the temple of twilight
--maeglin buff and descriptions fixed
--mordor catapults slight buff
--goblin riders dmg readjusted (no longer good against building, instead good against armored units)
--arnor catapult summon, catapults replaced with battering rams and arvelegs leadership nerfed from 50% armor and dmg to 20% each
--last alliance summon heroes only last 2 minutes (nerfed from 3)
--gundabad bodyguards locked behind forged blades and get a new ability at level 4
--angmar elites locked behind zaphragor + lower price of the barracks upgrade
--mablung no longer crashes the game
+-poison arrows and venom sacks no longer require spider pit built to equip them
+-zaphragor is faster
+-cave trolls are cheaper
+-smaug is faster
+-loth palace guards formation armor reduced
+-mirkwood archers range reduced
+-thorins pin can no longer be autocasted
+-level 3 upgrade for the fissure is cheaper
+-citadel guards locked behind forged blades
