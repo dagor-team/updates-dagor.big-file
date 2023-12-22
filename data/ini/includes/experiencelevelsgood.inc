@@ -2239,7 +2239,7 @@ ExperienceLevel    Good_Veterans_InfantryLevel11
     RequiredExperience                =    EXPERIENCE_REQUIRED_VETERANS_HORDE_11
     ExperienceAward                   =    EXPERIENCE_AWARD_VETERANS_HORDE_11
     InformUpdateModule                =    Yes
-    Rank                              =    10
+    Rank                              =    11
     AttributeModifiers                =    VeteransHordeBonusRank11
     Upgrades                          =    Upgrade_ObjectLevel11 Upgrade_MiniHordeLvl11 Upgrade_EliteHordeLvl11
     LevelUpFx                         =    FX:GandalfLevelUp1FX
@@ -2266,7 +2266,7 @@ ExperienceLevel    Good_Veterans_InfantryLevel12
     RequiredExperience                =    EXPERIENCE_REQUIRED_VETERANS_HORDE_12
     ExperienceAward                   =    EXPERIENCE_AWARD_VETERANS_HORDE_12
     InformUpdateModule                =    Yes
-    Rank                              =    10
+    Rank                              =    12
     AttributeModifiers                =    VeteransHordeBonusRank12
     Upgrades                          =    Upgrade_ObjectLevel12 Upgrade_MiniHordeLvl12 Upgrade_EliteHordeLvl12
     LevelUpFx                         =    FX:GandalfLevelUp1FX
@@ -2293,7 +2293,7 @@ ExperienceLevel    Good_Veterans_InfantryLevel13
     RequiredExperience                =    EXPERIENCE_REQUIRED_VETERANS_HORDE_13
     ExperienceAward                   =    EXPERIENCE_AWARD_VETERANS_HORDE_13
     InformUpdateModule                =    Yes
-    Rank                              =    10
+    Rank                              =    13
     AttributeModifiers                =    VeteransHordeBonusRank13
     Upgrades                          =    Upgrade_ObjectLevel13 Upgrade_MiniHordeLvl13 Upgrade_EliteHordeLvl13
     LevelUpFx                         =    FX:GandalfLevelUp1FX
@@ -2320,7 +2320,7 @@ ExperienceLevel    Good_Veterans_InfantryLevel14
     RequiredExperience                =    EXPERIENCE_REQUIRED_VETERANS_HORDE_14
     ExperienceAward                   =    EXPERIENCE_AWARD_VETERANS_HORDE_14
     InformUpdateModule                =    Yes
-    Rank                              =    10
+    Rank                              =    14
     AttributeModifiers                =    VeteransHordeBonusRank14
     Upgrades                          =    Upgrade_ObjectLevel14 Upgrade_MiniHordeLvl14 Upgrade_EliteHordeLvl14
     LevelUpFx                         =    FX:GandalfLevelUp1FX
@@ -2347,7 +2347,7 @@ ExperienceLevel    Good_Veterans_InfantryLevel15
     RequiredExperience                =    EXPERIENCE_REQUIRED_VETERANS_HORDE_15
     ExperienceAward                   =    EXPERIENCE_AWARD_VETERANS_HORDE_15
     InformUpdateModule                =    Yes
-    Rank                              =    10
+    Rank                              =    15
     AttributeModifiers                =    VeteransHordeBonusRank15
     Upgrades                          =    Upgrade_ObjectLevel15 Upgrade_MiniHordeLvl15 Upgrade_EliteHordeLvl15
     LevelUpFx                         =    FX:GandalfLevelUp1FX
@@ -2374,7 +2374,7 @@ ExperienceLevel    Good_Veterans_InfantryLevel16
     RequiredExperience                =    EXPERIENCE_REQUIRED_VETERANS_HORDE_16
     ExperienceAward                   =    EXPERIENCE_AWARD_VETERANS_HORDE_16
     InformUpdateModule                =    Yes
-    Rank                              =    10
+    Rank                              =    16
     AttributeModifiers                =    VeteransHordeBonusRank16
     Upgrades                          =    Upgrade_ObjectLevel16 Upgrade_MiniHordeLvl16 Upgrade_EliteHordeLvl16
     LevelUpFx                         =    FX:GandalfLevelUp1FX
@@ -2401,7 +2401,7 @@ ExperienceLevel    Good_Veterans_InfantryLevel17
     RequiredExperience                =    EXPERIENCE_REQUIRED_VETERANS_HORDE_17
     ExperienceAward                   =    EXPERIENCE_AWARD_VETERANS_HORDE_17
     InformUpdateModule                =    Yes
-    Rank                              =    10
+    Rank                              =    17
     AttributeModifiers                =    VeteransHordeBonusRank17
     Upgrades                          =    Upgrade_ObjectLevel17 Upgrade_MiniHordeLvl17 Upgrade_EliteHordeLvl17
     LevelUpFx                         =    FX:GandalfLevelUp1FX
@@ -2428,7 +2428,7 @@ ExperienceLevel    Good_Veterans_InfantryLevel18
     RequiredExperience                =    EXPERIENCE_REQUIRED_VETERANS_HORDE_18
     ExperienceAward                   =    EXPERIENCE_AWARD_VETERANS_HORDE_18
     InformUpdateModule                =    Yes
-    Rank                              =    10
+    Rank                              =    18
     AttributeModifiers                =    VeteransHordeBonusRank18
     Upgrades                          =    Upgrade_ObjectLevel1 Upgrade_MiniHordeLvl1 Upgrade_EliteHordeLvl18
     LevelUpFx                         =    FX:GandalfLevelUp1FX
@@ -2455,7 +2455,7 @@ ExperienceLevel    Good_Veterans_InfantryLevel19
     RequiredExperience                =    EXPERIENCE_REQUIRED_VETERANS_HORDE_19
     ExperienceAward                   =    EXPERIENCE_AWARD_VETERANS_HORDE_19
     InformUpdateModule                =    Yes
-    Rank                              =    10
+    Rank                              =    19
     AttributeModifiers                =    VeteransHordeBonusRank19
     Upgrades                          =    Upgrade_ObjectLevel19 Upgrade_MiniHordeLvl19 Upgrade_EliteHordeLvl19
     LevelUpFx                         =    FX:GandalfLevelUp1FX
@@ -2482,7 +2482,7 @@ ExperienceLevel    Good_Veterans_InfantryLevel20
     RequiredExperience                =    EXPERIENCE_REQUIRED_VETERANS_HORDE_20
     ExperienceAward                   =    EXPERIENCE_AWARD_VETERANS_HORDE_20
     InformUpdateModule                =    Yes
-    Rank                              =    10
+    Rank                              =    20
     AttributeModifiers                =    VeteransHordeBonusRank20
     Upgrades                          =    Upgrade_ObjectLevel20 Upgrade_MiniHordeLvl20 Upgrade_EliteHordeLvl20
     LevelUpFx                         =    FX:GandalfLevelUp1FX
@@ -2503,6 +2503,7 @@ ExperienceLevel    Good_Veterans_InfantryLevel20
         MaxSelectedUnits              =    40
     End
 End
+
 
 ;----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
