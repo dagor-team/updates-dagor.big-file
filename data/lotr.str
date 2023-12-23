@@ -1789,7 +1789,7 @@ CONTROLBAR:ToolTipSpellBookEinzugsbefehl_Neu
 END
 
 CONTROLBAR:ToolTipHwaldarLeadership_Neu
-"Hwaldar inspires allied troops with his willingness to fight \n With each attack he performs, allied infantry close to him, briefly gain +25% attack \n Passive ability"
+"Hwaldar inspires allied troops with his willingness to fight \n With each attack he performs, allied thrall units close to him, briefly gain +25% attack and scavenger \n Passive ability"
 END
 
 CONTROLBAR:GorthaurSchicksalsklinge
@@ -15491,6 +15491,14 @@ CONTROLBAR:BolgWarg
 "Warg"
 END
 
+CONTROLBAR:StaunchDefender
+"You Cant run"
+END
+
+CONTROLBAR:ToolTipStaunchDefender
+"Requires: Level 10 \n Dwarves pull everything around them in towards them, knocking everything down in the process \n Left-click to activate"
+END
+
 CONTROLBAR:ToolTipBolgWargansturm
 "Requires: Level 10 \n A selected area is overrun by wargs \n Enemy units suffer high damage \n Left-click on the desired destination area"
 END
@@ -15508,7 +15516,7 @@ CONTROLBAR:GorkilGloriousCharge
 END
 
 CONTROLBAR:ToolTipGorkilGloriousCharge
-"The ruler of the Misty Mountains drives the Spider Riders forward\n For a short time, Spider-riders deal triple damage \n Left-click to activate"
+"The ruler of the Misty Mountains drives the Spider Riders forward\n For a short time, Spider-riders deal double damage \n Left-click to activate"
 END
 
 CONTROLBAR:AzogLeadershipKing
