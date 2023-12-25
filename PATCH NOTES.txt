@@ -2,7 +2,7 @@ IMLADRIS
 	elrond 
 		leadership reduced slight for normal units and vets leadership gets a nerf
 	vets 
-		levels from 11 to 20 no longer are give at level 10 and the the exp neeeded to level up is increased by 150 per   		level
+		levels from 11 to 20 no longer are give at level 10 and the the exp neeeded to level up is increased per   		level
 LOTH 
 	
 ANGAMR 
@@ -10,7 +10,7 @@ ANGAMR
 	
 ARONOR 
 	palantir 
-		cost 60 cp
+		cost 70 cp
 INSEN
 	
 MORDOR 
