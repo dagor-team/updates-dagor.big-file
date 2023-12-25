@@ -1,23 +1,36 @@
 IMLADRIS
-	elrond 
-		leadership reduced slight for normal units and vets leadership gets a nerf
-	vets 
-		levels from 11 to 20 no longer are give at level 10 and the the exp neeeded to level up is increased per   		level
+		GIGACHAD NERF
 LOTH 
 	
 ANGAMR 
-
 	
 ARONOR 
-	palantir 
-		cost 70 cp
+
 INSEN
 	
 MORDOR 
-	
+
+ANGMAR
+	Hwaldar
+		leadership now gives scavenger to thrall master units
+	Rogash
+		leap lvl 5
+	Witchking
+		Mount back to lvl 1
+ARNOR 
+	Palantir guards 
+		cost 70 cp
 DWARVES
-	
-	
+	Dwarven zerkers removed and replaced in the dwarven hall
+GOBOS
+	Gorkil
+		Spider rider ability dmg nerf from 300% to 200%
+	Spider riders
+		Ranged dmg adjusted after poison arrows 
+	Bolg
+		Leadership adjusted to apply only to gundabad units and monsters (gundabad trolls, bats, ogres)
+	Drums in the deep switched with untaimed allegiance in the spell tree
+
 
 
 
