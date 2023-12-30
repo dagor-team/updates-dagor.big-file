@@ -1569,11 +1569,11 @@ CONTROLBAR:ToolTipAragornAnzeigeLevel10
 END
 
 CONTROLBAR:ToolTipSauronHerrvonMordor_Neu2
-"All power of Mordor comes from the Dark Lord \n On level 3, 6 and 9 Sauron is able to activate one of the armies positioned in his big fortresses: Dol Guldur, Cirith Ungol and Minas Morgul \n On level 10, the Ringwraiths can be recruited after death without paying resources \n Passive ability"
+"All power of Mordor comes from the Dark Lord \n On level 2, 4 and 6 Sauron is able to activate one of the armies positioned in his big fortresses: Dol Guldur, Cirith Ungol and Minas Morgul \n Passive ability"
 END
 
 CONTROLBAR:ToolTipSklavenseinesWillens_Neu
-"All power of Mordor comes from the Dark Lord \n On level 3, 6 and 9 Sauron is able to activate one of the armies positioned in his big fortresses: Dol Guldur, Cirith Ungol and Minas Morgul \n On level 10, the Ringwraiths can be recruited after death without paying resources \n Passive ability"
+"All power of Mordor comes from the Dark Lord \n On level 2, 4 and 6 Sauron is able to activate one of the armies positioned in his big fortresses: Dol Guldur, Cirith Ungol and Minas Morgul \n Passive ability"
 END
 
 CONTROLBAR:SummonZwergeAdler
@@ -42068,6 +42068,10 @@ CONTROLBAR:TooltipDwarvenRiches
 "Selected structure's resource output is permanently raised to 300% \n Left-click icon then left-click on target resource structure"
 END
 
+CONTROLBAR:TooltipDwarvenRiches
+"Selected structure's resource output is raised to 300% for two minutes \n Cooldown: 5 minutes \n Left-click icon then left-click on target resource structure"
+END
+
 CONTROLBAR:Rebuild
 "Rebuild"
 END
@@ -52277,7 +52281,7 @@ CONTROLBAR:WildGoblinKingHotkey
 END
 
 CONTROLBAR:WildGoblinKingRecruit
-"Recruit the Lord of the Spiders \n \n Lore: \n Gorkil was a powerful Goblin ruler during the Third Age. He is portrayed as a goblin riding on the back of a Giant Scorpion. He appears to be the King of all the Goblin tribes. He and his armies took control of the abandoned outpost in the Ettenmoors in Angmar, formerly owned by the Witch-king of Angmar. Sauron uses Gorkil to control the goblins and serve his will. He also owns and raised a rare, gigantic scorpion. Gorkil was killed at the Ettenmoors by Glorfindel of Rivendell, Haldir of Lothlórien, and Gloin, father of Gimli. When he died, his goblins were lost and confused and Sauron's hold over them was broken."
+"Recruit the Lord of the Spiders \n \n Lore: \n Gorkil was a powerful Goblin ruler during the Third Age. He is portrayed as a goblin riding on the back of a Giant Spider. He appears to be the King of all the Goblin tribes. He and his armies took control of the abandoned outpost in the Ettenmoors in Angmar, formerly owned by the Witch-king of Angmar. Sauron uses Gorkil to control the goblins and serve his will. He also owns and raised a rare, gigantic scorpion. Gorkil was killed at the Ettenmoors by Glorfindel of Rivendell, Haldir of Lothlórien, and Gloin, father of Gimli. When he died, his goblins were lost and confused and Sauron's hold over them was broken."
 END
 
 CONTROLBAR:WildDrogothHotkey
@@ -61160,7 +61164,7 @@ CONTROLBAR:SpielsystemMordor
 END
 
 CONTROLBAR:ToolTipSpielsystemMordor_Neu
-"Sauron is the central figure of Mordor \n The more powerful he is, the more benefits the faction recieves, particulalry in regards to the military and heroes \n At level 3, 6 and 9, Sauron unlocks the option to call upon one of his most powerful domains to assist him:\n Cirith Ungol, Minas Morgul and Dol Guldur \n Each domain consists of its own building, units, heroes, and fortress spells"
+"Sauron is the central figure of Mordor \n The more powerful he is, the more benefits the faction recieves, particulalry in regards to the military and heroes \n At level 2, 4 and 6, Sauron unlocks the option to call upon one of his most powerful domains to assist him:\n Cirith Ungol, Minas Morgul and Dol Guldur \n Each domain consists of its own building, units, heroes, and fortress spells \n Upon having recruited all the nazgul and sauron at least once orcs all over the map get an armor and experience leadership"
 END
 
 CONTROLBAR:SelectUpgradesMordorFortress
@@ -61212,7 +61216,7 @@ CONTROLBAR:DarkPowersRising
 END
 
 CONTROLBAR:ToolTipDarkPowersRising
-"The sorcerers of Witch-king create a foul atmosphere \n The dark spell creates a perfect conditions for the angmar mills \n Angmar mills get a production bonus for 1 minute \n Left-click to activate""
+"The sorcerers of Witch-king create a foul atmosphere \n The dark spell creates a perfect conditions for the angmar mills \n Angmar mills get a production bonus for 1 minute \n Cooldown: 5 minutes \n Left-click to activate"
 END
 
 CONTROLBAR:SturmaufGondor
@@ -65030,7 +65034,7 @@ TOOLTIP:LackHerrscherNebelbergeGorkil_Neu
 END
 
 CONTROLBAR:ToolTipPurchaseHerrscherNebelbergeGorkil
-"Effects: Spider Riders are now available in the Spider Pit.\n Gorkil receives enhanced abilities and units with poison weapons deal additional damage."
+"Effects: Spider Riders are now available in the Spider Pit.\n Gorkil receives enhanced abilities and goblins and half-trolls with poison weapons deal additional damage.\n Gorkil gains 60 Dmg on foot, additional speed and armor"
 END
 
 UPGRADE:AzogKrone
@@ -65050,7 +65054,7 @@ CONTROLBAR:HerrscherNebelbergeGroßOrkFortress
 END
 
 CONTROLBAR:ToolTipHerrscherNebelbergeGroßOrkFortress
-"The Great Goblin reigns over the High Pass and thereby controls the dwellers of the Misty Mountains and all its wild creatures \n All troops loot resources for every enemy they fell \n The Great Goblin tames the Wargs, enabling the recruitment of wild Warg Packs and Warg Riders"
+"The Great Goblin reigns over the High Pass and thereby controls the dwellers of the Misty Mountains and all its wild creatures \n Great Goblin receives enhanced abilities as well as a second palantir .\n The Great Goblin tames the Wargs, enabling the recruitment of Warg Pack Leader, Captains of the Great Goblin and Goblin Riders"
 END
 
 CONTROLBAR:HerrscherNebelbergeBolgFortress
