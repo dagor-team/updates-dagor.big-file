@@ -62480,7 +62480,7 @@ CONTROLBAR:ConstructMordorMountainTroll
 END
 
 CONTROLBAR:ToolTipBuildMordorMountainTroll
-"Unit Type: Basic Monster \n Strong vs: Infantry and Structures \n Can be improved to Attack Troll"
+"Unit Type: Basic Monster \n Strong vs: Infantry and Structures \n Can be improved to Attack Troll \n You can only have 6 at the same time"
 END
 
 BANNERUI:MordorMountainTroll
@@ -70631,8 +70631,16 @@ CONTROLBAR:ToolTipSpecialAbilityWingBlastAngbandDragon
 "Requires: Level 3 \n Shoots a shockwave of force below the Angband Dragon, causing meta damage to enemies \n Left-click icon then left-click on target area"
 END
 
+CONTROLBAR:SpecialAbilityDrogothHealing
+"Treasured Endur&ance"
+END
+
+CONTROLBAR:ToolTipSpecialAbilityDrogothHealing
+"Requires: Level 4 \n Heals Drogoth for a chunk of his health \n Left-click to activate"
+END
+
 CONTROLBAR:SpecialAbilityIncinerate
-"In&cinerate"
+"Incin&erate"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityIncinerate
