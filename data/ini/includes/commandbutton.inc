@@ -938,7 +938,7 @@ End
 CommandButton Command_SpecialAbilityMahudRaserei 
     Command                 = SPECIAL_POWER
     SpecialPower            = SpecialAbilityMahudRaserei 
-  Options     = OK_FOR_MULTI_SELECT OK_FOR_MULTI_EXECUTE
+    Options                 = OK_FOR_MULTI_SELECT OK_FOR_MULTI_EXECUTE
     TextLabel               = CONTROLBAR:SpecialAbilityMahudRaserei
     ButtonImage             = _uHaradMhdFiMahudRaserei
     RadiusCursorType        = TrainingRadiusCursor    
