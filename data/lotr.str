@@ -677,7 +677,7 @@ CONTROLBAR:ZerkerRage
 END
 
 CONTROLBAR:ToolTipZerkerRage
-"Requires: Level 10 \n Zerkers swing their axes in front of them dealing great amount of damage \n Left-click to activate"
+"Requires: Level 3 \n Zerkers swing their axes in front of them dealing great amount of damage \n Left-click to activate"
 END
 
 CONTROLBAR:LW_Unit_DwarvenBegleiterdesPrinzenHorde
@@ -7875,7 +7875,7 @@ Map:mapedaineisbucht/Desc
 END
 
 CONTROLBAR:ToolTipAnfuhrerGaladhrim_New
-"Requires: Level 6 \n Haldir dons his battle armor and leads the Galadhrim in the battle \n Haldir gets +25% armor, allies near him get +50% attack \n Passive ability"
+"Requires: Level 6 \n Haldir dons his battle armor and leads the Galadhrim in the battle \n Haldir gets +25% armor, allies near him get +30% attack \n Passive ability"
 END
 
 CONTROLBAR:ToolTipAnfuhrerGaladhrim_NewSummon
@@ -109767,7 +109767,7 @@ CONTROLBAR:YaznegAmbush
 END
 
 CONTROLBAR:ToolTipYaznegAmbush
-"Requires Level 7 \n Yazneg summons several Gundabad Wargs and Warg Riders on a certain location in order to ambush the enemy units \n They last for one minute and are stealthed all the time \n Left click on icon then left click on location"
+"Requires Level 7 \n Yazneg summons several Gundabad Warg Rider packs \n Left click on icon then left click on Gundabad barracks"
 END
 
 CONTROLBAR:ToolTipWargManEater
