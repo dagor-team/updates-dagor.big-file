@@ -1,38 +1,26 @@
+ARNOR
+	Halbarad moved to arnor from imladris
+	Dunedain rangers moved to dunedain tent
+	Fire arrows are back and available for arnor archers (bodkins disallowed)
+	Cirdan leadership applies now only to lindon units
+	Cirdan new ability at level 5
+	New lindon elite unit
+	Upgrades for lindons now all available
+	Earnur new ability at level 4
+	Elendil leadership grants 15 flat damage
+	Shields for cavalry can be purchased at level 2 + cheaper to put on units
 IMLADRIS
-		GIGACHAD NERF
-LOTH 
-	
-ANGAMR 
-	
-ARONOR 
-
-INSEN
-	
-MORDOR 
-
-ANGMAR
-	Hwaldar
-		leadership now gives scavenger to thrall master units
-	Rogash
-		leap lvl 5
-	Witchking
-		Mount back to lvl 1
-ARNOR 
-	Palantir guards 
-		cost 70 cp
+	Erestor hero price decrease nerfed from 25% to 10% (same as all the other factions)
+	Glorfindel and Ecthelion will be available to recruit no matter what you pick at the start
 DWARVES
-	Dwarven zerkers removed and replaced in the dwarven hall
-GOBOS
-	Gorkil
-		Spider rider ability dmg nerf from 300% to 200%
-	Spider riders
-		Ranged dmg adjusted after poison arrows 
-	Bolg
-		Leadership adjusted to apply only to gundabad units and monsters (gundabad trolls, bats, ogres)
-	Drums in the deep switched with untaimed allegiance in the spell tree
-
-
-
-
+	iron hills crossbows range nerf
+	ered mithrin debuff duration nerf and no longer applies to heroes
+	dale archer xp gain fix
+MORDOR
+	morgul orcs health and armor buff
+	cirith ungol pikes health and armor buff
+	dark marshal health buff
+ISEN
+	Tol-in-gaurhoth guard xp gain fix
 
 

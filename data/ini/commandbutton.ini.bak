@@ -45556,7 +45556,7 @@ CommandButton Command_SelectRevivablesFormenosFortress
   DescriptLabel           = CONTROLBAR:ToolTipCommandSelectRevivablesFormenosFortress
   Radial                  = Yes
   CommandRangeStart       = 16
-  CommandRangeCount       = 15
+  CommandRangeCount       = 16
 End
 
 

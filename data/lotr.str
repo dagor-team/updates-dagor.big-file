@@ -1450,8 +1450,8 @@ CONTROLBAR:ElendilTheTall
 "Elendil The Tall"
 End
 
-CONTROLBAR:ToolTipElendilTheTall
-"Requires: Level 5 \n Elendil does a meta aoe attack on the selected target (&T)"
+CONTROLBAR:ToolTipElendil&TheTall
+"Requires: Level 3 \n Elendil does a meta aoe attack on the selected target"
 End
 
 CONTROLBAR:HelmSlam
@@ -1665,7 +1665,7 @@ CONTROLBAR:ElendilEroberer
 END
 
 CONTROLBAR:ToolTipElendilEroberer
-"Requires: Level 3 \n Elendil himself led his army to Barad-dûr and besieged it \n Nearby units of the Last Alliance for 10 seconds inflict much more damage against buildings and are also able to destroy reinforced walls \n Left-click to activate"
+"Requires: Level 2 \n Elendil himself led his army to Barad-dûr and besieged it \n Nearby units of the Last Alliance for 10 seconds inflict much more damage against buildings and are also able to destroy reinforced walls \n Left-click to activate"
 END
 
 CONTROLBAR:ElendilLeadership_Spell
@@ -2993,7 +2993,7 @@ CONTROLBAR:BannertragerderDunedain
 END
 
 CONTROLBAR:ToolTipBannertragerderDunedain
-"Halbarad proudly carries the banner of his people, inspiring his troops \n Heroes and units near it are instantly cured and collect faster experience \n If an ability is cast around Halbarad, it will be recharged 25% faster \n Passive ability"
+"Halbarad proudly carries the banner of his people, inspiring his troops \n Heroes and units near it gain experience faster \n If an ability is cast around Halbarad, it will be recharged 25% faster \n Passive ability"
 END
 
 CONTROLBAR:ToolTipElendilSummoned
@@ -10540,7 +10540,7 @@ CONTROLBAR:EarnurTugenden
 END
 
 CONTROLBAR:ToolTipEarnurTugenden
-"Requires: Level 7 \n Eärnur sticks to the values of his ancestors.\n Enemies around him flee in fear. \n Left-click to activate"
+"Requires: Level 4 \n Eärnur charges into the battle with his knights.\n Earnur grant allied cavalry bonus trample deceleration and 15% damage. \n Enemies around him flee in fear. \n Can be used only while mounted \n Left-click to activate"
 END
 
 CONTROLBAR:TooltipEarnurWaffenmeister
@@ -10944,7 +10944,7 @@ CONTROLBAR:SpecialAbilityEarnurFaynessOfBattle
 END
 
 CONTROLBAR:ToolTipSpecialAbilityEarnurFaynessOfBattle
-"Requires: Level 5 \n Eärnur, the hunter of the Witch-king, recklessly charges at his opponent in an effort to save the Kingdoms of Men. \n Selected enemy and Eärnur will suffer 5k damage, but Eärnur will recieve +40% speed, +30% armor, and can crush through enemies after activated. \n Left-click on target"
+"Requires: Level 6 \n Eärnur, the hunter of the Witch-king, recklessly charges at his opponent in an effort to save the Kingdoms of Men. \n Selected enemy and Eärnur will suffer 5k damage, but Eärnur will recieve +40% speed, +30% armor, and can crush through enemies after activated. \n Left-click on target"
 END
 
 CONTROLBAR:SpecialAbilityArnorIsildurNarsil
@@ -14018,7 +14018,7 @@ CONTROLBAR:SelectUpgradesGraueAnfurtenFaction
 END
 
 CONTROLBAR:ToolTipSpecialAbilityDunedainZelt
-"Requires: Level 3 \n Halbarad builds a Dúnedain Tent, allowing for the training of Dúnedain Swordsman, Rangers, and researchable upgrades \n Left-click on the desired destination area"
+"Requires: Level 1 \n Halbarad builds a Dúnedain Tent, allowing for the training of Dúnedain Swordsman, Rangers, and researchable upgrades \n Left-click on the desired destination area"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityDunedainZeltStrider
@@ -14030,7 +14030,7 @@ CONTROLBAR:SpecialAbilityHalbaradBeschuss
 END
 
 CONTROLBAR:ToolTipSpecialAbilityHalbaradBeschuss
-"Requires: Level 7 \n For a short time, Halbarad is encircled by Dúnedain, who shoot at nearby enemies \n Hit enemies are damaged and become slower \n Left-click to activate"
+"Requires: Level 5 \n For a short time, Halbarad is encircled by Dúnedain, who shoot at nearby enemies \n Hit enemies are damaged and become slower \n Left-click to activate"
 END
 
 CONTROLBAR:SpecialAbilityHalbaradPfeilhagel
@@ -18516,7 +18516,7 @@ CONTROLBAR:BlendendesLicht
 END
 
 CONTROLBAR:ToolTipBlendendesLicht
-"Requires: Level 5 \n Using the bright light of the Havens, Cirdan pushes his enemies away with extreme fear\n Left-click to activate"
+"Requires: Level 5 \n Cirdan uses Ulmo´s blessing to conjure rain, causing enemies big discomfort \n Damages units in a small radius and debuffs enemies in a wider radius for 10 seconds \n Left-click on an enemy unit to activate"
 END
 
 CONTROLBAR:FortressHelmsHornNew
@@ -18560,7 +18560,7 @@ CONTROLBAR:CirdanRingNarya
 END
 
 CONTROLBAR:ToolTipCirdanRingNarya
-"Requires: Level 3 \n Cirdan uses the hidden powers of the ring Narya and kindles the fire in the hearts of his fellow warriors \n Allies near Cirdan receive +33% armor, +33% attack, and fear are resistant \n Passive ability"
+"Requires: Level 3 \n Cirdan uses the hidden powers of the ring Narya and kindles the fire in the hearts of his fellow warriors \n Lindon units near Cirdan receive +33% armor, +33% attack, and are fear resistant \n Passive ability"
 END
 
 CONTROLBAR:ToolTipSamBratpfanne
@@ -28115,7 +28115,7 @@ CONTROLBAR:ElendilLeadership
 END
 
 CONTROLBAR:ToolTipElendilLeadership
-"The Last King of Númenor was the embodiment of valor and inspired his men by his own example \n Elendil grants +20% armor and fear resistance for units and heroes around him \n Additionally, resources are gained for defeating enemies \n Passive ability"
+"The Last King of Númenor was the embodiment of valor and inspired his men by his own example \n Elendil grants +15 damage and fear resistance for all arnor units around him \n Passive ability"
 END
 
 CONTROLBAR:IsildurLeadership
@@ -43258,6 +43258,11 @@ CONTROLBAR:ToolTipSpecialAbilityShieldWall
 "Shield Wall For&mation"
 END
 
+CONTROLBAR:ToolTipLindonEliteWeaponSwitchLeadership
+"Lindon warriors start with a sword \n At level 4 they can switch their weapon to a bow and receive an upgrade to their swords which allows them to pull enemy units they hit towards them \n At level 7 they receive an upgrade to their bow \n Passive ability"
+END
+
+
 CONTROLBAR:DolAmrothBlood
 "Blood of Dol Amroth"
 END
@@ -52524,6 +52529,15 @@ CONTROLBAR:ToolTipBuildElvenMithlondSentryHorde
 "Strong vs: Cavalry \n Can hide in the vicinity of trees"
 END
 
+CONTROLBAR:ConstructLindonWarriorHorde
+"Train Lindon Warriors"
+END
+
+CONTROLBAR:ToolTipConstructLindonWarriorHorde
+"Elite Lindon infantry \n Can hide in the vicinity of trees"
+END
+
+
 CONTROLBAR:ConstructElvenPorter
 "&Builder"
 END
@@ -53646,6 +53660,10 @@ END
 
 TOOLTIP:LackLevel3GondorKnightShieldsNew
 "Requires: Stable Level 3"
+END
+
+TOOLTIP:LackLevel2GondorKnightShieldsNew
+"Requires: Stable Level 2"
 END
 
 TOOLTIP:LackGondorKnightShieldsNew
@@ -105031,8 +105049,12 @@ CONTROLBAR:TooltipToggleImladrisCatapultWeapons
 "Requires: Blinding ammunition was researched \n Switches between normal ammunition and blinding ammunition"
 END
 
-CONTROLBAR:GoldspitzenUpgradeEregions
-"Buy &Golden Tip Arrows of Eregion"
+CONTROLBAR:&LindonUpgradeEregions
+"Buy Golden Tip Arrows of Eregion"
+END
+
+CONTROLBAR:ToolTipPurchaseLindonUpgradeEregions
+"Equips this battalion with Gold Tip Arrows of Eregion \n The magic of the Gold Tip Arrows increases the attack of allied units near the impact site"
 END
 
 CONTROLBAR:SpecialAbilityZielsicher
