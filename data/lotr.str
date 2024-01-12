@@ -6474,15 +6474,15 @@ CONTROLBAR:SpecialPowerAraphantStatCavalry
 END
 
 CONTROLBAR:ToolTipSpecialPowerAraphantStatSoldier
-"Araphant leads the soldiers of Arnor into battle \n On the whole map, all swordsmen of Arnor have +25% Armor and deal +25% more damage \n Only one leadership can be activated at the same time \n Left click to activate the passive ability"
+"Araphant leads the soldiers of Arnor into battle \n On the whole map, all swordsmen of Arnor have +15% Armor and deal +15% more damage \n Only one leadership can be activated at the same time \n Left click to activate the passive ability"
 END
 
 CONTROLBAR:ToolTipSpecialPowerAraphantStatPikeman
-"Araphant leads the spearmen of Arnor into battle \n On the whole map, all spearmen of Arnor have +25% Armor and deal +25% more damage \n Only one leadership can be activated at the same time \n Left click to activate the passive ability"
+"Araphant leads the spearmen of Arnor into battle \n On the whole map, all spearmen of Arnor have +15% Armor and deal +15% more damage \n Only one leadership can be activated at the same time \n Left click to activate the passive ability"
 END
 
 CONTROLBAR:ToolTipSpecialPowerAraphantStatArcher
-"Araphant leads the archers of Arnor into battle \n On the whole map, all archers of Arnor have +25% Armor and deal +25% more damage \n Only one leadership can be activated at the same time \n Left click to activate the passive ability"
+"Araphant leads the archers of Arnor into battle \n On the whole map, all archers of Arnor have +15% Armor and deal +15% more damage \n Only one leadership can be activated at the same time \n Left click to activate the passive ability"
 END
 
 CONTROLBAR:ToolTipSpecialPowerAraphantStatCavalry
@@ -10620,7 +10620,7 @@ CONTROLBAR:ToolTipArveduiFruchtbareSaat
 END
 
 CONTROLBAR:ToolTipArveduiModLeadership
-"Arvedui has an indomitable will and will never surrender, even if his kingdom is doomed\n +30% armor for troops near him \n +50% armor for allied buildings near him \n Passive ability"
+"Arvedui has an indomitable will and will never surrender, even if his kingdom is doomed\n +50% armor for troops near him \n +50% armor for allied buildings near him \n Passive ability"
 END
 
 CONTROLBAR:GondorAnarionRecruit_New
@@ -52534,7 +52534,7 @@ CONTROLBAR:ConstructLindonWarriorHorde
 END
 
 CONTROLBAR:ToolTipConstructLindonWarriorHorde
-"Elite Lindon infantry \n Can hide in the vicinity of trees"
+"Requires: Arnor elven barracks level 3 \n Unit type: elite Lindon infantry \n Can hide in the vicinity of trees \n You can only train 4 battalions"
 END
 
 
@@ -58763,7 +58763,7 @@ CONTROLBAR:ConstructLindonWachterHorde
 END
 
 CONTROLBAR:ToolTipCommandBuildLindonWachterHorde
-"Unit Type: Regular Archer \n Strong vs: Depending on the situation \n Can switch between Sword and Bow \n You can only train 3 battalions"
+"Requires: Arnor elven barracks level 3 \n Unit Type: Regular Archer \n Strong vs: Depending on the situation \n Can switch between Sword and Bow \n You can only train 4 battalions"
 END
 
 BANNERUI:LindonWachter
@@ -106247,6 +106247,10 @@ CONTROLBAR:ToolTipImladrisFarmScholarEconomyBoost
 END
 
 UPGRADE:GoldspitzenUpgradeEregions
+"Golden Eregion Arrows"
+END
+
+CONTROLBAR:GoldspitzenUpgradeEregions
 "Golden Eregion Arrows"
 END
 
