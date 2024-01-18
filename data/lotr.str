@@ -13950,7 +13950,7 @@ CONTROLBAR:ToolTipCommandSelectUpgradesThalFactionInn
 END
 
 CONTROLBAR:ToolTipBuildLindonHeavenLancerHordeNew
-"Strong vs: Cavalry and Monsters"
+"Unit Type: Advanced Pikemen \n Strong vs: Cavalry and Monsters \n You can only train 4 battalions"
 END
 
 OBJECT:MordorCastamir
@@ -18969,6 +18969,14 @@ END
 
 CONTROLBAR:ToolTipCommandSelectUpgradesHobbitFaction
 "Subfaction \n Gladly watched and popular drinking buddies in the surrounding pubs \n Recruit the Hobbits units of Shire"
+END
+
+CONTROLBAR:SelectUnitsImladrisFaction
+"Rivendel"
+END
+
+CONTROLBAR:ToolTipSelectUnitsImladrisFaction
+"Subfaction \n Well respected and hard training warriors of the last homely house east of sea \n Recruit the Elven units of Rivendel"
 END
 
 CONTROLBAR:PurchaseUpgradeFortressAuenland
@@ -38030,7 +38038,7 @@ OBJECT:ElvenOrchard
 END
 
 OBJECT:ElvenBarracks
-"Elves Barracks"
+"Lindon Barracks"
 END
 
 OBJECT:GaladrielsWell
@@ -52534,7 +52542,7 @@ CONTROLBAR:ConstructLindonWarriorHorde
 END
 
 CONTROLBAR:ToolTipConstructLindonWarriorHorde
-"Requires: Arnor elven barracks level 3 \n Unit type: elite Lindon infantry \n Can hide in the vicinity of trees \n You can only train 4 battalions"
+"Requires: Arnor elven barracks level 3 \n Unit type: Elite Lindon infantry \n Can hide in the vicinity of trees \n You can only train 3 battalions"
 END
 
 
@@ -53415,6 +53423,38 @@ CONTROLBAR:ToolTipConstructDamrod
 "Recruit one of the most trusted of Faramir's men \n \n Lore: \n Damrod was one of the Rangers of Ithilien and one of the most trusted of Faramir's men and companion of Mablung. Damrod led the night patrol that captured Gollum in the Forbidden Pool. Damrod also fought in the battle for Osgiliath. Damrod retreated to Minas Tirith with all the surviving defenders. A few days later, Damrod was sent with Faramir and his 100 men to reclaim Osgiliath from the enemy. Damrod was among the dead; it is said his body was never recovered due to the overwhelming Orc invasion of Gondor. Damrod had little hope, for he believed "the days of Gondor are numbered, and the walls of Minas Tirith are doomed.""
 END
 
+CONTROLBAR:ConstructForlong
+"Forlong"
+END
+
+CONTROLBAR:ToolTipConstructForlong
+"Recruit the vassal of Lossarnach"
+END
+
+CONTROLBAR:ConstructAngbor
+"Angbor"
+END
+
+CONTROLBAR:ToolTipConstructAngbor
+"Recruit the vassal of Pelargir"
+END
+
+CONTROLBAR:ConstructHirluin
+"Hirluin"
+END
+
+CONTROLBAR:ToolTipConstructHirluin
+"Recruit the vassal of Ringo Vale"
+END
+
+CONTROLBAR:ConstructDuinhir
+"Duinhir"
+END
+
+CONTROLBAR:ToolTipConstructDuinhir
+"Recruit the vassal of Morthond"
+END
+
 CONTROLBAR:ConstructMenMarketPlace
 "Build &Marketplace"
 END
@@ -53922,6 +53962,15 @@ END
 CONTROLBAR:LW_ToolTipBuild_HordeLehenLossarnach
 "Unit Type: Basic Infantry\nStrong vs: Structures and Pikemen\n"
 END
+
+CONTROLBAR:BuildGondorOrkjagerHorde
+"Gondor Orc Hunters"
+END
+
+CONTROLBAR:ToolTipBuildGondorOrkjagerHorde
+"Unit Type: Regular Infantry \n Strong vs: Orcs"
+END
+
 
 OBJECT:RingValeSwordsman
 "Ringlo Vale Swordsman"
@@ -57501,7 +57550,7 @@ OBJECT:BruchtalBarracks
 END
 
 OBJECT:ElvenBarracksDescription
-"Military Structure \n Trains Imladris Infantry \n Recruitable Heroes: Gildor and Glorfindel"
+"Military Structure \n Trains Lindon Infantry"
 END
 
 CONTROLBAR:ConstructImladrisBarracks
@@ -57517,7 +57566,7 @@ CONTROLBAR:PurchaseUpgradeElvenBarracksLevel2
 END
 
 CONTROLBAR:ToolTipBuildElvenBarracksLevel2
-"+10% Training Speed \n Allows the training of Imladris Archers"
+"+10% Training Speed \n Allows the training of Lindon Guardians"
 END
 
 CONTROLBAR:PurchaseUpgradeElvenBarracksLevel3
@@ -57525,7 +57574,7 @@ CONTROLBAR:PurchaseUpgradeElvenBarracksLevel3
 END
 
 CONTROLBAR:ToolTipBuildElvenBarracksLevel3
-"+25% Training Speed \n Allows the training of Imladris Guardians"
+"+25% Training Speed \n Allows the training of Lindon Warriors"
 END
 
 UPGRADE:ElvenBarracksLevel2
