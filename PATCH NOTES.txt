@@ -1,26 +1,10 @@
-ARNOR
-	Halbarad moved to arnor from imladris
-	Dunedain rangers moved to dunedain tent
-	Fire arrows are back and available for arnor archers (bodkins disallowed)
-	Cirdan leadership applies now only to lindon units
-	Cirdan new ability at level 5
-	New lindon elite unit
-	Upgrades for lindons now all available
-	Earnur new ability at level 4
-	Elendil leadership grants 15 flat damage
-	Shields for cavalry can be purchased at level 2 + cheaper to put on units
-IMLADRIS
-	Erestor hero price decrease nerfed from 25% to 10% (same as all the other factions)
-	Glorfindel and Ecthelion will be available to recruit no matter what you pick at the start
-DWARVES
-	iron hills crossbows range nerf
-	ered mithrin debuff duration nerf and no longer applies to heroes
-	dale archer xp gain fix
-MORDOR
-	morgul orcs health and armor buff
-	cirith ungol pikes health and armor buff
-	dark marshal health buff
-ISEN
-	Tol-in-gaurhoth guard xp gain fix
-
+GONDOR
+	Inn change
+ROHAN
+	Cav archers can shoot while moving
+IMLA
+	Fa hero fix
+	Inn change
+GOBOS
+	Easter egg
 

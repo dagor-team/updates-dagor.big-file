@@ -3249,7 +3249,7 @@ CONTROLBAR:SpecialAbilityGamlingHerold
 END
 
 CONTROLBAR:ToolTipSpecialAbilityGamlingHerold
-"Requires: Level 7 \n Gamling organizes and equips the troops of Rohan for the war, bringing a herald of the Rohan militia cites. \n Gamling summons a herald of Rohan. The herald can then choose between various types of infantry or cavalry to fill a battalion.\nIf Gamling is on foot, an infantry herald will be summoned. If Gamling is mounted, a cavalry herald will be summoned, horse archers summonned by this ability are limited by 2. \n Left-click the desired destination area"
+"Requires: Level 5 \n Gamling organizes and equips the troops of Rohan for the war, bringing a herald of the Rohan militia cites. \n Gamling summons a herald of Rohan. The herald can then choose between various types of infantry or cavalry to fill a battalion.\nIf Gamling is on foot, an infantry herald will be summoned. If Gamling is mounted, a cavalry herald will be summoned, horse archers summonned by this ability are limited by 2. \n Left-click the desired destination area"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityMeisterderHornburg
@@ -29023,7 +29023,7 @@ CONTROLBAR:MauhurLeadership
 END
 
 CONTROLBAR:ToolTipMauhurLeadership
-"Vrasku leads the Crossbowmen of Isengard into battle.\n He grants +40% attack, sight and range for nearby Crossbowmen.\n Passive ability"
+"Vrasku leads the Crossbowmen of Isengard into battle.\n He grants +40% sight and 20% range for nearby Crossbowmen.\n At level 5 range bonus is increased to 40% Passive ability"
 END
 
 CONTROLBAR:MauhurWoundingArrow
@@ -29055,7 +29055,7 @@ CONTROLBAR:MauhurAuge
 END
 
 CONTROLBAR:ToolTipMauhurAuge
-"Requires: Level 5 \n Vrasku was bred for ranged combat.\n His sharp eyes see more than the usual Uruks, giving him a vision increase.\n Passive ability"
+"Requires: Level 5 \n Vrasku was bred for ranged combat.\n His sharp eyes see more than the usual Uruks, giving him a vision increase.\n Gains a new armor set as well \n Passive ability"
 END
 
 CONTROLBAR:MauhurUruks
@@ -107594,7 +107594,7 @@ CONTROLBAR:IsengardMauhurHeadhunter
 END
 
 CONTROLBAR:ToolTipIsengardMauhurHeadhunter
-"Requires: Level 7 \n Nearby Uruks temporarily gain +100% Damage \n Stacks with Buffs, Leadership, and Spells \n Left click icon to activate"
+"Requires: Level 7 \n Nearby Uruks temporarily gain +50% Damage \n Stacks with Buffs, Leadership, and Spells \n Left click icon to activate"
 END
 
 CONTROLBAR:AzogShout
