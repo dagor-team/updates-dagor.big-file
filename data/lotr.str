@@ -65830,6 +65830,18 @@ CONTROLBAR:ConstructGoblinFighterHorde
 "Goblin &Warriors"
 END
 
+OBJECT:HordeGorkilsElite
+"Gorkils Elite"
+END
+
+CONTROLBAR:LW_Unit_GoblinGorkilEliteHorde
+"Gorkils Elite Battalion"
+END
+
+CONTROLBAR:LW_ToolTip_GoblinGorkilEliteHorde
+"Unit Type: Combo-Horde \n Strong vs Cavalry, Archers"
+END
+
 CONTROLBAR:ToolTipBuildGoblinFighterHorde
 "Unit Type: Basic Infantry \n Strong vs: Infantry"
 END
