@@ -1,10 +1,13 @@
-GONDOR
-	Inn change
-ROHAN
-	Cav archers can shoot while moving
-IMLA
-	Fa hero fix
-	Inn change
-GOBOS
-	Easter egg
-
+Arnor
+	Arvedui new lvl 5
+	Carthaen revive fix
+Rohan
+	Eomer and theodred cost increase 
+	Theodred new ability at lvl 3
+	Merry new ability at lvl 8
+	Gamling requires less xp to lvl up
+Imla
+	Tulkas fix
+Mordor
+	Witch-king, Khamul and Dark marshal upon reaching their insignias will grant a leadership each towards their respective orcs
+	Minas morgul fortress will not lvl up any units besides mordors

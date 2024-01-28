@@ -2149,7 +2149,7 @@ CONTROLBAR:ToolTipZugriffDolGuldurs_Neu
 END
 
 CONTROLBAR:ToolTipWitchkingFurstvonMinasMorgul_Neu
-"Requires: Level 4 \n The Witch-king drives his Nazgûl and troops to find the Ruling Ring of Sauron \n Ringwraiths close to him are 25% faster, cause 25% more damage and have 50% greater visibility \n Allied troops in his vicinity also receive +25% attack and defense \n The imposing aura also affects himself \n Passive ability"
+"Requires: Level 4 \n The Witch-king drives his Nazgûl and troops to find the Ruling Ring of Sauron \n Ringwraiths close to him are 25% faster, cause 25% more damage and have 50% greater visibility \n The imposing aura also affects himself \n Witch-king, Khamul and Dark Marshal grant each of their respective orcs 50% armor once they get their insignias \n Passive ability"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityMouthOfSauronEvilEye_Neu
@@ -2321,7 +2321,7 @@ CONTROLBAR:SpecialAbilityVerteidigungderRiddermark
 END
 
 CONTROLBAR:ToolTipSpecialAbilityVerteidigungderRiddermark
-"Requires: Level 10 \n Théodred mobilizes all forces to repel the enemy attack \n For 30 seconds, nearby allies gain double attack, +20% speed and can not be knocked down \n All sentries on the map for this time receive additional Troops of the Westfold to defend the towers \n Left-click to activate"
+"Requires: Level 8 \n Théodred mobilizes all forces to repel the enemy attack \n For 30 seconds, nearby allies gain double attack, +20% speed and can not be knocked down \n All sentries on the map for this time receive additional Troops of the Westfold to defend the towers \n Left-click to activate"
 END
 
 CONTROLBAR:ToolTipBuildIsenfurtWachterHorde
@@ -2345,7 +2345,7 @@ CONTROLBAR:TheodredReparaturarbeiten
 END
 
 CONTROLBAR:ToolTipTheodredReparaturarbeiten
-"Requires: Level 3 \n Théodred orders the repair of any sentry on the map and all the buildings in a wide radius around it \n Left-click on a allied structure"
+"Requires: Level 8 \n Merry sets to repair damaged buildings on the map and all the buildings in a wide radius around it \n Left-click on a allied structure"
 END
 
 CONTROLBAR:SpecialAbilityTheodredWachpostenerrichten
@@ -2637,7 +2637,7 @@ CONTROLBAR:TogglePalantir1_Großork
 END
 
 CONTROLBAR:ToolTipTogglePalantir1_Großork
-"Great Goblin expands his dominion. \n Goblin all over the map enjoy 15% damage, 25% armor and 50% more experience \n left-click to toggle palantir"
+"Great Goblin expands his dominion. \n Goblins all over the map enjoy 15% damage, 25% armor and 50% more experience \n left-click to toggle palantir"
 END
 
 CONTROLBAR:Wargreitermobilisieren
@@ -10184,7 +10184,7 @@ CONTROLBAR:DiplomatischeBeziehungenArvedui
 END
 
 CONTROLBAR:ToolTipDiplomatischeBeziehungenArvedui
-"Requires: Level 5 \n Given the increase of the shadow that is brewing over his kingdom, the King of Arnor sends for the help of his old allies: the Elves of Imladris, his fief from the Shire, and to the Númenorean realm of Gondor, with whom he is connected by marriage with Princess Firiel \n All units and heroes of the inn are 25% cheaper while Arvedui is on the field \n Passive ability"
+"Requires: Level 5 \n Given the increase of the shadow that is brewing over his kingdom, the King of Arnor sends for the help of his old allies: the Elves of Lindon, his fief from the Shire, and to the dúnedain fighting under Aranarth \n All allied units Fighting for Arnor are 15% cheaper while Arvedui is on the field \n Passive ability"
 END
 
 CONTROLBAR:ArnorAranarthHotkey
@@ -15901,6 +15901,14 @@ END
 
 CONTROLBAR:ToolTipDwarvenRunenmeisterHorde
 "Wise Dwarfs, can provide the building with runes \n Strong vs: Support owned buildings"
+END
+
+CONTROLBAR:SpecialAbilityTheodredSentryPoint
+"Defense Point"
+END
+
+CONTROLBAR:ToolTipSpecialAbilityTheodredSentryPoint
+"Requires: Level 3 \n Theodred makes the sentry tower the primary line of defense against the raiding orcs \n Rohan heroes near the sentry gain 30% armor and 15% damage \n Left-click on a desired sentry"
 END
 
 CONTROLBAR:SpecialAbilityZwergenRuneUnantastbarkeit

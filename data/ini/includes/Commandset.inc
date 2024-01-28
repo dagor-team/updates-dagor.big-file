@@ -1435,13 +1435,12 @@ CommandSet FormenosFortressCommandSet
        23    = Command_FakeHeroReviveSlot5
        24    = Command_FakeHeroReviveSlot6
        25    = Command_FakeHeroReviveSlot7
-       26    = Command_FakeHeroReviveSlot8
+       26    = Command_GenericReviveSlot8
        27    = Command_GenericReviveSlot9
-       28    = Command_GenericReviveSlot10
-       29    = Command_FakeGwaihirReviveSlot
+       28    = Command_FakeGwaihirReviveSlot
+       29    = Command_FakeHeroReviveSlot11
        30    = Command_FakeHeroReviveSlot12
-       31    = Command_FakeHeroReviveSlot13
-       ;32    = Command_FakeHeroReviveSlot14
+	   31    = Command_FakeHeroReviveSlot13
        32    = Command_RadialBack
 End
 
@@ -1476,13 +1475,12 @@ CommandSet FormenosFortressCommandSetLevel2
        23    = Command_FakeHeroReviveSlot5
        24    = Command_FakeHeroReviveSlot6
        25    = Command_FakeHeroReviveSlot7
-       26    = Command_FakeHeroReviveSlot8
+       26    = Command_GenericReviveSlot8
        27    = Command_GenericReviveSlot9
-       28    = Command_GenericReviveSlot10
-       29    = Command_FakeGwaihirReviveSlot
+       28    = Command_FakeGwaihirReviveSlot
+       29    = Command_FakeHeroReviveSlot11
        30    = Command_FakeHeroReviveSlot12
-       31    = Command_FakeHeroReviveSlot13
-       ;32    = Command_FakeHeroReviveSlot14
+	   31    = Command_FakeHeroReviveSlot13
        32    = Command_RadialBack
 End
 
@@ -1517,13 +1515,12 @@ CommandSet FormenosFortressCommandSetLevel3
        23    = Command_FakeHeroReviveSlot5
        24    = Command_FakeHeroReviveSlot6
        25    = Command_FakeHeroReviveSlot7
-       26    = Command_FakeHeroReviveSlot8
+       26    = Command_GenericReviveSlot8
        27    = Command_GenericReviveSlot9
-       28    = Command_GenericReviveSlot10
-       29    = Command_FakeGwaihirReviveSlot
+       28    = Command_FakeGwaihirReviveSlot
+       29    = Command_FakeHeroReviveSlot11
        30    = Command_FakeHeroReviveSlot12
-       31    = Command_FakeHeroReviveSlot13
-       ;32    = Command_FakeHeroReviveSlot14
+	   31    = Command_FakeHeroReviveSlot13
        32    = Command_RadialBack
 End
 
@@ -1558,13 +1555,12 @@ CommandSet FormenosFortressCommandSetLevel4
        23    = Command_FakeHeroReviveSlot5
        24    = Command_FakeHeroReviveSlot6
        25    = Command_FakeHeroReviveSlot7
-       26    = Command_FakeHeroReviveSlot8
+       26    = Command_GenericReviveSlot8
        27    = Command_GenericReviveSlot9
-       28    = Command_GenericReviveSlot10
-       29    = Command_FakeGwaihirReviveSlot
+       28    = Command_FakeGwaihirReviveSlot
+       29    = Command_FakeHeroReviveSlot11
        30    = Command_FakeHeroReviveSlot12
-       31    = Command_FakeHeroReviveSlot13
-       ;32    = Command_FakeHeroReviveSlot14
+	   31    = Command_FakeHeroReviveSlot13
        32    = Command_RadialBack
 End
 
@@ -1598,13 +1594,12 @@ CommandSet FormenosFortressCommandSetLevel5
        23    = Command_FakeHeroReviveSlot5
        24    = Command_FakeHeroReviveSlot6
        25    = Command_FakeHeroReviveSlot7
-       26    = Command_FakeHeroReviveSlot8
+       26    = Command_GenericReviveSlot8
        27    = Command_GenericReviveSlot9
-       28    = Command_GenericReviveSlot10
-       29    = Command_FakeGwaihirReviveSlot
+       28    = Command_FakeGwaihirReviveSlot
+       29    = Command_FakeHeroReviveSlot11
        30    = Command_FakeHeroReviveSlot12
-       31    = Command_FakeHeroReviveSlot13
-       ;32    = Command_FakeHeroReviveSlot14
+	   31    = Command_FakeHeroReviveSlot13
        32    = Command_RadialBack
 End
 
