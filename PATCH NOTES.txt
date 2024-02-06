@@ -1,13 +1,15 @@
-Arnor
-	Arvedui new lvl 5
-	Carthaen revive fix
-Rohan
-	Eomer and theodred cost increase 
-	Theodred new ability at lvl 3
-	Merry new ability at lvl 8
-	Gamling requires less xp to lvl up
+Isengard
+	Grishnak health and dmg increase
 Imla
-	Tulkas fix
+	Scholars cost and buildtime increase
+	Blademasters no longer get splash dmg without forged blades
+	Arwen lvl 5 fixed
 Mordor
-	Witch-king, Khamul and Dark marshal upon reaching their insignias will grant a leadership each towards their respective orcs
-	Minas morgul fortress will not lvl up any units besides mordors
+	Khamul trample fix
+	Gorthaur werewolf form two new abilities
+Angmar
+	Rogash trample fix plus power of the witch king nerf on him
+	Hall of twilight limited to one
+Goblins
+	New FA unit
+	Drogoth dmg buff

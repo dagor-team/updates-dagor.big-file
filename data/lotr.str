@@ -42985,7 +42985,7 @@ CONTROLBAR:ShadeChomp
 END
 
 CONTROLBAR:ToolTipShadeChomp
-"The werewolf eats an enemy Infantry to regenerate health. \n It additionally gains for a short time +50% damage and +50% armor. \n Left-click on the icon and then click the desired opponent"
+"Requires: Level 6 \n The werewolf eats an enemy Infantry to regenerate health. \n It additionally gains for a short time +50% damage and +50% armor. \n Left-click on the icon and then click the desired opponent"
 END
 
 CONTROLBAR:SpecialAbilityDarkLordsLament
@@ -42998,11 +42998,11 @@ END
 
 
 CONTROLBAR:SpecialAbilityCallPack
-"&Call of the Pack"
+"&Attack of the Pack"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityCallPack
-"Baiting a pack of wolves at your enemies \n Left click on the icon and then click the target area"
+"Requires: Level 9 \n Baiting a pack of wolves at your enemies \n Left click on the icon and then click the target area"
 END
 
 CONTROLBAR:BonkWithPan
@@ -66897,7 +66897,7 @@ CONTROLBAR:SpecialAbilityFortressMachtHK
 END
 
 CONTROLBAR:TooltipSpecialAbilityFortressMachtHK
-"The Power of the Witch-king is transferred to a selected hero \n Zaphragor: For a short, Zaphragor periodically explodes with magical devastation\n Maeglin: Momentarily heals allies heroes around him \n Mornamarth: Every Man of Carn-Dûm on the battlefield becomes one of the Elect \n Gulzár: Temporarily regenerates Acolytes with great speed \n Dûrmarth: For a short time, his seals are strengthened \n Rogash: Permanently receives an increase in his armor and speed \n Karsh: Becomes permanently bound to the Iron Crown \n Hwaldar: Receives a massive increase to stats \n Beastmaster: Can merge with his beast into a powerful Werewolf \n Helegwen: Her arrows pierce through enemies \n Left-click on a Hero of Angmar"
+"The Power of the Witch-king is transferred to a selected hero \n Zaphragor: For a short, Zaphragor periodically explodes with magical devastation\n Maeglin: Momentarily heals allies heroes around him \n Mornamarth: Every Man of Carn-Dûm on the battlefield becomes one of the Elect \n Gulzár: Temporarily regenerates Acolytes with great speed \n Dûrmarth: For a short time, his seals are strengthened \n Rogash: Permanently receives an increase in his health and speed \n Karsh: Becomes permanently bound to the Iron Crown \n Hwaldar: Receives a massive increase to stats \n Beastmaster: Can merge with his beast into a powerful Werewolf \n Helegwen: Her arrows pierce through enemies \n Left-click on a Hero of Angmar"
 END
 
 CONTROLBAR:PurchaseUpgradeAngmarFortressBanners
@@ -70928,6 +70928,14 @@ END
 
 CONTROLBAR:ConstructMordorAttackTroll
 "&Attack Troll"
+END
+
+CONTROLBAR:ConstructStoneGolem
+"Stone Golem"
+END
+
+CONTROLBAR:ToolTipConstructStoneGolem
+"Requires: Level 3 Thangorodrim Fortress \n Unit Type: Elite Monster \n Strong vs. Infantry and Structures \n You can only train 3"
 END
 
 CONTROLBAR:ToolTipBuildMordorAttackTrollEdain
@@ -95680,7 +95688,7 @@ CONTROLBAR:BuildAngbanddBalrog
 END
 
 CONTROLBAR:ToolTipBuildAngbanddBalrog
-"Unit Type: Elite Monster \n Strong vs: Infantry, Heroes and Structures \n The abilities of the Balrogs must be researched at the Thangorodrim Volcano \n You can only train 4 Balrogs"
+"Requires: Level 4 Thangorodrim Fortress \n Unit Type: Elite Monster \n Strong vs: Infantry, Heroes and Structures \n You can only train 4 Balrogs"
 END
 
 UPGRADE:Upgrade_AngbandBalrogPeitsche
