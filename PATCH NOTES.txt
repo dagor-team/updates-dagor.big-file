@@ -1,7 +1,7 @@
 Isengard
 	Grishnak health and dmg increase
 Imla
-	Scholars cost and buildtime increase
+	Scholars buildtime increase
 	Blademasters no longer get splash dmg without forged blades
 	Arwen lvl 5 fixed
 Mordor
@@ -10,6 +10,10 @@ Mordor
 Angmar
 	Rogash trample fix plus power of the witch king nerf on him
 	Hall of twilight limited to one
+	Statue healing decreased
 Goblins
 	New FA unit
 	Drogoth dmg buff
+	Fimbul and Bolg trample fix
+Dwarves
+	King Thrain as a silmaril hero

@@ -42998,11 +42998,11 @@ END
 
 
 CONTROLBAR:SpecialAbilityCallPack
-"&Attack of the Pack"
+"&Wrath Of The Lord Of Werewolves"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityCallPack
-"Requires: Level 9 \n Baiting a pack of wolves at your enemies \n Left click on the icon and then click the target area"
+"Requires: Level 11 \n Baiting a pack of wolves at your enemies \n Left click on the icon and then click the target area"
 END
 
 CONTROLBAR:BonkWithPan
@@ -61299,7 +61299,7 @@ CONTROLBAR:SturmaufGondor
 END
 
 CONTROLBAR:ToolTipSturmaufGondor
-"The War for Arda has begun \n The Dark Lord orders his generals to bring destruction on the Free Peoples \n Briefly, the armies of Mordor charge across the battlefield with increased speed \n The Wich-king, upon being crowned Lord of Minas Morgul, and Gothmog are sent to lead the armies in a seige against the Free Peoples, granting them new abilities\n Can only be activated if "Threat of the East" or "Call of the Black Country" is not active\n Left-click to activate"
+"The War for Arda has begun \n The Dark Lord orders his generals to bring destruction on the Free Peoples \n Briefly, the armies of orcs charge across the battlefield with increased speed, gaining more experience from combat \n Can only be activated if "Threat of the East" or "Call of the Black Country" is not active\n Left-click to activate"
 END
 
 CONTROLBAR:PurchaseUpgradeMordorFortressDoomPyres
