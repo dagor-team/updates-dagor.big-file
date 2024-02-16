@@ -170,12 +170,12 @@
 #define VETERANS_HORDE_HP_ADD_LVL12               225
 #define VETERANS_HORDE_HP_ADD_LVL13               225
 #define VETERANS_HORDE_HP_ADD_LVL14               225
-#define VETERANS_HORDE_HP_ADD_LVL15               300
-#define VETERANS_HORDE_HP_ADD_LVL16               400
-#define VETERANS_HORDE_HP_ADD_LVL17               500
-#define VETERANS_HORDE_HP_ADD_LVL18               600
-#define VETERANS_HORDE_HP_ADD_LVL19               700
-#define VETERANS_HORDE_HP_ADD_LVL20               1000
+#define VETERANS_HORDE_HP_ADD_LVL15               225
+#define VETERANS_HORDE_HP_ADD_LVL16               225
+#define VETERANS_HORDE_HP_ADD_LVL17               225
+#define VETERANS_HORDE_HP_ADD_LVL18               225
+#define VETERANS_HORDE_HP_ADD_LVL19               225
+#define VETERANS_HORDE_HP_ADD_LVL20               225
 
 
 #define VETERANS_HORDE_DAMAGE_ADD_LVL2            14
@@ -191,12 +191,12 @@
 #define VETERANS_HORDE_DAMAGE_ADD_LVL12           14
 #define VETERANS_HORDE_DAMAGE_ADD_LVL13           14
 #define VETERANS_HORDE_DAMAGE_ADD_LVL14           14
-#define VETERANS_HORDE_DAMAGE_ADD_LVL15           16
-#define VETERANS_HORDE_DAMAGE_ADD_LVL16           18
-#define VETERANS_HORDE_DAMAGE_ADD_LVL17           20
-#define VETERANS_HORDE_DAMAGE_ADD_LVL18           22
-#define VETERANS_HORDE_DAMAGE_ADD_LVL19           24
-#define VETERANS_HORDE_DAMAGE_ADD_LVL20           30
+#define VETERANS_HORDE_DAMAGE_ADD_LVL15           14
+#define VETERANS_HORDE_DAMAGE_ADD_LVL16           14
+#define VETERANS_HORDE_DAMAGE_ADD_LVL17           14
+#define VETERANS_HORDE_DAMAGE_ADD_LVL18           14
+#define VETERANS_HORDE_DAMAGE_ADD_LVL19           14
+#define VETERANS_HORDE_DAMAGE_ADD_LVL20           14
 
 
 ;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

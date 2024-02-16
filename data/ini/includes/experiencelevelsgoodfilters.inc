@@ -47,7 +47,7 @@
 
 #define GOOD_CHEAP_CHAMPION LothlorienTierflusterer LothlorienTierflusterer_NachRing LothlorienHeiler NogrodSmite
 
-#define GOOD_REGULAR_CHAMPION DwarvenEredMithrinDragonSlayer ImladrisElbenfuerst 
+#define GOOD_REGULAR_CHAMPION DwarvenEredMithrinDragonSlayer ImladrisElbenfuerst TaniquetilCaptian
 
 #define GOOD_FIRST_AGE_REGULAR GondolinWarrior GondolinWarriorHorde GondolinArcher GondolinArcherHorde GondolinGuard GondolinGuardHorde GondolinGuardHordeShieldWall GondolinBanner 
 

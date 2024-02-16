@@ -645,7 +645,7 @@ CONTROLBAR:DarkChargeofGlory
 END
 
 CONTROLBAR:TooltipDarkChargeofGlory
-"The Sentinals of Taur-nu-Fuin rush into battle with terrifying fury. \n They gain speed, bonus damage, and knock down enemies while moving \n Left-click to activate"
+"Requires: Level 2 \n The Sentinels of Taur-nu-Fuin rush into battle with terrifying fury. \n They gain speed, bonus damage, and knock down enemies while moving \n Left-click to activate"
 END
 
 OBJECT:GundabadOrcSwordsmanHorde
@@ -1653,7 +1653,7 @@ CONTROLBAR:ToolTipHaldirWhiteArrow
 END
 
 CONTROLBAR:TooltipArwenAbendsternSpellbook_Neu
-"The hidden magic of the Evening Star is awakened and fulfills Arwen's soul \n Arwen can summon Strider at Level 8 \n Arwen and heroes in her area receive +30% armor, double regeneration rate, and -30% recharge time of magic \n Passive ability"
+"The hidden magic of the Evening Star is awakened and fulfills Arwen's soul \n Arwen can summon Strider at Level 8 \n Imladris cavalry all over the map has improved trample potential \n Passive ability"
 END 
 
 CONTROLBAR:ToolTipPurchaseUpgradeWildFortressDragonNest_forHeide_Neu
@@ -4172,12 +4172,20 @@ CONTROLBAR:ToolTipSelectUpgrades
 "Trains battalions from Lossarnach, Ringlo Vale, and Pelagir"
 END
 
+CONTROLBAR:SpecialAbilitySpecialAbilityFiefdoms
+"Fiefdom Levy"
+END
+
+CONTROLBAR:ToolTipSpecialAbilitySpecialAbilityFiefdoms
+"The Men from the South go to Gondor's rescue \n Left-click on target area"
+END
+
 CONTROLBAR:SpecialAbilitySpecialAbilityLeuchtfeuerGondor
 "Beacons of Gondor"
 END
 
 CONTROLBAR:ToolTipSpecialAbilitySpecialAbilityLeuchtfeuerGondor
-"The beacons of Gondor have been ignited \n The Men from the South go to Gondor's rescue \n Left-click on target area"
+"The beacons of Gondor have been ignited \n Allies from the fiefdoms of Gordon have gathered at the beacon \n Passive Ability"
 END
 
 CONTROLBAR:PurchaseMorthrondFiefdom
@@ -11848,7 +11856,7 @@ CONTROLBAR:AragornEntwicklung2
 END
 
 CONTROLBAR:ToolTipAragornEntwicklung2
-"Requires: Level 4 \n Strider abandons the Path of the Ranger to seek his righteous course of destiny.\n Aragorn will assume his "Warrior" form, changing his palantir abilities.\n Left-click to activate"
+"Requires: Andúril \n Strider abandons the Path of the Ranger after receiving Andúril from the sons of Elrond.\n Aragorn will assume his "Warrior" form, changing his palantir abilities.\n Left-click to activate"
 END
 
 CONTROLBAR:AragornEntwicklung3
@@ -11868,7 +11876,7 @@ CONTROLBAR:AragornEntwicklung4
 END
 
 CONTROLBAR:ToolTipAragornEntwicklung4
-"Requires: Level 10 \n The time has come for Aragorn to claim the crown and become the King of Men, giving his people new hope.\n Aragorn will assume his "King of Gondor" form, changing his palantir abilities.\n Special effects while Aragorn is King: Recruitment costs for heroes are reduced by 15% and friendly units near Aragorn will be fearless and receive +50% armor and damage.\n Left-click to activate"
+"Requires: Crown of the king \n The time has come for Aragorn to be crowned by Faramir and become the King of Men, giving his people new hope.\n Aragorn will assume his "King of Gondor" form, changing his palantir abilities.\n Special effects while Aragorn is King: Recruitment costs for heroes are reduced by 15% and friendly units near Aragorn will be fearless and receive +50% armor and damage.\n Left-click to activate"
 END
 
 CONTROLBAR:TooltipSpecialPowerGandalfSternenschauer
@@ -15360,7 +15368,7 @@ CONTROLBAR:ToolTipSpinnendaseinDebuff
 END
 
 CONTROLBAR:TooltipGoblinKingSkullTotemKing
-"Requires: Level 2 \n The ruler of the Misty Mountains places a skull totem on the battlefield \n Allies near the Skull Totem will deal 50% more damage \n If Gorkil has been crowned, The Skull Totem will give 75% damage to Allies near the totem \n Left-click on the desired target area"
+"Requires: Level 2 \n The ruler of the Misty Mountains places a skull totem on the battlefield \n Goblin units near the Skull Totem will deal 50% more damage \n If Gorkil has been crowned, The Skull Totem will give 75% damage to goblin units near the totem \n Left-click on the desired target area"
 END
 
 CONTROLBAR:ConstructWildZuchtspinnenHorde
@@ -17072,7 +17080,7 @@ CONTROLBAR:PelargirDuinhirAnfuhrer
 END
 
 CONTROLBAR:ToolTipPelargirDuinhirAnfuhrer
-"Duinhir leads the troops into battle from Morthond \n allies Morthond units in its vicinity have +75% armor \n Passive ability"
+"Duinhir leads the fiefdom troops into battle \n All allied fiefdom units in his vicinity have +20% armor \n Passive ability"
 END
 
 CONTROLBAR:LamedonAngborAnfuhrer
@@ -85909,7 +85917,7 @@ CONTROLBAR:SpecialAbilityChillSoul
 END
 
 CONTROLBAR:TooltipSpecialAbilityChillSoul
-"All nearby enemies suffer -50% speed and take slight damage over time \n Passive ability"
+"All nearby enemies suffer -25% speed and take slight damage over time \n Passive ability"
 END
 
 CONTROLBAR:WhisperofDeath

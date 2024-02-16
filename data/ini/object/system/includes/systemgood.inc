@@ -1058,13 +1058,15 @@
 		RequirementsFilterMPSkirmish    = SPELL_BOOK_REQUIREMENTS_FILTER
 		RequirementsFilterStrategic     = SPELL_BOOK_REQUIREMENTS_FILTER_STRATEGIC
 	End
-
-	Behavior = OCLSpecialPower ModuleTag_GondorSpellSignalFire
-		SpecialPowerTemplate = SpellBookGondorSignalFire
-		OCL                  = OCL_SpawnLehenGondors
-                TriggerFX            = FX_RohirimSummon
-		CreateLocation       = CREATE_AT_LOCATION
-		AvailableAtStart     = No
+	
+	Behavior = PlayerUpgradeSpecialPower	ModuleTag_SpellBookGondorSignalFire
+		SpecialPowerTemplate		= SpellBookGondorSignalFire
+		UpgradeName 			= Upgrade_LehenAllies
+		UpdateModuleStartsAttack	= No
+		AffectAllies			= No
+		AvailableAtStart		= No
+		RequirementsFilterMPSkirmish = SPELL_BOOK_REQUIREMENTS_FILTER
+		RequirementsFilterStrategic = SPELL_BOOK_REQUIREMENTS_FILTER_STRATEGIC
 	End
 
 	Behavior = SpecialPowerModule ModuleTag_ScholarReading
