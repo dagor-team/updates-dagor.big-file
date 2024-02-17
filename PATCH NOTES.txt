@@ -1,19 +1,16 @@
-Isengard
-	Grishnak health and dmg increase
 Imla
-	Scholars buildtime increase
-	Blademasters no longer get splash dmg without forged blades
-	Arwen lvl 5 fixed
-Mordor
-	Khamul trample fix
-	Gorthaur werewolf form two new abilities
+	vets scaling nerfed 
+	graidians early nerfed but lvl 5 get better armor 
+	elrond slight rework 
+	gilgachad exp required decreased
+	inn swordman 750 and take 35 seconds to train 
+	inn spearman 600 and take 35 seconds to train
+	reverted glorfidnel echtelion revert 
 Angmar
-	Rogash trample fix plus power of the witch king nerf on him
-	Hall of twilight limited to one
-	Statue healing decreased
+	spell book change
 Goblins
-	New FA unit
-	Drogoth dmg buff
-	Fimbul and Bolg trample fix
-Dwarves
-	King Thrain as a silmaril hero
+	balrog damaged nerf to buildings
+	gorkill mounted armor nerf
+gondor
+	aragon rework
+	signal tower rework
