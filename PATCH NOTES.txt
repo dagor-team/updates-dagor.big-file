@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Imla
 	vets scaling nerfed 
 	graidians early nerfed but lvl 5 get better armor 
@@ -14,3 +15,5 @@ Goblins
 gondor
 	aragon rework
 	signal tower rework
+=======
+>>>>>>> f3c1d70ebf90d56acf5c2fbf92dea8c36b620773
