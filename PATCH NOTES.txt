@@ -1,19 +1,29 @@
-<<<<<<< HEAD
 Imla
 	vets scaling nerfed 
-	graidians early nerfed but lvl 5 get better armor 
-	elrond slight rework 
-	gilgachad exp required decreased
-	inn swordman 750 and take 35 seconds to train 
-	inn spearman 600 and take 35 seconds to train
-	reverted glorfidnel echtelion revert 
+	guardians early nerfed but lvl 5 get better armor 
+	elrond restoration rework 
+	gil galad exp required decreased
+	inn swordmen 750 and take 35 seconds to train 
+	inn spearmen 600 and take 35 seconds to train
+	reverted glorfidnel echtelion revert
+Dwarves
+	Erebor axe throwers gap closing fix 
 Angmar
 	spell book change
+	rhudaur axe throwers gap closing fix
+	karsh speed debuff nerfed to 25% from 50% and doesnt apply to heroes
 Goblins
-	balrog damaged nerf to buildings
+	balrog damage nerf to buildings
 	gorkill mounted armor nerf
 gondor
-	aragon rework
-	signal tower rework
-=======
->>>>>>> f3c1d70ebf90d56acf5c2fbf92dea8c36b620773
+	aragon system rework + new ability at lvl 8 in king form
+	lone tower now gives leadership around it 20% armor, -10% speed
+	beacons of gondor rework
+	stone worker cost decrease
+Isengard
+	Tol-in-gaurhoth guardians ability fix
+Arnor
+	Donkey riders dmg buff
+	Hobbit summon buff
+
+
