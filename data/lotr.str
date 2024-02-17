@@ -43214,12 +43214,37 @@ CONTROLBAR:TooltipIsildurAthelas
 "Requires: Level 5 \n The power of Athelas heals nearby heroes.\n Left-click to activate"
 END
 
+CONTROLBAR:SpecialAbilitySpecialAbilityFiefdoms
+"Fiefdom Allies"
+END
+
+CONTROLBAR:ToolTipSpecialAbilitySpecialAbilityFiefdoms
+"Summons the Duinhir and the men he leads from the fiefdoms of Gondor \n Left-click on a desired area"
+END
+
+CONTROLBAR:SpecialAbilityCrownOfGondor
+"Crown Ellesar"
+END
+
+CONTROLBAR:ToolTipSpecialAbilityCrownOfGondor
+"After the fall of Mordor, the coronation of the new king of Gondor began.\n Now the heir of Isildur is to become Ellesar, the king that will lead gondor again to prosperity.\n Left-click on Aragorn"
+END
+
+
+CONTROLBAR:SpecialAbilityGiveAnduril
+"Andúril - Flame of the west"
+END
+
+CONTROLBAR:ToolTipSpecialAbilityGiveAnduril
+"The sons of Elrond have forged a new sword from the shards of Narsil.\n Now they give this symbol of strenght to the heir of Isildur.\n Left-click on Aragorn"
+END
+
 CONTROLBAR:Elendil
 "&Elendil"
 END
 
 CONTROLBAR:ToolTipElendil
-"Requires: Level 7 \n Causes nearby enemy units to flee.\n Left-click to activate"
+"Requires: Level 6 \n Causes nearby enemy units to flee.\n Fleeing units also lose all their leadership bonuses for a while.\n Left-click to activate"
 END
 
 CONTROLBAR:Oathbreakers
