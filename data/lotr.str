@@ -1668,6 +1668,14 @@ CONTROLBAR:ToolTipElendilEroberer
 "Requires: Level 2 \n Elendil himself led his army to Barad-dûr and besieged it \n Nearby units of the Last Alliance for 10 seconds inflict much more damage against buildings and are also able to destroy reinforced walls \n Left-click to activate"
 END
 
+CONTROLBAR:AragornCharge
+"For Frodo!"
+END
+
+CONTROLBAR:ToolTipAragornCharge
+"Requires: Level 8 \n Aragorn leads the men of the west to the Black gate to create a diversion for Frodo to pass through Mordor undetected. \n Nearby allied units gain 40 bonus damage and 10% speed for 30 seconds \n Left-click to activate"
+END
+
 CONTROLBAR:ElendilLeadership_Spell
 "High King of Men"
 END
