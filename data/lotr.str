@@ -14887,7 +14887,7 @@ CONTROLBAR:ToolTipPurchaseUpgradeGaladrielRingablehnen
 END
 
 CONTROLBAR:SpecialAbilityBlickderweiﬂenFrau
-"Ga&ze of Galadriel"
+"Power o&f the White lady "
 END
 
 CONTROLBAR:MagiedesgoldenenWaldes
@@ -14907,7 +14907,7 @@ CONTROLBAR:ToolTipMagiedesgoldenenWaldes
 END
 
 CONTROLBAR:ToolTipSpecialAbilityBlickderweiﬂenFrau
-"Requires: Level 5 \n The gaze of the White Lady evokes fear from the hearts of her enemies.\n Left click on target area"
+"Requires: Level 7 \n Galadriel Summons a storm on a battlefield cleansing it of the foes of the Golden wood.\n Left click on target area"
 END
 
 CONTROLBAR:SpellBookElkriderSpawn
@@ -22330,7 +22330,7 @@ CONTROLBAR:DerRingNenya
 END
 
 CONTROLBAR:ToolTipDerRingNenya
-"Requires: Level 7 \n Galadriel uses the hidden power within the ring of the water to protect her kingdom from the invasions of the enemy.\n A large mist surrounds Galadriel, disguising and healing all allies in it.\n Enemy units within the mist cower with fear.\n Left-click to activate"
+"Requires: Level 5 \n Galadriel uses the hidden power within the ring of the water to protect her kingdom from the invasions of the enemy.\n A large mist surrounds Galadriel, disguising and healing all allies in it.\n Enemy units within the mist cower with fear.\n Left-click to activate"
 END
 
 UPGRADE:TrollHeavyArmor2
