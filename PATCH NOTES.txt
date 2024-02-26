@@ -18,6 +18,27 @@ Knights of dol amroth did cost 40 cp but now cost 60
 Buffed the arkenstone and aragorns ability but the cool down is longer
 Rohan Archery Range costs 300 now
 Peasents now cost 100
+Galatrhim now cost 60 cp instead of 70
+Beleg level 9 arrow buffed
+Thingol damage increase for base attacks
+Palace guard in formation now at 40% additional armor from 60%
+Song of luthian no longer affects valar (who tf changed that??)
+Also has increased colldown
+Nogrod smiths for dwarves now don't have rebuld but I buffed their health by 1000
+Borimir now has a slight aoe damage
+Borimir's level 6 now has a slight damage mult
+Arkenguard armor slight buff
+Eomer now get's his level 10 at level 8 *it's not all that strong sicne it does 0 damage to pikes)
+Some of the rohan heroes armor vs pikes got nerfed slightly
+All rohan heroes and rohan cavalry have the same speed
+Gandalf armor buff
+Man slayer armor buff and no longer crushable from cav
+CP fixed for elites to max description
+Elrond's heal now heals 90%, heals himself and has a lower cooldown
+Formenos archers now cost 1500 instead of 2000 (to expensive for the unit and they cost 73 cp)
+Mirkwood archers cost 60 cp
+Lorien swords now cost 300 instead of 250
+Angmar shadow guard infantry and cav have limit of 4 each now
 
 check angmar banners and rohan banners
 elrond changes
