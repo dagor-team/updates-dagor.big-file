@@ -20,6 +20,7 @@ Rohan Archery Range costs 300 now
 Peasents now cost 100
 Galatrhim now cost 60 cp instead of 70
 Beleg level 9 arrow buffed
+Beleg slight base damage decrease
 Thingol damage increase for base attacks
 Palace guard in formation now at 40% additional armor from 60%
 Song of luthian no longer affects valar (who tf changed that??)
@@ -28,7 +29,7 @@ Nogrod smiths for dwarves now don't have rebuld but I buffed their health by 100
 Borimir now has a slight aoe damage
 Borimir's level 6 now has a slight damage mult
 Arkenguard armor slight buff
-Eomer now get's his level 10 at level 8 *it's not all that strong sicne it does 0 damage to pikes)
+Eomer now get's his level 10 at level 8 *it's not all that strong since it does 0 damage to pikes)
 Some of the rohan heroes armor vs pikes got nerfed slightly
 All rohan heroes and rohan cavalry have the same speed
 Gandalf armor buff
@@ -39,6 +40,15 @@ Formenos archers now cost 1500 instead of 2000 (to expensive for the unit and th
 Mirkwood archers cost 60 cp
 Lorien swords now cost 300 instead of 250
 Angmar shadow guard infantry and cav have limit of 4 each now
+Durmarth level 10 weapon upgrade that paralyzes does not affect heroes now
+Angmar ranger ice arrows don't slow down as much
+Lurtz pin is now level 3 but his carnage is now at level 2
+Slight health damage stat buff for lurtz
+Sukadan costs 2800 now
+Swords of westerness now only applies to heroes and now simply adds +100 damage and gives 10% expereince gain while fighting (this affect wears off once you loose the hero and recruit them again)
+Bandobras Took in the arnor hobbit summon got a major stat buff and his one abiliy deals much more damage now making the power more worth it
+Arvedui's level 2 now does not give him crush(Tested this and it was too strong) I did buff how much armor it gives though
+Slight buff to gondor flood damage 
+Theoden glorious charge fixed for gondor summon
 
-check angmar banners and rohan banners
-elrond changes
+
