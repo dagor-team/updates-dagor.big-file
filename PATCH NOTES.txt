@@ -50,5 +50,12 @@ Bandobras Took in the arnor hobbit summon got a major stat buff and his one abil
 Arvedui's level 2 now does not give him crush(Tested this and it was too strong) I did buff how much armor it gives though
 Slight buff to gondor flood damage 
 Theoden glorious charge fixed for gondor summon
+Durin's level 3 now only debuffs structures and doesn't rebuild friendly structures (gave slight buff to deuff)
+Gondor can now only get 3 eagles from first age (they already have a good enough first age that they don't need that good of a base rush, pluss manwae summons eagles)
+Orome no longer has a damage scaler agaisnt valar but I gave slight damage buff (he was 1v1ing valar before)
+Buffed Manwe's damage a bit and buffed his word of power damage
+Feanor has a new level 3 that makes him 20% faster, gives 20% armor and the ability to knock back units but not damage them for 30 seconds (doesn't knock back heroes)
+Firestrike now costs 20 pp and watcher costs 15 for goblins
+For frodo and arkenstone now last 40 seconds instead of 50
 
 
