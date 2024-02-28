@@ -1673,7 +1673,7 @@ CONTROLBAR:AragornCharge
 END
 
 CONTROLBAR:ToolTipAragornCharge
-"Requires: Level 8 \n Aragorn leads the men of the west to the Black gate to create a diversion for Frodo to pass through Mordor undetected. \n Nearby allied units gain 40 bonus damage and 10% speed for 30 seconds \n Left-click to activate"
+"Requires: Level 8 \n Aragorn leads the men of the west to the Black gate to create a diversion for Frodo to pass through Mordor undetected. \n Nearby allied units gain 45% bonus damage and 25% speed for 30 seconds \n Left-click to activate"
 END
 
 CONTROLBAR:ElendilLeadership_Spell
@@ -4806,15 +4806,15 @@ CONTROLBAR:AngmarZaphragorRecruit
 END
 
 CONTROLBAR:SchwerterderWesternis
-"Swords of Westernesse"
+"Swords of Westerness"
 END
 
 CONTROLBAR:SchwerterderWesternis
-"Swords of Westernesse"
+"Swords of Westerness"
 END
 
 CONTROLBAR:ToolTipSchwerterderWesternis
-"Equip these battalions with Swords of Westernesse \n These blades protect their bearers from magic, poison, and the elements and lend them strength to face all kinds of enemies. Particularly powerful vs. Ringwraiths and Barrow-wights \n If used on Archers they will gain Bows of the Westernesse \n Left-click on the desired battalions"
+"Equip these battalions with Swords of Westernesse \n These blades of westerness give +100 damage, +10% experience gaine and +400 health to Arnor heroes. \n Left-click on the desired heroes."
 END
 
 CONTROLBAR:ToolTipSchwerterderWesternisShort
@@ -57700,6 +57700,25 @@ CONTROLBAR:ToolTipInfobox_GondolinRing
 "Requires: Elrond with the Silmaril \n The forces of Gondolin will return to Arda led by their Last King"
 END
 
+
+CONTROLBAR:PurchaseHouseofElrond
+"House of Elrond"
+END
+
+CONTROLBAR:ToolTipPurchaseHouseofElrond
+"Allows the purchase of Elrond but exludes the purchase of Gilgalad"
+END
+
+CONTROLBAR:PurchaseHouseofGilgalad
+"House of Gilgalad"
+END
+
+CONTROLBAR:ToolTipPurchaseHouseofGilgalad
+"Allows the purchase of Gilgalad but exludes the purchase of Elrond"
+END
+
+
+
 CONTROLBAR:HouseofTheGoldenFlower
 "House of The Golden Flower"
 END
@@ -89718,11 +89737,11 @@ CONTROLBAR:ToolTipHighKingofNoldor
 END
 
 CONTROLBAR:FeanorTerribleFury
-"Fur&y"
+"Mightiest of The Firstborn"
 END
 
 CONTROLBAR:TooltipFeanorTerribleFury
-"Requires: Level 3 \n Fëanor's fury in battle scares his enemies, casuing them to run in fear. \n Left-click to activate"
+"Requires: Level 3 \n Fëanor, the mightiest of the firstborn charges into battle with great speed heedless of his foes. Fëanor gains +20% speed and armor as well as knock back as he charges through his enemies. \n Left-click to activate"
 END
 
 CONTROLBAR:FeanorBladeOfPurity

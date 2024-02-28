@@ -118,7 +118,7 @@ CommandSet HouseofTheGoldenFlowerGilgaladCommandSet
        24    = Command_FakeHeroReviveSlot9
        25    = Command_GwaihirReviveSlot
        26    = Command_FakeHeroReviveSlot11
-       27    = Command_FakeHeroReviveSlot12
+       27    = Command_GenericReviveSlot12
 	   28    = Command_FakeHeroReviveSlot13
        29    = Command_RadialBack
 End
