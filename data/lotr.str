@@ -66287,6 +66287,15 @@ CONTROLBAR:LW_Unit_WildDrummerOrcPlural
 END
 
 
+
+
+
+
+
+
+
+
+
 OBJECT:WildMarauder
 "Goblin Half-Troll Marauder"
 END
@@ -86571,6 +86580,65 @@ END
 CONTROLBAR:ToolTipSpecialAbilityGothmogCarnage
 "Requires: Level 4 \n Gothmog gains +100% damage and +50% armor \n Left-click to activate"
 END
+
+OBJECT:Balcmeg
+"Balcmeg"
+END
+
+
+CONTROLBAR:LW_ToolTip_Balcmeg
+"Balcmeg"
+END
+
+CONTROLBAR:BalcmegRecruit
+"Balcmeg, the captain of Angband"
+END
+
+CONTROLBAR:BalcmegLeadership    
+"Captain of Angband"
+END
+
+CONTROLBAR:ToolTipBalcmegLeadership
+"Balcmeg gives nearby mordor orcs +25% armor and damage. \n Passive"
+END
+
+
+CONTROLBAR:BalcmegCarnage    
+"Fury of Morgoth"
+END
+
+CONTROLBAR:ToolTipBalcmegCarnage
+"Requires: Level 3 \n Balcmeg gains aditional damage, armor, attack speed and aoe causeing him to inflect meta damage to enemies. \n Left-click to activate"
+END
+
+
+CONTROLBAR:HeartOfEvil    
+"Heart of Evil"
+END
+
+CONTROLBAR:ToolTipHeartOfEvil
+"Requires: Level 6 \n Balcmeg means "heart of evil in the Eldarin tounge". Balcmeg debuffs enemies by -15% armor with each swing of his mace (this does not apply while using Fury of Morgoth). Balcmeg also gives fear and terror resistance to nerby mordor orcs \n Passive"
+END
+
+CONTROLBAR:BalcmegImmortal    
+"Armor of Utumno"
+END
+
+CONTROLBAR:ToolTipBalcmegImmortal
+"Requires: Level 8 \n Balcmeg gains 800% armor and can trample through his enemies for 20 seconds. \n Left-click to activate"
+END
+
+
+CONTROLBAR:DestructionMark    
+"Flames of Anfauglith"
+END
+
+CONTROLBAR:ToolTipDestructionMark
+"Requires: Level 10 \n Balcmeg targets an enemy cause a great firey blast to destroy them and enemies in a large raius (the blast is delayed by 5 seconds). \n Select Target to activate"
+END
+
+
+
 
 CONTROLBAR:ConstructMordorHaradrimRiderHorde
 "Haradrim &Lancers"

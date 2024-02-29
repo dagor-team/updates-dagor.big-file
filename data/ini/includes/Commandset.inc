@@ -1,3 +1,22 @@
+CommandSet BalcmegCommandSet
+	1    = Command_ToggleStance
+    2      = Command_BalcmegLeadershipButton
+    3      = Command_SpecialAbilityBalcmegCarnage
+    4      = Command_SpecialAbilityHeartOfEvil
+    5      = Command_SpecialAbilityBalcmegImmortal
+    6      = Command_SpecialAbilityDestructionMark
+    12   = Command_CaptureBuilding
+    13   = Command_AttackMove
+    14   = Command_Stop
+    16   = Command_SetStanceBattle
+    17   = Command_SetStanceAggressive
+    18   = Command_SetStanceHoldGround
+End
+
+
+
+
+
 CommandSet ImladrisFortressCommandset
     InitialVisible = 2
 	1    = Command_PurchaseHouseofElrond
@@ -1201,7 +1220,8 @@ CommandSet AngbandFortressCommandSet
        28    = Command_FakeHeroReviveSlot11
        29    = Command_FakeHeroReviveSlot12
        30    = Command_FakeHeroReviveSlot13
-       31    = Command_RadialBack
+	   31    = Command_GenericReviveSlot14
+       32    = Command_RadialBack
 End
 
 CommandSet AngbandFortressCommandSetLevel2
@@ -1240,7 +1260,8 @@ CommandSet AngbandFortressCommandSetLevel2
        28    = Command_FakeHeroReviveSlot11
        29    = Command_FakeHeroReviveSlot12
        30    = Command_FakeHeroReviveSlot13
-       31    = Command_RadialBack
+	   31    = Command_GenericReviveSlot14
+       32    = Command_RadialBack
 End
 
 CommandSet AngbandFortressCommandSetLevel3
@@ -1279,7 +1300,8 @@ CommandSet AngbandFortressCommandSetLevel3
        28    = Command_FakeHeroReviveSlot11
        29    = Command_FakeHeroReviveSlot12
        30    = Command_FakeHeroReviveSlot13
-       31    = Command_RadialBack
+	   31    = Command_GenericReviveSlot14
+       32    = Command_RadialBack
 End
 
 CommandSet AngbandFortressCommandSetLevel4
@@ -1318,7 +1340,8 @@ CommandSet AngbandFortressCommandSetLevel4
        28    = Command_FakeHeroReviveSlot11
        29    = Command_FakeHeroReviveSlot12
        30    = Command_FakeHeroReviveSlot13
-       31    = Command_RadialBack
+	   31    = Command_GenericReviveSlot14
+       32    = Command_RadialBack
 End
 
 CommandSet AngbandFortressCommandSetLevel5
@@ -1356,7 +1379,8 @@ CommandSet AngbandFortressCommandSetLevel5
        28    = Command_FakeHeroReviveSlot11
        29    = Command_FakeHeroReviveSlot12
        30    = Command_FakeHeroReviveSlot13
-       31    = Command_RadialBack
+	   31    = Command_GenericReviveSlot14
+       32    = Command_RadialBack
 End
 
 CommandSet UnderworldPortalCommandSet
