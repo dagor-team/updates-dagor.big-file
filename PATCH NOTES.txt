@@ -45,7 +45,7 @@ Angmar ranger ice arrows don't slow down as much
 Lurtz pin is now level 3 but his carnage is now at level 2
 Slight health damage stat buff for lurtz
 Sukadan costs 2800 now
-Swords of westerness now only applies to heroes and now simply adds +100 damage and gives 10% expereince gain while fighting (this affect wears off once you loose the hero and recruit them again)
+Swords of westerness now only applies to arnor heroes and now simply adds +100 damage, +400 health and gives 10% expereince gain while fighting (this affect wears off once you loose the hero and recruit them again)
 Bandobras Took in the arnor hobbit summon got a major stat buff and his one abiliy deals much more damage now making the power more worth it
 Arvedui's level 2 now does not give him crush(Tested this and it was too strong) I did buff how much armor it gives though
 Slight buff to gondor flood damage 
@@ -57,5 +57,9 @@ Buffed Manwe's damage a bit and buffed his word of power damage
 Feanor has a new level 3 that makes him 20% faster, gives 20% armor and the ability to knock back units but not damage them for 30 seconds (doesn't knock back heroes)
 Firestrike now costs 20 pp and watcher costs 15 for goblins
 For frodo and arkenstone now last 40 seconds instead of 50
+New mordor first age hero balcmeg
+New iamges for fingolfin
+New sound bytes for some heroes abilities
+Isildur now recruitable form the fort isntead of barracks
 
 
