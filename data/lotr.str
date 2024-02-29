@@ -11976,7 +11976,7 @@ CONTROLBAR:ToolTipThorinEichenschild_Kampagne
 END
 
 CONTROLBAR:ToolTipBoromirGuardLeadership
-"The Gaurdians of the Citadel carry much prestige from their duties to the Tree \n Gondor's soldiers look up to them in awe of their sacrifice \n Nearby allies are fear resistant \n Passive ability"
+"The Gaurdians of the Citadel carry much prestige from their duties to the Tree \n Gondor's soldiers look up to them in awe of their sacrifice \n Nearby allies are resistant to fear and terror and partially to elemental damage \n Passive ability"
 END
 
 CONTROLBAR:BoromirRingLeadership
