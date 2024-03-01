@@ -3293,7 +3293,7 @@ CONTROLBAR:ToolTipCommandSelectRevivablesMenFortress_Neu
 END
 
 CONTROLBAR:ToolTipBuildArnorPalantirwachterHorde_Neu
-"Requires: Arnor Barracks Level 3 \n Unit Type: Elite Infantry \n Strong vs: Depending on the situation \n Can switch between Sword and Lance"
+"Requires: Arnor Barracks Level 3 and Banner carriers reseached \n Unit Type: Elite Infantry \n Strong vs: Depending on the situation \n Can switch between Sword and Lance"
 END
 
 CONTROLBAR:SelectRevivablesHeroeGeneric
@@ -53941,11 +53941,19 @@ CONTROLBAR:BuildGondorWachterderVesteHorde
 END
 
 CONTROLBAR:ToolTipBuildGondorWachterderVesteHorde
-"Requires: Barracks Level 3 and reseached Forged Blades \n Unit Type: Elite Infantry \n Strong vs: Depending on the situation"
+"Requires: Barracks Level 3 and reseached Banner carriers \n Unit Type: Elite Infantry \n Strong vs: Depending on the situation"
 END
 
 CONTROLBAR:ToolTipBuildGondorWachterderVesteHorde_Monument
 "Unit Type: Elite Infantry \n Strong vs: Depending on the situation \n Can switch between Sword and Lance"
+END
+
+CONTROLBAR:ToolTipSpecialAbilityGondorCitadelHero
+"Chosen leader"
+END
+
+CONTROLBAR:SpecialAbilityGondorCitadelHero
+""
 END
 
 BANNERUI:GondorWachterderVeste
