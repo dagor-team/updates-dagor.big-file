@@ -1,6 +1,1 @@
-boromir buff somewhat
-citadel guards rework
-arnor library cost decrease
-imla blade masters cost decrease a bit
-beacons of gondor
-aragorn
+

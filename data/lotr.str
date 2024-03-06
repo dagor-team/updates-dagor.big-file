@@ -4101,7 +4101,7 @@ CONTROLBAR:ToolTipGothmogFuhrerschaftNew
 END
 
 CONTROLBAR:ToolTipGothmogMountNew
-"Passive Ability:\nLevel 1: Gothmog grants all allied orcs near him 25% damage\nLevel 4: Gothmog grants all allied orcs near him 50% damage\nLevel 7: Gothmog grants all allied orcs near him 75% damage\nLevel 10: Gothmog makes all allied orcs near him immune to fear.\nActive: Left-click to mount and dismount Gothmog's Warg"
+"Passive Ability:\nLevel 1: Gothmog grants all allied orcs near him 15% damage\nLevel 4: Gothmog grants all allied orcs near him 30% damage and resistance to fear and terror\nLevel 7: Gothmog grants all allied orcs near him 45% damage\nActive: Left-click to mount and dismount Gothmog's Warg"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityCarcRaben
@@ -21308,6 +21308,13 @@ CONTROLBAR:ToolTipLeibwachendesFurstenNew
 "Requires: Imrahil on the battlefield\n The guards defend Imrahil, the Prince of Dol Amroth, with their lives. \n Imrahil and the guards get +50% armor. \n Passive ability"
 END
 
+CONTROLBAR:ToolTipConstructGondorCastleKeep
+"Gain acces to Gondor elites and Denethor"
+END
+
+CONTROLBAR:ConstructGondorCastleKeep
+"Construct the white tower"
+END
 
 CONTROLBAR:ToolTipGondorBuildStoneMakerMod
 "Equips units with upgrades. \n Reduces the costs for unit upgrades. \n Reduces the costs for the construction of defense buildings"
@@ -95235,7 +95242,7 @@ CONTROLBAR:UnderworldOverlordPowerSplitting
 END
 
 CONTROLBAR:ToolTipUnderworldOverlordPowerSplitting
-"Requires: Level 5 \n The Overlord unleashes a part of his power; however, the warped nature of his spells will cause one of the following random effects.\n Version 1: A strong lighting strike will kill enemies in the target area.\n Version 2: The ground beneath the enemies in the target area will be ignited and burn them alive.\n Version 3: Toxic gas will exhaust from the Deep Places and poison enemies in the target area.\n Left-click icon then left-click on the target units"
+"Requires: Level 4 \n The Overlord unleashes a part of his power; however, the warped nature of his spells will cause one of the following random effects.\n Version 1: A strong lighting strike will kill enemies in the target area.\n Version 2: The ground beneath the enemies in the target area will be ignited and burn them alive.\n Version 3: Toxic gas will exhaust from the Deep Places and poison enemies in the target area.\n Left-click icon then left-click on the target units"
 END
 
 CONTROLBAR:UnderworldOverlordDoubt

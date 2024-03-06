@@ -1,65 +1,8 @@
-Galadriel new lvl 7
-Ents speed increase
-Grand harvest fix, now costs 1000
-You can now get 6 Royal Archers for Rohan
-Theoden glorious charge now unlocked at level 5
-Buffed thrall master armor so they aren't as easy to target
-Increased vet of the last alliance cp to 70
-Increases rohan royal cav cp to 60
-Buffed Beregond's armor and damage a bit
-All fortress banners now cost 500\
-Morgoth takes a little less poison damage (ungoliant)
-Eonwe, Melian and Tarmairon slight armor buff vs magic and poison
-The chop armor for goblin pikes among others was set to 5 which is nuts and must have been a typo especially considering the armor upgrade was worse (nerfed that)
-Buffed gondor pike armor since it was the same as goblin pike armor
-Mirkwood elite archers now cost 1400 instead of 1000 and cp of 60 instead of 50
-Kazad vets now cost 70 cp
-Knights of dol amroth did cost 40 cp but now cost 60
-Buffed the arkenstone and aragorns ability but the cool down is longer
-Rohan Archery Range costs 300 now
-Peasents now cost 100
-Galatrhim now cost 60 cp instead of 70
-Beleg level 9 arrow buffed
-Beleg slight base damage decrease
-Thingol damage increase for base attacks
-Palace guard in formation now at 40% additional armor from 60%
-Song of luthian no longer affects valar (who tf changed that??)
-Also has increased colldown
-Nogrod smiths for dwarves now don't have rebuld but I buffed their health by 1000
-Borimir now has a slight aoe damage
-Borimir's level 6 now has a slight damage mult
-Arkenguard armor slight buff
-Eomer now get's his level 10 at level 8 *it's not all that strong since it does 0 damage to pikes)
-Some of the rohan heroes armor vs pikes got nerfed slightly
-All rohan heroes and rohan cavalry have the same speed
-Gandalf armor buff
-Man slayer armor buff and no longer crushable from cav
-CP fixed for elites to max description
-Elrond's heal now heals 90%, heals himself and has a lower cooldown
-Formenos archers now cost 1500 instead of 2000 (to expensive for the unit and they cost 73 cp)
-Mirkwood archers cost 60 cp
-Lorien swords now cost 300 instead of 250
-Angmar shadow guard infantry and cav have limit of 4 each now
-Durmarth level 10 weapon upgrade that paralyzes does not affect heroes now
-Angmar ranger ice arrows don't slow down as much
-Lurtz pin is now level 3 but his carnage is now at level 2
-Slight health damage stat buff for lurtz
-Sukadan costs 2800 now
-Swords of westerness now only applies to arnor heroes and now simply adds +100 damage, +400 health and gives 10% expereince gain while fighting (this affect wears off once you loose the hero and recruit them again)
-Bandobras Took in the arnor hobbit summon got a major stat buff and his one abiliy deals much more damage now making the power more worth it
-Arvedui's level 2 now does not give him crush(Tested this and it was too strong) I did buff how much armor it gives though
-Slight buff to gondor flood damage 
-Theoden glorious charge fixed for gondor summon
-Durin's level 3 now only debuffs structures and doesn't rebuild friendly structures (gave slight buff to deuff)
-Gondor can now only get 3 eagles from first age (they already have a good enough first age that they don't need that good of a base rush, pluss manwae summons eagles)
-Orome no longer has a damage scaler agaisnt valar but I gave slight damage buff (he was 1v1ing valar before)
-Buffed Manwe's damage a bit and buffed his word of power damage
-Feanor has a new level 3 that makes him 20% faster, gives 20% armor and the ability to knock back units but not damage them for 30 seconds (doesn't knock back heroes)
-Firestrike now costs 20 pp and watcher costs 15 for goblins
-For frodo and arkenstone now last 40 seconds instead of 50
-New mordor first age hero balcmeg
-New iamges for fingolfin
-New sound bytes for some heroes abilities
-Isildur now recruitable form the fort isntead of barracks
-
-
+Ered Mithrin hunters now tramplable
+Spider riders do less dmg to heroes with their bows
+Gorkil trample nerf
+Gothmog (orc) passive xp gain decreased, leadership nerfed
+Beacons of gondor fix + revert
+Underworld Overlord buff
+Dagger of the nolder can now be autocasted
+Denethors banner buff can now be autocasted
