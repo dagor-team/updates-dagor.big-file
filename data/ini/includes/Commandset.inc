@@ -1790,6 +1790,7 @@ CommandSet LorienGardenCommandSet
     2   = Command_LeadershipDiscountGaladrim
     3   = Command_LeadershipDiscountUpgrades
     4   = Command_PurchaseUpgradeBundnisWaldelben_New
+	5   = Command_PurchaseGardenUpgradeGrandHarvest
     6   = Command_Sell
 End
 
