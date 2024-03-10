@@ -12492,7 +12492,7 @@ CommandButton Command_ConstructHeroMordor
     DescriptLabel           = CONTROLBAR:ToolTipCommandSelectRevivablesMordorFortress
     Radial                  = Yes
     CommandRangeStart    = 16
-    CommandRangeCount    = 15
+    CommandRangeCount    = 17
 End
 
 CommandButton Command_ConstructHeroMordor_Sauron
@@ -49098,7 +49098,7 @@ CommandButton Command_SelectRevivablesAngbandFortress
   DescriptLabel           = CONTROLBAR:ToolTipCommandSelectRevivablesAngbandFortress
   Radial                  = Yes
   CommandRangeStart       = 15
-  CommandRangeCount       = 15
+  CommandRangeCount       = 17
 End
 
 

@@ -324,7 +324,7 @@ CommandButton Command_SelectRevivablesAngbandFortress
   DescriptLabel           = CONTROLBAR:ToolTipCommandSelectRevivablesAngbandFortress
   Radial                  = Yes
   CommandRangeStart       = 15
-  CommandRangeCount       = 16
+  CommandRangeCount       = 17
 End
 
 
