@@ -1942,7 +1942,7 @@ ExperienceLevel    Good_Elite10_InfantryLevel10
     InformUpdateModule                =    Yes
     Rank                              =    10
     AttributeModifiers                =    Elite10HordeBonusRank10
-    Upgrades                          =    Upgrade_ObjectLevel1 Upgrade_MiniHordeLvl1 Upgrade_EliteHordeLvl10
+    Upgrades                          =    Upgrade_ObjectLevel10 Upgrade_MiniHordeLvl0 Upgrade_EliteHordeLvl10
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500

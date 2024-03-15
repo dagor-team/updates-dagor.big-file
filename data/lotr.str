@@ -35916,6 +35916,10 @@ CONTROLBAR:ToolTipToggleGFighterLineToBlockFormation
 "+25% armor, -40% Speed"
 END
 
+CONTROLBAR:ToolTipToggleGSpearLineToSideFormation
+"+20% Speed, -15% Armor"
+END
+
 CONTROLBAR:ToolTipToggleIFighterLineToBlockFormation
 "+25% armor, -40% speed"
 END
