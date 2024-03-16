@@ -32480,11 +32480,13 @@ End
 
 Weapon BlickderweiﬂenFrauWeapon
     RadiusDamageAffects    = ENEMIES NEUTRALS
+	LeechRangeWeapon      = No
+    AttackRange           = 150
 
     EmotionWeaponNugget
         EmotionType         = UNCONTROLLABLE_FEAR
         Radius              = 80.0
-        Duration            = 10
+        Duration            = 100
         SpecialObjectFilter = ALL -HERO ENEMIES
     End
 
