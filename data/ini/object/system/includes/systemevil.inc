@@ -157,16 +157,17 @@
     End
 
     Behavior = SpecialPowerModule	SpellBookDraft_TrommelninderTiefe
-	SpecialPowerTemplate		= SpellBookTrommelninderTiefe
-	AttributeModifier		= SpellBookTrommelnModifier
-	AttributeModifierRange		= 9999999
-	AttributeModifierAffects	= ANY +ORC +BANNER +WildMarauderSwordBanner +WildBannerGoblin +GoblinRider +WildGoblinRiderBanner +WildFortress
-	AffectAllies			= Yes
-	UpdateModuleStartsAttack	= No
-	AttributeModifierFX		= FX_TrommelninderTiefeSound
-	AvailableAtStart		= No
-	RequirementsFilterMPSkirmish    = SPELL_BOOK_REQUIREMENTS_FILTER
-	RequirementsFilterStrategic     = SPELL_BOOK_REQUIREMENTS_FILTER_STRATEGIC
+		SpecialPowerTemplate		= SpellBookTrommelninderTiefe
+		AttributeModifier		= SpellBookTrommelnModifier
+		AttributeModifierRange		= 9999999
+		AttributeModifierAffects	= ANY +ORC +BANNER +WildMarauderSwordBanner +WildBannerGoblin +GoblinRider +WildGoblinRiderBanner +WildFortress
+		AffectAllies			= Yes
+		UpdateModuleStartsAttack	= No
+		TriggerFX					= FX_TrommelninderTiefeSound
+		AttributeModifierFX		= FX_SpellDrumsInTheDeep
+		AvailableAtStart		= No
+		RequirementsFilterMPSkirmish    = SPELL_BOOK_REQUIREMENTS_FILTER
+		RequirementsFilterStrategic     = SPELL_BOOK_REQUIREMENTS_FILTER_STRATEGIC
     End
 
     Behavior = OCLSpecialPower ModuleTag_MinasMorgulBombard
