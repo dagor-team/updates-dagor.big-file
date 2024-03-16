@@ -1,15 +1,7 @@
-Ered Mithrin hunters now tramplable
-Spider riders do less dmg to heroes with their bows
-Gorkil trample nerf
-Gothmog (orc) passive xp gain decreased, leadership nerfed
-Beacons of gondor fix + revert
-Underworld Overlord buff
-Dagger of the nolder can now be autocasted
-Denethors banner buff can now be autocasted
-luthi lvl 10 no longer global but has big raduis
-aranoth lvl 10 cooldown increased
-arnor last alliance switch with the swords of west
-gigachad normal leader now level 1 instead of 5
-blades master not get att speed on there ability
-wildman torches siege instead of flame
-merry gets passive exp for eowyn 
+durburz archer abilities autocast enabled
+goblin spears have a formation 
+melian buff
+galadriel lvl 7 fix
+drumps in the deep new effect
+goblin war chant fix
+balrog leap dmg nerf
