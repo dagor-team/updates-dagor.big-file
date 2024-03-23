@@ -1,12 +1,9 @@
-durburz archer abilities autocast enabled
-goblin spears have a formation 
-melian buff
-galadriel lvl 7 fix
-drumps in the deep new effect
-goblin war chant fix
-balrog leap dmg nerf
-aragon level 8 nerf 
-imla feanor and finglofin level 10 cooldown deacreased for 29 to 12 min
-body grauds now level 
-gilgalad leadership buff
-Blight now last only 2 min
+great goblin and durburz new abilities upon reaching fa, if they´re crowned
+angband gothmog slight health increase
+drogoth slight speed buff
+gorkil spider riders ability locked behind fa and buffed, mount and dismount time increased
+general bug fixes
+arnor library cost decreased
+eowyn lvl 5 and 10 slightly changed
+vampire gorthaur speed buff
+

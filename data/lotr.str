@@ -3305,7 +3305,7 @@ CONTROLBAR:ToolTipCommandSelectRevivablesHeroeGeneric
 END
 
 CONTROLBAR:ToolTipShieldMaiden_Neu
-"Requires: Level 5 \n Éowyn is well trained with sword and shield \n For a short time she suffers 30% less damage in general and 80% less damage from heroes. \n Left-click to activate"
+"Requires: Level 5 \n Éowyn is well trained with sword and shield. \n For a short time she suffers 30% less damage in general and 80% less damage from heroes. \n If eowyn fights with merry by her side, he will get bonus damage, especially against heroes. \n Left-click to activate"
 END
 
 CONTROLBAR:LeadershipEowinNew
@@ -3321,7 +3321,7 @@ CONTROLBAR:ToolTipDisguiseEowyn_Neu
 END
 
 CONTROLBAR:ToolTipIchbinkeinMann_Neu
-"Requires: Level 10 \n Éowyn begins a duel with a target enemy hero\n While the targeted enemy hero is nearby, Éowyn gains a massive damage boost, increased movement speed and cannot be knocked back \n Effect lasts for 60 seconds\n Left-click on the heroes"
+"Requires: Level 10 \n Éowyn begins a duel with a target enemy hero. \n The targeted enemy hero is slowed and Éowyn gains a massive damage boost, increased movement speed and cannot be knocked down. \n If the enemy hero dies within the duration of this effect, enemy units nearby will cover in fear. \n Effect lasts for 60 seconds\n Left-click on the heroes"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityVerbannungExil
@@ -7435,7 +7435,15 @@ CONTROLBAR:DrarKhazadcrossbows
 END
 
 CONTROLBAR:ToolTipDrarKhazadcrossbows
-"Requires Level 7: \n When traveling through Moria, Drar and Murin discovered old dwarven blueprints for mithril crossbows and bolts that pierce through enemy armor and deal increased damage. They also found a new unique crossbow for Drar that deals increased damage and is easier to reload. \n Drar equips the selected crossbowmen with mithril bolts and armor training them to fight similliar to the old Khazad Dum crossbowmen. \n Left click on the desired destination area"
+"Requires: Level 7 \n When traveling through Moria, Drar and Murin discovered old dwarven blueprints for mithril crossbows and bolts that pierce through enemy armor and deal increased damage. They also found a new unique crossbow for Drar that deals increased damage and is easier to reload. \n Drar equips the selected crossbowmen with mithril bolts and armor training them to fight similliar to the old Khazad Dum crossbowmen. \n Left click on the desired destination area"
+END
+
+CONTROLBAR:GrossOrcGundabad
+"New leader of Moria"
+END
+
+CONTROLBAR:ToolTipGrossOrcGundabad
+"New age is the age of orcs. With new leaders come great adjustments. Great Goblin pledges his allegiance to Azog and gundabad orcs become the orcs of the line. \n Great Goblin replaces the selected moria goblins with their gundabad orc counterpart. \n Left click on the desired destination area"
 END
 
 CONTROLBAR:OrkHinterhalt
@@ -14903,7 +14911,7 @@ UPGRADE:RingHeroAblehnen
 END
 
 CONTROLBAR:ToolTipMagiedesgoldenenWaldes
-"Requires: Level 10 \n The Magic of Caras Galadhon penetrates the units of Lothlórien.\n They are temporarily invulnerable \n All units in a large radius are affected \n Left-click to activate"
+"Requires: Level 9 \n The Magic of Caras Galadhon penetrates the units of Lothlórien.\n They are temporarily invulnerable \n All units in a large radius are affected \n Left-click to activate"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityBlickderweißenFrau
@@ -15532,7 +15540,11 @@ CONTROLBAR:GorkilGloriousCharge
 END
 
 CONTROLBAR:ToolTipGorkilGloriousCharge
-"The ruler of the Misty Mountains drives the Spider Riders forward\n For a short time, Spider-riders deal double damage \n Left-click to activate"
+"The ruler of the Misty Mountains drives the Spider Riders forward\n For a short time, Spider-riders deal Triple damage \n Left-click to activate"
+END
+
+TOOLTIP:LackAngbandTechnology
+"Requires: Angband Technology be acquired"
 END
 
 CONTROLBAR:AzogLeadershipKing
@@ -28818,7 +28830,7 @@ CONTROLBAR:HerrindesGoldenenWaldes
 END
 
 CONTROLBAR:ToolTipHerrindesGoldenenWaldes
-"Requires: Level 3 \n The face of the Lady of the Golden Forest fosters glory across her lands. \n Elves near Galadriel gain +25% damage, +25% armor and are resistant to fear. \n Passive ability"
+"Requires: Level 2 \n The face of the Lady of the Golden Forest fosters glory across her lands. \n Elves near Galadriel gain +25% damage, +25% armor and are resistant to fear. \n Passive ability"
 END
 
 CONTROLBAR:RingNenya

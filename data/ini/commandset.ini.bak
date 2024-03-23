@@ -22907,162 +22907,136 @@ CommandSet ImladrisFortressCommandsetAI
 End
 
 CommandSet WildFortressCommandSetKing
-    InitialVisible = 6
-
-    1       = Command_RingMechanikGundabad
-    2       = Command_SelectUpgradesWildFaction
-    3       = Command_SelectRevivablesWildFortressKing
-    4       = Command_ArkenStone
-    6       = Command_Sell
-
-    7    = Command_ConstructWildPorter
-    8    = Command_BuildWildTributeCart
-    9    = Command_PurchaseUpgradeWildFortressBatCloud
-    10   = Command_PurchaseUpgradeWildFortressRazorSpines
-    11   = Command_PurchaseUpgradeWildFortressFireArrows
-    12   = Command_PurchaseUpgradeWildFortressWebCocoon
-    13   = Command_PurchaseUpgradeWildFortressDragonNest
-    14   = Command_SpecialAbilityBatCloud
-    15   = Command_RadialBack
-
-
-    16 = Command_FakeRingHeroReviveSlot
-    17 = Command_FakeCreateAHeroReviveSlot
-    18 = Command_FakeHeroReviveSlot1
-    19 = Command_FakeHeroReviveSlot2
-    20 = Command_FakeHeroReviveSlot3
-    21 = Command_FakeHeroReviveSlot4
-    22 = Command_FakeHeroReviveSlot5
-    23 = Command_SmaugReviveSlot
-    24 = Command_DrogothReviveSlot
-    25 = Command_FakeHeroReviveSlot8
-    26 = Command_GenericReviveSlot9
-    27 = Command_FakeHeroReviveSlot10
-    28 = Command_FakeHeroReviveSlot11
-	29 = Command_GenericReviveSlot12
-	30 = Command_FakeHeroReviveSlot13
-	31 = Command_FakeHeroReviveSlot14
-    32 = Command_RadialBack
+    InitialVisible = 9
+	
+    1  = Command_ConstructWildPorter
+    2  = Command_PurchaseUpgradeWildFortressBatCloud
+    3  = Command_PurchaseUpgradeWildFortressRazorSpines
+    4  = Command_PurchaseUpgradeWildFortressFireArrows
+    5  = Command_PurchaseUpgradeWildFortressWebCocoon
+    7  = Command_PurchaseUpgradeWildFortressDragonNest
+    8  = Command_SpecialAbilityBatCloud
+	
+    9   = Command_SelectRevivablesWildFortressKing
+    10  = Command_FakeRingHeroReviveSlot
+    11 = Command_FakeCreateAHeroReviveSlot
+    12 = Command_GenericReviveSlot1
+    13 = Command_GenericReviveSlot2
+    14 = Command_GenericReviveSlot3
+    15 = Command_GenericReviveSlot4
+    16 = Command_GenericReviveSlot5
+    17 = Command_SmaugReviveSlot
+    18 = Command_FakeHeroReviveSlot7
+    19 = Command_GenericReviveSlot8
+    20 = Command_GenericReviveSlot9
+    21 = Command_GenericReviveSlot10
+    22 = Command_GenericReviveSlot11
+	23 = Command_GenericReviveSlot12
+	24 = Command_FakeHeroReviveSlot13
+    25 = Command_FakeHeroReviveSlot14
+	26 = Command_RadialBack
 End
 
 CommandSet WildFortressCommandSetKing_GroﬂOrk
-    InitialVisible = 6
+    InitialVisible = 10
 
-    1    = Command_RingMechanikGundabad
-    2    = Command_SelectUpgradesWildFaction_forKingMaps
-    3    = Command_SelectRevivablesWildFortressKingHero
-    4    = Command_HerrscherNebelbergeGroﬂOrkFortress
-    6    = Command_ArkenStone
+    1    = Command_ConstructWildPorter
+	2   = Command_SelectRevivablesWildFortressKingHero
+    3    = Command_PurchaseUpgradeWildFortressBatCloud
+    4   = Command_PurchaseUpgradeWildFortressRazorSpines
+    5   = Command_PurchaseUpgradeWildFortressFireArrows
+    6   = Command_PurchaseUpgradeWildFortressWebCocoon
+    7   = Command_PurchaseUpgradeWildFortressDragonNest
+    8   = Command_SpecialAbilityBatCloud
+	9   = Command_PurchaseHerrscherNebelbergeGorkil
+    10  = Command_PurchaseHerrscherNebelbergeDurbutz
+    
 
-
-    7    = Command_ConstructWildPorter
-    8    = Command_BuildWildTributeCart
-    9    = Command_PurchaseUpgradeWildFortressBatCloud
-    10   = Command_PurchaseUpgradeWildFortressRazorSpines
-    11   = Command_PurchaseUpgradeWildFortressFireArrows
-    12   = Command_PurchaseUpgradeWildFortressWebCocoon
-    13   = Command_PurchaseUpgradeWildFortressDragonNest
-    14   = Command_SpecialAbilityBatCloud
-    15   = Command_RadialBack
-
-
-   16 = Command_FakeRingHeroReviveSlot
-    17 = Command_FakeCreateAHeroReviveSlot
-    18 = Command_FakeHeroReviveSlot1
-    19 = Command_FakeHeroReviveSlot2
-    20 = Command_FakeHeroReviveSlot3
-    21 = Command_FakeHeroReviveSlot4
-    22 = Command_FakeHeroReviveSlot5
-    23 = Command_SmaugReviveSlot
-    24 = Command_DrogothReviveSlot
-    25 = Command_FakeHeroReviveSlot8
-    26 = Command_GenericReviveSlot9
-    27 = Command_FakeHeroReviveSlot10
-    28 = Command_FakeHeroReviveSlot11
-	29 = Command_GenericReviveSlot12
-	30 = Command_FakeHeroReviveSlot13
-	31 = Command_FakeHeroReviveSlot14
-    32 = Command_RadialBack
+    11  = Command_FakeRingHeroReviveSlot
+    12 = Command_FakeCreateAHeroReviveSlot
+    13 = Command_GenericReviveSlot1
+    14 = Command_GenericReviveSlot2
+    15 = Command_GenericReviveSlot3
+    16 = Command_GenericReviveSlot4
+    17 = Command_GenericReviveSlot5
+    18 = Command_SmaugReviveSlot
+    19 = Command_FakeHeroReviveSlot7
+    20 = Command_GenericReviveSlot8
+    21 = Command_GenericReviveSlot9
+    22 = Command_GenericReviveSlot10
+    23 = Command_GenericReviveSlot11
+	24 = Command_GenericReviveSlot12
+	25 = Command_FakeHeroReviveSlot13
+    26 = Command_FakeHeroReviveSlot14
+	27 = Command_RadialBack
 End
 
 CommandSet WildFortressCommandSetKing_Bolg
-    InitialVisible = 6
+    InitialVisible = 10
 
-    1       = Command_RingMechanikGundabad
-    2       = Command_SelectUpgradesWildFaction_forKingMaps
-    3       = Command_SelectRevivablesWildFortressKingHero
-    4       = Command_HerrscherNebelbergeBolgFortress
-    6       = Command_ArkenStone
+    1    = Command_ConstructWildPorter
+	2   = Command_SelectRevivablesWildFortressKingHero
+    3    = Command_PurchaseUpgradeWildFortressBatCloud
+    4   = Command_PurchaseUpgradeWildFortressRazorSpines
+    5   = Command_PurchaseUpgradeWildFortressFireArrows
+    6   = Command_PurchaseUpgradeWildFortressWebCocoon
+    7   = Command_PurchaseUpgradeWildFortressDragonNest
+    8   = Command_SpecialAbilityBatCloud
+	9   = Command_PurchaseHerrscherNebelbergeGorkil
+    10  = Command_PurchaseHerrscherNebelbergeGroﬂork
+    
 
-
-    7    = Command_ConstructWildPorter
-    8    = Command_BuildWildTributeCart
-    9    = Command_PurchaseUpgradeWildFortressBatCloud
-    10   = Command_PurchaseUpgradeWildFortressRazorSpines
-    11   = Command_PurchaseUpgradeWildFortressFireArrows
-    12   = Command_PurchaseUpgradeWildFortressWebCocoon
-    13   = Command_PurchaseUpgradeWildFortressDragonNest
-    14   = Command_SpecialAbilityBatCloud
-    15   = Command_RadialBack
-
-
-    16 = Command_FakeRingHeroReviveSlot
-    17 = Command_FakeCreateAHeroReviveSlot
-    18 = Command_FakeHeroReviveSlot1
-    19 = Command_FakeHeroReviveSlot2
-    20 = Command_FakeHeroReviveSlot3
-    21 = Command_FakeHeroReviveSlot4
-    22 = Command_FakeHeroReviveSlot5
-    23 = Command_SmaugReviveSlot
-    24 = Command_DrogothReviveSlot
-    25 = Command_FakeHeroReviveSlot8
-    26 = Command_GenericReviveSlot9
-    27 = Command_FakeHeroReviveSlot10
-    28 = Command_FakeHeroReviveSlot11
-	29 = Command_GenericReviveSlot12
-	30 = Command_FakeHeroReviveSlot13
-	31 = Command_FakeHeroReviveSlot14
-    32 = Command_RadialBack
+    11  = Command_FakeRingHeroReviveSlot
+    12 = Command_FakeCreateAHeroReviveSlot
+    13 = Command_GenericReviveSlot1
+    14 = Command_GenericReviveSlot2
+    15 = Command_GenericReviveSlot3
+    16 = Command_GenericReviveSlot4
+    17 = Command_GenericReviveSlot5
+    18 = Command_SmaugReviveSlot
+    19 = Command_FakeHeroReviveSlot7
+    20 = Command_GenericReviveSlot8
+    21 = Command_GenericReviveSlot9
+    22 = Command_GenericReviveSlot10
+    23 = Command_GenericReviveSlot11
+	24 = Command_GenericReviveSlot12
+	25 = Command_FakeHeroReviveSlot13
+    26 = Command_FakeHeroReviveSlot14
+	27 = Command_RadialBack
 End
 
 CommandSet WildFortressCommandSetKing_Gorkil
-    InitialVisible = 6
+    InitialVisible = 10
 
-    1       = Command_RingMechanikGundabad
-    2       = Command_SelectUpgradesWildFaction_forKingMaps
-    3       = Command_SelectRevivablesWildFortressKingHero
-    4       = Command_HerrscherNebelbergeGorkilFortress
-    6       = Command_ArkenStone
+    1    = Command_ConstructWildPorter
+	2   = Command_SelectRevivablesWildFortressKingHero
+    3    = Command_PurchaseUpgradeWildFortressBatCloud
+    4   = Command_PurchaseUpgradeWildFortressRazorSpines
+    5   = Command_PurchaseUpgradeWildFortressFireArrows
+    6   = Command_PurchaseUpgradeWildFortressWebCocoon
+    7   = Command_PurchaseUpgradeWildFortressDragonNest
+    8   = Command_SpecialAbilityBatCloud
+	9   = Command_PurchaseHerrscherNebelbergeDurbutz
+    10  = Command_PurchaseHerrscherNebelbergeGroﬂork
+    
 
-
-    7    = Command_ConstructWildPorter
-    8    = Command_BuildWildTributeCart
-    9    = Command_PurchaseUpgradeWildFortressBatCloud
-    10   = Command_PurchaseUpgradeWildFortressRazorSpines
-    11   = Command_PurchaseUpgradeWildFortressFireArrows
-    12   = Command_PurchaseUpgradeWildFortressWebCocoon
-    13   = Command_PurchaseUpgradeWildFortressDragonNest
-    14   = Command_SpecialAbilityBatCloud
-    15   = Command_RadialBack
-
-
-    16 = Command_FakeRingHeroReviveSlot
-    17 = Command_FakeCreateAHeroReviveSlot
-    18 = Command_FakeHeroReviveSlot1
-    19 = Command_FakeHeroReviveSlot2
-    20 = Command_FakeHeroReviveSlot3
-    21 = Command_FakeHeroReviveSlot4
-    22 = Command_FakeHeroReviveSlot5
-    23 = Command_SmaugReviveSlot
-    24 = Command_DrogothReviveSlot
-    25 = Command_FakeHeroReviveSlot8
-    26 = Command_GenericReviveSlot9
-    27 = Command_FakeHeroReviveSlot10
-    28 = Command_FakeHeroReviveSlot11
-	29 = Command_GenericReviveSlot12
-	30 = Command_FakeHeroReviveSlot13
-	31 = Command_FakeHeroReviveSlot14
-    32 = Command_RadialBack
+    11  = Command_FakeRingHeroReviveSlot
+    12 = Command_FakeCreateAHeroReviveSlot
+    13 = Command_GenericReviveSlot1
+    14 = Command_GenericReviveSlot2
+    15 = Command_GenericReviveSlot3
+    16 = Command_GenericReviveSlot4
+    17 = Command_GenericReviveSlot5
+    18 = Command_SmaugReviveSlot
+    19 = Command_FakeHeroReviveSlot7
+    20 = Command_GenericReviveSlot8
+    21 = Command_GenericReviveSlot9
+    22 = Command_GenericReviveSlot10
+    23 = Command_GenericReviveSlot11
+	24 = Command_GenericReviveSlot12
+	25 = Command_FakeHeroReviveSlot13
+    26 = Command_FakeHeroReviveSlot14
+	27 = Command_RadialBack
 End
 
 CommandSet WildFortressCommandSet_forHeide

@@ -1544,13 +1544,12 @@ CommandSet UnderworldPortalFortressCommandSetLevel4
 End
 
 CommandSet UnderworldPortalFortressCommandSetLevel5
-    InitialVisible = 6
+    InitialVisible = 5
     1    = Command_SelectPowerfulSummonAngmar
     2    = Command_SelectRevivablesUnderworldPortal
     3    = Command_SelectSpellUnderworldPortal
     4    = Command_SelectUnitsUnderworldPortal
     5    = Command_ConstructAngmarLichkonig
-    6    = Command_Sell
 
     7    = Command_UnderworldLeadership
     8    = Command_UnderworldWeapon
