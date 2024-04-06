@@ -1,9 +1,14 @@
-great goblin and durburz new abilities upon reaching fa, if they´re crowned
-angband gothmog slight health increase
-drogoth slight speed buff
-gorkil spider riders ability locked behind fa and buffed, mount and dismount time increased
-general bug fixes
-arnor library cost decreased
-eowyn lvl 5 and 10 slightly changed
-vampire gorthaur speed buff
-
+dark marshal and shadow prince screech at lvl 2 and morgul blade at lvl 4
+khamul new ability in his dol guldur commandset
+gothmog at lvl 7 summon only 2 of his 3 captains randomly
+balcmeg lvl 6 leadership gives scavenger to orcs and lvl 10 changed
+rohan fort ability changed to give rohan heroes apart from turin and ingwe 300% xp gain for 30s with 11 min cd
+radagast summon changed to summon helm hammerhand and 2 of his guards if you manage to lvl him up  to lvl 5 you get him permanently
+beastmaster change
+second blight removed
+aglarond hunters buffed after forged blades
+wild baby drakes speed buffed and hit timer reduced
+armor of mounted heroes and wind riders nerfed against pikes
+dragon strike and wyrm switched in pp store
+khazad vets weapons upgrades fixed and specified
+karsh health increase

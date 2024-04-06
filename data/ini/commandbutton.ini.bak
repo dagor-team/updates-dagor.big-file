@@ -21979,20 +21979,6 @@ CommandButton Command_SpecialAbilityDieStundedesHexenkonigs
   AutoAbility             = Yes
 End
 
-CommandButton Command_SpecialAbilityKhamulSeelenopfer
-  Command           = SPECIAL_POWER
-  SpecialPower      = SpecialAbilitySeelenopfer
-  TextLabel         = CONTROLBAR:SpecialAbilityKhamulSeelenopfer
-  ButtonImage       = HSKhamulSeelenopfer
-  Options           = NEED_TARGET_POS CONTEXTMODE_COMMAND
-  RadiusCursorType  = KhamulOpferCursor
-  CursorName        = Bombard
-  InvalidCursorName = GenericInvalid
-  ButtonBorderType  = ACTION
-  DescriptLabel     = CONTROLBAR:ToolTipSpecialAbilityKhamulSeelenopfer
-  InPalantir        = Yes
-End
-
 CommandButton Command_SchattenausdemOsten
   Command                 = SPECIAL_POWER
   SpecialPower            = SpecialAbilityFakeLeadership2
@@ -37917,20 +37903,6 @@ CommandButton Command_SpecialAbilityVasallendesRinggeists
   InPalantir        = Yes
 End
 
-CommandButton Command_SpecialAbilityKhamulVasallenopfer
-  Command           = SPECIAL_POWER
-  SpecialPower      = SpecialAbilitySeelenopfer
-  TextLabel         = CONTROLBAR:SpecialAbilityKhamulVasallenopfer
-  ButtonImage       = HSKhamulSeelenopfer
-  Options           = NEED_TARGET_POS CONTEXTMODE_COMMAND
-  RadiusCursorType  = KhamulOpferCursor
-  CursorName        = Bombard
-  InvalidCursorName = GenericInvalid
-  ButtonBorderType  = ACTION
-  DescriptLabel     = CONTROLBAR:ToolTipSpecialAbilityKhamulVasallenopfer_Neu
-  InPalantir        = Yes
-End
-
 CommandButton Command_KhamulsPrasenz
   Command               = SPECIAL_POWER
   SpecialPower          = SpecialAbilityFakeLeadership2
@@ -45181,8 +45153,8 @@ CommandButton Command_EonweElentáriStarlight
   SpecialPower            = SpecialAbilityEonweElentáriStarlight
   ButtonImage             = HSEonweElentáriStarlight
   ButtonBorderType        = ACTION
-  TextLabel               = CONTROLBAR:EonweElentáriStarlight
-  DescriptLabel           = CONTROLBAR:TooltipEonweElentáriStarlight
+  TextLabel               = CONTROLBAR:EonweElentariStarlight
+  DescriptLabel           = CONTROLBAR:TooltipEonweElentariStarlight
   InPalantir              = Yes
   AutoDelay               = 30.0
   PresetRange             = 50.0
