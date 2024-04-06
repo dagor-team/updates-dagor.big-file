@@ -67250,7 +67250,7 @@ CONTROLBAR:PurchaseUpgradeGemacherderSchwarzenGarde
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeGemacherderSchwarzenGarde
-"Allows the training of Black N men rean Guard and Knight Guard \n Allows the recruitment of Durmarth"
+"Allows the training of Black Numenorean Guard and Knight Guard \n Allows the recruitment of Durmarth"
 END
 
 TOOLTIP:LackSchwarzeGarde
@@ -67913,7 +67913,7 @@ TOOLTIP:LackAngmarSpikedCollars
 END
 
 CONTROLBAR:PurchaseUpgradeGunstlingSchwarzeNumenor
-"Black N men rean &Chosen"
+"Black Numenorean &Chosen"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeGunstlingSchwarzeNumenor
@@ -67921,11 +67921,11 @@ CONTROLBAR:ToolTipPurchaseUpgradeGunstlingSchwarzeNumenor
 END
 
 TOOLTIP:GunstlingSchwarzeNumenor
-"Black N men rean Chosen"
+"Black Numenorean Chosen"
 END
 
 UPGRADE:GunstlingSchwarzeNumenor
-"Black N men rean Chosen"
+"Black Numenorean Chosen"
 END
 
 
@@ -67946,7 +67946,7 @@ UPGRADE:GunstlingKarshs
 END
 
 TOOLTIP:LackGunstlingKarshs
-"Requires: Black N men rean Chosen"
+"Requires: Black Numenorean Chosen"
 END
 
 
@@ -67967,7 +67967,7 @@ UPGRADE:GunstlingGulzars
 END
 
 TOOLTIP:LackGunstlingGulzars
-"Requires: Black N men rean Chosen"
+"Requires: Black Numenorean Chosen"
 END
 
 
@@ -67988,7 +67988,7 @@ UPGRADE:GunstlingZaphragors
 END
 
 TOOLTIP:LackGunstlingZaphragors
-"Requires: Black N men rean Chosen"
+"Requires: Black Numenorean Chosen"
 END
 
 CONTROLBAR:DarkNumEliteKarshSword
@@ -68239,15 +68239,15 @@ OBJECT:AngmarBanner
 END
 
 OBJECT:AngmarDarkDunedain
-"Black N men rean Swordsman"
+"Black Numenorean Swordsman"
 END
 
 OBJECT:HordeAngmarDarkDunedain
-"Black N men rean Swordsmen"
+"Black Numenorean Swordsmen"
 END
 
 CONTROLBAR:ConstructAngmarDarkDunedainHorde
-"Black N men rean Swordsmen"
+"Black Numenorean Swordsmen"
 END
 
 CONTROLBAR:ToolTipBuildAngmarDarkDunedainHorde
@@ -68255,19 +68255,19 @@ CONTROLBAR:ToolTipBuildAngmarDarkDunedainHorde
 END
 
 BANNERUI:AngmarDarkDunedain
-"Black N men rean Swordsman"
+"Black Numenorean Swordsman"
 END
 
 BANNERUI:AngmarDarkDunedains
-"Black N men rean Swordsmen"
+"Black Numenorean Swordsmen"
 END
 
 CONTROLBAR:LW_Unit_AngmarDarkDunedainHorde
-"Black N men rean Swordsman Battalion"
+"Black Numenorean Swordsman Battalion"
 END
 
 CONTROLBAR:LW_Unit_AngmarDarkDunedainHordePlural
-"Black N men rean Swordsman Battalions"
+"Black Numenorean Swordsman Battalions"
 END
 
 CONTROLBAR:LW_ToolTipBuild_AngmarDarkDunedainHorde
@@ -68284,11 +68284,11 @@ OBJECT:AngmarDarkDunedainPikeman
 END
 
 OBJECT:HordeAngmarDunedainPikeman
-"Black N men rean Pikemen"
+"Black Numenorean Pikemen"
 END
 
 CONTROLBAR:ConstructAngmarDunedainPikemanHorde
-"Black N men rean &Pikemen"
+"Black Numenorean &Pikemen"
 END
 
 CONTROLBAR:ToolTipBuildAngmarDunedainPikemanHorde
@@ -68296,19 +68296,19 @@ CONTROLBAR:ToolTipBuildAngmarDunedainPikemanHorde
 END
 
 BANNERUI:AngmarDunedainPikeman
-"Black N men rean Pikeman"
+"Black Numenorean Pikeman"
 END
 
 BANNERUI:AngmarDunedainPikemans
-"Black N men rean Pikemen"
+"Black Numenorean Pikemen"
 END
 
 CONTROLBAR:LW_Unit_AngmarDunedainPikemanHorde
-"Black N men rean Pikeman Battalion"
+"Black Numenorean Pikeman Battalion"
 END
 
 CONTROLBAR:LW_Unit_AngmarDunedainPikemanHordePlural
-"Black N men rean Pikeman Battalions"
+"Black Numenorean Pikeman Battalions"
 END
 
 CONTROLBAR:LW_ToolTipBuild_AngmarDunedainPikemanHorde
@@ -68321,23 +68321,23 @@ END
 
 
 OBJECT:AngmarRanger
-"Black N men rean Ranger"
+"Black Numenorean Ranger"
 END
 
 OBJECT:AngmarDarkRanger
-"Black N men rean Ranger"
+"Black Numenorean Ranger"
 END
 
 OBJECT:HordeAngmarRanger
-"Black N men rean Rangers"
+"Black Numenorean Rangers"
 END
 
 OBJECT:HordeAngmarDarkRanger
-"Black N men rean Rangers"
+"Black Numenorean Rangers"
 END
 
 CONTROLBAR:ConstructAngmarDarkRangerHorde
-"Black N men rean &Rangers"
+"Black Numenorean &Rangers"
 END
 
 CONTROLBAR:ToolTipBuildAngmarDarkRangerHorde
@@ -68345,19 +68345,19 @@ CONTROLBAR:ToolTipBuildAngmarDarkRangerHorde
 END
 
 BANNERUI:AngmarDarkRanger
-"Black N men rean Ranger"
+"Black Numenorean Ranger"
 END
 
 BANNERUI:AngmarDarkRangers
-"Black N men rean Rangers"
+"Black Numenorean Rangers"
 END
 
 CONTROLBAR:LW_Unit_AngmarDarkRangerHorde
-"Black N men rean Ranger Battalion"
+"Black Numenorean Ranger Battalion"
 END
 
 CONTROLBAR:LW_Unit_AngmarDarkRangerHordePlural
-"Black N men rean Ranger Battalions"
+"Black Numenorean Ranger Battalions"
 END
 
 CONTROLBAR:LW_ToolTipBuild_AngmarDarkRangerHorde
@@ -85685,7 +85685,7 @@ OBJECT:AngmarMenOfDale
 END
 
 CONTROLBAR:AngmarWitchKingRecruit
-"Recruit the ruler of Angmar \n Silmaril Hero \n Silmaril function: The Witch-king of Angmar nourishes his power and covers the land with cold and ice \n \n Lore: \n The Witch-king of Angmar was the leader of the Nazg l or Ringwraiths, and Sauron's second-in-command during the Second and Third Ages. Once a N men rean king of men, he was corrupted by one of the 9 Rings of Power that had been given to the lords of men, and became an undead wraith in the service of Sauron. Soon, the only resistance against the Witch-king's forces was the western kingdom of Arthedain. The Witch-king continued his war for hundreds of years. In TA 1636, the Witch-king sent wights to the Barrow-downs in CardolaNain order to prevent the rebirth of the kingdom. The Witch-king claimed ultimate victory in the north in TA 1974, when his forces captured Fornost Erain, the capital of Arthedain. With its capture, the final kingdom collapsed, and with it, the last remnants of the lost realm of Arnor were destroyed. The Witch-king gladly took his seat of power in the newly captured Fornost. But his glory did not last long, for in TA 1975, general Earnur of Gondor landed at the harbours of the Grey Havens, leading an army of Gondor. His army was joined by the Elves of Lindon and the remnant of the northern Dunedain, and they marched on the Witch-king."
+"Recruit the ruler of Angmar \n Silmaril Hero \n Silmaril function: The Witch-king of Angmar nourishes his power and covers the land with cold and ice \n \n Lore: \n The Witch-king of Angmar was the leader of the Nazg l or Ringwraiths, and Sauron's second-in-command during the Second and Third Ages. Once a Numenorean king of men, he was corrupted by one of the 9 Rings of Power that had been given to the lords of men, and became an undead wraith in the service of Sauron. Soon, the only resistance against the Witch-king's forces was the western kingdom of Arthedain. The Witch-king continued his war for hundreds of years. In TA 1636, the Witch-king sent wights to the Barrow-downs in CardolaNain order to prevent the rebirth of the kingdom. The Witch-king claimed ultimate victory in the north in TA 1974, when his forces captured Fornost Erain, the capital of Arthedain. With its capture, the final kingdom collapsed, and with it, the last remnants of the lost realm of Arnor were destroyed. The Witch-king gladly took his seat of power in the newly captured Fornost. But his glory did not last long, for in TA 1975, general Earnur of Gondor landed at the harbours of the Grey Havens, leading an army of Gondor. His army was joined by the Elves of Lindon and the remnant of the northern Dunedain, and they marched on the Witch-king."
 END
 
 CONTROLBAR:AngmarWitchKingRevive
@@ -98806,7 +98806,7 @@ CONTROLBAR:ArveduiErinnerunganWesternis
 END
 
 CONTROLBAR:ToolTipArveduiErinnerunganWesternis
-"Requires: Level 10 \n The N men rean blood flows through the veins of the pure and powerful warrior of Arthedain \n Arvedui reminds his men who they are, what they stand for, and what their inheritance is\n The selected battalion gains enormous strength and courage, permanently resistant to any kind of fear or terror and gaining 33% attack and defense \n Enemies are afraid of these mighty warriors and lose 20% armor and damage in the vicinity of the battalion \n Should the battalion be defeated, the last remaining soldier at the time of his death will let out a war cry, stunning all the enemies in the vicinity\n Left-click on the desired battalion"
+"Requires: Level 10 \n The Numenorean blood flows through the veins of the pure and powerful warrior of Arthedain \n Arvedui reminds his men who they are, what they stand for, and what their inheritance is\n The selected battalion gains enormous strength and courage, permanently resistant to any kind of fear or terror and gaining 33% attack and defense \n Enemies are afraid of these mighty warriors and lose 20% armor and damage in the vicinity of the battalion \n Should the battalion be defeated, the last remaining soldier at the time of his death will let out a war cry, stunning all the enemies in the vicinity\n Left-click on the desired battalion"
 END
 
 CONTROLBAR:ArveduiPalantirvonAnuminas
@@ -98978,7 +98978,7 @@ CONTROLBAR:ToolTipIsildurEidbrecher
 END
 
 CONTROLBAR:IsildurZornNumenors
-"N men rean Anger"
+"Numenorean Anger"
 END
 
 CONTROLBAR:ToolTipIsildurZornNumenors
@@ -103704,7 +103704,7 @@ CONTROLBAR:NumenorischerZauber
 END
 
 CONTROLBAR:ToolTipNumenorischerZauber
-"Requires Level 7 \n Merry attacks a selected enemy with his N men rean sword \n The powerful magic of the blade adds enormous damage to the selected enemy \n Especially effective against Nazg l \n Left-click on the target unit"
+"Requires Level 7 \n Merry attacks a selected enemy with his Numenorean sword \n The powerful magic of the blade adds enormous damage to the selected enemy \n Especially effective against Nazg l \n Left-click on the target unit"
 END
 
 CONTROLBAR:MerrydasFallenkleinerSteine
