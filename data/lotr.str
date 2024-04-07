@@ -447,7 +447,7 @@ CONTROLBAR:EasterlingKataphraktCharge
 END
 
 CONTROLBAR:TooltipEasterlingKataphraktCharge
-"Requires: Level 4 \n The Kataphrakts charge down the enemies of Rh n, gaining +25% speed and half the loss of speed when trampling; however, they lose -50% attack \n Left-click to activate"
+"Requires: Level 4 \n The Kataphrakts charge down the enemies of Rhun, gaining +25% speed and half the loss of speed when trampling; however, they lose -50% attack \n Left-click to activate"
 END
 
 CONTROLBAR:EasterlingGuardCharge
@@ -8783,7 +8783,7 @@ OBJECT:IsengardWildmanFackel
 END
 
 CONTROLBAR:RhunAusrustung
-"Armor of Rh n"
+"Armor of Rhun"
 END
 
 TOOLTIP:LackSeeleKnechten
@@ -8815,7 +8815,7 @@ CONTROLBAR:ToolTipPurchaseTechnologySeeleKnechten
 END
 
 CONTROLBAR:ToolTipPurchaseRhunAusrustung
-"Purchase Armor of Rh n \n Greatly increases the Defense"
+"Purchase Armor of Rhun \n Greatly increases the Defense"
 END
 
 CONTROLBAR:GondorAusrustung
@@ -9160,11 +9160,11 @@ CONTROLBAR:ToolTipSuladanMumakil
 END
 
 CONTROLBAR:ToolTipBuildEvilmenrhunreiterHordeInn
-"Heavily armed cavalry Rh n \n Strong vs: Archery and Sword Warrior"
+"Heavily armed cavalry Rhun \n Strong vs: Archery and Sword Warrior"
 END
 
 CONTROLBAR:ToolTipCommandSelectUpgradesMdOFactionInn
-"Supporting People \n Recruit the heroes and units of Harad, Umbar and Rh n"
+"Supporting People \n Recruit the heroes and units of Harad, Umbar and Rhun"
 END
 
 CONTROLBAR:DienerDolGuldurs
@@ -13286,7 +13286,7 @@ CONTROLBAR:LW_Unit_GondorOrkjagerHorde
 END
 
 OBJECT:Rhunreiter
-"Rh n Rider"
+"Rhun Rider"
 END
 
 OBJECT:HordeGondorOrkjager
@@ -18984,7 +18984,7 @@ OBJECT:LothlorienEreinion
 END
 
 CONTROLBAR:ToolTipCommandSelectRevivablesRhun
-"Recruits heroes of Rh n"
+"Recruits heroes of Rhun"
 END
 
 CONTROLBAR:ZaphragorReborn
@@ -19572,7 +19572,7 @@ CONTROLBAR:ConstructEvilmenKhandRiderHorde
 END
 
 CONTROLBAR:ToolTipBuildEvilmenKhandRiderHorde
-"Requires Rh n Barracks Level 3 \n Strong vs: Ranged"
+"Requires Rhun Barracks Level 3 \n Strong vs: Ranged"
 END
 
 TOOLTIP:LackScorpionGiftwolke
@@ -19588,7 +19588,7 @@ CONTROLBAR:ConstructEvilmenKhandSoldierHorde
 END
 
 CONTROLBAR:ToolTipBuildEvilmenKhandSoldierHorde
-"Scrappers from Khand \n Requires Rh n Barracks Level 2 \n Strong: Depending on the situation"
+"Scrappers from Khand \n Requires Rhun Barracks Level 2 \n Strong: Depending on the situation"
 END
 
 OBJECT:EvilmenKhandSoldierHorde
@@ -19728,7 +19728,7 @@ CONTROLBAR:PurchaseUpgradeEvilmenShield
 END
 
 TOOLTIP:LackEvilmenShield
-"Research the enhancement in the Rh n barracks to activate the equipment \n Reduces damage taken by arrows"
+"Research the enhancement in the Rhun barracks to activate the equipment \n Reduces damage taken by arrows"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeEvilmenShield
@@ -19740,7 +19740,7 @@ TOOLTIP:EvilmenShield
 END
 
 CONTROLBAR:ConstructEvilmenRhunArcherHorde
-"Rh n Archers"
+"Rhun Archers"
 END
 
 CONTROLBAR:LW_Unit_EvilmenHaradSwordHorde
@@ -19748,7 +19748,7 @@ CONTROLBAR:LW_Unit_EvilmenHaradSwordHorde
 END
 
 CONTROLBAR:LW_Unit_EvilmenRhunArcherHorde
-"Horde Rh n Archers"
+"Horde Rhun Archers"
 END
 
 CONTROLBAR:LW_ToolTipBuild_EvilmenRhunArcherHorde
@@ -19788,15 +19788,15 @@ CONTROLBAR:ToolTipBuildEvilmenRhunArcherHorde
 END
 
 OBJECT:EvilmenRhunArcherHorde
-"Rh n Archers"
+"Rhun Archers"
 END
 
 CONTROLBAR:LW_Unit_EvilmenRhunArcherHorde
-"Archers from Rh n"
+"Archers from Rhun"
 END
 
 OBJECT:EvilmenRhunArcher
-"Rh n Archers"
+"Rhun Archers"
 END
 
 CONTROLBAR:SuladanWustenblast
@@ -19884,43 +19884,43 @@ CONTROLBAR:ToolTipKlingenderKastellane
 END
 
 CONTROLBAR:ConstructEvilMenEasterlingBarracks
-"Build Rh n Barracks"
+"Build Rhun Barracks"
 END
 
 CONTROLBAR:ToolTipEvilMenEasterlingBarracks
-"Military Structure \n Recruits the Easterlings, the corrupted men of Rh n"
+"Military Structure \n Recruits the Easterlings, the corrupted men of Rhun"
 END
 
 CONTROLBAR:UpgradeEvilMenEasterlingBarracksLevel2
-"Upgrade Rh n barracks Level 2"
+"Upgrade Rhun barracks Level 2"
 END
 
 CONTROLBAR:TooltipUpgradeEvilMenEasterlingBarracksLevel2
-"Allows the training of Rh n Halberdiers \n +10% Training Speed"
+"Allows the training of Rhun Halberdiers \n +10% Training Speed"
 END
 
 CONTROLBAR:TooltipUpgradeEvilMenEasterlingBarracksLevel3
-"Allows the training of Riders from Rh n \n +25% Training Speed"
+"Allows the training of Riders from Rhun \n +25% Training Speed"
 END
 
 CONTROLBAR:UpgradeEvilMenEasterlingBarracksLevel3
-"Upgrade Rh n Barracks Level 3"
+"Upgrade Rhun Barracks Level 3"
 END
 
 UPGRADE:EvilMenEasterlingBarracksLevel2
-"Rh n Barracks Level 2"
+"Rhun Barracks Level 2"
 END
 
 UPGRADE:EvilMenEasterlingBarracksLevel3
-"Rh n Barracks Level 3"
+"Rhun Barracks Level 3"
 END
 
 OBJECT:EvilMenEasterlingBarracks
-"Rh n Barracks"
+"Rhun Barracks"
 END
 
 OBJECT:EvilMenEasterlingBarracksDescription
-"Military Structure \n Recruits the men from Rh n"
+"Military Structure \n Recruits the men from Rhun"
 END
 
 CONTROLBAR:ToolTipKhazahddumWachterHordeNew
@@ -21136,7 +21136,7 @@ UPGRADE:HauptquartierLevel3
 END
 
 OBJECT:RhunWagen
-"Chariots of Rh n"
+"Chariots of Rhun"
 END
 
 UPGRADE:Fortress Hornhelm
@@ -21196,7 +21196,7 @@ TOOLTIP:LackAngmarTrollHeavyArmor2
 END
 
 CONTROLBAR:ConstructEvilmenRhunWagen
-"Chariots of Rh n"
+"Chariots of Rhun"
 END
 
 CONTROLBAR:ToolTipBuildEvilmenRhunWagen
@@ -24546,15 +24546,15 @@ TOOLTIP:LackEvilmenPorter
 END
 
 CONTROLBAR:ToolTipBuildEvilmenrhunreiterHorde
-"Requires Rh n Barracks Level 3 \n Strong vs: Archery and Sword Warrior"
+"Requires Rhun Barracks Level 3 \n Strong vs: Archery and Sword Warrior"
 END
 
 CONTROLBAR:ConstructEvilmenrhunreiterHorde
-"Rh n &Rider"
+"Rhun &Rider"
 END
 
 CONTROLBAR:LW_Unit_EvilmenrhunreiterHorde
-"Rh n Rider"
+"Rhun Rider"
 END
 
 CONTROLBAR:ToolTipBuildMordorHaradrimRiderHordeMod
@@ -24562,15 +24562,15 @@ CONTROLBAR:ToolTipBuildMordorHaradrimRiderHordeMod
 END
 
 OBJECT:HordeEvilmenRhunrider
-"Rh n Rider"
+"Rhun Rider"
 END
 
 OBJECT:EvilmenRhunrider
-"Rh n Rider"
+"Rhun Rider"
 END
 
 CONTROLBAR:LW_Unit_EvilmenRhunriderHorde
-"Rh n Rider"
+"Rhun Rider"
 END
 
 CONTROLBAR:LW_ToolTip_EvilmenRhunriderHorde
@@ -24594,7 +24594,7 @@ CONTROLBAR:UpgradeMordorStallLevel2
 END
 
 CONTROLBAR:TooltipUpgradeMordorStallLevel2
-"Allows the training of Rh n-tabs \n +10% Training Speed"
+"Allows the training of Rhun-tabs \n +10% Training Speed"
 END
 
 CONTROLBAR:TooltipUpgradeMordorStallLevel3
@@ -24782,7 +24782,7 @@ CONTROLBAR:ToolTipBuildPalando
 END
 
 CONTROLBAR:ToolTipBuildAlatar
-"Recruit one of the blue wizards \n Magic: Air \n \n Lore: \n Alatar, also called Morinehtar was a Maia and an immortal Istar wizard. He travelled to Middle-earth in the Second Age with R mest mo (Pallando), and they became the Ithryn Luin, or "Blue Wizards". They travelled to the east of Arda, to countries in far eastern Middle-earth such as Rh n and Khand, where they were sent to stir up rebellions against those serving Sauron. In this, they were successful, and they later returned to Middle-earth in the Third Age and travelled East and South once again, but they never returned to the West after their journey with Saruman. It is possible that they became the founders of secret and magical cults, but their ultimate fate remains unknown."
+"Recruit one of the blue wizards \n Magic: Air \n \n Lore: \n Alatar, also called Morinehtar was a Maia and an immortal Istar wizard. He travelled to Middle-earth in the Second Age with R mest mo (Pallando), and they became the Ithryn Luin, or "Blue Wizards". They travelled to the east of Arda, to countries in far eastern Middle-earth such as Rhun and Khand, where they were sent to stir up rebellions against those serving Sauron. In this, they were successful, and they later returned to Middle-earth in the Third Age and travelled East and South once again, but they never returned to the West after their journey with Saruman. It is possible that they became the founders of secret and magical cults, but their ultimate fate remains unknown."
 END
 
 CONTROLBAR:ToolTipBuildGorbag
@@ -24946,11 +24946,11 @@ CONTROLBAR:ToolTipSpecialAbilityEisnebel
 END
 
 OBJECT:MordorEasterlingSword
-"Rh n Halberd Fighter"
+"Rhun Halberd Fighter"
 END
 
 CONTROLBAR:LW_Unit_MordorEasterlingSwordHorde
-"Rh n Halberd Fighters"
+"Rhun Halberd Fighters"
 END
 
 CONTROLBAR:LW_ToolTip_MordorEasterlingSwordHorde
@@ -24958,11 +24958,11 @@ CONTROLBAR:LW_ToolTip_MordorEasterlingSwordHorde
 END
 
 OBJECT:HordeMordorEasterlingSword
-"Rh n Halberd Fighters"
+"Rhun Halberd Fighters"
 END
 
 CONTROLBAR:ConstructMordorRhunSwordHorde
-"Rh n &Halberd Fighters"
+"Rhun &Halberd Fighters"
 END
 
 CONTROLBAR:ToolTipBuildMordorRhunSwordHorde
@@ -25204,7 +25204,7 @@ CONTROLBAR:LordOfRhun
 END
 
 CONTROLBAR:ToolTipLordOfRhun
-"Requires: Level 3 \n The knowledge of Kham l bygone stories and fighting techniques and passes it to his men continue \n Men from Umbar, Harad and Rh n get experience of Kham l \n Left click on the desired destination area"
+"Requires: Level 3 \n The knowledge of Kham l bygone stories and fighting techniques and passes it to his men continue \n Men from Umbar, Harad and Rhun get experience of Kham l \n Left click on the desired destination area"
 END
 
 CONTROLBAR:RingHunter
@@ -25480,7 +25480,7 @@ OBJECT:GasthausAlatar
 END
 
 CONTROLBAR:GasthausAlatarRecruit
-"Recruit one of the blue wizard \n Magic: Air \n \n Lore: \n Alatar, also called Morinehtar was a Maia and an immortal Istar wizard. He travelled to Middle-earth in the Second Age with R mest mo (Pallando), and they became the Ithryn Luin, or "Blue Wizards". They travelled to the east of Arda, to countries in far eastern Middle-earth such as Rh n and Khand, where they were sent to stir up rebellions against those serving Sauron. In this, they were successful, and they later returned to Middle-earth in the Third Age and travelled East and South once again, but they never returned to the West after their journey with Saruman. It is possible that they became the founders of secret and magical cults, but their ultimate fate remains unknown."
+"Recruit one of the blue wizard \n Magic: Air \n \n Lore: \n Alatar, also called Morinehtar was a Maia and an immortal Istar wizard. He travelled to Middle-earth in the Second Age with R mest mo (Pallando), and they became the Ithryn Luin, or "Blue Wizards". They travelled to the east of Arda, to countries in far eastern Middle-earth such as Rhun and Khand, where they were sent to stir up rebellions against those serving Sauron. In this, they were successful, and they later returned to Middle-earth in the Third Age and travelled East and South once again, but they never returned to the West after their journey with Saruman. It is possible that they became the founders of secret and magical cults, but their ultimate fate remains unknown."
 END
 
 CONTROLBAR:GasthausAlatarRevive
@@ -38025,7 +38025,7 @@ OBJECT:MordorTavern
 END
 
 OBJECT:MordorBarracks
-"Rh n Barracks"
+"Rhun Barracks"
 END
 
 OBJECT:IsengardDam
@@ -47388,7 +47388,7 @@ LW:DisplayNameRivendell
 END
 
 LW:DisplayNameRhun
-"Rh n"
+"Rhun"
 END
 
 LW:DisplayNameRohan
@@ -47948,7 +47948,7 @@ LWA:OathbreakersArmy
 END
 
 LWA:EasterlingsArmy
-"Soldiers of Rh n Army"
+"Soldiers of Rhun Army"
 END
 
 LWA:HaradrimArmy
@@ -50274,7 +50274,7 @@ Map:MAPSPSGOODNurn
 END
 
 Map:MAPSPSGOODRhun
-"Good: Rh n"
+"Good: Rhun"
 END
 
 Map:MAPSPSGOODRohan
@@ -62093,7 +62093,7 @@ CONTROLBAR:PurchaseMordorAufseher
 END
 
 CONTROLBAR:ToolTipRhunEquipment
-"Rh n Halberd Fighers are equipped with the best shields and weapons known to the Men of the East \n The possess greater attack and defence than their counterparts \n Their choice of weapons also makes them ideal for fighting cavalry, however not to the same extant as pikemen"
+"Rhun Halberd Fighers are equipped with the best shields and weapons known to the Men of the East \n The possess greater attack and defence than their counterparts \n Their choice of weapons also makes them ideal for fighting cavalry, however not to the same extant as pikemen"
 END
 
 CONTROLBAR:RhunEquipment
@@ -91767,7 +91767,7 @@ CONTROLBAR:ToolTipHelmHammerHandRage
 END
 
 CONTROLBAR:ToolTipHelmHammerHandRage2
-"Requires: Level 3 \n Helm Hammerhand unleashes a fury of strike against the enemies of Rohan, acquires double damage, 20% armor and resistance to knockback and magic. \n Left click to activate"
+"Requires: Level 2 \n Helm Hammerhand unleashes a fury of strike against the enemies of Rohan, acquires double damage, 20% armor and resistance to knockback and magic. \n Left click to activate"
 END
 
 CONTROLBAR:HelmHammerHandInfobox
@@ -103423,7 +103423,7 @@ CONTROLBAR:KhamulFlammenholle
 END
 
 CONTROLBAR:TooltipKhamulFlammenholle
-"The Lord of Rh n brings the power of his ring to destroy his enemies in a hellfire \n Opponents in the target area painfully burned and buildings are set on fire \n Left-click on the desired target area"
+"The Lord of Rhun brings the power of his ring to destroy his enemies in a hellfire \n Opponents in the target area painfully burned and buildings are set on fire \n Left-click on the desired target area"
 END
 
 CONTROLBAR:KhamulWaldunterderNachtschatten
