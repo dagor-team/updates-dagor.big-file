@@ -90512,6 +90512,15 @@ CONTROLBAR:MablungCaptianFavour
 "&Captain's Favor"
 END
 
+CONTROLBAR:SpecialAbilityMablungSpy
+"Mablangs Will"
+END
+
+CONTROLBAR:ToolTipSpecialAbilityMablungSpy
+"Requires: Level 10 \n Mablung selects an enemy as the target.\n The target is always visible and moves 50% slower. \n Mablung's allies move 30% faster when they are far away from the target.\n When they approach the target, they cause double damage instead.\n Left-click on the icon and then click on the target"
+END
+
+
 CONTROLBAR:ToolTipMablungCaptianFavour
 "Requires: Level 10 \n Mablung gives experience to allied troops.\n Left-click icon then left-click on target area"
 END

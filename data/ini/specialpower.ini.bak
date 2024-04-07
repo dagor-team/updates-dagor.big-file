@@ -3433,7 +3433,7 @@ SpecialPower SpecialAbilityWortedesZweifels
 	ReloadTime		= 260000
 End
 
-SpecialPower SpecialAbilityDieJagd
+SpecialPower SpecialAbilityDieJagd 
 	Enum		= SPECIAL_WOUND_ARROW
 	ReloadTime	= 450000
 	PublicTimer	= No
@@ -5303,9 +5303,12 @@ SpecialPower SpecialAbilityThingolLightHope
 End
 
 
-
-
-
+SpecialPower SpecialAbilityMablangAttachSpy
+	Enum		= SPECIAL_WOUND_ARROW
+	ReloadTime	= 450000
+	PublicTimer	= No
+	ObjectFilter    = CREATE_A_HERO_SPY_OBJECT_FILTER
+End
 
 SpecialPower SpecialAbilityMablungGraceofMerethAderthad
     Enum			  = SPECIAL_WOUND_ARROW
@@ -5313,16 +5316,10 @@ SpecialPower SpecialAbilityMablungGraceofMerethAderthad
     ObjectFilter    		  = ANY +INFANTRY +CAVALRY -HERO -STRUCTURE -DOZER -MACHINE -MONSTER ALLIES
 End
 
-
 SpecialPower SpecialAbilityMablungEpesse
     Enum              		  = SPECIAL_HERO_MODE
     ReloadTime        		  = 720000
 End
-
-
-
-
-
 
 SpecialPower SpecialAbilityOlweFlooding
     Enum                        = SPECIAL_SPELL_BOOK_BOMBARD

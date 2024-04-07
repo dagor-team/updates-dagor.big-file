@@ -2902,7 +2902,7 @@ ExperienceLevel    Good_CheapChampon_Infantry_Level6
     TargetNames                       =    GOOD_CHEAP_CHAMPION
     RequiredExperience                =    EXPERIENCE_REQUIRED_CHEAP_CHAMPION_HORDE_6
     ExperienceAward                   =    EXPERIENCE_AWARD_CHEAP_CHAMPION_HORDE_6
-    Rank                              =    1
+    Rank                              =    6
     Upgrades                          =    Upgrade_ObjectLevel6 Upgrade_MiniHordeLvl6 Upgrade_EliteHordeLvl6
     SelectionDecal
         Texture               =    decal_G_level4
@@ -2920,7 +2920,7 @@ ExperienceLevel    Good_CheapChampon_InfantryLevel7
     TargetNames                       =    GOOD_CHEAP_CHAMPION
     RequiredExperience                =    EXPERIENCE_REQUIRED_CHEAP_CHAMPION_HORDE_7
     ExperienceAward                   =    EXPERIENCE_AWARD_CHEAP_CHAMPION_HORDE_7
-    Rank                              =    2
+    Rank                              =    7
     Upgrades                          =    Upgrade_ObjectLevel7 Upgrade_MiniHordeLvl7 Upgrade_EliteHordeLvl7
     AttributeModifiers                =    CheapChamponHordeBonusRank7
     LevelUpFx                         =    FX:GandalfLevelUp1FX
@@ -2947,7 +2947,7 @@ ExperienceLevel    Good_CheapChampon_InfantryLevel8
     TargetNames                       =    GOOD_CHEAP_CHAMPION
     RequiredExperience                =    EXPERIENCE_REQUIRED_CHEAP_CHAMPION_HORDE_8
     ExperienceAward                   =    EXPERIENCE_AWARD_CHEAP_CHAMPION_HORDE_8
-    Rank                              =    3
+    Rank                              =    8
     Upgrades                          =    Upgrade_ObjectLevel8 Upgrade_MiniHordeLvl8 Upgrade_EliteHordeLvl8
     AttributeModifiers                =    CheapChamponHordeBonusRank8
     LevelUpFx                         =    FX:GandalfLevelUp1FX
@@ -2972,7 +2972,7 @@ ExperienceLevel    Good_CheapChampon_InfantryLevel9
     TargetNames                       =    GOOD_CHEAP_CHAMPION
     RequiredExperience                =    EXPERIENCE_REQUIRED_CHEAP_CHAMPION_HORDE_9
     ExperienceAward                   =    EXPERIENCE_AWARD_CHEAP_CHAMPION_HORDE_9
-    Rank                              =    4
+    Rank                              =    9
     Upgrades                          =    Upgrade_ObjectLevel9 Upgrade_MiniHordeLvl9 Upgrade_EliteHordeLvl9
     AttributeModifiers                =    CheapChamponHordeBonusRank9
     LevelUpFx                         =    FX:GandalfLevelUp1FX
@@ -2997,7 +2997,7 @@ ExperienceLevel    Good_CheapChampon_InfantryLevel10
     TargetNames                       =    GOOD_CHEAP_CHAMPION
     RequiredExperience                =    EXPERIENCE_REQUIRED_CHEAP_CHAMPION_HORDE_10
     ExperienceAward                   =    EXPERIENCE_AWARD_CHEAP_CHAMPION_HORDE_10
-    Rank                              =    5
+    Rank                              =    10
     Upgrades                          =    Upgrade_ObjectLevel10 Upgrade_MiniHordeLvl10 Upgrade_EliteHordeLvl10
     AttributeModifiers                =    CheapChamponHordeBonusRank10
     LevelUpFx                         =    FX:GandalfLevelUp1FX
