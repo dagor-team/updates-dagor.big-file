@@ -773,7 +773,7 @@ CONTROLBAR:SpecialAbilityNarinDainsBote
 END
 
 CONTROLBAR:ToolTipSpecialAbilityNarinDainsBote
-"Narin gains +35% speed.\n Additionally, nearby Heroes and ram riders gain +25% armor and gather experience 50% faster. \n The effect persists for 30 seconds after Narin leaves their vicinity. \n Left-click to activate"
+"Nearby Heroes and ram riders gain +25% armor and gather experience 50% faster. \n The effect persists for 30 seconds after Narin leaves their vicinity. \n Left-click to activate"
 END
 
 CONTROLBAR:SpecialAbilityNarinKampfbefehl
@@ -4113,7 +4113,7 @@ CONTROLBAR:SpecialAbilityWortderStille
 END
 
 CONTROLBAR:ToolTipSpecialAbilityWortderStille
-"Requires: Level 5 \n Durin speaks a Word of Silence.\n Enemy units within a wide area become afraid while enemy Heroes will be stunned for a short period of time.\n Allied units are slowly healed and battalions rank up a level. \n Enemy buildings within a wide area cannot be used for 30 seconds. \n Left-click to activate"
+"Requires: Level 10 \n Durin speaks a Word of Silence.\n Enemy units within a wide area become afraid while enemy Heroes will be stunned for a short period of time.\n Allied units are slowly healed and battalions rank up a level. \n Enemy buildings within a wide area cannot be used for 30 seconds. \n Left-click to activate"
 END
 
 CONTROLBAR:GlanzderNoldor
@@ -15724,7 +15724,7 @@ CONTROLBAR:UrvaterderZwerge
 END
 
 CONTROLBAR:ToolTipUrvaterderZwerge
-"Requires: Level 7 \n As the first of the seven legendary dwarf fathers, Durin is revered among all dwarves, serving as a source of inspiration to all. \n Dwarven heroes near Durin gain double Armor. \n Passive ability"
+"Requires: Level 5 \n As the first of the seven legendary dwarf fathers, Durin is revered among all dwarves, serving as a source of inspiration to all. \n Dwarven heroes near Durin gain double Armor. \n Passive ability"
 END
 
 CONTROLBAR:SpecialAbilityAulesSchmiedefeuer
@@ -15732,7 +15732,7 @@ CONTROLBAR:SpecialAbilityAulesSchmiedefeuer
 END
 
 CONTROLBAR:ToolTipSpecialAbilityAulesSchmiedefeuer
-"Requires: Level 10 \n Durin the Deathless calls his creator Mahal, the Valar Aule , to help.\n This can merge the ground of Middle-earth by his forge in flames \n Left-click to activate"
+"Requires: Level 7 \n Durin the Deathless calls his creator Mahal, the Valar Aule, to help.\n This can merge the ground of Middle-earth by his forge in flames \n Left-click to activate"
 END
 
 CONTROLBAR:SpellBookZwergeStructureDecrease
@@ -94320,6 +94320,14 @@ END
 
 CONTROLBAR:ToolTipNogrodSmiteKnowledge
 "Requires: Level 4 \n The Blacksmith of Nogrod gives experience to allied units \n Left-click on icon then left-click on allied units"
+END
+
+CONTROLBAR:NogrodSmiteWeaponcraftsman
+"Weaponcraftsman"
+END
+
+CONTROLBAR:ToolTipNogrodSmiteWeaponcraftsman
+"Requires: Level 5 \n The Blacksmith of Nogrod gives the dwarves of Belegost expertly crafted weapon increasing their damage output during battle. \n Left-click on icon then left-click on allied units"
 END
 
 CONTROLBAR:NogrodSmiteReconstruction

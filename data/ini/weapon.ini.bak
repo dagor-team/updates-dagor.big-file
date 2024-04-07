@@ -77080,7 +77080,7 @@ Weapon LurtzStunBowWarhead2
     End
 
     AttributeModifierNugget
-        AttributeModifier        = CrippleNew
+        AttributeModifier        = LurtzCripplingStrik3
         DamageFXType             = EVIL_ARROW_PIERCE
         SpecialObjectFilter      = CRIPPLE_STRIKE_OBJECT_FILTER
     End
