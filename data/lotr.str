@@ -109763,7 +109763,7 @@ CONTROLBAR:ToolTipPurchaseArnorBattalionCaptains
 END
 
 TOOLTIP:LackArnorBattalionCaptains
-"Requires: Captain has been researched and Heavy Armor, Forged Blades, and Banner Carrier have been purchased for this battalion.\n Upgrades this battalion with a Captain\n Improves the effects of the battle formation for the battalion."
+"Requires: Captain has been researched and the horde needs to be level 2.\n Upgrades this battalion with a Captain\n Improves the effects of the battle formation for the battalion."
 END
 
 OBJECT:ArnorFighterCaptainComboHorde
