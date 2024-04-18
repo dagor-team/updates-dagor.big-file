@@ -989,3 +989,14 @@ CommandButton Command_ConstructHaradSouthWatcherHorde
     ShowProductionCount     = Yes 
     DisableOnModelCondition = USER_74
 End
+
+CommandButton Command_PorterConstructEvilMenMarketPlace
+    Command                = DOZER_CONSTRUCT
+    Object                = EvilMenMarketplace
+    TextLabel            = CONTROLBAR:ConstructMenMarketPlace
+    ButtonImage            = BGMarketplace
+    ButtonBorderType    = BUILD
+    DescriptLabel        = CONTROLBAR:ToolTipConstructMenMarketPlace
+    Radial                = Yes
+
+End
