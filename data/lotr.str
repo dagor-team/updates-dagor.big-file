@@ -2157,7 +2157,7 @@ CONTROLBAR:ToolTipZugriffDolGuldurs_Neu
 END
 
 CONTROLBAR:ToolTipWitchkingFurstvonMinasMorgul_Neu
-"Requires: Level 4 \n The Witch-king drives his Nazg l and troops to find the Ruling Ring of Sauron \n Ringwraiths close to him are 25% faster, cause 25% more damage and have 50% greater visibility \n The imposing aura also affects himself \n Witch-king, Khamul and Dark Marshal grant each of their respective orcs 50% armor once they get their insignias \n Passive ability"
+"Requires: Level 4 \n The Witch-king drives his Nazgul and troops to find the Ruling Ring of Sauron \n Ringwraiths close to him are 25% faster, cause 25% more damage and have 50% greater visibility \n The imposing aura also affects himself \n Witch-king, Khamul and Dark Marshal grant each of their respective orcs 50% armor once they get their insignias \n Passive ability"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityMouthOfSauronEvilEye_Neu
@@ -2205,7 +2205,7 @@ CONTROLBAR:ToolTipHourOfTheWitchKing_Neu
 END
 
 CONTROLBAR:ToolTipWitchkingRingjager_Neu
-"Requires: Level 4 \n The Witch-king drives his Nazg l and troops to find the Ruling Ring of Sauron \n Ringwraiths close to him are 25% faster, cause 25% more damage and have 50% greater visibility \n Allied troops in his vicinity also receive +25% attack and defense \n The imposing aura also affects himself \n Passive ability"
+"Requires: Level 4 \n The Witch-king drives his Nazgul and troops to find the Ruling Ring of Sauron \n Ringwraiths close to him are 25% faster, cause 25% more damage and have 50% greater visibility \n Allied troops in his vicinity also receive +25% attack and defense \n The imposing aura also affects himself \n Passive ability"
 END
 
 CONTROLBAR:ToolTipKhamulVerderbnis_Neu
@@ -2297,7 +2297,7 @@ CONTROLBAR:ToolTipSpecialAbilityScreechDunklerMarschallNeu
 END
 
 CONTROLBAR:ToolTipSpecialAbilitySchwarzerAnhauchNeu
-"Requires: Level 10 \n The black tinge of the Nazg l tugs at the lives of their enemies \n As long as the ability is active, any enemy units that are located in their vicinity become poisoned\n Left-click to activate"
+"Requires: Level 10 \n The black tinge of the Nazgul tugs at the lives of their enemies \n As long as the ability is active, any enemy units that are located in their vicinity become poisoned\n Left-click to activate"
 END
 
 CONTROLBAR:ToolTipTodesbanndesSchattenfurstenNeu
@@ -2441,7 +2441,7 @@ CONTROLBAR:PurchaseUpgradeRobeSchattenfurst
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeRobeSchattenfurst
-"Requires Level 5 or Sauron with the Silmaril \n The Nazg l is instructed to destroy the enemies of Mordor on the field as its darkest self \n He receives a robe covered with Morgul inscriptions, flowing him with magic \n As the Shadow Prince, he becomes incredibly strong with new capabilities and higher base stats \n If the Shadow Prince falls in battle, the robe is destroyed, but can be made anew"
+"Requires Level 5 or Sauron with the Silmaril \n The Nazgul is instructed to destroy the enemies of Mordor on the field as its darkest self \n He receives a robe covered with Morgul inscriptions, flowing him with magic \n As the Shadow Prince, he becomes incredibly strong with new capabilities and higher base stats \n If the Shadow Prince falls in battle, the robe is destroyed, but can be made anew"
 END
 
 CONTROLBAR:PurchaseUpgradeSchlachtrustungMarshall
@@ -2449,7 +2449,7 @@ CONTROLBAR:PurchaseUpgradeSchlachtrustungMarshall
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeSchlachtrustungMarshall
-"Requires Level 5 or Sauron with the Silmaril \n The Nazg l is appointed to lead the forces of Mordor on the field as its darkest self \n He receives a powerful suit of armor from the forges of Barad-dur \n As the Dark Marshal, he becomes incredibly strong with new capabilities and higher base stats \n If the Dark Marshal falls in battle, the armor is destroyed, but can be reforged anew"
+"Requires Level 5 or Sauron with the Silmaril \n The Nazgul is appointed to lead the forces of Mordor on the field as its darkest self \n He receives a powerful suit of armor from the forges of Barad-dur \n As the Dark Marshal, he becomes incredibly strong with new capabilities and higher base stats \n If the Dark Marshal falls in battle, the armor is destroyed, but can be reforged anew"
 END
 
 CONTROLBAR:WildGroﬂorkRecruit_Neu
@@ -3813,7 +3813,7 @@ CONTROLBAR:ToolTipMordorAufseherInfoBox_ComboHorde
 END
 
 CONTROLBAR:ToolTipNazgulJagdnachRingFoot
-"Requires: Level 7 \n The Nazg l move out \n For a time they receive +40% Visibility, +20% Speed, and sense the Ring at a greater distance \n They feel the Ring when it is nearby \n Left-click to activate"
+"Requires: Level 7 \n The Nazgul move out \n For a time they receive +40% Visibility, +20% Speed, and sense the Ring at a greater distance \n They feel the Ring when it is nearby \n Left-click to activate"
 END
 
 TOOLTIP:OriMacht
@@ -3861,7 +3861,7 @@ TOOLTIP:HerzdesFeuers
 END
 
 CONTROLBAR:MordorNazgulHorde
-"Hero Battalion \n Recruit 5 Nazg l on foot"
+"Hero Battalion \n Recruit 5 Nazgul on foot"
 END
 
 CONTROLBAR:MordorBlackRiderHordeNeu
@@ -3941,11 +3941,11 @@ CONTROLBAR:ToolTipKankraSpinneneier
 END
 
 OBJECT:AngmarNazgulHorde
-"Nazg l"
+"Nazgul"
 END
 
 CONTROLBAR:LW_Unit_AngmarNazgulHorde
-"Nazg l"
+"Nazgul"
 END
 
 CONTROLBAR:LW_ToolTip_AngmarNazgulHorde
@@ -3953,7 +3953,7 @@ CONTROLBAR:LW_ToolTip_AngmarNazgulHorde
 END
 
 OBJECT:AngmarNazgul
-"Nazg l"
+"Nazgul"
 END
 
 CONTROLBAR:AngmarKaltdrachen
@@ -3965,11 +3965,11 @@ CONTROLBAR:TooltipAngmarKaltdrachen
 END
 
 CONTROLBAR:ToolTipBlackRiderMorgulBladeAngmarNazgul
-"The Nazg l deals medium damage to the targeted enemy and poisons them \n Upon death the unit becomes a Lesser Wraith, and is invisible to enemy units, unable to attack or be attacked \n Left click on the target"
+"The Nazgul deals medium damage to the targeted enemy and poisons them \n Upon death the unit becomes a Lesser Wraith, and is invisible to enemy units, unable to attack or be attacked \n Left click on the target"
 END
 
 CONTROLBAR:TooltipScreechAngmarNazgul
-"The horrible screeching of the Nazg l causes enemy units to flee in terror \n Left-click to activate"
+"The horrible screeching of the Nazgul causes enemy units to flee in terror \n Left-click to activate"
 END
 
 CONTROLBAR:ToolTipAngesichtDreadVisageAngmarNazgul
@@ -6790,7 +6790,7 @@ CONTROLBAR:ToolTipSpecialAbilityLutzVerkleiden
 END
 
 CONTROLBAR:LutzGasthausVerrater
-"Traitors of the Nazg l"
+"Traitors of the Nazgul"
 END
 
 CONTROLBAR:ToolTipLutzGasthausVerrater
@@ -7391,7 +7391,7 @@ OBJECT:ImladrisGildor
 END
 
 CONTROLBAR:ImladrisGildorRecruit
-"Recruit Gildor Inglorion, the border guards of Imladris \n \n Lore: \n Gildor Inglorion was a  Noldor Elf met by Frodo Baggins on the edge of the Shire, at the beginning of Frodo's venture out of his home. On September 24, 3018, Gildor and a company of Elves were passing through the Shire, singing as they walked, and without realizing it they caused a Nazg l who was seeking Frodo to flee. Gildor recognized Frodo, though they had never met, for he knew Bilbo. He invited Frodo, along with Sam Gamgee and Pippin Took, to spend the night in the Elves' company. To the 3 Hobbits, Gildor and the Elves appeared to shimmer as they walked through the night. The starlight glimmered in their hair and eyes. They camped in a clearing in the Woody End near Woodhall and the elves provided the Hobbits with bread and fruit and a fragrant drink. Frodo stayed up late talking to Gildor. They talked of the many dangers that the Hobbits might soon face. Frodo had greeted Gildor by saying, "Elen s la l menn' omentielvo" (A star shines upon the hour of our meeting) impressed with his knowledge of the ancient tongue and lore he commended Frodo and named him Elf-friend. Gildor perceived that the Enemy was seeking for Frodo, though he did not know why. He was reluctant to give Frodo any advice in Gandalf's absence."
+"Recruit Gildor Inglorion, the border guards of Imladris \n \n Lore: \n Gildor Inglorion was a  Noldor Elf met by Frodo Baggins on the edge of the Shire, at the beginning of Frodo's venture out of his home. On September 24, 3018, Gildor and a company of Elves were passing through the Shire, singing as they walked, and without realizing it they caused a Nazgul who was seeking Frodo to flee. Gildor recognized Frodo, though they had never met, for he knew Bilbo. He invited Frodo, along with Sam Gamgee and Pippin Took, to spend the night in the Elves' company. To the 3 Hobbits, Gildor and the Elves appeared to shimmer as they walked through the night. The starlight glimmered in their hair and eyes. They camped in a clearing in the Woody End near Woodhall and the elves provided the Hobbits with bread and fruit and a fragrant drink. Frodo stayed up late talking to Gildor. They talked of the many dangers that the Hobbits might soon face. Frodo had greeted Gildor by saying, "Elen s la l menn' omentielvo" (A star shines upon the hour of our meeting) impressed with his knowledge of the ancient tongue and lore he commended Frodo and named him Elf-friend. Gildor perceived that the Enemy was seeking for Frodo, though he did not know why. He was reluctant to give Frodo any advice in Gandalf's absence."
 END
 
 CONTROLBAR:ImladrisGildorRevive
@@ -9256,7 +9256,7 @@ CONTROLBAR:ToolTipAuradesVerfalls
 END
 
 CONTROLBAR:DrohungderNazgul
-"Peril of the Nazg l"
+"Peril of the Nazgul"
 END
 
 CONTROLBAR:ToolTipDrohungderNazgul
@@ -9276,7 +9276,7 @@ CONTROLBAR:SpecialAbilitySchwarzerAnhauch
 END
 
 CONTROLBAR:ToolTipSpecialAbilitySchwarzerAnhauch
-"Requires: Level 10 \n The black breath of the Nazg l pulls on the lives of their enemies \n As long as the ability is active, any enemy units that are located in their vicinity \n Enable poisoned with left click"
+"Requires: Level 10 \n The black breath of the Nazgul pulls on the lives of their enemies \n As long as the ability is active, any enemy units that are located in their vicinity \n Enable poisoned with left click"
 END
 
 CONTROLBAR:TodesbanndesSchattenfursten
@@ -9292,7 +9292,7 @@ CONTROLBAR:SpecialAbilityScreechDunklerMarschall
 END
 
 CONTROLBAR:ToolTipSpecialAbilityScreechDunklerMarschall
-"Requires: Level 4 \n The horrible screeching of the Nazg l causes enemy units to flee in terror \n Left-click to activate"
+"Requires: Level 4 \n The horrible screeching of the Nazgul causes enemy units to flee in terror \n Left-click to activate"
 END
 
 CONTROLBAR:ToolTipBlackRiderMorgulBlade_Ringjager
@@ -9312,7 +9312,7 @@ CONTROLBAR:ToolTipSchattenfurstMorgulBlade
 END
 
 CONTROLBAR:ToolTipAngesichtDreadVisage_Schattenfurst
-"Nearby enemies lose all leadership bonuses as well as 10% damage and armor. \n The nearer they are the less damage they deal up to 50% if they are standing directly infront of him. \n For each additional Nazg l in the area, the damage and armor lost increases by 5% \n Passive ability"
+"Nearby enemies lose all leadership bonuses as well as 10% damage and armor. \n The nearer they are the less damage they deal up to 50% if they are standing directly infront of him. \n For each additional Nazgul in the area, the damage and armor lost increases by 5% \n Passive ability"
 END
 
 CONTROLBAR:TogglePalantir1_MOS
@@ -10908,15 +10908,15 @@ CONTROLBAR:ToolTipCommandSelectRevivablesForMinasMorgul
 END
 
 CONTROLBAR:TooltipSpecialAbilityToggleRingjagerForMinasMorgul
-"The Nazg l accepts the will of his master to be appointed a ring hunter \n It is now possible to channel new magic to climb on his winged beast and \n feel the One Ring in the vicinity \n Left click to activate"
+"The Nazgul accepts the will of his master to be appointed a ring hunter \n It is now possible to channel new magic to climb on his winged beast and \n feel the One Ring in the vicinity \n Left click to activate"
 END
 
 CONTROLBAR:TooltipSpecialAbilityToggleEnthuellungForMinasMorgul
-"The Nazg l reveals its true form and becomes the Dark Marshal \n It now unlocks new and enhanced abilities whilst increasing its armor and damage enormously \n Left click to activate"
+"The Nazgul reveals its true form and becomes the Dark Marshal \n It now unlocks new and enhanced abilities whilst increasing its armor and damage enormously \n Left click to activate"
 END
 
 CONTROLBAR:TooltipSpecialAbilityToggleEnthuellung2ForMinasMorgul
-"The Nazg l reveals its true form and becomes a shadow prince, \n embracing unforseen power and skills \n Its armor and attack are substantially increased \n Left click to activate"
+"The Nazgul reveals its true form and becomes a shadow prince, \n embracing unforseen power and skills \n Its armor and attack are substantially increased \n Left click to activate"
 END
 
 CONTROLBAR:TooltipToggleMountedKhamulSauronsDienerForMinasMorgul
@@ -13294,7 +13294,7 @@ OBJECT:HordeGondorOrkjager
 END
 
 OBJECT:NazgulRingjager
-"Nazg l \n Ring Hunter"
+"Nazgul \n Ring Hunter"
 END
 
 CONTROLBAR:TooltipDunedainStreicherBladeMaster
@@ -13302,7 +13302,7 @@ CONTROLBAR:TooltipDunedainStreicherBladeMaster
 END
 
 CONTROLBAR:NazgulRingjagerHotkey
-"Nazg l& \n Ring Hunter"
+"Nazgul& \n Ring Hunter"
 END
 
 CONTROLBAR:ToolTipElendilDunedainStreicher
@@ -13326,19 +13326,19 @@ CONTROLBAR:NazgulSchattenfurstHotkey
 END
 
 CONTROLBAR:ConstructMordorNazgulBaradDur1
-"Nazg l"
+"Nazgul"
 END
 
 CONTROLBAR:ConstructMordorNazgulBaradDur2
-"Nazg l"
+"Nazgul"
 END
 
 CONTROLBAR:ToolTipMordorNazgulBaradDur1
-"Recruit one of the Ringwraiths \n While all Ringwraiths generate their own power, they are tied to the mercy of the Dark Lord \n As Sauron grows in strength, the Nazg l will be able to fully embrace his darkness, unlocking their truest and darkest selves \n True shape Dark Marshal \n \n Lore: \n The Nazg l (also known as Ringwraiths, The 9, The Fallen Kings, Black Riders, Nunbolg, or Ulairi in Quenya) were the dreaded ring-servants of the Dark Lord SauroNain Middle-earth throughout the Second and Third ages, who in the later years of the Third Age dwelt in Minas Morgul and Dol Guldur."
+"Recruit one of the Ringwraiths \n While all Ringwraiths generate their own power, they are tied to the mercy of the Dark Lord \n As Sauron grows in strength, the Nazgul will be able to fully embrace his darkness, unlocking their truest and darkest selves \n True shape Dark Marshal \n \n Lore: \n The Nazgul (also known as Ringwraiths, The 9, The Fallen Kings, Black Riders, Nunbolg, or Ulairi in Quenya) were the dreaded ring-servants of the Dark Lord Sauron in Middle-earth throughout the Second and Third ages, who in the later years of the Third Age dwelt in Minas Morgul and Dol Guldur."
 END
 
 CONTROLBAR:ToolTipMordorNazgulBaradDur2
-"Recruit one of the Ringwraiths \n While all Ringwraiths generate their own power, they are tied to the mercy of the Dark Lord \n As Sauron grows in strength, the Nazg l will be able to fully embrace his darkness, unlocking their truest and darkest selves \n True shape: Shadow Prince \n \n Lore: \n The Nazg l (also known as Ringwraiths, The 9, The Fallen Kings, Black Riders, Nunbolg, or Ulairi in Quenya) were the dreaded ring-servants of the Dark Lord SauroNain Middle-earth throughout the Second and Third ages, who in the later years of the Third Age dwelt in Minas Morgul and Dol Guldur."
+"Recruit one of the Ringwraiths \n While all Ringwraiths generate their own power, they are tied to the mercy of the Dark Lord \n As Sauron grows in strength, the Nazgul will be able to fully embrace his darkness, unlocking their truest and darkest selves \n True shape: Shadow Prince \n \n Lore: \n The Nazgul (also known as Ringwraiths, The 9, The Fallen Kings, Black Riders, Nunbolg, or Ulairi in Quenya) were the dreaded ring-servants of the Dark Lord Sauron in Middle-earth throughout the Second and Third ages, who in the later years of the Third Age dwelt in Minas Morgul and Dol Guldur."
 END
 
 OBJECT:DunklerMarshall
@@ -13362,7 +13362,7 @@ CONTROLBAR:SpecialAbilityToggleRingjager
 END
 
 CONTROLBAR:TooltipSpecialAbilityToggleRingjager
-"Requires Level 5 or Sauron with the Silmaril \n The Nazg l is appointed from his master to a Ring Hunter \n It now has the strength to work new magic, climb on his winged beast, and feel the presence of the Ring \n Left-click to enable"
+"Requires Level 5 or Sauron with the Silmaril \n The Nazgul is appointed from his master to a Ring Hunter \n It now has the strength to work new magic, climb on his winged beast, and feel the presence of the Ring \n Left-click to enable"
 END
 
 CONTROLBAR:SpecialAbilityToggleEnthuellung
@@ -13370,11 +13370,11 @@ CONTROLBAR:SpecialAbilityToggleEnthuellung
 END
 
 CONTROLBAR:TooltipSpecialAbilityToggleEnthuellung
-"Requires: Tower of Minas Morgul \n The Nazg l reveals its true form and becomes a dark Marshall \n New and improved capabilities are now available for selection \n armor and damage values increase enormously \n Left click to activate"
+"Requires: Tower of Minas Morgul \n The Nazgul reveals its true form and becomes a dark Marshall \n New and improved capabilities are now available for selection \n armor and damage values increase enormously \n Left click to activate"
 END
 
 CONTROLBAR:TooltipSpecialAbilityToggleEnthuellung2
-"Requires: Tower of Minas Morgul \n The Nazg l reveals its true form and becomes a shadow prince \n New and improved capabilities can now choose s armor and damage values increase huge \n Left click to activate"
+"Requires: Tower of Minas Morgul \n The Nazgul reveals its true form and becomes a shadow prince \n New and improved capabilities can now choose s armor and damage values increase huge \n Left click to activate"
 END
 
 CONTROLBAR:ToolTipSalemeGiftfalleDetonate
@@ -14082,7 +14082,7 @@ CONTROLBAR:SpecialAbilityNachrichtandendunklenHerrscher
 END
 
 CONTROLBAR:ToolTipSpecialAbilityNachrichtandendunklenHerrscher
-"Requires: Level 10 \n Grishn kh sends the message to Mordor that the Ring-bearer is close \n Sauron briefly sends one Nazg l on his winged beast to help the orcs in their task \n It will take a while until the Nazg l arrives\n Left-click on the desired destination area"
+"Requires: Level 10 \n Grishn kh sends the message to Mordor that the Ring-bearer is close \n Sauron briefly sends one Nazgul on his winged beast to help the orcs in their task \n It will take a while until the Nazgul arrives\n Left-click on the desired destination area"
 END
 
 CONTROLBAR:SelectRevivablesWeaponTrollCage
@@ -14803,11 +14803,11 @@ CONTROLBAR:TooltipWaffenderNoldorPassiv
 END
 
 CONTROLBAR:GaladrielRecruitNachRing
-"Recruit the Lady of Light \n Silmaril Hero \n Silmaril function: Galadriel rejects the Silmaril, becoming the Lady of Light \n \n Lore: \n Galadriel was the co-ruler and Lady of Lothlorien alongside her husband, Lord Celeborn - however, neither of them took royal titles, as they only saw themselves as the Guardians of The Golden Wood. She was the only daughter and youngest child of Finarfin, prince of the  Noldor and of Earwen, whose cousin was L thien. Her elder brothers were Finrod Felagund, Orodreth, Angrod, and Aegnor. Galadriel was a niece of Feanor, one of the most important elves of the First Age. She was one of the greatest of the Eldar in Middle-earth, and surpassed nearly all others in beauty, knowledge, and power. She was also the bearer of Nenya, one of the 3 Elven rings of power. Tolkien thought of her, along with Gil-galad the Elven-king, as one of the mightiest and fairest of all the Elves left in Middle-earth."
+"Recruit the Lady of Light \n Silmaril Hero \n Silmaril function: Galadriel rejects the Silmaril, becoming the Lady of Light \n \n Lore: \n Galadriel was the co-ruler and Lady of Lothlorien alongside her husband, Lord Celeborn - however, neither of them took royal titles, as they only saw themselves as the Guardians of The Golden Wood. She was the only daughter and youngest child of Finarfin, prince of the  Noldor and of Earwen, whose cousin was Luthien. Her elder brothers were Finrod Felagund, Orodreth, Angrod, and Aegnor. Galadriel was a niece of Feanor, one of the most important elves of the First Age. She was one of the greatest of the Eldar in Middle-earth, and surpassed nearly all others in beauty, knowledge, and power. She was also the bearer of Nenya, one of the 3 Elven rings of power. Tolkien thought of her, along with Gil-galad the Elven-king, as one of the mightiest and fairest of all the Elves left in Middle-earth."
 END
 
 CONTROLBAR:GaladrielRecruitOhneRing
-"Recruit the Lady of Light \n Silmaril Hero \n Silmaril function: Galadriel takes the Silmaril for herself, becoming Dark Queen \n \n Lore: \n Galadriel was the co-ruler and Lady of Lothlorien alongside her husband, Lord Celeborn - however, neither of them took royal titles, as they only saw themselves as the Guardians of The Golden Wood. She was the only daughter and youngest child of Finarfin, prince of the  Noldor and of Earwen, whose cousin was L thien. Her elder brothers were Finrod Felagund, Orodreth, Angrod, and Aegnor. Galadriel was a niece of Feanor, one of the most important elves of the First Age. She was one of the greatest of the Eldar in Middle-earth, and surpassed nearly all others in beauty, knowledge, and power. She was also the bearer of Nenya, one of the 3 Elven rings of power. Tolkien thought of her, along with Gil-galad the Elven-king, as one of the mightiest and fairest of all the Elves left in Middle-earth."
+"Recruit the Lady of Light \n Silmaril Hero \n Silmaril function: Galadriel takes the Silmaril for herself, becoming Dark Queen \n \n Lore: \n Galadriel was the co-ruler and Lady of Lothlorien alongside her husband, Lord Celeborn - however, neither of them took royal titles, as they only saw themselves as the Guardians of The Golden Wood. She was the only daughter and youngest child of Finarfin, prince of the  Noldor and of Earwen, whose cousin was Luthien. Her elder brothers were Finrod Felagund, Orodreth, Angrod, and Aegnor. Galadriel was a niece of Feanor, one of the most important elves of the First Age. She was one of the greatest of the Eldar in Middle-earth, and surpassed nearly all others in beauty, knowledge, and power. She was also the bearer of Nenya, one of the 3 Elven rings of power. Tolkien thought of her, along with Gil-galad the Elven-king, as one of the mightiest and fairest of all the Elves left in Middle-earth."
 END
 
 OBJECT:ElvenGaladrielOhneRing
@@ -15889,6 +15889,14 @@ END
 
 CONTROLBAR:SpecialAbilitySchatzeMorias
 "Treasures of Moria"
+END
+
+CONTROLBAR:EredMithrinCrushSwords
+"Close Combat Expertise"
+END
+
+CONTROLBAR:ToolTipEredMithrinCrushSwords
+"Requires: Level 2 \n Gaurdians of Ered Mithrin use their skill in close quarter fighting to overpower their enemies \n With every hit Ered mithrin guardians lower armor of their enemies for 30 seconds \n left click to activate" 
 END
 
 OBJECT:DalefounteinDescription
@@ -17972,7 +17980,7 @@ CONTROLBAR:SpecialAbilityGrishnackTruppenDolGuldurs
 END
 
 CONTROLBAR:ToolTipSpecialAbilityGrishnackTruppenDolGuldurs
-"Requires: Level 10 \n Grischn kh called the troops from the depths of Dol Guldur \n Each 2 hordes sword warriors and archers from Dol Guldur remain until her death on the battlefield \n Left click on the desired destination area"
+"Requires: Level 10 \n Grischnakh called the troops from the depths of Dol Guldur \n Each 2 hordes sword warriors and archers from Dol Guldur remain until her death on the battlefield \n Left click on the desired destination area"
 END
 
 CONTROLBAR:SpecialAbilityInspektion
@@ -18132,7 +18140,7 @@ CONTROLBAR:WitchkingFurstvonMinasMorgul
 END
 
 CONTROLBAR:ToolTipWitchkingFurstvonMinasMorgul
-"Requires: Level 4 \n The Witch-king drives his Nazg l and troops to find the Ruling Ring of Sauron \n Ringwraiths close to him are 25% faster, cause 25% more damage and have 50% greater visibility \n Allied troops in his vicinity also receive +25% attack and defense \n The imposing aura also affects himself \n Passive ability"
+"Requires: Level 4 \n The Witch-king drives his Nazgul and troops to find the Ruling Ring of Sauron \n Ringwraiths close to him are 25% faster, cause 25% more damage and have 50% greater visibility \n Allied troops in his vicinity also receive +25% attack and defense \n The imposing aura also affects himself \n Passive ability"
 END
 
 CONTROLBAR:WitchkingRingjager
@@ -18140,7 +18148,7 @@ CONTROLBAR:WitchkingRingjager
 END
 
 CONTROLBAR:ToolTipWitchkingRingjager
-"Requires: Level 4 \n The Witch-king drives his Nazg l and troops to find the Ruling Ring of Sauron \n Ringwraiths close to him are 25% faster, cause 25% more damage and have 50% greater visibility \n Allied troops in his vicinity also receive +25% attack and defense \n The imposing aura also affects himself \n Passive ability"
+"Requires: Level 4 \n The Witch-king drives his Nazgul and troops to find the Ruling Ring of Sauron \n Ringwraiths close to him are 25% faster, cause 25% more damage and have 50% greater visibility \n Allied troops in his vicinity also receive +25% attack and defense \n The imposing aura also affects himself \n Passive ability"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityRingderMenschenNazgul
@@ -18160,7 +18168,7 @@ CONTROLBAR:SpecialAbilitySchleichendesGrauen
 END
 
 CONTROLBAR:ToolTipSpecialAbilitySchleichendesGrauen
-"Requires: Level 10 \n A group of Nazg l generates more fear than anything else in Middle-earth and consume itself in the heart of the fittest \n enemy heroes in the target area for a mean period losing 50% speed, defense, attack, visibility, experience and fear resistance \n Left click on the desired target hero"
+"Requires: Level 10 \n A group of Nazgul generates more fear than anything else in Middle-earth and consume itself in the heart of the fittest \n enemy heroes in the target area for a mean period losing 50% speed, defense, attack, visibility, experience and fear resistance \n Left click on the desired target hero"
 END
 
 CONTROLBAR:SauronEineRingDominate
@@ -18248,7 +18256,7 @@ CONTROLBAR:TogglePalantirSauronRing1
 END
 
 CONTROLBAR:ToolTipTogglePalantirSauronRing1
-"Active Ability: Switches the Palantir to Sauron's Ring powers \n Passive Ability: All Nazg l gain 30% armor, damage and their abilites recharge 50% faster"
+"Active Ability: Switches the Palantir to Sauron's Ring powers \n Passive Ability: All Nazgul gain 30% armor, damage and their abilites recharge 50% faster"
 END
 
 CONTROLBAR:TogglePalantirSauron2
@@ -18256,7 +18264,7 @@ CONTROLBAR:TogglePalantirSauron2
 END
 
 CONTROLBAR:ToolTipTogglePalantirSauron2
-"Active Ability: Switches the Palantir to Sauron's sorcery powers \n Passive Ability: All Nazg l gain 30% armor, damage and their abilites recharge 50% faster"
+"Active Ability: Switches the Palantir to Sauron's sorcery powers \n Passive Ability: All Nazgul gain 30% armor, damage and their abilites recharge 50% faster"
 END
 
 CONTROLBAR:DunklerWille
@@ -20356,7 +20364,7 @@ CONTROLBAR:SauronstodlichsterDiener
 END
 
 CONTROLBAR:ToolTipSauronstodlichsterDiener
-"Requires: Barad-Dur \n The Prince of the Nazg l is preparing for the all-important battle and draws his mighty sword of fire \n For a short time the fire sword as a weapon \n Enormously increased fire damage and additional poison damage, but surface damage is reduced \n Effective against heroes and strong units \n Not on the horse and the winged beast executable \n Left click to activate"
+"Requires: Barad-Dur \n The Prince of the Nazgul is preparing for the all-important battle and draws his mighty sword of fire \n For a short time the fire sword as a weapon \n Enormously increased fire damage and additional poison damage, but surface damage is reduced \n Effective against heroes and strong units \n Not on the horse and the winged beast executable \n Left click to activate"
 END
 
 CONTROLBAR:BuildDunkelelfenreiterHorde
@@ -20840,7 +20848,7 @@ CONTROLBAR:LW_Hero_Sauron
 END
 
 CONTROLBAR:LW_Hero_NazgulMod
-"Nazg l"
+"Nazgul"
 END
 
 CONTROLBAR:LW_Hero_Khamul
@@ -23503,7 +23511,7 @@ CONTROLBAR:ToolTipPurchaseUpgradeDunklesEis
 END
 
 CONTROLBAR:ConstructMordorGrishnak_mod
-"Grischn kh"
+"Grischnakh"
 END
 
 CONTROLBAR:DunklerKristall
@@ -23523,7 +23531,7 @@ CONTROLBAR:ConstructMordorWitchKing
 END
 
 CONTROLBAR:ToolTipMordorWitchKing
-"Recruit the First of the Nazg l \n \n Lore: \n Having ruined the Dunedain kingdoms in Eriador, the Witch-king returned to Mordor. Although Sauron was still hiding in Dol Guldur (disguised as the Necromancer), the other 8 Nazg l rallied around the Witch-king. Together, the 9 of them laboured to rebuild their master's power in Mordor, gathering huge Orcish hordes about themselves. In the year TA 2000 they came out of Mordor and began attacking Gondor, which was recovered from the Great Plague but devastated by the Wainriders. In TA 2002 they captured Minas Ithil, and took the place for their own. It became known as Minas Morgul and its citadel "the Tower of Witchcraft", and remained a place of great evil for centuries thereafter. In TA 2043, King Earnil II of Gondor passed away and his son Earnur, the Witch-king's old enemy, inherited the throne. Upon his coronation, the Witch-king challenged him to single combat, but Earnur refused. However, 7 years later in TA 2050 the Witch-king again challenged him and Earnur accepted. The Gondorian King rode out of Minas Tirith to fight the Witch-king at Minas Morgul. He entered the city's gates and was never seen again, thus ending the reign of the Gondorian Kings and beginning the rule of the Stewards of Gondor. In TA 2063 the Watchful Peace began when Sauron fled Dol Guldur and hid in the East, and the Nazg l remained quiet in Minas Morgul for the next 400 years.""
+"Recruit the First of the Nazgul \n \n Lore: \n Having ruined the Dunedain kingdoms in Eriador, the Witch-king returned to Mordor. Although Sauron was still hiding in Dol Guldur (disguised as the Necromancer), the other 8 Nazgul rallied around the Witch-king. Together, the 9 of them laboured to rebuild their master's power in Mordor, gathering huge Orcish hordes about themselves. In the year TA 2000 they came out of Mordor and began attacking Gondor, which was recovered from the Great Plague but devastated by the Wainriders. In TA 2002 they captured Minas Ithil, and took the place for their own. It became known as Minas Morgul and its citadel "the Tower of Witchcraft", and remained a place of great evil for centuries thereafter. In TA 2043, King Earnil II of Gondor passed away and his son Earnur, the Witch-king's old enemy, inherited the throne. Upon his coronation, the Witch-king challenged him to single combat, but Earnur refused. However, 7 years later in TA 2050 the Witch-king again challenged him and Earnur accepted. The Gondorian King rode out of Minas Tirith to fight the Witch-king at Minas Morgul. He entered the city's gates and was never seen again, thus ending the reign of the Gondorian Kings and beginning the rule of the Stewards of Gondor. In TA 2063 the Watchful Peace began when Sauron fled Dol Guldur and hid in the East, and the Nazgul remained quiet in Minas Morgul for the next 400 years.""
 END
 
 CONTROLBAR:ConstructMordorShagrat
@@ -23547,11 +23555,11 @@ CONTROLBAR:ConstructSauron
 END
 
 CONTROLBAR:ConstructMordorNazgul_CGmod
-"Nazg l"
+"Nazgul"
 END
 
 CONTROLBAR:ToolTipMordorNazgul_CGmod
-"Recruit one of the 9 Ringwraiths \n Maximum of 2 Nazg l are recruited"
+"Recruit one of the 9 Ringwraiths \n Maximum of 2 Nazgul are recruited"
 END
 
 CONTROLBAR:ToolTipSauron
@@ -23571,7 +23579,7 @@ CONTROLBAR:ConstructBaraddur
 END
 
 CONTROLBAR:ToolTipConstructBaraddur
-"Recruits Nazg l, the Mouth of Sauron and the Necromancer \n increases the presence of Sauron's eye \n You can most one Barad-Dur in the same game have \n condition for domains of the Dark Lord"
+"Recruits Nazgul, the Mouth of Sauron and the Necromancer \n increases the presence of Sauron's eye \n You can most one Barad-Dur in the same game have \n condition for domains of the Dark Lord"
 END
 
 OBJECT:MordorBaraddurMod
@@ -23873,7 +23881,7 @@ CONTROLBAR:ToolTipBuildMordorGothmog_mod
 END
 
 CONTROLBAR:ToolTipBuildMordorGrishnak_mod
-"Recruit the leader of the orcs of Barad-Dur \n \n Lore: \n Grishn kh was an Orc captain from Barad-d r in the service of SauroNain the Third Age, who led a host of Mordor Orcs to join Saruman's Uruk-hai soldiers who were taking Merry and Pippin across the plain of Rohan to Isengard."
+"Recruit the leader of the orcs of Barad-Dur \n \n Lore: \n Grishn kh was an Orc captain from Barad-d r in the service of Sauron in the Third Age, who led a host of Mordor Orcs to join Saruman's Uruk-hai soldiers who were taking Merry and Pippin across the plain of Rohan to Isengard."
 END
 
 CONTROLBAR:ToolTipCommandSelectRevivablesFangorn
@@ -24638,39 +24646,39 @@ CONTROLBAR:ToolTipLichtVards
 END
 
 CONTROLBAR:ToolTipGrishnakDunklesBlut
-"Requires: Level 5 \n Grishn ks body flows through vile poisons from Mordor, turn off his nervous system and his body to peak performance \n Grischn khs self-healing process to bring is now twice as fast \n +10% armor \n Passive ability"
+"Requires: Level 5 \n Grishn ks body flows through vile poisons from Mordor, turn off his nervous system and his body to peak performance \n Grischnakhs self-healing process to bring is now twice as fast \n +10% armor \n Passive ability"
 END
 
 OBJECT:NazgulFellBeast
-"Nazg l on Winged Beast"
+"Nazgul on Winged Beast"
 END
 
 CONTROLBAR:NazgulFellBeastHotkey
-"Nazg l on Winged Beast&"
+"Nazgul on Winged Beast&"
 END
 
 OBJECT:Nazgul
-"Nazg l"
+"Nazgul"
 END
 
 CONTROLBAR:NazgulFellBeastRevive
-"Revitalize an Nazg l on his winged beast"
+"Revitalize an Nazgul on his winged beast"
 END
 
 CONTROLBAR:NazgulFellBeastRecruit
-"One of the 9 Nazg l Recruit on his winged beast"
+"One of the 9 Nazgul Recruit on his winged beast"
 END
 
 CONTROLBAR:NazgulRecruit
-"Recruit one of the 9 Nazg l"
+"Recruit one of the 9 Nazgul"
 END
 
 CONTROLBAR:NazgulRevive
-"Awake the Fallen Nazg l"
+"Awake the Fallen Nazgul"
 END
 
 CONTROLBAR:NazgulHotkey
-"&Nazg l"
+"&Nazgul"
 END
 
 CONTROLBAR:ConstructInnHero
@@ -24702,7 +24710,7 @@ CONTROLBAR:GrishnakGiftwolke
 END
 
 CONTROLBAR:ToolTipGrishnakGiftwolke
-"Requires: Level 7 \n Grischn kh spoils the environment with horrible toxins from the Orc Pit \n Minimal damage to buildings\n All enemies are strongly affected\n Left-click to activate"
+"Requires: Level 7 \n Grischnakh spoils the environment with horrible toxins from the Orc Pit \n Minimal damage to buildings\n All enemies are strongly affected\n Left-click to activate"
 END
 
 CONTROLBAR:SpecialPowerVergeltungsschlag
@@ -24790,7 +24798,7 @@ CONTROLBAR:ToolTipBuildGorbag
 END
 
 CONTROLBAR:ToolTipBuildKhamul
-"Recruit the shadow of the East \n \n Lore: \n Kham l was one of the 9 Ringwraiths, second to the Witch-king, in Middle-earth after Arnor was defeated. During the Third Age, he held Dol Guldur as Sauron's lieutenant. After the Witch-king was slain, he became the Lord of Nazg l for a short period. Kham l was the Wraith who pursued the Hobbits to Bucklebury ferry in the Shire, and who asked Farmer Maggot for "Baggins" just before Frodo Baggins left Hobbiton. Kham l also appeared in the Battle of the Pelennor Fields with the other Nazg l, mounted on his Fellbeast and killing Gondor's soldiers at the beginning of the battle. After the Witch-king s demise, he and the other 7 lesser Nazg l retreated to Mordor. Afterwards, Kham l became the leader of the Nazg l. He led them to the Battle of the Black Gate riding his Fellbeast, before they were attacked by the Eagles. The Nazg l retreated when they sensed that Frodo claimed the Ring for himself, and were lured towards Mount Doom. He fell by the eruption's fire.""
+"Recruit the shadow of the East \n \n Lore: \n Kham l was one of the 9 Ringwraiths, second to the Witch-king, in Middle-earth after Arnor was defeated. During the Third Age, he held Dol Guldur as Sauron's lieutenant. After the Witch-king was slain, he became the Lord of Nazgul for a short period. Kham l was the Wraith who pursued the Hobbits to Bucklebury ferry in the Shire, and who asked Farmer Maggot for "Baggins" just before Frodo Baggins left Hobbiton. Kham l also appeared in the Battle of the Pelennor Fields with the other Nazgul, mounted on his Fellbeast and killing Gondor's soldiers at the beginning of the battle. After the Witch-king s demise, he and the other 7 lesser Nazgul retreated to Mordor. Afterwards, Kham l became the leader of the Nazgul. He led them to the Battle of the Black Gate riding his Fellbeast, before they were attacked by the Eagles. The Nazgul retreated when they sensed that Frodo claimed the Ring for himself, and were lured towards Mount Doom. He fell by the eruption's fire.""
 END
 
 CONTROLBAR:ToolTipBuildBilbo
@@ -25252,7 +25260,7 @@ OBJECT:MordorKhamul
 END
 
 CONTROLBAR:MordorKhamulRecruit
-"Recruit the Shadow of the East \n While all Ringwraiths generate their own power, they are tied to the mercy of the Dark Lord \n As Sauron grows in strength, the Nazg l will be able to fully embrace his darkness, unlocking their truest and darkest selves \n \n Lore: \n Kham l was one of the 9 Ringwraiths, second to the Witch-king, in Middle-earth after Arnor was defeated. During the Third Age, he held Dol Guldur as Sauron's lieutenant. After the Witch-king was slain, he became the Lord of Nazg l for a short period. Kham l was the Wraith who pursued the Hobbits to Bucklebury ferry in the Shire, and who asked Farmer Maggot for "Baggins" just before Frodo Baggins left Hobbiton. Kham l also appeared in the Battle of the Pelennor Fields with the other Nazg l, mounted on his Fellbeast and killing Gondor's soldiers at the beginning of the battle. After the Witch-king s demise, he and the other 7 lesser Nazg l retreated to Mordor. Afterwards, Kham l became the leader of the Nazg l. He led them to the Battle of the Black Gate riding his Fellbeast, before they were attacked by the Eagles. The Nazg l retreated when they sensed that Frodo claimed the Ring for himself, and were lured towards Mount Doom. He fell by the eruption's fire.""
+"Recruit the Shadow of the East \n While all Ringwraiths generate their own power, they are tied to the mercy of the Dark Lord \n As Sauron grows in strength, the Nazgul will be able to fully embrace his darkness, unlocking their truest and darkest selves \n \n Lore: \n Kham l was one of the 9 Ringwraiths, second to the Witch-king, in Middle-earth after Arnor was defeated. During the Third Age, he held Dol Guldur as Sauron's lieutenant. After the Witch-king was slain, he became the Lord of Nazgul for a short period. Kham l was the Wraith who pursued the Hobbits to Bucklebury ferry in the Shire, and who asked Farmer Maggot for "Baggins" just before Frodo Baggins left Hobbiton. Kham l also appeared in the Battle of the Pelennor Fields with the other Nazgul, mounted on his Fellbeast and killing Gondor's soldiers at the beginning of the battle. After the Witch-king s demise, he and the other 7 lesser Nazgul retreated to Mordor. Afterwards, Kham l became the leader of the Nazgul. He led them to the Battle of the Black Gate riding his Fellbeast, before they were attacked by the Eagles. The Nazgul retreated when they sensed that Frodo claimed the Ring for himself, and were lured towards Mount Doom. He fell by the eruption's fire.""
 END
 
 CONTROLBAR:MordorKhamulRevive
@@ -25408,7 +25416,7 @@ CONTROLBAR:FellbestieMount
 END
 
 CONTROLBAR:FellbestieMountTooltip
-"The Nazg l dismounts his winged beast to find the Ring on foot\n Left-click the desired target area"
+"The Nazgul dismounts his winged beast to find the Ring on foot\n Left-click the desired target area"
 END
 
 CONTROLBAR:FellbestiefromMount
@@ -25416,7 +25424,7 @@ CONTROLBAR:FellbestiefromMount
 END
 
 CONTROLBAR:FellbestieFromMountTooltip
-"The Nazg l flies atop his winged beast to search for the Ring through the skies, wreaking havoc on those below\n Left-click to activate"
+"The Nazgul flies atop his winged beast to search for the Ring through the skies, wreaking havoc on those below\n Left-click to activate"
 END
 
 CONTROLBAR:ToolTipWachterBrunnenLeadership
@@ -25776,7 +25784,7 @@ CONTROLBAR:ToolTipBuildConstructLothlorienArcherRange3Upgrade
 END
 
 CONTROLBAR:TooltipSpellbookMyHour
-"The Witch-king and Kham l lay their trappings of power \n The Shadow Prince and the Dark Marshal also have the option of creating their insignia \n The 9 heed the call of their master and lead the armies of Mordor in the battle \n Allows changes and Improvements to the Nazg l of Barad-Dur, in Kham l and the Witch-king \n Passive ability"
+"The Witch-king and Kham l lay their trappings of power \n The Shadow Prince and the Dark Marshal also have the option of creating their insignia \n The 9 heed the call of their master and lead the armies of Mordor in the battle \n Allows changes and Improvements to the Nazgul of Barad-Dur, in Kham l and the Witch-king \n Passive ability"
 END
 
 CONTROLBAR:HauchausValinor
@@ -26292,7 +26300,7 @@ CONTROLBAR:ToolTipSpiderFlood
 END
 
 OBJECT:Luthien
-"L thien"
+"Luthien"
 END
 
 CONTROLBAR:MorgothsBrut
@@ -26812,7 +26820,7 @@ CONTROLBAR:SchmetterschlagEEowyn
 END
 
 CONTROLBAR:ToolTipSchmetterschlagEEowyn
-"Requires: Level 10  \n  Eowyn's underestimated skills in swordsmanship have now revealed their true nature \n For a brief moment,  Eowyn strikes a hero with immense damage, losing his or her will to fight \n Nazg l and the Witch-king will suffer triple damage if engaged \n Left click on the enemy hero"
+"Requires: Level 10  \n  Eowyn's underestimated skills in swordsmanship have now revealed their true nature \n For a brief moment,  Eowyn strikes a hero with immense damage, losing his or her will to fight \n Nazgul and the Witch-king will suffer triple damage if engaged \n Left click on the enemy hero"
 END
 
 OBJECT:Wegpunkt
@@ -27398,7 +27406,7 @@ CONTROLBAR:CirdanAthelas
 END
 
 CONTROLBAR:ToolTipCirdanAthelas
-"Cirdan triggers a gentle magic wave that seamlessly pushes out away from him\n Any nearby allied heroes receive for 30 seconds increased self-healing \n Left-click to activate"
+"Cirdan triggers a gentle magic wave that seamlessly pushes out away from him.\n Any nearby allied heroes receive for 20 seconds increased self-healing.\n Healing is significantly increased upon reaching level 3.\n Left-click to activate"
 END
 
 CONTROLBAR:ToolTipCirdanLichtValinors
@@ -27642,7 +27650,7 @@ CONTROLBAR:MordorWitchkingHotkey
 END
 
 CONTROLBAR:MordorWitchkingRecruit
-"Recruit the leader of the Nazg l \n While all Ringwraiths generate their own power, they are tied to the mercy of the Dark Lord \n As Sauron grows in strength, the Nazg l will be able to fully embrace his darkness, unlocking their truest and darkest selves \n \n Lore: \n Having ruined the Dunedain kingdoms in Eriador, the Witch-king returned to Mordor. Although Sauron was still hiding in Dol Guldur (disguised as the Necromancer), the other 8 Nazg l rallied around the Witch-king. Together, the 9 of them laboured to rebuild their master's power in Mordor, gathering huge Orcish hordes about themselves. In the year TA 2000 they came out of Mordor and began attacking Gondor, which was recovered from the Great Plague but devastated by the Wainriders. In TA 2002 they captured Minas Ithil, and took the place for their own. It became known as Minas Morgul and its citadel "the Tower of Witchcraft", and remained a place of great evil for centuries thereafter."
+"Recruit the leader of the Nazgul \n While all Ringwraiths generate their own power, they are tied to the mercy of the Dark Lord \n As Sauron grows in strength, the Nazgul will be able to fully embrace his darkness, unlocking their truest and darkest selves \n \n Lore: \n Having ruined the Dunedain kingdoms in Eriador, the Witch-king returned to Mordor. Although Sauron was still hiding in Dol Guldur (disguised as the Necromancer), the other 8 Nazgul rallied around the Witch-king. Together, the 9 of them laboured to rebuild their master's power in Mordor, gathering huge Orcish hordes about themselves. In the year TA 2000 they came out of Mordor and began attacking Gondor, which was recovered from the Great Plague but devastated by the Wainriders. In TA 2002 they captured Minas Ithil, and took the place for their own. It became known as Minas Morgul and its citadel "the Tower of Witchcraft", and remained a place of great evil for centuries thereafter."
 END
 
 CONTROLBAR:MordorWitchkingRevive
@@ -27650,11 +27658,11 @@ CONTROLBAR:MordorWitchkingRevive
 END
 
 OBJECT:MordorGrishnak
-"Grischn kh"
+"Grischnakh"
 END
 
 CONTROLBAR:LW_Unit_MordorGrishnak
-"Grischn kh"
+"Grischnakh"
 END
 
 CONTROLBAR:MordorGrishnakHotkey
@@ -27662,11 +27670,11 @@ CONTROLBAR:MordorGrishnakHotkey
 END
 
 CONTROLBAR:MordorGrishnakRecruit
-"Recruit the leader of the Orcs of Barad-Dur \n \n Lore: \n Grishn kh was an Orc captain from Barad-d r in the service of SauroNain the Third Age, who led a host of Mordor Orcs to join Saruman's Uruk-hai soldiers who were taking Merry and Pippin across the plain of Rohan to Isengard."
+"Recruit the leader of the Orcs of Barad-Dur \n \n Lore: \n Grishn kh was an Orc captain from Barad-d r in the service of Sauron in the Third Age, who led a host of Mordor Orcs to join Saruman's Uruk-hai soldiers who were taking Merry and Pippin across the plain of Rohan to Isengard."
 END
 
 CONTROLBAR:MordorGrishnakRevive
-"Summon the fallen hero Grischn kh"
+"Summon the fallen hero Grischnakh"
 END
 
 OBJECT:LothlorienGilGalad
@@ -27790,7 +27798,7 @@ CONTROLBAR:ImladrisGwaihirHotkey
 END
 
 CONTROLBAR:ImladrisGwaihirRecruit
-"Recruit the Lord of the Skies \n \n Lore: \n Gwaihir, also known as Gwaihir the Windlord, was the greatest of the Great Eagles during the Third Age. The Eagle brought Gandalf to Lothlorien and then at the Wizard's request he flew to seek news of the Fellowship. Aragorn and Legolas both saw him circling above the Emyn Muil. Gwaihir returned to Gandalf with the news that Merry and Pippin had been captured by Saruman's Uruk-hai. Gwaihir and his brother Landroval led a great company of Eagles to the Battle of the Black Gate on March 25, 3019. They swooped in to attack the Winged Nazg l, but the Nazg l fled when Sauron summoned them to fly to Mount Doom where Frodo Baggins stood at the Cracks of Doom with the Ring. After the Ring was destroyed, Mount Doom erupted and Frodo and Sam were stranded on a hill amid flowing lava and falling ash. Gandalf asked Gwaihir to bear him a final time. Accompanied by Landroval and Meneldor, Gwaihir raced swiftly to Mount Doom and with his keen sight, he spotted the Hobbits through the fumes. The Eagles lifted Frodo and Sam and bore them away to safety."
+"Recruit the Lord of the Skies \n \n Lore: \n Gwaihir, also known as Gwaihir the Windlord, was the greatest of the Great Eagles during the Third Age. The Eagle brought Gandalf to Lothlorien and then at the Wizard's request he flew to seek news of the Fellowship. Aragorn and Legolas both saw him circling above the Emyn Muil. Gwaihir returned to Gandalf with the news that Merry and Pippin had been captured by Saruman's Uruk-hai. Gwaihir and his brother Landroval led a great company of Eagles to the Battle of the Black Gate on March 25, 3019. They swooped in to attack the Winged Nazgul, but the Nazgul fled when Sauron summoned them to fly to Mount Doom where Frodo Baggins stood at the Cracks of Doom with the Ring. After the Ring was destroyed, Mount Doom erupted and Frodo and Sam were stranded on a hill amid flowing lava and falling ash. Gandalf asked Gwaihir to bear him a final time. Accompanied by Landroval and Meneldor, Gwaihir raced swiftly to Mount Doom and with his keen sight, he spotted the Hobbits through the fumes. The Eagles lifted Frodo and Sam and bore them away to safety."
 END
 
 CONTROLBAR:ImladrisGwaihirRevive
@@ -27822,11 +27830,11 @@ CONTROLBAR:ToolTipBuildCarasGaladhonWaechterHorde
 END
 
 CONTROLBAR:SpellbookLuthien
-"Song of L thien"
+"Song of Luthien"
 END
 
 CONTROLBAR:ToolTipSpellbookLuthien
-"The beautiful singing of L thien puts enemies into a deep sleep \n Once L thien covered her song sings, enemies are near them steadily until they finally fall asleep and be completely unable to move \n Left click on the icon and then click the target area"
+"The beautiful singing of Luthien puts enemies into a deep sleep \n Once Luthien covered her song sings, enemies are near them steadily until they finally fall asleep and be completely unable to move \n Left click on the icon and then click the target area"
 END
 
 CONTROLBAR:ConstructGondorWaechterderFesteHorde
@@ -28306,7 +28314,7 @@ OBJECT:GondorImrahil
 END
 
 CONTROLBAR:GondorImrahilRecruit
-"Recruit the Prince of Dol Amroth \n \n Lore: \n During the War of the Ring, on March 9, 3019, Prince Imrahil led a company of Swan Knights and 700 men at arms to Minas Tirith to help defend the City. Prince Imrahil led the group that rode to the aid of Faramir and the rear-guard who were retreating from Osgiliath when the forces of Sauron overran the Pelennor Fields on March 13. Gandalf rode with them, and the Winged Nazg l fled before him. The Knights of Dol Amroth rescued Faramir from the Southrons. Faramir was poisoned, and Imrahil carried his nephew back to the City on his horse. Gandalf then took command of the besieged city, and Prince Imrahil assisted him because Denethor in his madness retreated to the White Tower with his dying son, and forgot about the city."
+"Recruit the Prince of Dol Amroth \n \n Lore: \n During the War of the Ring, on March 9, 3019, Prince Imrahil led a company of Swan Knights and 700 men at arms to Minas Tirith to help defend the City. Prince Imrahil led the group that rode to the aid of Faramir and the rear-guard who were retreating from Osgiliath when the forces of Sauron overran the Pelennor Fields on March 13. Gandalf rode with them, and the Winged Nazgul fled before him. The Knights of Dol Amroth rescued Faramir from the Southrons. Faramir was poisoned, and Imrahil carried his nephew back to the City on his horse. Gandalf then took command of the besieged city, and Prince Imrahil assisted him because Denethor in his madness retreated to the White Tower with his dying son, and forgot about the city."
 END
 
 CONTROLBAR:GondorImrahilRevive
@@ -28986,7 +28994,7 @@ CONTROLBAR:GrishnakLeadership
 END
 
 CONTROLBAR:ToolTipGrishnakFuhrerschaft
-"Grischn kh leads the troops of the lidless eye mercilessly in the battle \n orcs near Grischn khs get +75% defense and twice as much experience \n  Passive ability"
+"Grischnakh leads the troops of the lidless eye mercilessly in the battle \n orcs near Grischnakhs get +75% defense and twice as much experience \n  Passive ability"
 END
 
 CONTROLBAR:GrishnakWunde
@@ -28994,7 +29002,7 @@ CONTROLBAR:GrishnakWunde
 END
 
 CONTROLBAR:ToolTipGrishnakWunde
-"Requires: Level 3 \n Grischn kh wounded with his poisonous blade an opponent and paralyze these \n Left click on enemy unit"
+"Requires: Level 3 \n Grischnakh wounded with his poisonous blade an opponent and paralyze these \n Left click on enemy unit"
 END
 
 CONTROLBAR:GrishnakBaraddur
@@ -29002,7 +29010,7 @@ CONTROLBAR:GrishnakBaraddur
 END
 
 CONTROLBAR:ToolTipGrishnakBaraddur
-"Requires: Level 5 will \n Grischn kh prove to his master at all costs and receive short-term +50% armor and +50% speed \n Left click to activate"
+"Requires: Level 5 will \n Grischnakh prove to his master at all costs and receive short-term +50% armor and +50% speed \n Left click to activate"
 END
 
 CONTROLBAR:GrishnackTower
@@ -29010,7 +29018,7 @@ CONTROLBAR:GrishnackTower
 END
 
 CONTROLBAR:ToolTipGrishnackTower
-"Requires: Level 5 \n Grischn kh is ordered to build a watchtower of Mordor on the battlefield \n Left-click on the desired target area"
+"Requires: Level 5 \n Grischnakh is ordered to build a watchtower of Mordor on the battlefield \n Left-click on the desired target area"
 END
 
 CONTROLBAR:GrishnakFeuerbombe
@@ -29018,7 +29026,7 @@ CONTROLBAR:GrishnakFeuerbombe
 END
 
 CONTROLBAR:ToolTipGrishnakFeuerbombe
-"Requires: Level 10 \n The corrupt power of his Morgul-Master allows Grischn kh to shoot a fireball \n Left click on enemy target unit"
+"Requires: Level 10 \n The corrupt power of his Morgul-Master allows Grischnakh to shoot a fireball \n Left click on enemy target unit"
 END
 
 CONTROLBAR:ShagratLeadership
@@ -29058,15 +29066,15 @@ CONTROLBAR:NazgulFellbestie
 END
 
 CONTROLBAR:TooltipNazgulFellbestie
-"The Nazg l rises to his winged beast \n Left-click to activate"
+"The Nazgul rises to his winged beast \n Left-click to activate"
 END
 
 CONTROLBAR:NazgulRing
-"Ring the Nazg l"
+"Ring the Nazgul"
 END
 
 CONTROLBAR:ToolTipNazgulRing
-"Requires: Level 10 \n The Nazg l uses the power of his people free ring \n Left-click to activate"
+"Requires: Level 10 \n The Nazgul uses the power of his people free ring \n Left-click to activate"
 END
 
 CONTROLBAR:MauhurLeadership
@@ -37599,7 +37607,7 @@ OBJECT:RohanFlag
 END
 
 OBJECT:MordorNazgul
-"Nazg l"
+"Nazgul"
 END
 
 OBJECT:MordorSiegeTower
@@ -37643,7 +37651,7 @@ OBJECT:Crebain
 END
 
 OBJECT:EvilMenBlackRider
-"Nazg l"
+"Nazgul"
 END
 
 OBJECT:GondorPosternGate
@@ -40114,7 +40122,7 @@ SCRIPT:Announcement_G07_06
 END
 
 SCRIPT:Announcement_G07_07
-"Nazg l have entered the Mountain."
+"Nazgul have entered the Mountain."
 END
 
 SCRIPT:Hint_G07_01a
@@ -41362,7 +41370,7 @@ SCRIPT:Announcement_E07_07
 END
 
 SCRIPT:Announcement_E07_08
-"It seems the Nazg l are more persuasive that I thought! \nA great dragon has arrived to aid us in filling the dwarven shafts with flame."
+"It seems the Nazgul are more persuasive that I thought! \nA great dragon has arrived to aid us in filling the dwarven shafts with flame."
 END
 
 SCRIPT:Announcement_E07_09
@@ -42036,11 +42044,11 @@ CONTROLBAR:ToolTipFreezingRain
 END
 
 CONTROLBAR:Plus1Nazgul
-"+1 Nazg l"
+"+1 Nazgul"
 END
 
 CONTROLBAR:ToolTipPlus1Nazgul
-"Gives control of an extra Nazg l"
+"Gives control of an extra Nazgul"
 END
 
 CONTROLBAR:Taint
@@ -42792,11 +42800,11 @@ CONTROLBAR:ToolTipBuildMordorBannerOrc
 END
 
 CONTROLBAR:ToolTipBuildWitchKing
-"Recruit the leader of the Nazg l \n \n Lore: \n Having ruined the Dunedain kingdoms in Eriador, the Witch-king returned to Mordor. Although Sauron was still hiding in Dol Guldur (disguised as the Necromancer), the other 8 Nazg l rallied around the Witch-king. Together, the 9 of them laboured to rebuild their master's power in Mordor, gathering huge Orcish hordes about themselves. In the year TA 2000 they came out of Mordor and began attacking Gondor, which was recovered from the Great Plague but devastated by the Wainriders. In TA 2002 they captured Minas Ithil, and took the place for their own. It became known as Minas Morgul and its citadel "the Tower of Witchcraft", and remained a place of great evil for centuries thereafter. In TA 2043, King Earnil II of Gondor passed away and his son Earnur, the Witch-king's old enemy, inherited the throne. Upon his coronation, the Witch-king challenged him to single combat, but Earnur refused. However, 7 years later in TA 2050 the Witch-king again challenged him and Earnur accepted. The Gondorian King rode out of Minas Tirith to fight the Witch-king at Minas Morgul. He entered the city's gates and was never seen again, thus ending the reign of the Gondorian Kings and beginning the rule of the Stewards of Gondor. In TA 2063 the Watchful Peace began when Sauron fled Dol Guldur and hid in the East, and the Nazg l remained quiet in Minas Morgul for the next 400 years.""
+"Recruit the leader of the Nazgul \n \n Lore: \n Having ruined the Dunedain kingdoms in Eriador, the Witch-king returned to Mordor. Although Sauron was still hiding in Dol Guldur (disguised as the Necromancer), the other 8 Nazgul rallied around the Witch-king. Together, the 9 of them laboured to rebuild their master's power in Mordor, gathering huge Orcish hordes about themselves. In the year TA 2000 they came out of Mordor and began attacking Gondor, which was recovered from the Great Plague but devastated by the Wainriders. In TA 2002 they captured Minas Ithil, and took the place for their own. It became known as Minas Morgul and its citadel "the Tower of Witchcraft", and remained a place of great evil for centuries thereafter. In TA 2043, King Earnil II of Gondor passed away and his son Earnur, the Witch-king's old enemy, inherited the throne. Upon his coronation, the Witch-king challenged him to single combat, but Earnur refused. However, 7 years later in TA 2050 the Witch-king again challenged him and Earnur accepted. The Gondorian King rode out of Minas Tirith to fight the Witch-king at Minas Morgul. He entered the city's gates and was never seen again, thus ending the reign of the Gondorian Kings and beginning the rule of the Stewards of Gondor. In TA 2063 the Watchful Peace began when Sauron fled Dol Guldur and hid in the East, and the Nazgul remained quiet in Minas Morgul for the next 400 years.""
 END
 
 CONTROLBAR:MordorWitchKingOnFellBeastRecruit
-"Recruit the leader of the Nazg l \n \n Lore: \n Having ruined the Dunedain kingdoms in Eriador, the Witch-king returned to Mordor. Although Sauron was still hiding in Dol Guldur (disguised as the Necromancer), the other 8 Nazg l rallied around the Witch-king. Together, the 9 of them laboured to rebuild their master's power in Mordor, gathering huge Orcish hordes about themselves. In the year TA 2000 they came out of Mordor and began attacking Gondor, which was recovered from the Great Plague but devastated by the Wainriders. In TA 2002 they captured Minas Ithil, and took the place for their own. It became known as Minas Morgul and its citadel "the Tower of Witchcraft", and remained a place of great evil for centuries thereafter. In TA 2043, King Earnil II of Gondor passed away and his son Earnur, the Witch-king's old enemy, inherited the throne. Upon his coronation, the Witch-king challenged him to single combat, but Earnur refused. However, 7 years later in TA 2050 the Witch-king again challenged him and Earnur accepted. The Gondorian King rode out of Minas Tirith to fight the Witch-king at Minas Morgul. He entered the city's gates and was never seen again, thus ending the reign of the Gondorian Kings and beginning the rule of the Stewards of Gondor. In TA 2063 the Watchful Peace began when Sauron fled Dol Guldur and hid in the East, and the Nazg l remained quiet in Minas Morgul for the next 400 years."
+"Recruit the leader of the Nazgul \n \n Lore: \n Having ruined the Dunedain kingdoms in Eriador, the Witch-king returned to Mordor. Although Sauron was still hiding in Dol Guldur (disguised as the Necromancer), the other 8 Nazgul rallied around the Witch-king. Together, the 9 of them laboured to rebuild their master's power in Mordor, gathering huge Orcish hordes about themselves. In the year TA 2000 they came out of Mordor and began attacking Gondor, which was recovered from the Great Plague but devastated by the Wainriders. In TA 2002 they captured Minas Ithil, and took the place for their own. It became known as Minas Morgul and its citadel "the Tower of Witchcraft", and remained a place of great evil for centuries thereafter. In TA 2043, King Earnil II of Gondor passed away and his son Earnur, the Witch-king's old enemy, inherited the throne. Upon his coronation, the Witch-king challenged him to single combat, but Earnur refused. However, 7 years later in TA 2050 the Witch-king again challenged him and Earnur accepted. The Gondorian King rode out of Minas Tirith to fight the Witch-king at Minas Morgul. He entered the city's gates and was never seen again, thus ending the reign of the Gondorian Kings and beginning the rule of the Stewards of Gondor. In TA 2063 the Watchful Peace began when Sauron fled Dol Guldur and hid in the East, and the Nazgul remained quiet in Minas Morgul for the next 400 years."
 END
 
 CONTROLBAR:MordorWitchKingOnFellBeastRevive
@@ -43186,11 +43194,11 @@ CONTROLBAR:Screech
 END
 
 CONTROLBAR:TooltipScreech
-"The horrible screeching of the Nazg l causes enemy units to flee in terror \n Left-click to activate"
+"The horrible screeching of the Nazgul causes enemy units to flee in terror \n Left-click to activate"
 END
 
 CONTROLBAR:TooltipScreechBlackRider
-"Requires: Level 10 \n The horrible screeching of the Nazg l causes enemy units to flee in terror \n Left-click to activate"
+"Requires: Level 10 \n The horrible screeching of the Nazgul causes enemy units to flee in terror \n Left-click to activate"
 END
 
 CONTROLBAR:TooltipScreechBlackRiderMod
@@ -48512,11 +48520,11 @@ BANNERUI:Oathbreaker
 END
 
 BANNERUI:Nazgul
-"Nazg l"
+"Nazgul"
 END
 
 BANNERUI:PluralNazgul
-"Nazg l"
+"Nazgul"
 END
 
 APT:AreYouSureYouWantToExitMessage
@@ -50622,7 +50630,7 @@ BONUSROUND:SPSGOODHELMSDEEPFIREARROWS
 END
 
 BONUSROUND:SPSGOODMOUTHSOFTHEENTWASHNAZGUL
-"Bonus: Destroy the Nazg l in this region."
+"Bonus: Destroy the Nazgul in this region."
 END
 
 BONUSROUND:SPSGOODMOUTHSOFTHEENTWASHFORGEDBLADES
@@ -51014,7 +51022,7 @@ BONUSROUND:SPSEVILOSGILIATHCOMMAND
 END
 
 BONUSROUND:SPSEVILCROSSROADSNAZGUL
-"Bonus: Take command of the Nazg l when he arrives."
+"Bonus: Take command of the Nazgul when he arrives."
 END
 
 BONUSROUND:SPSEVILCROSSROADSCOMMAND
@@ -69299,7 +69307,7 @@ CONTROLBAR:LW_ToolTip_MouthOfSauron
 END
 
 CONTROLBAR:LW_Hero_Nazgul
-"Nazg l"
+"Nazgul"
 END
 
 CONTROLBAR:LW_ToolTipBuild_Nazgul
@@ -71239,7 +71247,7 @@ CONTROLBAR:ToolTipBlackArrows
 END
 
 CONTROLBAR:ToolTipBlackRiderMount
-"Mount and unmount the Nazg l"
+"Mount and unmount the Nazgul"
 END
 
 CONTROLBAR:ToolTipBuildCorsairShip
@@ -74324,7 +74332,7 @@ CONTROLBAR:HaldirRevive
 END
 
 CONTROLBAR:ElrondRecruit
-"Recruit the leader of Imladris \n Silmaril Hero \n Silmaril function: Elrond takes the Silmaril to bring him to the Valar \n \n Lore: \n Elrond (Sindarin; IPA: "Star-Dome") Half-elven, Lord of Rivendell, was one of the mighty Elf-rulers of old who lived in Middle-earth from the First Age to the beginning of the Fourth Age. He was the father of Arwen Undomiel, lover of Aragorn II Elessar. Elrond Half-elven is the son of Earendil and Elwing, and a great-grandson of L thien. He was born in the refuge of the Havens of SirioNain Beleriand late in the First Age, soon before its sack by the Sons of Feanor. Elrond and his twin brother Elros were captured and raised by Maglor a Son of Feanor. Though at first there was no great love between them, eventually Maglor took pity on them and cherished them, and eventually grew to love them. By the end of the First Age and the War of Wrath, the Sons of Feanor were again working alone, suggesting that by this time Elrond and Elros had left their nominal captivity and traveled to Lindon."
+"Recruit the leader of Imladris \n Silmaril Hero \n Silmaril function: Elrond takes the Silmaril to bring him to the Valar \n \n Lore: \n Elrond (Sindarin; IPA: "Star-Dome") Half-elven, Lord of Rivendell, was one of the mighty Elf-rulers of old who lived in Middle-earth from the First Age to the beginning of the Fourth Age. He was the father of Arwen Undomiel, lover of Aragorn II Elessar. Elrond Half-elven is the son of Earendil and Elwing, and a great-grandson of Luthien. He was born in the refuge of the Havens of SirioNain Beleriand late in the First Age, soon before its sack by the Sons of Feanor. Elrond and his twin brother Elros were captured and raised by Maglor a Son of Feanor. Though at first there was no great love between them, eventually Maglor took pity on them and cherished them, and eventually grew to love them. By the end of the First Age and the War of Wrath, the Sons of Feanor were again working alone, suggesting that by this time Elrond and Elros had left their nominal captivity and traveled to Lindon."
 END
 
 CONTROLBAR:ElrondRevive
@@ -74332,7 +74340,7 @@ CONTROLBAR:ElrondRevive
 END
 
 CONTROLBAR:ArwenRecruit
-"Recruit the daughter of Elrond \n \n Lore: \n Arwen was the Half-Elven daughter of Elrond and Celebrian. She was often called Arwen Undomiel or "Evenstar". In marrying Aragorn II Elessar after the War of the Ring, she became Queen of the Reunited Kingdom of Arnor and Gondor, and like Beren and L thien before her, she united Elf and MaNain peaceful love and harmony, in the process becoming mortal. Arwen was born in TA 241, to Lord Elrond and Lady Celebrian of Rivendell. Like her father and brothers, she had the right to choose between immortality or mortal life. She lived most of her life in Rivendell and LothlorieNainterchangeably. In the year 121 of the Fourth Age, after Aragorn's death, Arwen died of a broken heart at Cerin Amroth in L rien, and was buried there one year after the death of Aragorn, to whom she had been wedded for 122 years. She was 2901 years old."
+"Recruit the daughter of Elrond \n \n Lore: \n Arwen was the Half-Elven daughter of Elrond and Celebrian. She was often called Arwen Undomiel or "Evenstar". In marrying Aragorn II Elessar after the War of the Ring, she became Queen of the Reunited Kingdom of Arnor and Gondor, and like Beren and Luthien before her, she united Elf and MaNain peaceful love and harmony, in the process becoming mortal. Arwen was born in TA 241, to Lord Elrond and Lady Celebrian of Rivendell. Like her father and brothers, she had the right to choose between immortality or mortal life. She lived most of her life in Rivendell and LothlorieNainterchangeably. In the year 121 of the Fourth Age, after Aragorn's death, Arwen died of a broken heart at Cerin Amroth in L rien, and was buried there one year after the death of Aragorn, to whom she had been wedded for 122 years. She was 2901 years old."
 END
 
 CONTROLBAR:ArwenRevive
@@ -74400,11 +74408,11 @@ CONTROLBAR:ShelobHotkey
 END
 
 CONTROLBAR:BlackRiderRevive	
-"Revive the fallen Nazg l"
+"Revive the fallen Nazgul"
 END
 
 CONTROLBAR:BlackRiderHotkey
-"&Nazg l"
+"&Nazgul"
 END
 
 DIALOGEVENT:MGRiven_Glor001subtitle
@@ -75128,7 +75136,7 @@ DIALOGEVENT:MGCeldu_Dwar017subtitle
 END
 
 DIALOGEVENT:MGCeldu_Dwar018subtitle
-"*Ah! A Nazg l!"
+"*Ah! A Nazgul!"
 END
 
 DIALOGEVENT:MGCeldu_Dwar019subtitle
@@ -75336,11 +75344,11 @@ DIALOGEVENT:MGDolGu_Elro005subtitle
 END
 
 DIALOGEVENT:MGDolGu_OffE009subtitle
-"*The Nazg l leader must be dealt with!"
+"*The Nazgul leader must be dealt with!"
 END
 
 DIALOGEVENT:MGDolGu_OffE010subtitle
-"*We must face the Nazg l leader who commands these armies!"
+"*We must face the Nazgul leader who commands these armies!"
 END
 
 DIALOGEVENT:MELorie_Mout001subtitle
@@ -76440,7 +76448,7 @@ DIALOGEVENT:MERiven_GobK007subtitle
 END
 
 DIALOGEVENT:MERiven_Arwe006subtitle
-"*Oh no! The Nazg l have killed Gwahir!"
+"*Oh no! The Nazgul have killed Gwahir!"
 END
 
 DIALOGEVENT:MERiven_Arwe007subtitle
@@ -77144,15 +77152,15 @@ DIALOGEVENT:MGCeldu_OffD008subtitle
 END
 
 DIALOGEVENT:MGCeldu_OffD009subtitle
-"*A Nazg l!"
+"*A Nazgul!"
 END
 
 DIALOGEVENT:MGCeldu_OffD010subtitle
-"*The Nazg l returns!"
+"*The Nazgul returns!"
 END
 
 DIALOGEVENT:MGCeldu_OffD011subtitle
-"*Accursed Nazg l, when will you die!"
+"*Accursed Nazgul, when will you die!"
 END
 
 DIALOGEVENT:MGCeldu_OffD012subtitle
@@ -78040,7 +78048,7 @@ DIALOGEVENT:MERiven_OffG015subtitle
 END
 
 DIALOGEVENT:MERiven_OffG016subtitle
-"*The WitchKing has brought some Nazg l to deal with the Eagles."
+"*The WitchKing has brought some Nazgul to deal with the Eagles."
 END
 
 DIALOGEVENT:MERiven_OffG017subtitle
@@ -78512,7 +78520,7 @@ DIALOGEVENT:MTrAdv_OffT021subtitle
 END
 
 DIALOGEVENT:MTrAdv_OffT022subtitle
-"*A Nazg l! Watch out!"
+"*A Nazgul! Watch out!"
 END
 
 DIALOGEVENT:MTrAdv_OffT023subtitle
@@ -79144,7 +79152,7 @@ OBJECT:ElvenCastleWallHubExpansionDescription
 END
 
 CONTROLBAR:GaladrielRecruit
-"Recruit the Lady of Light \n Silmaril Hero \n Silmaril function: Galadriel can choose whether to take the Silmaril for herself or reject its power\n Takes the Silmaril: Galadriel becomes the Dark Queen, receiving destructive capabilities and has a large area damage; however, her fellow Elves shake with fear\n Rejects the Silmaril: Galadriel becomes the Lady of Light, having an enormous power increase to rally her forces \n \n Lore: \n Galadriel was the co-ruler and Lady of Lothlorien alongside her husband, Lord Celeborn - however, neither of them took royal titles, as they only saw themselves as the Guardians of The Golden Wood. She was the only daughter and youngest child of Finarfin, prince of the  Noldor and of Earwen, whose cousin was L thien. Her elder brothers were Finrod Felagund, Orodreth, Angrod, and Aegnor. Galadriel was a niece of Feanor, one of the most important elves of the First Age. She was one of the greatest of the Eldar in Middle-earth, and surpassed nearly all others in beauty, knowledge, and power. She was also the bearer of Nenya, one of the 3 Elven rings of power. Tolkien thought of her, along with Gil-galad the Elven-king, as one of the mightiest and fairest of all the Elves left in Middle-earth."
+"Recruit the Lady of Light \n Silmaril Hero \n Silmaril function: Galadriel can choose whether to take the Silmaril for herself or reject its power\n Takes the Silmaril: Galadriel becomes the Dark Queen, receiving destructive capabilities and has a large area damage; however, her fellow Elves shake with fear\n Rejects the Silmaril: Galadriel becomes the Lady of Light, having an enormous power increase to rally her forces \n \n Lore: \n Galadriel was the co-ruler and Lady of Lothlorien alongside her husband, Lord Celeborn - however, neither of them took royal titles, as they only saw themselves as the Guardians of The Golden Wood. She was the only daughter and youngest child of Finarfin, prince of the  Noldor and of Earwen, whose cousin was Luthien. Her elder brothers were Finrod Felagund, Orodreth, Angrod, and Aegnor. Galadriel was a niece of Feanor, one of the most important elves of the First Age. She was one of the greatest of the Eldar in Middle-earth, and surpassed nearly all others in beauty, knowledge, and power. She was also the bearer of Nenya, one of the 3 Elven rings of power. Tolkien thought of her, along with Gil-galad the Elven-king, as one of the mightiest and fairest of all the Elves left in Middle-earth."
 END
 
 CONTROLBAR:GaladrielRevive
@@ -79777,7 +79785,7 @@ Stat:Mumakils_Killed_Name
 END
 
 Stat:Killed_Nazgul_Count_Name
-"Nazg l Defeated"
+"Nazgul Defeated"
 END
 
 Stat:Killed_Pippin_Count_Name
@@ -85685,7 +85693,7 @@ OBJECT:AngmarMenOfDale
 END
 
 CONTROLBAR:AngmarWitchKingRecruit
-"Recruit the ruler of Angmar \n Silmaril Hero \n Silmaril function: The Witch-king of Angmar nourishes his power and covers the land with cold and ice \n \n Lore: \n The Witch-king of Angmar was the leader of the Nazg l or Ringwraiths, and Sauron's second-in-command during the Second and Third Ages. Once a Numenorean king of men, he was corrupted by one of the 9 Rings of Power that had been given to the lords of men, and became an undead wraith in the service of Sauron. Soon, the only resistance against the Witch-king's forces was the western kingdom of Arthedain. The Witch-king continued his war for hundreds of years. In TA 1636, the Witch-king sent wights to the Barrow-downs in CardolaNain order to prevent the rebirth of the kingdom. The Witch-king claimed ultimate victory in the north in TA 1974, when his forces captured Fornost Erain, the capital of Arthedain. With its capture, the final kingdom collapsed, and with it, the last remnants of the lost realm of Arnor were destroyed. The Witch-king gladly took his seat of power in the newly captured Fornost. But his glory did not last long, for in TA 1975, general Earnur of Gondor landed at the harbours of the Grey Havens, leading an army of Gondor. His army was joined by the Elves of Lindon and the remnant of the northern Dunedain, and they marched on the Witch-king."
+"Recruit the ruler of Angmar \n Silmaril Hero \n Silmaril function: The Witch-king of Angmar nourishes his power and covers the land with cold and ice \n \n Lore: \n The Witch-king of Angmar was the leader of the Nazgul or Ringwraiths, and Sauron's second-in-command during the Second and Third Ages. Once a Numenorean king of men, he was corrupted by one of the 9 Rings of Power that had been given to the lords of men, and became an undead wraith in the service of Sauron. Soon, the only resistance against the Witch-king's forces was the western kingdom of Arthedain. The Witch-king continued his war for hundreds of years. In TA 1636, the Witch-king sent wights to the Barrow-downs in CardolaNain order to prevent the rebirth of the kingdom. The Witch-king claimed ultimate victory in the north in TA 1974, when his forces captured Fornost Erain, the capital of Arthedain. With its capture, the final kingdom collapsed, and with it, the last remnants of the lost realm of Arnor were destroyed. The Witch-king gladly took his seat of power in the newly captured Fornost. But his glory did not last long, for in TA 1975, general Earnur of Gondor landed at the harbours of the Grey Havens, leading an army of Gondor. His army was joined by the Elves of Lindon and the remnant of the northern Dunedain, and they marched on the Witch-king."
 END
 
 CONTROLBAR:AngmarWitchKingRevive
@@ -86493,7 +86501,7 @@ CONTROLBAR:LW_ToolTip_Khamul
 END
 
 CONTROLBAR:MordorKhamulRecruit
-"Recruit the Shadow of the East \n \n Lore: \n Kham l was one of the 9 Ringwraiths, second to the Witch-king, in Middle-earth after Arnor was defeated. During the Third Age, he held Dol Guldur as Sauron's lieutenant. After the Witch-king was slain, he became the Lord of Nazg l for a short period. Kham l was the Wraith who pursued the Hobbits to Bucklebury ferry in the Shire, and who asked Farmer Maggot for "Baggins" just before Frodo Baggins left Hobbiton. Kham l also appeared in the Battle of the Pelennor Fields with the other Nazg l, mounted on his Fellbeast and killing Gondor's soldiers at the beginning of the battle. After the Witch-king s demise, he and the other 7 lesser Nazg l retreated to Mordor. Afterwards, Kham l became the leader of the Nazg l. He led them to the Battle of the Black Gate riding his Fellbeast, before they were attacked by the Eagles. The Nazg l retreated when they sensed that Frodo claimed the Ring for himself, and were lured towards Mount Doom. He fell by the eruption's fire."
+"Recruit the Shadow of the East \n \n Lore: \n Kham l was one of the 9 Ringwraiths, second to the Witch-king, in Middle-earth after Arnor was defeated. During the Third Age, he held Dol Guldur as Sauron's lieutenant. After the Witch-king was slain, he became the Lord of Nazgul for a short period. Kham l was the Wraith who pursued the Hobbits to Bucklebury ferry in the Shire, and who asked Farmer Maggot for "Baggins" just before Frodo Baggins left Hobbiton. Kham l also appeared in the Battle of the Pelennor Fields with the other Nazgul, mounted on his Fellbeast and killing Gondor's soldiers at the beginning of the battle. After the Witch-king s demise, he and the other 7 lesser Nazgul retreated to Mordor. Afterwards, Kham l became the leader of the Nazgul. He led them to the Battle of the Black Gate riding his Fellbeast, before they were attacked by the Eagles. The Nazgul retreated when they sensed that Frodo claimed the Ring for himself, and were lured towards Mount Doom. He fell by the eruption's fire."
 END
 
 CONTROLBAR:MordorKhamulRevive
@@ -89308,7 +89316,7 @@ SUBTITLE:BABME_06
 END
 
 SUBTITLE:BABME_07
-"*We thought him but a powerful Black Numenorean, but he is Nazg l, First of the 9, most fell servant of the Dark Lord Sauron."
+"*We thought him but a powerful Black Numenorean, but he is Nazgul, First of the 9, most fell servant of the Dark Lord Sauron."
 END
 
 SUBTITLE:BABME_08
@@ -90749,7 +90757,7 @@ CONTROLBAR:LW_ToolTip_DoriathMelian
 END
 
 CONTROLBAR:DoriathMelianRecruit
-"Summon Melian, Queen of Doriath. \n Unique among all the Maiar to adopt the true shape of the Children of Iluvatar. \n \n Lore: \n Melian was a Maia of the race of the Ainur, Queen of Doriath and mother of L thien Tin viel. Before she came to Middle-earth, Melian served both V na and Est , and dwelt in L rien tending the trees that grew in the Gardens of Irmo. Among all of her people none were wiser, (With the possible exception of Gandalf) more beautiful, or more skilled in singing enchanting songs than Melian. She loved the deep shadows of the great trees. When the light of the 2 Trees would mingle Melian would sing and the Valar would stop their work and listen. Nightingales went with her wherever she went, and she taught them their song. Of all the Valar she was most akin to Yavanna. When the Elves awoke on the shore of Cuivi nen she departed from Valinor and went to Middle-earth, where she filled its silence with her singing and the singing of her birds.""
+"Summon Melian, Queen of Doriath. \n Unique among all the Maiar to adopt the true shape of the Children of Iluvatar. \n \n Lore: \n Melian was a Maia of the race of the Ainur, Queen of Doriath and mother of Luthien Tin viel. Before she came to Middle-earth, Melian served both V na and Est , and dwelt in L rien tending the trees that grew in the Gardens of Irmo. Among all of her people none were wiser, (With the possible exception of Gandalf) more beautiful, or more skilled in singing enchanting songs than Melian. She loved the deep shadows of the great trees. When the light of the 2 Trees would mingle Melian would sing and the Valar would stop their work and listen. Nightingales went with her wherever she went, and she taught them their song. Of all the Valar she was most akin to Yavanna. When the Elves awoke on the shore of Cuivi nen she departed from Valinor and went to Middle-earth, where she filled its silence with her singing and the singing of her birds.""
 END
 
 CONTROLBAR:DoriathMelianRevive
@@ -90765,7 +90773,7 @@ CONTROLBAR:SummonDoriathMelian
 END
 
 CONTROLBAR:ToolTipSummonDoriathMelian
-"Requires: Menegroth Fortress Level 5 \n Summon Melian, Queen of Doriath. \n Unique among all the Maiar to adopt the true shape of the Children of Iluvatar. \n Left click to activate \n \n Lore: \n Melian was a Maia of the race of the Ainur, Queen of Doriath and mother of L thien Tin viel. Before she came to Middle-earth, Melian served both V na and Est , and dwelt in L rien tending the trees that grew in the Gardens of Irmo. Among all of her people none were wiser, (With the possible exception of Gandalf) more beautiful, or more skilled in singing enchanting songs than Melian. She loved the deep shadows of the great trees. When the light of the 2 Trees would mingle Melian would sing and the Valar would stop their work and listen. Nightingales went with her wherever she went, and she taught them their song. Of all the Valar she was most akin to Yavanna. When the Elves awoke on the shore of Cuivi nen she departed from Valinor and went to Middle-earth, where she filled its silence with her singing and the singing of her birds."
+"Requires: Menegroth Fortress Level 5 \n Summon Melian, Queen of Doriath. \n Unique among all the Maiar to adopt the true shape of the Children of Iluvatar. \n Left click to activate \n \n Lore: \n Melian was a Maia of the race of the Ainur, Queen of Doriath and mother of Luthien Tin viel. Before she came to Middle-earth, Melian served both V na and Est , and dwelt in L rien tending the trees that grew in the Gardens of Irmo. Among all of her people none were wiser, (With the possible exception of Gandalf) more beautiful, or more skilled in singing enchanting songs than Melian. She loved the deep shadows of the great trees. When the light of the 2 Trees would mingle Melian would sing and the Valar would stop their work and listen. Nightingales went with her wherever she went, and she taught them their song. Of all the Valar she was most akin to Yavanna. When the Elves awoke on the shore of Cuivi nen she departed from Valinor and went to Middle-earth, where she filled its silence with her singing and the singing of her birds."
 END
 
 CONTROLBAR:DoriathMelianLeadership
@@ -90925,7 +90933,7 @@ CONTROLBAR:LW_ToolTip_EdainBeren
 END
 
 CONTROLBAR:EdainBerenRecruit
-"Recruit Beren, son of Barahir from the House of B or, and L thien husband \n \n Lore: \n L thien's love for Beren was so strong that, upon hearing of his death, she lay down and died. Her soul went to the Halls of Mandos, where she managed to charm Mandos into granting her a wish. Both she and Beren were miraculously restored to life, but both of them would live as mortals and die the death of Men, and go beyond the walls of Arda to a place unknown. Thus Beren and L thien lived again, and dwelt on Tol GaleNain the middle of the river Adurant in Ossiriand. There they stayed apart from other mortals; Beren was involved with the events of the First Age only one further time, when he waylaid a group of dwarves who had destroyed Doriath and stolen the Nauglam r (and the Silmaril with it). L thien bore Beren a son, named Dior, Thingol's heir, considered to be one of the fairest beings to ever live, for in him flowed the blood of men, of elves, and of the Ainur. Through his descendants, the blood of Beren and of L thien was preserved among the Eldar and the Edain."
+"Recruit Beren, son of Barahir from the House of B or, and Luthien husband \n \n Lore: \n Luthien's love for Beren was so strong that, upon hearing of his death, she lay down and died. Her soul went to the Halls of Mandos, where she managed to charm Mandos into granting her a wish. Both she and Beren were miraculously restored to life, but both of them would live as mortals and die the death of Men, and go beyond the walls of Arda to a place unknown. Thus Beren and Luthien lived again, and dwelt on Tol GaleNain the middle of the river Adurant in Ossiriand. There they stayed apart from other mortals; Beren was involved with the events of the First Age only one further time, when he waylaid a group of dwarves who had destroyed Doriath and stolen the Nauglam r (and the Silmaril with it). Luthien bore Beren a son, named Dior, Thingol's heir, considered to be one of the fairest beings to ever live, for in him flowed the blood of men, of elves, and of the Ainur. Through his descendants, the blood of Beren and of Luthien was preserved among the Eldar and the Edain."
 END
 
 CONTROLBAR:EdainBerenRevive
@@ -90949,7 +90957,7 @@ CONTROLBAR:BerenLeadership
 END
 
 CONTROLBAR:ToolTipBerenLeadership
-"Requires: Level 3 \n Beren's infinite love for L thien gives him strength to face the forces of evil.\n Beren and L thien gain 30% armor.\n Passive ability \n Requires: Level 5 \n in his love, Beren hastes to aid L thien, teleporting himself across the map to her side.\n Left-click icon then left-click on L thien"
+"Requires: Level 3 \n Beren's infinite love for Luthien gives him strength to face the forces of evil.\n Beren and Luthien gain 30% armor.\n Passive ability \n Requires: Level 5 \n in his love, Beren hastes to aid Luthien, teleporting himself across the map to her side.\n Left-click icon then left-click on Luthien"
 END
 
 CONTROLBAR:BerenDisguise
@@ -90957,7 +90965,7 @@ CONTROLBAR:BerenDisguise
 END
 
 CONTROLBAR:ToolTipBerenDisguise
-"Requires: Level 6 \n Thanks to the magic arts of L thien,\n Beren can change his appearance to that of his enemies.\n Left-click icon then left-click on desired unit"
+"Requires: Level 6 \n Thanks to the magic arts of Luthien,\n Beren can change his appearance to that of his enemies.\n Left-click icon then left-click on desired unit"
 END
 
 CONTROLBAR:SpecialAbilityBerenHunt
@@ -90986,15 +90994,15 @@ END
 
 
 OBJECT:DoriathLuthien
-"L thien Tin viel"
+"Luthien Tin viel"
 END
 
 CONTROLBAR:LW_Hero_DoriathLuthien
-"L thien Tin viel"
+"Luthien Tin viel"
 END
 
 CONTROLBAR:LW_ToolTipBuild_DoriathLuthien
-"Unit Type: Hero L thien Tin viel\n"
+"Unit Type: Hero Luthien Tin viel\n"
 END
 
 CONTROLBAR:LW_ToolTip_DoriathLuthien
@@ -91002,15 +91010,15 @@ CONTROLBAR:LW_ToolTip_DoriathLuthien
 END
 
 CONTROLBAR:DoriathLuthienRecruit
-"Recruit L thien Tin viel, fairest of the Children of Iluvatar \n \n Lore: \n L thien, also known as Tin viel, was an Elf Maiden of Doriath, the wife of Beren Erchamion, and the most beautiful of all the Children of Iluvatar to ever live. Her love of the mortal Edain Beren, for which she was prepared to risk everything, including her life, was legendary and lamented forever in song and story. She and Beren braved Morgoth's horrors, eventually winning the Silmaril and the respect of Thingol. Though their actions later resulted in both their deaths, their deeds won them the pity of Mandos and a second life in Middle-earth. Her romance with Beren was one of the great stories of the Elder Days that were told for many ages after she lived."
+"Recruit Luthien Tin viel, fairest of the Children of Iluvatar \n \n Lore: \n Luthien, also known as Tin viel, was an Elf Maiden of Doriath, the wife of Beren Erchamion, and the most beautiful of all the Children of Iluvatar to ever live. Her love of the mortal Edain Beren, for which she was prepared to risk everything, including her life, was legendary and lamented forever in song and story. She and Beren braved Morgoth's horrors, eventually winning the Silmaril and the respect of Thingol. Though their actions later resulted in both their deaths, their deeds won them the pity of Mandos and a second life in Middle-earth. Her romance with Beren was one of the great stories of the Elder Days that were told for many ages after she lived."
 END
 
 CONTROLBAR:DoriathLuthienRevive
-"Revive the fallen Hero, L thien Tin viel"
+"Revive the fallen Hero, Luthien Tin viel"
 END
 
 CONTROLBAR:DoriathLuthienHotkey
-"&L thien Tin viel"
+"&Luthien Tin viel"
 END
 
 CONTROLBAR:LuthienNauglam r
@@ -91018,7 +91026,7 @@ CONTROLBAR:LuthienNauglam r
 END
 
 CONTROLBAR:ToolTipLuthienNauglam r
-"This necklace was made for Finrod Felagund by the Dwarves of Ered LuiNain the First Age. It was filled with gems brought from Valinor and the Silmaril stolen from Morgoth.\n Level 1: \n The necklace blesses L thien with continued health regeneration. Additionally, units and heroes around L thien heal faster\n Level 10: \n L thien's power becomes ever more radiant. Her attacks are larger waves of energy that also heal nearby allied units. She also reduces the recharge time of powers for all heroes by 35% \n Passive Ability"
+"This necklace was made for Finrod Felagund by the Dwarves of Ered LuiNain the First Age. It was filled with gems brought from Valinor and the Silmaril stolen from Morgoth.\n Level 1: \n The necklace blesses Luthien with continued health regeneration. Additionally, units and heroes around Luthien heal faster\n Level 10: \n Luthien's power becomes ever more radiant. Her attacks are larger waves of energy that also heal nearby allied units. She also reduces the recharge time of powers for all heroes by 35% \n Passive Ability"
 END
 
 CONTROLBAR:LuthienHair
@@ -91026,7 +91034,7 @@ CONTROLBAR:LuthienHair
 END
 
 CONTROLBAR:TooltipLuthienHair
-"Requires: Level 3 \n L thien uses her black hair to create a magic layer that temporarily hides her from the sight of her enemies.\n Left-click to activate"
+"Requires: Level 3 \n Luthien uses her black hair to create a magic layer that temporarily hides her from the sight of her enemies.\n Left-click to activate"
 END
 
 CONTROLBAR:LuthienNeldorethFlowers
@@ -91034,7 +91042,7 @@ CONTROLBAR:LuthienNeldorethFlowers
 END
 
 CONTROLBAR:ToolTipLuthienNeldorethFlowers
-"Requires: Level 5 \n Neldoreth Forest was the birthplace of L thien, and with her birth the white Niphredil flourished.\n However, the flowers were throwNainto the dream of Yavanna.\n L thien creates a field of Niphredil flowers, temporarily removing enemy armor and damage\n Left-click the icon then left-click on units"
+"Requires: Level 5 \n Neldoreth Forest was the birthplace of Luthien, and with her birth the white Niphredil flourished.\n However, the flowers were throwNainto the dream of Yavanna.\n Luthien creates a field of Niphredil flowers, temporarily removing enemy armor and damage\n Left-click the icon then left-click on units"
 END
 
 CONTROLBAR:SummonHuan
@@ -91042,15 +91050,15 @@ CONTROLBAR:SummonHuan
 END
 
 CONTROLBAR:TooltipSummonHuan
-"Requires: Level 8 \n The great Hound of Valinor comes to help L thien.\n Left-click to activate"
+"Requires: Level 8 \n The great Hound of Valinor comes to help Luthien.\n Left-click to activate"
 END
 
 CONTROLBAR:LuhtienSong
-"&L thien's Song"
+"&Luthien's Song"
 END
 
 CONTROLBAR:ToolTipLuhtienSong
-"Requires: Level 10 \n The magic song of L thien paralyzes all enemy units around the map.\n L thien remains motionless as she sings.\n The power of her words takes a heavy toll on her body, forcing her to recharge the ability after respawning.\n Left-click to activate" 
+"Requires: Level 10 \n The magic song of Luthien paralyzes all enemy units around the map.\n Luthien remains motionless as she sings.\n The power of her words takes a heavy toll on her body, forcing her to recharge the ability after respawning.\n Left-click to activate" 
 END
 
 CONTROLBAR:SpecialAbilityArathornHobbitFarm
@@ -91107,7 +91115,7 @@ CONTROLBAR:LW_ToolTip_ValinorThorondor
 END
 
 CONTROLBAR:ValinorThorondorRecruit
-"Recruit Thorondor Lord of the Eagles \n \n Lore: \n Thorondor was the King of Eagles of Middle-earth during the First Age. He was presumably the greatest of all the Eagles in terms of size, with his wingspan measuring at 30 fathoms (180 feet). Thorondor was sent by Manw , King of the Valar, to watch over the  Noldor after they arrived in Beleriand. The Eldar first encountered him when he helped Fingon rescue Maedhros from imprisonment from Thangorodrim, upon which he had apparently made his home for a short time. After that, Thorondor and the rest of the Eagles settled in the Crissaegrim. When Gondolin was built, Thorondor became the ever vigilant guardian of the city. He rescued Fingolfin's body from defilement after Morgoth killed him, giving the Dark Lord a scar on his face. He, Landroval, and Gwaihir rescued Beren and L thien when Angband was aroused. When Gondolin fell, Thorondor rescued the survivors. During the War of Wrath, Thorondor and Earendil led the Eagles in battle with the Dragons, and may have fought with Ancalagon the Black."
+"Recruit Thorondor Lord of the Eagles \n \n Lore: \n Thorondor was the King of Eagles of Middle-earth during the First Age. He was presumably the greatest of all the Eagles in terms of size, with his wingspan measuring at 30 fathoms (180 feet). Thorondor was sent by Manw , King of the Valar, to watch over the  Noldor after they arrived in Beleriand. The Eldar first encountered him when he helped Fingon rescue Maedhros from imprisonment from Thangorodrim, upon which he had apparently made his home for a short time. After that, Thorondor and the rest of the Eagles settled in the Crissaegrim. When Gondolin was built, Thorondor became the ever vigilant guardian of the city. He rescued Fingolfin's body from defilement after Morgoth killed him, giving the Dark Lord a scar on his face. He, Landroval, and Gwaihir rescued Beren and Luthien when Angband was aroused. When Gondolin fell, Thorondor rescued the survivors. During the War of Wrath, Thorondor and Earendil led the Eagles in battle with the Dragons, and may have fought with Ancalagon the Black."
 END
 
 CONTROLBAR:ValinorThorondorRevive
@@ -93235,7 +93243,7 @@ CONTROLBAR:PurchaseSpellDorthonionTechnology
 END
 
 CONTROLBAR:TooltipPurchaseSpellDorthonionTechnology
-"Summons the support of the armies of Tol Galen \n Heroes: Thorondor, Beren and L thien \n Summoned Hero: Manw  \n Passive ability"
+"Summons the support of the armies of Tol Galen \n Heroes: Thorondor, Beren and Luthien \n Summoned Hero: Manw  \n Passive ability"
 END
 
 TOOLTIP:RequirementDorthonionSpellTechnology
@@ -93251,7 +93259,7 @@ CONTROLBAR:PurchaseDorthonionFortressSpellTechnology
 END
 
 CONTROLBAR:ToolTipPurchaseDorthonionFortressSpellTechnology
-"Summon the support of the Lord of the Eagles, Thorondor, Beren and L thien and men of Tol Galen"
+"Summon the support of the Lord of the Eagles, Thorondor, Beren and Luthien and men of Tol Galen"
 END
 
 UPGRADE:Upgrade_DorthonionFortressSpellTechnology
@@ -93271,7 +93279,7 @@ OBJECT:DorthonionFortress
 END
 
 OBJECT:DorthonionFortressDescription
-"Military Structure \n Tol Galen was the green isle set amidst the waters of the River Adurant in Ossiriand. \n After their return to Middle-earth, Beren and L thien dwelt in Tol Galen for the remainder of their time within the confines of Ea. It was here that their son, Dior, was born. \n The country surrounding Tol Galen later came to be known as Dor Firn-i-Guinar. \n increases command point limit by 400"
+"Military Structure \n Tol Galen was the green isle set amidst the waters of the River Adurant in Ossiriand. \n After their return to Middle-earth, Beren and Luthien dwelt in Tol Galen for the remainder of their time within the confines of Ea. It was here that their son, Dior, was born. \n The country surrounding Tol Galen later came to be known as Dor Firn-i-Guinar. \n increases command point limit by 400"
 END
 
 UPGRADE:Upgrade_DorthonionFortressLevel2
@@ -95122,7 +95130,7 @@ CONTROLBAR:LW_ToolTip_TolinGaurhothThuringwethil
 END
 
 CONTROLBAR:TolinGaurhothThuringwethilRecruit
-"Recruit the terrible vampire, \n the messenger of SauroNain the fortress of Tol-in-Gaurhoth during the First Age \n \n Lore: \n Thuringwethil was a Vampire servant of SauroNain his fortress of Tol-in-Gaurhoth (the former Tol Sirion), during her time serving Morgoth during the First Age. Thuringwethil was Sauron's herald and was stationed at Tol-in-Gaurhoth by the time of the Quest for the Silmaril. She was probably slain or died during the fight between Sauron and HuaNain the fortress. She served as a herald, or a messenger, for Sauron at Tol-Sirion. Her origins were not mentioned, but her ability to take forms suggest that she could be a Maia. She was described to have fingered-wings and iron claws. L thien was disguised as Thuringwethil and introduced herself as such upoNainfiltrating Angband."
+"Recruit the terrible vampire, \n the messenger of Sauron in the fortress of Tol-in-Gaurhoth during the First Age \n \n Lore: \n Thuringwethil was a Vampire servant of Sauron in his fortress of Tol-in-Gaurhoth (the former Tol Sirion), during her time serving Morgoth during the First Age. Thuringwethil was Sauron's herald and was stationed at Tol-in-Gaurhoth by the time of the Quest for the Silmaril. She was probably slain or died during the fight between Sauron and HuaNain the fortress. She served as a herald, or a messenger, for Sauron at Tol-Sirion. Her origins were not mentioned, but her ability to take forms suggest that she could be a Maia. She was described to have fingered-wings and iron claws. Luthien was disguised as Thuringwethil and introduced herself as such upoNainfiltrating Angband."
 END
 
 CONTROLBAR:TolinGaurhothThuringwethilRevive
@@ -95199,7 +95207,7 @@ CONTROLBAR:LW_ToolTip_TolinGaurhothDraugluin
 END
 
 CONTROLBAR:TolinGaurhothDraugluinRecruit
-"Recruit the Lord of all Werewolves of Tol-in-Gaurhoth \n \n Lore: \n Draugluin was the first werewolf to be bred by Morgoth during the First Age of Middle-earth. Draugluin was bred from the Wolves and imbued with an evil spirit sent by Morgoth himself. Draugluin was a dreadful, old, and evil abomination and was the lord and sire of all werewolves of Beleriand, and dwelt with his master SauroNain Tol-in-Gaurhoth, the former watchtower of Finrod Felagund. Draugluin was slain by Huan during the Quest for the Silmaril after a long battle, and Beren and L thien used his pelt to sneak into Angband. Draugluin was the sire of Carcharoth and many other werewolves. It is probable the Wargs of the Third Age and the White Wolves were descended from him, as these wolves could speak, suggesting they had F ar. Draugluin means "Blue wolf" in Sindarin, from draug ("wolf") and luin ("blue"). Drauglir was an earlier form of the name."
+"Recruit the Lord of all Werewolves of Tol-in-Gaurhoth \n \n Lore: \n Draugluin was the first werewolf to be bred by Morgoth during the First Age of Middle-earth. Draugluin was bred from the Wolves and imbued with an evil spirit sent by Morgoth himself. Draugluin was a dreadful, old, and evil abomination and was the lord and sire of all werewolves of Beleriand, and dwelt with his master Sauron in Tol-in-Gaurhoth, the former watchtower of Finrod Felagund. Draugluin was slain by Huan during the Quest for the Silmaril after a long battle, and Beren and Luthien used his pelt to sneak into Angband. Draugluin was the sire of Carcharoth and many other werewolves. It is probable the Wargs of the Third Age and the White Wolves were descended from him, as these wolves could speak, suggesting they had F ar. Draugluin means "Blue wolf" in Sindarin, from draug ("wolf") and luin ("blue"). Drauglir was an earlier form of the name."
 END
 
 CONTROLBAR:TolinGaurhothDraugluinRevive
@@ -96062,7 +96070,7 @@ CONTROLBAR:PurchaseTolinGaurhothFortressSpellTechnology
 END
 
 CONTROLBAR:ToolTipPurchaseTolinGaurhothFortressSpellTechnology
-"Summons the Tol-in-Gaurhoth Fortress, \n Was a fortress held by SauroNain the First Age, once called Tol Sirion \n Sauron and his Lackeys back to Middle Earth once more"
+"Summons the Tol-in-Gaurhoth Fortress, \n Was a fortress held by Sauron in the First Age, once called Tol Sirion \n Sauron and his Lackeys back to Middle Earth once more"
 END
 
 UPGRADE:Upgrade_TolinGaurhothFortressSpellTechnology
@@ -97885,7 +97893,7 @@ CONTROLBAR:TogglePalantirZaphragor1
 END
 
 CONTROLBAR:ToolTipTogglePalantirZaphragor1
-"Zaphragor's loyalty to the prince of the Nazg l and his kingdom of ice and steel is eternal \n Switches the Palantir"
+"Zaphragor's loyalty to the prince of the Nazgul and his kingdom of ice and steel is eternal \n Switches the Palantir"
 END
 
 CONTROLBAR:TogglePalantirZaphragor2
@@ -97957,7 +97965,7 @@ CONTROLBAR:PlanedesHexenmeisters
 END
 
 CONTROLBAR:ToolTipPlanedesHexenmeisters
-"Requires: All power extensions have been researched \n The prince of the Nazg l begins to forge plans against the Dunedain and their allies when they are the most vulnerable\n The Witch-king is met with a selection menu displaying different plans where he can choose one for his liking\n Each plan requires a different amount of resources and time to execute\n When the ability is used, only one plan may be initiated at a time\n Left-click to enable"
+"Requires: All power extensions have been researched \n The prince of the Nazgul begins to forge plans against the Dunedain and their allies when they are the most vulnerable\n The Witch-king is met with a selection menu displaying different plans where he can choose one for his liking\n Each plan requires a different amount of resources and time to execute\n When the ability is used, only one plan may be initiated at a time\n Left-click to enable"
 END
 
 CONTROLBAR:PlanedesHexenmeistersdeaktivierenObject
@@ -98767,7 +98775,7 @@ CONTROLBAR:EarnurHerausforderungdesHexenkonigs
 END
 
 CONTROLBAR:ToolTipEarnurHerausforderungdesHexenkonigs
-"Requires: Level 10 \n The Witch-king himself arrives challenges Earnur to fight \n The downfall of the Nazg l means the end of Angmar \n The Witch-king spawns at the destination \n If he is defeated, all units that were involved in his death rise to Level 2 and breifly obtain +300% armor \n Caution: If the opponent destroys him, those soldiers get the bonus \n Left-click to fight the Lord of Angmar"
+"Requires: Level 10 \n The Witch-king himself arrives challenges Earnur to fight \n The downfall of the Nazgul means the end of Angmar \n The Witch-king spawns at the destination \n If he is defeated, all units that were involved in his death rise to Level 2 and breifly obtain +300% armor \n Caution: If the opponent destroys him, those soldiers get the bonus \n Left-click to fight the Lord of Angmar"
 END
 
 CONTROLBAR:AnarionVerteidigerGondors
@@ -100981,7 +100989,7 @@ CONTROLBAR:KampfdesGeistes
 END
 
 CONTROLBAR:ToolTipKampfdesGeistes
-"Requires: Level 14 \n Aragorn, using the Palantir of Orthanc, reveals himself to SauroNain order to entice his armies to charge before they are ready to siege \n All opposing heroes' skills and other spells will temporarily recharge 30% slower \n All enemy magic attacks also cause 50% less damage \n Left-click to enable"
+"Requires: Level 14 \n Aragorn, using the Palantir of Orthanc, reveals himself to Sauron in order to entice his armies to charge before they are ready to siege \n All opposing heroes' skills and other spells will temporarily recharge 30% slower \n All enemy magic attacks also cause 50% less damage \n Left-click to enable"
 END
 
 CONTROLBAR:ZerbrochenesSchwert
@@ -101249,7 +101257,7 @@ CONTROLBAR:ToolTipMadrilVerteidigungIthiliens_Mapspecial
 END
 
 CONTROLBAR:DamrodMannerHennethAnnuns
-"Men of Henneth Ann n"
+"Men of Henneth Annun"
 END
 
 CONTROLBAR:ToolTipDamrodMannerHennethAnnuns
@@ -102911,11 +102919,11 @@ CONTROLBAR:BaradDurDunkleMacht
 END
 
 CONTROLBAR:ToolTipBaradDurDunkleMacht
-"Requires: Level 3 \n The Dark Ruler has returned in his black shadow, which has once again begun to extend over Middle-earth \n All opponents in his vicinity will be temporarily feared \n The 9 Ringwraiths, which were previously only a shadow of their former self, begin to grow with his terror and black magic to unfathomable levels \n All Nazg l in a large radius for 30 seconds have their Rings of Power enhanced by the Shadow, allowing them to unleashed the most horrifying of magic attacks\n At Level 5:\n The radius of the power is doubled and empowers the rings for 45 seconds \n At Level 7:\n The radius of the power increases once more and empowers for 60 seconds\n At Level 10:\n The Nazg l's feel the power of Sauron flow through their rings anywhere on the map for 90 seconds \n Left-click to activate"
+"Requires: Level 3 \n The Dark Ruler has returned in his black shadow, which has once again begun to extend over Middle-earth \n All opponents in his vicinity will be temporarily feared \n The 9 Ringwraiths, which were previously only a shadow of their former self, begin to grow with his terror and black magic to unfathomable levels \n All Nazgul in a large radius for 30 seconds have their Rings of Power enhanced by the Shadow, allowing them to unleashed the most horrifying of magic attacks\n At Level 5:\n The radius of the power is doubled and empowers the rings for 45 seconds \n At Level 7:\n The radius of the power increases once more and empowers for 60 seconds\n At Level 10:\n The Nazgul's feel the power of Sauron flow through their rings anywhere on the map for 90 seconds \n Left-click to activate"
 END
 
 CONTROLBAR:ToolTipBaradDurDunkleMacht4
-"The Shadow of Mordor has now embraced the whole earth \n The malice of the Dark Ruler is felt almost everywhere, becoming a tangible reality \n All nearby opponents are struck with fear \n The 9 Ringwraiths, which were previously only a shadow of their former self, begin to grow with his terror and black magic to unfathomable levels \n All Nazg l on the entire map for 90 seconds have their Rings of Power enhanced by the Shadow, allowing them to unleash the most horrifying of magic attacks\n Left-click to activate"
+"The Shadow of Mordor has now embraced the whole earth \n The malice of the Dark Ruler is felt almost everywhere, becoming a tangible reality \n All nearby opponents are struck with fear \n The 9 Ringwraiths, which were previously only a shadow of their former self, begin to grow with his terror and black magic to unfathomable levels \n All Nazgul on the entire map for 90 seconds have their Rings of Power enhanced by the Shadow, allowing them to unleash the most horrifying of magic attacks\n Left-click to activate"
 END
 
 CONTROLBAR:TogglePalantirSauron3
@@ -103135,7 +103143,7 @@ CONTROLBAR:ToggleStanceNazgulHoldGround
 END
 
 CONTROLBAR:ToolTipToggleStanceNazgulHoldGround
-"Nazg l: -25% damage \n A shadow is reaching for the hearts of the defenders of the west \n Opponents in the vicinity of the Nazg l lose 25% attack and defense \n Each time the Nazg l strikes, it transmits its Black Breath on opponents within its grasp, causing an additional armor loss of 25%"
+"Nazgul: -25% damage \n A shadow is reaching for the hearts of the defenders of the west \n Opponents in the vicinity of the Nazgul lose 25% attack and defense \n Each time the Nazgul strikes, it transmits its Black Breath on opponents within its grasp, causing an additional armor loss of 25%"
 END
 
 CONTROLBAR:ToggleStanceNazgulStandart
@@ -103143,7 +103151,7 @@ CONTROLBAR:ToggleStanceNazgulStandart
 END
 
 CONTROLBAR:ToolTipToggleStanceNazgulStandart
-"Nazg l: No disadvantage \n An aura of cold and fear surrounds the most powerful servant of the Dark Ruler \n Opponents in the vicinity of the Nazg l lose armor and attack ratings \n A bonus effect can be unlocked via the stances, which is released when the Nazg l uses his blade, thus transferring the terrible disease "Black Breath" to his opponents; however, the stances have a negative impact on the Nazg l itself"
+"Nazgul: No disadvantage \n An aura of cold and fear surrounds the most powerful servant of the Dark Ruler \n Opponents in the vicinity of the Nazgul lose armor and attack ratings \n A bonus effect can be unlocked via the stances, which is released when the Nazgul uses his blade, thus transferring the terrible disease "Black Breath" to his opponents; however, the stances have a negative impact on the Nazgul itself"
 END
 
 CONTROLBAR:ToggleStanceNazgulAggressive
@@ -103151,7 +103159,7 @@ CONTROLBAR:ToggleStanceNazgulAggressive
 END
 
 CONTROLBAR:ToolTipToggleStanceNazgulAggressive
-"Nazg l: -25% Armor \n The icy tapping voices of the Nazg l assess that, sooner or later, every human, elf or dwarf will die to the Shadow \n Opponents in the vicinity of the Nazg l lose 25% attack and defense \n Each time the Nazg l strikes, it transmits its Black Breath on opponents within its grasp, causing an additional armor loss of 25%"
+"Nazgul: -25% Armor \n The icy tapping voices of the Nazgul assess that, sooner or later, every human, elf or dwarf will die to the Shadow \n Opponents in the vicinity of the Nazgul lose 25% attack and defense \n Each time the Nazgul strikes, it transmits its Black Breath on opponents within its grasp, causing an additional armor loss of 25%"
 END
 
 CONTROLBAR:NazgulMachtdesMorgulturms
@@ -103159,7 +103167,7 @@ CONTROLBAR:NazgulMachtdesMorgulturms
 END
 
 CONTROLBAR:ToolTipNazgulMachtdesMorgulturms
-"Requires: Necromancer Level 5 or with the Silmaril \n The Nazg l ride into the war in the name of the Black Country, becoming frightful creatures as their master becomes ever more powerful \n The Nazg l can unleash its darkest power as a Ring Hunter or transform into its horrible and true form \n in each of these mighty shapes, the Nazg l bring new disaster on the Free Peoples of Middle-earth \n Left-click to enable"
+"Requires: Necromancer Level 5 or with the Silmaril \n The Nazgul ride into the war in the name of the Black Country, becoming frightful creatures as their master becomes ever more powerful \n The Nazgul can unleash its darkest power as a Ring Hunter or transform into its horrible and true form \n in each of these mighty shapes, the Nazgul bring new disaster on the Free Peoples of Middle-earth \n Left-click to enable"
 END
 
 CONTROLBAR:ToggleStanceRingjager1HoldGround
@@ -103171,11 +103179,11 @@ CONTROLBAR:ToggleStanceRingjager1Aggressive
 END
 
 CONTROLBAR:ToolTipToggleStanceRingjager1HoldGround
-"Nazg l: -25% Damage \n A dark shadow passes over to the enemies of the Nazg l and paralyzes their thoughts \n Enemy units near the Nazg l lose 25% armor and attack \n Every time the Nazg l strikes, it transfers the Black Breath on enemies within, preventing them from ever healing from their wounds"
+"Nazgul: -25% Damage \n A dark shadow passes over to the enemies of the Nazgul and paralyzes their thoughts \n Enemy units near the Nazgul lose 25% armor and attack \n Every time the Nazgul strikes, it transfers the Black Breath on enemies within, preventing them from ever healing from their wounds"
 END
 
 CONTROLBAR:ToolTipToggleStanceRingjager1Aggressive
-"Nazg l: -25% Armor \n The 9 go back to the leaders of free nations to show they have no power to defeat the monstrosities of the Shadow \n Enemy units near the Nazg l lose 25% armor and attack\n Every time the Nazg l strikes, it transfers the Black Breath on heroes within, causing their spells to temporarily deal significantly less damage"
+"Nazgul: -25% Armor \n The 9 go back to the leaders of free nations to show they have no power to defeat the monstrosities of the Shadow \n Enemy units near the Nazgul lose 25% armor and attack\n Every time the Nazgul strikes, it transfers the Black Breath on heroes within, causing their spells to temporarily deal significantly less damage"
 END
 
 CONTROLBAR:ToggleStanceRingjager2HoldGround
@@ -103183,7 +103191,7 @@ CONTROLBAR:ToggleStanceRingjager2HoldGround
 END
 
 CONTROLBAR:ToolTipToggleStanceRingjager2HoldGround
-"Nazg l: -25% Damage \n A veil of impenetrable darkness surrounds the Nazg l, robbing the strength of enemy units \n Enemy units near the Nazg l lose 25% armor and attack \n Every time the Nazg l strikes, it transfers the Black Breath on enemies within, stifling their range by 50% \n Effective against archers"
+"Nazgul: -25% Damage \n A veil of impenetrable darkness surrounds the Nazgul, robbing the strength of enemy units \n Enemy units near the Nazgul lose 25% armor and attack \n Every time the Nazgul strikes, it transfers the Black Breath on enemies within, stifling their range by 50% \n Effective against archers"
 END
 
 CONTROLBAR:ToggleStanceRingjager2Aggressive
@@ -103191,7 +103199,7 @@ CONTROLBAR:ToggleStanceRingjager2Aggressive
 END
 
 CONTROLBAR:ToolTipToggleStanceRingjager2Aggressive
-"Nazg l: -25% Armor \n The horrific power of the Ring Spirit robs humans and animals of their courage to fight \n Enemy units near the Nazg l lose 25% armor and attack \n Every time the Nazg l strikes, it transfers the Black Breath on enemy cavalry within, causing them to slow twice as fast when trampling\n Effective against cavalry"
+"Nazgul: -25% Armor \n The horrific power of the Ring Spirit robs humans and animals of their courage to fight \n Enemy units near the Nazgul lose 25% armor and attack \n Every time the Nazgul strikes, it transfers the Black Breath on enemy cavalry within, causing them to slow twice as fast when trampling\n Effective against cavalry"
 END
 
 CONTROLBAR:NazgulMachtdesEinen
@@ -103199,7 +103207,7 @@ CONTROLBAR:NazgulMachtdesEinen
 END
 
 CONTROLBAR:ToolTipNazgulMachtdesEinen
-"Requires: Level 8 \n The Nazg l feels the will of his master \n Directed by Sauron, he can stop at nothing more \n His riding and attack speed increase for a short time by 50% and causes significantly increased damage \n Left-click to activate"
+"Requires: Level 8 \n The Nazgul feels the will of his master \n Directed by Sauron, he can stop at nothing more \n His riding and attack speed increase for a short time by 50% and causes significantly increased damage \n Left-click to activate"
 END
 
 CONTROLBAR:NazgulOrtderVerdammnis
@@ -103207,7 +103215,7 @@ CONTROLBAR:NazgulOrtderVerdammnis
 END
 
 CONTROLBAR:ToolTipNazgulOrtderVerdammnis
-"Requires: Level 8 \n The places where the Nazg l treads in his invisible form are scarred by a trace of his depravity \n The Nazg l damns the selected building \n All enemy units that are garrisoned, nearby, or recruited at the selected building forever lose 10% armor and damage \n Left-click on the desired enemy building"
+"Requires: Level 8 \n The places where the Nazgul treads in his invisible form are scarred by a trace of his depravity \n The Nazgul damns the selected building \n All enemy units that are garrisoned, nearby, or recruited at the selected building forever lose 10% armor and damage \n Left-click on the desired enemy building"
 END
 
 CONTROLBAR:BotedesUnheils
@@ -103215,7 +103223,7 @@ CONTROLBAR:BotedesUnheils
 END
 
 CONTROLBAR:ToolTipBotedesUnheils
-"Requires: Level 2 \n The presence of the Nazg l, even if invisible to mortals, awakens a sense of threat in the enemies of Mordor \n Nearby enemies have severely weakened attack and defence \n \n Passive ability"
+"Requires: Level 2 \n The presence of the Nazgul, even if invisible to mortals, awakens a sense of threat in the enemies of Mordor \n Nearby enemies have severely weakened attack and defence \n \n Passive ability"
 END
 
 CONTROLBAR:NazgulVerhangnisderAltvorderen
@@ -103231,7 +103239,7 @@ CONTROLBAR:GeflugelterSchatten
 END
 
 CONTROLBAR:ToolTipGeflugelterSchatten
-"Requires: Level 2 \n The presence of winged Nazg l leaves a shadow over the hearts of his opponents, robbing them of the hope and will to live \n Enemy units that are present under the Nazg l collect slower experience, are 25% slower, and cause 30% less damage \n \n Passive ability"
+"Requires: Level 2 \n The presence of winged Nazgul leaves a shadow over the hearts of his opponents, robbing them of the hope and will to live \n Enemy units that are present under the Nazgul collect slower experience, are 25% slower, and cause 30% less damage \n \n Passive ability"
 END
 
 CONTROLBAR:SchwarzerSchatten
@@ -103239,7 +103247,7 @@ CONTROLBAR:SchwarzerSchatten
 END
 
 CONTROLBAR:ToolTipSchwarzerSchatten
-"Requires: Level 8 \n The Nazg l shows his enemies that he embodies true terror \n All enemy units located under the flying Nazg l lose 50% armor and can no longer attack him for a short time \n Left-click to activate"
+"Requires: Level 8 \n The Nazgul shows his enemies that he embodies true terror \n All enemy units located under the flying Nazgul lose 50% armor and can no longer attack him for a short time \n Left-click to activate"
 END
 
 CONTROLBAR:ToggleStanceDunklerMarschallHoldGround
@@ -103295,7 +103303,7 @@ CONTROLBAR:TogglePalantirKhamul3
 END
 
 CONTROLBAR:ToolTipTogglePalantirNazgul1
-"Requires: The Nazg l felt the surge of Sauron's "Dark Power" \n Sauron's shadow creeps across the land and touches The Ringwraith's Ring of Power, causing the ring to be filled with unfathomable power anxiously awaiting to be unleashed\n Opens a new submenu where the Nazg l can choose one of several deadly black magics\n As Sauron grows in strength, the Nazg l embraces more power to unlock even more ring spells\nLeft-click to enable then reselect to view the spells"
+"Requires: The Nazgul felt the surge of Sauron's "Dark Power" \n Sauron's shadow creeps across the land and touches The Ringwraith's Ring of Power, causing the ring to be filled with unfathomable power anxiously awaiting to be unleashed\n Opens a new submenu where the Nazgul can choose one of several deadly black magics\n As Sauron grows in strength, the Nazgul embraces more power to unlock even more ring spells\nLeft-click to enable then reselect to view the spells"
 END
 
 CONTROLBAR:ToolTipTogglePalantirKhamul3
@@ -103307,7 +103315,7 @@ CONTROLBAR:NazgulTodeszorn
 END
 
 CONTROLBAR:ToolTipNazgulTodeszorn
-"The terrible power of the ring puts aLL nearby units into a horrifying bloodlust \n Every unit around the Nazg l deal 50% more damage, but lose 50% armor \n Enemy units begin to fight each other \n After a period of 30 seconds, all remaining units are damaged by their own depravity; however, allies will suffer only medium damage\n Left-click to activate"
+"The terrible power of the ring puts aLL nearby units into a horrifying bloodlust \n Every unit around the Nazgul deal 50% more damage, but lose 50% armor \n Enemy units begin to fight each other \n After a period of 30 seconds, all remaining units are damaged by their own depravity; however, allies will suffer only medium damage\n Left-click to activate"
 END
 
 CONTROLBAR:NazgulKlingedesSchreckens_neu
@@ -103315,7 +103323,7 @@ CONTROLBAR:NazgulKlingedesSchreckens_neu
 END
 
 CONTROLBAR:ToolTipNazgulKlingedesSchreckens_neu
-"The dark power of the ring flows from the Nazg l onto his sword \n For 90 seconds, one of 3 random devastating magic attacks will follow each attack the Nazg l leads with the blade\n Option 1: \n Ice of Angmar \n An icy wind emanates from the blade and freezes all enemies within \n Option 2: \n Dark Fire \n Black magic blazes out from the blade, fanning flames that put all enemies within on fire \n Option 3: \n Morgul Magic \n A terrible power flows from the blade, slowing and poisoning all enemies \n While the ability is active, the Nazg l is much more susceptible to conventional attacks, but is immune to magic, fire, ice, and poison \n Left-click to activate"
+"The dark power of the ring flows from the Nazgul onto his sword \n For 90 seconds, one of 3 random devastating magic attacks will follow each attack the Nazgul leads with the blade\n Option 1: \n Ice of Angmar \n An icy wind emanates from the blade and freezes all enemies within \n Option 2: \n Dark Fire \n Black magic blazes out from the blade, fanning flames that put all enemies within on fire \n Option 3: \n Morgul Magic \n A terrible power flows from the blade, slowing and poisoning all enemies \n While the ability is active, the Nazgul is much more susceptible to conventional attacks, but is immune to magic, fire, ice, and poison \n Left-click to activate"
 END
 
 CONTROLBAR:NazgulSchattenhauch_new
@@ -103323,7 +103331,7 @@ CONTROLBAR:NazgulSchattenhauch_new
 END
 
 CONTROLBAR:ToolTipNazgulSchattenhauch_new
-"The Ring of Power siphons the life and the hope of all enemy units in the area \n Within the next 30 seconds, 3 shadow waves emerge from the ring of the Nazg l that track down enemy units, slowing them and weaken their armor by 50%\n Each wave of shadow transmits the vitality of the affected units towards the Nazg l \n This life energy partially heals and increases his maximum number of hit points by 200\n Left click to activate"
+"The Ring of Power siphons the life and the hope of all enemy units in the area \n Within the next 30 seconds, 3 shadow waves emerge from the ring of the Nazgul that track down enemy units, slowing them and weaken their armor by 50%\n Each wave of shadow transmits the vitality of the affected units towards the Nazgul \n This life energy partially heals and increases his maximum number of hit points by 200\n Left click to activate"
 END
 
 CONTROLBAR:NazgulMorgulverderbnis
@@ -103331,7 +103339,7 @@ CONTROLBAR:NazgulMorgulverderbnis
 END
 
 CONTROLBAR:ToolTipNazgulMorgulverderbnis
-"The terrible magic of Minas Morgul escapes from the Ring of Power and flares \n For 35 seconds, all enemies near the Nazg l are greatly poisoned by the horrific Morgul Magic \n Sensing the released corruptive energy, several wights also appear to dispose of the foes of Mordor \n Left-click to activate"
+"The terrible magic of Minas Morgul escapes from the Ring of Power and flares \n For 35 seconds, all enemies near the Nazgul are greatly poisoned by the horrific Morgul Magic \n Sensing the released corruptive energy, several wights also appear to dispose of the foes of Mordor \n Left-click to activate"
 END
 
 CONTROLBAR:NazgulGorgorothVerderbnis_neu
@@ -103339,7 +103347,7 @@ CONTROLBAR:NazgulGorgorothVerderbnis_neu
 END
 
 CONTROLBAR:ToolTipNazgulGorgorothVerderbnis_neu
-"The Ring of Power uses its corruptioNain the form of all-consuming flames that rage around the Nazg l and burn all enemies within \n For a period of 30 seconds, waves of dark fire flow out from the ring and burn enemies that make the mistake of approaching the Nazg l \n Left-click to activate"
+"The Ring of Power uses its corruptioNain the form of all-consuming flames that rage around the Nazgul and burn all enemies within \n For a period of 30 seconds, waves of dark fire flow out from the ring and burn enemies that make the mistake of approaching the Nazgul \n Left-click to activate"
 END
 
 CONTROLBAR:NazgulSchicksalsschlag
@@ -103359,7 +103367,7 @@ CONTROLBAR:TogglePalantirKhamul4
 END
 
 CONTROLBAR:ToolTipTogglePalantirNazgul2
-"The Nazg l returns to his normal ability arsenal \n Switches the Palantir"
+"The Nazgul returns to his normal ability arsenal \n Switches the Palantir"
 END
 
 CONTROLBAR:MassakerOpferstatte
@@ -103395,7 +103403,7 @@ CONTROLBAR:SpecialAbilityStatueAlbtraum
 END
 
 CONTROLBAR:ToolTipSpecialAbilityStatueAlbtraum
-"Requires: Both men and 2 women were sacrificed \n The dark power, which was released by the ritual, is bound to the selected Nazg l \n The terrible atrocities combined with their reputation creates a power that is even more terrifying \n The passive properties of the selected Nazg l are strengthened \n Enemy units that have direct contact with him also lose another 25% armor and attack \n Left-click on the desired Nazg l \n Not applicable to the Black Riders \nOnly one of the 3 abilities can be used"
+"Requires: Both men and 2 women were sacrificed \n The dark power, which was released by the ritual, is bound to the selected Nazgul \n The terrible atrocities combined with their reputation creates a power that is even more terrifying \n The passive properties of the selected Nazgul are strengthened \n Enemy units that have direct contact with him also lose another 25% armor and attack \n Left-click on the desired Nazgul \n Not applicable to the Black Riders \nOnly one of the 3 abilities can be used"
 END
 
 CONTROLBAR:MassakerSchattenwachter
@@ -103431,7 +103439,7 @@ CONTROLBAR:KhamulWaldunterderNachtschatten
 END
 
 CONTROLBAR:ToolTipKhamulWaldunterderNachtschatten
-"The corruption of the Dark Lord goes through the ring of Kham l \n The horrific presence of the Shadow of the East spoils the land around him \n A dark forest now stands where the the Nazg l exerted his ability \n Unspeakable horrors lurk in the dark thickets of the woods, and the trees rot and wither from the poison of the darkness\n Enemy buildings located in this forest are temporarily disabled \n Enemy units who wander into the accursed woods lose 50% speed and cut their visibility in half \n Left-click to activate"
+"The corruption of the Dark Lord goes through the ring of Kham l \n The horrific presence of the Shadow of the East spoils the land around him \n A dark forest now stands where the the Nazgul exerted his ability \n Unspeakable horrors lurk in the dark thickets of the woods, and the trees rot and wither from the poison of the darkness\n Enemy buildings located in this forest are temporarily disabled \n Enemy units who wander into the accursed woods lose 50% speed and cut their visibility in half \n Left-click to activate"
 END
 
 CONTROLBAR:TogglePalantirNazgul_Ruckswitch
@@ -103439,7 +103447,7 @@ CONTROLBAR:TogglePalantirNazgul_Ruckswitch
 END
 
 CONTROLBAR:ToolTipTogglePalantirNazgul_Ruckswitch
-"Switches the Palantir back to the Nazg l's normal abilities"
+"Switches the Palantir back to the Nazgul's normal abilities"
 END
 
 OBJECT:MordorKhamulSubmod
@@ -103579,7 +103587,7 @@ CONTROLBAR:WitchkingLichtderTotenStadt
 END
 
 CONTROLBAR:ToolTipWitchkingLichtderTotenStadt
-"Requires: Level 6 \n The Morgul Prince can shine the light of his terrible cursed city and thereby gives the signal for the attack \n Orcs obtain +50% damage and speed \n Morgul units get +50% armor and double damage \n Nazg l briefly collect experience faster \n Enemies lose 50% armor and become struck with fear \n Left-click to activate "
+"Requires: Level 6 \n The Morgul Prince can shine the light of his terrible cursed city and thereby gives the signal for the attack \n Orcs obtain +50% damage and speed \n Morgul units get +50% armor and double damage \n Nazgul briefly collect experience faster \n Enemies lose 50% armor and become struck with fear \n Left-click to activate "
 END
 
 CONTROLBAR:KhamulRufdesOstens
@@ -103611,7 +103619,7 @@ CONTROLBAR:TogglePalantirHK1
 END
 
 CONTROLBAR:ToolTipTogglePalantirHK1
-"The Witch-king of Angmar is the only one of the Nazg l who can unleash his magic powers even without Sauron's "Dark Power" \n Switches the Palantir"
+"The Witch-king of Angmar is the only one of the Nazgul who can unleash his magic powers even without Sauron's "Dark Power" \n Switches the Palantir"
 END
 
 CONTROLBAR:WitchkingHauchderSchattenwelt
@@ -103643,7 +103651,7 @@ CONTROLBAR:ToolTipWitchkingMorgulmacht_neu
 END
 
 CONTROLBAR:ToolTipWitchkingHauchderSchattenwelt
-"Requires Level 8 \n The supreme Nazg l whispers to the enemies of Mordor Black Speech from the shadows \n For a while, the Witch-king cannot move \n Enemies in a small radius passively receive damage \n Left-click to activate"
+"Requires Level 8 \n The supreme Nazgul whispers to the enemies of Mordor Black Speech from the shadows \n For a while, the Witch-king cannot move \n Enemies in a small radius passively receive damage \n Left-click to activate"
 END
 
 CONTROLBAR:ToggleStanceWitchkingHoldGround
@@ -103703,7 +103711,7 @@ CONTROLBAR:HKHerrderNeun
 END
 
 CONTROLBAR:ToolTipHKHerrderNeun
-"Requires: Level 9 and the Black Riders are not on the battlefield \n The Witch-king calls his Nazg l upon their Winged Shadows to wear down the enemy and break the defense \n 5 flying Nazg l arrive on the battlefield \n Left-click to the desired target area"
+"Requires: Level 9 and the Black Riders are not on the battlefield \n The Witch-king calls his Nazgul upon their Winged Shadows to wear down the enemy and break the defense \n 5 flying Nazgul arrive on the battlefield \n Left-click to the desired target area"
 END
 
 // Rohan \\
@@ -103721,7 +103729,7 @@ CONTROLBAR:NumenorischerZauber
 END
 
 CONTROLBAR:ToolTipNumenorischerZauber
-"Requires Level 7 \n Merry attacks a selected enemy with his Numenorean sword \n The powerful magic of the blade adds enormous damage to the selected enemy \n Especially effective against Nazg l \n Left-click on the target unit"
+"Requires Level 7 \n Merry attacks a selected enemy with his Numenorean sword \n The powerful magic of the blade adds enormous damage to the selected enemy \n Especially effective against Nazgul \n Left-click on the target unit"
 END
 
 CONTROLBAR:MerrydasFallenkleinerSteine
@@ -109323,7 +109331,7 @@ CONTROLBAR:LW_ToolTip_IsengardOrcFighterHorde
 END
 
 CONTROLBAR:TooltipSpecialAbilityMorgulFortScreech
-"The horrible screeching of the Nazg l causes enemy units to flee in terror.\n Left-click to activate"
+"The horrible screeching of the Nazgul causes enemy units to flee in terror.\n Left-click to activate"
 END
 
 CONTROLBAR:GirdleofMelian
