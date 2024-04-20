@@ -1,8 +1,21 @@
-Narin lvl 1 speed removed and cost decrease to 800 
-Dain ironfoot fix
-Durin rework
-Nogrod smith rework (xp give doesnt work on themselves, new ability lvl 5, proper lvling)
-Lurtz pin fix (cd - 2,5 min; pin 15sec)
-Imla guardians cost now 800
-Rohan, Gondor, Arnor statue armor increase
-Morgul Fort xp object filter fix
+Word of silence fix
+New loth unit
+Mirkwood heroes moved to the fort
+Thranduil rework
+All partial invulnerabilities fixed
+New ability for the ered mithrin guardians
+Helm hammerhand temporary fix
+Cirdan health and lvl 1 buff
+Eagle summon nerf
+Arnor fire arrows moved to lvl 2
+Captain upgrade for Arnor available after lvl 2 horde
+Mirkwood archers banners available
+Narin leadership fix
+Galadriel leadership fix
+Tauriel slight dmg buff
+Dark elves weapon upgrade at level 5
+Heroic support units (uruk captains, gothmog captains, giant scorpions...) will be seen on the hero bar
+Isildur level 1 no longer affects heroes
+Undermine and ent summon can no longer be place in the vicinity of fortresses
+Imladris last two library upgrades cost sligthly lowered
+Money gain from imla garden lowered by half
