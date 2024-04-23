@@ -10036,7 +10036,7 @@ CONTROLBAR:MagischesWissen
 END
 
 CONTROLBAR:TooltipMagischesWissen
-"Erestor has scrupulously studied the ancient scrolls of Elven magic \n As long as he remains on the battlefield, all of Rivendell's Spellbook abilities cooldown 15% faster \n Passive Ability"
+"Erestor has scrupulously studied the ancient scrolls of Elven magic \n As long as he remains on the battlefield, all of Rivendell's Spellbook abilities cooldown 8% faster, upon reaching first age spellbook cooldowns are reduced by 15% \n Passive Ability"
 END
 
 CONTROLBAR:EffizienteErnte
@@ -20296,7 +20296,7 @@ CONTROLBAR:SummonOrcWarriors
 END
 
 CONTROLBAR:ToolTipBuildMirkwoodAvariWarriorHorde
-"Requires: Mirkwood Barracks level 2 \n Strong vs: Speed"
+"Requires: Mirkwood Barracks level 2 \n Strong vs: Heroes \n Great at recon and chasing down"
 END
 
 CONTROLBAR:ToggleKlingenFormation
@@ -64568,7 +64568,7 @@ CONTROLBAR:ConstructIsengardShieldurukHorde
 END
 
 CONTROLBAR:ToolTipBuildIsengardShieldurukHorde
-"Requires: Uruk Pit Level 2 \n Unit Type: Regular Infantry \n Strong vs: Infantry and Cavalry \n You can combine them with the Uruk-hai Warriors, Pikemen and Crossbows"
+"Requires: Uruk Pit Level 2 \n Unit Type: Support Infantry \n You can combine them with the Uruk-hai Warriors, Pikemen and Crossbows. \n Once combined Uruk pikemen gain 30% resistance against archers\n Uruk warriors gain 10% speed and 20% armor\n Uruk crossbows gain 10% damage and armor"
 END
 
 BANNERUI:IsengardShielduruk
@@ -90765,7 +90765,7 @@ CONTROLBAR:LW_ToolTip_DoriathMelian
 END
 
 CONTROLBAR:DoriathMelianRecruit
-"Summon Melian, Queen of Doriath. \n Unique among all the Maiar to adopt the true shape of the Children of Iluvatar. \n \n Lore: \n Melian was a Maia of the race of the Ainur, Queen of Doriath and mother of Luthien Tin viel. Before she came to Middle-earth, Melian served both V na and Est , and dwelt in L rien tending the trees that grew in the Gardens of Irmo. Among all of her people none were wiser, (With the possible exception of Gandalf) more beautiful, or more skilled in singing enchanting songs than Melian. She loved the deep shadows of the great trees. When the light of the 2 Trees would mingle Melian would sing and the Valar would stop their work and listen. Nightingales went with her wherever she went, and she taught them their song. Of all the Valar she was most akin to Yavanna. When the Elves awoke on the shore of Cuivi nen she departed from Valinor and went to Middle-earth, where she filled its silence with her singing and the singing of her birds.""
+"Summon Melian, Queen of Doriath. \n Unique among all the Maiar to adopt the true shape of the Children of Iluvatar. \n \n Lore: \n Melian was a Maia of the race of the Ainur, Queen of Doriath and mother of Luthien Tinúviel. Before she came to Middle-earth, Melian served both V na and Est , and dwelt in L rien tending the trees that grew in the Gardens of Irmo. Among all of her people none were wiser, (With the possible exception of Gandalf) more beautiful, or more skilled in singing enchanting songs than Melian. She loved the deep shadows of the great trees. When the light of the 2 Trees would mingle Melian would sing and the Valar would stop their work and listen. Nightingales went with her wherever she went, and she taught them their song. Of all the Valar she was most akin to Yavanna. When the Elves awoke on the shore of Cuivi nen she departed from Valinor and went to Middle-earth, where she filled its silence with her singing and the singing of her birds.""
 END
 
 CONTROLBAR:DoriathMelianRevive
@@ -90781,7 +90781,7 @@ CONTROLBAR:SummonDoriathMelian
 END
 
 CONTROLBAR:ToolTipSummonDoriathMelian
-"Requires: Menegroth Fortress Level 5 \n Summon Melian, Queen of Doriath. \n Unique among all the Maiar to adopt the true shape of the Children of Iluvatar. \n Left click to activate \n \n Lore: \n Melian was a Maia of the race of the Ainur, Queen of Doriath and mother of Luthien Tin viel. Before she came to Middle-earth, Melian served both V na and Est , and dwelt in L rien tending the trees that grew in the Gardens of Irmo. Among all of her people none were wiser, (With the possible exception of Gandalf) more beautiful, or more skilled in singing enchanting songs than Melian. She loved the deep shadows of the great trees. When the light of the 2 Trees would mingle Melian would sing and the Valar would stop their work and listen. Nightingales went with her wherever she went, and she taught them their song. Of all the Valar she was most akin to Yavanna. When the Elves awoke on the shore of Cuivi nen she departed from Valinor and went to Middle-earth, where she filled its silence with her singing and the singing of her birds."
+"Requires: Menegroth Fortress Level 5 \n Summon Melian, Queen of Doriath. \n Unique among all the Maiar to adopt the true shape of the Children of Iluvatar. \n Left click to activate \n \n Lore: \n Melian was a Maia of the race of the Ainur, Queen of Doriath and mother of Luthien Tinúviel. Before she came to Middle-earth, Melian served both V na and Est , and dwelt in L rien tending the trees that grew in the Gardens of Irmo. Among all of her people none were wiser, (With the possible exception of Gandalf) more beautiful, or more skilled in singing enchanting songs than Melian. She loved the deep shadows of the great trees. When the light of the 2 Trees would mingle Melian would sing and the Valar would stop their work and listen. Nightingales went with her wherever she went, and she taught them their song. Of all the Valar she was most akin to Yavanna. When the Elves awoke on the shore of Cuivi nen she departed from Valinor and went to Middle-earth, where she filled its silence with her singing and the singing of her birds."
 END
 
 CONTROLBAR:DoriathMelianLeadership
@@ -91002,15 +91002,15 @@ END
 
 
 OBJECT:DoriathLuthien
-"Luthien Tin viel"
+"Luthien Tinúviel"
 END
 
 CONTROLBAR:LW_Hero_DoriathLuthien
-"Luthien Tin viel"
+"Luthien Tinúviel"
 END
 
 CONTROLBAR:LW_ToolTipBuild_DoriathLuthien
-"Unit Type: Hero Luthien Tin viel\n"
+"Unit Type: Hero Luthien Tinúviel\n"
 END
 
 CONTROLBAR:LW_ToolTip_DoriathLuthien
@@ -91018,15 +91018,15 @@ CONTROLBAR:LW_ToolTip_DoriathLuthien
 END
 
 CONTROLBAR:DoriathLuthienRecruit
-"Recruit Luthien Tin viel, fairest of the Children of Iluvatar \n \n Lore: \n Luthien, also known as Tin viel, was an Elf Maiden of Doriath, the wife of Beren Erchamion, and the most beautiful of all the Children of Iluvatar to ever live. Her love of the mortal Edain Beren, for which she was prepared to risk everything, including her life, was legendary and lamented forever in song and story. She and Beren braved Morgoth's horrors, eventually winning the Silmaril and the respect of Thingol. Though their actions later resulted in both their deaths, their deeds won them the pity of Mandos and a second life in Middle-earth. Her romance with Beren was one of the great stories of the Elder Days that were told for many ages after she lived."
+"Recruit Luthien Tinúviel, fairest of the Children of Iluvatar \n \n Lore: \n Luthien, also known as Tinúviel, was an Elf Maiden of Doriath, the wife of Beren Erchamion, and the most beautiful of all the Children of Iluvatar to ever live. Her love of the mortal Edain Beren, for which she was prepared to risk everything, including her life, was legendary and lamented forever in song and story. She and Beren braved Morgoth's horrors, eventually winning the Silmaril and the respect of Thingol. Though their actions later resulted in both their deaths, their deeds won them the pity of Mandos and a second life in Middle-earth. Her romance with Beren was one of the great stories of the Elder Days that were told for many ages after she lived."
 END
 
 CONTROLBAR:DoriathLuthienRevive
-"Revive the fallen Hero, Luthien Tin viel"
+"Revive the fallen Hero, Luthien Tinúviel"
 END
 
 CONTROLBAR:DoriathLuthienHotkey
-"&Luthien Tin viel"
+"&Luthien Tinúviel"
 END
 
 CONTROLBAR:LuthienNauglam r
