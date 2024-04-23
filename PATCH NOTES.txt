@@ -4,6 +4,8 @@ Mirkwood heroes moved to the fort
 Thranduil rework
 All partial invulnerabilities fixed
 New ability for the ered mithrin guardians
+Ered mithrin spearthrowers fix
+Cav archers fix
 Helm hammerhand temporary fix
 Cirdan health and lvl 1 buff
 Eagle summon nerf
@@ -17,6 +19,17 @@ Dark elves weapon upgrade at level 5
 Heroic support units (uruk captains, gothmog captains, giant scorpions...) will be seen on the hero bar
 Isildur level 1 no longer affects heroes
 Undermine and ent summon can no longer be place in the vicinity of fortresses
-Imladris last two library upgrades cost sligthly lowered
-Money gain from imla garden lowered by half
->>>>>>> 8b26628a5ea900bffd79933c38fafa71107a737c
+Nogrod smiths limited to 3
+Imla archers damage nerf
+Imla pikes damage nerf
+Gil galad leadership fix
+Scholars not moving while book reading
+Fear resists all moved to faction leaders
+Black uruks buff
+Azaghal rework
+Tom bombadil hero trample removed
+Iron hill iron breakers weapon toggle reworked
+Nogrod smiths limited to 3
+Eonwe Sword ability fix
+
+

@@ -7634,11 +7634,11 @@ CONTROLBAR:ToolTipSpecialAbilityThorinBlutrausch
 "Requires Level 3: \n Thorin gives in to his rage allowing him to hit his enemies twice as hard, however losing defence in the process \n Thorin deals +100% damage but loses 35% armor \n  Left-click to activate"
 END
 
-CONTROLBAR:SpecialAbilityThorinKampfgebr ll
+CONTROLBAR:SpecialAbilityThorinKampfgebrüll
 "Battle Cry"
 END
 
-CONTROLBAR:ToolTipSpecialAbilityThorinKampfgebr ll
+CONTROLBAR:ToolTipSpecialAbilityThorinKampfgebrüll
 "Requires Level 5: \n Thorin unleashes a terrifying battle cry that weakens enemy heroes and thus allowing your heroes to deal 50% more damage to them. Thorin gains +30% speed. \n  Left-click to activate"
 END
 
@@ -8127,7 +8127,7 @@ CONTROLBAR:SpecialAbilityThranduilSchildwall
 END
 
 CONTROLBAR:ToolTipSpecialAbilityThranduilSchildwall
-"Requires: Level 8 \n Thranduil creates a wall of palace guards around him, protecting him from harm whilst imprisioning enemies within.\n Left-click to activate"
+"Requires: Level 7 \n Thranduil creates a wall of palace guards around him, protecting him from harm whilst imprisioning enemies within.\n Left-click to activate"
 END
 
 CONTROLBAR:SpecialAbilityFesteDusterwalds
@@ -11104,7 +11104,7 @@ CONTROLBAR:ToggleEisenbergEliteWeapon
 END
 
 CONTROLBAR:ToolTipToggleEisenbergEliteWeapon
-"Left-click to switch between pickaxe and sword with shield \n The pickaxe offers 20% more damage, but provides -15% armor"
+"Left-click to switch between pickaxe and sword with shield \n The pickaxe offers more damage and knockback, but swings slower and does less damage to buildings"
 END
 
 CONTROLBAR:ToolTipSpecialAbilitySarumanFireballOrthanc
@@ -15896,7 +15896,15 @@ CONTROLBAR:EredMithrinCrushSwords
 END
 
 CONTROLBAR:ToolTipEredMithrinCrushSwords
-"Requires: Level 2 \n Gaurdians of Ered Mithrin use their skill in close quarter fighting to overpower their enemies \n With every hit Ered mithrin guardians lower armor of their enemies for 30 seconds \n left click to activate" 
+"Requires: Level 2 \n Gaurdians of Ered Mithrin use their skill in close quarter fighting to overpower their enemies \n With every hit Ered mithrin guardians lower resistance to their attacks of their enemies for 30 seconds \n left click to activate" 
+END
+
+CONTROLBAR:EredMithrinBurstSpears
+"Crushing Throws"
+END
+
+CONTROLBAR:ToolTipEredMithrinBurstSpears
+"Requires: Level 2 \n Hunter of Ered Mithrin switch to lighter spears that easily penetrate the armor of enemy infantry and monsters, but simultaneously makes them weaker to the enemy cavalry \n With every hit Ered mithrin guardians lower resistance to their attacks of enemy infantry and monsters for 30 seconds \n left click to activate" 
 END
 
 OBJECT:DalefounteinDescription
@@ -27101,7 +27109,7 @@ CONTROLBAR:ConstructKhazahddumWachterHorde
 END
 
 CONTROLBAR:ToolTipKhazahddumWachterHorde
-"Requires: Hall of Warriors Level 3 \n Strong vs: Melee"
+"Requires: Hall of Warriors Level 3 \n Strong vs: Melee \n You can have only 3 units on the battlefield at the same time"
 END
 
 CONTROLBAR:ToolTipBuildDwarvenDaleFighterHorde
@@ -28878,7 +28886,7 @@ CONTROLBAR:HerrderDusterwalds
 END
 
 CONTROLBAR:ToolTipHerrderDusterwalds
-"Requires: Level 3 \n The King of MirkwooDainspired the warriors to great deeds \n Mirkwood Units near him gain +50% armor \n Passive ability"
+"Requires: Level 2 \n The King of MirkwooDainspired the warriors to great deeds \n Mirkwood Units near him gain +50% armor \n Passive ability"
 END
 
 CONTROLBAR:HerrderGaladrim
@@ -61016,7 +61024,7 @@ CONTROLBAR:ConstructDwarvenGuardianEredMithrinHorde
 END
 
 CONTROLBAR:ToolTipBuild_DwarvenGuardianEredMithrinHorde
-"Unit Type: Regular Swordsmen \n Strong vs: Pikemen and Monsters"
+"Unit Type: Regular Swordsmen \n Strong vs: Infantry"
 END
 
 CONTROLBAR:ConstructDwarvenEredMithrinHunterHorde
@@ -61024,7 +61032,7 @@ CONTROLBAR:ConstructDwarvenEredMithrinHunterHorde
 END
 
 CONTROLBAR:ToolTipBuild_DwarvenEredMithrinHunterHorde
-"Unit Type: Regular Archer \n Strong at Ranged"
+"Unit Type: Regular Specialist \n Strong at Range \n You can have only 6 units on the battlefield at the same time"
 END
 
 CONTROLBAR:ConstructDwarvenEredMithrinDragonslayer
@@ -90302,7 +90310,7 @@ CONTROLBAR:EcthelionBlessingAura
 END
 
 CONTROLBAR:ToolTipEcthelionBlessingAura
-"Requires: Level 3 \n Ecthelion shows his powers as one of the princes of Gondolin. \n His aura pours outward, causing enemies in a large radius to run with fear.\n Left-click to activate"
+"Requires: Level 3 \n Ecthelion shows his powers as one of the princes of Gondolin. \n His aura pours outward, causing enemies in a large radius to run away in terror.\n Left-click to activate"
 END
 
 CONTROLBAR:EcthelionWaterBall
@@ -92049,7 +92057,7 @@ CONTROLBAR:AzaghalLordofBelegost
 END
 
 CONTROLBAR:ToolTipAzaghalLordofBelegost
-"All units near Azaghal resist fear and terror. \n Passive ability"
+"Requires: Level 5 \n All units near Azaghal are resistant to debuffs, fear and terror. \n Also gain 200% experience. \n Passive ability"
 END
 
 CONTROLBAR:AzaghalFury
@@ -92065,7 +92073,7 @@ CONTROLBAR:AzaghalSlam
 END
 
 CONTROLBAR:ToolTipAzaghalSlam
-"Requires: Level 5 \n Azaghal uses terrible force, \n unleashing a devastaing attack that knocks back enemy units and deals massive damage. \n Left-click icon then left click on desired units"
+"Azaghal uses terrible force, \n unleashing a devastaing attack that knocks back enemy units and deals massive damage. \n Left-click icon then left click on desired units"
 END
 
 CONTROLBAR:AzaghalBaneofGlaurung
@@ -92073,7 +92081,7 @@ CONTROLBAR:AzaghalBaneofGlaurung
 END
 
 CONTROLBAR:ToolTipAzaghalBaneofGlaurung
-"Requires: Level 8 \n Azaghal faced Glaurung, the Father of Dragons, in battle \n Despite inflicting serious wounds on the beast, he was eventually slain\n Azaghal attacks cause severe damage to enemy heroes\n Left-click icon then left-click on a desired hero"
+"Requires: Level 8 \n Azaghal faced Glaurung, the Father of Dragons, in battle \n Despite inflicting serious wounds on the beast, he was eventually slain\n Azaghal marks an area with enemy heroes. Enemy heroes in that area lose 40% speed and take more damage from heroes.\n Simultaneously Azaghal gains 100% damage but also is more vulnerable to enemy heroes. \n left-click on a desired area"
 END
 
 CONTROLBAR:AzaghalWrathofNirnaethArnoediad
@@ -94340,11 +94348,11 @@ CONTROLBAR:ToolTipNogrodSmiteKnowledge
 END
 
 CONTROLBAR:NogrodSmiteWeaponcraftsman
-"Weaponcraftsman"
+"Nogrod Trade Route"
 END
 
 CONTROLBAR:ToolTipNogrodSmiteWeaponcraftsman
-"Requires: Level 5 \n The Blacksmith of Nogrod gives the dwarves of Belegost expertly crafted weapon increasing their damage output during battle. \n Left-click on icon then left-click on allied units"
+"Requires: Level 3 \n Azaghal receives fresh batch of expertly crafted weapons from Nogrod and distributes them to his warriors. \n Selected dwarves of Belegost increase their damage output in battle. \n left-click on allied units"
 END
 
 CONTROLBAR:NogrodSmiteReconstruction
@@ -94352,7 +94360,7 @@ CONTROLBAR:NogrodSmiteReconstruction
 END
 
 CONTROLBAR:ToolTipNogrodSmiteReconstruction
-"Requires: Level 7 \n Heals Structure \n Healed structure gain 500 health permanently. \n Left click on icon then left click on structure"
+"Requires: Level 7 \n Nogrod smith passively rebuilds structures in a wide area \n Passive abilitiy. \n \n Heals Structure and grants it 500 health permanently. \n Left click on icon then left click on structure"
 END
 
 
@@ -96777,7 +96785,7 @@ CONTROLBAR:LW_Hero_ThlimDoldronMaeglin
 END
 
 CONTROLBAR:ThlimDoldronMaeglinRecruit    
-"Recruit the traitor of Gondolin, \n \n Lore: \n Maeglin was an Elf, the son of Eol the "Dark Elf" and Aredhel daughter of Fingolfin. He lived during the First Age of the SuNain Middle-earth, and was a lord of the hidden Elven kingdom of Gondolin. He became infamous for his betrayal of the location of the city of Gondolin to the Dark Lord Morgoth. Aredhel had left Gondolin to wander through Beleriand, and in the woods of Nan Elmoth, she met Eol, and stayed with him, eventually giving birth to Maeglin. Eol gave his child the name Maeglin when he was 12. His mother told him about Gondolin and its people throughout his childhood and he desired to see his related kiNain the Hidden City. He and his mother soon grew weary and discontented with their life in Nan Elmoth and Eol's strict shunning of the outside world. When Aredhel finally decided to leave Eol, she took her son (who stole his father's sword, Anguirel, forged of meteoric iron) with her and returned to Gondolin. However, Eol had followed her, and in judgment before Turgon, he attempted to kill Maeglin with a poisoned dart, but hit Aredhel instead. She died, and Eol was cast down to his death from the city walls."
+"Recruit the traitor of Gondolin, \n \n Lore: \n Maeglin was an Elf, the son of Eol the "Dark Elf" and Aredhel daughter of Fingolfin. He lived during the First Age of the SuNain Middle-earth, and was a lord of the hidden Elven kingdom of Gondolin. He became infamous for his betrayal of the location of the city of Gondolin to the Dark Lord Morgoth. Aredhel had left Gondolin to wander through Beleriand, and in the woods of Nan Elmoth, she met Eol, and stayed with him, eventually giving birth to Maeglin. Eol gave his child the name Maeglin when he was 12. His mother told him about Gondolin and its people throughout his childhood and he desired to see his related kin in the Hidden City. He and his mother soon grew weary and discontented with their life in Nan Elmoth and Eol's strict shunning of the outside world. When Aredhel finally decided to leave Eol, she took her son (who stole his father's sword, Anguirel, forged of meteoric iron) with her and returned to Gondolin. However, Eol had followed her, and in judgment before Turgon, he attempted to kill Maeglin with a poisoned dart, but hit Aredhel instead. She died, and Eol was cast down to his death from the city walls."
 END
 
 CONTROLBAR:ThlimDoldronMaeglinRevive    
@@ -97326,7 +97334,7 @@ CONTROLBAR:LW_ToolTip_IsengardManSlayerHorde
 END
 
 CONTROLBAR:ToolTipBuildIsengardManSlayerHorde
-"Requires: Uruk Pit Level 3 \n Strong vs. All Unit Types \n You can only train 3 Man Slayer battalions at the same time \n \n Driven mad by the scent of Man-flesh, these deranged creatures are capable of cleaving through armor and sustaining wounds that would kill ordinary orcs and uruks."
+"Requires: Uruk Pit Level 3, Forged Blades and Heavy Armor researched \n Strong vs. All Unit Types \n You can only train 3 Man Slayer battalions at the same time \n \n Driven mad by the scent of Man-flesh, these deranged creatures are capable of cleaving through armor and sustaining wounds that would kill ordinary orcs and uruks. \n You can have only 3 units on the battlefield at the same time"
 END
 
 CONTROLBAR:LW_ToolTipBuild_IsengardManSlayerHorde
@@ -107894,6 +107902,14 @@ CONTROLBAR:ToolTipBlackUrukArrows
 "These arrows deal more damage because they are infected with Uruk blood \n Enemy units will lose 50% damage \n Passive Ability"
 END
 
+CONTROLBAR:BlackUrukWeapon
+"Black Steel of Barad-Dur"
+END
+
+CONTROLBAR:ToolTipBlackUrukWeapon
+"Requires: Level 3 \n Weapons forged from black steel in Mordor is lighter to wield, allowing the black uruks to swing harder dealing area damage.\n Black uruks taste for blood increases as they fight more.\n Black uruks heal with each hit. \n Passive Ability"
+END
+
 CONTROLBAR:SpecialAbilityLeuchtenderPfeil
 "Shining Arrow (&C)"
 END
@@ -107995,7 +108011,7 @@ CONTROLBAR:EredMithrinHunterSpearPassive
 END
 
 CONTROLBAR:ToolTipEredMithrinHunterSpearPassive
-"The Dwarf hunters throw their spears with such velocity that the enemy will crumble \n Enemies will lose 25% damage \n Passive Ability"
+"The Dwarven hunters throw their spears with such velocity that the enemy will crumble \n Enemies will lose 25% damage \n Does not apply if Crushing Throws is active \n Passive Ability"
 END
 
 CONTROLBAR:SSpecialAbilityDefendStructure
@@ -108867,7 +108883,7 @@ CONTROLBAR:ConstructWildAttackTroll
 End
 
 CONTROLBAR:ToolTipBuildWildAttackTroll
-"Requires Level 3 Gundabad Barracks \n Strong vs. Swordsmen, Cavalry, and Structures \n \n This terrifying breed of Mountain Troll far outclasses its southern kiNain both strength and intelligence."
+"Requires Level 3 Gundabad Barracks \n Strong vs. Swordsmen, Cavalry, and Structures \n \n This terrifying breed of Mountain Troll far outclasses its southern kin in both strength and intelligence."
 End
 
 OBJECT:WildAttackTroll
@@ -108883,7 +108899,7 @@ CONTROLBAR:ConstructWildBodyGuardHorde
 END
 
 CONTROLBAR:ToolTipBuildWildBodyGuardHorde
-"Strong vs. All Normal Troops\n Requires Level 3 Gundabad Barracks and Forged Blades researched \n \n Through years of torment and horrifying hardship, these deranged Gundabad Orcs are the greatest warriors the Mountain has to offer."
+"Strong vs. All Normal Troops\n Requires Level 3 Gundabad Barracks and Forged Blades researched \n \n Through years of torment and horrifying hardship, these deranged Gundabad Orcs are the greatest warriors the Mountain has to offer. \n You can have only 5 units on the battlefield at the same time"
 END
 
 CONTROLBAR:ConstructGundabadBarracks
@@ -109775,7 +109791,7 @@ TOOLTIP:LackArnorBattalionCaptains
 END
 
 OBJECT:ArnorFighterCaptainComboHorde
-"Arnor Soldiers"
+"Arnor Soldiers with a Captain leader"
 END
 
 CONTROLBAR:LW_Unit_ArnorFighterCaptainComboHorde
@@ -109783,7 +109799,7 @@ CONTROLBAR:LW_Unit_ArnorFighterCaptainComboHorde
 END
 
 CONTROLBAR:LW_ToolTip_ArnorFighterCaptainComboHorde
-"Arnor Soldier Battalion with a Captain. \n Captains are much stronger than normal fighters and will lead the battalions. "
+"Arnor Soldier Battalion with a Captain. \n Captains are much stronger than normal fighters and will lead the battalions."
 END
 
 OBJECT:ArnorTowerShieldGuardCaptainComboHorde
@@ -109795,7 +109811,7 @@ CONTROLBAR:LW_Unit_ArnorTowerShieldGuardCaptainComboHorde
 END
 
 CONTROLBAR:LW_ToolTip_ArnorTowerShieldGuardCaptainComboHorde
-"Arnor Spearmen Battalion with a Captain. \n Captains are much stronger than normal spearmen and will lead the battalions. "
+"Arnor Spearmen Battalion with a Captain. \n Captains are much stronger than normal spearmen and will lead the battalions."
 END
 
 UPGRADE:HeavyArmorArthedain

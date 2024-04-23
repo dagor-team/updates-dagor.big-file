@@ -1427,6 +1427,42 @@ ModifierList RegularCavHordeBonusRank5
     Duration = 0
 End
 
+
+;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+ModifierList ArcherCavHordeBonusRank2
+    Category = LEVEL
+    Modifier = HEALTH REGULARCAV_HORDE_HP_ADD_LVL2
+    Modifier = DAMAGE_ADD ARCHERCAV_HORDE_DAMAGE_ADD_LVL2
+	Modifier = RANGE 107%
+    Duration = 0
+End
+
+ModifierList ArcherCavHordeBonusRank3
+    Category = LEVEL
+    Modifier = HEALTH REGULARCAV_HORDE_HP_ADD_LVL3
+    Modifier = DAMAGE_ADD ARCHERCAV_HORDE_DAMAGE_ADD_LVL3
+	Modifier = RANGE 107%
+    Duration = 0
+End
+
+ModifierList ArcherCavHordeBonusRank4
+    Category = LEVEL
+    Modifier = HEALTH REGULARCAV_HORDE_HP_ADD_LVL4
+    Modifier = DAMAGE_ADD ARCHERCAV_HORDE_DAMAGE_ADD_LVL4
+	Modifier = RANGE 107%
+    Duration = 0
+End
+
+ModifierList ArcherCavHordeBonusRank5
+    Category = LEVEL
+    Modifier = HEALTH REGULARCAV_HORDE_HP_ADD_LVL5
+    Modifier = DAMAGE_ADD ARCHERCAV_HORDE_DAMAGE_ADD_LVL5
+	Modifier = RANGE 107%
+    Duration = 0
+End
+
 ;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
