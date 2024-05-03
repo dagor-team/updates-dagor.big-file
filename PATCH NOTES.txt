@@ -1,8 +1,5 @@
-mirkwood archer fix
-erestor fix
-feanor fix
-gil galad leadership now scaling same as elrond
-undermine and ent summon forbidden range slightly lowered
-ered mithrin hunters ability fix
-descriptions
-dol amroth cav and windriders rebalance
+necromancer attack fix
+avari stealth fix
+Sharku rework
+commandset fix for dwarven spear throwers after mithril
+cav archers scaling fix
