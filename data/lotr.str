@@ -57873,8 +57873,8 @@ CONTROLBAR:PurchaseUpgradeEregionForgeLevel2
 "&Upgrade Eregion Forge to Level 2"
 END
 
-CONTROLBAR:ToolTipBuildEregionForgeLevel3
-"Allows the research of Forged Blades and Golden Arrows"
+CONTROLBAR:ToolTipBuildEregionForgeLevel2
+"Allows the research of Forged Blades"
 END
 
 CONTROLBAR:PurchaseUpgradeEregionForgeLevel3
@@ -57882,7 +57882,7 @@ CONTROLBAR:PurchaseUpgradeEregionForgeLevel3
 END
 
 CONTROLBAR:ToolTipBuildEregionForgeLevel3
-"Allows the research of Helmets of the Last Alliance"
+"Allows the research of Helmets of the Last Alliance and Golden Arrows"
 END
 
 UPGRADE:EregionForgeLevel2
