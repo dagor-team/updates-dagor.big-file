@@ -9317,14 +9317,6 @@ ModifierList SarumanGiveUpgrade
     Upgrade  = Upgrade_TestBuilding_2 Delay:1
 End
 
-ModifierList SchmiedekunstderZwillingeBruchtals
-	Category       = SPELL
-        Modifier       = DAMAGE_ADD 100
-	Duration       = 0
-	Upgrade        = Upgrade_ZwillingeWaffeSchmieden Delay:10
-        FX	       = FX_WaffeSchmiedenFX
-End
-
 ModifierList GeschmiedeteKlingeElrondModifier
 	Category       = SPELL
 	Duration       = 0
