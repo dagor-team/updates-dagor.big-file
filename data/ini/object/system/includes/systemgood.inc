@@ -274,8 +274,18 @@
         RequirementsFilterMPSkirmish = SPELL_BOOK_REQUIREMENTS_FILTER
         RequirementsFilterStrategic = SPELL_BOOK_REQUIREMENTS_FILTER_STRATEGIC
     End
-
-    Behavior = OCLSpecialPower ModuleTag_TomBombadilundGoldbeere
+	
+	Behavior = PlayerUpgradeSpecialPower    ModuleTag_SpellBookTomBombadil
+        SpecialPowerTemplate        	= SpellBookTomBombadil
+        UpgradeName             		= Upgrade_ImladrisGelehrtenWeisheit Upgrade_BibliothekMilitarkunstEntwickelt Upgrade_BibliothekMilitarkunst
+        UpdateModuleStartsAttack    	= No
+        AffectAllies            		= No
+        AvailableAtStart        		= No
+        RequirementsFilterMPSkirmish 	= SPELL_BOOK_REQUIREMENTS_FILTER
+        RequirementsFilterStrategic 	= SPELL_BOOK_REQUIREMENTS_FILTER_STRATEGIC
+    End
+    
+	Behavior = OCLSpecialPower ModuleTag_TomBombadilundGoldbeere
         SpecialPowerTemplate = SpellBookTomBombadilundGoldbeere
         OCL                  = OCL_SpawnTomBombadilEgg
         CreateLocation       = CREATE_AT_LOCATION
