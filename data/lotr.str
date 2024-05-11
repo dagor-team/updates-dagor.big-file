@@ -42279,6 +42279,14 @@ CONTROLBAR:ToolTipSummonSpiderlings
 "Summons a group of Spiderlings \n Left-click icon then left-click on pathable location"
 END
 
+CONTROLBAR:ElrondsHouse
+"Valley of knowlegde and wisdom"
+END
+
+CONTROLBAR:TooltipElrondsHouse
+"Rivendel hosts the last homely house in the east of the civilized lands of Eriador \n One can find Elrond's library, the Hall of Fire, the scholar's guild and much more knowlegde than one can consume in a lifetime. \n \n Permanently grants
+END
+
 CONTROLBAR:SummonTomBombadil
 "Summon Tom Bombadil"
 END
