@@ -277,7 +277,27 @@
 	
 	Behavior = PlayerUpgradeSpecialPower    ModuleTag_SpellBookTomBombadil
         SpecialPowerTemplate        	= SpellBookTomBombadil
-        UpgradeName             		= Upgrade_ImladrisGelehrtenWeisheit Upgrade_BibliothekMilitarkunstEntwickelt Upgrade_BibliothekMilitarkunst
+        UpgradeName             		= Upgrade_ImladrisGelehrtenWeisheit 
+        UpdateModuleStartsAttack    	= No
+        AffectAllies            		= No
+        AvailableAtStart        		= No
+        RequirementsFilterMPSkirmish 	= SPELL_BOOK_REQUIREMENTS_FILTER
+        RequirementsFilterStrategic 	= SPELL_BOOK_REQUIREMENTS_FILTER_STRATEGIC
+    End
+    
+	Behavior = PlayerUpgradeSpecialPower    ModuleTag_SpellBookTomBombadil
+        SpecialPowerTemplate        	= SpellBookTomBombadil
+        UpgradeName             		= Upgrade_BibliothekMilitarkunstEntwickelt 
+        UpdateModuleStartsAttack    	= No
+        AffectAllies            		= No
+        AvailableAtStart        		= No
+        RequirementsFilterMPSkirmish 	= SPELL_BOOK_REQUIREMENTS_FILTER
+        RequirementsFilterStrategic 	= SPELL_BOOK_REQUIREMENTS_FILTER_STRATEGIC
+    End
+    
+	Behavior = PlayerUpgradeSpecialPower    ModuleTag_SpellBookTomBombadil
+        SpecialPowerTemplate        	= SpellBookTomBombadil
+        UpgradeName             		= Upgrade_BibliothekMilitarkunst
         UpdateModuleStartsAttack    	= No
         AffectAllies            		= No
         AvailableAtStart        		= No
