@@ -2309,68 +2309,15 @@ CommandSet WildGreatGoblinCommandSet_Befehle
     18      = Command_SetStanceHoldGround
 End
 
-CommandSet ErestorCommandSetLevel1
-    1    = Command_ToggleStance
-    2     = Command_SpecialAbilityWeisheitderGelehrten
-    3     = Command_ErestorLevel2
-    12     = Command_CaptureBuilding
-    14     = Command_Stop
-    16      = Command_SetStanceBattle
-    17      = Command_SetStanceAggressive
-    18      = Command_SetStanceHoldGround
-End
-
-CommandSet ErestorCommandSetLevel2
-    1    = Command_ToggleStance
-    2     = Command_SpecialAbilityWeisheitderGelehrten
-    3     = Command_MilitarischeStudien
-    4     = Command_ErestorLevel3
-    12     = Command_CaptureBuilding
-    14     = Command_Stop
-    16      = Command_SetStanceBattle
-    17      = Command_SetStanceAggressive
-    18      = Command_SetStanceHoldGround
-End
-
-CommandSet ErestorCommandSetLevel3
-    1    = Command_ToggleStance
-    2     = Command_SpecialAbilityWeisheitderGelehrten
-    3     = Command_MilitarischeStudien
-    4     = Command_BeraterElronds
-    5     = Command_ErestorLevel4
-    12     = Command_CaptureBuilding
-    14     = Command_Stop
-    16      = Command_SetStanceBattle
-    17      = Command_SetStanceAggressive
-    18      = Command_SetStanceHoldGround
-End
-
-CommandSet ErestorCommandSetLevel4
-    1    = Command_ToggleStance
-    2     = Command_SpecialAbilityWeisheitderGelehrten
-    3     = Command_MilitarischeStudien
-    4     = Command_BeraterElronds
-    5     = Command_EffizienteErnte
-    6     = Command_ErestorLevel5
-    12     = Command_CaptureBuilding
-    14     = Command_Stop
-    16      = Command_SetStanceBattle
-    17      = Command_SetStanceAggressive
-    18      = Command_SetStanceHoldGround
-End
-
-CommandSet ErestorCommandSetLevel5
-    1    = Command_ToggleStance
-    2     = Command_SpecialAbilityWeisheitderGelehrten
-    3     = Command_MilitarischeStudien
-    4     = Command_BeraterElronds
-    5     = Command_EffizienteErnte
-    6     = Command_MagischesWissen
-    12     = Command_CaptureBuilding
-    14     = Command_Stop
-    16      = Command_SetStanceBattle
-    17      = Command_SetStanceAggressive
-    18      = Command_SetStanceHoldGround
+CommandSet ErestorCommandSet
+    1    	= Command_BeraterElronds
+    2    	= Command_SpecialAbilityBruchtalErestorFarm
+    3    	= Command_EffizienteErnte
+    4    	= Command_ImladrisGelehrterInspirierendePrasenz
+    5    	= Command_MagischesWissen
+    6    	= Command_SpecialAbilityErestorZweiteReihe
+    12      = Command_CaptureBuilding
+    14      = Command_Stop
 End
 
 CommandSet AngmarOrksBergGramHordeCommandSet

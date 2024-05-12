@@ -2153,7 +2153,7 @@ CONTROLBAR:ToolTipSpecialAbilityZwergenRuneSchrecken_Neu
 END
 
 CONTROLBAR:ToolTipZugriffDolGuldurs_Neu
-"Requires: Level 4 \n Kham l sends the power of Dol Guldur against an enemy building \n For 30 seconds Kham l gains new abilities \n Left-click to activate"
+"Requires: Level 4 \n Khamul sends the power of Dol Guldur against an enemy building \n For 30 seconds Khamul gains new abilities \n Left-click to activate"
 END
 
 CONTROLBAR:ToolTipWitchkingFurstvonMinasMorgul_Neu
@@ -2209,7 +2209,7 @@ CONTROLBAR:ToolTipWitchkingRingjager_Neu
 END
 
 CONTROLBAR:ToolTipKhamulVerderbnis_Neu
-"Requires: Level 4 \n Kham l's power can become infertile and the harvest work materials rust \n The building is out of service for 60 seconds \n Left-click on the enemy buildings"
+"Requires: Level 4 \n Khamul's power can become infertile and the harvest work materials rust \n The building is out of service for 60 seconds \n Left-click on the enemy buildings"
 END
 
 CONTROLBAR:TooltipScreechWitchKing_Neu
@@ -2217,19 +2217,19 @@ CONTROLBAR:TooltipScreechWitchKing_Neu
 END
 
 CONTROLBAR:ToolTipSpecialAbilityKhamulVasallenopfer_Neu
-"Requires: Level 7 \n Kham l withdraws the life energy of his shadow guard and transfers it to himself \n Sacrifice a battalion of Black Easterlings to restore the life energy of Kham l \n Left-click on an allied Black Easterling battalion"
+"Requires: Level 7 \n Khamul withdraws the life energy of his shadow guard and transfers it to himself \n Sacrifice a battalion of Black Easterlings to restore the life energy of Khamul \n Left-click on an allied Black Easterling battalion"
 END
 
 CONTROLBAR:ToolTipVasallendesRinggeists_Neu
-"Requires: Level 10 \n Kham l , the Shadow of the East, permanently summons a battalion of his most loyal guardians: The Black Easterlings \n Left-click on the target location"
+"Requires: Level 10 \n Khamul , the Shadow of the East, permanently summons a battalion of his most loyal guardians: The Black Easterlings \n Left-click on the target location"
 END
 
 CONTROLBAR:ToolTipKhamulsPrasenz_Neu
-"Requires: Level 2 \n Kham l's mere presence weakens enemies and can rot wood, break bricks and rust metal \n Enemy buildings suffer permanent damage and enemy units are weakened in his vacinity\n Whilst riding his Winged Shadow, buildings take no damage \n Passive ability"
+"Requires: Level 2 \n Khamul's mere presence weakens enemies and can rot wood, break bricks and rust metal \n Enemy buildings suffer permanent damage and enemy units are weakened in his vacinity\n Whilst riding his Winged Shadow, buildings take no damage \n Passive ability"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityKhamulFledermauseDolGuldurs_Neu
-"Requires: Level 6 \n A swarm of bats from Dol Guldur flies for one and a half minutes over the building and serves as the eyes and ears of Kham l \n Left-click on an enemy building"
+"Requires: Level 6 \n A swarm of bats from Dol Guldur flies for one and a half minutes over the building and serves as the eyes and ears of Khamul \n Left-click on an enemy building"
 END
 
 CONTROLBAR:ToolTipKhamulTribut_Neu
@@ -2249,11 +2249,11 @@ CONTROLBAR:ToolTipKhamulStreik_Neu
 END
 
 CONTROLBAR:ToolTipAuradesVerfalls_Neu
-"Requires: Level 10 \n Kham l's mere presence can rot wood, break stone and rust metal \n Enemy buildings near him permanently suffer damage \n Passive ability"
+"Requires: Level 10 \n Khamul's mere presence can rot wood, break stone and rust metal \n Enemy buildings near him permanently suffer damage \n Passive ability"
 END
 
 CONTROLBAR:ToolTipDrohungderNazgul_Neu
-"Requires: Level 4 \n Kham l puts the residents of an enemy building into fear, forcing them to provide service to the Dark Ruler \n For 30 seconds a new Palantir opens up, where Khamul can choose one of 3 ways to terrorize enemy buildings \n Left-click to switch the Palantir"
+"Requires: Level 4 \n Khamul puts the residents of an enemy building into fear, forcing them to provide service to the Dark Ruler \n For 30 seconds a new Palantir opens up, where Khamul can choose one of 3 ways to terrorize enemy buildings \n Left-click to switch the Palantir"
 END
 
 CONTROLBAR:ToolTipBlackRiderMorgulBlade_DunklerMarshallNeu
@@ -2433,7 +2433,7 @@ CONTROLBAR:PurchaseUpgradeInsignienStatthalter
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeInsignienStatthalter
-"Kham l is honored as the governor Dol Guldur \n As a sign of his power, he receives a Winged Shadow mount and a death mask, which improve his skills and combat strength\n As the armored Shadow of the East, he becomes incredibly strong with new capabilities and higher base stats\n If Kham l falls in battle, the insignia is destroyed, but can be made anew"
+"Khamul is honored as the governor Dol Guldur \n As a sign of his power, he receives a Winged Shadow mount and a death mask, which improve his skills and combat strength\n As the armored Shadow of the East, he becomes incredibly strong with new capabilities and higher base stats\n If Khamul falls in battle, the insignia is destroyed, but can be made anew"
 END
 
 CONTROLBAR:PurchaseUpgradeRobeSchattenfurst
@@ -9100,11 +9100,11 @@ CONTROLBAR:ToolTipSpecialAbilityAufseherAntreiben
 END
 
 CONTROLBAR:KhamulsPrasenz
-"Kham l's Presence"
+"Khamul's Presence"
 END
 
 CONTROLBAR:ToolTipKhamulsPrasenz
-"Requires: Level 2 \n Kham l s mere presence weakens enemies and lets wood rot, stones crumble and metal rust \n Enemy buildings in his vicinity suffer permanent damage and enemy units are weakened \n Mounted on his Fellbeast, buildings no longer suffer damage \n Passive Ability"
+"Requires: Level 2 \n Khamul s mere presence weakens enemies and lets wood rot, stones crumble and metal rust \n Enemy buildings in his vicinity suffer permanent damage and enemy units are weakened \n Mounted on his Fellbeast, buildings no longer suffer damage \n Passive Ability"
 END
 
 CONTROLBAR:StatthalterDolGuldurs
@@ -9120,11 +9120,11 @@ CONTROLBAR:ZugriffDolGuldurs
 END
 
 CONTROLBAR:ToolTipZugriffDolGuldurs
-"Requires: Level 4 \n Kham l sends the force of Dol Guldur against an enemy building \n Left-click to activate"
+"Requires: Level 4 \n Khamul sends the force of Dol Guldur against an enemy building \n Left-click to activate"
 END
 
 CONTROLBAR:ToolTipKhamulVerderbnis
-"Requires: Level 4 \n Kham l's might ruins the harvest and rusts the farming tools \n The building is disabled for 60 seconds \n Left-click on a target enemy building"
+"Requires: Level 4 \n Khamul's might ruins the harvest and rusts the farming tools \n The building is disabled for 60 seconds \n Left-click on a target enemy building"
 END
 
 CONTROLBAR:SpecialAbilityKhamulFledermauseDolGuldurs
@@ -9132,7 +9132,7 @@ CONTROLBAR:SpecialAbilityKhamulFledermauseDolGuldurs
 END
 
 CONTROLBAR:ToolTipSpecialAbilityKhamulFledermauseDolGuldurs
-"Requires: Level 6 \n A bat swarm of Dol Guldur flies for one and a half minutes over the building, serving Kham l as eyes and ears \n Left-click on an enemy building"
+"Requires: Level 6 \n A bat swarm of Dol Guldur flies for one and a half minutes over the building, serving Khamul as eyes and ears \n Left-click on an enemy building"
 END
 
 CONTROLBAR:VasallendesRinggeists
@@ -9144,11 +9144,11 @@ CONTROLBAR:SpecialAbilityKhamulVasallenopfer
 END
 
 CONTROLBAR:ToolTipSpecialAbilityKhamulVasallenopfer
-"Requires: Level 7 \n Kham l extracts the vital essence of his black guards and transfers it to himself \n A battalion of Black Easterlings is sacrificed and replenishes Kham l's health \n Left-click on the target battalion of Black Easterlings"
+"Requires: Level 7 \n Khamul extracts the vital essence of his black guards and transfers it to himself \n A battalion of Black Easterlings is sacrificed and replenishes Khamul's health \n Left-click on the target battalion of Black Easterlings"
 END
 
 CONTROLBAR:ToolTipVasallendesRinggeists
-"Requires: Sauron/Gorthaur Level 10 or with the Silmaril \n Kham l, the Shadow of the East, permanently summons a battalion of his most loyal guardians: The Black Easterlings \n Left-click on the target location"
+"Requires: Sauron/Gorthaur Level 10 or with the Silmaril \n Khamul, the Shadow of the East, permanently summons a battalion of his most loyal guardians: The Black Easterlings \n Left-click on the target location"
 END
 
 CONTROLBAR:ToolTipSharkuHetzjagd
@@ -9260,7 +9260,7 @@ CONTROLBAR:KhamulStreik
 END
 
 CONTROLBAR:ToolTipAuradesVerfalls
-"Requires: Level 10 \n Kham l's mere presence lets wood rot, stone crumble and metal rust \n Enemy buildings in his vicinity suffer permanent damage\n Passive Ability"
+"Requires: Level 10 \n Khamul's mere presence lets wood rot, stone crumble and metal rust \n Enemy buildings in his vicinity suffer permanent damage\n Passive Ability"
 END
 
 CONTROLBAR:DrohungderNazgul
@@ -9268,7 +9268,7 @@ CONTROLBAR:DrohungderNazgul
 END
 
 CONTROLBAR:ToolTipDrohungderNazgul
-"Requires: Level 4 \n Kham l displaced residents of an enemy building in fear and forces them in the dark ruler to provide a service \n Activation capability opens briefly a new Palantir, where you can choose one of 3 services"
+"Requires: Level 4 \n Khamul displaced residents of an enemy building in fear and forces them in the dark ruler to provide a service \n Activation capability opens briefly a new Palantir, where you can choose one of 3 services"
 END
 
 CONTROLBAR:AlfwynnHotkey
@@ -10036,7 +10036,7 @@ CONTROLBAR:BeraterElronds
 END
 
 CONTROLBAR:TooltipBeraterElronds
-"His research on the history of Arda allows Erestor to advise his master and the heroes of Imladris to ease their burden \n While Erestor is on the field, all the heroes of Imladris cost 25% less \n Passive ability"
+"His research on the history of Arda allows Erestor to advise his master and the heroes of Imladris to ease their burden \n While Erestor is on the field, all the heroes of Imladris cost 10% less \n Passive ability"
 END
 
 CONTROLBAR:MagischesWissen
@@ -10044,7 +10044,7 @@ CONTROLBAR:MagischesWissen
 END
 
 CONTROLBAR:TooltipMagischesWissen
-"Erestor has scrupulously studied the ancient scrolls of Elven magic \n As long as he remains on the battlefield, all of Rivendell's Spellbook abilities cooldown 8% faster, upon reaching first age spellbook cooldowns are reduced by 15% \n Passive Ability"
+"Requires: Level 4 \n Erestor has scrupulously studied the ancient scrolls of Elven magic \n As long as he remains on the battlefield, all of Rivendell's Spellbook abilities cooldown 8% faster, upon reaching first age spellbook cooldowns are reduced by 15% \n Passive Ability"
 END
 
 CONTROLBAR:EffizienteErnte
@@ -10052,15 +10052,23 @@ CONTROLBAR:EffizienteErnte
 END
 
 CONTROLBAR:ToolTipEffizienteErnte
-"Erestor's knowledge extends to the territory of the farm economy \n He can now apply that knowledge to farms, giving them experience \n Left-click on a friendly farm"
+"Requires: Level 2 \n Erestor's knowledge extends to the territory of the farm economy \n He can now apply that knowledge to farms, giving them experience \n Left-click on a friendly farm"
 END
 
-CONTROLBAR:MilitarischeStudien
-"&Military Studies"
+CONTROLBAR:SpecialAbilityErestorsFarm
+"&Erestors Farm"
 END
 
-CONTROLBAR:ToolTipMilitarischeStudien
-"Erestor studies the ways of a designated enemy, allowing him to prepare countermeasures \n Units of Imladris deal significantly greater damage and have increased armor when facing the target enemy\n Left-click on a hostile target unit"
+CONTROLBAR:ToolTipSpecialAbilityErestorsFarm
+"Erestor spends a lot of his time studying in the beautiful gardens of the last homely house,\n so much so that elrond designated a whole garden just for him.\n \n Erestor summons a garden house that provides resources, but also gives him experience.\n Left-click on a target area"
+END
+
+CONTROLBAR:ErestorZweiteReihe
+"&Book-smart Strategist"
+END
+
+CONTROLBAR:ToolTipErestorZweiteReihe
+"Requires: Level 5 \n Erestor uses his knowlegde to bolster the ranks of imladris warriors.\n \n Summons a battalion of basic imladris units depending on the unit of your choosing.\n You can merge the summoned unit with the other unit. \n Left-click on a desired unit"
 END
 
 CONTROLBAR:SchriftfuhrerdesRates
@@ -10872,7 +10880,7 @@ CONTROLBAR:TooltipSpellBookMinasMorgulBombard
 END
 
 CONTROLBAR:ToolTipMordorDolGoldurPrisonForDolGuldur
-"Military Structure \n Trains units from Dol Guldur \n Recruitable Hero: Kham l \n You can only build 2 Dol Guldur Prisions in the same game"
+"Military Structure \n Trains units from Dol Guldur \n Recruitable Hero: Khamul \n You can only build 2 Dol Guldur Prisions in the same game"
 END
 
 CONTROLBAR:SpellBookZorndesMorgulfursten
@@ -10928,7 +10936,7 @@ CONTROLBAR:TooltipSpecialAbilityToggleEnthuellung2ForMinasMorgul
 END
 
 CONTROLBAR:TooltipToggleMountedKhamulSauronsDienerForMinasMorgul
-"Kham l is appointed Governor Dol Guldur \n New skills are available, increased defaults \n Left click to activate"
+"Khamul is appointed Governor Dol Guldur \n New skills are available, increased defaults \n Left click to activate"
 END
 
 CONTROLBAR:TooltipToggleMountedWitchkingSauronsDienerForMinasMorgul
@@ -12653,7 +12661,7 @@ CONTROLBAR:ImladrisGelehrterInspirierendePrasenz
 END
 
 CONTROLBAR:ToolTipImladrisGelehrterInspirierendePrasenz
-"The wisdom of the scholars inspires the heroes of Imladris \n All heroes that are close to the scholars level up to 25% faster \n Passive ability"
+"Requires: Level 3 \n The wisdom of the Erestor inspires the heroes of Imladris \n All heroes that are close to the Erestor level up to 25% faster \n Passive ability"
 END
 
 CONTROLBAR:SchwertmeisterParade
@@ -14290,7 +14298,7 @@ CONTROLBAR:PurchaseUpgradeMordorFortressGuldurTurm
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeMordorFortressGuldurTurm
-"Fortress walls and poison enemies near them dungeon leveling to level 3 \n Kham l be appointed Governor Dol Guldur \n Lets you use the spell-corruption \n You can only build a tower per fortress"
+"Fortress walls and poison enemies near them dungeon leveling to level 3 \n Khamul be appointed Governor Dol Guldur \n Lets you use the spell-corruption \n You can only build a tower per fortress"
 END
 
 UPGRADE:FortressMinasMorgulTurm
@@ -14306,11 +14314,11 @@ CONTROLBAR:SpecialAbilityKriegerdesOstens
 END
 
 CONTROLBAR:ToolTipSpecialAbilityKriegerdesOstens
-"Kham l demands the loyalty of the people of the East \n Turns Minifraction free \n Gets a builder ever the people of the East and a squad of soldiers Rhun \n Left click on the desired destination area"
+"Khamul demands the loyalty of the people of the East \n Turns Minifraction free \n Gets a builder ever the people of the East and a squad of soldiers Rhun \n Left click on the desired destination area"
 END
 
 CONTROLBAR:TooltipToggleMountedKhamulSauronsDiener
-"Requires: Tower of Dol Guldur \n Kham l becomes governor Dol Guldur appointed \n New skills are available, increased defaults \n Allows the support of the people of the people of the East Mini \n Left click to activate"
+"Requires: Tower of Dol Guldur \n Khamul becomes governor Dol Guldur appointed \n New skills are available, increased defaults \n Allows the support of the people of the people of the East Mini \n Left click to activate"
 END
 
 CONTROLBAR:TooltipScreechBlackRider_Khamul
@@ -20868,7 +20876,7 @@ CONTROLBAR:LW_Hero_NazgulMod
 END
 
 CONTROLBAR:LW_Hero_Khamul
-"Kham l"
+"Khamul"
 END
 
 CONTROLBAR:LW_Hero_Mahud
@@ -24790,7 +24798,7 @@ CONTROLBAR:ConstructBilbo
 END
 
 CONTROLBAR:ConstructKhamul
-"Kham l"
+"Khamul"
 END
 
 CONTROLBAR:ConstructGoldbeere
@@ -24814,7 +24822,7 @@ CONTROLBAR:ToolTipBuildGorbag
 END
 
 CONTROLBAR:ToolTipBuildKhamul
-"Recruit the shadow of the East \n \n Lore: \n Kham l was one of the 9 Ringwraiths, second to the Witch-king, in Middle-earth after Arnor was defeated. During the Third Age, he held Dol Guldur as Sauron's lieutenant. After the Witch-king was slain, he became the Lord of Nazgul for a short period. Kham l was the Wraith who pursued the Hobbits to Bucklebury ferry in the Shire, and who asked Farmer Maggot for "Baggins" just before Frodo Baggins left Hobbiton. Kham l also appeared in the Battle of the Pelennor Fields with the other Nazgul, mounted on his Fellbeast and killing Gondor's soldiers at the beginning of the battle. After the Witch-king s demise, he and the other 7 lesser Nazgul retreated to Mordor. Afterwards, Kham l became the leader of the Nazgul. He led them to the Battle of the Black Gate riding his Fellbeast, before they were attacked by the Eagles. The Nazgul retreated when they sensed that Frodo claimed the Ring for himself, and were lured towards Mount Doom. He fell by the eruption's fire.""
+"Recruit the shadow of the East \n \n Lore: \n Khamul was one of the 9 Ringwraiths, second to the Witch-king, in Middle-earth after Arnor was defeated. During the Third Age, he held Dol Guldur as Sauron's lieutenant. After the Witch-king was slain, he became the Lord of Nazgul for a short period. Khamul was the Wraith who pursued the Hobbits to Bucklebury ferry in the Shire, and who asked Farmer Maggot for "Baggins" just before Frodo Baggins left Hobbiton. Khamul also appeared in the Battle of the Pelennor Fields with the other Nazgul, mounted on his Fellbeast and killing Gondor's soldiers at the beginning of the battle. After the Witch-king s demise, he and the other 7 lesser Nazgul retreated to Mordor. Afterwards, Khamul became the leader of the Nazgul. He led them to the Battle of the Black Gate riding his Fellbeast, before they were attacked by the Eagles. The Nazgul retreated when they sensed that Frodo claimed the Ring for himself, and were lured towards Mount Doom. He fell by the eruption's fire.""
 END
 
 CONTROLBAR:ToolTipBuildBilbo
@@ -25228,7 +25236,7 @@ CONTROLBAR:LordOfRhun
 END
 
 CONTROLBAR:ToolTipLordOfRhun
-"Requires: Level 3 \n The knowledge of Kham l bygone stories and fighting techniques and passes it to his men continue \n Men from Umbar, Harad and Rhun get experience of Kham l \n Left click on the desired destination area"
+"Requires: Level 3 \n The knowledge of Khamul bygone stories and fighting techniques and passes it to his men continue \n Men from Umbar, Harad and Rhun get experience of Khamul \n Left click on the desired destination area"
 END
 
 CONTROLBAR:RingHunter
@@ -25236,7 +25244,7 @@ CONTROLBAR:RingHunter
 END
 
 CONTROLBAR:ToolTipRingHunter
-"Kham l can see cloaked units \n Passive ability"
+"Khamul can see cloaked units \n Passive ability"
 END
 
 CONTROLBAR:SpecialAbilityBlackBreath
@@ -25244,7 +25252,7 @@ CONTROLBAR:SpecialAbilityBlackBreath
 END
 
 CONTROLBAR:ToolTipSpecialAbilityBlackBreath
-"Requires: Level 5 \n Kham l leaves enemy units into the realm of shadows glide \n Enemy units received minor damage, are poisoned and have short-term 50% less armor \n Left click to activate"
+"Requires: Level 5 \n Khamul leaves enemy units into the realm of shadows glide \n Enemy units received minor damage, are poisoned and have short-term 50% less armor \n Left click to activate"
 END
 
 CONTROLBAR:KhamulConquer
@@ -25252,7 +25260,7 @@ CONTROLBAR:KhamulConquer
 END
 
 CONTROLBAR:ToolTipKhamulConquer
-"Requires: Level 7 \n Kham l conjures a powerful projectile from the realm of shadows \n Only used against buildings \n Left click on an enemy building"
+"Requires: Level 7 \n Khamul conjures a powerful projectile from the realm of shadows \n Only used against buildings \n Left click on an enemy building"
 END
 
 CONTROLBAR:SpecialAbilityThorinHarden
@@ -25272,19 +25280,19 @@ CONTROLBAR:LW_Unit_HeroWolfHorde
 END
 
 OBJECT:MordorKhamul
-"Kham l"
+"Khamul"
 END
 
 CONTROLBAR:MordorKhamulRecruit
-"Recruit the Shadow of the East \n While all Ringwraiths generate their own power, they are tied to the mercy of the Dark Lord \n As Sauron grows in strength, the Nazgul will be able to fully embrace his darkness, unlocking their truest and darkest selves \n \n Lore: \n Kham l was one of the 9 Ringwraiths, second to the Witch-king, in Middle-earth after Arnor was defeated. During the Third Age, he held Dol Guldur as Sauron's lieutenant. After the Witch-king was slain, he became the Lord of Nazgul for a short period. Kham l was the Wraith who pursued the Hobbits to Bucklebury ferry in the Shire, and who asked Farmer Maggot for "Baggins" just before Frodo Baggins left Hobbiton. Kham l also appeared in the Battle of the Pelennor Fields with the other Nazgul, mounted on his Fellbeast and killing Gondor's soldiers at the beginning of the battle. After the Witch-king s demise, he and the other 7 lesser Nazgul retreated to Mordor. Afterwards, Kham l became the leader of the Nazgul. He led them to the Battle of the Black Gate riding his Fellbeast, before they were attacked by the Eagles. The Nazgul retreated when they sensed that Frodo claimed the Ring for himself, and were lured towards Mount Doom. He fell by the eruption's fire.""
+"Recruit the Shadow of the East \n While all Ringwraiths generate their own power, they are tied to the mercy of the Dark Lord \n As Sauron grows in strength, the Nazgul will be able to fully embrace his darkness, unlocking their truest and darkest selves \n \n Lore: \n Khamul was one of the 9 Ringwraiths, second to the Witch-king, in Middle-earth after Arnor was defeated. During the Third Age, he held Dol Guldur as Sauron's lieutenant. After the Witch-king was slain, he became the Lord of Nazgul for a short period. Khamul was the Wraith who pursued the Hobbits to Bucklebury ferry in the Shire, and who asked Farmer Maggot for "Baggins" just before Frodo Baggins left Hobbiton. Khamul also appeared in the Battle of the Pelennor Fields with the other Nazgul, mounted on his Fellbeast and killing Gondor's soldiers at the beginning of the battle. After the Witch-king s demise, he and the other 7 lesser Nazgul retreated to Mordor. Afterwards, Khamul became the leader of the Nazgul. He led them to the Battle of the Black Gate riding his Fellbeast, before they were attacked by the Eagles. The Nazgul retreated when they sensed that Frodo claimed the Ring for himself, and were lured towards Mount Doom. He fell by the eruption's fire.""
 END
 
 CONTROLBAR:MordorKhamulRevive
-"Summon the fallen hero Kham l"
+"Summon the fallen hero Khamul"
 END
 
 CONTROLBAR:MordorKhamulHotkey
-"&Kham l"
+"&Khamul"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityThorinHarden
@@ -25800,7 +25808,7 @@ CONTROLBAR:ToolTipBuildConstructLothlorienArcherRange3Upgrade
 END
 
 CONTROLBAR:TooltipSpellbookMyHour
-"The Witch-king and Kham l lay their trappings of power \n The Shadow Prince and the Dark Marshal also have the option of creating their insignia \n The 9 heed the call of their master and lead the armies of Mordor in the battle \n Allows changes and Improvements to the Nazgul of Barad-Dur, in Kham l and the Witch-king \n Passive ability"
+"The Witch-king and Khamul lay their trappings of power \n The Shadow Prince and the Dark Marshal also have the option of creating their insignia \n The 9 heed the call of their master and lead the armies of Mordor in the battle \n Allows changes and Improvements to the Nazgul of Barad-Dur, in Khamul and the Witch-king \n Passive ability"
 END
 
 CONTROLBAR:HauchausValinor
@@ -42283,8 +42291,8 @@ CONTROLBAR:ElrondsHouse
 "Valley of knowlegde and wisdom"
 END
 
-CONTROLBAR:TooltipElrondsHouse
-"Rivendel hosts the last homely house in the east of the civilized lands of Eriador \n One can find Elrond's library, the Hall of Fire, the scholar's guild and much more knowlegde than one can consume in a lifetime. \n \n Permanently grants
+CONTROLBAR:TooltipElrondsHouse 
+"Rivendel hosts the last homely house in the east of the civilized lands of Eriador \n One can find Elrond's library, the Hall of Fire, the scholar's guild and much more knowlegde than one can consume in a lifetime. \n \n Permanently grants economy boost and unlocks new abilities for imladris units as long as the imladris library is on the field"
 END
 
 CONTROLBAR:SummonTomBombadil
@@ -61625,11 +61633,11 @@ OBJECT:MordorDolguldurBarracks
 END
 
 OBJECT:MordorDolguldurPrisonDescription
-"Military Structure \n Trains units from Dol Guldur \n Recruitable Hero: Kham l"
+"Military Structure \n Trains units from Dol Guldur \n Recruitable Hero: Khamul"
 END
 
 CONTROLBAR:ToolTipMordorDolGoldurPrisonDescription
-"Military Structure \n Trains units from Dol Guldur \n Recruitable Hero: Kham l"
+"Military Structure \n Trains units from Dol Guldur \n Recruitable Hero: Khamul"
 END
 
 CONTROLBAR:ConstructMordorDolGuldurBarracks
@@ -61637,11 +61645,11 @@ CONTROLBAR:ConstructMordorDolGuldurBarracks
 END
 
 CONTROLBAR:ToolTipMordorDolGoldurPrison
-"Military Structure \n Requires: Dol Guldur Garrison \n Trains units from Dol Guldur \n Recruitable Hero: Kham l \n You can only build 2 Dol Guldur Dungeons in the same game"
+"Military Structure \n Requires: Dol Guldur Garrison \n Trains units from Dol Guldur \n Recruitable Hero: Khamul \n You can only build 2 Dol Guldur Dungeons in the same game"
 END
 
 CONTROLBAR:ToolTipMordorDolGoldurPrison_wotr
-"Military Structure \n Trains units from Dol Guldur \n Recruitable Hero: Kham l \n You can only build 2 Dol Guldur Dungeons in the same game"
+"Military Structure \n Trains units from Dol Guldur \n Recruitable Hero: Khamul \n You can only build 2 Dol Guldur Dungeons in the same game"
 END
 
 CONTROLBAR:MordorEinzugssystemGuldur
@@ -63112,7 +63120,7 @@ CONTROLBAR:ConstructEasterlingGuardHorde
 END
 
 CONTROLBAR:ToolTipConstructEasterlingGuardHorde
-"Requires: Kham l with Lieutenant's Insignia \n Unit Type: Elite Infantry \n Strong vs: Structures and Monster \n You can only train 3 battalions"
+"Requires: Khamul with Lieutenant's Insignia \n Unit Type: Elite Infantry \n Strong vs: Structures and Monster \n You can only train 3 battalions"
 END
 
 BANNERUI:EasterlingGuardHorde
@@ -63152,7 +63160,7 @@ CONTROLBAR:ConstructEasterlingKataphraktHorde
 END
 
 CONTROLBAR:ToolTipBuildEasterlingKataphraktHorde
-"Requires: Kham l with Lieutenant's Insignia \n Unit Type: Elite Cavalry \n Strong vs: Archer and Cavalry \n You can only train 3 battalions"
+"Requires: Khamul with Lieutenant's Insignia \n Unit Type: Elite Cavalry \n Strong vs: Archer and Cavalry \n You can only train 3 battalions"
 END
 
 BANNERUI:EasterlingKataphrakt
@@ -86534,7 +86542,7 @@ STRATEGICHUD:SiegeUnitArchetypeTooltip
 END
 
 CONTROLBAR:LW_Hero_Khamul
-"Kham l"
+"Khamul"
 END
 
 CONTROLBAR:LW_ToolTipBuild_Khamul
@@ -86546,19 +86554,19 @@ CONTROLBAR:LW_ToolTip_Khamul
 END
 
 CONTROLBAR:MordorKhamulRecruit
-"Recruit the Shadow of the East \n \n Lore: \n Kham l was one of the 9 Ringwraiths, second to the Witch-king, in Middle-earth after Arnor was defeated. During the Third Age, he held Dol Guldur as Sauron's lieutenant. After the Witch-king was slain, he became the Lord of Nazgul for a short period. Kham l was the Wraith who pursued the Hobbits to Bucklebury ferry in the Shire, and who asked Farmer Maggot for "Baggins" just before Frodo Baggins left Hobbiton. Kham l also appeared in the Battle of the Pelennor Fields with the other Nazgul, mounted on his Fellbeast and killing Gondor's soldiers at the beginning of the battle. After the Witch-king s demise, he and the other 7 lesser Nazgul retreated to Mordor. Afterwards, Kham l became the leader of the Nazgul. He led them to the Battle of the Black Gate riding his Fellbeast, before they were attacked by the Eagles. The Nazgul retreated when they sensed that Frodo claimed the Ring for himself, and were lured towards Mount Doom. He fell by the eruption's fire."
+"Recruit the Shadow of the East \n \n Lore: \n Khamul was one of the 9 Ringwraiths, second to the Witch-king, in Middle-earth after Arnor was defeated. During the Third Age, he held Dol Guldur as Sauron's lieutenant. After the Witch-king was slain, he became the Lord of Nazgul for a short period. Khamul was the Wraith who pursued the Hobbits to Bucklebury ferry in the Shire, and who asked Farmer Maggot for "Baggins" just before Frodo Baggins left Hobbiton. Khamul also appeared in the Battle of the Pelennor Fields with the other Nazgul, mounted on his Fellbeast and killing Gondor's soldiers at the beginning of the battle. After the Witch-king s demise, he and the other 7 lesser Nazgul retreated to Mordor. Afterwards, Khamul became the leader of the Nazgul. He led them to the Battle of the Black Gate riding his Fellbeast, before they were attacked by the Eagles. The Nazgul retreated when they sensed that Frodo claimed the Ring for himself, and were lured towards Mount Doom. He fell by the eruption's fire."
 END
 
 CONTROLBAR:MordorKhamulRevive
-"Revive Kham l"
+"Revive Khamul"
 END
 
 CONTROLBAR:MordorKhamulHotkey
-"&Kham l"
+"&Khamul"
 END
 
 OBJECT:MordorKhamul
-"Kham l"
+"Khamul"
 END
 
 OBJECT:MordorMorgomir
@@ -97285,7 +97293,7 @@ CONTROLBAR:BuildThargelionChariot
 END
 
 CONTROLBAR:ToolTipThargelionChariot
-"Requires: Kham l with Lieutenant's Insignia\n Strong Fierce Machines \n Strong vs Infantry, Weak vs Spears"
+"Requires: Khamul with Lieutenant's Insignia\n Strong Fierce Machines \n Strong vs Infantry, Weak vs Spears"
 END
 
 //------------ Morgul Vangard ---------------
@@ -103352,7 +103360,7 @@ CONTROLBAR:ToolTipTogglePalantirNazgul1
 END
 
 CONTROLBAR:ToolTipTogglePalantirKhamul3
-"Requires: Kham l felt the surge of Sauron's "Dark Power" \n Sauron's shadow creeps across the land and touches the Shadow of the East's Ring of Power, causing the ring to be filled with unfathomable power anxiously awaiting to be unleashed\n Opens a new submenu where Kham l can choose one of several deadly black magics\n As Sauron grows in strength, Kham l embraces more power to unlock even more ring spells\nLeft-click to enable then reselect to view the spells"
+"Requires: Khamul felt the surge of Sauron's "Dark Power" \n Sauron's shadow creeps across the land and touches the Shadow of the East's Ring of Power, causing the ring to be filled with unfathomable power anxiously awaiting to be unleashed\n Opens a new submenu where Khamul can choose one of several deadly black magics\n As Sauron grows in strength, Khamul embraces more power to unlock even more ring spells\nLeft-click to enable then reselect to view the spells"
 END
 
 CONTROLBAR:NazgulTodeszorn
@@ -103484,7 +103492,7 @@ CONTROLBAR:KhamulWaldunterderNachtschatten
 END
 
 CONTROLBAR:ToolTipKhamulWaldunterderNachtschatten
-"The corruption of the Dark Lord goes through the ring of Kham l \n The horrific presence of the Shadow of the East spoils the land around him \n A dark forest now stands where the the Nazgul exerted his ability \n Unspeakable horrors lurk in the dark thickets of the woods, and the trees rot and wither from the poison of the darkness\n Enemy buildings located in this forest are temporarily disabled \n Enemy units who wander into the accursed woods lose 50% speed and cut their visibility in half \n Left-click to activate"
+"The corruption of the Dark Lord goes through the ring of Khamul \n The horrific presence of the Shadow of the East spoils the land around him \n A dark forest now stands where the the Nazgul exerted his ability \n Unspeakable horrors lurk in the dark thickets of the woods, and the trees rot and wither from the poison of the darkness\n Enemy buildings located in this forest are temporarily disabled \n Enemy units who wander into the accursed woods lose 50% speed and cut their visibility in half \n Left-click to activate"
 END
 
 CONTROLBAR:TogglePalantirNazgul_Ruckswitch
@@ -103496,7 +103504,7 @@ CONTROLBAR:ToolTipTogglePalantirNazgul_Ruckswitch
 END
 
 OBJECT:MordorKhamulSubmod
-"Kham l"
+"Khamul"
 END
 
 CONTROLBAR:ToggleStanceKhamulHoldGround
@@ -103504,15 +103512,15 @@ CONTROLBAR:ToggleStanceKhamulHoldGround
 END
 
 CONTROLBAR:ToolTipToggleStanceKhamulHoldGround
-"Kham l: -25% Damage \n The horrific presence of the Shadow from the East paralyzes even the bravest elves, dwarves and humans in horror \n Enemy buildings in his vacinity suffer permanent damage and enemy units are weakened \n Whenever Kham l strikes, he transfers the Black Breath upon his enemies, causing an additional 50% loss of speed"
+"Khamul: -25% Damage \n The horrific presence of the Shadow from the East paralyzes even the bravest elves, dwarves and humans in horror \n Enemy buildings in his vacinity suffer permanent damage and enemy units are weakened \n Whenever Khamul strikes, he transfers the Black Breath upon his enemies, causing an additional 50% loss of speed"
 END
 
 CONTROLBAR:ToggleStanceKhamulStandart
-"Kham l's Presence"
+"Khamul's Presence"
 END
 
 CONTROLBAR:ToolTipToggleStanceKhamulStandart
-"Kham l: No disadvantage \n Kham l's mere presence weakens enemies and can rot wood, break bricks, and rust metal \n Enemy buildings in his vacinity suffer permanent damage and enemy units are weakened \n When upon the Winged Shadow, buildings take no damage \n A bonus effect can be unlocked via the stances, which is released when the Kham l uses his blade, thus transferring the terrible disease "Black Breath" to his opponents; however, the stances have a negative impact on Kham l himself"
+"Khamul: No disadvantage \n Khamul's mere presence weakens enemies and can rot wood, break bricks, and rust metal \n Enemy buildings in his vacinity suffer permanent damage and enemy units are weakened \n When upon the Winged Shadow, buildings take no damage \n A bonus effect can be unlocked via the stances, which is released when the Khamul uses his blade, thus transferring the terrible disease "Black Breath" to his opponents; however, the stances have a negative impact on Khamul himself"
 END
 
 CONTROLBAR:ToggleStanceKhamulAggressive
@@ -103520,7 +103528,7 @@ CONTROLBAR:ToggleStanceKhamulAggressive
 END
 
 CONTROLBAR:ToolTipToggleStanceKhamulAggressive
-"Kham l: -25% Armor \n Kham l's terrible presence forces his enemies to hide in their pitiful buildings \n Enemy buildings in his vacinity suffer permanent damage and enemy units are weakened \n When Kham l strikes a building, it is briefly unable to continue any production"
+"Khamul: -25% Armor \n Khamul's terrible presence forces his enemies to hide in their pitiful buildings \n Enemy buildings in his vacinity suffer permanent damage and enemy units are weakened \n When Khamul strikes a building, it is briefly unable to continue any production"
 END
 
 CONTROLBAR:TogglePalantirKhamul1
@@ -103528,7 +103536,7 @@ CONTROLBAR:TogglePalantirKhamul1
 END
 
 CONTROLBAR:ToolTipTogglePalantirKhamul1
-"Kham l uses the power of the East to devastate his enemies, combining his heritage with Morgul Magic \n Switches the Palantir"
+"Khamul uses the power of the East to devastate his enemies, combining his heritage with Morgul Magic \n Switches the Palantir"
 END
 
 CONTROLBAR:DrohungdesOstens
@@ -103536,7 +103544,7 @@ CONTROLBAR:DrohungdesOstens
 END
 
 CONTROLBAR:ToolTipDrohungdesOstens
-"Gloomy clouds from the eastern sky come as ominous harbingers of the coming war \n All Mordor heroes breifly gather experience faster \n Kham l, when owning Isignia of the Lieutenant, is called to lead the eastern forces, granting him additional capabilities \n Can only be activated if "Minas Morgul Unleashed" or "Call of the Black Country" is not active\n Left-click to activate"
+"Gloomy clouds from the eastern sky come as ominous harbingers of the coming war \n All Mordor heroes breifly gather experience faster \n Khamul, when owning Isignia of the Lieutenant, is called to lead the eastern forces, granting him additional capabilities \n Can only be activated if "Minas Morgul Unleashed" or "Call of the Black Country" is not active\n Left-click to activate"
 END
 
 CONTROLBAR:LichtderTotenStadt
@@ -103640,11 +103648,11 @@ CONTROLBAR:KhamulRufdesOstens
 END
 
 CONTROLBAR:ToolTipKhamulRufdesOstens
-"Requires: Level 10 Necromancer and Kham l \n Kham l summons his servants to Mordor to assist in the battle \n Upon activation, it will take only a minute for the army to arrive \n A convoy of Harad or Rhun will arrive near the closest allied Mordor fortress \n Left-click to activate"
+"Requires: Level 10 Necromancer and Khamul \n Khamul summons his servants to Mordor to assist in the battle \n Upon activation, it will take only a minute for the army to arrive \n A convoy of Harad or Rhun will arrive near the closest allied Mordor fortress \n Left-click to activate"
 END
 
 CONTROLBAR:ToolTipSchwarzerSchatten_Khamul
-"Requires: Level 8 \n Kham l staggers all enemies withiNain fear \n All enemy units beneath Kham l temporarily lose 50% and can no longer attack \n Left-click to activate"
+"Requires: Level 8 \n Khamul staggers all enemies withiNain fear \n All enemy units beneath Khamul temporarily lose 50% and can no longer attack \n Left-click to activate"
 END
 
 CONTROLBAR:KhamulFluchderSchattenwelt
