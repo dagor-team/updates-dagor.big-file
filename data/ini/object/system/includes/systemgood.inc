@@ -285,26 +285,6 @@
         RequirementsFilterStrategic 	= SPELL_BOOK_REQUIREMENTS_FILTER_STRATEGIC
     End
     
-	Behavior = PlayerUpgradeSpecialPower    ModuleTag_SpellBookTomBombadil2
-        SpecialPowerTemplate        	= SpellBookTomBombadil
-        UpgradeName             		= Upgrade_BibliothekMilitarkunstEntwickelt 
-        UpdateModuleStartsAttack    	= No
-        AffectAllies            		= No
-        AvailableAtStart        		= No
-        RequirementsFilterMPSkirmish 	= SPELL_BOOK_REQUIREMENTS_FILTER
-        RequirementsFilterStrategic 	= SPELL_BOOK_REQUIREMENTS_FILTER_STRATEGIC
-    End
-    
-	Behavior = PlayerUpgradeSpecialPower    ModuleTag_SpellBookTomBombadil3
-        SpecialPowerTemplate        	= SpellBookTomBombadil
-        UpgradeName             		= Upgrade_BibliothekMilitarkunst
-        UpdateModuleStartsAttack    	= No
-        AffectAllies            		= No
-        AvailableAtStart        		= No
-        RequirementsFilterMPSkirmish 	= SPELL_BOOK_REQUIREMENTS_FILTER
-        RequirementsFilterStrategic 	= SPELL_BOOK_REQUIREMENTS_FILTER_STRATEGIC
-    End
-    
 	Behavior = OCLSpecialPower ModuleTag_TomBombadilundGoldbeere
         SpecialPowerTemplate = SpellBookTomBombadilundGoldbeere
         OCL                  = OCL_SpawnTomBombadilEgg
