@@ -1157,7 +1157,7 @@ CONTROLBAR:SpecialAbilityBardLeadership
 END
 
 CONTROLBAR:ToolTipSpecialAbilityBardLeadership
-"Requires: Level 5 \n Changing Leadership \n Bard is the heir of Girion, anDainspires nearby men with his heroism. \n Nearby men of Lake Town gain double experience and +25% damage in a medium range \n Passive Ability"
+"Requires: Level 5 \n Changing Leadership \n Bard is the heir of Girion, and inspires nearby men with his heroism. \n Nearby men of Lake Town gain double experience and +25% damage in a medium range \n Passive Ability"
 END
 
 CONTROLBAR:SpecialAbilityBardLeadershipLarge
@@ -1165,7 +1165,7 @@ CONTROLBAR:SpecialAbilityBardLeadershipLarge
 END
 
 CONTROLBAR:ToolTipSpecialAbilityBardLeadershipLarge
-"Requires: Level 5 \n Bard is the heir of Girion, anDainspires nearby men with his heroism. \n Nearby men of Lake Town gain double experience and +25% damage in a medium range \n Can be toggled to have longer range at the cost of the experience gain. \n Left click to toggle the leadership \n Passive Ability"
+"Requires: Level 5 \n Bard is the heir of Girion, and inspires nearby men with his heroism. \n Nearby men of Lake Town gain double experience and +25% damage in a medium range \n Can be toggled to have longer range at the cost of the experience gain. \n Left click to toggle the leadership \n Passive Ability"
 END
 
 CONTROLBAR:DwarvenHallLeadership
@@ -7414,12 +7414,20 @@ CONTROLBAR:LW_Hero_ThorinIII
 "Thorin III"
 END
 
+CONTROLBAR:SpecialAbilityGildorScout
+"Gildor's Farsight"
+END
+
+CONTROLBAR:ToolTipSpecialAbilityGildorScout
+"Gildor runs ahead to scout as a forward patrol. \n Gildor's farsight reveals an area on the map. \n Left click on a target area"
+END
+
 CONTROLBAR:SpecialAbilityGildorGesang
 "Gildor's Singing"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityGildorGesang
-"Requires: Level 5 \n The purity of his singing weakens enemies anDainspires his allies \n Enemy units that hear Gildor's singing lose 20% speed; \n Allies however, gain 10% speed \n The song lasts 15 seconds \n Left click to activate"
+"Requires: Level 5 \n The purity of his singing weakens enemies and inspires his allies \n Enemy units that hear Gildor's singing lose 20% speed; \n Allies however, gain 10% speed \n The song lasts 15 seconds \n Left click to activate"
 END
 
 CONTROLBAR:SpecialAbilityMurinKriegsschrei
@@ -57689,8 +57697,12 @@ OBJECT:BruchtalBarracks
 "Imladris Barracks"
 END
 
+OBJECT:BruchtalBarracksDescription
+"Military Structure \n Trains Imladris infantry"
+END
+
 OBJECT:ElvenBarracksDescription
-"Military Structure \n Trains LindoNainfantry"
+"Military Structure \n Trains Lindon infantry"
 END
 
 CONTROLBAR:ConstructImladrisBarracks
@@ -72925,7 +72937,7 @@ OBJECT:Test_CorsairSky
 END
 
 OBJECT:TheGreenDragon
-"The Green DragoNainn" 
+"The Green Dragon inn" 
 END
 
 OBJECT:TheOneRing
