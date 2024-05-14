@@ -27430,7 +27430,7 @@ CONTROLBAR:Sternenschild
 END
 
 CONTROLBAR:ToolTipSternenschild
-"Requires: Level 3 \n Gil-Galad uses his mighty shield star and gets briefly -75% speed and tenfold Armor \n Left click to activate"
+"Requires: Level 5 \n Gil-Galad uses his mighty shield star and gets briefly -75% speed and tenfold Armor \n Left click to activate"
 END
 
 CONTROLBAR:CirdanAthelas
@@ -71501,7 +71501,7 @@ CONTROLBAR:ToolTipWildMountainGiantStomp
 END
 
 CONTROLBAR:ToolTipWildShelobPoisonedStinger
-"Requires: Level 6 \n Poisons the enemy causing damage over time"
+"Requires: Level 3 \n Poisons the enemy causing damage over time"
 END
 
 CONTROLBAR:ToolTipWitchKingDismount
