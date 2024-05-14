@@ -2161,11 +2161,11 @@ CONTROLBAR:ToolTipWitchkingFurstvonMinasMorgul_Neu
 END
 
 CONTROLBAR:ToolTipSpecialAbilityMouthOfSauronEvilEye_Neu
-"Requires: Level 9 \n The Mouth of Sauron combines a powerful light beam to flare in his eyes, destroying targeted foes \n Left-click on the icon, then click the destination"
+"Requires: Level 2 \n The Mouth of Sauron combines a powerful light beam to flare in his eyes, destroying targeted foes \n Left-click on the icon, then click the destination"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityDunklerSchleierMouthofSauron_Neu
-"Requires: Level 7 \n The Mouth of Sauron encloses a friendly building with a dark veil that deceives the senses of enemy units \n Enemies around the building succumb to madness and lose some of their combat prowess \n Left-click on a desired friendly building"
+"Requires: Level 7 \n The Mouth of Sauron encloses a building with a dark veil that deceives the senses of enemy units \n Enemies around the building succumb to madness and lose some of their combat prowess \n Left-click on a desired friendly building"
 END
 
 CONTROLBAR:ToolTipMOSLightning_Neu
@@ -2173,7 +2173,7 @@ CONTROLBAR:ToolTipMOSLightning_Neu
 END
 
 CONTROLBAR:ToolTipMouthOfSauronDoubt_Neu
-"Requires: Level 6 \n The Mouth speaks in words that bring about heavy hearts and hopelessness within the enemy ranks \n Enemies in the target area are only half as fast\n Cavalry also slow down when trampling over enemies twice as much \n Left-click on the icon and then click the desired units"
+"Requires: Level 4 \n The Mouth speaks in words that bring about heavy hearts and hopelessness within the enemy ranks \n Enemies in the target area are only half as fast\n Cavalry also slow down when trampling over enemies twice as much \n Left-click on the icon and then click the desired units"
 END
 
 CONTROLBAR:ToolTipMouthOfSauronDoubt_BlackGate_Neu
@@ -2181,7 +2181,7 @@ CONTROLBAR:ToolTipMouthOfSauronDoubt_BlackGate_Neu
 END
 
 CONTROLBAR:ToolTipMouthOfSauronDissent_Neu
-"Requires: Level 4 \n The Mouth of Sauron sows discord among his enemies \n Units spoken to will fight against each other \n Left-click on the icon and then click the target area"
+"Requires: Level 6 \n The Mouth of Sauron sows discord among his enemies \n Units spoken to will fight against each other \n Left-click on the icon and then click the target area"
 END
 
 CONTROLBAR:ToolTipMouthOfSauronDissent_BlackGate_Neu

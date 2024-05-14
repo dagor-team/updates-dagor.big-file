@@ -1,19 +1,7 @@
-cav archer fix 
-Helm hammerhand fix
-durburz goblins buff
-Drar rework
-Murin leadership change
-loth archers and swords cost decrease
-Galadriel dmg buff 
-Radagast rework
-imla basic units rebalance
-Elrond dmg slight dmg buff 
-Gil-galad ex fix
-Saleme, Durmarth, Twins rebalance
-fiefdom summon reverted
-ringo vale swordsmen health nerf
-imrahil leadership no longer global, but has a standard radius
-dunedain fighters health nerf
-imla blade masters rebalanced - strong vs spam, weak vs swords and cav
-Grimbeorn buff
-Helegwen fix
+erestor rework
+tom bombadil rework
+gildor new ability
+galadriel dmg nerf
+elf lords armor rebalance
+imla catas rebalance
+
