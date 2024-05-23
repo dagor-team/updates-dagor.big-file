@@ -2993,7 +2993,7 @@ CONTROLBAR:ToolTipSpecialAbilityRetterinderNot
 END
 
 CONTROLBAR:ToolTipSpecialAbilityZudenWaffen_Neu
-"Requires: Level 4 \n Gamling gives the people of Rohan weapons, on behalf of the king \n Peasants and Rohan infantry will be equipped with forged blades, increasing their damage \n If the target peasants don't have the draft bonus yet, they will get it. \n Left-click on a troop of peasants"
+"Requires: Level 2 \n Gamling gives the people of Rohan weapons, on behalf of the king \n Peasants and Rohan infantry will be equipped with forged blades, increasing their damage \n If the target peasants don't have the draft bonus yet, they will get it. \n Left-click on a troop of peasants"
 END
 
 CONTROLBAR:BannertragerderDunedain
@@ -3257,11 +3257,27 @@ CONTROLBAR:SpecialAbilityGamlingHerold
 END
 
 CONTROLBAR:ToolTipSpecialAbilityGamlingHerold
-"Requires: Level 5 \n Gamling organizes and equips the troops of Rohan for the war, bringing a herald of the Rohan militia cites. \n Gamling summons a herald of Rohan. The herald can then choose between various types of infantry or cavalry to fill a battalion.\nIf Gamling is on foot, an infantry herald will be summoned. If Gamling is mounted, a cavalry herald will be summoned, horse archers summonned by this ability are limited by 2. \n Left-click the desired destination area"
+"Gamling organizes and equips the troops of Rohan for the war, bringing a herald of the Rohan militia cites. \n Gamling summons a herald of Rohan. The herald can then choose between various types of infantry or cavalry to fill a battalion.\nIf Gamling is on foot, an infantry herald will be summoned. If Gamling is mounted, a cavalry herald will be summoned, horse archers summonned by this ability are limited by 2. \n Left-click the desired destination area"
+END
+
+CONTROLBAR:SpecialAbilityGamlingKompanie
+"Hold Your Positions"
+END
+
+CONTROLBAR:ToolTipSpecialAbilityGamlingKompanie
+"Requires: Level 5 \n Gamling organizes a small militia in a village under the threat of orc raiders. \n Gamling summons a band of rohan archers around an allied building. \n Left-click on a desired allied building"
+END
+
+CONTROLBAR:SpecialAbilityErkenbrandExileCharge
+"Charge of the Exiled"
+END
+
+CONTROLBAR:ToolTipSpecialAbilityErkenbrandExileCharge
+"Requires: Level 4 \n Erkenbrand orders his riders to charge the enemy laying siege to men of Rohan \n \n Erkenbrand summon a battalion of riders of the Westfold. 2 battalions at level 7. 3 battaillons at level 10. \n Left-click to activate"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityMeisterderHornburg
-"Requires: Level 7 \n Only available while mounted \n The Champion Hornburg drives his men \n For 10 seconds, Erkenbrand and cavalry in his vacinity are resistant to fear attacks, 25% faster, cannot be knocked over, and deal double damage \n Left-click to activate"
+"Requires: Level 7 \n The Champion Hornburg drives his men \n For 10 seconds, Erkenbrand and rohan units in his vicinity are resistant to fear attacks, 25% faster, cannot be knocked over, and deal double damage \n Left-click to activate"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityErkenbrandChargeAttack
@@ -9428,7 +9444,7 @@ CONTROLBAR:ToolTipCommandSelectRevivablesHauptmann
 END
 
 CONTROLBAR:ToolTipWitterungAufnehmen
-"Mauh r takes on the scent of an enemy \n Mauh r and his scouts have briefly double Visibility and move 25% faster \n Left click to activate"
+"Mauhúr takes on the scent of an enemy \n Mauhúr and his scouts have briefly double Visibility and move 25% faster \n Left click to activate"
 END
 
 CONTROLBAR:BannderGrabunholde
@@ -10044,7 +10060,7 @@ CONTROLBAR:BeraterElronds
 END
 
 CONTROLBAR:TooltipBeraterElronds
-"His research on the history of Arda allows Erestor to advise his master and the heroes of Imladris to ease their burden \n While Erestor is on the field, all the heroes of Imladris cost 10% less \n Passive ability"
+"Requires: Level 2 \n His research on the history of Arda allows Erestor to advise his master and the heroes of Imladris to ease their burden \n While Erestor is on the field, all the heroes of Imladris cost 10% less \n Passive ability"
 END
 
 CONTROLBAR:MagischesWissen
@@ -16404,11 +16420,11 @@ CONTROLBAR:LW_ToolTip_IsengardUglukComboHorde
 END
 
 CONTROLBAR:IsengardMauhurComboHorde
-"Mauh r and his Uruk-Crossbow"
+"Mauhúr and his Uruk-Crossbow"
 END
 
 CONTROLBAR:LW_Unit_IsengardMauhurComboHorde
-"Mauh r and his Uruk Crossbowmen of Isengard"
+"Mauhúr and his Uruk Crossbowmen of Isengard"
 END
 
 CONTROLBAR:LW_ToolTip_IsengardMauhurComboHorde
@@ -17548,7 +17564,7 @@ CONTROLBAR:EomerRittderExilante
 END
 
 CONTROLBAR:ToolTipEomerRittderExilante
-"Requires: Level 10 \n Eomer and his Rohirrim come to the king in his greatest need to save Rohan, \n signaling them to trample down the selected area \n Only available while mounted \n Left-click on the desired destination area"
+"Requires: Level 8 \n Eomer and his Rohirrim come to the king in his greatest need to save Rohan, \n signaling them to trample down the selected area \n Only available while mounted \n Left-click on the desired destination area"
 END
 
 UPGRADE:SummonHelmHammerhand
@@ -17604,7 +17620,7 @@ CONTROLBAR:ErkenbrandFeldmedizin
 END
 
 CONTROLBAR:ToolTipErkenbrandFeldmedizin
-"Requires: Level 3 \n The calming effect of his medicine heals allied units in the target area \n Left-click on target units"
+"Requires: Level 2 \n The calming effect of his medicine heals allied units in the target area \n Left-click on target units"
 END
 
 CONTROLBAR:HamaUnverwundbar
@@ -17892,7 +17908,7 @@ CONTROLBAR:SpecialAbilityLurtzdieJagd
 END
 
 CONTROLBAR:ToolTipSpecialAbilityLurtzdieJagd
-"Requires: Level 10 \n Lurtz selects an enemy as the target of the hunt.\n The target is always visible and moves 25% slower.\n Lurtz, Ugluk, Mauh r, and Uruk-hai Scouts move 30% faster when they are far away from the target.\n When they approach the target, they cause double damage instead.\n Left-click on the icon and then click on the target"
+"Requires: Level 10 \n Lurtz selects an enemy as the target of the hunt.\n The target is always visible and moves 25% slower.\n Lurtz, Ugluk, Mauhúr, and Uruk-hai Scouts move 30% faster when they are far away from the target.\n When they approach the target, they cause double damage instead.\n Left-click on the icon and then click on the target"
 END
 
 TOOLTIP:LackMumakilMahudrider
@@ -20916,7 +20932,7 @@ CONTROLBAR:LW_Hero_Denethor
 END
 
 CONTROLBAR:LW_Hero_Mauhur
-"Mauh r"
+"Mauhúr"
 END
 
 CONTROLBAR:LW_Hero_Imrahil
@@ -21693,7 +21709,7 @@ CONTROLBAR:BannertragerElronds
 END	
 
 CONTROLBAR:ToolTipBannertragerElronds
-"Requires: Level 7 \n Erestor martial arts are now legendary, anDainspired other elves around him \n Double armor and fear resistance for allies infantry units near him \n Passive ability"
+"Requires: Level 7 \n Erestor martial arts are now legendary, and inspired other elves around him \n Double armor and fear resistance for allies infantry units near him \n Passive ability"
 END
 
 CONTROLBAR:LW_Unit_ErestorHorde
@@ -23283,7 +23299,7 @@ CONTROLBAR:ToolTipBuildIsengardUgluk_mod
 END
 
 CONTROLBAR:ConstructIsengardMauhur
-"Mauh r"
+"Mauhúr"
 END
 
 CONTROLBAR:ToolTipBuildIsengardMauhur
@@ -23459,7 +23475,7 @@ CONTROLBAR:ToolTipAnfuhrerDunedain
 END
 
 CONTROLBAR:HalbaradNumenorBlut
-"Descendant of the N men reans"
+"Descendant of the Númenóreans"
 END
 
 CONTROLBAR:TooltipHalbaradNumenorBlut
@@ -23671,7 +23687,7 @@ TOOLTIP:LackLevel2DrachenschatzArmor
 END
 
 TOOLTIP:LackDrachenschatzArmor
-"Research the appreciatioNain Treasury Trove to activate the equipment \n Reduces damage taken by fire, magic and heroes"
+"Research the appreciation in Treasury Trove to activate the equipment \n Reduces damage taken by fire, magic and heroes"
 END
 
 OBJECT:WildMineMod
@@ -23901,7 +23917,7 @@ CONTROLBAR:ToolTipConstructDamonenFestung
 END
 
 CONTROLBAR:ConstructMordorGrishnak_mod
-"Grishn kh"
+"Grishnakh"
 END
 
 CONTROLBAR:ConstructMordorGothmog_mod
@@ -28122,7 +28138,7 @@ CONTROLBAR:GamlingsHorn
 END
 
 CONTROLBAR:TooltipGamlingsHorn
-"Requires: Level 2 \n Not available while mounted \n The sound of Gamling's horn paralyzes his enemies \n Left-click to activate"
+"Requires: Level 5 \n Not available while mounted \n The sound of Gamling's horn paralyzes his enemies \n Left-click to activate"
 END
 
 CONTROLBAR:RadagastRabenRuf
@@ -28214,7 +28230,7 @@ CONTROLBAR:ElendilLeadership
 END
 
 CONTROLBAR:ToolTipElendilLeadership
-"The Last King of Numenor was the embodiment of valor anDainspired his men by his own example \n Elendil grants +15 damage and fear resistance for all arnor units around him \n Passive ability"
+"The Last King of Numenor was the embodiment of valor and inspired his men by his own example \n Elendil grants +25 damage for all arnor units and resources from slain enemeies for arnor heroes around him.\n Passive ability"
 END
 
 CONTROLBAR:IsildurLeadership
@@ -28466,11 +28482,11 @@ OBJECT:GondorBeregond
 END
 
 OBJECT:IsengardMauhur
-"Mauh r"
+"Mauhúr"
 END
 
 CONTROLBAR:IsengardMauhurRecruit
-"Recruit the most skilled archer of the Uruk-hai \n Lore: \n Mauh r was an Uruk-hai of Isengard in the late Third Age during the War of the Ring. Mauh r was sent to reinforce Ugluk and the Uruk-hai Scouts as they returned to Isengard with Merry and Pippin. He found them surrounded by Eomer's Rohirrim  ored at the edge of Fangorn Forest, from which he led his Orcs in an attack. This attack was a failure: the Rohirrim were able to defeat the Orcs, even with Mauh r's reinforcements. Though Mauh r's own fate isn't known with absolute certainty, it is assumed that he was among those killed at the hands of the Rohirrim."
+"Recruit the most skilled archer of the Uruk-hai \n Lore: \n Mauhúr was an Uruk-hai of Isengard in the late Third Age during the War of the Ring. Mauhúr was sent to reinforce Ugluk and the Uruk-hai Scouts as they returned to Isengard with Merry and Pippin. He found them surrounded by Eomer's Rohirrim company at the edge of Fangorn Forest, from which he led his Orcs in an attack. This attack was a failure: the Rohirrim were able to defeat the Orcs, even with Mauhúr's reinforcements. Though Mauhúr's own fate isn't known with absolute certainty, it is assumed that he was among those killed at the hands of the Rohirrim."
 END
 
 CONTROLBAR:GondorBeregondRevive
@@ -28482,7 +28498,7 @@ CONTROLBAR:GondorBeregondHotkey
 END
 
 CONTROLBAR:IsengardMauhurRevive
-"Summon the fallen hero Mauh r"
+"Summon the fallen hero Mauhúr"
 END
 
 CONTROLBAR:IsengardMauhurHotkey
@@ -29138,7 +29154,7 @@ CONTROLBAR:ToolTipMauhurSchutze
 END
 
 CONTROLBAR:ToolTipMauhurSchutzeTruppen
-"Requires: Level 3 \n Vrasku orders his troops to swtich ammunition.\n Struck targets for the duration of the ability are knocked back by the enormous force of the bolts and suffer significantly more damage; however, Mauh r and his crossbowmen have to reload longer.\n Left-click to activate"
+"Requires: Level 3 \n Vrasku orders his troops to swtich ammunition.\n Struck targets for the duration of the ability are knocked back by the enormous force of the bolts and suffer significantly more damage; however, Mauhúr and his crossbowmen have to reload longer.\n Left-click to activate"
 END
 
 CONTROLBAR:MauhurAuge
@@ -42644,7 +42660,7 @@ CONTROLBAR:RohanTheodenHotkey
 END
 
 CONTROLBAR:ToolTipBuilEEowyn
-"Recruit the shieldmaiden of Rohan \n \n Lore: \n  Eowyn was a shieldmaiden of Rohan, daughter of  omund and Theodwyn, younger sister of Eomer and niece of King Theoden. After the War of the Ring, she married Faramir and had one son with him, Elboron.  Eowyn was the second child of  omund and Theodwyn. Like her brother Eomer, she was related to King Theoden through their mother, the King's sister. Her father was slain and her mother died of illness in TA 3002. Afterwards, Theoden took Eomer and  Eowynain his household and raised them as his children."
+"Recruit the shieldmaiden of Rohan \n \n Lore: \n  Eowyn was a shieldmaiden of Rohan, daughter of  Éomund and Theodwyn, younger sister of Eomer and niece of King Theoden. After the War of the Ring, she married Faramir and had one son with him, Elboron.  Eowyn was the second child of  Éomund and Theodwyn. Like her brother Eomer, she was related to King Theoden through their mother, the King's sister. Her father was slain and her mother died of illness in TA 3002. Afterwards, Theoden took Eomer and  Eowynain his household and raised them as his children."
 END
 
 CONTROLBAR:RohanEowynRevive
@@ -42652,7 +42668,7 @@ CONTROLBAR:RohanEowynRevive
 END
 
 CONTROLBAR:RohanEowynRecruit
-"Recruit the shieldmaiden of Rohan \n \n Lore: \n  Eowyn was a shieldmaiden of Rohan, daughter of  omund and Theodwyn, younger sister of Eomer and niece of King Theoden. After the War of the Ring, she married Faramir and had one son with him, Elboron.  Eowyn was the second child of  omund and Theodwyn. Like her brother Eomer, she was related to King Theoden through their mother, the King's sister. Her father was slain and her mother died of illness in TA 3002. Afterwards, Theoden took Eomer and  Eowynain his household and raised them as his children."
+"Recruit the shieldmaiden of Rohan \n \n Lore: \n  Eowyn was a shieldmaiden of Rohan, daughter of  Éomund and Theodwyn, younger sister of Eomer and niece of King Theoden. After the War of the Ring, she married Faramir and had one son with him, Elboron.  Eowyn was the second child of  Éomund and Theodwyn. Like her brother Eomer, she was related to King Theoden through their mother, the King's sister. Her father was slain and her mother died of illness in TA 3002. Afterwards, Theoden took Eomer and  Eowynain his household and raised them as his children."
 END
 
 CONTROLBAR:RohanEowynHotkey
@@ -42704,11 +42720,11 @@ CONTROLBAR:DwarvenDainHotkey
 END
 
 CONTROLBAR:ToolTipBuildEomer
-"Recruit the exiled leader of the Rohirrim \n \n Lore: \n Eomer was a Man of Rohan and the eventual eighteenth King of Rohan, and first of the Third Line of their kings. Eomer, born in TA 2991, of the House of Eorl, was the son of  omund, a descendant of  ofor, and of Theodwyn, sister of Theoden King. In TA 3002, when Eomer was 11,  omund was slaiNain battle with Orcs. Theodwyn died of grief shortly afterward.  omund also had a daughter named  Eowyn, Eomer's sister. After they were orphaned Theoden adopted them as his own children. Eomer became the third Marshal of the Mark, and was a strong leader of Men. He was honored highly, prized extensively by the king, and was good friends with Theodred, son of Theoden who loved him like a brother. His  ored hunted down the Uruk-hai that had taken Meriadoc Brandybuck and Peregrin Took as they camped near Fangorn forest, slaying them all. He never saw the Hobbits, as they had fled during the battle. Afterwards he met Aragorn, Gimli, and Legolas in the plains of Rohan, and he lent them 2 horses, Arod and Hasufel. Eomer returned to Edoras and reported on meeting the Ranger and friends and allowing them to go free, a violation of the king's law. Under the poisonous advice of Gr ma Wormtongue, he was imprisoned by Theoden, who had grown weak, aged, and suspicious under Saruman the White's influence."
+"Recruit the exiled leader of the Rohirrim \n \n Lore: \n Eomer was a Man of Rohan and the eventual eighteenth King of Rohan, and first of the Third Line of their kings. Eomer, born in TA 2991, of the House of Eorl, was the son of Éomund, a descendant of  ofor, and of Theodwyn, sister of Theoden King. In TA 3002, when Eomer was 11, Éomund was slain in battle with Orcs. Theodwyn died of grief shortly afterward. Éomund also had a daughter named Eowyn, Eomer's sister. After they were orphaned Theoden adopted them as his own children. Eomer became the third Marshal of the Mark, and was a strong leader of Men. He was honored highly, prized extensively by the king, and was good friends with Theodred, son of Theoden who loved him like a brother. His company hunted down the Uruk-hai that had taken Meriadoc Brandybuck and Peregrin Took as they camped near Fangorn forest, slaying them all. He never saw the Hobbits, as they had fled during the battle. Afterwards he met Aragorn, Gimli, and Legolas in the plains of Rohan, and he lent them 2 horses, Arod and Hasufel. Eomer returned to Edoras and reported on meeting the Ranger and friends and allowing them to go free, a violation of the king's law. Under the poisonous advice of Gr ma Wormtongue, he was imprisoned by Theoden, who had grown weak, aged, and suspicious under Saruman the White's influence."
 END
 
 CONTROLBAR:RohanEomerRecruit
-"Recruit the exiled leader of the Rohirrim \n \n Lore: \n Eomer was a Man of Rohan and the eventual eighteenth King of Rohan, and first of the Third Line of their kings. Eomer, born in TA 2991, of the House of Eorl, was the son of  omund, a descendant of  ofor, and of Theodwyn, sister of Theoden King. In TA 3002, when Eomer was 11,  omund was slaiNain battle with Orcs. Theodwyn died of grief shortly afterward.  omund also had a daughter named  Eowyn, Eomer's sister. After they were orphaned Theoden adopted them as his own children. Eomer became the third Marshal of the Mark, and was a strong leader of Men. He was honored highly, prized extensively by the king, and was good friends with Theodred, son of Theoden who loved him like a brother. His  ored hunted down the Uruk-hai that had taken Meriadoc Brandybuck and Peregrin Took as they camped near Fangorn forest, slaying them all. He never saw the Hobbits, as they had fled during the battle. Afterwards he met Aragorn, Gimli, and Legolas in the plains of Rohan, and he lent them 2 horses, Arod and Hasufel. Eomer returned to Edoras and reported on meeting the Ranger and friends and allowing them to go free, a violation of the king's law. Under the poisonous advice of Gr ma Wormtongue, he was imprisoned by Theoden, who had grown weak, aged, and suspicious under Saruman the White's influence."
+"Recruit the exiled leader of the Rohirrim \n \n Lore: \n Eomer was a Man of Rohan and the eventual eighteenth King of Rohan, and first of the Third Line of their kings. Eomer, born in TA 2991, of the House of Eorl, was the son of Éomund, a descendant of  ofor, and of Theodwyn, sister of Theoden King. In TA 3002, when Eomer was 11, Éomund was slain in battle with Orcs. Theodwyn died of grief shortly afterward. Éomund also had a daughter named Eowyn, Eomer's sister. After they were orphaned Theoden adopted them as his own children. Eomer became the third Marshal of the Mark, and was a strong leader of Men. He was honored highly, prized extensively by the king, and was good friends with Theodred, son of Theoden who loved him like a brother. His company hunted down the Uruk-hai that had taken Meriadoc Brandybuck and Peregrin Took as they camped near Fangorn forest, slaying them all. He never saw the Hobbits, as they had fled during the battle. Afterwards he met Aragorn, Gimli, and Legolas in the plains of Rohan, and he lent them 2 horses, Arod and Hasufel. Eomer returned to Edoras and reported on meeting the Ranger and friends and allowing them to go free, a violation of the king's law. Under the poisonous advice of Gr ma Wormtongue, he was imprisoned by Theoden, who had grown weak, aged, and suspicious under Saruman the White's influence."
 END
 
 CONTROLBAR:RohanEomerRevive
@@ -43547,12 +43563,28 @@ CONTROLBAR:GloriousCharge
 "Glorious &Charge"
 END
 
+CONTROLBAR:ToolTipGloriousChargeLVL1
+"Only available when mounted.\n Theoden and nearby cavalry units ride for ruin, gaining 25% armor against spearmen and stronger trample ability as they gloriously charge through the enemy lines.\n Left-click to activate"
+END
+
+CONTROLBAR:ToolTipGloriousChargeLVL3
+"Requires: Level 3 \n Only available when mounted.\n Theoden and nearby cavalry units ride for ruin, gaining 50% armor against spearmen, 15% damage and stronger trample ability as they gloriously charge through the enemy lines.\n Left-click to activate"
+END
+
+CONTROLBAR:ToolTipGloriousChargeLVL5
+"Requires: Level 5 \n Only available when mounted.\n Theoden and nearby cavalry units ride for ruin, gaining 50% armor, 50% damage and stronger trample ability as they gloriously charge through the enemy lines.\n Left-click to activate"
+END
+
+CONTROLBAR:ToolTipGloriousChargeLVL7
+"Requires: Level 7 \n Only available when mounted.\n Theoden and nearby cavalry units ride for ruin, gaining double armor, 75% damage and stronger trample ability as they gloriously charge through the enemy lines.\n Left-click to activate"
+END
+
 CONTROLBAR:ToolTipGloriousCharge
-"Requires: Level 10 \n Only available when mounted.\n Theoden and nearby cavalry units ride for ruin, gaining triple armor, increased speed, and stronger trample ability as they gloriously charge through the enemy lines.\n Left-click to activate"
+"Requires: Level 10 \n Only available when mounted.\n Theoden and nearby cavalry units ride for ruin, gaining triple armor, double damage and stronger trample ability as they gloriously charge through the enemy lines.\n Left-click to activate"
 END
 
 CONTROLBAR:ToolTipGloriousChargeSummon
-"Requires: Level 5 \n Only available when mounted \n Theoden and nearby cavalry units ride for ruin, gaining triple armor, increased speed, and stronger trample ability as they gloriously charge through the enemy lines.\n Left-click to activate"
+"Requires: Level 5 \n Only available when mounted \n Theoden and nearby cavalry units ride for ruin, gaining triple armor and stronger trample ability as they gloriously charge through the enemy lines.\n Left-click to activate"
 END
 
 CONTROLBAR:TheodenMount
@@ -55089,7 +55121,7 @@ OBJECT:RohanTheodredTurm
 "Sentry"
 END
 CONTROLBAR:ToolTipErkenbrandLeadership
-"Erkenbrand leads the men of the Westfold into battle \n increases nearby Westfold units 25% armor and damage."
+"Requires: Level 5 \n Erkenbrand leads the men of the Westfold into battle \n increases nearby Westfold units 25% armor and damage."
 END
 
 CONTROLBAR:LeadershipErkenbrandNew
@@ -66857,7 +66889,7 @@ CONTROLBAR:BuildGundabadWargRiderHorde
 END
 
 CONTROLBAR:ToolTipBuilGundabadWargRiderHorde
-"Unit Type: Regular Cavalry \n Strong vs: Infantry \n You can only train 3 battalions"
+"Requires: Yazneg recruited \n Unit Type: Regular Cavalry \n Strong vs: Infantry \n You can only train 3 battalions"
 END
 
 BANNERUI:GundabadWargRider
@@ -71384,7 +71416,7 @@ CONTROLBAR:ToolTipConstructIsengardUrukPit
 END
 
 CONTROLBAR:ToolTipConstructIsengardUrukPit_MapIsengard
-"Be built forms Uruks \n Can only tainted soil \n Hero recruitment: Lurtz, Ugluk and Mauh r"
+"Be built forms Uruks \n Can only tainted soil \n Hero recruitment: Lurtz, Ugluk and Mauhúr"
 END
 
 
@@ -90822,7 +90854,7 @@ CONTROLBAR:LW_ToolTip_DoriathMelian
 END
 
 CONTROLBAR:DoriathMelianRecruit
-"Summon Melian, Queen of Doriath. \n Unique among all the Maiar to adopt the true shape of the Children of Iluvatar. \n \n Lore: \n Melian was a Maia of the race of the Ainur, Queen of Doriath and mother of Luthien Tinúviel. Before she came to Middle-earth, Melian served both V na and Est , and dwelt in L rien tending the trees that grew in the Gardens of Irmo. Among all of her people none were wiser, (With the possible exception of Gandalf) more beautiful, or more skilled in singing enchanting songs than Melian. She loved the deep shadows of the great trees. When the light of the 2 Trees would mingle Melian would sing and the Valar would stop their work and listen. Nightingales went with her wherever she went, and she taught them their song. Of all the Valar she was most akin to Yavanna. When the Elves awoke on the shore of Cuivi nen she departed from Valinor and went to Middle-earth, where she filled its silence with her singing and the singing of her birds.""
+"Summon Melian, Queen of Doriath. \n Unique among all the Maiar to adopt the true shape of the Children of Iluvatar. \n \n Lore: \n Melian was a Maia of the race of the Ainur, Queen of Doriath and mother of Luthien Tinúviel. Before she came to Middle-earth, Melian served both V na and Est , and dwelt in L rien tending the trees that grew in the Gardens of Irmo. Among all of her people none were wiser, (With the possible exception of Gandalf) more beautiful, or more skilled in singing enchanting songs than Melian. She loved the deep shadows of the great trees. When the light of the 2 Trees would mingle Melian would sing and the Valar would stop their work and listen. Nightingales went with her wherever she went, and she taught them their song. Of all the Valar she was most akin to Yavanna. When the Elves awoke on the shore of Cuiviénen she departed from Valinor and went to Middle-earth, where she filled its silence with her singing and the singing of her birds.""
 END
 
 CONTROLBAR:DoriathMelianRevive
@@ -90838,7 +90870,7 @@ CONTROLBAR:SummonDoriathMelian
 END
 
 CONTROLBAR:ToolTipSummonDoriathMelian
-"Requires: Menegroth Fortress Level 5 \n Summon Melian, Queen of Doriath. \n Unique among all the Maiar to adopt the true shape of the Children of Iluvatar. \n Left click to activate \n \n Lore: \n Melian was a Maia of the race of the Ainur, Queen of Doriath and mother of Luthien Tinúviel. Before she came to Middle-earth, Melian served both V na and Est , and dwelt in L rien tending the trees that grew in the Gardens of Irmo. Among all of her people none were wiser, (With the possible exception of Gandalf) more beautiful, or more skilled in singing enchanting songs than Melian. She loved the deep shadows of the great trees. When the light of the 2 Trees would mingle Melian would sing and the Valar would stop their work and listen. Nightingales went with her wherever she went, and she taught them their song. Of all the Valar she was most akin to Yavanna. When the Elves awoke on the shore of Cuivi nen she departed from Valinor and went to Middle-earth, where she filled its silence with her singing and the singing of her birds."
+"Requires: Menegroth Fortress Level 5 \n Summon Melian, Queen of Doriath. \n Unique among all the Maiar to adopt the true shape of the Children of Iluvatar. \n Left click to activate \n \n Lore: \n Melian was a Maia of the race of the Ainur, Queen of Doriath and mother of Luthien Tinúviel. Before she came to Middle-earth, Melian served both V na and Est , and dwelt in L rien tending the trees that grew in the Gardens of Irmo. Among all of her people none were wiser, (With the possible exception of Gandalf) more beautiful, or more skilled in singing enchanting songs than Melian. She loved the deep shadows of the great trees. When the light of the 2 Trees would mingle Melian would sing and the Valar would stop their work and listen. Nightingales went with her wherever she went, and she taught them their song. Of all the Valar she was most akin to Yavanna. When the Elves awoke on the shore of Cuiviénen she departed from Valinor and went to Middle-earth, where she filled its silence with her singing and the singing of her birds."
 END
 
 CONTROLBAR:DoriathMelianLeadership
@@ -91180,7 +91212,7 @@ CONTROLBAR:LW_ToolTip_ValinorThorondor
 END
 
 CONTROLBAR:ValinorThorondorRecruit
-"Recruit Thorondor Lord of the Eagles \n \n Lore: \n Thorondor was the King of Eagles of Middle-earth during the First Age. He was presumably the greatest of all the Eagles in terms of size, with his wingspan measuring at 30 fathoms (180 feet). Thorondor was sent by Manw , King of the Valar, to watch over the  Noldor after they arrived in Beleriand. The Eldar first encountered him when he helped Fingon rescue Maedhros from imprisonment from Thangorodrim, upon which he had apparently made his home for a short time. After that, Thorondor and the rest of the Eagles settled in the Crissaegrim. When Gondolin was built, Thorondor became the ever vigilant guardian of the city. He rescued Fingolfin's body from defilement after Morgoth killed him, giving the Dark Lord a scar on his face. He, Landroval, and Gwaihir rescued Beren and Luthien when Angband was aroused. When Gondolin fell, Thorondor rescued the survivors. During the War of Wrath, Thorondor and Earendil led the Eagles in battle with the Dragons, and may have fought with Ancalagon the Black."
+"Recruit Thorondor Lord of the Eagles \n \n Lore: \n Thorondor was the King of Eagles of Middle-earth during the First Age. He was presumably the greatest of all the Eagles in terms of size, with his wingspan measuring at 30 fathoms (180 feet). Thorondor was sent by Manwe , King of the Valar, to watch over the  Noldor after they arrived in Beleriand. The Eldar first encountered him when he helped Fingon rescue Maedhros from imprisonment from Thangorodrim, upon which he had apparently made his home for a short time. After that, Thorondor and the rest of the Eagles settled in the Crissaegrim. When Gondolin was built, Thorondor became the ever vigilant guardian of the city. He rescued Fingolfin's body from defilement after Morgoth killed him, giving the Dark Lord a scar on his face. He, Landroval, and Gwaihir rescued Beren and Luthien when Angband was aroused. When Gondolin fell, Thorondor rescued the survivors. During the War of Wrath, Thorondor and Earendil led the Eagles in battle with the Dragons, and may have fought with Ancalagon the Black."
 END
 
 CONTROLBAR:ValinorThorondorRevive
@@ -91330,7 +91362,7 @@ CONTROLBAR:SummonValinorManwe
 END
 
 CONTROLBAR:ToolTipSummonValinorManwe
-"Requires: Tol Galen Fortress Level 5 \n Summon Manwe, \n The greatest of the Ainur, one of the Aratar, King of the Valar. \n Left click to activate \n \n Lore: \n He was also known as Sulimo, M nawen z or Valahiru and lives atop Mount Taniquetil in Valinor, the highest mountain of the world. The winds and airs are his servants. He was the greatest in authority, but not in power, of all the Valar, Morgoth being more powerful. He was however the greatest of the Aratar, among whom Morgoth was not counted. Manw  was (with Morgoth) the eldest of the Ainur, and the one that best understood the will of Eru. When Morgoth created the discord in the Music of the Ainur, the Second Theme of Eru that rose to counter the discord used Manw  as its chief instrument. When Arda was formed, Manw  was appointed Ruler of Arda, hence his most common title, the Elder King. Manw  was a kind, compassionate ruler, unconcerned with his own power. He oversaw all of the Valar's early attempts to order Arda, but was unable to stop Morgoth's rampages until the Vala Tulkas came to Arda to assist his brethren."
+"Requires: Tol Galen Fortress Level 5 \n Summon Manwe, \n The greatest of the Ainur, one of the Aratar, King of the Valar. \n Left click to activate \n \n Lore: \n He was also known as Sulimo, M nawen z or Valahiru and lives atop Mount Taniquetil in Valinor, the highest mountain of the world. The winds and airs are his servants. He was the greatest in authority, but not in power, of all the Valar, Morgoth being more powerful. He was however the greatest of the Aratar, among whom Morgoth was not counted. Manwe  was (with Morgoth) the eldest of the Ainur, and the one that best understood the will of Eru. When Morgoth created the discord in the Music of the Ainur, the Second Theme of Eru that rose to counter the discord used Manwe  as its chief instrument. When Arda was formed, Manwe  was appointed Ruler of Arda, hence his most common title, the Elder King. Manwe  was a kind, compassionate ruler, unconcerned with his own power. He oversaw all of the Valar's early attempts to order Arda, but was unable to stop Morgoth's rampages until the Vala Tulkas came to Arda to assist his brethren."
 END
 
 CONTROLBAR:ManweLeadership
@@ -91354,7 +91386,7 @@ CONTROLBAR:ManweSulimo
 END
 
 CONTROLBAR:TooltipManweSulimo
-"He was also known as Sulimo \n(Quenya: "Lord of the Breath of Arda"),\n King of Arda, King of the World, King Mayor, Vice-regent of Iluvatar, Illustrious King of Arda, Ruler of Arda, and as King of the Valar world of Elves and Men. \n Manw  raises a tornado to surround his divine being\n Left-click to activate"
+"He was also known as Sulimo \n(Quenya: "Lord of the Breath of Arda"),\n King of Arda, King of the World, King Mayor, Vice-regent of Iluvatar, Illustrious King of Arda, Ruler of Arda, and as King of the Valar world of Elves and Men. \n Manwe  raises a tornado to surround his divine being\n Left-click to activate"
 END
 
 OBJECT:NumenorElros
@@ -91370,7 +91402,7 @@ CONTROLBAR:LW_ToolTipBuild_NumenorElros
 END
 
 CONTROLBAR:NumenorElrosRecruit
-"Recruit the first King of Numenor and Elrond twin brother \n \n Lore: \n Elros, also known as Elros Tar-Minyatur, the Half-elven, was the son of Earendil and Elwing, brother of Elrond, uncle of Elladan and Elrohir and Arwen Undomiel, and the first King of Numenor; ancestor to a line of kings especially to his descendant Aragorn II Elessar. He had a strong friendship with the Elves, who were half his kin. In FA 532, Elros was born in Arvernien. In the assault of the Third Kinslaying by the Sons of Feanor, Elros and Elrond were taken captive by Maglor and Maedhros. Later, Elwing, their mother, cast herself into the great Belegaer and vanished from Middle-earth. From then on, Elros and his brother were raised by Maglor. They were both raised in love for Maglor was not proud of his deeds. It is nowhere told when or if Elros and Elrond actually left Maglor but it can be assumed that at the time of Eonw 's arrival they took full part in the war. In FA 547, the host of Eonw  and the Valar were seen shining upon the sea and the noise of Eonw `s trumpets rang over the waves. Eonw  summoned all of the Elves and all of the men from Hithlum to the South, rallying them for the great war against Morgoth that was now to come."
+"Recruit the first King of Numenor and Elrond twin brother \n \n Lore: \n Elros, also known as Elros Tar-Minyatur, the Half-elven, was the son of Earendil and Elwing, brother of Elrond, uncle of Elladan and Elrohir and Arwen Undomiel, and the first King of Numenor; ancestor to a line of kings especially to his descendant Aragorn II Elessar. He had a strong friendship with the Elves, who were half his kin. In FA 532, Elros was born in Arvernien. In the assault of the Third Kinslaying by the Sons of Feanor, Elros and Elrond were taken captive by Maglor and Maedhros. Later, Elwing, their mother, cast herself into the great Belegaer and vanished from Middle-earth. From then on, Elros and his brother were raised by Maglor. They were both raised in love for Maglor was not proud of his deeds. It is nowhere told when or if Elros and Elrond actually left Maglor but it can be assumed that at the time of Eonwe 's arrival they took full part in the war. In FA 547, the host of Eonwe  and the Valar were seen shining upon the sea and the noise of Eonwe `s trumpets rang over the waves. Eonwe  summoned all of the Elves and all of the men from Hithlum to the South, rallying them for the great war against Morgoth that was now to come."
 END
 
 CONTROLBAR:NumenorElrosRevive
@@ -91578,7 +91610,7 @@ CONTROLBAR:LW_ToolTip_VanyarIngwe
 END
 
 CONTROLBAR:VanyarIngweRecruit    
-"Recruit Ingwe  King of the Vanyar, \n and considered the High King of the Eldar \n \n Lore: \n Ingwe was a Vanyar Elf, the King of the Vanyar and the High King of the Elves. Ingwe was the leader of the first Kindred of Elves of the Vanyar tribe, and the uncle of Finwe 's wife Indis. His name means "first one, Chief" in Quenya. He was perhaps one of the first 12 elves who awoke in Cuivi nen with Imin, who was the first to awake. He became one of the 3 elves, with Elwe and Finwe , of the first embassy to Aman. Ingwe  became the first of the Vanyar to travel to Valinor with Orome. Loving its beauty and bliss, he returned to his people and urged them to undertake a journey to Aman. He and his kin were fascinated with the Valar, and they decided not to return to Middle-earth. They stayed and made Ingwe  their king. The Mindon Eldali va in Tirion was built in honor of him. Ingwe  was reckoned as High King of all the Eldali , the Elves of the Great Journey, and because of this he is called Ingwe  Ingweron; the "Chief of the Chieftains". He lived in Taniquetil, ruling from beneath Manw  High King of Arda. Ingwe  never set foot on Middle-earth after he began living in Taniquetil. When the Vanyar took up arms in the War of Wrath and followed The Host of Valinor, Ingwe  did not join them."
+"Recruit Ingwe  King of the Vanyar, \n and considered the High King of the Eldar \n \n Lore: \n Ingwe was a Vanyar Elf, the King of the Vanyar and the High King of the Elves. Ingwe was the leader of the first Kindred of Elves of the Vanyar tribe, and the uncle of Finwe 's wife Indis. His name means "first one, Chief" in Quenya. He was perhaps one of the first 12 elves who awoke in Cuiviénen with Imin, who was the first to awake. He became one of the 3 elves, with Elwe and Finwe , of the first embassy to Aman. Ingwe  became the first of the Vanyar to travel to Valinor with Orome. Loving its beauty and bliss, he returned to his people and urged them to undertake a journey to Aman. He and his kin were fascinated with the Valar, and they decided not to return to Middle-earth. They stayed and made Ingwe  their king. The Mindon Eldali va in Tirion was built in honor of him. Ingwe  was reckoned as High King of all the Eldali , the Elves of the Great Journey, and because of this he is called Ingwe  Ingweron; the "Chief of the Chieftains". He lived in Taniquetil, ruling from beneath Manwe  High King of Arda. Ingwe  never set foot on Middle-earth after he began living in Taniquetil. When the Vanyar took up arms in the War of Wrath and followed The Host of Valinor, Ingwe  did not join them."
 END
 
 CONTROLBAR:VanyarIngweRevive    
@@ -91594,7 +91626,7 @@ CONTROLBAR:IngweKingoftheVanyar
 END
 
 CONTROLBAR:ToolTipIngweKingoftheVanyar
-"As one of the first 12 elves awakened in Cuivi nen and one of the 3 ambassadors with Finwe  and Elwe , \n ingwe is considered one of the wisest and most powerful elves among the Eldar. \n Nearby units gaiNainvulnerability to magic and poison attacks \n Passive ability"
+"As one of the first 12 elves awakened in Cuiviénen and one of the 3 ambassadors with Finwe  and Elwe , \n Ingwe is considered one of the wisest and most powerful elves among the Eldar. \n Nearby units gain 50% armor against magic attacks \n Passive ability"
 END
 
 CONTROLBAR:IngweGalathilionTree
@@ -91626,7 +91658,7 @@ CONTROLBAR:IngweEalentriStorm
 END
 
 CONTROLBAR:ToolTipIngweEalentriStorm
-"Requires: Level 10 \n Varda, the most beautiful of the Valar and wife of Manw , \n gives Ingwe  the control of the sky \n Ingwe  creates a terrible storm that destroys everything in his path \n Left-click to activate"
+"Requires: Level 10 \n Varda, the most beautiful of the Valar and wife of Manwe , \n gives Ingwe  the control of the sky \n Ingwe  creates a terrible storm that destroys everything in his path \n Left-click to activate"
 END
 
 OBJECT:GalathilionTree
@@ -91921,11 +91953,11 @@ END
 
 
 OBJECT:ValinorEonwe
-"Eonw "
+"Eonwe"
 END
 
 CONTROLBAR:LW_Hero_ValinorEonwe
-"Eonw "
+"Eonwe"
 END
 
 CONTROLBAR:LW_ToolTipBuild_ValinorEonwe
@@ -91937,23 +91969,23 @@ CONTROLBAR:LW_ToolTip_ValinorEonwe
 END
 
 CONTROLBAR:ValinorEonweRecruit
-"Summon Eonw , \n the most powerful warrior in Arda and banner-bearer of Manw "
+"Summon Eonwe, \n the most powerful warrior in Arda and banner-bearer of Manwe"
 END
 
 CONTROLBAR:ValinorEonweRevive
-"Revive the fallen Hero, Eonw "
+"Revive the fallen Hero, Eonwe "
 END
 
 CONTROLBAR:ValinorEonweHotkey
-"&Eonw "
+"&Eonwe"
 END
 
 CONTROLBAR:SummonValinorEonwe
-"Summon Eonw "
+"Summon Eonwe"
 END
 
 CONTROLBAR:ToolTipSummonValinorEonwe
-"Requires: Taniquetil Fortress Level 5 \n Summon Eonw , \n The most powerful warrior in Arda and banner-bearer of Manw \n Left-click to summon \n \n Lore: \n Eonw  was a Maia serving Manw  as his herald and banner-bearer, and Chief of the Maiar along with Ilmar . Eonw  was referred to as the "greatest of arms in Arda," meaning that he was the best with weapons, but as one of the Maiar he was not necessarily the most powerful in might. When the appeal of Earendil reached the shores of Aman, it was Eonw  who first greeted him outside of Tirion praising his arrival and accomplishments. When Manw  decided to heed the appeal, Eonw  was sent to Middle-earth to fight the War of Wrath, leading the host of the Valar."
+"Requires: Taniquetil Fortress Level 5 \n Summon Eonwe, \n The most powerful warrior in Arda and banner-bearer of Manwe \n Left-click to summon \n \n Lore: \n Eonwe was a Maia serving Manwe as his herald and banner-bearer, and Chief of the Maiar along with Ilmare. Eonwe was referred to as the "greatest of arms in Arda," meaning that he was the best with weapons, but as one of the Maiar he was not necessarily the most powerful in might. When the appeal of Earendil reached the shores of Aman, it was Eonwe who first greeted him outside of Tirion praising his arrival and accomplishments. When Manwe decided to heed the appeal, Eonwe was sent to Middle-earth to fight the War of Wrath, leading the host of the Valar."
 END
 
 CONTROLBAR:EonweManweHerald 
@@ -91993,7 +92025,7 @@ CONTROLBAR:EonweWrathofValinor
 END
 
 CONTROLBAR:ToolTipEonweWrathofValinor
-"Eonwe was sent to Middle-earth to fight the War of Wrath, leading the Vanyar\n The powerful Maia leads nearby troops, granting protectioNain combat\n Left-click to activate"
+"Eonwe was sent to Middle-earth to fight the War of Wrath, leading the Vanyar\n The powerful Maia leads nearby troops, granting protection in combat\n Left-click to activate"
 END
 
 CONTROLBAR:EonweElentariStarlight
@@ -92001,9 +92033,8 @@ CONTROLBAR:EonweElentariStarlight
 END
 
 CONTROLBAR:TooltipEonweElentariStarlight
-"Eonwe is assisted by Varda Elentari, the most beautiful of the Valar, Manw 's wife and Lady of the Ainur\n A powerful light beam descends from the stars, \n burning all enemy units near Eonw \n Left-click to activate"
+"Eonwe is assisted by Varda Elentari, the most beautiful of the Valar, Manwe's wife and Lady of the Ainur\n A powerful light beam descends from the stars, \n burning all enemy units near Eonwe \n Left-click to activate"
 END
-
 
 CONTROLBAR:SpecialAbilityEonweSummonElves
 "Host of the Valinor"
@@ -92078,7 +92109,7 @@ CONTROLBAR:YavannaToggleTreeForm
 END
 
 CONTROLBAR:TooltipYavannaToggleTreeForm
-"Yavanna can hide in Tree Form.  \n  Left click to activate. \n Yavanna can also been seen in the form of a tall tree growing from the waters of Ulmo to the winds of Manw  spilling golden dew from her branches, which made the barren earth green with corn. "
+"Yavanna can hide in Tree Form.  \n  Left click to activate. \n Yavanna can also been seen in the form of a tall tree growing from the waters of Ulmo to the winds of Manwe  spilling golden dew from her branches, which made the barren earth green with corn. "
 END
 
 OBJECT:BelegostAzaghal
@@ -93308,7 +93339,7 @@ CONTROLBAR:PurchaseSpellDorthonionTechnology
 END
 
 CONTROLBAR:TooltipPurchaseSpellDorthonionTechnology
-"Summons the support of the armies of Tol Galen \n Heroes: Thorondor, Beren and Luthien \n Summoned Hero: Manw  \n Passive ability"
+"Summons the support of the armies of Tol Galen \n Heroes: Thorondor, Beren and Luthien \n Summoned Hero: Manwe  \n Passive ability"
 END
 
 TOOLTIP:RequirementDorthonionSpellTechnology
@@ -93392,7 +93423,7 @@ CONTROLBAR:SelectUnitsDorthonionFortress
 END
 
 CONTROLBAR:ToolTipSelectUnitsDorthonionFortress
-"Train Men from Tol-Galen and Eagles of Manw "
+"Train Men from Tol-Galen and Eagles of Manwe "
 END
 
 CONTROLBAR:BuildEdainOutlawBarahirHorde
@@ -93601,7 +93632,7 @@ CONTROLBAR:LW_ToolTipBuild_ValinorEagle
 END
 
 CONTROLBAR:ValinorEagleLeadership
-"Manw  Favour"
+"Manwe  Favour"
 END
 
 CONTROLBAR:TooltipValinorEagleLeadership
@@ -93936,7 +93967,7 @@ CONTROLBAR:PurchaseSpellTaniquetilTechnology
 END
 
 CONTROLBAR:TooltipPurchaseSpellTaniquetilTechnology
-"Summons the support of the armies of Taniquetil \n Heroes: Ingwe , Turin and Hurin \n Summoned Hero: E nw  \n Passive ability"
+"Summons the support of the armies of Taniquetil \n Heroes: Ingwe, Turin and Hurin \n Summoned Hero: Eonwe \n Passive ability"
 END
 
 TOOLTIP:RequirementTaniquetilSpellTechnology
@@ -93952,7 +93983,7 @@ CONTROLBAR:PurchaseTaniquetilFortressSpellTechnology
 END
 
 CONTROLBAR:ToolTipPurchaseTaniquetilFortressSpellTechnology
-"Summon the support of Vanyar Elves led by their king Ingwe , \n with them also will return Turin, to end the darkness Arda"
+"Summon the support of Vanyar Elves led by their king Ingwe, \n with them also will return Turin, to end the darkness Arda"
 END
 
 UPGRADE:Upgrade_TaniquetilFortressSpellTechnology
@@ -93972,7 +94003,7 @@ OBJECT:TaniquetilFortress
 END
 
 OBJECT:TaniquetilFortressDescription
-"Military Structure \n From Ilmarin, the holy city atop the mountain Taniquetil in Valinor, \n Manw  sends to Ingwe , the "High King of All Elves," along with Turin troops of Vanyar elves to help the people of Middle-earth. \n Allows the recruitment of Vanyar elves. \n increases command point limit by 400."
+"Military Structure \n From Ilmarin, the holy city atop the mountain Taniquetil in Valinor, \n Manwe  sends to Ingwe, the "High King of All Elves," along with Turin troops of Vanyar elves to help the people of Middle-earth. \n Allows the recruitment of Vanyar elves. \n increases command point limit by 400."
 END
 
 CONTROLBAR:TaniquetilFortress
@@ -93980,7 +94011,7 @@ CONTROLBAR:TaniquetilFortress
 END
 
 CONTROLBAR:ToolTipTaniquetilFortress
-"From Ilmarin, the holy city atop the mountain Taniquetil in Valinor, \n Manw  sends to Ingwe , the "High King of All Elves," along with Turin troops of Vanyar elves to help the people of Middle-earth. \n Allows the recruitment of Vanyar elves. \n increases command point limit by 400."
+"From Ilmarin, the holy city atop the mountain Taniquetil in Valinor, \n Manwe  sends to Ingwe, the "High King of All Elves," along with Turin troops of Vanyar elves to help the people of Middle-earth. \n Allows the recruitment of Vanyar elves. \n increases command point limit by 400."
 END
 
 UPGRADE:Upgrade_TaniquetilFortressLevel2
@@ -94020,7 +94051,7 @@ CONTROLBAR:TaniquetilFortressLevel5
 END
 
 CONTROLBAR:ToolTipTaniquetilFortressLevel5
-"+40% Training Speed \n increases hit points of the Barracks \n E nw  can be summoned"
+"+40% Training Speed \n increases hit points of the Barracks \n Eonwe can be summoned"
 END
 
 CONTROLBAR:SelectRevivablesTaniquetilFortress
@@ -94076,7 +94107,7 @@ CONTROLBAR:TaniquetilFortressSummonEagle
 END
 
 CONTROLBAR:ToolTipTaniquetilFortressSummonEagle
-"Requires: Taniquetil Barracks Level 3 \n Manw  sends his eagles to help in the battle \n 2 eagles are summoned for a short time \n Left-click icon then left-click on target area"
+"Requires: Taniquetil Barracks Level 3 \n Manwe sends his eagles to help in the battle \n 2 eagles are summoned for a short time \n Left-click icon then left-click on target area"
 END
 
 CONTROLBAR:BuildTaniquetilGuardHorde
@@ -94554,7 +94585,7 @@ CONTROLBAR:MelkorLeadership
 END
 
 CONTROLBAR:ToolTipMelkorLeadership
-"The most powerful of the Ainur created by Eru Iluvatar, \n Morgoth rebelled against his creator pride, corrupting Arda and all its creatures \n Allied units around Morgoth gain 50% damage and armor\n Angband Dragons gaiNainvulnerability to magic attacks throughout the map \n All enemy units around Morgoth lose damage and speed \n Passive ability"
+"The most powerful of the Ainur created by Eru Iluvatar, \n Morgoth rebelled against his creator pride, corrupting Arda and all its creatures \n Allied units around Morgoth gain 50% damage and armor\n Angband Dragons gain invulnerability to magic attacks throughout the map \n All enemy units around Morgoth lose damage and speed \n Passive ability"
 END
 
 CONTROLBAR:MelkorNethermostMist
@@ -94660,7 +94691,7 @@ CONTROLBAR:LW_ToolTip_AngbandAncalagon
 END
 
 CONTROLBAR:AngbandAncalagonRecruit
-"Summon Ancalagon the Black. \n Ancalagon, also known as Ancalagon the Black, was the greatest of all winged dragons. He was bred by Morgoth during the First Age, and was the largest dragon to have ever existed in Middle-earth. \n After Earendil made his journey to Valinor to convince the Valar to overthrow Morgoth and rescue the overmatched and defeated Elves and Edain, The Host of Valinor made war upon Morgoth and destroyed his armies. Facing final defeat, Morgoth unleashed his last and greatest weapon; a fleet of winged fire drakes, led by Ancalagon. So terrible was their onslaught that the armies of the Valar were driven back from the gates of Angband, and their coming was said to have been accompanied by a tempest of fire and lightning. But Earendil came out of the West in his blessed ship Vingilot, accompanied by the Eagles of Manw  led by Thorondor. The Eagles and Earendil dueled with Ancalagon and the other Dragons for an entire day. Eventually, Earendil was victorious, casting Ancalagon down upon Thangorodrim and destroying the volcanic mountains in his fall. The death of Ancalagon marked the end of Morgoth's final resistance."
+"Summon Ancalagon the Black. \n Ancalagon, also known as Ancalagon the Black, was the greatest of all winged dragons. He was bred by Morgoth during the First Age, and was the largest dragon to have ever existed in Middle-earth. \n After Earendil made his journey to Valinor to convince the Valar to overthrow Morgoth and rescue the overmatched and defeated Elves and Edain, The Host of Valinor made war upon Morgoth and destroyed his armies. Facing final defeat, Morgoth unleashed his last and greatest weapon; a fleet of winged fire drakes, led by Ancalagon. So terrible was their onslaught that the armies of the Valar were driven back from the gates of Angband, and their coming was said to have been accompanied by a tempest of fire and lightning. But Earendil came out of the West in his blessed ship Vingilot, accompanied by the Eagles of Manwe  led by Thorondor. The Eagles and Earendil dueled with Ancalagon and the other Dragons for an entire day. Eventually, Earendil was victorious, casting Ancalagon down upon Thangorodrim and destroying the volcanic mountains in his fall. The death of Ancalagon marked the end of Morgoth's final resistance."
 END
 
 CONTROLBAR:AngbandAncalagonRevive
@@ -94676,7 +94707,7 @@ CONTROLBAR:SummonAngbandAncalagon
 END
 
 CONTROLBAR:ToolTipSummonAngbandAncalagon
-"Requires: Thangorodrim Fortress Level 5 \n Summon Ancalagon the Black. \n Left click to activate \n \n Lore: \n Ancalagon, also known as Ancalagon the Black, was the greatest of all winged dragons. He was bred by Morgoth during the First Age, and was the largest dragon to have ever existed in Middle-earth. \n After Earendil made his journey to Valinor to convince the Valar to overthrow Morgoth and rescue the overmatched and defeated Elves and Edain, The Host of Valinor made war upon Morgoth and destroyed his armies. Facing final defeat, Morgoth unleashed his last and greatest weapon; a fleet of winged fire drakes, led by Ancalagon. So terrible was their onslaught that the armies of the Valar were driven back from the gates of Angband, and their coming was said to have been accompanied by a tempest of fire and lightning. But Earendil came out of the West in his blessed ship Vingilot, accompanied by the Eagles of Manw  led by Thorondor. The Eagles and Earendil dueled with Ancalagon and the other Dragons for an entire day. Eventually, Earendil was victorious, casting Ancalagon down upon Thangorodrim and destroying the volcanic mountains in his fall. The death of Ancalagon marked the end of Morgoth's final resistance."
+"Requires: Thangorodrim Fortress Level 5 \n Summon Ancalagon the Black. \n Left click to activate \n \n Lore: \n Ancalagon, also known as Ancalagon the Black, was the greatest of all winged dragons. He was bred by Morgoth during the First Age, and was the largest dragon to have ever existed in Middle-earth. \n After Earendil made his journey to Valinor to convince the Valar to overthrow Morgoth and rescue the overmatched and defeated Elves and Edain, The Host of Valinor made war upon Morgoth and destroyed his armies. Facing final defeat, Morgoth unleashed his last and greatest weapon; a fleet of winged fire drakes, led by Ancalagon. So terrible was their onslaught that the armies of the Valar were driven back from the gates of Angband, and their coming was said to have been accompanied by a tempest of fire and lightning. But Earendil came out of the West in his blessed ship Vingilot, accompanied by the Eagles of Manwe  led by Thorondor. The Eagles and Earendil dueled with Ancalagon and the other Dragons for an entire day. Eventually, Earendil was victorious, casting Ancalagon down upon Thangorodrim and destroying the volcanic mountains in his fall. The death of Ancalagon marked the end of Morgoth's final resistance."
 END
 
 CONTROLBAR:AncalagonTheBalck
@@ -94760,7 +94791,7 @@ CONTROLBAR:GothmogArmor
 END
 
 CONTROLBAR:ToolTipGothmogArmor
-"Requires: Level 8 \n The licking flames of Gothmog grow larger, giving him better armor\n Passive ability"
+"Requires: Level 8 \n The dread of the Úmaiar significantly reduces the resistance of enemy units to fire damage. Gothmog also ignites all the flames he commands, giving him better armor\n Passive ability"
 END
 
 CONTROLBAR:GothmogFireExplotion
@@ -96654,7 +96685,7 @@ CONTROLBAR:UnderworldLeadership
 END
 
 CONTROLBAR:TooltipUnderworldLeadership
-"Enemy units lose armor against freezing while allied units gaiNainvulnerability against frost \n Passive ability"
+"Enemy units lose armor against freezing while allied units gain invulnerability against frost \n Passive ability"
 END
 
 CONTROLBAR:UnderworldWeapon
@@ -97724,7 +97755,7 @@ OBJECT:ArnorRadagastRing
 END
 
 CONTROLBAR:ArnorRadagastRing
-"Requires the Silmaril \n Recruit Radagast The Brown the Silmaril Hero of Arnor \n Radagast was originally a Maia of Yavanna the Fruit-Giver named Aiwendil, meaning "bird-friend". In Valinor, the land of the Valar, a council was called by Manw , leader of the Valar, shortly after Sauron's defeat by the Last Alliance of Elves and Men. Though Sauron was overthrown, it would later turn out that he had not been effectively vanquished and his shadow began to fall upon Middle-earth a second time. It was decided to send 5 emissaries to Middle-earth. These should be mighty, peers of Sauron, yet forgo might, and clothe themselves in flesh, as they were intended to help Men and Elves unite against Sauron, but the wizards were forbidden from matching the Dark Lord in power and fear \n  Because of the power of the Silmaril Radagast loses his power and his level when he dies"
+"Requires the Silmaril \n Recruit Radagast The Brown the Silmaril Hero of Arnor \n Radagast was originally a Maia of Yavanna the Fruit-Giver named Aiwendil, meaning "bird-friend". In Valinor, the land of the Valar, a council was called by Manwe , leader of the Valar, shortly after Sauron's defeat by the Last Alliance of Elves and Men. Though Sauron was overthrown, it would later turn out that he had not been effectively vanquished and his shadow began to fall upon Middle-earth a second time. It was decided to send 5 emissaries to Middle-earth. These should be mighty, peers of Sauron, yet forgo might, and clothe themselves in flesh, as they were intended to help Men and Elves unite against Sauron, but the wizards were forbidden from matching the Dark Lord in power and fear \n  Because of the power of the Silmaril Radagast loses his power and his level when he dies"
 END
 
 OBJECT:RoyalGuardInfantry
@@ -102250,7 +102281,7 @@ CONTROLBAR:MauhurFleisch_neu
 END
 
 CONTROLBAR:ToolTipMauhurFleisch_neu
-"Requires: Level 7 \n Mauh r is hungry for fresh meat because he starved during the long march and his stay in Fangorn \n Mauh r destroys a selected Orc or Uruk-squad to restore his health \n Left-click on allied Orcs or Uruks"
+"Requires: Level 7 \n Mauhúr is hungry for fresh meat because he starved during the long march and his stay in Fangorn \n Mauhúr destroys a selected Orc or Uruk-squad to restore his health \n Left-click on allied Orcs or Uruks"
 END
 
 CONTROLBAR:MauhurBluthund
@@ -102258,7 +102289,7 @@ CONTROLBAR:MauhurBluthund
 END
 
 CONTROLBAR:ToolTipMauhurBluthund
-"Requires: Level 4 \ n With his fine nose, Mauh r catches the scent of the enemy and snoops out the opponent closest to his position\n The next enemy on the map is revealed\n in addition, Uruks near the identified target cause 50% more damage and gain 50% armor\n Left-click to activate"
+"Requires: Level 4 \ n With his fine nose, Mauhúr catches the scent of the enemy and snoops out the opponent closest to his position\n The next enemy on the map is revealed\n in addition, Uruks near the identified target cause 50% more damage and gain 50% armor\n Left-click to activate"
 END
 
 CONTROLBAR:MauhurAxteIsengarts
@@ -102266,11 +102297,11 @@ CONTROLBAR:MauhurAxteIsengarts
 END
 
 CONTROLBAR:TooltipMauhurAxteIsengarts
-"Requires: Level 10\n Mauh r and his scouts camp at the chosen location and spoil the surrounding land\n Uruks near the camp receive +30% armor\n in the camp site, there are various buildings that are available to be constructed\n These are not the only ones that are dependent on the rotten soil of Isengard \ n Left-click on a passable area"
+"Requires: Level 10\n Mauhúr and his scouts camp at the chosen location and spoil the surrounding land\n Uruks near the camp receive +30% armor\n in the camp site, there are various buildings that are available to be constructed\n These are not the only ones that are dependent on the rotten soil of Isengard \ n Left-click on a passable area"
 END
 
 CONTROLBAR:ConstructIsengardEliteFighter_Submod
-"Mauh r's Scout"
+"Mauhúr's Scout"
 END
 
 CONTROLBAR:ToolTipBuildIsengardEliteFighter_Submod
@@ -109508,11 +109539,11 @@ CONTROLBAR:ToolTipShadowKnightZaphragorUpgrade
 END
 
 CONTROLBAR:ManweSummonEagles
-"The Eagl&es of Manw "
+"The Eagl&es of Manwe "
 END
 
 CONTROLBAR:ToolTipManweSummonEagles
-"Manw  sends his eagles to help in the battle \n 3 eagles are summoned for a short time \n Left-click icon then left-click on target area"
+"Manwe  sends his eagles to help in the battle \n 3 eagles are summoned for a short time \n Left-click icon then left-click on target area"
 END
 
 CONTROLBAR:ManweWindtrap
@@ -109520,7 +109551,7 @@ CONTROLBAR:ManweWindtrap
 End
 
 CONTROLBAR:ToolTipManweWindtrap
-"Manw  calls a whirlwind which traps and moves enemy units closer to the center of the area of effect \n Enemy Heroes and Units lose 10% Armor and 50% Speed for 10 seconds and suffer damage. \n Left click to activate "
+"Manwe  calls a whirlwind which traps and moves enemy units closer to the center of the area of effect \n Enemy Heroes and Units lose 10% Armor and 50% Speed for 10 seconds and suffer damage. \n Left click to activate "
 End
 
 CONTROLBAR:ManweStrongWindblow
@@ -109528,7 +109559,7 @@ CONTROLBAR:ManweStrongWindblow
 END
 
 CONTROLBAR:ToolTipManweStrongWindblow
-"Manw  sends out a sonic wind blowing so powerful that kills surrounding enemies \n Left click to activate"
+"Manwe  sends out a sonic wind blowing so powerful that kills surrounding enemies \n Left click to activate"
 END
 
 CONTROLBAR:ManweToggleAirborne
@@ -109536,7 +109567,7 @@ CONTROLBAR:ManweToggleAirborne
 END
 
 CONTROLBAR:TooltipManweToggleAirborne
-"Manw  commands the wind to make him airborne"
+"Manwe  commands the wind to make him airborne"
 END
 
 CONTROLBAR:PalantirPower
@@ -109544,7 +109575,7 @@ CONTROLBAR:PalantirPower
 END
 
 CONTROLBAR:ToolTipPalantirPower
-"Manw  creates a rift in the heavens, resulting in an enormous explosion of divine power. \n Left-click on a target area"
+"Manwe  creates a rift in the heavens, resulting in an enormous explosion of divine power. \n Left-click on a target area"
 END
 
 CONTROLBAR:TulkasFear
