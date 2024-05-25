@@ -1,9 +1,17 @@
-erestor rework
-tom bombadil rework
-gildor new ability
-galadriel dmg nerf
-elf lords armor rebalance
-imla catas rebalance
-mouth of sauron ability shuffle
-shelob pin lvl 3
-tulkas armor nerf
+erestor farm fix
+imladris pikes armor nerf against frost and damage increase
+feanor lvl 10 crush revert
+arwen dmg buff
+gundabad wargs locked behind yazneg
+buhrdur armor nerf
+gothmog (balrog) lvl 10 damage buff
+mouth of sauron new lvl 2
+thranduil dmg buff
+elendil leadership buff
+Theoden rework
+Erkenbrand rework
+Gamling rework
+barrow wights nerf
+crypt limited to 1
+Helm hammerhand fix
+Mauhur Q select fix
