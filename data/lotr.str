@@ -1609,7 +1609,7 @@ CONTROLBAR:SpecialAbilityVerheerenderAngriff
 END
 
 CONTROLBAR:ToolTipSpecialAbilityVerheerenderAngriff
-"Price: 500 Life Points \n Zaphragor lets dark magic course through his blade and aims a devastating sweeping attack at an enemy \n The targeted enemy, as well as surrounding foes, will be knocked back and damaged by the magic\n Left-click on an enemy target unit"
+"Price: 1000 Life Points \n Zaphragor lets dark magic course through his blade and aims a devastating sweeping attack at an enemy \n The targeted enemy, as well as surrounding foes, will be knocked back and damaged by the magic\n Left-click on an enemy target unit"
 END
 
 CONTROLBAR:SpecialAbilityZaphragorFanatismus
@@ -3321,7 +3321,7 @@ CONTROLBAR:ToolTipCommandSelectRevivablesHeroeGeneric
 END
 
 CONTROLBAR:ToolTipShieldMaiden_Neu
-"Requires: Level 5 \n  Eowyn is well trained with sword and shield. \n For a short time she suffers 30% less damage in general and 80% less damage from heroes. \n If eEowyn fights with merry by her side, he will get bonus damage, especially against heroes. \n Left-click to activate"
+"Requires: Level 5 \n  Eowyn is well trained with sword and shield. \n For a short time she suffers 30% less damage in general and 80% less damage from heroes. \n If Eowyn fights with merry by her side, he will get bonus damage, especially against heroes. \n Left-click to activate"
 END
 
 CONTROLBAR:LeadershipEowinNew
@@ -3329,7 +3329,7 @@ CONTROLBAR:LeadershipEowinNew
 END
 
 CONTROLBAR:ToolTipEowinPeasantLeadership
-"Requires: Level 3 \n  Eowyn inspires the commonsfolk to fight harder for their land. Nearby peasant and basic Rohan units gain +30% Armor and Damage.\n Passive Ability"
+"Requires: Level 2 \n  Eowyn inspires the commonsfolk to fight harder for their land. Nearby peasant and basic Rohan units gain +30% Armor and Damage.\n Passive Ability"
 END
 
 CONTROLBAR:ToolTipDisguiseEEowyn_Neu
@@ -18080,7 +18080,23 @@ CONTROLBAR:SpecialAbilityGrausamerAnsturm
 END
 
 CONTROLBAR:ToolTipSpecialAbilityGrausamerAnsturm
-"Requires: Level 7 \n The Witch-king accesses the deepest depravity of his followers and squeezes out their remaining strength for a final assault \n Allies in the target area will briefly receive triple attack, +25% speed and are invulnerable \n After a period of 30 seconds, they die \n Left-click on the desired allied units"
+"Requires: Level 7 \n The Witch-king accesses the deepest depravity of his followers and squeezes out their remaining strength for a final assault \n Allies in the target area will briefly receive triple attack, +25% speed and are invulnerable \n After a period of 30 seconds, they die and are raised as undead warriors to fight for Witch-King \n Left-click on the desired allied units"
+END
+
+CONTROLBAR:SpecialAbilityWitchKingServitude
+"Servitude to the iron crown"
+END
+
+CONTROLBAR:ToolTipSpecialAbilityWitchKingServitude
+"Requires: Level 8 \n Witch-King rewards one his servants for their deed in the name of the iron crown \n Witch-King grants a desired angmar hero a bunch of experience \n left-clickon a desired hero"
+END
+
+CONTROLBAR:WitchKingSnowStorm
+"Blizzard"
+END
+
+CONTROLBAR:ToolTipWitchKingSnowStorm
+"Requires: Level 5 \n Under the tutelage of the Dark Lord himself, Witch-King of angmar gained a lot new magic powers \n Witch-King uses this new gained power to manipulate the weather creating a blizard on the battlefield, which debuffs and damages enemy units in the area\n left-click to activate" 
 END
 
 CONTROLBAR:ConstructMordorArmory
@@ -18131,8 +18147,16 @@ CONTROLBAR:AuradesUnheils
 "Aura of Evil"
 END
 
+CONTROLBAR:BlightExtension
+"Drought of pure evil"
+END
+
+CONTROLBAR:ToolTipBlightExtension
+"Requires: Level 3 \n Witch-King conjures up powerful dark magic that plagues the land of his enemies \n If Witch-king is on the field you may use the blight 3 more times\n Passive ability \n\n Left-click to toggle palantir"
+END
+
 CONTROLBAR:ToolTipAuradesUnheils
-"An aura of death surrounds the ruler of Angmar, searing enemies who strike him in retaliation \n The Witch-king reflects incoming damage \n The sight of pure evil strikes fear into the hearts of his enemies, cursing their ability to fight \n Nearby enemies lose -25% damage and armor \n Passive ability"
+"An aura of death surrounds the ruler of Angmar, searing enemies who strike him in retaliation \n The Witch-king reflects incoming damage \n Passive ability"
 END
 
 CONTROLBAR:SpecialAbilityDieStundedesHexenkonigs
@@ -57379,7 +57403,7 @@ CONTROLBAR:ConstructMirkwoodElkriderHorde
 END
 
 CONTROLBAR:ToolTipBuildMirkwoodElkriderHorde
-"Requires: Troopchamber Expansion has been build \n Unit Type: Regular Cavalry Archer \n Strong at Range \n You can only build 5 Elkrider Battalions"
+"Requires: Mirkwood Barracks Level 2 \n Unit Type: Regular Cavalry Archer \n Strong at Range \n You can only build 5 Elkrider Battalions"
 END
 
 BANNERUI:MirkwoodElkrider
@@ -57420,7 +57444,7 @@ CONTROLBAR:LothlorienMirkwoodPalaceGuardHorde
 END
 
 CONTROLBAR:ToolTipBuildLothlorienMirkwoodPalaceGuardHorde
-"Requires: Captain of the Watch \n Unit Type: Elite Pikemen \n Strong vs: Cavalry and Monsters"
+"Requires: Captain of the Watch \n Unit Type: Advanced Pikemen \n Strong vs: Cavalry and Monsters \n You can only build 4 units at the same time"
 END
 
 BANNERUI:MirkwoodPalaceGuard
@@ -57440,11 +57464,11 @@ CONTROLBAR:LW_Unit_LothlorienMirkwoodPalaceGuardHordePlural
 END
 
 CONTROLBAR:LW_ToolTipBuild_LothlorienMirkwoodPalaceGuardHorde
-"Unit Type: Elite Pikemen\nStrong vs: Cavalry and Monsters\n"
+"Unit Type: Advanced Pikemen\nStrong vs: Cavalry and Monsters\n"
 END
 
 CONTROLBAR:LW_ToolTip_LothlorienMirkwoodPalaceGuardHorde
-"\nUnit Type: Elite Pikemen\nStrong vs: Cavalry and Monsters"
+"\nUnit Type: Advanced Pikemen\nStrong vs: Cavalry and Monsters"
 END
 
 CONTROLBAR:SpecialAbilityVerteidigerDusterwalds
@@ -58555,7 +58579,7 @@ CONTROLBAR:BuildElvenKnightHorde
 END
 
 CONTROLBAR:ToolTipBuildElvenKnightHorde
-"Requires: Green Pasture Level 3 \n Unit Type: Elite Cavalry \n Strong vs: Infantry and Cavalry \n Imladris Library upgrades allow the battalion to unlock special abilities \n You can only train 3 battalions"
+"Requires: Green Pasture Level 3 and Wind Rider Shields \n Unit Type: Elite Cavalry \n Strong vs: Infantry and Cavalry \n Imladris Library upgrades allow the battalion to unlock special abilities \n You can only train 3 battalions"
 END
 
 CONTROLBAR:ToolTipBuildElvenKnightHordeInn
@@ -90594,7 +90618,7 @@ CONTROLBAR:LW_ToolTip_DoriathMablung
 END
 
 CONTROLBAR:DoriathMablungRecruit
-"Recruit the first captain of the hosts of King Thingol, \n and guardian of the kingdom's borders \n \n Lore: \n Mablung, also known as Mablung of the Heavy Hand, was a Sindarin elf who served in the army of King Elu Thingol of Doriath, as a captain and marchwarden. Mablung, along with Daeron, came to the Mereth Aderthad bearing gifts and friendship from Doriath. He also served in Menegroth in some unknown position of command. Together with Beleg C thalion, he was one of the great captains of the Sindar, and were the only Elves of Doriath to fight with the Union of Maedhros in the Nirnaeth Arnoediad, as King Thingol would have nothing to do with the war."
+"Recruit the first captain of the hosts of King Thingol, \n and guardian of the kingdom's borders \n \n Lore: \n Mablung, also known as Mablung of the Heavy Hand, was a Sindarin elf who served in the army of King Elu Thingol of Doriath, as a captain and marchwarden. Mablung, along with Daeron, came to the Mereth Aderthad bearing gifts and friendship from Doriath. He also served in Menegroth in some unknown position of command. Together with Beleg Cúthalion, he was one of the great captains of the Sindar, and were the only Elves of Doriath to fight with the Union of Maedhros in the Nirnaeth Arnoediad, as King Thingol would have nothing to do with the war."
 END
 
 CONTROLBAR:DoriathMablungRevive
@@ -90656,15 +90680,15 @@ END
 
 
 OBJECT:DoriathBeleg
-"Beleg C thalion"
+"Beleg Cúthalion"
 END
 
 CONTROLBAR:LW_Hero_DoriathBeleg
-"Beleg C thalion"
+"Beleg Cúthalion"
 END
 
 CONTROLBAR:LW_ToolTipBuild_DoriathBeleg
-"Unit Type: Hero Beleg C thalion\n"
+"Unit Type: Hero Beleg Cúthalion\n"
 END
 
 CONTROLBAR:LW_ToolTip_DoriathBeleg
@@ -90672,15 +90696,15 @@ CONTROLBAR:LW_ToolTip_DoriathBeleg
 END
 
 CONTROLBAR:DoriathBelegRecruit
-"Recruit one of the most intrepid and brave Elves, a great archer and explorer \n \n Lore: \n Beleg, also known as Beleg C thalion or Beleg Strongbow, dubbed for his good bowmanship, was a Sindarin elf who served in the army of King Elu Thingol of Doriath as Chief Marchwarden - and was a predominant companion of Turin Turambar's. Beleg followed no man, and could not be restrained. Beleg and his friend Mablung were the only Elves of Doriath to fight with the Union of Maedhros in the Nirnaeth Arnoediad, as King Thingol would have nothing to do with the war."
+"Recruit one of the most intrepid and brave Elves, a great archer and explorer \n \n Lore: \n Beleg, also known as Beleg Cúthalion or Beleg Strongbow, dubbed for his good bowmanship, was a Sindarin elf who served in the army of King Elu Thingol of Doriath as Chief Marchwarden - and was a predominant companion of Turin Turambar's. Beleg followed no man, and could not be restrained. Beleg and his friend Mablung were the only Elves of Doriath to fight with the Union of Maedhros in the Nirnaeth Arnoediad, as King Thingol would have nothing to do with the war."
 END
 
 CONTROLBAR:DoriathBelegRevive
-"Revive the fallen Hero, Beleg C thalion"
+"Revive the fallen Hero, Beleg Cúthalion"
 END
 
 CONTROLBAR:DoriathBelegHotkey
-"&Beleg C thalion"
+"&Beleg Cúthalion"
 END
 
 CONTROLBAR:BelegLembas
@@ -90688,7 +90712,7 @@ CONTROLBAR:BelegLembas
 END
 
 CONTROLBAR:ToolTipBelegLembas
-"Requires: Level 2 \n Melian gave Beleg C thalion Lembas Bread, \n a gift from his explorations.\n Beleg and nearby allied heroes are healed\n Left-click to activate"
+"Requires: Level 2 \n Melian gave Beleg Cúthalion Lembas Bread, \n a gift from his explorations.\n Beleg and nearby allied heroes are healed\n Left-click to activate"
 END
 
 CONTROLBAR:BelegCloak
@@ -90696,7 +90720,7 @@ CONTROLBAR:BelegCloak
 END
 
 CONTROLBAR:ToolTipBelegCloak
-"Requires: Level 3 \n Using his skills in camouflage, Beleg C thalion disappears from view of his enemies \n Becomes invisible when standing still \n Left-click to activate"
+"Requires: Level 3 \n Using his skills in camouflage, Beleg Cúthalion disappears from view of his enemies \n Becomes invisible when standing still \n Left-click to activate"
 END
 
 CONTROLBAR:BelegMoveUnseen
@@ -90704,7 +90728,7 @@ CONTROLBAR:BelegMoveUnseen
 END
 
 CONTROLBAR:ToolTipBelegMoveUnseen
-"Requires: Level 5 \n Beleg C thalion aids his followers,\n teaching them to hide from the enemy. \n Allows all targeted allies to become temporarily stealthed. \n Left-click icon then left-click on target units"
+"Requires: Level 5 \n Beleg Cúthalion aids his followers,\n teaching them to hide from the enemy. \n Allows all targeted allies to become temporarily stealthed. \n Left-click icon then left-click on target units"
 END
 
 CONTROLBAR:BelegDeadEye
@@ -90712,7 +90736,7 @@ CONTROLBAR:BelegDeadEye
 END
 
 CONTROLBAR:ToolTipBelegDeadEye
-"Requires: Level 7 \n Beleg C thalion musters his greatest marksmanship\n He temporarily deals increased damage with each shot\n Left-click to activate"
+"Requires: Level 7 \n Beleg Cúthalion musters his greatest marksmanship\n He temporarily deals increased damage with each shot\n Left-click to activate"
 END
 
 CONTROLBAR:BelegBelthrondingVengeance
@@ -90720,7 +90744,7 @@ CONTROLBAR:BelegBelthrondingVengeance
 END
 
 CONTROLBAR:ToolTipBelegBelthrondingVengeance
-"Requires: Level 9 \n Belthronding is the bow of Beleg C thalion.\n No one save himself possesses sufficient strength to tighten its string.\n Beleg releases an extremely powerful single shot attack.\n Left-click icon then left-click on target"
+"Requires: Level 9 \n Belthronding is the bow of Beleg Cúthalion.\n No one save himself possesses sufficient strength to tighten its string.\n Beleg releases an extremely powerful single shot attack.\n Left-click icon then left-click on target"
 END
 
 OBJECT:AlqualondOlwe
@@ -104893,7 +104917,7 @@ CONTROLBAR:HamaRitterdesKoenigshauses
 END
 
 CONTROLBAR:ToolTipHamaRitterdesKoenigshauses
-"The Knights of the Golden Hall defend the members of the House of Eorl with their lives \n Only on Theoden, Theodred, Eomer and EEowyn usable \n The chosen hero is temporarily protected by the royal guard and receives +50% armor for a short time \n If the chosen hero is currently sitting on his horse, the guardsmen also appear on their horses \n Left-click on Theoden, Theodred, Eomer or EEowyn"
+"The Knights of the Golden Hall defend the members of the House of Eorl with their lives \n Only on Theoden, Theodred, Eomer and Eowyn usable \n The chosen hero is temporarily protected by the royal guard and receives +50% armor for a short time \n If the chosen hero is currently sitting on his horse, the guardsmen also appear on their horses \n Left-click on Theoden, Theodred, Eomer or Eowyn"
 END
 
 CONTROLBAR:HamaWaechterdergoldenenHalle

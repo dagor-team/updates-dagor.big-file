@@ -692,7 +692,8 @@
      </EventList>
 
      <EventList Name="RadagastFunctions" Inherit="BaseScriptFunctions">
-        <EventHandler EventName="UsingSpecialOne" ScriptFunctionName="GandalfTriggerWizardBlast" DebugSingleStep="false"/>
+	<EventHandler EventName="UsingSpecialOne" ScriptFunctionName="GandalfTriggerWizardBlast" DebugSingleStep="false"/>
+        <EventHandler EventName="UsingSpecialTwo" ScriptFunctionName="GandalfTriggerWizardBlast" DebugSingleStep="false"/>
 	<EventHandler EventName="ModelConditionUSER_6" ScriptFunctionName="GandalfTriggerWizardBlast" DebugSingleStep="false"/>
         <EventHandler EventName="ModelConditionUSER_4" ScriptFunctionName="OnKing" DebugSingleStep="false"/>
         <EventHandler EventName="ModelConditionNOTUSER_4" ScriptFunctionName="OnKingAftermath" DebugSingleStep="false"/>
