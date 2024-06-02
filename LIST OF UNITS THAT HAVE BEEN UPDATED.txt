@@ -2,7 +2,33 @@ EXPANDABLE
 GoblinSpear
 GoblinFighter
 GoblinArcher
+MordorBannerOrc
+MordorFighter
+MordorFighter_Gorthaur
+MordorGoblinArcher
+MordorGoblinSwordsman
+
+
+
+
+
+
+
+
+
+ 
 CHEAP
+MordorArcher
+MordorPikeman
+
+
+BASIC
+MordorCorsairBanner
+UmbarCorsairBanner
+MordorCorsairsOfUmbar
+MordorCorsairsOfUmbar_Slaved1
+IronHillsBanditen_Kampagne
+
 
 
 
@@ -11,6 +37,27 @@ WildGundabadArcher
 WildGundabadBanner
 WildGundabadPike
 WildMarauder
+GoblinRider
+WildGoblinRiderBanner
+HaradHaradrimArcher
+HaradHaradrimBanner
+HaradHaradrimLancer
+MordorHaradrimArcher
+HaradbannerMod
+MordorHaradrimRiderBanner
+MordorHaradrimRider
+MordorDolGuldurBannerOrc
+MordorMorgulBannerOrc
+MordorMorgulBannerOrc02
+MordorBlackOrc
+MordorBlackUrukBanner
+MordorCirithOrk
+DolguldurOrk
+MordorEasterling
+MordorSchwarzeOstlinge
+MordorBlackOrc_mod
+
+
 
 
 ADVANCED
@@ -18,3 +65,5 @@ WildMarauderSwordBanner
 WildGundabadMarauderSwords
 GundabadWargRider
 WildMarauderSwords
+MordorBlackUruk
+MordorBlackUrukBow
