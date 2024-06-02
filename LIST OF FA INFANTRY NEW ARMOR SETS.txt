@@ -1,0 +1,24 @@
+Rohan, loth, imla, arnor, gondor, angmar dark elves:
+QuendiArcherArmorUpgrade
+QuendiPikemenArmor
+QuendiCavalaryArmor
+QuendiInfantryArmor
+Barahir axemen:
+QuendiSupportHeroArmor
+Dwarves:
+NaugrimInfantryArmor
+NaugrimArmorMounted
+Angmar collectors:
+AngbandSupportHeroArmor
+TolinGaurhothWolf, TolinGaurhothWereWolf:
+TolinGaurhothWolfArmor
+AngmarUdunWachter, AngbandBalrog, UnderworldDeamon, AngbandBalrog:
+AngbandBalrogArmor
+Thargelion mumak:
+EdainMumakilArmor
+ThargelionCharriot:
+BattleWagonArmorHeavy
+TolinGaurhothVampire:
+VeryWeakFlyingHeroArmor
+TolinGaurhothSentinels:
+MediumHeroArmor
