@@ -22,6 +22,7 @@ WildMarauderHeavyArmor
 EdainCavalryArmor
 EdainCavalryScavengedArmor
 WargArmor
+EdainHeavyPikemanArmor
 EdainHeavyPikemanHeavyArmor
 HaradrimArmor
 HaradrimHeavyArmor
@@ -52,27 +53,28 @@ UrukArcherArmor
 UrukArcherHeavyArmor
 OrcPikemenArmor
 PikemenHeavyArmor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+AngmarInfantryArmor
+AngmarInfantryHeavyArmor
+AngmarDireWolfArmor
+AngmarDireWolfHeavyArmor
+EdainCavalry
+EdainCavalryHeavyArmor
+AngmarPikemanArmor
+AngmarPikemanHeavyArmor
+EdainHeavyArcherArmor
+EdainHeavyArcherHeavyArmor
+EdainHeavyCavalryArmor
+EdainHeavyCavalryShieldArmor
+EdainHeavyCavalryHeavyArmor
+EdainHeavyCavalryHeavyShieldArmor
+EdainArcherArmor
+EdainArcherHeavyArmor
+EdainPikemanArmor
+EdainPikemanHeavyArmor
+GondorPikemanArmor
+GondorPikemanHeavyArmor
+AngmarDDArmor
+AngmarDDHeavyArmor
 
 
 

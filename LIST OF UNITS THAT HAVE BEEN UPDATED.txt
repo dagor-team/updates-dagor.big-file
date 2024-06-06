@@ -20,6 +20,9 @@ MordorGoblinSwordsman
 CHEAP
 MordorArcher
 MordorPikeman
+AngmarBannerOrc
+
+
 
 
 BASIC
@@ -28,8 +31,8 @@ UmbarCorsairBanner
 MordorCorsairsOfUmbar
 MordorCorsairsOfUmbar_Slaved1
 IronHillsBanditen_Kampagne
-
-
+AngmarBannerWolfRider
+AngmarWolfReiter
 
 
 REGULAR
@@ -56,6 +59,29 @@ DolguldurOrk
 MordorEasterling
 MordorSchwarzeOstlinge
 MordorBlackOrc_mod
+AngmarInfantryBanner
+AngmarRangerBanner
+AngmarDarkDunedain
+AngmarDunedainPikeman
+
+
+
+
+
+
+
+
+
+ArnorArcher
+ArnorCavalry
+ArnorCavalry_Summoned
+ArnorCavalryBanner
+ArnorFighter
+ArnorFighter_Summoned
+ArnorInfantryRangerBanner
+ArnorInfantryBanner
+ArnorTowerShieldGuard
+
 
 
 
@@ -67,3 +93,12 @@ GundabadWargRider
 WildMarauderSwords
 MordorBlackUruk
 MordorBlackUrukBow
+ArnorHueter
+ArnorHueterBanner
+ArnorRanger
+LindonElvenWarrior
+
+
+
+
+
