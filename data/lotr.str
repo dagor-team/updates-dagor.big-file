@@ -2529,7 +2529,7 @@ CONTROLBAR:SpecialAbilityBeutekarrendesGroﬂorks
 END
 
 CONTROLBAR:ToolTipSpecialAbilityBeutekarrendesGroﬂorks
-"Requires: Level 4 \n The Great Goblin calls for a cart into which his minions can load their loot. \n Left-click on the desired target area"
+"Requires: Level 2 \n The Great Goblin calls for a cart into which his minions can load their loot. \n Left-click on the desired target area"
 END
 
 CONTROLBAR:SpecialAbilityFleischbeladen
@@ -9644,7 +9644,7 @@ CONTROLBAR:GreatGoblinGatherGoblins
 END
 
 CONTROLBAR:ToolTipGreatGoblinGatherGoblins
-"Requires: Level 3 \n Great Goblin summons a raiding party of goblins. \n Left-click on the desired target area"
+"Great Goblin summons a raiding party of goblins. \n Requires: Level 4 \n Raiding party increases in numbers. \n Left-click on the desired target area"
 END
 
 CONTROLBAR:GreatGoblinTunnelgraberdesGroﬂorks
@@ -49967,11 +49967,9 @@ OBJECT:HordeGondorWachterBrunnen
 "Guardian of the Fountain"
 END
 
-
 OBJECT:HordeGondorSoldierArcherCombo
 "Soldier - Archer"
 END
-
 
 OBJECT:HordeGondorSoldierRangerCombo
 "Soldier - Ranger"
@@ -60863,7 +60861,7 @@ CONTROLBAR:ConstructDwarvenErdenhammer_Erebor
 END
 
 CONTROLBAR:ToolTipBuildDwarvenErdenhammer_Erebor
-"Requires: Siege Works Level 3 \n Unit Type: Regular Siege Equipment \n Strong vs: Structures \n You can only build 4 Earth Shakers"
+"Requires: Siege Works Level 3 \n Unit Type: Regular Siege Equipment \n Strong vs: Structures \n You can only build 2 Earth Shakers"
 END
 
 BANNERUI:DwarvenErdenhammer
