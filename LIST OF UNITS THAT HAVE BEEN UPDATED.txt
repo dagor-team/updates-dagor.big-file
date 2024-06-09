@@ -25,14 +25,36 @@ AngmarBannerOrc
 
 
 
+
 BASIC
 MordorCorsairBanner
 UmbarCorsairBanner
 MordorCorsairsOfUmbar
 MordorCorsairsOfUmbar_Slaved1
 IronHillsBanditen_Kampagne
+
+
+
+
+
+LothlorienBanner
+LothlorienGrenzwachter
+
+
+
 AngmarBannerWolfRider
 AngmarWolfReiter
+
+
+
+HobbitCavalry
+HobbitRiderBanner
+
+
+GondorSpearman
+GondorArcher
+GondorFighter
+GondorInfantryBanner
 
 
 REGULAR
@@ -42,6 +64,9 @@ WildGundabadPike
 WildMarauder
 GoblinRider
 WildGoblinRiderBanner
+
+
+
 HaradHaradrimArcher
 HaradHaradrimBanner
 HaradHaradrimLancer
@@ -59,6 +84,14 @@ DolguldurOrk
 MordorEasterling
 MordorSchwarzeOstlinge
 MordorBlackOrc_mod
+
+
+
+
+
+
+
+
 AngmarInfantryBanner
 AngmarRangerBanner
 AngmarDarkDunedain
@@ -66,7 +99,20 @@ AngmarDunedainPikeman
 
 
 
+GondorArcherMonsterHunter
+GondorOrkjager
+IthilienSpeertrager
+IthilienSchwertkampfer
+LehenDolsoldaten
+LehenDolFighterBanner
+GondorCavalry
+GondorCavalryBanner
 
+
+ImladrisBanner
+BruchtalSchwertmeister
+ImladrisSwordmasterBanner
+ImladrisWaffenmeister
 
 
 
@@ -93,10 +139,44 @@ GundabadWargRider
 WildMarauderSwords
 MordorBlackUruk
 MordorBlackUrukBow
+
+
+
 ArnorHueter
 ArnorHueterBanner
 ArnorRanger
+
+
+
+
+
 LindonElvenWarrior
+BruchtalBogenschuetzen
+BruchtalLanzer
+LindonHeavenArcher
+LindonBanner
+LindonHeavenLancer
+LindonHeavenWarrior
+
+
+LothlorienHaldirsElves
+LothlorienHaldirsElvesInn
+LorienMirkwoodArcher
+
+
+
+
+
+GondorRangerGraueSchar
+GondorRanger
+DunedainFighter
+GondorRangerNoStealth
+GondorTowerShieldGuard
+
+
+
+
+
 
 
 
