@@ -1,17 +1,20 @@
-erestor farm fix
-imladris pikes armor nerf against frost and damage increase
-feanor lvl 10 crush revert
-arwen dmg buff
-gundabad wargs locked behind yazneg
-buhrdur armor nerf
-gothmog (balrog) lvl 10 damage buff
-mouth of sauron new lvl 2
-thranduil dmg buff
-elendil leadership buff
-Theoden rework
-Erkenbrand rework
-Gamling rework
-barrow wights nerf
-crypt limited to 1
-Helm hammerhand fix
-Mauhur Q select fix
+erebor dain - summon permanent 
+	    - once he activates his level 7 with each hit he grants a 3 second bonus for ally heroes giving them 50% experience gain
+gloin - new ability after mithril (also needs level 5)
+      - his old ability after mithril is now included in his level 3
+mirkwood elites - new weapon after level 4
+elk riders - moved to mirkwood barracks lvl 2 +avari removed
+radagast gift weapon animation fixed
+aglarond citadel switched with gandalf summon in the spell tree
+iron hills dain - level 1 cd increased
+erebor axe throwers - range increase from 290 to 300
+erebor earth hammer - it can attack finally
+durmarth - guardian form at level 3 each time durmarth gets attacked he deals damage around him, as he gets lower on health damage increases
+		from full hp to 5001 hp he will deal 4 damage to all units in 40 radius
+		from 5000 hp to 2501 hp he will deal 10 damage to all units in 40 radius
+		below 2500 he will deal 20 damage to all units in 40 radius
+	 - his hero invulnerability ability finally works
+great goblin - his level 3 moved to level 1 + check description
+	     - his level 4 moved to level 2
+all monsters weapons have their damage type fixed, meaning they should perform better against units they are supposed to counter
+formenos fortress - build time increase from 60s to 120s
