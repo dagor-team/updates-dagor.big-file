@@ -75,6 +75,36 @@ GondorPikemanArmor
 GondorPikemanHeavyArmor
 AngmarDDArmor
 AngmarDDHeavyArmor
+ImladrisBasicUnitArmor
+ImladrisBasicUnitHeavyArmor
+ImladrisBowUnitArmor
+ImladrisBowUnitHeavyArmor
+ImladrisPikeUnitArmor
+ImladrisPikeUnitHeavyArmor
+EdainLightInfantryHeavyArmor
+LorienWarriorArmor
+LorienWarriorHeavyArmor
+ImladrisWaffenmeister
+ImladrisBasicUnitHeavyArmor
+TowerGuardArmor
+TowerGuardHeavyArmor
+EdainHybridInfantryArmor
+EdainHybridInfantryHeavyArmor
+GondorPikemanArmor
+GondorPikemanHeavyArmor
+IthilienSpearArmor
+EdainCavalryShieldArmor
+EdainCavalryHeavyShieldArmor
+EdainCavalryHeavyArmor
+RangerArmor
+ElvenGrenzwachterArmor
+ElvenGrenzwachterHeavyArmor
+RivendellArcherArmor
+RivendellArcherHeavyArmor
+EdainSwordBowArmor
+EdainSwordBowHeavyArmor
+MirkwoodArcherArmor
+MirkwoodArcherHeavyArmor
 
 
 
@@ -87,5 +117,3 @@ AngmarDDHeavyArmor
 
 
 
-
-j
