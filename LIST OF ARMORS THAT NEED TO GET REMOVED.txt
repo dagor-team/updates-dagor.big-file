@@ -134,6 +134,17 @@ EdainSwordBowArmor
 EdainSwordBowHeavyArmor
 MirkwoodArcherArmor
 MirkwoodArcherHeavyArmor
+ElvenArcherArmor
+ElvenArcherHeavyArmor
+MirkwoodAvariArmor
+MirkwoodPikemanArmor
+MirkwoodPikemanHeavyArmor
+MirkwoodInfantryHeavyArmor
+MirkwoodInfantryArmor
+
+
+
+
 
 
 PikemenHeavyArmor

@@ -22,11 +22,7 @@ AngmarBannerOrc
 
 
 
-<<<<<<< Updated upstream
 
-
-=======
->>>>>>> Stashed changes
 BASIC
 MordorCorsairBanner
 UmbarCorsairBanner
@@ -40,6 +36,10 @@ IronHillsBanditen_Kampagne
 
 LothlorienBanner
 LothlorienGrenzwachter
+ElvenLorienArcher
+ElvenLorienWarrior
+ElvenLorienPikeman
+
 
 
 
@@ -97,7 +97,8 @@ MordorBlackOrc_mod
 <<<<<<< Updated upstream
 
 
-
+MirkwoodSpearmen
+MirkwoodWarrior
 
 
 
@@ -190,6 +191,10 @@ LindonHeavenWarrior
 LothlorienHaldirsElves
 LothlorienHaldirsElvesInn
 LorienMirkwoodArcher
+ElvenMithlondSentry
+MirkwoodAvariWarrior
+MirkwoodScoutArcher
+MirkwoodWachterArcher
 
 
 
