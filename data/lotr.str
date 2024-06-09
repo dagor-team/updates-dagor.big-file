@@ -16168,7 +16168,15 @@ CONTROLBAR:GloinHerrvomeinsamenBerg
 END
 
 CONTROLBAR:ToolTipGloinHerrvomeinsamenBerg
-"Requires: Level 3 \n The Dwarven siege machines are under the command of Gloin. \n +50% attack and defense for siege weapons around him. \n Passive ability"
+"Requires: Level 3 \n The Dwarven siege machines are under the command of Gloin. \n +25% attack and defense for siege weapons around him. \n Machines and battlewagons near gloin are slowly repaired. \n\n Requires: Mithril Mail \n Siege Weapons in a wide radius gain +25% speed and battlewagons gains 50% crush deceleration. \n Passive ability"
+END
+
+CONTROLBAR:GloinHammers
+"Hammerers of the Volcanic Forges"
+END
+
+CONTROLBAR:ToolTipGloinHammers
+"Requires: Level 5 \n Gloin brings the best Erebor smiths, equiped with hammers made in the rivers of black ice under the Lonely mountain, into battle. \n Gloin summons two battalions of Erebor Hammerers near the targeted foe. \n Left-click on an enemy"
 END
 
 CONTROLBAR:ClanFeuerbarte
@@ -70843,14 +70851,6 @@ END
 
 CONTROLBAR:ToolTipGloinSmash
 "Requires: Level 10 \n Causes a small earthquake around Gloin's location, dealing massive damage to structures. Enemy units that are caught by the powerful earthquake take medium damage and suffer a loss in speed and armor \n Left click icon then left click on target"
-END
-
-CONTROLBAR:GloinMithrilLeadership
-"Mithril Machinery"
-END
-
-CONTROLBAR:ToolTipGloinMithrilLeadership
-"Siege Weapons near Gloin gain +25% \n Machines and battlewagons near gloin are slowly getting repaired \n Passive ability"
 END
 
 CONTROLBAR:SpecialAbilityGimliDiplomacy
