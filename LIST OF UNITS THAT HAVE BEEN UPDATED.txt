@@ -7,8 +7,10 @@ MordorFighter
 MordorFighter_Gorthaur
 MordorGoblinArcher
 MordorGoblinSwordsman
-RohanPeasant_modneu
-RohanPeasant1_modneu
+
+
+
+
 
 
 
@@ -19,6 +21,7 @@ CHEAP
 MordorArcher
 MordorPikeman
 AngmarBannerOrc
+
 
 
 
@@ -45,15 +48,6 @@ ElvenLorienPikeman
 
 AngmarBannerWolfRider
 AngmarWolfReiter
-RohanArcher
-RohanArcher_mod
-RohanAxtrohirrim
-RohanBanner
-RohanFighter
-RohanAxeFighter
-RohanYeomanSpearThrower
-RohanSpeerwerfer
-RohanLancer
 
 
 
@@ -94,7 +88,6 @@ DolguldurOrk
 MordorEasterling
 MordorSchwarzeOstlinge
 MordorBlackOrc_mod
-<<<<<<< Updated upstream
 
 
 MirkwoodSpearmen
@@ -104,15 +97,11 @@ MirkwoodWarrior
 
 
 
-=======
-MordorFighter_Gorthaur
->>>>>>> Stashed changes
 AngmarInfantryBanner
 AngmarRangerBanner
 AngmarDarkDunedain
 AngmarDunedainPikeman
 
-<<<<<<< Updated upstream
 
 
 GondorArcherMonsterHunter
@@ -132,18 +121,6 @@ ImladrisWaffenmeister
 
 
 
-=======
-DruedainKrieger
-DruedainWeiser
-DruedainWeiserBanner
-RohanHeerlagerRohirrim
-RohanRohirrimArcher
-RohanRohirrimArcher_mod
-RohanRohirrim
-RohirrimBanner
-IsenfurtReiter
-IsenfurtSpeertrager
->>>>>>> Stashed changes
 
 
 ArnorArcher
@@ -179,7 +156,6 @@ ArnorRanger
 
 
 LindonElvenWarrior
-<<<<<<< Updated upstream
 BruchtalBogenschuetzen
 BruchtalLanzer
 LindonHeavenArcher
@@ -195,7 +171,7 @@ ElvenMithlondSentry
 MirkwoodAvariWarrior
 MirkwoodScoutArcher
 MirkwoodWachterArcher
-
+MirkwoodArcher
 
 
 
@@ -211,10 +187,6 @@ GondorTowerShieldGuard
 
 
 
-=======
-RohanRoyalGuardInfantry
-RohanRoyalGuard
->>>>>>> Stashed changes
 
 
 
