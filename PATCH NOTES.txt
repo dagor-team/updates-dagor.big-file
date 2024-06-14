@@ -18,6 +18,7 @@ great goblin - his level 3 moved to level 1 + check description
 	     - his level 4 moved to level 2
 all monsters weapons have their damage type fixed, meaning they should perform better against units they are supposed to counter
 formenos fortress - build time increase from 60s to 120s
+<<<<<<< Updated upstream
 glorfindel - level 7 fix
 dain - level 10 unit formation fix
 erebor earth hammer - attack fix, speed and range increase
@@ -31,3 +32,20 @@ eowyn - leadership at level 2
 all passive stealth removed from first age units exept menegroth scouts which can only stealth in trees
 denethor and malbeth abilities fixed
 rohan horse archers slight health buff 800 - 900
+=======
+
+
+
+
+
+Dagor Complete Hotfix
+
+Angmar:
+. Wights; take significantly more damage from swordsmen
+. Karsh; reduced his chill soul weapon and it no longer scales with level
+
+
+Lothlorien:
+. Tauriel's leadership now affects the mirkwood archers from the mirkwood palace (no longer affacts the guardians of the path and elk riders)
+. Guardians of the Path; weapon upgrade unlocked at level 10 instead of level 4
+>>>>>>> Stashed changes
