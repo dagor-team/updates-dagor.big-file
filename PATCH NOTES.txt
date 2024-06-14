@@ -18,3 +18,16 @@ great goblin - his level 3 moved to level 1 + check description
 	     - his level 4 moved to level 2
 all monsters weapons have their damage type fixed, meaning they should perform better against units they are supposed to counter
 formenos fortress - build time increase from 60s to 120s
+glorfindel - level 7 fix
+dain - level 10 unit formation fix
+erebor earth hammer - attack fix, speed and range increase
+gloin - mithril ability fix (im aware the units are invisible but folks wanted to play and i gotta sleep)
+gundabad body guards - buff in scaling to their level 4 (tp 10% increase armor per hit, up to 50%)
+draft bonus buffed
+gamling - horse archer leadership now at level 6
+all the pins fixed (and autocasts on them)
+eowyn - leadership at level 2 
+      - gave her a hero killer armorset (meaning weaker to units but significantly stronger against heroes)
+all passive stealth removed from first age units exept menegroth scouts which can only stealth in trees
+denethor and malbeth abilities fixed
+rohan horse archers slight health buff 800 - 900
