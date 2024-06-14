@@ -6,11 +6,11 @@
 #define EXPERIENCE_REQUIRED_EXPANDABLE_HORDE_4        80
 #define EXPERIENCE_REQUIRED_EXPANDABLE_HORDE_5        140
 
-#define EXPERIENCE_AWARD_EXPANDABLE_HORDE_1            1
-#define EXPERIENCE_AWARD_EXPANDABLE_HORDE_2            2
-#define EXPERIENCE_AWARD_EXPANDABLE_HORDE_3            2
-#define EXPERIENCE_AWARD_EXPANDABLE_HORDE_4            3
-#define EXPERIENCE_AWARD_EXPANDABLE_HORDE_5            3
+#define EXPERIENCE_AWARD_EXPANDABLE_HORDE_1            3
+#define EXPERIENCE_AWARD_EXPANDABLE_HORDE_2            3
+#define EXPERIENCE_AWARD_EXPANDABLE_HORDE_3            4
+#define EXPERIENCE_AWARD_EXPANDABLE_HORDE_4            4
+#define EXPERIENCE_AWARD_EXPANDABLE_HORDE_5            5
 
 ;------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -86,11 +86,11 @@
 #define EXPERIENCE_REQUIRED_REGULAR_5_HORDE_4        7290
 #define EXPERIENCE_REQUIRED_REGULAR_5_HORDE_5        7400
 
-#define EXPERIENCE_AWARD_REGULAR_5_HORDE_1            10
-#define EXPERIENCE_AWARD_REGULAR_5_HORDE_2            12
-#define EXPERIENCE_AWARD_REGULAR_5_HORDE_3            14
-#define EXPERIENCE_AWARD_REGULAR_5_HORDE_4            16
-#define EXPERIENCE_AWARD_REGULAR_5_HORDE_5            18
+#define EXPERIENCE_AWARD_REGULAR_5_HORDE_1            8
+#define EXPERIENCE_AWARD_REGULAR_5_HORDE_2            10
+#define EXPERIENCE_AWARD_REGULAR_5_HORDE_3            12
+#define EXPERIENCE_AWARD_REGULAR_5_HORDE_4            13
+#define EXPERIENCE_AWARD_REGULAR_5_HORDE_5            14
 
 
 ;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -131,11 +131,11 @@
 #define EXPERIENCE_REQUIRED_ADVANCED_5_HORDE_4       7400
 #define EXPERIENCE_REQUIRED_ADVANCED_5_HORDE_5       7550
 
-#define EXPERIENCE_AWARD_ADVANCED_5_HORDE_1            16
-#define EXPERIENCE_AWARD_ADVANCED_5_HORDE_2            18
-#define EXPERIENCE_AWARD_ADVANCED_5_HORDE_3            20
-#define EXPERIENCE_AWARD_ADVANCED_5_HORDE_4            22
-#define EXPERIENCE_AWARD_ADVANCED_5_HORDE_5            24
+#define EXPERIENCE_AWARD_ADVANCED_5_HORDE_1            11
+#define EXPERIENCE_AWARD_ADVANCED_5_HORDE_2            12
+#define EXPERIENCE_AWARD_ADVANCED_5_HORDE_3            14
+#define EXPERIENCE_AWARD_ADVANCED_5_HORDE_4            15
+#define EXPERIENCE_AWARD_ADVANCED_5_HORDE_5            16
 
 
 ;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
