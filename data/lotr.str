@@ -8830,6 +8830,14 @@ OBJECT:CirithUngolWachturm
 "Guard Tower of Cirith Ungol"
 END
 
+OBJECT:CirithUngolGarrison
+"Garrison of Cirith Ungol"
+END
+
+OBJECT:CirithUngolGarrisonDescription
+"Summons units of Cirith Ungol"
+END
+
 CONTROLBAR:HaradAusrustung
 "Armor of Harad"
 END
@@ -12361,7 +12369,7 @@ CONTROLBAR:ToolTipSpellBookErkenbrandWestfold
 END
 
 CONTROLBAR:ToolTipToggleCitadelguardWeapons
-"Left-click to switch between the lance and sword"
+"Left-click to switch between the lance and sword \n gain their infantry class based on the selected weapon"
 END
 
 OBJECT:RohanOldMan
