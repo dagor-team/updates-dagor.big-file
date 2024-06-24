@@ -1,14 +1,24 @@
+Exp for all cheap and lower tier units went dowwn by one exp for an example if a mordor free orc is killed it will give 2 exp for each unit killed and 30 for the whole battalion 
+
+
 GONDOR	
 tower guard health per unit increased from 720 to 900 
 
 ANGMAR
-DunedainPikeman 700 to 850
-DarkDunedain    700 to 850
+DunedainPikeman 
+				700 to 850
+DarkDunedain    
+				700 to 850
 
 Arnor 
-fighter base damage 65 to 90 
+fighter 
+	base damage 65 to 90 
 	forge blade 100 to 135
 	Eroberer blade 80 to 120
+	
+Goblins
+	Archer Added Damage scalar 90% For inf
+	
 
 
 
