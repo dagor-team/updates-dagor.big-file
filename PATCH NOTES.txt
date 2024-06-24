@@ -1,51 +1,19 @@
-erebor dain - summon permanent 
-	    - once he activates his level 7 with each hit he grants a 3 second bonus for ally heroes giving them 50% experience gain
-gloin - new ability after mithril (also needs level 5)
-      - his old ability after mithril is now included in his level 3
-mirkwood elites - new weapon after level 4
-elk riders - moved to mirkwood barracks lvl 2 +avari removed
-radagast gift weapon animation fixed
-aglarond citadel switched with gandalf summon in the spell tree
-iron hills dain - level 1 cd increased
-erebor axe throwers - range increase from 290 to 300
-erebor earth hammer - it can attack finally
-durmarth - guardian form at level 3 each time durmarth gets attacked he deals damage around him, as he gets lower on health damage increases
-		from full hp to 5001 hp he will deal 4 damage to all units in 40 radius
-		from 5000 hp to 2501 hp he will deal 10 damage to all units in 40 radius
-		below 2500 he will deal 20 damage to all units in 40 radius
-	 - his hero invulnerability ability finally works
-great goblin - his level 3 moved to level 1 + check description
-	     - his level 4 moved to level 2
-all monsters weapons have their damage type fixed, meaning they should perform better against units they are supposed to counter
-formenos fortress - build time increase from 60s to 120s
-<<<<<<< Updated upstream
-glorfindel - level 7 fix
-dain - level 10 unit formation fix
-erebor earth hammer - attack fix, speed and range increase
-gloin - mithril ability fix (im aware the units are invisible but folks wanted to play and i gotta sleep)
-gundabad body guards - buff in scaling to their level 4 (tp 10% increase armor per hit, up to 50%)
-draft bonus buffed
-gamling - horse archer leadership now at level 6
-all the pins fixed (and autocasts on them)
-eowyn - leadership at level 2 
-      - gave her a hero killer armorset (meaning weaker to units but significantly stronger against heroes)
-all passive stealth removed from first age units exept menegroth scouts which can only stealth in trees
-denethor and malbeth abilities fixed
-rohan horse archers slight health buff 800 - 900
-=======
+GONDOR	
+tower guard health per unit increased from 720 to 900 
+
+ANGMAR
+DunedainPikeman 700 to 850
+DarkDunedain    700 to 850
+
+Arnor 
+fighter base damage 65 to 90 
+	forge blade 100 to 135
+	Eroberer blade 80 to 120
 
 
 
 
 
-Dagor Complete Hotfix
-
-Angmar:
-. Wights; take significantly more damage from swordsmen
-. Karsh; reduced his chill soul weapon and it no longer scales with level
 
 
-Lothlorien:
-. Tauriel's leadership now affects the mirkwood archers from the mirkwood palace (no longer affacts the guardians of the path and elk riders)
-. Guardians of the Path; weapon upgrade unlocked at level 10 instead of level 4
->>>>>>> Stashed changes
+
