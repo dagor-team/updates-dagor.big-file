@@ -13,7 +13,3 @@ fighter base damage 65 to 90
 
 
 
-
-
-
-
