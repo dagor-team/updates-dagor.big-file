@@ -2469,7 +2469,7 @@ CONTROLBAR:ToolTipCommandSelectRevivablesMinasMorgulKatakomben
 END
 
 CONTROLBAR:ToolTipSpecialAbilityMachtderVerdammten_Neu
-"Requires: Level 4 \n Can be applied to any Mordor unit \n Sauron transfers a part of his own necromantic power inside the shell of another unit; as such, this power will release itself upon death and harm nearby enemies \n Depending on the size of the unit and the power it contains determines the amount of necromantic power that can be stored \n Left-click on the desired target allied units"
+"Requires: Level 9 \n Sauron unleashes an army on the elves of Eregion and gives orders to sack it completely. \n Your units in the area gain 50% damage and armor, and slow down enemy cavalry twice and much for 15 seconds. \n Left-click on the desired target allied units"
 END
 
 CONTROLBAR:SpecialAbilityEwigeKnechtschaft
@@ -18363,8 +18363,16 @@ CONTROLBAR:ToolTipDunklerWille
 "Requires: Level 10 \n If Sauron musters all his power, no one is a match for him to fight \n His attack power and defence become strengthened for some time \n His movement and attack speed is also increased by 50% \n Sauron becomes unbreakable - the Shadow will dominate the land \n Left-click to activate"
 END
 
+CONTROLBAR:SpecialAbilityKraftRing
+"Rings of Power"
+END
+
+CONTROLBAR:ToolTipSpecialAbilityKraftRing
+"Active ability: \n \n Requires: Level 2 \n The Lord of Gifts offers a ring of power to nine mortal men who all fall under his influence, yet gives them power. \n Even after death, the servants of Sauron only grow in power due to Saurons spirit they´re tied to. \n Give a ring of power to an identified nazgul, expanding their abilities. \n Left-click on a selected nazgul \n\n Pasive ability:\n All units in the a wide area around annatar gain bonus experience and Annatar gains experience from using his abilities"
+END
+
 CONTROLBAR:ToolTipSpecialAbilityAnnatarWaffenstillstand
-"Requires: Level 5 \n The persuasion skills of Annatar cause all units near and far to stop fighting\n Affected units can not attack nor be attacked \n Left-click to activate"
+"Requires: Level 5 \n The persuasion skills of Annatar cause all enemy units and heroes near Annatar to stop fighting. \n Affected units can not attack nor be attacked \n Left-click to activate"
 END
 
 CONTROLBAR:AnnatarBetorung
@@ -18420,7 +18428,7 @@ CONTROLBAR:ToolTipAnnatarHerrderGeschenke
 END
 
 CONTROLBAR:ToolTipMordorGorthaurDissent
-"Requires: Level 4 \n Annatar ensures discord in the ranks of his enemies and works behind the scenes \n Targeted units will fight amongst each other \n Left-click on the desired destination area"
+"Requires: Level 7 \n Annatars promises of power and knowlegde sway the heroes of your enemy. \n Enemy heroes will fight their allies for 20 seconds \n Left-click on the desired destination area"
 END
 
 OBJECT:MordorSauronWerwolf
