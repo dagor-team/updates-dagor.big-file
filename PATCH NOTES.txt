@@ -2,24 +2,33 @@ Exp for all cheap and lower tier units went dowwn by one exp for an example if a
 
 
 GONDOR	
-tower guard health per unit increased from 720 to 900 
+	tower guard health per unit increased from 720 to 900 
 
 ANGMAR
-DunedainPikeman 
+	DunedainPikeman 
 				700 to 850
-DarkDunedain    
+	DarkDunedain    
 				700 to 850
 
 Arnor 
-fighter 
-	base damage 65 to 90 
-	forge blade 100 to 135
-	Eroberer blade 80 to 120
-	
+	fighter 
+		base damage 65 to 80 
+		forge blade 100 to 125
+	Cav
+		base damage 100 to 170
+		forge blade 140 to 170
+	Archer
+		base damage 82 to 90
+		bolkin 
+			60 to 100 peirce
+			24 to 10 uruk
+		
 Goblins
 	Archer Added Damage scalar 90% For inf
 	
-
+	
+Mordor
+	Archer Added Damage scalar 90% For inf
 
 
 
