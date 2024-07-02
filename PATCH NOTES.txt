@@ -1,3 +1,6 @@
+
+GENERAL
+
 Exp for all cheap and lower tier units went dowwn by one exp for an example if a mordor free orc is killed it will give 2 exp for each unit killed and 30 for the whole battalion 
 
 
