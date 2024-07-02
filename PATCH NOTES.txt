@@ -12,6 +12,9 @@ ANGMAR
 				health 700 to 850
 	DarkDunedainrangers
 				health 700 to 800
+ROHAN
+	Helm Hammerhand summon (with fa bought)
+		leveling fix
 Arnor 
 	fighter 
 		base damage 65 to 80 
@@ -24,12 +27,19 @@ Arnor
 		bolkin 
 			60 to 100 peirce
 			24 to 10 uruk
+	Palantir Guardians
+		armor adjusted based on the current weapon they wield
 Goblins
 	Archer Added Damage scalar 90% For inf
 	
 	
 Mordor
 	Archer Added Damage scalar 90% For inf
+	Dark Marshal and Shadow Prince new Abilities after being given the ring
+	Annatar rework
+Loth
+	Tauriel 
+		Leadership fix
 
 
 

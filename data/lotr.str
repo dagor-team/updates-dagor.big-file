@@ -2309,7 +2309,23 @@ CONTROLBAR:ShadowPrinceAura
 END
 
 CONTROLBAR:ToolTipShadowPrinceAura
-"The ring empowers the aura of the Shadow Prince from to dread to pain. The Shadow Prince now periodically damages all enemy units in his vicinity healing himself from their pain." 
+"The ring empowers the aura of the Shadow Prince from to dread to pain. The Shadow Prince now periodically damages all enemy units in his vicinity healing himself from their pain.\n Passive Ability" 
+END
+
+CONTROLBAR:SpecialAbilityShadowPrinceBattleProwess
+"Battle Prowess (&E)"
+END
+
+CONTROLBAR:ToolTipSpecialAbilityShadowPrinceBattleProwess
+"Requires: Level 3 \n Shadow Prince uses his ring enpower him in combat gaining 50% armor and he knocks down enemies with every swing of his blade.\n Left-click to activate"
+END
+
+CONTROLBAR:SpecialAbilityShagratAndGorbag
+"Ambush in the passage"
+END
+
+CONTROLBAR:ToolTipSpecialAbilityShagratAndGorbag
+"Requires: Level 10 \n Shadow Prince commands Shagrat and Gorbag to capture an enemy hero. Enemy hero is paralyzed for 11 seconds and attacked by Shagrat and Gorbag.\n Left-click on a target"
 END
 
 CONTROLBAR:ZwillingeHeldenkillerSecondary_Elladan
@@ -25523,12 +25539,20 @@ CONTROLBAR:FellbestieMountTooltip
 "The Nazgul dismounts his winged beast to find the Ring on foot\n Left-click the desired target area"
 END
 
+CONTROLBAR:FellbestieSpellMount
+"Mount the Fellbeast"
+END
+
+CONTROLBAR:FellbestieSpellMountTooltip
+"Requires: Level 5 \n The Nazgul dismounts his winged beast \n Left-click the desired target area"
+END
+
 CONTROLBAR:FellbestiefromMount
 "Descend fro&m Fellbeast"
 END
 
 CONTROLBAR:FellbestieFromMountTooltip
-"The Nazgul flies atop his winged beast to search for the Ring through the skies, wreaking havoc on those below\n Left-click to activate"
+"The Nazgul flies atop his winged beast to search for the Ring through the skies, wreaking havoc on those below. Although, once they mount they lose the ring.\n Left-click to activate"
 END
 
 CONTROLBAR:ToolTipWachterBrunnenLeadership
@@ -97440,7 +97464,7 @@ CONTROLBAR:ToolTipVanguardMorgulBlade
 END
 
 CONTROLBAR:ScreechVanguard
-"(&Q)Show of Power"
+"Show of Power(&Q)"
 END
 
 CONTROLBAR:TooltipScreechVanguard
@@ -97448,15 +97472,15 @@ CONTROLBAR:TooltipScreechVanguard
 END
 
 CONTROLBAR:SpecialAbilityKeinFliehen
-"(&W)No escape"
+"No escape(&W)"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityKeinFliehen
 "Requires: Level 3 \n Dark Marshal uses the power of ring to force the enemy soldiers to let their darkest thoughts into their mind making them completely vulnerable to fear and terror that is about to ensue \n  Left-click on the target area"
 END
 
-CONTROLBAR:ToolTipSpecialAbilityDarkMarshalPowerUnleashed
-"(&E)Power Unleashed"
+CONTROLBAR:SpecialAbilityDarkMarshalPowerUnleashed
+"Power Unleashed(&E)"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityDarkMarshalPowerUnleashed
@@ -97464,7 +97488,7 @@ CONTROLBAR:ToolTipSpecialAbilityDarkMarshalPowerUnleashed
 END
 
 CONTROLBAR:SpecialAbilityCirithUngolGarrison
-"(&R)Cirith Ungol Garrison"
+"Cirith Ungol Garrison(&R)"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityCirithUngolGarrison
