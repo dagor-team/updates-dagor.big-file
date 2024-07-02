@@ -2304,6 +2304,14 @@ CONTROLBAR:ToolTipTodesbanndesSchattenfurstenNeu
 "Requires: Level 10 \n The Shadow Prince veils himself with cruel magic, which curses anyone who dares raise his sword against him \n All damage dealt to the Shadow Prince is reflected by 50% \n Passive Ability"
 END
 
+CONTROLBAR:ShadowPrinceAura
+"Shadow Prince Aura"
+END
+
+CONTROLBAR:ToolTipShadowPrinceAura
+"The ring empowers the aura of the Shadow Prince from to dread to pain. The Shadow Prince now periodically damages all enemy units in his vicinity healing himself from their pain." 
+END
+
 CONTROLBAR:ZwillingeHeldenkillerSecondary_Elladan
 "Heroes Weakening"
 END
@@ -97432,11 +97440,35 @@ CONTROLBAR:ToolTipVanguardMorgulBlade
 END
 
 CONTROLBAR:ScreechVanguard
-"Morgul Sor&cery"
+"(&Q)Show of Power"
 END
 
 CONTROLBAR:TooltipScreechVanguard
-"Requires Level 7 \nCauses enemy units to flee in terror \n Left-click to activate"
+"Dark Marshal enhanced by the power of the ring causes his enemies to cower before him negating some of their armor and damage, plus can now cause enemy units to flee in terror \n Left-click to activate"
+END
+
+CONTROLBAR:SpecialAbilityKeinFliehen
+"(&W)No escape"
+END
+
+CONTROLBAR:ToolTipSpecialAbilityKeinFliehen
+"Requires: Level 3 \n Dark Marshal uses the power of ring to force the enemy soldiers to let their darkest thoughts into their mind making them completely vulnerable to fear and terror that is about to ensue \n  Left-click on the target area"
+END
+
+CONTROLBAR:ToolTipSpecialAbilityDarkMarshalPowerUnleashed
+"(&E)Power Unleashed"
+END
+
+CONTROLBAR:ToolTipSpecialAbilityDarkMarshalPowerUnleashed
+"Requires: Level 7 \n Dark Marshal Unleashes the full power of the ring, gaining 50% damage and bonus healing. \n During this power storm dark marshals sword harnesses the destructive effects of the elements: \n 1: Freezes enemy units in an area \n 2: Releases a poison cloud around him \n 3: Create a rupture in the ground \n 4: Creates a wave of fire \n Left-click to activate"
+END
+
+CONTROLBAR:SpecialAbilityCirithUngolGarrison
+"(&R)Cirith Ungol Garrison"
+END
+
+CONTROLBAR:ToolTipSpecialAbilityCirithUngolGarrison
+"Requires: Level 10 \n Dark Marshal summons a garrison of Cirith Ungol with all of its crew. Left-click on a target area"
 END
 
 OBJECT:IsengardManSlayer
