@@ -34,9 +34,15 @@ Goblins
 	
 	
 Mordor
+	Gothmog melee damage 180 to 450
+	Orc archers given a -10% damage scalr against INFANTRY
 	Archer Added Damage scalar 90% For inf
 	Dark Marshal and Shadow Prince new Abilities after being given the ring
 	Annatar rework
+	Harad:	
+		. Harad builder; will be free and have significantly reduced build time (limited to 1)
+		. Tavern; cost 600 to 300, slightly reduced build time
+		. Corsair Archers; cost 450 to 400
 Loth
 	Tauriel 
 		Leadership fix
