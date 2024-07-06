@@ -1,54 +1,51 @@
 
 GENERAL
-
-Exp for all cheap and lower tier units went dowwn by one exp for an example if a mordor free orc is killed it will give 2 exp for each unit killed and 30 for the whole battalion 
-
-
+All Farm raduis decreased 300 to 280
+all elite get Crush Decelerate 60% of their formation
 GONDOR	
-	tower guard 
-		health 720 to 900 
-
+	We had no feed back for them so they can stay a basic bitches till we hear otherwise
 ANGMAR
-	DarkDunedainPikeman 
-				Health 700 to 850
-	DarkDunedainsword    
-				health 700 to 850
-	DarkDunedainrangers
-				health 700 to 800
+	Wolfs
+		flanking bonus from 150% to 50%
+	Witchking
+		lvl 5 Weapon damage type from water to magic
 ROHAN
-	Helm Hammerhand summon (with fa bought)
-		leveling fix
+	Rohan oldman now turns into Theoden
 Arnor 
-	fighter 
-		base damage 65 to 80 
-		forge blade 100 to 125
-	Cav
-		base damage 70 to 100
-		forge blade 140 to 170
-	Archer
-		base damage 82 to 90
-		bolkin 
-			60 to 100 peirce
-			24 to 10 uruk
-	Palantir Guardians
-		armor adjusted based on the current weapon they wield
+	NumenorCrossbow 
+		damage increased from 190 to 260 pierce upgrade from 240 to 280 pierce and 60 to 120 flame 
+		Health from 700 to 1300 per unit
+		reverted fire rate buff
+	Numenorguard
+		health from 1200 to 1500
+	NumenorWarrior
+		health from 1100 to 1550
+	army of the dead
+		speed increased from 60 to 80
 Goblins
-	Archer Added Damage scalar 90% For inf
-	
-	
+	Smaug ground
+		turning duration Shorter	
 Mordor
-	Gothmog melee damage 180 to 450
-	Orc archers given a -10% damage scalr against INFANTRY
-	Archer Added Damage scalar 90% For inf
-	Dark Marshal and Shadow Prince new Abilities after being given the ring
-	Annatar rework
-	Harad:	
-		. Harad builder; will be free and have significantly reduced build time (limited to 1)
-		. Tavern; cost 600 to 300, slightly reduced build time
-		. Corsair Archers; cost 450 to 400
+	men of the east
+		now cost 1000
+	nazgul
+		health from 5000 to 6000
+	gothmog 
+		revert exp share
+	nazgul
+		health form 5000 to 6000
 Loth
-	Tauriel 
-		Leadership fix
-
-
-
+	We had no feed back for them so they can stay a basic bitches till we hear otherwise
+Imladris
+	units 
+		give a little more exp
+	lore master
+		damage from 250 to 100
+	Graden 
+		now has the same raduis and eco as a 1v1 1 farm but now gets to level 5
+	Erestor
+		fixed hero reduction from 2 to lvl 3
+Isengard
+	IsengardPalantirStatue
+		only affects the player
+	
