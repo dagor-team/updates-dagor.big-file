@@ -43,8 +43,7 @@ Imladris
 		damage from 250 to 100
 	Graden 
 		now has the same raduis and eco as a 1v1 1 farm but now gets to level 5
-	Erestor
-		fixed hero reduction from 2 to lvl 3
+
 Isengard
 	IsengardPalantirStatue
 		only affects the player
