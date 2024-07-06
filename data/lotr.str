@@ -12172,7 +12172,7 @@ CONTROLBAR:ToolTipSpellBookLichtderWeiﬂenHerrin
 END
 
 CONTROLBAR:Naturverbundenheit
-"A&lliance of Nature"
+"Alliance of Nature (&R)"
 END
 
 CONTROLBAR:ToolTipNaturverbundenheit
@@ -43176,7 +43176,7 @@ CONTROLBAR:ShadeChomp
 END
 
 CONTROLBAR:ToolTipShadeChomp
-"Requires: Level 6 \n The werewolf eats an enemy Infantry to regenerate health. \n It additionally gains for a short time +50% damage and +50% armor. \n Left-click on the icon and then click the desired opponent"
+"The werewolf eats an enemy Infantry to regenerate health. \n It additionally gains for a short time +50% damage and +50% armor. \n Left-click on the icon and then click the desired opponent"
 END
 
 CONTROLBAR:SpecialAbilityDarkLordsLament
