@@ -748,14 +748,14 @@ CommandSet TaniquetilFortressCommandSetLevel5
     7    = Command_RadialBack
     8    = Command_TaniquetilFortressLeadeship
     9    = Command_TaniquetilFortressExtinguishFire
-   ;10    = Command_TaniquetilFortressRebuild
+   10    = Command_TaniquetilFortressRebuild
    11    = Command_TaniquetilFortressSummonEagle
 
 
    12    = Command_ConstructTaniquetilGuardHorde
    13    = Command_ConstructTaniquetilWatcherHorde
    14    = Command_ConstructTaniquetilCaptian
-   15    = Command_RadialBack
+   15    = Command_ConstructTaniquetilExpeditionaryHorde
 
        16    = Command_FakeRingHeroReviveSlot
        17    = Command_FakeCreateAHeroReviveSlot

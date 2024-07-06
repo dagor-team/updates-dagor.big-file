@@ -2801,7 +2801,7 @@ CONTROLBAR:Zuchtpferde
 END
 
 CONTROLBAR:ToolTipZuchtpferde
-"Once this power is unlocked, all cavalry of Rohan will gain royally bred horses upon achieving level 5, gaining +30% health and slowing 30% slower when trampling foes \n Passive ability"
+"Once this power is unlocked, all cavalry of Rohan will gain royally bred horses upon achieving level 2, gaining 350 health, slowing 30% slower when trampling foes and those shooting bows gain 10% range\n Passive ability"
 END
 
 CONTROLBAR:SpecialAbilityZwillingeTrennen
@@ -36044,6 +36044,14 @@ SCIENCE:TempDescription
 "SCIENCE:TempDescription"
 END
 
+CONTROLBAR:TaniquetilExpeditionariesLeadership
+"Taniquetil Expeditionaries"
+END
+
+CONTROLBAR:ToolTipTaniquetilExpeditionariesLeadership
+"Requires: Level 2 \n Taniquetil Expeditionaries are an elites scouting units known for their close support for each other. \n Grants Taniquetil Expeditionaries in the vicinity 10% speed and 10% armor."
+END
+
 CONTROLBAR:ToolTipToggleWargSkirmishToLineFormation
 "+25% armor, -50% damage"
 END
@@ -36118,6 +36126,10 @@ END
 
 CONTROLBAR:ToolTipToggleGKnightLineToWedgeFormation
 "+25% damage, -25% armor"
+END
+
+CONTROLBAR:ToolTipToggleGKnightLineToStarFormation
+"+25% damage, -40% speed"
 END
 
 CONTROLBAR:ToolTipToggleGKnightWedgeToLineFormation
@@ -43797,6 +43809,10 @@ END
 
 CONTROLBAR:ToggleWedgeFormation
 "Wedge For&mation"
+END
+
+CONTROLBAR:ToggleStarFormation
+"&Star Formation"
 END
 
 CONTROLBAR:ToggleLineFormation
@@ -94223,6 +94239,34 @@ END
 
 CONTROLBAR:LW_Unit_TaniquetilGuardHorde
 "Taniquetil Guard Battalion"
+END
+
+OBJECT:TaniquetilExpeditionary
+"Taniquetil Expeditionary"
+END
+
+OBJECT:TaniquetilExpeditionaryBanner
+"Taniquetil Expeditionary Banner"
+END
+
+CONTROLBAR:LW_Unit_TaniquetilExpeditionaryHorde
+"Taniquetil Expeditionaries Battalions"
+END
+
+CONTROLBAR:LW_ToolTip_TaniquetilExpeditionaryHorde
+"Unit Type: Elite Cavalry\nStrong vs: Archers and Swordsmen"
+END
+
+OBJECT:TaniquetilExpeditionaryHorde
+"Taniquetil Expeditionaries"
+END
+
+CONTROLBAR:BuildTaniquetilExpeditionaryHorde
+"Taniquetil Expeditionary"
+END
+
+CONTROLBAR:ToolTipBuildTaniquetilExpeditionaryHorde
+"Requires: Noble Stud \n Unit Type: Elite Cavalry\nStrong vs: Archers and Swordsmen"
 END
 
 CONTROLBAR:LW_Unit_TaniquetilGuardHordePlural
