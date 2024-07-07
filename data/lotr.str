@@ -1969,7 +1969,7 @@ CONTROLBAR:ToolTipTheodenLeadership_7
 END
 
 CONTROLBAR:ToolTipTheodenLeadership_10
-"Friendly units in a wide area get +25% damage, +25% armor and are fear resistant \n Allied heroes in a wide radius get +25% damage and +25% armor \n Passive ability"
+"Friendly units in a wide area get +50% damage, +50% armor and are fear resistant \n Allied heroes in a wide radius get +50% damage and +50% armor \n Passive ability"
 END
 
 CONTROLBAR:SpecialAbilitySalemeGiftfalle
@@ -3213,7 +3213,7 @@ CONTROLBAR:SpecialAbilityGamlingVerstarkung
 END
 
 CONTROLBAR:ToolTipSpecialAbilityGamlingVerstarkung
-"Requires: Level 8 \n Gamling leads the horsemasters of rohan to take down the forces of evil  \n All mounted archers around gamling gain 50% damage and 20% range"
+"Requires: Level 6 \n Gamling leads the horsemasters of rohan to take down the forces of evil  \n All mounted archers around gamling gain 50% damage and 20% range"
 END
 
 CONTROLBAR:SpecialAbilityRadagastDornengestrupp
@@ -25844,7 +25844,7 @@ CONTROLBAR:SpellbookHornHelmHammerhands
 END
 
 CONTROLBAR:TooltipSpellbookHornHelmHammerhands
-"Lets the trumpet horns of Rohan sound over the battlefield \n The selected allies cause +50% damage \n Left click on the icon and then click the desired units"
+"Lets the trumpet horns of Rohan sound over the battlefield \n The selected allies cause +50% damage, +50% armor and +20% speed \n Left click on the icon and then click the desired units"
 END
 
 CONTROLBAR:Winterernte
