@@ -1,69 +1,30 @@
 
 GENERAL
-All Farm raduis decreased 300 to 280
-all elite get Crush Decelerate 60% of their formation
+
 GONDOR	
-	We had no feed back for them so they can stay a basic bitches till we hear otherwise
+	We had no feed back for them so they can stay as basic bitches till we hear otherwise
 ANGMAR
-	Fortress snowball Damage
-		300 siege to 400
-		200 frost to 500
-	Wolfs
-		flanking bonus from 150% to 50%
-	Witchking
-		lvl 5 Weapon damage type from water to magic
+	
 ROHAN
-	Rohan oldman now turns into Theoden
-	noble stub power 
-		now applies at lvl 2
-		gives 350 health 
-		30% less Crush Decelerate
-		10% range
-	Easter egg
 
 Arnor 
-	NumenorCrossbow 
-		damage increased from 190 to 260 pierce upgrade from 240 to 280 pierce and 60 to 120 flame 
-		Health from 700 to 1300 per unit
-		reverted fire rate buff
-	Numenorguard
-		health from 1200 to 1500
-	NumenorWarrior
-		health from 1100 to 1550
-	army of the dead
-		speed increased from 60 to 80
+	
 Goblins
-	Smaug ground
-		turning duration Shorter	
+		
 Mordor
-	men of the east
-		now cost 1000
-	nazgul
-		health from 5000 to 6000
-	gothmog 
-		revert exp share
-	mumiks 
-		specialist armor decreased by 20%
+	
 Loth
-	We had no feed back for them so they can stay a basic bitches till we hear otherwise
+	
 Imladris
-	units 
-		give a little more exp
-	lore master
-		damage from 250 to 100
-	Graden 
-		now has the same raduis and eco as a 1v1 1 farm but now gets to level 5
-	erestor 
-		hero reduction moved to lvl 3 
-	Archers 
-		siege resist 
-			from 60 to 80%
+
 Isengard
-	IsengardPalantirStatue
-		only affects the player
-	Saruman of man color
-		now gives the same stats as gandalf the white
-	fortress lighting 
-		400 to 300 pershot
+
+Erebor
+Axe throws damage switched to pierce from slash
+Iron hills
+
+eren liun
+
+
 		
 	
