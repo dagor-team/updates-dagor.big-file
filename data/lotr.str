@@ -43552,7 +43552,7 @@ CONTROLBAR:BeregondHordeBonus
 END
 
 CONTROLBAR:ToolTipBeregondHordeBonus
-"Requires: At least 4 battalions \n Beregond is as a captain during the siege of Minas Tirith gained the loyalty and respect of the archers of gondor. Beregond is granded 25% more damage and 50% more experience. \n Passive ability"
+"Requires: At least 4 battalions \n Beregond is as a captain during the siege of Minas Tirith gained the loyalty and respect of the archers of gondor. Beregond is granded 100% more damage and 50% more experience. \n Passive ability"
 END
 
 CONTROLBAR:ToolTipCaptainofGondorBoromir
