@@ -3157,7 +3157,7 @@ CONTROLBAR:SpecialAbilityBeregondKompanie
 END
 
 CONTROLBAR:ToolTipSpecialAbilityBeregondKompanie
-"Requires: Level 5 \n Beregond calls some of his comrades from the Third Company to arms to help defend a friendly building \n Upon choosing any friendly building on the map, \n 8 Guards of the Citadel briefly gather and beat back invaders \n Left-click on the desired allied building"
+"Requires: Level 5 \n Beregond calls some of his comrades from the Third Company to arms to help defend a friendly building or hero \n Upon choosing a target, \n 8 Guards of the Citadel briefly gather and beat back invaders \n Left-click on the desired allied building or hero"
 END
 
 CONTROLBAR:ToolTipBeregondVerteidigerLeadership
@@ -27032,7 +27032,7 @@ CONTROLBAR:LegolasElbenauge
 END
 
 CONTROLBAR:ToolTipLegolasElbenauge
-"Requires: Level 5 \n Legolas's keen eyes allow him to see his enemies over long distances and anticipate attacks.\n He briefly gains +70% sight and +30% range and armor.\n Cannot be used while activating "Knife Fighter."\n Left-click to activate"
+"Requires: Level 5 \n Legolas's keen eyes allow him to see his enemies over long distances and anticipate attacks.\n He briefly gains +70% sight and +30% armor.\n Left-click to activate"
 END
 
 OBJECT:DwarvenDaleFighter
@@ -27041,6 +27041,14 @@ END
 
 CONTROLBAR:UngoliathsKinder
 "Ungoliant's Children"
+END
+
+CONTROLBAR:GirionLegacy
+"Girion´s Legacy"
+END
+
+CONTROLBAR:ToolTipGirionLegacy
+"Requires: Level 7 \n Bard's skill with a bow overshadows that of many amongst men. As Girion´s descendant his precision and strenght allows him to shoot arrows that ordinary men would have trouble even drawing.\n For 30 seconds Bard shoots arrows with such strenght that they penetrate through targets. Though his speed is halved. \n Left-click to activate"
 END
 
 CONTROLBAR:ToolTipUngoliathsKinder
@@ -43471,7 +43479,7 @@ CONTROLBAR:TrainArchers
 END
 
 CONTROLBAR:ToolTipTrainArchers
-"Requires: Level 7 \n Legolas is a capable marksman and can train other archers to fight better. Targeted archers gain experience.\n Left-click icon then left-click on target archers"
+"Requires: Level 7 \n Legolas is a capable marksman and can train other archers to fight better. Targeted archers gain experience faster.\n Left-click icon then left-click on target archers"
 END
 
 CONTROLBAR:MonsterSlayer
@@ -43537,6 +43545,14 @@ END
 
 CONTROLBAR:ToolTipHaldirLeadership
 "Requires: Level 6 \n Allied infantry near Haldir cause +50% damage \n Passive ability"
+END
+
+CONTROLBAR:BeregondHordeBonus
+"Defense of Minas Tirith"
+END
+
+CONTROLBAR:ToolTipBeregondHordeBonus
+"Requires: At least 4 battalions \n Beregond is as a captain during the siege of Minas Tirith gained the loyalty and respect of the archers of gondor. Beregond is granded 25% more damage and 50% more experience. \n Passive ability"
 END
 
 CONTROLBAR:ToolTipCaptainofGondorBoromir
