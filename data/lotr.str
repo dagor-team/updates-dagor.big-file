@@ -18192,7 +18192,7 @@ CONTROLBAR:BlightExtension
 END
 
 CONTROLBAR:ToolTipBlightExtension
-"Requires: Level 3 \n Witch-King conjures up powerful dark magic that plagues the land of his enemies \n If Witch-king is on the field you may use the blight 3 more times\n Passive ability \n\n Left-click to toggle palantir"
+"Requires: Level 3 \n Witch-King conjures up powerful dark magic that plagues the land of his enemies \n Witch-king is on the field you may use the blight 3 more times \n Left-click on an enemy farm"
 END
 
 CONTROLBAR:ToolTipAuradesUnheils

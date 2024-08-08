@@ -609,8 +609,8 @@ CommandSet TaniquetilFortressCommandSet
        28    = Command_FakeHeroReviveSlot10
        29    = Command_GenericReviveSlot11
        30    = Command_GenericReviveSlot12
-       31    = Command_FakeHammerHandReviveSlot
-       32    = Command_GenericReviveSlot14
+       31    = Command_GenericReviveSlot13
+       32    = Command_FakeHammerHandReviveSlot
        33    = Command_RadialBack
 End
 
@@ -650,8 +650,8 @@ CommandSet TaniquetilFortressCommandSetLevel2
        28    = Command_FakeHeroReviveSlot10
        29    = Command_GenericReviveSlot11
        30    = Command_GenericReviveSlot12
-       31    = Command_FakeHammerHandReviveSlot
-       32    = Command_GenericReviveSlot14
+       31    = Command_GenericReviveSlot13
+       32    = Command_FakeHammerHandReviveSlot
        33    = Command_RadialBack
 End
 
@@ -691,8 +691,8 @@ CommandSet TaniquetilFortressCommandSetLevel3
        28    = Command_FakeHeroReviveSlot10
        29    = Command_GenericReviveSlot11
        30    = Command_GenericReviveSlot12
-       31    = Command_FakeHammerHandReviveSlot
-       32    = Command_GenericReviveSlot14
+       31    = Command_GenericReviveSlot13
+       32    = Command_FakeHammerHandReviveSlot
        33    = Command_RadialBack
 End
 
@@ -732,8 +732,8 @@ CommandSet TaniquetilFortressCommandSetLevel4
        28    = Command_FakeHeroReviveSlot10
        29    = Command_GenericReviveSlot11
        30    = Command_GenericReviveSlot12
-       31    = Command_FakeHammerHandReviveSlot
-       32    = Command_GenericReviveSlot14
+       31    = Command_GenericReviveSlot13
+       32    = Command_FakeHammerHandReviveSlot
        33    = Command_RadialBack
 End
 
@@ -772,8 +772,8 @@ CommandSet TaniquetilFortressCommandSetLevel5
        28    = Command_FakeHeroReviveSlot10
        29    = Command_GenericReviveSlot11
        30    = Command_GenericReviveSlot12
-       31    = Command_FakeHammerHandReviveSlot
-       32    = Command_GenericReviveSlot14
+       31    = Command_GenericReviveSlot13
+       32    = Command_FakeHammerHandReviveSlot
        33    = Command_RadialBack
 End
 
