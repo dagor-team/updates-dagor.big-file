@@ -1,44 +1,47 @@
 
 GENERAL
-	Farms radius decrease to 250
+
 GONDOR	
-	Beregond
-		-gondor archer horde bonus
-		-Level 5 castable on heroes
-	Gondor swords and pikes +100 health
+	Isildur
+		- level 1 now grant allied heroes 50% armor towards projectiles
 ANGMAR
-	
+	Witch King 
+		- level 3 fixed hopefully
+		- level 5 cd increase, no longer usable on horse
 ROHAN
-	Double Theoden hopefully fixed
+	Turin 
+		- recruitment fix
 Arnor 
 	
 Goblins
-	Bill Tom and Bert cost decrease	
+	Gorkil, Durburz and Great Goblin get crowned after reaching level 5
+	Durburz
+		- level 7 buffed
+	Great Goblin 
+		- split basic attack dmg type between HERO and FORCE
 Mordor
-	Annatar speed increase from 40 to 52
+
 Loth
 	Galadriel
-		-Range and dmg decrease by half
+		-Range revert
 	Legolas
-		-new level 7
-		-level 5 can be active while knife fighter is active
+		-level 7 fix
+	Radagast
+		-base dmg increase
+	Celeborn
+		-hp increase by 900
 Imladris
-	Glorfindel
-		-Wind rider aplies to imla cav near him
+	Erestor
+		-ignores Q select
 Isengard
-	Uruk hai
-		-swords and pikes +150 health
-		-crossbows +100 health
-		-shields +350 health
+
 Erebor
-	Axe throws damage switched to pierce from slash
 	Gimli
-		-Leap and 
+		-Leap and axe throw dmg buffed after mithril
 Iron hills
-	Thorin III
-		-Level 10 autocast adjusted +weapon fire range increase from 15 to 25
+	
 eren luin
-	Bard - new level 7
+	Bard - level 7 no longer knocks down heroes
 
 		
 	
