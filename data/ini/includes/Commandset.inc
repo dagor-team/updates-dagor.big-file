@@ -606,12 +606,11 @@ CommandSet TaniquetilFortressCommandSet
        25    = Command_FakeHeroReviveSlot7
        26    = Command_FakeHeroReviveSlot8
        27    = Command_FakeHeroReviveSlot9
-       28    = Command_FakeHeroReviveSlot10
+       28    = Command_GenericReviveSlot10
        29    = Command_GenericReviveSlot11
        30    = Command_GenericReviveSlot12
-       31    = Command_GenericReviveSlot13
-       32    = Command_FakeHammerHandReviveSlot
-       33    = Command_RadialBack
+       31    = Command_FakeHammerHandReviveSlot
+       32    = Command_RadialBack
 End
 
 CommandSet TaniquetilFortressCommandSetLevel2
@@ -647,12 +646,11 @@ CommandSet TaniquetilFortressCommandSetLevel2
        25    = Command_FakeHeroReviveSlot7
        26    = Command_FakeHeroReviveSlot8
        27    = Command_FakeHeroReviveSlot9
-       28    = Command_FakeHeroReviveSlot10
+       28    = Command_GenericReviveSlot10
        29    = Command_GenericReviveSlot11
        30    = Command_GenericReviveSlot12
-       31    = Command_GenericReviveSlot13
-       32    = Command_FakeHammerHandReviveSlot
-       33    = Command_RadialBack
+       31    = Command_FakeHammerHandReviveSlot
+       32    = Command_RadialBack
 End
 
 CommandSet TaniquetilFortressCommandSetLevel3
@@ -688,12 +686,11 @@ CommandSet TaniquetilFortressCommandSetLevel3
        25    = Command_FakeHeroReviveSlot7
        26    = Command_FakeHeroReviveSlot8
        27    = Command_FakeHeroReviveSlot9
-       28    = Command_FakeHeroReviveSlot10
+       28    = Command_GenericReviveSlot10
        29    = Command_GenericReviveSlot11
        30    = Command_GenericReviveSlot12
-       31    = Command_GenericReviveSlot13
-       32    = Command_FakeHammerHandReviveSlot
-       33    = Command_RadialBack
+       31    = Command_FakeHammerHandReviveSlot
+       32    = Command_RadialBack
 End
 
 CommandSet TaniquetilFortressCommandSetLevel4
@@ -729,12 +726,12 @@ CommandSet TaniquetilFortressCommandSetLevel4
        25    = Command_FakeHeroReviveSlot7
        26    = Command_FakeHeroReviveSlot8
        27    = Command_FakeHeroReviveSlot9
-       28    = Command_FakeHeroReviveSlot10
+       28    = Command_GenericReviveSlot10
        29    = Command_GenericReviveSlot11
        30    = Command_GenericReviveSlot12
-       31    = Command_GenericReviveSlot13
-       32    = Command_FakeHammerHandReviveSlot
-       33    = Command_RadialBack
+       31    = Command_FakeHammerHandReviveSlot
+       32    = Command_RadialBack
+
 End
 
 CommandSet TaniquetilFortressCommandSetLevel5
@@ -769,12 +766,11 @@ CommandSet TaniquetilFortressCommandSetLevel5
        25    = Command_FakeHeroReviveSlot7
        26    = Command_FakeHeroReviveSlot8
        27    = Command_FakeHeroReviveSlot9
-       28    = Command_FakeHeroReviveSlot10
+       28    = Command_GenericReviveSlot10
        29    = Command_GenericReviveSlot11
        30    = Command_GenericReviveSlot12
-       31    = Command_GenericReviveSlot13
-       32    = Command_FakeHammerHandReviveSlot
-       33    = Command_RadialBack
+       31    = Command_FakeHammerHandReviveSlot
+       32    = Command_RadialBack
 End
 
 
