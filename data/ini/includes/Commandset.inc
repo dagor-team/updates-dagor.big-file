@@ -5,6 +5,7 @@ CommandSet BalcmegCommandSet
     4      = Command_SpecialAbilityHeartOfEvil
     5      = Command_SpecialAbilityBalcmegImmortal
     6      = Command_SpecialAbilityDestructionMark
+	7	   = Command_SpecialAbilityBalcmegXPPassive
     12   = Command_CaptureBuilding
     13   = Command_AttackMove
     14   = Command_Stop
@@ -1794,8 +1795,8 @@ CommandSet AngmarMorgramirCommandSetMod
     2    = Command_SpecialAbilityMorgomirEdikt
     3    = Command_SpecialAbilityMorgomirsDunklerPakt
     4    = Command_SpecialAbilityRankeschmied
-    5    = Command_SpecialAbilityMorgomirIntrige
-    6    = Command_SpecialAbilityGesetzderStarke
+    5    = Command_SpecialAbilityGesetzderStarke 
+    6    = Command_SpecialAbilityMorgomirIntrige
     12    = Command_CaptureBuilding
     13    = Command_AttackMove
     14    = Command_Stop
