@@ -53505,8 +53505,16 @@ CONTROLBAR:ConstructGrandHarvestUpgrade
 "Grand Harvest"
 END
 
+CONTROLBAR:ConstructBloomingSeasonUpgrade
+"Blooming Season"
+END
+
 CONTROLBAR:ToolTipBuildGrandHarvestUpgrade
-"+20% resources from farms \n You must maintain a Stoneworker to benefit from this upgrade"
+"+25% resources from farms \n You must maintain this building to benefit from this upgrade"
+END
+
+CONTROLBAR:ToolTipBuildBloomingSeasonUpgrade
+"+20% resources from mallorn trees and +100% from all wine cellars\n You must maintain a garden to benefit from this upgrade"
 END
 
 CONTROLBAR:ConstructSiegeMaterialsUpgrade
@@ -53525,8 +53533,16 @@ UPGRADE:MarketplaceUpgradeGrandHarvest
 "Agricultural Wisdom"
 END
 
+UPGRADE:GardenUpgradeGrandHarvest
+"Blooming Season"
+END
+
+UPGRADE:SchieldUrukFormations
+"Schield Uruk Formations"
+END
+
 UPGRADE:MarketplaceUpgradeDefiance
-"Construction of the N men reans"
+"Construction of the Númenóreans"
 END
 
 OBJECT:GondorWell
@@ -64768,6 +64784,22 @@ END
 
 CONTROLBAR:ToolTipBuildIsengardShieldurukHorde
 "Requires: Uruk Pit Level 2 \n Unit Type: Support Infantry \n You can combine them with the Uruk-hai Warriors, Pikemen and Crossbows. \n Once combined Uruk pikemen gain 30% resistance against archers\n Uruk warriors gain 10% speed and 20% armor\n Uruk crossbows gain 10% damage and armor"
+END
+
+CONTROLBAR:PurchaseTechnologyUrukHaiShields
+"Uruk-hai Shield Bearers Technology"
+END
+
+CONTROLBAR:ToolTipPurchaseTechnologyUrukHaiShields
+"Requires: Uruk Pit Level 2 \n Unit Type: Support Infantry \n You can combine them with the Uruk-hai Warriors, Pikemen and Crossbows. \n Once combined Uruk pikemen gain 30% resistance against archers\n Uruk warriors gain 10% speed and 20% armor\n Uruk crossbows gain 10% damage and armor"
+END
+
+CONTROLBAR:PurchaseUrukHaiShields
+"Uruk-hai Shield Bearers"
+END
+
+CONTROLBAR:ToolTipPurchaseUrukHaiShields
+"Requires: Uruk-hai Shield Bearers Technology \n Unit Type: Support Infantry \n You can combine them with the Uruk-hai Warriors, Pikemen and Crossbows. \n Once combined Uruk pikemen gain 30% resistance against archers\n Uruk warriors gain 10% speed and 20% armor\n Uruk crossbows gain 10% damage and armor"
 END
 
 BANNERUI:IsengardShielduruk
