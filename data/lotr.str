@@ -43780,7 +43780,7 @@ CONTROLBAR:SpecialAbilityLurtzCripple
 END
 
 CONTROLBAR:ToolTipSpecialAbilityLurtzCripple
-"Lurtz shoots an arrow that pins an enemy hero in their place\n Only available with the bow\n Left-click on the icon and then click on the target"
+"Requires: Level 3\n Lurtz shoots an arrow that pins an enemy hero in their place\n Only available with the bow\n Left-click on the icon and then click on the target"
 END
 
 CONTROLBAR:SpecialAbilityLurtzCarnage
@@ -43788,7 +43788,7 @@ CONTROLBAR:SpecialAbilityLurtzCarnage
 END
 
 CONTROLBAR:ToolTipSpecialAbilityLurtzCarnage
-"Requires: Level 3 \n Lurtz causes +100% damage and has +50% armor \n Available only with sword \n Left-click to activate"
+"Requires: Level 2 \n Lurtz causes +100% damage and has +50% armor \n Available only with sword \n Left-click to activate"
 END
 
 CONTROLBAR:ToggleHorseBow
@@ -86899,7 +86899,7 @@ CONTROLBAR:HeartOfEvil
 END
 
 CONTROLBAR:ToolTipHeartOfEvil
-"Requires: Level 6 \n Balcmeg means "heart of evil in the Eldarin tounge". Balcmeg debuffs enemies by -15% armor with each swing of his mace (this does not apply while using Fury of Morgoth). Balcmeg also gives scavenger to nearby mordor orcs \n Passive"
+"Requires: Level 6 \n Balcmeg means "heart of evil in the Eldarin tounge". Balcmeg debuffs enemies by -15% armor with each swing of his mace (this does not apply while using Fury of Morgoth). Balcmeg also gives scavenger to nearby mordor orcs and makes them resistant to knockback. \n Passive"
 END
 
 CONTROLBAR:BalcmegImmortal    
