@@ -6,6 +6,8 @@ GONDOR
 		- level 1 fix
 	Finrod 
 		- level 4 fixed
+	Beregond
+		- gondor archer bonus fix
 ANGMAR
 	Ungoliant
 		- Unlight cd fix
@@ -14,10 +16,12 @@ ANGMAR
 ROHAN
 	Helm Hammerhand Summon
 		- Only 1 Helm summon fix
+	Basic pikes buffed by 150 health
 Arnor 
 	
 Goblins
 	Gorkil scavenger no longer applies to smaug or Fa units
+	Mountain giants dmg adjusted (lowered) for scaling
 	Scatha at level 3 gives scavenger to smaug and Fa units
 	Smaug health incerase and armor upgrade at level 5; damage to units nerfed by half
 Mordor
@@ -34,6 +38,7 @@ Isengard
 	New unit - Dunland Brutes
 	Shield uruk system revamped
 	Slaves ignore Q select and cost 0 cp
+	Tol in Gaurtoth guards - level 2 fix
 Erebor
 	Thorin III runes aplicable to the dain hall
 Iron hills
