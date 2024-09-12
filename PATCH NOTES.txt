@@ -1,6 +1,6 @@
 
 GENERAL
-
+	Creep wargs damage and armor nerf
 GONDOR	
 	Isildur
 		- level 1 fix
@@ -13,6 +13,8 @@ ANGMAR
 		- Unlight cd fix
 		- Trample decelaration lowered (buff)
 	Frost ball ability on the fortress slight dmg nerf
+	Witch-king 
+		- level 3 fix
 ROHAN
 	Helm Hammerhand Summon
 		- Only 1 Helm summon fix
