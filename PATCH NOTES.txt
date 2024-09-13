@@ -20,17 +20,23 @@ ROHAN
 		- Only 1 Helm summon fix
 	Basic pikes buffed by 150 health
 Arnor 
-	
+	Swords of westerness cost 15 pp
+	Elendil, Araphant and Elros xp give abilities applied to first age units
+	Last alliance Elendil second ability fix
 Goblins
 	Gorkil scavenger no longer applies to smaug or Fa units
 	Mountain giants dmg adjusted (lowered) for scaling
 	Scatha at level 3 gives scavenger to smaug and Fa units
 	Smaug health incerase and armor upgrade at level 5; damage to units nerfed by half
+	Azog 
+		-level 1 fix
 Mordor
 	Balcmeg - Level 6 leadership buff
 		- Level 1 new passive
 	Gothmog - new level 3
 	War beasts armor nerf + cp increase
+	Umbar archers +2 units in a horde + slight damage buff
+	Harad archers - Barbed arrows ability damage multiplier against smaug
 Loth
 	Legolas level 7 fix
 	Mirkwood archers armorset fix
