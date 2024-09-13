@@ -28,6 +28,7 @@ Goblins
 	Mountain giants dmg adjusted (lowered) for scaling
 	Scatha at level 3 gives scavenger to smaug and Fa units
 	Smaug health incerase and armor upgrade at level 5; damage to units nerfed by half
+	Smaug on the ground - armor nerf
 	Azog 
 		-level 1 fix
 Mordor
