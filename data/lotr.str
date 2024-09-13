@@ -24342,11 +24342,11 @@ OBJECT:EvilmenFarm
 END
 
 CONTROLBAR:ToolTipBuildSchlachterHorde
-"Requires: Level 3 Clan Hut \n Strong vs: Everything \n You can entertain a maximum of 3 Huhnen hordes simultaneously"
+"Requires: Level 3 Clan Hut \n Strong vs: Everything \n You can entertain a maximum of 3 Dunland Brute hordes simultaneously"
 END
 
 CONTROLBAR:ConstructSchlachterHorde
-"&Huhnen"
+"&Dunland Brutes"
 END
 
 OBJECT:GondorHauptmann
@@ -108845,7 +108845,7 @@ CONTROLBAR:ToolTipFanaticDeathWishManSlayer
 END
 
 CONTROLBAR:CultOfTheBoar
-"&Cult Of The Boar"
+"Cult Of The Boa&r"
 END
 
 CONTROLBAR:ToolTipCultOfTheBoar
@@ -108853,7 +108853,7 @@ CONTROLBAR:ToolTipCultOfTheBoar
 END
 
 CONTROLBAR:Cult Of The Bear
-"&Cult Of The Bear"
+"Cult Of The B&ear"
 END
 
 CONTROLBAR:ToolTipCultOfTheBear
@@ -108861,7 +108861,7 @@ CONTROLBAR:ToolTipCultOfTheBear
 END
 
 CONTROLBAR:CultOfTheWolf
-"&Cult Of The Wolf"
+"Cult Of &The Wolf"
 END
 
 CONTROLBAR:ToolTipCultOfTheWolf
