@@ -10327,6 +10327,22 @@ OBJECT:DireWolf_Lair
 "Dire Wolf Lair"
 END
 
+CONTROLBAR:PurchaseUpgradeKarshSorcery
+"Curse of the Barrow-downs"
+END
+
+CONTROLBAR:ToolTipPurchaseUpgradeKarshSorcery
+"Requires: Level 10 OR Power of the Witchking \n Gulzar, the chief sorcerer of Angmar, enhances Karsh with dark magic. \n This grants him enhanced stats as well as a collection of more potent abilities that serves Angmar best. "
+END
+
+UPGRADE:KarshSorcery
+"Curse of the Barrow-downs"
+END
+
+TOOLTIP:KarshSorcery
+"Requires: Level 10 OR Power of the Witchking \n Gulzar, the chief sorcerer of Angmar, enhances Karsh with dark magic. \n This grants him enhanced stats as well as a collection of more potent abilities that serves Angmar best. "
+END
+
 OBJECT:DireWolfLair
 "Dire Wolf Lair"
 END
