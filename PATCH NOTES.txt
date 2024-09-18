@@ -1,47 +1,57 @@
 
 GENERAL
-
+	Creep wargs damage and armor nerf
 GONDOR	
 	Isildur
-		- level 1 now grant allied heroes 50% armor towards projectiles
+		- level 1 fix
+	Finrod 
+		- level 4 fixed
+	Beregond
+		- gondor archer bonus fix
 ANGMAR
-	Witch King 
-		- level 3 fixed hopefully
-		- level 5 cd increase, no longer usable on horse
+	Ungoliant
+		- Unlight cd fix
+		- Trample decelaration lowered (buff)
+	Frost ball ability on the fortress slight dmg nerf
+	Witch-king 
+		- level 3 fix
 ROHAN
-	Turin 
-		- recruitment fix
+	Helm Hammerhand Summon
+		- Only 1 Helm summon fix
+	Basic pikes buffed by 150 health
 Arnor 
-	
+	Swords of westerness cost 15 pp
+	Elendil, Araphant and Elros xp give abilities applied to first age units
+	Last alliance Elendil second ability fix
 Goblins
-	Gorkil, Durburz and Great Goblin get crowned after reaching level 5
-	Durburz
-		- level 7 buffed
-	Great Goblin 
-		- split basic attack dmg type between HERO and FORCE
+	Gorkil scavenger no longer applies to smaug or Fa units
+	Mountain giants dmg adjusted (lowered) for scaling
+	Scatha at level 3 gives scavenger to smaug and Fa units
+	Smaug health incerase and armor upgrade at level 5; damage to units nerfed by half
+	Smaug on the ground - armor nerf
+	Azog 
+		-level 1 fix
 Mordor
-
+	Balcmeg - Level 6 leadership buff
+		- Level 1 new passive
+	Gothmog - new level 3
+	War beasts armor nerf + cp increase
+	Umbar archers +2 units in a horde + slight damage buff
+	Harad archers - Barbed arrows ability damage multiplier against smaug
 Loth
-	Galadriel
-		-Range revert
-	Legolas
-		-level 7 fix
-	Radagast
-		-base dmg increase
-	Celeborn
-		-hp increase by 900
+	Legolas level 7 fix
+	Mirkwood archers armorset fix
 Imladris
-	Erestor
-		-ignores Q select
-Isengard
 
+Isengard
+	New unit - Dunland Brutes
+	Shield uruk system revamped
+	Slaves ignore Q select and cost 0 cp
+	Tol in Gaurtoth guards - level 2 fix
 Erebor
-	Gimli
-		-Leap and axe throw dmg buffed after mithril
+	Thorin III runes aplicable to the dain hall
 Iron hills
 	
 eren luin
-	Bard - level 7 no longer knocks down heroes
-
-		
+	
 	

@@ -1668,6 +1668,14 @@ CONTROLBAR:ToolTipElendilEroberer
 "Requires: Level 2 \n Elendil himself led his army to Barad-d r and besieged it \n Nearby units of the Last Alliance for 10 seconds inflict much more damage against buildings and are also able to destroy reinforced walls \n Left-click to activate"
 END
 
+CONTROLBAR:ElendilEroberer_Spell
+"Last Stand"
+END
+
+CONTROLBAR:ToolTipElendilEroberer_Spell
+"Elendil held the siege of Barad-dur for 7 years. During that time Sauron attempted many times to break the siege, But Elendils leadership countered all of them. \n Nearby units of the Last Alliance gain 33% max health, 25% armor, but lose 25% damage for 30 seconds. \n Left-click to activate"
+END
+
 CONTROLBAR:AragornCharge
 "For Frodo!"
 END
@@ -24334,11 +24342,11 @@ OBJECT:EvilmenFarm
 END
 
 CONTROLBAR:ToolTipBuildSchlachterHorde
-"Requires: Level 3 Clan Hut \n Strong vs: Everything \n You can entertain a maximum of 3 Huhnen hordes simultaneously"
+"Requires: Level 3 Clan Hut \n Strong vs: Everything \n You can entertain a maximum of 3 Dunland Brute hordes simultaneously"
 END
 
 CONTROLBAR:ConstructSchlachterHorde
-"&Huhnen"
+"&Dunland Brutes"
 END
 
 OBJECT:GondorHauptmann
@@ -43780,7 +43788,7 @@ CONTROLBAR:SpecialAbilityLurtzCripple
 END
 
 CONTROLBAR:ToolTipSpecialAbilityLurtzCripple
-"Lurtz shoots an arrow that pins an enemy hero in their place\n Only available with the bow\n Left-click on the icon and then click on the target"
+"Requires: Level 3\n Lurtz shoots an arrow that pins an enemy hero in their place\n Only available with the bow\n Left-click on the icon and then click on the target"
 END
 
 CONTROLBAR:SpecialAbilityLurtzCarnage
@@ -43788,7 +43796,7 @@ CONTROLBAR:SpecialAbilityLurtzCarnage
 END
 
 CONTROLBAR:ToolTipSpecialAbilityLurtzCarnage
-"Requires: Level 3 \n Lurtz causes +100% damage and has +50% armor \n Available only with sword \n Left-click to activate"
+"Requires: Level 2 \n Lurtz causes +100% damage and has +50% armor \n Available only with sword \n Left-click to activate"
 END
 
 CONTROLBAR:ToggleHorseBow
@@ -86881,7 +86889,7 @@ CONTROLBAR:BalcmegLeadership
 END
 
 CONTROLBAR:ToolTipBalcmegLeadership
-"Balcmeg gives nearby mordor orcs +25% armor and damage. \n\n Balcmeg relishes in the fray of battle. All throughout his service to the first Dark Lord, Balcmeg partook in many battles and learned many a thing about how to gain victories.\n Balcmeg gains passive experience per 400 damage taken. \n Passive"
+"Balcmeg gives nearby mordor orcs +25% armor and damage. \n\n Balcmeg relishes in the fray of battle. All throughout his service to the first Dark Lord, Balcmeg partook in many battles and learned many a thing about how to gain victories.\n Balcmeg gains progressively more experience the lower his health is. \n Passive"
 END
 
 
@@ -86899,7 +86907,7 @@ CONTROLBAR:HeartOfEvil
 END
 
 CONTROLBAR:ToolTipHeartOfEvil
-"Requires: Level 6 \n Balcmeg means "heart of evil in the Eldarin tounge". Balcmeg debuffs enemies by -15% armor with each swing of his mace (this does not apply while using Fury of Morgoth). Balcmeg also gives scavenger to nearby mordor orcs \n Passive"
+"Requires: Level 6 \n Balcmeg means "heart of evil in the Eldarin tounge". Balcmeg debuffs enemies by -15% armor with each swing of his mace (this does not apply while using Fury of Morgoth). Balcmeg also gives scavenger to nearby mordor orcs and makes them resistant to knockback. \n Passive"
 END
 
 CONTROLBAR:BalcmegImmortal    
@@ -91552,7 +91560,7 @@ CONTROLBAR:ElrosLeadership
 END
 
 CONTROLBAR:ToolTipElrosLeadership
-"Elros was one of the Half-elven of Middle-earth who chose to become a mortal man, and was later crowned the first High King of Numenor. \n Level 1: Nearby infantry earn 50% damage \n Level 5: Nearby infantry earn 50% armor \n Level 10: All allied units gain resitance to fear and cavalry attacks. \n Passive ability"
+"Elros was one of the Half-elven of Middle-earth who chose to become a mortal man, and was later crowned the first High King of Numenor. \n Level 1: Nearby infantry earn 25% damage \n Level 5: Nearby infantry earn 25% armor \n Level 10: All allied units gain resitance to fear and cavalry attacks. \n Passive ability"
 END
 
 CONTROLBAR:ElrosFavour
@@ -108834,6 +108842,30 @@ END
 
 CONTROLBAR:ToolTipFanaticDeathWishManSlayer
 "Requires Level 4 \n Man-Slayers temporarily gain\n+150% damage, -33% armor\n Left click to activate"
+END
+
+CONTROLBAR:CultOfTheBoar
+"Cult Of The Boa&r"
+END
+
+CONTROLBAR:ToolTipCultOfTheBoar
+"Requires Level 3 \n Dunland Brutes become frenzied by the spirit of the boar temporarily gaining:\n 50% armor and immunity to trample.\n During this time they knockdown enemy units with each swing of their weapon.\n Left click to activate"
+END
+
+CONTROLBAR:CultOfTheBear
+"Cult Of The B&ear"
+END
+
+CONTROLBAR:ToolTipCultOfTheBear
+"Requires Level 5 \n Dunland Brutes become frenzied by the spirit of the bear temporarily gaining:\n 50% speed, 33% armor towards arrows and immunity to knockback.\n During this time they stun enemy units with each swing of their weapon.\n Left click to activate"
+END
+
+CONTROLBAR:CultOfTheWolf
+"Cult Of &The Wolf"
+END
+
+CONTROLBAR:ToolTipCultOfTheWolf
+"Requires Level 7 \n Dunland Brutes become frenzied by the spirit of the wolf temporarily gaining:\n 50% damage, 100% flanking bonus and resources per kill.\n During this time they inflict bleed on enemy units with each swing of their weapon.\n Left click to activate"
 END
 
 CONTROLBAR:FanaticStoneWallManSlayer
