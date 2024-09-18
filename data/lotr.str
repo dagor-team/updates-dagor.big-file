@@ -70742,7 +70742,7 @@ CONTROLBAR:VenomousWords
 END
 
 CONTROLBAR:ToolTipVenomousWords
-"Requires: Level 3 \n Significantly reduces enemy Armor and Damage \n Left-click icon then left click on target units"
+"Requires: Level 4 \n Significantly reduces enemy Armor and Damage \n Left-click icon then left click on target units"
 END
 
 CONTROLBAR:Backstab
@@ -70750,11 +70750,11 @@ CONTROLBAR:Backstab
 END
 
 CONTROLBAR:ToolTipBackstab
-"Requires: Level 6 \n Extremely effective melee attack that poisoned the victim \n Left-click on the icon and select the target"
+"Requires: Level 2 \n Extremely effective melee attack that poisoned the victim. Far more effective when used from behind and best used against heroes \n Left-click on the icon and select the target"
 END
 
 CONTROLBAR:ToolTipBackstab
-"Requires: Level 6 \n High damage melee attack that also poisons targeted enemy \n Left-click icon then left click on target"
+"Requires: Level 2 \n Extremely effective melee attack that poisoned the victim. Far more effective when used from behind and best used against heroes \n Left-click on the icon and select the target"
 END
 
 CONTROLBAR:CorrodeAllegiance
