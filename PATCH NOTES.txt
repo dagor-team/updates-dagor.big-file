@@ -48,6 +48,7 @@ Isengard
 	Shield uruk system revamped
 	Slaves ignore Q select and cost 0 cp
 	Tol in Gaurtoth guards - level 2 fix
+	Grima Rework
 Erebor
 	Thorin III runes aplicable to the dain hall
 Iron hills

@@ -439,7 +439,7 @@ CONTROLBAR:SpecialAbilityNoriHinterhalt
 END
 
 CONTROLBAR:ToolTipSpecialAbilityNoriHinterhalt
-"Requires: Level 8 \n Nori quickly moves to the targeted location and surprises nearby enemies by throwing several daggers in a circular radius outwards away from him, damaging surrounding enemy units \n Left click on the designated target area"
+"Requires: Level 10 \n Nori quickly moves to the targeted location and surprises nearby enemies by throwing several daggers in a circular radius outwards away from him, damaging surrounding enemy units \n Left click on the designated target area"
 END
 
 CONTROLBAR:EasterlingKataphraktCharge
@@ -8835,7 +8835,7 @@ CONTROLBAR:ToolTipCommandSelectRevivablesForCirithUngol
 END
 
 CONTROLBAR:ToolTipSpecialAbilitySmaugFeuerflug
-"Requires: Level 10 \n Smaug fires a burning dragon's projectile at the chosen target \n Left-click on the symbol and then on the target area"
+"Requires: Level 6 \n Smaug fires a burning dragon's projectile at the chosen target \n Left-click on the symbol and then on the target area"
 END
 
 CONTROLBAR:ToolTipConstructMordorCirithTower_forCirithUngol
