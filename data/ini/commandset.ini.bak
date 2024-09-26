@@ -23331,7 +23331,7 @@ CommandSet RohanFortressCommandSet
     1   = Command_RingMechanikRohan
     2   = Command_SelectUpgradesRohanFaction
     3   = Command_SelectRevivablesRohanFortress
-    4   = Command_SpecialAbilityRuhmundEhre
+    4   = Command_SpecialAbilityRuhmundEhreZwei
     6   = Command_Sell
 
 
@@ -23359,48 +23359,8 @@ CommandSet RohanFortressCommandSet
     27 = Command_FakeHeroReviveSlot10
     28 = Command_FakeHeroReviveSlot11
     29 = Command_FakeHeroReviveSlot12
-    30 = Command_FakeHammerHandReviveSlot
-	31 = Command_FakeHeroReviveSlot14
-    32 = Command_RadialBack
-End
-
-CommandSet RohanFortressCommandSet_Theoden
-    InitialVisible = 6
-
-    1   = Command_RingMechanikRohan
-    2   = Command_SelectUpgradesRohanFaction
-    3   = Command_SelectRevivablesRohanFortress
-    4   = Command_SpecialAbilityRuhmundEhre
-    6   = Command_Sell
-
-
-    7   = Command_ConstructRohanPorter
-    8   = Command_PurchaseUpgradeRohanFestungsBanner
-    9   = Command_PurchaseUpgradeRohanFortressMilizen
-    10  = Command_PurchaseUpgradeMenFortressFlamingMunitions
-    11  = Command_PurchaseUpgradeRohanFortressSteinmauern
-    12  = Command_PurchaseUpgradeRohanFortressRuhmeshalle
-    13  = Command_RadialBack
-
-    14 = Command_ConstructRohanRoyalGuardInfantryHordeEdoras_For
-    15 = Command_RingHeroReviveSlot
-    16 = Command_FakeCreateAHeroReviveSlot
-    17 = Command_EorlReviveSlot
-    18 = Command_FakeHeroReviveSlot1
-    19 = Command_GenericReviveSlot2
-    20 = Command_GenericReviveSlot3
-    21 = Command_GenericReviveSlot4
-    22 = Command_GenericReviveSlot5
-    23 = Command_TheodredGenericReviveSlot
-    24 = Command_GenericReviveSlot7
-    25 = Command_FakeHeroReviveSlot8
-    26 = Command_MerryGenericReviveSlot
-    27 = Command_GenericReviveSlot10
-    28 = Command_FakeHeroReviveSlot11
-    29 = Command_FakeHeroReviveSlot12
-    30 = Command_FakeHammerHandReviveSlot
-	31 = Command_FakeHeroReviveSlot14
-    32 = Command_RadialBack
+	30 = Command_FakeHammerHandReviveSlot
+    31 = Command_RadialBack
 End
 
 CommandSet ArnorSpellBookCommandSet

@@ -25480,7 +25480,7 @@ CONTROLBAR:GorbagCallTheHorde
 END
 
 CONTROLBAR:ToolTipGorbagCallTheHorde
-"Requires: Level 3 \n On Gorbag's command, all Orc Pits briefly work at high speed\n Left-click to activate"
+"Requires: Level 3 \n On Gothmog's command, all Orc Pits briefly work at high speed\n Left-click to activate"
 END
 
 CONTROLBAR:DarkPillageGorbag
