@@ -106,7 +106,7 @@ CONTROLBAR:ConstructLorienGarden
 END
 
 CONTROLBAR:ToolTipLorienGarden
-"Reduces the cost of Galadhrim Warriors by 10% \n increases command point limit by 100 \n You can only build one Garden in the same game"
+"Reduces the cost of Galadhrim Warriors by 10% \n increases command point limit by 100 \n You can only build one Garden at the same time"
 END
 
 //Units
@@ -110874,7 +110874,7 @@ CONTROLBAR:LW_Unit_UmbarCorsairarcherHorde
 END
 
 CONTROLBAR:LW_ToolTip_UmbarCorsairarcherHorde
-"Ranged Infantry \n Strong vs: Ranged attacks"
+"Archers \n Strong vs: Infantry"
 END
 
 CONTROLBAR:ConstructUmbarCorsairarcherHorde
@@ -110882,7 +110882,7 @@ CONTROLBAR:ConstructUmbarCorsairarcherHorde
 END
 
 CONTROLBAR:ToolTipBuildUmbarCorsairarcherHorde
-"Ranged Infantry \n Strong vs: Ranged attacks"
+"Archers \n Strong vs: Infantry \n You can only maintain 5 units at the same time."
 END
 
 OBJECT:UmbarCorsairBallista
