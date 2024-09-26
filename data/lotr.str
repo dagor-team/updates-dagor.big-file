@@ -439,7 +439,7 @@ CONTROLBAR:SpecialAbilityNoriHinterhalt
 END
 
 CONTROLBAR:ToolTipSpecialAbilityNoriHinterhalt
-"Requires: Level 8 \n Nori quickly moves to the targeted location and surprises nearby enemies by throwing several daggers in a circular radius outwards away from him, damaging surrounding enemy units \n Left click on the designated target area"
+"Requires: Level 10 \n Nori quickly moves to the targeted location and surprises nearby enemies by throwing several daggers in a circular radius outwards away from him, damaging surrounding enemy units \n Left click on the designated target area"
 END
 
 CONTROLBAR:EasterlingKataphraktCharge
@@ -8835,7 +8835,7 @@ CONTROLBAR:ToolTipCommandSelectRevivablesForCirithUngol
 END
 
 CONTROLBAR:ToolTipSpecialAbilitySmaugFeuerflug
-"Requires: Level 10 \n Smaug fires a burning dragon's projectile at the chosen target \n Left-click on the symbol and then on the target area"
+"Requires: Level 6 \n Smaug fires a burning dragon's projectile at the chosen target \n Left-click on the symbol and then on the target area"
 END
 
 CONTROLBAR:ToolTipConstructMordorCirithTower_forCirithUngol
@@ -70750,7 +70750,7 @@ CONTROLBAR:VenomousWords
 END
 
 CONTROLBAR:ToolTipVenomousWords
-"Requires: Level 3 \n Significantly reduces enemy Armor and Damage \n Left-click icon then left click on target units"
+"Requires: Level 4 \n Significantly reduces enemy Armor and Damage \n Left-click icon then left click on target units"
 END
 
 CONTROLBAR:Backstab
@@ -70758,11 +70758,11 @@ CONTROLBAR:Backstab
 END
 
 CONTROLBAR:ToolTipBackstab
-"Requires: Level 6 \n Extremely effective melee attack that poisoned the victim \n Left-click on the icon and select the target"
+"Requires: Level 2 \n Extremely effective melee attack that poisoned the victim. Far more effective when used from behind and best used against heroes \n Left-click on the icon and select the target"
 END
 
 CONTROLBAR:ToolTipBackstab
-"Requires: Level 6 \n High damage melee attack that also poisons targeted enemy \n Left-click icon then left click on target"
+"Requires: Level 2 \n Extremely effective melee attack that poisoned the victim. Far more effective when used from behind and best used against heroes \n Left-click on the icon and select the target"
 END
 
 CONTROLBAR:CorrodeAllegiance
