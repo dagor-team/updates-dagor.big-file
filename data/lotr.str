@@ -6782,11 +6782,11 @@ CONTROLBAR:ToolTipRankeschmied
 END
 
 CONTROLBAR:SpecialAbilityMorgomirEdikt
-"Edict of Carn D m"
+"Edict of Carn Dum"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityMorgomirEdikt
-"Mornarmarth uses his management abilities to mobilize the troops of Carn D m more efficiently. As Mornamarth gains might and reputation, his ability to manage troop movements improves \n Requires: Level 1 \n Mornamarth equips level 2 Men of Carn D m with "Death Masks" \n Requires: Level 3 \n The recruitment speed of the Hall of the King s Men is improved by 25%. \n Requires: Level 5: \n The cost of Dark N men reans is decreased by 50%. The Black Guard is not affected"
+"Mornarmarth uses his management abilities to mobilize the troops of Carn Dum more efficiently. As Mornamarth gains might and reputation, his ability to manage troop movements improves \n Requires: Level 1 \n Mornamarth equips level 2 Men of Carn Dum with "Death Masks" \n Requires: Level 3 \n The recruitment speed of the Hall of the Kings Men is improved by 25%. \n Requires: Level 5: \n The cost of Dark Númenóreans is decreased by 50%. The Black Guard is not affected"
 END
 
 CONTROLBAR:DunklerPakt
@@ -6794,7 +6794,7 @@ CONTROLBAR:DunklerPakt
 END
 
 CONTROLBAR:ToolTipDunklerPakt
-"Mornarmarth binds a battalion of the Men of Carn D m to himself \n The corresponding soldiers permanently receive +50% attack and defense and heal themselves out of combat \n Mornamarth can demand their lives at any time to preserve his own by using the ability "Fulfilled Pact" from the chosen unit's palantir. \n Left-click on to a desired Carn D m squadron"
+"Mornarmarth binds a battalion of the Men of Carn Dum to himself \n The corresponding soldiers permanently receive +25% attack and defense and heal themselves out of combat \n Mornamarth can demand their lives at any time to preserve his own by using the ability "Fulfilled Pact" from the chosen unit's palantir. \n Left-click on to a desired Carn Dum battalion"
 END
 
 CONTROLBAR:SpecialAbilityGesetzderStarke
@@ -15744,7 +15744,7 @@ CONTROLBAR:SpecialAbilityBestienmeisterLeap
 END
 
 CONTROLBAR:ToolTipSpecialAbilityBestienmeisterLeap
-"Requires: Level 8 \n Beastmaster loses control of his wolf form and jumps towards an enemy, throwing nearby enemy units and heroes to the ground. \n Left click on the enemy target unit"
+"Requires: Level 8 \n Beastmaster loses control of his wolf form and jumps towards an enemy, knocking nearby enemy units and heroes to the ground. \n Left click on the enemy target unit"
 END
 
 CONTROLBAR:SpecialAbilityBringtmirseinenKopf
@@ -18204,7 +18204,7 @@ CONTROLBAR:ToolTipBlightExtension
 END
 
 CONTROLBAR:ToolTipAuradesUnheils
-"An aura of death surrounds the ruler of Angmar, searing enemies who strike him in retaliation \n The Witch-king reflects incoming damage \n Passive ability"
+"An aura of death surrounds the ruler of Angmar, searing enemies who strike him in retaliation \n The Witch-king reflects incoming damage \n Passive ability \n\n Left-Click to toggle palantir"
 END
 
 CONTROLBAR:SpecialAbilityDieStundedesHexenkonigs
@@ -43660,7 +43660,7 @@ CONTROLBAR:GenericMountTooltip
 END
 
 CONTROLBAR:WitchkingMountTooltip
-"Requires: Level 2 \n Left-click to ride or \n to walk"
+"Left-click to ride or \n to walk"
 END
 
 CONTROLBAR:ToolTipSummonEntAllies
@@ -54701,7 +54701,7 @@ CONTROLBAR:ConstructGondorKnightsofDolHorde
 END
 
 CONTROLBAR:ToolTipBuildGondorKnightsofDolHorde
-"Requires: Prince Imrahil on the battlefield \n Unit Type: Elite Cavalry \n Strong vs: Infantry and Monsters \n "
+"Requires: Prince Imrahil on the battlefield and stable level 3 \n Unit Type: Elite Cavalry \n Strong vs: Heroes, Buildings and Monsters \n "
 END
 
 CONTROLBAR:ToolTipBuildGondorKnightsofDolHorde_King
@@ -110094,6 +110094,22 @@ END
 
 TOOLTIP:LackArnorBattalionCaptains
 "Requires: Captain has been researched and the horde needs to be level 2.\n Upgrades this battalion with a Captain\n Improves the effects of the battle formation for the battalion."
+END
+
+CONTROLBAR:PurchaseArnorLindonForgeWeapons
+"Purchase Lindon Forge Weapons"
+END
+
+CONTROLBAR:ToolTipPurchaseArnorLindonForgeWeapons
+"Allows units of Lindon to purshase forged blades, heavy armor and golden tip arrows.\n Left-click to purchase"
+END
+
+TOOLTIP:LackArnorLindonForgeWeapons
+"Requires: Cirdan recruited."
+END
+
+UPGRADE:TechnologyLindonForgeWeapons
+"Lindon Forged Weaponry"
 END
 
 OBJECT:ArnorFighterCaptainComboHorde
