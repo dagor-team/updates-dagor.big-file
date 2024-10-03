@@ -58649,7 +58649,7 @@ CONTROLBAR:BuildElvenRivendellLancers
 END
 
 CONTROLBAR:ToolTipBuildElvenRivendellLancers
-"Unit Type: Regular Cavalry \n Strong vs: Infantry \n Upgrades from the Imladris Library unlock special abilities"
+"Unit Type: Regular Cavalry \n Strong vs: Infantry \n You can maintain only 3 battalions at a time"
 END
 
 BANNERUI:ElvenRivendellLancer
@@ -67505,7 +67505,7 @@ CONTROLBAR:PurchaseUpgradeGemacherderSchwarzenGarde
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeGemacherderSchwarzenGarde
-"Allows the training of Black Numenorean Guard and Knight Guard \n Allows the recruitment of Durmarth"
+"Is required for the training of Black Numenorean Guard and Knight Guard \n\n Improved fighting capacities of Black Numenorians and Black Numenorian Pikemen"
 END
 
 TOOLTIP:LackSchwarzeGarde
@@ -70755,10 +70755,6 @@ END
 
 CONTROLBAR:Backstab
 "Back S&tab"
-END
-
-CONTROLBAR:ToolTipBackstab
-"Requires: Level 2 \n Extremely effective melee attack that poisoned the victim. Far more effective when used from behind and best used against heroes \n Left-click on the icon and select the target"
 END
 
 CONTROLBAR:ToolTipBackstab
@@ -86268,7 +86264,7 @@ CONTROLBAR:SpecialAbilityChillSoul
 END
 
 CONTROLBAR:TooltipSpecialAbilityChillSoul
-"All nearby enemies suffer -25% speed and take slight damage over time \n Passive ability"
+"All nearby enemies suffer -25% speed \n Passive ability"
 END
 
 CONTROLBAR:WhisperofDeath
@@ -86276,7 +86272,7 @@ CONTROLBAR:WhisperofDeath
 END
 
 CONTROLBAR:TooltipWhisperofDeath
-"Requires: Level 7 \n inflicts massive damage on a non-undead \n unit \n Left click icon then left click on target unit"
+"Requires: Level 7 \n inflicts massive damage on a non-undead unit \n Left click icon then left click on target unit"
 END
 
 CONTROLBAR:NecroBlackIce
@@ -90429,7 +90425,7 @@ CONTROLBAR:TulkasLeadership
 END
 
 CONTROLBAR:ToolTipTulkasLeadership
-"The presence of Tulkas inspires courage in all armies of Arda. \n Men, Elves and Dwarves can step into the shadows without fear. \n Passive ability"
+"The presence of Tulkas inspires courage in all armies of Arda. \n Men, Elves and Dwarves can step into the shadows without fear. \n Creatures of Morgoth however are lose the courage to continue to fight. \n\n All allied units gain 300% fear and terror resistance.\n All enemy units lose 300% fear and terror resistance. \n Passive ability"
 END
 
 CONTROLBAR:TulkasAstaldo
@@ -90437,7 +90433,7 @@ CONTROLBAR:TulkasAstaldo
 END
 
 CONTROLBAR:ToolTipTulkasAstaldo
-"Being the bravest among the Valar, \n Tulkas goes through the shadows of evil struggling, but laughing. \n Boasts all his strength, showing that he is the strongest of all. \n Left click to activate"
+"Being the bravest among the Valar, \n Tulkas goes through the shadows of evil struggling, but laughing. \n Boasts all his strength, showing that he is the strongesungot of all. \n Left click to activate"
 END
 
 CONTROLBAR:TulkasStomp
@@ -95078,11 +95074,11 @@ CONTROLBAR:ToolTipAvatharSummonUngoliant
 END
 
 CONTROLBAR:AvatharUngoliantAuraPoison
-"Poison Aura"
+"Poisonous Aura"
 END
 
 CONTROLBAR:TooltipAvatharUngoliantAuraPoison
-"All enemy units near Ungoliant are poisoned. \n Passive ability"
+"Ungoliant was a spirit of pure darkness taken form. Its aura was draining life, light and hope. \n\n All enemy units near Ungoliant are poisoned and lose 300% fear and terror resistance. \n Passive ability"
 END
 
 CONTROLBAR:AvatharUngoliantInstillTerror
@@ -110101,11 +110097,11 @@ CONTROLBAR:PurchaseArnorLindonForgeWeapons
 END
 
 CONTROLBAR:ToolTipPurchaseArnorLindonForgeWeapons
-"Allows units of Lindon to purshase forged blades, heavy armor and golden tip arrows.\n Left-click to purchase"
+"Allows the units of Lindon to purshase forged blades, heavy armor and golden tipped arrows.\n Left-click to purchase"
 END
 
 TOOLTIP:LackArnorLindonForgeWeapons
-"Requires: Cirdan recruited."
+"Requires: Cirdan recruited"
 END
 
 UPGRADE:TechnologyLindonForgeWeapons
