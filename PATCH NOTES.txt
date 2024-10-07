@@ -1,58 +1,44 @@
 
 GENERAL
-	Creep wargs damage and armor nerf
+	- new art for mordors witch-king, boromir, imrahil, gamling, hurin, theodred, and other stuff...
 GONDOR	
-	Isildur
-		- level 1 fix
-	Finrod 
-		- level 4 fixed
-	Beregond
-		- gondor archer bonus fix
+	Fiefdom expansions for gondor fully developped and viable to fully go for (through the beacon of gondor)
+	Dol amroth cav locked behind stable level 3 as well as imrahil
 ANGMAR
-	Ungoliant
-		- Unlight cd fix
-		- Trample decelaration lowered (buff)
-	Frost ball ability on the fortress slight dmg nerf
-	Witch-king 
-		- level 3 fix
+	Chambres of black guard fixed description
+	Karsh rework
 ROHAN
-	Helm Hammerhand Summon
-		- Only 1 Helm summon fix
-	Basic pikes buffed by 150 health
+	Theoden recruitment fix
 Arnor 
-	Swords of westerness cost 15 pp
-	Elendil, Araphant and Elros xp give abilities applied to first age units
-	Last alliance Elendil second ability fix
+	Lindons limited to 4, but an upgrade from the library is required to purchase heavy armor, forged blades and golden tips
 Goblins
-	Gorkil scavenger no longer applies to smaug or Fa units
-	Mountain giants dmg adjusted (lowered) for scaling
-	Scatha at level 3 gives scavenger to smaug and Fa units
-	Smaug health incerase and armor upgrade at level 5; damage to units nerfed by half
-	Smaug on the ground - armor nerf
-	Azog 
-		-level 1 fix
+	Balrogs armor buff
+	Ancalagon armor and speed buff
+	Drogoth armor buff
+	
 Mordor
-	Balcmeg - Level 6 leadership buff
-		- Level 1 new passive
-	Gothmog - new level 3
-	War beasts armor nerf + cp increase
-	Umbar archers +2 units in a horde + slight damage buff
-	Harad archers - Barbed arrows ability damage multiplier against smaug
+	Gothmog - captains temporary
+		- level 3 revert
+		- xp share slightly lowered
+	Minas morgul unleashed only available from the minas morgul fortress
+	Corsair archers limited to 5, but you no longer need an upgrade to get them
+	Nekromancer - basic attack damage nerf
+	Saleme no longer affected by suladans leadership
+	Orc pit cost lowered to 320
+	Glaurung hp nerf to 10 000
 Loth
-	Legolas level 7 fix
-	Mirkwood archers armorset fix
+	
 Imladris
-
+	Cav limited to 3
 Isengard
-	New unit - Dunland Brutes
-	Shield uruk system revamped
-	Slaves ignore Q select and cost 0 cp
+	Dunland Brutes level 7 fixed
 	Tol in Gaurtoth guards - level 2 fix
 	Grima Rework
+	Uruk crossbows +20 damage buff across all upgrades
 Erebor
-	Thorin III runes aplicable to the dain hall
+	
 Iron hills
 	
 eren luin
-	
+	Thorins arkenstone buff new clear FX
 	
