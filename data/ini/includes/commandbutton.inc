@@ -417,8 +417,8 @@ CommandButton Command_SelectUnitsAngbandThangorodrim
   TextLabel               = CONTROLBAR:SelectUnitsAngbandThangorodrim
   DescriptLabel           = CONTROLBAR:ToolTipSelectUnitsAngbandThangorodrim
   Radial                  = Yes
-  CommandRangeStart       = 9
-  CommandRangeCount       = 4
+  CommandRangeStart       = 8
+  CommandRangeCount       = 5
 End
 
 CommandButton Command_SelectRevivablesFormenosFortress
