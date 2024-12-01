@@ -108,6 +108,14 @@ function OnTrollGenericEvent(self,data)
     end
 end
 
+function OnSnowStormCreated(self)
+	ObjectDoSpecialPower( self, "SpecialAbilitySnowStormFX" )
+end
+
+function AttackSpeedChange(self)
+	ObjectDoSpecialPower( self, "SpecialAbilityWolfCult" )
+end
+
 function OnEntCreated(self)
     --ObjectShowSubObjectPermanently( self, "ROCK", true )
     ObjectGrantUpgrade( self, "Upgrade_SwitchToRockThrowing" )
@@ -1544,6 +1552,11 @@ end
 function RemoveGaladrielChosenSide(self)
     ObjectRemoveUpgrade( self, "Upgrade_GaladrielRingannehmen" )
     ObjectRemoveUpgrade( self, "Upgrade_GaladrielRingablehnen" )
+end
+
+function RemoveSarumanChosenSide(self)
+    ObjectRemoveUpgrade( self, "Upgrade_SarumanFire" )
+    ObjectRemoveUpgrade( self, "Upgrade_SarumanBlessed" )
 end
 
 function OnGundabadArcherCreated(self)
