@@ -1069,6 +1069,14 @@
 		RequirementsFilterStrategic     = SPELL_BOOK_REQUIREMENTS_FILTER_STRATEGIC
 	End
 	
+	Behavior = CostModifierUpgrade ModuleTag_CostModifierTheoden
+        LabelForPalantirString = GUI:WATER_DISCOUNT
+        TriggeredBy            = Upgrade_RuhmdesKonigsUpgrade 
+        StartsActive           = No
+        ObjectFilter           = ANY +RohanOldMan
+        Percentage             = +300%
+    End
+	
 	Behavior = OCLSpecialPower ModuleTag_GondorSpellSignalFire
 		SpecialPowerTemplate = SpellBookGondorSignalFire
 		OCL                  = OCL_SpawnLehenGondors
