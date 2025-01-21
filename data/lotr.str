@@ -3361,7 +3361,7 @@ CONTROLBAR:LeadershipEowinNew
 END
 
 CONTROLBAR:ToolTipEowinPeasantLeadership
-"Requires: Level 2 \n  Eowyn inspires the commonsfolk to fight harder for their land. Nearby peasant and basic Rohan units gain +30% Armor and Damage.\n Passive Ability"
+"Requires: Level 2 \n  Eowyn inspires the commonsfolk to fight harder for their land. Nearby peasants and basic units of Rohan gain +25% Armor and Damage.\n Passive Ability"
 END
 
 CONTROLBAR:ToolTipDisguiseEEowyn_Neu
@@ -55254,8 +55254,9 @@ END
 OBJECT:RohanTheodredTurm
 "Sentry"
 END
+
 CONTROLBAR:ToolTipErkenbrandLeadership
-"Requires: Level 5 \n Erkenbrand leads the men of the Westfold into battle \n increases nearby Westfold units 25% armor and damage."
+"Requires: Level 5 \n Erkenbrand leads the soldiers of the Rohan into battle \n Increases armor and damage of nearby Meduseld units by 25%."
 END
 
 CONTROLBAR:LeadershipErkenbrandNew
@@ -55397,7 +55398,7 @@ UPGRADE:RohanAxes
 END
 
 CONTROLBAR:HeroldRohanWestfoldWachter
-"Meduseld &Soldiers"
+"&Meduseld Soldiers"
 END
 
 CONTROLBAR:TooltipHeroldRohanWestfoldWachter
@@ -55409,7 +55410,7 @@ CONTROLBAR:HeroldRohanWestfoldSpearmen
 END
 
 CONTROLBAR:TooltipHeroldRohanWestfoldSpearmen
-"Call in and command Spearmen of the Westfold \n Unit Type: Pikemen \n Strong vs: Cavalry"
+"Call in and command Spearmen of Meduseld \n Unit Type: Pikemen \n Strong vs: Cavalry"
 END
 
 CONTROLBAR:HeroldIsenfurtReiterHorde
