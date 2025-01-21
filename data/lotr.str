@@ -7962,6 +7962,10 @@ Map:mapedaineisbucht/Desc
 "The bay of Forochel, an area far in the north of Middle-earth, is a cold and deadly area where only the strongest survive."
 END
 
+CONTROLBAR:AnfuhrerGaladhrim_New
+"Reforged Alliance"
+END
+
 CONTROLBAR:ToolTipAnfuhrerGaladhrim_New
 "Requires: Level 6 \n Haldir dons his battle armor and leads the Galadhrim in the battle \n Haldir gets +25% armor, allies near him get +30% attack \n Passive ability"
 END
