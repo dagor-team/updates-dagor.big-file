@@ -241,7 +241,7 @@ CONTROLBAR:SpellBookRadagastRohan
 END
 
 CONTROLBAR:TooltipSpellBookHelmHammerhand
-"The ghost of Helm Hammerhand appears for a short time to fullfil his oath and bring vengeance to those who seek to destroy Rohan. \n Left click on the icon then left click on accessible area"
+"The ghost of Helm Hammerhand appears for a short time to fullfil his oath and bring vengeance to those who seek to destroy Rohan. \n Variation (Need Army of the Past Ages): Summons Helm Hammerhand with 2 battaillons of his elite guards. \n Left click on a desired area"
 END
 
 CONTROLBAR:RohanFarmInfobox
@@ -1447,11 +1447,11 @@ CONTROLBAR:HurinMount
 End
 
 CONTROLBAR:ElendilTheTall
-"Elendil The Tall"
+"Narsil"
 End
 
-CONTROLBAR:ToolTipElendil&TheTall
-"Requires: Level 3 \n Elendil does a meta aoe attack on the selected target"
+CONTROLBAR:ToolTipElendilTheTall
+"Elendil does a meta aoe attack on the selected target"
 End
 
 CONTROLBAR:HelmSlam
@@ -1665,7 +1665,7 @@ CONTROLBAR:ElendilEroberer
 END
 
 CONTROLBAR:ToolTipElendilEroberer
-"Requires: Level 2 \n Elendil himself led his army to Barad-d r and besieged it \n Nearby units of the Last Alliance for 10 seconds inflict much more damage against buildings and are also able to destroy reinforced walls \n Left-click to activate"
+"Requires: Level 3 \n Active: \n Elendil himself led his army to Barad-dur and besieged it \n Nearby units inflict much more damage against buildings for 15 seconds \n Passive: \n Elendil grants +25 damage for all arnor units and resources from slain enemeies for arnor heroes around him. Left-click to activate"
 END
 
 CONTROLBAR:ElendilEroberer_Spell
@@ -2037,7 +2037,7 @@ CONTROLBAR:EvilmenSalemeRecruit_Neu
 END
 
 CONTROLBAR:ToolTipSpellbookUpgradeRuhmdesKonigs_Neu
-"Theoden is exempt from the whisperings of Wormtongue and remembers his past glory days \n The Corrupted withdraws into the fortress, where it is freed and can then be recruited as Theoden \n Passive ability"
+"Theoden is exempt from the whisperings of Wormtongue and remembers his past glory days \n The corruption withdraws and Theoden King can be recruited, if Theoden the Corrupted is already on the battlefield he will transform into Theoden the King \n Passive ability"
 END
 
 CONTROLBAR:TooltipSpellBookHerrderErde_Neu
@@ -7971,7 +7971,7 @@ CONTROLBAR:ToolTipAnfuhrerGaladhrim_New
 END
 
 CONTROLBAR:ToolTipAnfuhrerGaladhrim_NewSummon
-"Haldir dons his battle armor and leads the Galadhrim in the battle \n Haldir earns +25% armor while allies near him receive +50% attack \n Passive ability"
+"Requires: Level 6 \n Haldir dons his battle armor and leads the Galadhrim in the battle \n Haldir takes 5% less damage while allied rohan infantry near him receive +30% attack \n Passive ability"
 END
 
 CONTROLBAR:ToolTipBregaladEntLeader_New
@@ -15468,7 +15468,7 @@ CONTROLBAR:ToolTipSpinnendaseinDebuff
 END
 
 CONTROLBAR:TooltipGoblinKingSkullTotemKing
-"Requires: Level 2 \n The ruler of the Misty Mountains places a skull totem on the battlefield \n Goblin units near the Skull Totem will deal 50% more damage \n If Gorkil has been crowned, The Skull Totem will give 75% damage to goblin units near the totem \n Left-click on the desired target area"
+"Requires: Level 2 \n The ruler of the Misty Mountains places a skull totem on the battlefield \n Goblin units near the Skull Totem will deal +25% damage \n If Gorkil has been crowned, The Skull Totem will give +40% damage to goblin units and heroes near the totem \n Left-click on the desired target area"
 END
 
 CONTROLBAR:ConstructWildZuchtspinnenHorde
@@ -17864,7 +17864,7 @@ CONTROLBAR:ToolTipSpecialAbilityScheinderFreundschaft
 END
 
 CONTROLBAR:ToolTipDominateSaruman
-"Requires: Level 7 \n The White Sorcerer manipulates his enemies with his words \n Units in the target area are temporarily under his control \n Left-click on the icon and then click on the target"
+"Requires: Level 7 \n The White Sorcerer manipulates his enemies with his words \n Units in the target area are under his control for 30 seconds, however he cant use his abilities for 40 seconds.\n Left-click on the icon and then click on the target"
 END
 
 CONTROLBAR:SpecialAbilityWeiﬂerRat
@@ -26800,7 +26800,7 @@ CONTROLBAR:RohanTheodredRevive
 END
 
 CONTROLBAR:RohanTheodredHotkey
-"Th odr&ed"
+"Theodr&ed"
 END
 
 CONTROLBAR:RohanSamRecruit
@@ -28318,7 +28318,7 @@ OBJECT:ImladrisElladan
 END
 
 CONTROLBAR:ElendilGoldderKonige
-"Gold of the N men reans"
+"Gold of the Numenoreans"
 END
 
 CONTROLBAR:ToolTipElendilGoldderKonige
@@ -28330,7 +28330,7 @@ CONTROLBAR:ElendilLeadership
 END
 
 CONTROLBAR:ToolTipElendilLeadership
-"The Last King of Numenor was the embodiment of valor and inspired his men by his own example \n Elendil grants +25 damage for all arnor units and resources from slain enemeies for arnor heroes around him.\n Passive ability"
+"The Last King of Numenor was the embodiment of valor and inspired his men by his own example, clad in the finest armor Elendil gets an armor upgrade.\n Passive ability"
 END
 
 CONTROLBAR:IsildurLeadership
@@ -28554,7 +28554,7 @@ CONTROLBAR:FaramirKnightRanger
 END
 
 CONTROLBAR:ToolTipFaramirKnightRanger
-"Requires: Level 5 \n Faramir inspires the hearts of his allies with renewed courage in times of trouble.\n\n Passive Ability:\n Units near Faramir are resistant to fear and gain the following attributes:\n infantry: +25% attack \n Cavalry: +25% armor \n\n Active Ability:\n Faramir can mount his horse, leading the forces of Gondor as a knight.\n Left-click to mount or dismount his horse."
+"Requires: Level 5 \n Faramir inspires the hearts of his allies with renewed courage in times of trouble.\n\n Passive Ability:\n Units near Faramir gain the following attributes:\n infantry: +25% attack \n Cavalry: +25% armor \n\n Active Ability:\n Faramir can mount his horse, leading the forces of Gondor as a knight.\n Left-click to mount or dismount his horse."
 END
 
 CONTROLBAR:ToolTipFaramirMount_Neu
@@ -42776,7 +42776,7 @@ CONTROLBAR:ToolTipBuilEEowyn
 END
 
 CONTROLBAR:RohanEowynRevive
-"Revive  Eowyn again the fallen hero"
+"Revive Eowyn again the fallen hero"
 END
 
 CONTROLBAR:RohanEowynRecruit
@@ -42784,7 +42784,7 @@ CONTROLBAR:RohanEowynRecruit
 END
 
 CONTROLBAR:RohanEowynHotkey
-" Eowyn"
+"Eowyn"
 END
 
 CONTROLBAR:RohanMerryRecruit
@@ -42792,7 +42792,7 @@ CONTROLBAR:RohanMerryRecruit
 END
 
 CONTROLBAR:RohanMerryRevive
-"Awake the Fallen Hero Merry to life."
+"Awake the Fallen Hero Merry to life"
 END
 
 CONTROLBAR:RohanMerryHotkey
@@ -42844,7 +42844,7 @@ CONTROLBAR:RohanEomerRevive
 END
 
 CONTROLBAR:RohanEomerHotkey
-" o&mer"
+"Eo&mer"
 END
 
 CONTROLBAR:ToolTipBuildLegolas
@@ -54190,19 +54190,19 @@ CONTROLBAR:BuildGondorWachterderVesteHorde
 END
 
 CONTROLBAR:ToolTipBuildGondorWachterderVesteHorde
-"Requires: Barracks Level 3 and reseached Banner carriers \n Unit Type: Elite Infantry \n Strong vs: Depending on the situation"
+"Requires: Banner carriers reseached \n Unit Type: Elite Infantry \n Strong vs: Infantry and Heroes"
 END
 
 CONTROLBAR:ToolTipBuildGondorWachterderVesteHorde_Monument
-"Unit Type: Elite Infantry \n Strong vs: Depending on the situation \n Can switch between Sword and Lance"
+"Unit Type: Elite Infantry \n Strong vs: Infantry and Heroes \n Can switch between Sword and Lance"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityGondorCitadelHero
-"Chosen leader"
+"Requires: Level 3 \n Citadel guards choose their leader to fight for. \n Select either Aragorn, Boromir, Imrahil or Isildur. \n\n Selecting Aragorn grants nearby citadel guards +25% damage \n Selecting Boromir grants nearby citadel guards +25% armor \n Selecting Imrahil grants nearby citadel guards +25% experience gain \n Selecting Isildur causes nearby citadel guards to deal area damage and be more effective against heroes \n Left-click on the selected hero"
 END
 
 CONTROLBAR:SpecialAbilityGondorCitadelHero
-""
+"Chosen leader"
 END
 
 BANNERUI:GondorWachterderVeste
@@ -71003,7 +71003,7 @@ CONTROLBAR:GoblinKingSkullTotem
 END
 
 CONTROLBAR:TooltipGoblinKingSkullTotem
-"Requires: Level 2 \n Places a skull totem which will remain on the map until destroyed \n Reveals the nearby shroud, detects stealth, and provides a Damage, Armor, and Experience bonus to nearby allies \n Left click icon then left click on target area"
+"Requires: Level 2 \n Places a skull totem which will remain on the map until destroyed \n Reveals the nearby shroud, detects stealth, and provides +25% Damage to nearby goblin units \n Left click icon then left click on target area"
 END
 
 CONTROLBAR:CAH_SpillOil_Level3
@@ -91606,19 +91606,19 @@ CONTROLBAR:LW_Hero_NumenorVardamir
 END
 
 CONTROLBAR:LW_ToolTipBuild_NumenorVardamir
-"Unit Type: Hero Vardamir N limon\n"
+"Unit Type: Hero Vardamir Nolimon\n"
 END
 
 CONTROLBAR:NumenorVardamirRecruit
-"Recruit the prince of Numenor son of Elros \n \n Lore: \n Vardamir N limon was the oldest child of Elros Tar-Minyatur, and the second King of Numenor. Vardamir N limon heir to the Kingship of Numenor and was noted as an exceptional scholar whose only desire was to study, not to rule. When Elros died, Vardamir immediately abdicated in favour of his son, Tar-Amandil. He was counted as the second King of Numenor, having nominally ruled for a single year. He died in year 471 of the Second Age, aged 410 years. \n He had 3 younger siblings: Tindomiel, Manwendil, and Atanalcar."
+"Recruit the prince of Numenor son of Elros \n \n Lore: \n Vardamir Nolimon was the oldest child of Elros Tar-Minyatur, and the second King of Numenor. Vardamir N limon heir to the Kingship of Numenor and was noted as an exceptional scholar whose only desire was to study, not to rule. When Elros died, Vardamir immediately abdicated in favour of his son, Tar-Amandil. He was counted as the second King of Numenor, having nominally ruled for a single year. He died in year 471 of the Second Age, aged 410 years. \n He had 3 younger siblings: Tindomiel, Manwendil, and Atanalcar."
 END
 
 CONTROLBAR:NumenorVardamirRevive
-"Revive the fallen Hero, Vardamir N limon"
+"Revive the fallen Hero, Vardamir Nolimon"
 END
 
 CONTROLBAR:NumenorVardamirHotkey
-"&Vardamir N limon"
+"&Vardamir Nolimon"
 END
 
 CONTROLBAR:VardamirWindrunner
@@ -91626,7 +91626,7 @@ CONTROLBAR:VardamirWindrunner
 END
 
 CONTROLBAR:ToolTipVardamirWindrunner
-"Vardamir runs like the wind \n For a short time, he moves 50% faster. \n Left-click to activate"
+"Requires: Level 3 \n Vardamir runs like the wind \n Vardamir dashes a short distance towards an enemy hero, stuning them for a brief moment. \n Left-click to activate"
 END
 
 CONTROLBAR:VardamirNolimon
@@ -91634,7 +91634,7 @@ CONTROLBAR:VardamirNolimon
 END
 
 CONTROLBAR:ToolTipVardamirNolimon
-"Requires: Level 4 \n Vardamir N limon reduces the cost of heroes 30%. \n Passive ability"
+"Vardamir through his years of study learned adaptability. Now each time he attacks he learns from the enemys fighting style.\n Attacking enemies grants Vardamir progressive more damage up to 50%. If he fights enough he will grain a special fighting prowess against monsters. \n Passive ability"
 END
 
 CONTROLBAR:VardamirRage
@@ -91642,7 +91642,7 @@ CONTROLBAR:VardamirRage
 END
 
 CONTROLBAR:ToolTipVardamirRage
-"Requires: Level 6 \n Vardamir gains a considerable increase in his attack. \n Left-click to activate"
+"Requires: Level 8 \n Vardamir gains a considerable increase in his attack. \n Left-click to activate"
 END
 
 CONTROLBAR:VardamirFavor
@@ -91650,7 +91650,7 @@ CONTROLBAR:VardamirFavor
 END
 
 CONTROLBAR:ToolTipVardamirFavor
-"Requires: Level 8 \n Grants armor bonus for all targeted units. \n Left click on the icon and then click the desired units"
+"Requires: Level 10 \n Grants armor especially effective against elemental attacks for all targeted units. \n Left click on the icon and then click the desired units"
 END
 
 CONTROLBAR:VardamirWisdom
@@ -91658,7 +91658,7 @@ CONTROLBAR:VardamirWisdom
 END
 
 CONTROLBAR:ToolTipVardamirWisdom
-"Requires: Level 10 \n Vardamir is knowledgeable the ancient scrolls of Elven magic \n As long as he remains on the battlefield, all Arnor Spellbook abilities cooldown 33% faster. \n Passive ability"
+"Requires: Level 5 \n Vardamir is knowledgeable the ancient scrolls of Elven magic. \n Vardamir summons a field of mud, which slows enemies by 50%. \n If some units get caught in the field after 30 seconds they will suffer massive damage. \n Passive ability"
 END
 
 
@@ -92059,15 +92059,15 @@ CONTROLBAR:EorlLeadership
 END
 
 CONTROLBAR:ToolTipEorlLeadership
-"All allied units around Eorl gain 100% armor, 50% more damage and fear resistance \n If Erol is close to death, all allied units gain 150% armor, 75% damage and fear and terror resistance \n Passive ability"
+"All allied units around Eorl gain 100% armor, 50% more damage and fear resistance \n If Eorl is close to death, all allied units gain 150% armor, 75% damage and fear and terror resistance \n Passive ability"
 END
 
 CONTROLBAR:EorlFelarof
-"Fela&r f"
+"Fela&rof"
 END
 
 CONTROLBAR:ToolTipEorlFelarof
-"Requires: Level 3 \n Eorl speaks to his horse Felar f ("Affliction of Man") to accelerate its march \n Eorl gains +30% speed \n Left-click to activate"
+"Requires: Level 3 \n Eorl speaks to his horse Felarof ("Affliction of Man") to accelerate its march \n Eorl gains +30% speed \n Left-click to activate"
 END
 
 CONTROLBAR:EorlDescendantofLeod
@@ -92079,7 +92079,7 @@ CONTROLBAR:ToolTipEorlDescendantofLeod
 END
 
 CONTROLBAR:EorlRevenge
-"The &Revenge of the  oth od"
+"The &Revenge of the Eotheod"
 END
 
 CONTROLBAR:ToolTipEorlRevenge
@@ -93510,7 +93510,7 @@ CONTROLBAR:ConstructDorthonionFortress
 END
 
 CONTROLBAR:ToolTipConstructDorthonionFortress
-"Military Structure \n Requires: Tol Galen Support \n Train Men from Tol Galen \n Gives gifts to Heroes and Units and provide various bonuses \n You can only build 1 Fortress in the same game"
+"Military Structure \n Requires: Army of the Past Ages \n Train Men from Tol Galen and eagles of Valinor \n You can only build 1 Fortress in the same game"
 END
 
 OBJECT:DorthonionFortress
@@ -108050,7 +108050,7 @@ CONTROLBAR:MonsterHunterArchersPassive
 END
 
 CONTROLBAR:TooltipMonsterHunterArchersPassive
-"Passive Ability \n These archers deal increased damage to Monsters"
+"Passive Ability: \n These archers deal increased damage to monsters"
 END
 
 OBJECT:SkeletonWarrior
@@ -109878,7 +109878,7 @@ CONTROLBAR:ConstructGondorBeaconExpansion
 END
 
 CONTROLBAR:ToolTipConstructGondorBeaconExpansion
-"Add 100 commandpoints \n The warning beacons of Gondor were an alarm system for the realm of Gondor"
+"Add 100 commandpoints \n The warning beacons of Gondor were an alarm system for the realm of Gondor \n Can recruit units from fiefdoms of Gondor"
 END
 
 OBJECT:GondorWatchHouseExpansion
