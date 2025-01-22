@@ -3928,6 +3928,10 @@ CONTROLBAR:TooltipSpellBookMorannonOrksNeu
 "Calls from the depths of Mordor Morannon Orcs to the field \n Variation (Need Army of the Past Ages): Also summons the orc Captains of Angband Dothrod and Balcmeg.\n Left-click on the icon and then click passable area"
 END
 
+UPGRADE:FavourArvedui
+"Favour of the last King of Arnor"
+END
+
 UPGRADE:GeschenkeLoriens
 "Gifts of Lothlorien"
 END
@@ -106848,11 +106852,11 @@ CONTROLBAR:ToolTipKnightShield
 END
 
 CONTROLBAR:PalaceReichtum
-"Palace Wellness"
+"Palace Wealth"
 END
 
 CONTROLBAR:TooltipPalaceReichtum
-"Requires: Level 6 \n Selected Structure gains a massive boost to the Economy, Units are produced 5 times as fast and Upgrades are researched 5 times as fast"
+"Requires: Level 7 \n Selected Structure gains a massive boost to economy, Units are produced 5 times as fast and Upgrades are researched 5 times as fast \n Can only be used on third age structures"
 END
 
 CONTROLBAR:ArgelebChargeofGlory
@@ -106860,7 +106864,71 @@ CONTROLBAR:ArgelebChargeofGlory
 END
 
 CONTROLBAR:ToolTipArgelebChargeofGlory
-"Requires: Level 8, Only available on foot.\n Argeleb inspires his allies with his leadership. Allied units near him gain 75% more Armor and Damage, and Cavalry units can trample enemies more effectively."
+"Requires: Level 9 \n Argeleb inspires his allies with his leadership. Allied units near him gain 75% more Armor and Damage, Cavalry units can trample enemies more effectively."
+END
+
+CONTROLBAR:ArgelebPreciseHit
+"Precise Hit"
+END
+
+CONTROLBAR:TooltipArgelebPreciseHit
+"Requires: Level 5 \n Argeleb orders a trebuchet to perform a precise hit on his target. A boulder will hit the designated target, dealing medium damage to units and knocking them back. The precise hit is effective against buildings, disabling them for 10 seconds \n Left-click on the icon and then click on the target"
+END
+
+CONTROLBAR:ArgelebInspiringLeader
+"Inspiring Leader"
+END
+
+CONTROLBAR:ToolTipArgelebInspiringLeader
+"In the dark days of the Siege of Arnor, Argeleb inspires his people the rally against the Witch King.  \n The Heroes and Troops of Arnor gather Experience twice as fast when fightin side by side with Argeleb. \n As the War against Angmar wages on, Argeleb prevails again and again, further earning the respect of his people. \n \n \n Left-click to switch palantirs"
+END
+
+CONTROLBAR:ArgelebDefender
+"Defender of Arnor"
+END
+
+CONTROLBAR:ToolTipArgelebDefender
+"In the dark days of the Siege of Arnor, Argeleb does not hesitate to pick up sword and shield in his rally against the Witch King.  \n The Heroes and Troops of Arnor gather Experience twice as fast when fightin side by side with Argeleb. \n As the War against Angmar wages on, Argeleb prevails again and again, further improving his skills as fighter and regent. \n \n \n Left-click to switch palantirs"
+END
+
+CONTROLBAR:ArgelebCourage
+"A light in the darkness"
+END
+
+CONTROLBAR:ToolTipArgelebCourage
+"Requires: Level 3 \n When Argeleb fought Angmar, he and his fellow soldiers had to conquer their fear. It was their first step and only hope if they were to prevail the coming siege. \n Soldiers of Arnor fighting alongside Argeleb are resistant to fear and terror."
+END
+
+CONTROLBAR:ArgelebCounterAttack
+"Counter Attack"
+END
+
+CONTROLBAR:ToolTipArgelebCounterAttack
+"Requires: Level 5 \n The War against Angmar seemed ever lasting and while there seemed to be no help from Gondor, Argeleb realised that this war cannot be only won in defense. Argeleb started a campaign to retake enemy territory long lost. Together with his army, his attack was swift \n Nearby Soldiers of Arnor gain +33% Attack Damage"
+END
+
+CONTROLBAR:ArgelebSteadfast
+"Steadfast"
+END
+
+CONTROLBAR:ToolTipArgelebSteadfast
+"Requires: Level 10 \n By swiftly striking down the attempt to retake Rhudaur, the Witch King showed Argeleb that every lost city, every lost town is impossible to free from the iron grip of Angmar. However instead of breaking his will, he only strengthened Argelebs resolve. He is willing to give it all to prevent even losing one more field to Angmar \n The Army of Arnor holds their ground, resisting knock back"
+END
+
+CONTROLBAR:ArgelebBaneofWK
+"Bane of the Witch King"
+END
+
+CONTROLBAR:ToolTipArgelebBaneofWK
+"Requires: Level 7 \n After many decades of war against the forces of Angmar, in his old age Argeleb realises his folly and now sees the key to Angmar defeat. Hopefully not to late, he tries to turn the tide \n Seeing through the Witch Kings tricks, Arnor units near Argeleb gain +25% armor against spells and magic"
+END
+
+CONTROLBAR:ArgelebArmorUpgrade
+"Royal gift"
+END
+
+CONTROLBAR:ToolTipArgelebArmorUpgrade
+"Requires: Favour of the last King \n For his bravery in battle, Argeleb receives improved armor."
 END
 
 CONTROLBAR:SuladanChargeofGlory
