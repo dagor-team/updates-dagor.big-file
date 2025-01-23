@@ -18139,6 +18139,14 @@ CONTROLBAR:ImrahilElbischesBlut
 "Elven Bloodline"
 END
 
+CONTROLBAR:WitchKingBlightGrenade
+"Blight Grenade"
+END
+
+CONTROLBAR:ToolTipWitchKingBlightGrenade
+"Requires: Level 3 \n The Witch-king throws a blight grenade into a chosen area dealing damage over time and slowing enemy units \n Left-click on the selected area"
+END
+
 CONTROLBAR:SpecialAbilityGrausamerAnsturm
 "Cruel Rush"
 END
