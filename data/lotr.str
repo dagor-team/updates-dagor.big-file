@@ -1451,7 +1451,7 @@ CONTROLBAR:ElendilTheTall
 End
 
 CONTROLBAR:ToolTipElendilTheTall
-"Elendil does a meta aoe attack on the selected target"
+"Elendil does a meta aoe attack on the selected target \n Left-click on a selected enemy unit"
 End
 
 CONTROLBAR:HelmSlam
@@ -6802,7 +6802,7 @@ CONTROLBAR:SpecialAbilityGesetzderStarke
 END
 
 CONTROLBAR:ToolTipSpecialAbilityGesetzderStarke
-"Requires: Level 10 \n Only the strong are worthy to serve under Mornamarth \n All Black Numenorians near him take medium damage \n Only those who already have experience in combat or were chosen by Mornamarth survive his judgment, doubling their blows, earning +33% speed and invulnerability to all non-magical damage \n Monsters, Thralls and the Black Guard are not affected because Mornamarth has no command over them \n Left click to activate"
+"Requires: Level 7 \n Only the strong are worthy to serve under Mornamarth \n All Black Numenorians near him take medium damage \n Only those who already have experience in combat or were chosen by Mornamarth survive his judgment, doubling their blows, earning +33% speed and invulnerability to all non-magical damage \n Monsters, Thralls and the Black Guard are not affected because Mornamarth has no command over them \n Left click to activate"
 END
 
 OBJECT:IsengardDeserteure
@@ -8199,11 +8199,11 @@ CONTROLBAR:ToolTipSpecialAbilityThranduilSchildwall
 END
 
 CONTROLBAR:SpecialAbilityFesteDusterwalds
-"Feasts of &Mirkwood"
+"Feasts of &Starlight"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityFesteDusterwalds
-"Requires: Level 10 \n Thranduil gives orders to begin a special festival, creating a fairground at the target area.\n The festival heals allies in a wide radius and gives 30 command points, but it will vanish instantly if enemies get near.\n Only 1 fairground may be on the battlefield at a time.\n Left-click on the target area"
+"Requires: Level 10 \n Feast of Starlight begins and the Mirkwood elves celebrate this special occasion with a festival in the woods, beneath the stars. \n Tauriel creates a fairground at the target area.\n The festival heals allies in a wide radius and gives 30 command points, but it will vanish instantly if enemies get near.\n Only 1 fairground may be on the battlefield at a time.\n Left-click on the target area"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityDieSpeereDusterwalds
@@ -15412,7 +15412,7 @@ CONTROLBAR:SmaugDrachenhort
 END
 
 CONTROLBAR:ToolTipSmaugDrachenhort
-"Smaug lands and becomes a temporary Dragon Nest \n At this point, he can not be moved and produces lasting a considerable yield of raw \n Smaug can act there skills and level up by the services yield the raw \n Left-click on the desired landing area"
+"Requires: Level 5 \n Smaug's hoarded treasures come to the creatures of the Misty Mountains\n Selected troops receive Scavanged Armor and upgrades to their basic weapons \n Left-click on the desired destinations"
 END
 
 CONTROLBAR:TerrordesNebelgebirges
@@ -16688,7 +16688,7 @@ CONTROLBAR:VerdorbeneMagieAngmars
 END
 
 CONTROLBAR:ToolTipVerdorbeneMagieAngmars
-"By the Silmaril grows the kingdom of Angmar, drenching the soil with corrupted ice.\n in the depths of Middle-earth, the Witch-king awakens a creature of the Old World, ready to freeze all in its path.\n Left-click on the desired destination area"
+"Requires: Level 10 \n Witch with his foul sorcery empowered by ruining the kingdom of Arnor awakens a creature of the Old world from the depths of Middle-earth, ready to freeze all in its path.\n Left-click on the desired destination area"
 END
 
 CONTROLBAR:TooltipAngmarHexenkonigTerribleFury
@@ -17617,6 +17617,14 @@ END
 
 CONTROLBAR:ToolTipEomerRittderExilante
 "Requires: Level 8 \n Eomer and his Rohirrim come to the king in his greatest need to save Rohan, \n signaling them to trample down the selected area \n Only available while mounted \n Left-click on the desired destination area"
+END
+
+CONTROLBAR:ReiterdesRegenwaldes
+"Desperate Breakthrough"
+END
+
+CONTROLBAR:ToolTipReiterdesRegenwaldes
+"Requires: Level 10 \n Thranduil orders his elk riders to breakthrough the ork hordes attacking the Dale, so that his elves can help in the defense of the city. \n Elven elk riders charge through enemy lines dealing massive damage to archers and non pike infantry. \n Left-click on a target area"
 END
 
 UPGRADE:SummonHelmHammerhand
@@ -23243,7 +23251,7 @@ CONTROLBAR:ToolTipConstructThorinTower
 END
 
 CONTROLBAR:ToolTipSauronsStorm
-"Requires: Level 7 \n Sauron evokes powerful lightning on the battlefield \n Left click on the desired destination area"
+"Requires: Level 13 \n Sauron evokes powerful lightning on the battlefield craking the ground underneath it \n Left click on the desired destination area"
 END
 
 CONTROLBAR:ToolTipBuildGondorRangerHordeMod
@@ -27132,7 +27140,7 @@ CONTROLBAR:KankraNetz
 END
 
 CONTROLBAR:ToolTipKankraNetz
-"The giant spider of Cirith Ungol captures enemy units with her spider webs \n Affected units are unable to move for a while \n Not applicable to flying units \n Left-click on the desired destination"
+"Requires: Level 6 \n The giant spider of Cirith Ungol captures enemy units with her spider webs \n Affected units are unable to move for a while \n Not applicable to flying units \n Left-click on the desired destination"END
 END
 
 CONTROLBAR:ToolTipGothmogEliteOrks
@@ -37742,10 +37750,6 @@ OBJECT:MordorCavalry
 "Haradrim Lancers"
 END
 
-OBJECT:MordorCaveTroll
-"Cave Troll"
-END
-
 OBJECT:MordorHaradrimOverlord
 "Haradrim prince"
 END
@@ -42907,10 +42911,6 @@ CONTROLBAR:ConstructMordorEasterlingHorde
 "&Easterlings"
 END
 
-CONTROLBAR:ConstructMordorCaveTroll
-"Cave &Troll"
-END
-
 CONTROLBAR:ConstructMordorSiegeTower
 "Mordor Siege &Tower"
 END
@@ -42953,10 +42953,6 @@ END
 
 CONTROLBAR:ToolTipBuildMordorTributeCart
 "For the bribery of opponents"
-END
-
-CONTROLBAR:ToolTipBuildMordorCaveTroll
-"Strong vs: Sword Warrior and Building"
 END
 
 CONTROLBAR:ToolTipBuildMordorSiegeTower
@@ -56058,7 +56054,7 @@ CONTROLBAR:ConstructRohanRohirrimArcherHorde
 END
 
 CONTROLBAR:ToolTipBuildRohanRohirrimArcherHorde
-"Requires: Rohan Stables Level 2 \n Unit Type: Cavalry Archer \n Strong at Range \n You can only build 6 Rohirrim Archers"
+"Requires: Rohan Stables Level 2 \n Unit Type: Cavalry Archer \n Strong at Range \n You can maintain only 4 at a time"
 END
 
 BANNERUI:RohanRohirrimArcher
@@ -56159,7 +56155,7 @@ CONTROLBAR:ConstructRohanRoyalGuardInfatryHorde
 END
 
 CONTROLBAR:ToolTipBuildRohanRoyalGuardInfatry_For
-"Requires: Glory of the King \n Unit Type: Elite Archer \n Strong vs: Depending on the situation \n Can switch between Sword and Bow \n You can only train 4 battalions"
+"Requires: Glory of the King \n Unit Type: Elite Archer \n Strong vs: Depending on the situation \n Can switch between Sword and Bow \n You can only train 6 battalions"
 END
 
 CONTROLBAR:ToolTipBuildRohanRoyalGuardInfatry
@@ -86233,7 +86229,7 @@ CONTROLBAR:ToolTipBuildAngmarBarracksLevel3Upgrade
 END
 
 CONTROLBAR:TooltipNecromancerDeathMask
-"Requires: Level 4 \n Nearby Enemy Units suffer -25% damage. \n Passive Ability"
+"Requires: Level 2 \n Nearby Enemy Units suffer -25% damage. \n Passive Ability"
 END
 
 CONTROLBAR:AngmarRogashRecruit
@@ -86983,32 +86979,8 @@ OBJECT:HohlenBar
 "Cave Bear"
 END
 
-CONTROLBAR:ConstructIsengardWargPack
-"Warg &Pack"
-END
-
-CONTROLBAR:ToolTipBuildIsengardWargPack
-"Strong vs. Swordsmen and Archers"
-END
-
 OBJECT:IsengardWargPack
 "Warg"
-END
-
-OBJECT:HordeIsengardWargPack
-"Warg Pack"
-END
-
-CONTROLBAR:LW_Unit_IsengardWargPackHorde
-"Warg Pack"
-END
-
-CONTROLBAR:LW_Unit_IsengardWargPackHordePlural
-"Warg Packs"
-END
-
-CONTROLBAR:LW_ToolTip_IsengardWargPackHorde
-"\nUnit Type: Basic Cavalry \n Strong vs. Swordsmen and Archers"
 END
 
 CONTROLBAR:ToolTipCaptDaleLeadership
@@ -87061,6 +87033,82 @@ END
 
 OBJECT:RivendellArchers
 "Lindon Horse Archer"
+END
+
+CONTROLBAR:SpecialAbilityUnaufhaltsameKrieger
+"&Unstoppable Warriors"
+END
+
+CONTROLBAR:ToolTipSpecialAbilityUnaufhaltsameKrieger
+"Veterans of the Last Alliance thanks to their elven prowess are able to leave any carve a retreat route out of any combat.\n Left-click to activate"
+END
+
+CONTROLBAR:SmaugBreathFlame
+"Firestorm"
+END
+
+CONTROLBAR:ToolTipBuildWildZuchtdracheOld
+"Unit Type: Elite Monster \n Strong vs: Infantry and Cavalry \n You can maintain only 3 units at a time"
+END
+
+CONTROLBAR:ToolTipBuildAngmarNumEliteHorde
+"Requires: Chambers of the Black Guard and Zaphragor recruited \n Unit Type: Elite Infantry \n Strong vs: Infantry and Heroes \n You can maintain only 4 at a time"
+END
+
+CONTROLBAR:ToolTipBuildAngmarSchwarzeRitterHorde
+"Requires: Chambers of the Black Guard and Zaphragor recruited \n Unit Type: Elite Cavalry \n Strong vs: Cavalry and Monsters \n You can maintain only 4 at a time"
+END
+
+CONTROLBAR:LW_ToolTipBuild_WildZuchtdracheBaby
+"Unit Type: Regular Monster \n Strong vs: Infantry and Cavalry \n You can only train 3 units"
+END
+
+CONTROLBAR:ToolTipBuildWildZuchtdracheBaby_Neu
+"Unit Type: Regular Monster \n Strong vs: Infantry and Cavalry \n You can only train 3 units"
+END
+
+CONTROLBAR:ConstructWildZuchtdrache
+"&Breed Dragon"
+END
+
+CONTROLBAR:ToolTipBuildWildZuchtdrache
+"Unit Type: Advanced Monster \n Strong vs: Infantry and Cavalry \n You can maintain only 3 units at a time"
+END
+
+CONTROLBAR:ConstructWildZuchtdracheOld
+"Grown &Breed Dragon"
+END
+
+CONTROLBAR:LW_ToolTip_BeorningerBear
+"\nUnit Type: Basic Monster \n Strong vs. Swordsmen and Archers""
+END
+
+CONTROLBAR:SarumanBlessed
+"Blessed by the Valar"
+END
+
+CONTROLBAR:PurchaseUpgradeSarumanBlessed
+"Blessed by the Valar"
+END
+
+CONTROLBAR:ToolTipPurchaseUpgradeSarumanBlessed
+"Saruman gets the blessing of the Valars to carry the silmaril, gaining greater knowledge of nature and its elements \n His control over light and electricity is now vast and he can use it at will"
+END
+
+CONTROLBAR:SarumanFire
+"Cursed by the Valar"
+END
+
+CONTROLBAR:PurchaseUpgradeSarumanFire
+"Cursed by the Valar"
+END
+
+CONTROLBAR:ToolTipPurchaseUpgradeSarumanFire
+"Saruman, by accepting the power of the silmaril gets cursed by the Valars becoming the Lord of fire and anguish \n His skills of control over the fiery element grow exponentially and he is capable of using it in many ways"
+END
+
+CONTROLBAR:TooltipSmaugBreathFlame
+"Requires Level 4 \n Firestorm created by Smaug?s raging attacks set aflame a huge area dealing massive damage to both units and building"
 END
 
 CONTROLBAR:BuildElvenRivendellArchers
@@ -90053,10 +90101,6 @@ END
 
 OBJECT:GondorEarnurRevive
 "Revive the fallen hero, Earnur"
-END
-
-BANNERUI:IsengardWargPack
-"Warg Pack"
 END
 
 OBJECT:NoldorFeanor
@@ -104852,7 +104896,7 @@ CONTROLBAR:SmaugBreath
 END
 
 CONTROLBAR:TooltipSmaugBreath
-"Requires Level 10 \n The Selected area will be burned by Smaug \n Very effective against units"
+"Requires Level 2 \n Bilbos chat with the king under the mountain lead to Smaug chasing him and Thorins company through the halls of Erebor continuously breathing flames resembling beams of fiery death"
 END
 
 CONTROLBAR:SmaugWings
