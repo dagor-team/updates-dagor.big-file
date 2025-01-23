@@ -45,9 +45,9 @@
  
 ; #define GOOD_ELITE_TRIO 
 
-#define GOOD_CHEAP_CHAMPION LothlorienTierflusterer LothlorienTierflusterer_NachRing LothlorienHeiler NogrodSmite
+#define GOOD_CHEAP_CHAMPION LothlorienTierflusterer LothlorienTierflusterer_NachRing LothlorienHeiler 
 
-#define GOOD_REGULAR_CHAMPION DwarvenEredMithrinDragonSlayer ImladrisElbenfuerst TaniquetilCaptian 
+#define GOOD_REGULAR_CHAMPION DwarvenEredMithrinDragonSlayer ImladrisElbenfuerst TaniquetilCaptian NogrodSmite
 
 #define GOOD_FIRST_AGE_REGULAR RohanHelmAxeGuardPeasant RohanHelmAxeGuardPeasantHorde GondolinWarrior GondolinWarriorHorde GondolinArcher GondolinArcherHorde GondolinGuard GondolinGuardHorde GondolinGuardHordeShieldWall GondolinBanner 
 
