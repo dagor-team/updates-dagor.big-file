@@ -934,3 +934,17 @@ CommandButton Command_DiplomacyGimli
   InPalantir            = Yes
   AutoAbility            = Yes
 End
+
+CommandButton Command_ArveduiFavour
+  Command                     = SPECIAL_POWER
+  SpecialPower                = SpecialAbilityArveduiFavour
+  Options                     = NEED_TARGET_ALLY_OBJECT
+  TextLabel                   = CONTROLBAR:SpecialAbilityGimliDiplomacy
+  CursorName                  = Defector
+  InvalidCursorName           = GenericInvalid
+  ButtonImage                 = UCCommon_ArnorFaction
+  ButtonBorderType            = ACTION
+  DescriptLabel               = CONTROLBAR:ToolTipSpecialAbilityGimliDiplomacy
+  InPalantir            = Yes
+  AutoAbility            = Yes
+End
