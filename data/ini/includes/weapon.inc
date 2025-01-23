@@ -430,8 +430,68 @@ Weapon ArveduiFavourPingWeaponWarhead
     HitStoredTarget            = Yes
 
     AttributeModifierNugget
-           AttributeModifier   = GimliDiplomacyUpgrade
+           AttributeModifier   = FavourArveduiUpgrade
            DamageFXType     = EVIL_ARROW_PIERCE
-           SpecialObjectFilter  = ANY +DwarfBarracks_Dain_Summoned +DwarfBarracks_Dain ALLIES
+           SpecialObjectFilter  = ARNOR_LEADERSHIP_HEROES_OBF
+           Radius        = 10.0
+    End
+End
+
+
+Weapon AraphantAbwehrPingWeapon
+    AttackRange        = 200
+    RangeBonusMinHeight     = 30
+    RangeBonus        = 1
+    RangeBonusPerFoot    = #MULTIPLY( 200 .003 )
+    WeaponSpeed        = 1000
+    MinWeaponSpeed        = 121
+    MaxWeaponSpeed        = 400
+    FireFX            = FX_OriFXSoundRunen
+    ScaleWeaponSpeed    = Yes
+    HitPercentage        = 100
+    ScatterRadius        = 0.0
+    DelayBetweenShots    = 1100
+    PreAttackDelay        = 1
+    PreAttackType        = PER_SHOT
+    FiringDuration        = 1000
+    IdleAfterFiringDelay    = 1000
+    AntiAirborneVehicle    = Yes
+    AntiAirborneMonster    = Yes
+
+    ProjectileNugget
+        ProjectileTemplateName  = EdainInvisibleProjectile
+        WarheadTemplateName     = AraphantAbwehrPingWeaponWarhead
+    End
+
+    ProjectileNugget
+        ProjectileTemplateName  = EdainInvisibleProjectile
+        WarheadTemplateName     = AraphantAbwehrFavourPingWeaponWarhead
+        RequiredUpgradeNames    = Upgrade_FavourArvedui
+    End
+End
+
+Weapon AraphantAbwehrFavourPingWeaponWarhead
+    ProjectileCollidesWith     = ALLIES
+    RadiusDamageAffects        = ALLIES
+    HitStoredTarget            = Yes
+
+    AttributeModifierNugget
+           AttributeModifier   = BonusFavourAbwehstrategie
+           DamageFXType     = EVIL_ARROW_PIERCE
+           SpecialObjectFilter  = ANY +STRUCTURE -COMMANDCENTER -HERO -INFANTRY -CAVALRY SAME_PLAYER
+           Radius        = 10.0
+    End
+End
+
+Weapon AraphantAbwehrPingWeaponWarhead
+    ProjectileCollidesWith     = ALLIES
+    RadiusDamageAffects        = ALLIES
+    HitStoredTarget            = Yes
+
+    AttributeModifierNugget
+           AttributeModifier   = BonusAbwehstrategie
+           DamageFXType     = EVIL_ARROW_PIERCE
+           SpecialObjectFilter  = ANY +STRUCTURE -COMMANDCENTER -HERO -INFANTRY -CAVALRY SAME_PLAYER
+           Radius        = 10.0
     End
 End
