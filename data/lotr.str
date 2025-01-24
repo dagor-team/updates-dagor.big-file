@@ -18139,6 +18139,14 @@ CONTROLBAR:ImrahilElbischesBlut
 "Elven Bloodline"
 END
 
+CONTROLBAR:WitchKingBlightGrenade
+"Blight Grenade"
+END
+
+CONTROLBAR:ToolTipWitchKingBlightGrenade
+"Requires: Level 3 \n The Witch-king throws a blight grenade into a chosen area dealing damage over time and slowing enemy units \n Left-click on the selected area"
+END
+
 CONTROLBAR:SpecialAbilityGrausamerAnsturm
 "Cruel Rush"
 END
@@ -54552,15 +54560,7 @@ CONTROLBAR:ConstructGondorBoromirGuardHorde
 END
 
 CONTROLBAR:ToolTipBuildGondorBoromirGuardHorde
-"Requires: Ivory Tower \n Unit Type: Elite Infantry \n Strong vs: Heroes \n You can only train 3 battalions"
-END
-
-CONTROLBAR:ToolTipBuildGondorBoromirGuardHorde_Keep
-"Unit Type: Elite Infantry \n Strong vs: Heroes \n You can only train 3 battalions"
-END
-
-CONTROLBAR:ToolTipBuildGondorBoromirGuardHorde_forArnor
-"Unit Type: Elite Infantry \n Strong vs: Heroes \n You can only train 3 battalions"
+"Requires: Ivory Tower \n Unit Type: Elite Infantry \n Strong vs: Heroes \n You can only maintain 1 battaillon at a time."
 END
 
 BANNERUI:GondorBoromirGuard
@@ -57132,7 +57132,7 @@ CONTROLBAR:ConstructLothlorienSangerinnen
 END
 
 CONTROLBAR:ToolTipBuildLothlorienSangerinnen
-"Requires: Lothlorien Barracks Level 2 \n Unit Type: Support \n Strong at supporting your own units \n You can only train 6 Lothlorien Singers"
+"Requires: Lothlorien Barracks Level 2 \n Unit Type: Support \n Strong at supporting your own units \n You can only maintain 2 Lothlorien Singers at a time"
 END
 
 BANNERUI:LothlorienSangerinnen
@@ -68964,7 +68964,7 @@ CONTROLBAR:ConstructAngmarNecromancerHorde
 END
 
 CONTROLBAR:TooltipBuildAngmarNecromancerHorde
-"Unit Type: Magic Support \n Strong at Ranged"
+"Unit Type: Magic Support \n Strong at Ranged \n You can maintain only 3 battaillons at a time"
 END
 
 BANNERUI:AngmarNecromancer
@@ -91646,11 +91646,11 @@ END
 
 
 OBJECT:NumenorVardamir
-"Vardamir N limon"
+"Vardamir Nolimon"
 END
 
 CONTROLBAR:LW_Hero_NumenorVardamir
-"Vardamir N limon"
+"Vardamir Nolimon"
 END
 
 CONTROLBAR:LW_ToolTipBuild_NumenorVardamir
@@ -91678,7 +91678,7 @@ CONTROLBAR:ToolTipVardamirWindrunner
 END
 
 CONTROLBAR:VardamirNolimon
-"Men of Knowledge"
+"Learned Leader"
 END
 
 CONTROLBAR:ToolTipVardamirNolimon
@@ -91706,7 +91706,7 @@ CONTROLBAR:VardamirWisdom
 END
 
 CONTROLBAR:ToolTipVardamirWisdom
-"Requires: Level 5 \n Vardamir is knowledgeable the ancient scrolls of Elven magic. \n Vardamir summons a field of mud, which slows enemies by 50%. \n If some units get caught in the field after 30 seconds they will suffer massive damage. \n Passive ability"
+"Requires: Level 5 \n Vardamir is knowledgeable in the ancient scrolls of Elven magic. \n Vardamir summons a field of mud, which renders enemies unable to move for 20 seconds. \n If some units get caught in the field after 30 seconds they will suffer massive damage. \n Passive ability"
 END
 
 
@@ -91723,7 +91723,7 @@ CONTROLBAR:LW_ToolTipBuild_NumenorTindomiel
 END
 
 CONTROLBAR:NumenorTindomielRecruit
-"Recruit the princes of Numenor, daughter of Elros \n \n Lore: \n Tindomiel was the second child and only daughter of Elros Tar-Minyatur, Half-elven and the first King of Numenor. Tindomiel was born after SA 61 and was the sister of Manwendil, Atanalcar, and the short reigning king Vardamir N limon. Nothing else is known of her life or whether she married and had children or not. The name Tindomiel means "Morning Star" from the Quenyan tindome ("twilight of dawn") and el ("star"). It may also mean "Daughter of Twilight" from the feminine suffix -iel."
+"Recruit the princes of Numenor, daughter of Elros \n \n Lore: \n Tindomiel was the second child and only daughter of Elros Tar-Minyatur, Half-elven and the first King of Numenor. Tindomiel was born after SA 61 and was the sister of Manwendil, Atanalcar, and the short reigning king Vardamir Nolimon. Nothing else is known of her life or whether she married and had children or not. The name Tindomiel means "Morning Star" from the Quenyan tindome ("twilight of dawn") and el ("star"). It may also mean "Daughter of Twilight" from the feminine suffix -iel."
 END
 
 CONTROLBAR:NumenorTindomielRevive
@@ -91731,7 +91731,7 @@ CONTROLBAR:NumenorTindomielRevive
 END
 
 CONTROLBAR:NumenorTindomielHotkey
-"Tin&d miel"
+"Tin&domiel"
 END
 
 CONTROLBAR:TindomielHeal
