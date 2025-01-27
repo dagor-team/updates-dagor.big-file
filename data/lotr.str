@@ -4762,7 +4762,7 @@ CONTROLBAR:AranarthKonigskraut
 END
 
 CONTROLBAR:ToolTipAranarthKonigskraut
-"Requires: Level 7 \n As the leader of the Dunedain, Aranarth discovered the curative effect of Athelas \n Nearby heroes will be healed \n Left-click to activate"
+"Requires: Level 7 \n As the leader of the Dunedain, Aranarth discovered the curative effect of Athelas \n Nearby heroes will be healed \n\n If given the favor of Arvedui, nearby heroes will be healed fully \n Left-click to activate"
 END
 
 UPGRADE:PrinzArnorsUpgrade
@@ -21493,11 +21493,11 @@ CONTROLBAR:ToolTipLeibwachendesFurstenNew
 END
 
 CONTROLBAR:ToolTipConstructGondorCastleKeep
-"Gain acces to Gondor elites and Denethor"
+"Gain acces to Gondor elite units and Denethor"
 END
 
 CONTROLBAR:ConstructGondorCastleKeep
-"Construct the white tower"
+"Construct the Gondor citadel"
 END
 
 CONTROLBAR:ToolTipGondorBuildStoneMakerMod
@@ -37922,6 +37922,14 @@ OBJECT:GondorWhiteTower
 "White Tower"
 END
 
+OBJECT:MinasTirithCitadel
+"Citadel Of Minas Tirith"
+END
+
+OBJECT:MinasTirithCitadelDescription
+"Military Structure \n Allows training elite units of Gondor \n Summons Denethor"
+END
+
 OBJECT:GondorCampKeep
 "Citadel"
 END
@@ -41903,10 +41911,6 @@ CONTROLBAR:ConstructGondorWatchTower
 "Build &Watch Tower"
 END
 
-CONTROLBAR:ConstructGondorWhiteTower
-"Build Gondor W&hite Tower"
-END
-
 CONTROLBAR:ConstructGondorMarketPlace
 "Build &Marketplace"
 END
@@ -44101,6 +44105,14 @@ END
 
 CONTROLBAR:ToolTipToggleShieldWallFormation
 "+50% armor \n -75% speed"
+END
+
+CONTROLBAR:ToggleEngageLineFormation
+"Engage Line For&mation"
+END
+
+CONTROLBAR:ToolTipToggleEngageLineFormation
+"100% resources per kill \n 20% speed"
 END
 
 CONTROLBAR:ToggleLooseFormation
@@ -53858,7 +53870,7 @@ TOOLTIP:GondorBasicTraining
 END
 
 TOOLTIP:LackGondorBasicTraining
-"Research at Blacksmith to enable this upgrade \n Upgrade this battalion at level 2 \n Can only upgrade battalions at Level 1"
+"Research at Blacksmith to enable this upgrade \n Upgrade this battalion to level 2 \n Can only upgrade battalions at Level 1"
 END
 
 
@@ -64808,7 +64820,7 @@ CONTROLBAR:PurchaseTechnologyUrukHaiShields
 END
 
 CONTROLBAR:ToolTipPurchaseTechnologyUrukHaiShields
-"Requires: Uruk Pit Level 2 \n Unit Type: Support Infantry \n You can combine them with the Uruk-hai Warriors, Pikemen and Crossbows. \n Once combined Uruk pikemen gain 30% resistance against archers\n Uruk warriors gain 10% speed and 20% armor\n Uruk crossbows gain 10% damage and armor"
+"Requires: Uruk Pit Level 2 \n Enables the Shield uruks upgrade \n You can combine them with the Uruk-hai Warriors, Pikemen and Crossbows. \n Once combined: \n Uruk pikemen gain 30% resistance against archers\n Uruk warriors gain 10% speed and 20% armor\n Uruk crossbows gain 10% damage and armor \n Left-click to purchase"
 END
 
 CONTROLBAR:PurchaseUrukHaiShields
@@ -64816,7 +64828,7 @@ CONTROLBAR:PurchaseUrukHaiShields
 END
 
 CONTROLBAR:ToolTipPurchaseUrukHaiShields
-"Requires: Uruk-hai Shield Bearers Technology \n Unit Type: Support Infantry \n You can combine them with the Uruk-hai Warriors, Pikemen and Crossbows. \n Once combined Uruk pikemen gain 30% resistance against archers\n Uruk warriors gain 10% speed and 20% armor\n Uruk crossbows gain 10% damage and armor"
+"Requires: Uruk-hai Shield Bearers Technology \n Unit Type: Support Infantry \n You can combine them with the Uruk-hai Warriors, Pikemen and Crossbows. \n Once combined Uruk pikemen gain 30% resistance against archers\n Uruk warriors gain 10% speed and 20% armor\n Uruk crossbows gain 10% damage and armor \n Left-click to purchase"
 END
 
 BANNERUI:IsengardShielduruk
@@ -91686,7 +91698,7 @@ CONTROLBAR:VardamirNolimon
 END
 
 CONTROLBAR:ToolTipVardamirNolimon
-"Vardamir through his years of study learned adaptability. Now each time he attacks he learns from the enemys fighting style.\n Attacking enemies grants Vardamir progressive more damage up to 50%. If he fights enough he will grain a special fighting prowess against monsters. \n Passive ability"
+"Vardamir through his years of study learned adaptability. Now each time he attacks he learns from the enemys fighting style.\n Attacking enemies grants Vardamir progressively more damage up to 50%. \n Passive ability"
 END
 
 CONTROLBAR:VardamirRage
@@ -91747,11 +91759,11 @@ CONTROLBAR:ToolTipTindomielHeal
 END
 
 CONTROLBAR:TindomielBeauty
-"The Beaut&y of Tindomiel"
+"Battle Cry"
 END
 
 CONTROLBAR:ToolTipTindomielBeauty
-"Requires: Level 5 \n Only on foot \n The grace and beauty of Tindomiel is shown to friend and foe \n All allies and enemies in the vicinity can not be attacked or attack themselves and are paralyzed \n Should Tindomiel leave the scene of the fight, the effect is finished\n All units outside the radius are not affected\n During the duration of the ability, Tindomiel is also unable to attack or be attacked\n Left-click to activate"
+"Requires: Level 5 \n Only on foot \n The grace and beauty of Tindomiel is recognized by friend and foe alike. But when the situation demands it Tindomiel becomes a fierce shield maiden. \n \n Tindomiel lets out a battle cry improving the morale of numenorian soldiers in the vicinity. \n Numenorian pikes gain 40% speed \n Numenorian warriors gain 25% armor \n Numenorian crossbowmen form in a fire line gaining resources per kill \n Left-click to activate"
 END
 
 CONTROLBAR:TindomielProtection
