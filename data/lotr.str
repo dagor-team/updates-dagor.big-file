@@ -18767,6 +18767,10 @@ CONTROLBAR:ToolTipCirdanRingNarya
 "Requires: Level 3 \n Cirdan uses the hidden powers of the ring Narya and kindles the fire in the hearts of his fellow warriors \n Lindon units near Cirdan receive +33% armor, +33% attack, and are fear resistant \n Passive ability"
 END
 
+CONTROLBAR:ToolTipCirdanRingNaryaFavour
+"Requires: Level 3 \n Cirdan is well respected in the besieged kingdom of Arnor and uses the hidden powers of the ring Narya to kindle the fire in the hearts of his fellow warriors \n Lindon units near Cirdan receive +50% armor, +50% attack, and are fear resistant \n Passive ability"
+END
+
 CONTROLBAR:ToolTipSamBratpfanne
 "Sam knocks any enemy down with his frying pan \n Left-click on the desired destination"
 END
