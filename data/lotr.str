@@ -27538,7 +27538,7 @@ CONTROLBAR:GilgaladAeglosSnow
 END
 
 CONTROLBAR:TooltipGilgaladAeglosSnow
-"Requires: Level 2 \n Gil-Galad Thrusts his Aeglos doing Aoe damage and debuffing enimies damageAeglos slow \n Left click on enemy target unit"
+"Requires: Level 2 \n Gil-Galad Thrusts his spear Aeglos dealing  damage and debuffing enimies in an area \n Left click on enemy target unit"
 END
 
 CONTROLBAR:GilgaladsBodyguards
@@ -27546,7 +27546,7 @@ CONTROLBAR:GilgaladsBodyguards
 END
 
 CONTROLBAR:ToolTipGilgaladsBodyguards
-"Requires: Level 4 \n  Gilgalads calls forth to his personal bodyguards to aid him in battle \n Left click activate"
+"Requires: Level 3 \n  Gilgalads calls forth to his personal bodyguards to aid him in battle \n Left click activate"
 END
 
 CONTROLBAR:GilgaladsWordofPower
@@ -27554,7 +27554,7 @@ CONTROLBAR:GilgaladsWordofPower
 END
 
 CONTROLBAR:ToolTipGilgaladsWordofPower
-"Requires: Level 6 \n Gil-Galad using the star on his shield to stun enimies. \n Requires: Level 10 \n Gil-Galad using power of the Vilya to summon waves of wind. \n Requires: Level 15 \n Gil-Galad using power of the Vilya, his shield, and Aeglos for one big blast. \n Left click activate"
+"Requires: Level 10 \n Gil-Galad uses the star on his shield to stun enimies and waves of wind. \n Requires: Level 10 \n Gil-Galad using power of the Vilya to summon waves of wind. \n Requires: Level 15 \n Gil-Galad uses the power of Vilya, his shield, and Aeglos for one big blast. \n Left click activate"
 END
 
 CONTROLBAR:GilgaladVilya
@@ -27562,7 +27562,7 @@ CONTROLBAR:GilgaladVilya
 END
 
 CONTROLBAR:ToolTipGilgaladVilya
-"Requires: Level 8 \n Gil-Galad uses the hidden power of the ring Vilya \n Especially effective against Ringwraiths \n Left click on enemy target unit"
+"Requires: Level 8 \n Gil-Galad uses the hidden power of the ring Vilya  \n Left click on enemy target unit"
 END
 
 CONTROLBAR:Sternenschild
@@ -110342,11 +110342,11 @@ OBJECT:Ogre
 END
 
 CONTROLBAR:ConstructOgre
-"&Ogre"
+"&Ogre Group"
 END
 
 CONTROLBAR:ToolTipConstructOgre
-"Small Monster Unit \n Strong vs. Infantry and Heroes \n Weak vs. Archers \n Maximum: 8 \n Autoheals by level 2"
+"Small Monster Horde \n Strong vs. Melee Infantry \n Weak vs Archers \n Autoheals by level 2"
 END
 
 CONTROLBAR:OgreCannibalism
