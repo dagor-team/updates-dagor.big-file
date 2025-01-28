@@ -3036,6 +3036,10 @@ CONTROLBAR:ToolTipBannertragerderDunedain
 "Halbarad proudly carries the banner of his people, inspiring his troops \n Heroes and units near it gain experience faster \n If an ability is cast around Halbarad, it will be recharged 25% faster \n Passive ability"
 END
 
+CONTROLBAR:ToolTipBannertragerderDunedainFavour
+"Requires: Level 10 \n Halbarad proudly carries the banner of his people, inspiring his troops \n Fallen units around Halbarad will be slowly replaced \n Passive ability"
+END
+
 CONTROLBAR:ToolTipElendilSummoned
 "The sound of the  \n Left-click to activate"
 END
@@ -14150,7 +14154,15 @@ CONTROLBAR:SpecialAbilityHalbaradPfeilhagel
 END
 
 CONTROLBAR:ToolTipSpecialAbilityHalbaradPfeilhagel
-"Requires: Level 10 \n Halbarad and nearby allied Dunedain gain 25% armor and move 20% faster \n Left-click to activate"
+"Requires: Level 10 or the favour of the last king \n Halbarad and nearby allied Dunedain gain 25% armor and move 20% faster \n Left-click to activate"
+END
+
+CONTROLBAR:SpecialAbilityHalbaradPfeilhagelFavour
+"Leader of the Duned&ain"
+END
+
+CONTROLBAR:ToolTipSpecialAbilityHalbaradPfeilhagelFavour
+"Passive: If an Ability is cast around Halbarad, it will be ready 25% faster.  \n  \n Active: Halbarad and nearby allied Dunedain gain 25% armor and move 20% faster. \n Left-click to activate"
 END
 
 CONTROLBAR:SpecialAbilityLiebezuStreicher
