@@ -271,15 +271,15 @@
 
 ;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#define FIRST_AGE_REGULARINFANTRY_HORDE_HP_ADD_LVL2                200
-#define FIRST_AGE_REGULARINFANTRY_HORDE_HP_ADD_LVL3                200
-#define FIRST_AGE_REGULARINFANTRY_HORDE_HP_ADD_LVL4                200
-#define FIRST_AGE_REGULARINFANTRY_HORDE_HP_ADD_LVL5                200
-#define FIRST_AGE_REGULARINFANTRY_HORDE_HP_ADD_LVL6                200
-#define FIRST_AGE_REGULARINFANTRY_HORDE_HP_ADD_LVL7                200
-#define FIRST_AGE_REGULARINFANTRY_HORDE_HP_ADD_LVL8                200
-#define FIRST_AGE_REGULARINFANTRY_HORDE_HP_ADD_LVL9                200
-#define FIRST_AGE_REGULARINFANTRY_HORDE_HP_ADD_LVL10               200
+#define FIRST_AGE_REGULARINFANTRY_HORDE_HP_ADD_LVL2                100
+#define FIRST_AGE_REGULARINFANTRY_HORDE_HP_ADD_LVL3                100
+#define FIRST_AGE_REGULARINFANTRY_HORDE_HP_ADD_LVL4                100
+#define FIRST_AGE_REGULARINFANTRY_HORDE_HP_ADD_LVL5                100
+#define FIRST_AGE_REGULARINFANTRY_HORDE_HP_ADD_LVL6                100
+#define FIRST_AGE_REGULARINFANTRY_HORDE_HP_ADD_LVL7                100
+#define FIRST_AGE_REGULARINFANTRY_HORDE_HP_ADD_LVL8                100
+#define FIRST_AGE_REGULARINFANTRY_HORDE_HP_ADD_LVL9                100
+#define FIRST_AGE_REGULARINFANTRY_HORDE_HP_ADD_LVL10               100
 
 
 #define FIRST_AGE_REGULARINFANTRY_HORDE_DAMAGE_ADD_LVL2            20
