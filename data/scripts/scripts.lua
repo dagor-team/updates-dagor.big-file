@@ -341,21 +341,15 @@ function SpyMoving(self, other)
     print(ObjectDescription(self).." spying movement of "..ObjectDescription(other));
 end
 
---function GandalfConsiderUsingDefensePower(self, other, delay, amount)
---    -- Put up the shield if a big attack is coming and we have time to block it
---    if tonumber(delay) > 1 then
---        if tonumber(amount) >= 100 then
---            ObjectDoSpecialPower(self, "SpecialPowerShieldBubble")
---            return
---        end
---    end
---    
---    -- Or, if we are being hit and there are alot of guys arround, do our cool pushback power
---    if tonumber(ObjectCountNearbyEnemies(self, 50)) >= 4 then
---        ObjectDoSpecialPower(self, "SpecialPowerTelekeneticPush")
---        return
---    end
---end
+function EcthelionConsiderUsingDefensePower(self, other, delay, amount)
+   -- Put up the shield if a big attack is coming and we have time to block it
+   if tonumber(delay) > 1 then
+       if tonumber(amount) >= 100 then
+           ObjectDoSpecialPower(self, "SpecialPowerShieldBubble")
+           return
+       end
+   end
+end
 
 function GandalfTriggerWizardBlast(self)
     ObjectCreateAndFireTempWeapon(self, "GandalfWizardBlast")
