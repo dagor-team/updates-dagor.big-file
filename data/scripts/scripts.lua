@@ -1154,6 +1154,17 @@ function OffRetterinderNot(self)
    ObjectRemoveUpgrade( self, "Upgrade_RaiseSchmiedekunst" )
 end
 
+function AttackSpeedChange(self)
+	ObjectDoSpecialPower( self, "SpecialAbilityWolfCult" )
+end
+function OnSnowStormCreated(self)
+	ObjectDoSpecialPower( self, "SpecialAbilitySnowStormFX" )
+end
+function RemoveSarumanChosenSide(self)
+    ObjectRemoveUpgrade( self, "Upgrade_SarumanFire" )
+    ObjectRemoveUpgrade( self, "Upgrade_SarumanBlessed" )
+end
+
 function OnThranduilUser8(self)
     ObjectGrantUpgrade( self, "Upgrade_TestBuilding_2" )
     ObjectRemoveUpgrade( self, "Upgrade_TestBuilding" )

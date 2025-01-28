@@ -411,6 +411,9 @@
     </EventList>
 
     <EventList Name="ArcherFunctions" Inherit="InfantryFunctions">
+		<EventHandler EventName="ModelConditionUSER_4"     ScriptFunctionName="OnRetterinderNot"  DebugSingleStep="false"/>
+        <EventHandler EventName="ModelConditionNOTUSER_4"  ScriptFunctionName="OffRetterinderNot" DebugSingleStep="false"/>
+		<EventHandler EventName="ModelConditionUSER_2"	   ScriptFunctionName="AttackSpeedChange" DebugSingleStep="false"/>
     </EventList>
     
     <EventList Name="GondorArcherFunctions" Inherit="ArcherFunctions">
@@ -531,6 +534,7 @@
     <EventList Name="IsengardArcherFunctions" Inherit="MordorFighterFunctions">
         <!-- This contains events specific to the IsengardArhcer. Kris -->
         <EventHandler EventName="OnCreated"                ScriptFunctionName="OnIsengardArcherCreated" DebugSingleStep="false"/>
+		<EventHandler EventName="ModelConditionUSER_2"	   ScriptFunctionName="AttackSpeedChange"       DebugSingleStep="false"/>
     </EventList>
 
     <EventList Name="HaradrimFunctions" Inherit="InfantryFunctions">
@@ -541,7 +545,8 @@
         <!-- This contains events specific to the Gondor Fighter horde member. jba -->
         <EventHandler EventName="OnCreated"                ScriptFunctionName="OnGondorFighterCreated" DebugSingleStep="false"/>
         <EventHandler EventName="RecoverFromTerror"        ScriptFunctionName="GondorFighterRecoverFromTerror"                DebugSingleStep="false"/>
-        <EventHandler EventName="BeAfraidOfGateDamaged" ScriptFunctionName="GondorFighterBecomeAfraidOfGateDamaged"        DebugSingleStep="false"/>
+        <EventHandler EventName="BeAfraidOfGateDamaged"    ScriptFunctionName="GondorFighterBecomeAfraidOfGateDamaged"        DebugSingleStep="false"/>
+		<EventHandler EventName="ModelConditionUSER_2"	   ScriptFunctionName="AttackSpeedChange" DebugSingleStep="false"/>
     </EventList>
  
     <EventList Name="GondorFighterHordeFunctions" Inherit="GondorFighterFunctions">
@@ -744,6 +749,7 @@
     <EventList Name="SarumanEdainFunctions" Inherit="BaseScriptFunctions">
         <EventHandler EventName="DamageIncoming"   ScriptFunctionName="SarumanConsiderUsingDefensePower" DebugSingleStep="false"/>
         <EventHandler EventName="OnRing" 	   ScriptFunctionName="OnRingUpgrade" DebugSingleStep="false"/>
+		<EventHandler EventName="OnDestroyed" ScriptFunctionName="RemoveSarumanChosenSide" DebugSingleStep="false"/>
     </EventList>
 
     <EventList Name="GilmiEdainFunctions" Inherit="BaseScriptFunctions">
@@ -1053,6 +1059,10 @@
 	<EventHandler EventName="OnCreated"			ScriptFunctionName="OnMordorPikemanCreated" 			DebugSingleStep="false"/>
         <EventHandler EventName="BeAfraidOfPhial"		ScriptFunctionName="MordorFighterBecomeAfraidOfPhial"		DebugSingleStep="false"/>
         <EventHandler EventName="BeUncontrollablyAfraid"	ScriptFunctionName="MordorFighterBecomeUncontrollablyAfraid"	DebugSingleStep="false"/>
+    </EventList>
+	
+	<EventList Name="SnowStormFunctions" Inherit="BaseScriptFunctions">
+		<EventHandler EventName="OnCreated"			ScriptFunctionName="OnSnowStormCreated"		DebugSingleStep="false"/>
     </EventList>
 
     <EventList Name="ShelobRingFunctions" Inherit="BaseScriptFunctions">

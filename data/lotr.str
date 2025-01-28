@@ -93386,11 +93386,11 @@ CONTROLBAR:LW_ToolTipBuild_MenegrothEliteHorde
 END
 
 CONTROLBAR:MenegrothEliteSpionage
-"Espionage"
+"Ambush"
 END
 
 CONTROLBAR:ToolTipMenegrothEliteSpionage
-"Requires: Level 7 \n The Menegorth Scout can mark an enemy hero, \n allowing it to be visible on the map for 60 seconds and reduces their speed and armor \n Left-click on an enemy hero"
+"Requires: Level 7 \n The Menegroth Scouts jump into selected area, \n dealing damage and causing enemy infantry to fear for their lives. \n Left-click on a selected area"
 END
 
 
