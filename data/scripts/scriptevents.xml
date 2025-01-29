@@ -372,6 +372,11 @@
         <EventHandler EventName="BeUncontrollablyAfraid"    ScriptFunctionName="BecomeUncontrollablyAfraid" DebugSingleStep="false"/>
     </EventList>
 
+	<EventList Name="ArnorHeroFunctions" Inherit="BaseScriptFunctions">
+		<EventHandler EventName="ModelConditionUSER_8"     ScriptFunctionName="OnRetterinderNot"  DebugSingleStep="false"/>
+        <EventHandler EventName="ModelConditionNOTUSER_8"  ScriptFunctionName="OffRetterinderNot" DebugSingleStep="false"/>
+	</EventList>
+
     <EventList Name="RohirrimFunctions" Inherit="CavalryFunctions">
         <EventHandler EventName="OnCreated" ScriptFunctionName="OnRohirrimCreated" DebugSingleStep="false"/>
     </EventList>
@@ -553,13 +558,13 @@
         <!-- This contains events specific to the Gondor Fighter horde brain. Ian -->
     </EventList>
 
-    <EventList Name="BoromirFunctions" Inherit="BaseScriptFunctions">
+    <EventList Name="BoromirFunctions" Inherit="ArnorHeroFunctions">
         <!-- This contains events specific to Boromir -->
         <EventHandler EventName="UsingSpecialOne"        ScriptFunctionName="RadiateUncontrollableFear"    DebugSingleStep="false"/>
         <EventHandler EventName="ReallyDamagedLastStand" ScriptFunctionName="GoIntoRampage" DebugSingleStep="false"/>
     </EventList>
 
-    <EventList Name="AragornFunctions" Inherit="BaseScriptFunctions">
+    <EventList Name="AragornFunctions" Inherit="ArnorHeroFunctions">
         <EventHandler EventName="OnCreated"                ScriptFunctionName="OnAragornCreated"  DebugSingleStep="false"/>
         <EventHandler EventName="ModelConditionUSER_4"     ScriptFunctionName="OnRetterinderNot"  DebugSingleStep="false"/>
         <EventHandler EventName="ModelConditionNOTUSER_4"  ScriptFunctionName="OffRetterinderNot" DebugSingleStep="false"/>
@@ -973,7 +978,7 @@
         <EventHandler EventName="ModelConditionNOTWEAPONSET_HERO_MODE" ScriptFunctionName="OnAlatarUser6" DebugSingleStep="false"/>
      </EventList>
 
-    <EventList Name="LeadershipFunctions" Inherit="BaseScriptFunctions">
+    <EventList Name="LeadershipFunctions" Inherit="ArnorHeroFunctions">
         <EventHandler EventName="ModelConditionUSER_2" ScriptFunctionName="OnStatArmorDamage" DebugSingleStep="false"/>
         <EventHandler EventName="ModelConditionUSER_3" ScriptFunctionName="OnStatKnockbackDamage" DebugSingleStep="false"/>
         <EventHandler EventName="ModelConditionUSER_7" ScriptFunctionName="OnStatHealDamage" DebugSingleStep="false"/>
@@ -1108,7 +1113,7 @@
         <EventHandler EventName="OnRing" 	   ScriptFunctionName="OnRingUpgrade" DebugSingleStep="false"/>
     </EventList>
 
-    <EventList Name="ArveduiFunctions" Inherit="CavalryFunctions">
+    <EventList Name="ArveduiFunctions" Inherit="ArnorHeroFunctions">
         <EventHandler EventName="OnRing" 	   ScriptFunctionName="OnRingUpgrade" DebugSingleStep="false"/>
     </EventList>
 
