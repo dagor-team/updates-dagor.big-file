@@ -4180,6 +4180,10 @@ CONTROLBAR:ToolTipGlanzderNoldor
 "Requires: Level 7 \n The Splendour of the Noldor paralyses enemies and allows allies to regenerate \n Left click to activate"
 END
 
+CONTROLBAR:ToolTipGlanzderNoldor_Spell
+"Requires: The Favour of the last King \n The Splendour of the Noldor paralyses enemies and allows allies to regenerate \n Left click to activate"
+END
+
 OBJECT:DwarfenCarcRaben
 "Raven"
 END
@@ -10244,8 +10248,13 @@ CONTROLBAR:SpecialAbilityElrondsRatschlag
 END
 
 CONTROLBAR:ToolTipSpecialAbilityElrondsRatschlag
-"Requires: Level 3 \n Elrond can share with a hero to his ancient knowledge \n The selected hero gets great experience \n Left click on an allied hero"
+"Requires: The favour of the last King \n Elrond can share his ancient knowledge with a hero.  \n The selected hero gets great experience \n Left click on an allied hero"
 END
+
+CONTROLBAR:ToolTipSpecialAbilityElrondsRatschlag_Spell
+"Requires: The favour of the last King \n Elrond can share his ancient knowledge with a hero.  \n The selected hero gets great experience \n Left click on an allied hero"
+END
+
 
 CONTROLBAR:ElrondRingLeadership
 "The Silmaril"
@@ -10835,6 +10844,11 @@ CONTROLBAR:ToolTipSpecialAbilityAnarionNahkampfstellung
 "Requires: Level 5 \n Allied infantry and heroes close to Anarion gain +75% defense against melee weapons, but -25% against missile weapons \n Left-click to activate"
 END
 
+CONTROLBAR:ToolTipSpecialAbilityAnarionNahkampfstellung_Spell
+"Requires: The favour of the last King \n Allied infantry and heroes close to Anarion gain +75% defense against melee weapons, but -25% against missile weapons \n Left-click to activate"
+END
+
+
 CONTROLBAR:SpellBookDieGraueSchaarMM
 "The Grey Company"
 END
@@ -11072,7 +11086,11 @@ CONTROLBAR:ToolTipConstructMenPorter_forFornost
 END
 
 CONTROLBAR:ToolTipSpecialAbilityArnorIsildurNarsil
-"Requires: Level 10 \n Isildur, the heir of the throne of Gondor, revives the power of Narsil \n Deals the targeted enemy much damage \n Left click on target"
+"Requires: Level 10 \n Isildur, the heir of the throne of Gondor, revives the power of Narsil \n Deals the targeted enemy massive damage \n Left click on target"
+END
+
+CONTROLBAR:ToolTipSpecialAbilityArnorIsildurNarsil_Spell
+"Requires: The favour of the last king \n Isildur, the heir of the throne of Gondor, revives the power of Narsil \n Deals the targeted enemy much damage \n Left click on target"
 END
 
 CONTROLBAR:GandalfderGraueRecruit_forFornost
@@ -108262,7 +108280,7 @@ CONTROLBAR:ToolTipAzogShout
 END
 
 CONTROLBAR:ToolTipArvelegShatterPalantir
-"Requires: Level 10 \n Arveleg shatters the Palantir of Amon S l on the ground to create a powerful explosion that destroys all units nearby and himself"
+"Requires: The favour of the last King \n Arveleg shatters the Palantir of Amon Sul on the ground to create a powerful explosion that destroys all units nearby and himself"
 END
 
 OBJECT:MordorHaradrimBanner
