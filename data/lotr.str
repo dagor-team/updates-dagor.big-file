@@ -71028,6 +71028,14 @@ CONTROLBAR:ToolTipSpecialAbilityGimliDiplomacy
 "Requires: Level 5 \n Gimli allows the Glittering Caves to join the meeting of all dwarven clans. \n left klick on the dwarven assembly barracks \n Aglarond units cost 25% less"
 END
 
+CONTROLBAR:SpecialAbilityFavourArvedui
+"Favour of the Last King"
+END
+
+CONTROLBAR:ToolTipSpecialAbilityFavourArvedui
+"Requires: Level 5 \n As the last King of Arnor, Arvedui can grant his fellow heroes favour, permanently allowing them to fight their enemies more effiecently \n \n Carthaen: Carthaen is granted better armor \n Argeleb: Argeleb is granted royal armor for his service \n Arraphant: Arraphant now also commands the builders of Fornost, ordering the restoration of guarded buildings. \n Arranarth: Arranarth is taught in the arts of healing by Elrond, increasing the amount of healing his athelas can achieve. \n Cirdan: For his aid against the forces of Angmar he earns the respect of the king. His leadership is increased. \n Earnur: Earnur is now more proficient in his fight against the Captains of evil. For every 1000 damage he suffers from heroes, he returns half and knocks them back. \n Elendil: The founder of the Kingdoms of the North and South is granted bodyguards of Minas Arnor. \n Halbarad: The captain of the dunedain is granted new abilities. \n Elros: Elros is granted a new weapon to unleash. Every strike he deals has the chance to aid Arnor. \n Vardamir: Vardamir is fueled by rage, dealing increased damage to the monsters that wronged his people in the past. \n Tindomiel: The beauty of the daughter of Numenor is famous is the kindom. For each hero around her, she gets improved armor. \n \nleft klick on an hero of Arnor \n "
+END
+
 CONTROLBAR:GoblinKingPoisonedStinger
 "Poisoned Stinge&r"
 END
