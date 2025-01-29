@@ -90610,7 +90610,7 @@ CONTROLBAR:EcthelionLordFountain
 END
 
 CONTROLBAR:ToolTipEcthelionLordFountain
-"All units near Ecthelion heal faster. \n The magical armor of Gondolin causes a reflection of 50% to magical attacks. \n Passive ability"
+"All units near Ecthelion gain 15 bonus damage and experience 15% faster. \n The magical armor of Gondolin causes a reflection of 50% to magical attacks. \n Passive ability"
 END
 
 CONTROLBAR:EcthelionBlessingAura
@@ -93386,11 +93386,11 @@ CONTROLBAR:LW_ToolTipBuild_MenegrothEliteHorde
 END
 
 CONTROLBAR:MenegrothEliteSpionage
-"Espionage"
+"Ambush (&W)"
 END
 
 CONTROLBAR:ToolTipMenegrothEliteSpionage
-"Requires: Level 7 \n The Menegorth Scout can mark an enemy hero, \n allowing it to be visible on the map for 60 seconds and reduces their speed and armor \n Left-click on an enemy hero"
+"Requires: Level 7 \n The Menegroth Scouts jump into selected area, \n dealing damage and causing enemy infantry to fear for their lives. \n Left-click on a selected area"
 END
 
 
@@ -110355,6 +110355,18 @@ END
 
 CONTROLBAR:ConstructOgre
 "&Ogre Group"
+END
+
+CONTROLBAR:LW_ToolTip_OgreHorde
+"Monsters \n Strong vs: Melee Infantry"
+END
+
+CONTROLBAR:LW_Unit_OgreHorde
+"Group of Cannibalistic Ogres"
+END
+
+OBJECT:OgreHorde
+"Ogre Group"
 END
 
 CONTROLBAR:ToolTipConstructOgre
