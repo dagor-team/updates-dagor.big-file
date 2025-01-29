@@ -27552,7 +27552,7 @@ CONTROLBAR:KonigderNoldor
 END
 
 CONTROLBAR:ToolTipKonigderNoldor
-"Imladris infantry lines gain 15% armor and damage around the returned King of the Noldor \n Gilgalad switches to Aeglos hidden powers and using them in combact \n Gilgalad switches off Aeglos powers \n Passive ability"
+"Imladris infantry lines gain 15% armor and damage around the returned King of the Noldor.\n Scales to 35% until Level 9.\n Passive ability \n\n Gilgalad switches palantir to Aeglos hidden powers. \n Gilgalad switches off of Aeglos powers.\n Left-click to switch"
 END
 
 CONTROLBAR:GilgaladSpearThrust
