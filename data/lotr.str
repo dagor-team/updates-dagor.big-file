@@ -11286,7 +11286,7 @@ CONTROLBAR:Siegeldeschlachters
 END
 
 CONTROLBAR:ToolTipSiegeldeschlachters
-"Requires: Level 8 \n The blood of countless enemies coated on Durmarth's blade has caught the attention of Zaphragor \n His sword is enchanted with a spell of unforseen berzerking nature, devoting himself entirely to the carnage around him \n Durmarth is immune to arrows, poison, fire and ice \n Passive ability"
+"Requires: Level 8 \n The blood of countless enemies coated on Durmarth's blade has caught the attention of Zaphragor \n His sword is enchanted with a spell of unforseen berzerking nature, devoting himself entirely to the carnage around him \n Durmarth is immune to arrows\n Passive ability"
 END
 
 CONTROLBAR:SiegelderEisenkrone
@@ -11294,7 +11294,7 @@ CONTROLBAR:SiegelderEisenkrone
 END
 
 CONTROLBAR:ToolTipSiegelderEisenkrone
-"Requires: Level 10 \n Countless legendary deeds in the service of the Iron Crown have obtained Durmarth the favor of the Witch-king himself \n This approval has granted Durmarth some power over the ice \n Durmarth now has a 25% chance upon attacking to freeze enemies within a close proximity for 15 seconds \n Durmarth's attacks can freeze hostile heroes \n Unlike other freeze abilities, frozen units are vulnerable to attacks \n Passive ability"
+"Requires: Level 10 \n Countless legendary deeds in the service of the Iron Crown have obtained Durmarth the favor of the Witch-king himself \n This approval has granted Durmarth some power over the ice \n Durmarth now has a 25% chance upon attacking to freeze enemies within a close proximity for 5 seconds \n Durmarth's attacks can freeze hostile heroes \n Unlike other freeze abilities, frozen units are vulnerable to attacks \n Passive ability"
 END
 
 CONTROLBAR:SiegeldesHexenmeisters2
@@ -11318,7 +11318,7 @@ CONTROLBAR:Siegeldeschlachters2
 END
 
 CONTROLBAR:ToolTipSiegeldeschlachters2
-"Requires: Level 8 \n The blood of countless enemies coated on Durmarth's blade has caught the attention of Zaphragor \n His sword is enchanted with a spell of unforseen berzerking nature, devoting his allies entirely to the carnage around them \n Allied sorcerers, acolytes, minions and heroes are immune to arrows, poison, fire, and ice. Durmath and Black Guards receive half the buff, Shadow Guards receive the whole buff \n Passive ability"
+"Requires: Level 8 \n The blood of countless enemies coated on Durmarth's blade has caught the attention of Zaphragor \n His sword is enchanted with a spell of unforseen berzerking nature, devoting his allies entirely to the carnage around them \n Allied Sorcerers, Acolytes, Shadow Guards, minions and heroes are immune to arrows. Durmath and Black Guards receive half the buff. \n Passive ability"
 END
 
 CONTROLBAR:SiegelderEisenkrone2
@@ -68234,7 +68234,6 @@ UPGRADE:GunstlingSchwarzeNumenor
 "Black Numenorean Chosen"
 END
 
-
 CONTROLBAR:PurchaseUpgradeGunstlingKarshs
 "Favor of &Karsh"
 END
@@ -68255,9 +68254,8 @@ TOOLTIP:LackGunstlingKarshs
 "Requires: Black Numenorean Chosen"
 END
 
-
 CONTROLBAR:PurchaseUpgradeGunstlingGulzars
-"Favor of Gulz &r"
+"Favor of Gulza&r"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeGunstlingGulzars
@@ -68275,7 +68273,6 @@ END
 TOOLTIP:LackGunstlingGulzars
 "Requires: Black Numenorean Chosen"
 END
-
 
 CONTROLBAR:PurchaseUpgradeGunstlingZaphragors
 "Favor of Za&phragor"
@@ -96404,7 +96401,7 @@ CONTROLBAR:RavagerEndlessHordes
 END
 
 CONTROLBAR:ToolTipRavagerEndlessHordes
-"These orcs were created by Melkor in the deepest pits of Angband. \n Endless numbers of corrupted fighters bred for a single purpose. \n War \n\n As long as Angband ravagers fight they keep their numbers up. \n Each kill replenishes one dead ravager" 
+"These orcs were created by Melkor in the deepest pits of Angband. \n Endless numbers of corrupted fighters bred for a single purpose. \n War. \n\n As long as Angband Ravagers fight they keep their numbers up. \n Each kill replenishes one dead Ravager" 
 END
 
 CONTROLBAR:RavagerArmorUpgrade
@@ -96412,7 +96409,7 @@ CONTROLBAR:RavagerArmorUpgrade
 END
 
 CONTROLBAR:ToolTipRavagerArmorUpgrade
-"Requires: Level 3 \n Ravagers are equiped with armor forged from black iron. \n One of the strongest metals, not enchanted, used during the wars of Arda. \n\n Angband ravagers get an armor upgrade \n Passive ability"
+"Requires: Level 3 \n Ravagers are equiped with armor forged from black iron. \n One of the strongest metals, not enchanted, used during the wars of Arda. \n\n Angband Ravagers get an armor upgrade \n Passive ability"
 END
 
 CONTROLBAR:UnmatchedFury
@@ -96420,7 +96417,7 @@ CONTROLBAR:UnmatchedFury
 END
 
 CONTROLBAR:ToolTipUnmatchedFury
-"Requires: Level 5 \n The continuous fighting makes these corrupted creations experts in savage brutality \n combined with their experience with previous battles makes Angband ravagers even more deadly. \n\n Angband ravagers gain +150% but lose -25% armor. \n Left-click to activate"
+"Requires: Level 5 \n The continuous fighting makes these corrupted creations experts in savage brutality, \n combined with their experience from previous battles makes Angband Ravagers even more deadly. \n\n Angband Ravagers gain +150% but lose -25% armor. \n Left-click to activate"
 END
 
 OBJECT:AngbandBabyDrakeHorde
@@ -97367,7 +97364,7 @@ CONTROLBAR:BuildThlimDoldronArcherHorde
 END
 
 CONTROLBAR:ToolTipBuilThlimDoldronArcherHorde
-"Unit Type: Elite Archer \n Strong at Range"
+"Unit Type: Elite Archer \n Strong at Range \n You can only maintain 3 battaillons at a time"
 END
 
 BANNERUI:ThlimDoldronArcher
@@ -97407,7 +97404,7 @@ CONTROLBAR:BuildThlimDoldronAxeHorde
 END
 
 CONTROLBAR:ToolTipBuilThlimDoldronAxeHorde
-"Unit Type: Elite Infantry \n Strong vs: Infantry"
+"Unit Type: Elite Infantry \n Strong vs: Infantry \n You can only maintain 3 battaillons at a time"
 END
 
 BANNERUI:ThlimDoldronAxe
