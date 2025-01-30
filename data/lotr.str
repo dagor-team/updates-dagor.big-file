@@ -91666,6 +91666,48 @@ CONTROLBAR:ToolTipElrosLeadership
 "Elros was one of the Half-elven of Middle-earth who chose to become a mortal man, and was later crowned the first High King of Numenor. \n Level 1: Nearby infantry earn 25% damage \n Level 5: Nearby infantry earn 25% armor \n Level 10: All allied units gain resitance to fear and cavalry attacks. \n Passive ability"
 END
 
+CONTROLBAR:ToolTipElrosLeadershipSwitch
+"Elros was one of the Half-elven of Middle-earth who chose to become a mortal man, and was later crowned the first High King of Numenor. \n Level 1: Nearby infantry earn 25% damage \n Level 5: Nearby infantry earn 25% armor \n Level 10: All allied units gain resitance to fear and cavalry attacks. \n Passive ability \n Click to toggle palantir to show the power of Elros newly granted sword"
+END
+
+CONTROLBAR:ToolTipElrosLeadershipSwitch2
+"Elros was one of the Half-elven of Middle-earth who chose to become a mortal man, and was later crowned the first High King of Numenor. \n Level 1: Nearby infantry earn 25% damage \n Level 5: Nearby infantry earn 25% armor \n Level 10: All allied units gain resitance to fear and cavalry attacks. \n Passive ability \n Click to toggle palantir to his abilities"
+END
+
+CONTROLBAR:ElrosFavourSword
+"Gift of the Last King"
+END
+
+CONTROLBAR:ToolTipElrosFavourSword
+"Elros is granted an ancient sword by the last king of Arnor that has the chance to strengthen his allies with each hit. He has a 33% chance to grant a small buff, a rare chance to grant medium buffs and a very rare chance to unleash to full might of his sword. \n Passive ability "
+END
+
+CONTROLBAR:ElrosFavourSwordPing1
+"The Small deeds"
+END
+
+CONTROLBAR:ToolTipElrosFavourSwordPing1
+"Elros has a 25% chance to grant a small buff to his allies. \n He grants 5% damage and armor either to units or heroes. He can also grant 20% to both."
+END
+
+CONTROLBAR:ElrosFavourSwordPing2
+"A good step in the right direction"
+END
+
+CONTROLBAR:ToolTipElrosFavourSwordPing2
+"Elros has a 8% chance to grant a medium buff to his allies. \n He grants 10% damage and armor either to units or heroes. He can also grant trample and knock back immunity to both."
+END
+
+CONTROLBAR:ElrosFavourSwordPing3
+"Let there be war"
+END
+
+CONTROLBAR:ToolTipElrosFavourSwordPing3
+"Elros has a 2% chance to grant a big buff to his allies. \n He either grants 25% damage and armor to units and heroes (blue) or lets them regenerate and replentishes fallen units. He can also grant scavenger to units  (red)."
+END
+
+
+
 CONTROLBAR:ElrosFavour
 "&King s Favour"
 END
