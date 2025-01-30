@@ -46304,6 +46304,16 @@ FXList FX_BlickSpiegelGold
   End
 End
 
+FXList FX_ArveduiFavour
+  ParticleSystem
+    Name = ArveduiFavourParticles
+    Offset = X:0.0 Y:0.0 Z:1.0
+  End
+  Sound
+     Name = GesegnetesBannerGlow
+  End
+End
+
 FXList FX_BlickSpiegelGreen
   ParticleSystem
     Name = BlickSpiegelUpgradeSparkleGreen

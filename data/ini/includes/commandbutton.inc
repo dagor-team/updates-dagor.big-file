@@ -939,12 +939,12 @@ CommandButton Command_ArveduiFavour
   Command                     = SPECIAL_POWER
   SpecialPower                = SpecialAbilityArveduiFavour
   Options                     = NEED_TARGET_ALLY_OBJECT
-  TextLabel                   = CONTROLBAR:SpecialAbilityGimliDiplomacy
+  TextLabel                   = CONTROLBAR:SpecialAbilityFavourArvedui
   CursorName                  = Defector
   InvalidCursorName           = GenericInvalid
   ButtonImage                 = HSArveduiFavour
   ButtonBorderType            = ACTION
-  DescriptLabel               = CONTROLBAR:ToolTipSpecialAbilityGimliDiplomacy
+  DescriptLabel               = CONTROLBAR:ToolTipSpecialAbilityFavourArvedui
   InPalantir            = Yes
   AutoAbility            = Yes
 End
