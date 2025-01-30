@@ -60,7 +60,7 @@
 
 #define EVIL_CHEAP_CHAMPION WildDrummerOrc
 
-#define EVIL_BASIC_MONSTERS Ogre OgreHorde WildGiantBat OgreHorde AngmarBestie DesertScorpionBlack HaradScorpion_Slaved
+#define EVIL_BASIC_MONSTERS Ogre OgreHorde WildGiantBat AngmarBestie DesertScorpionBlack HaradScorpion_Slaved
 
 #define EVIL_REGULAR_MONSTERS MordorMountainTroll MordorCaveTroll CaveTroll_Slaved GoblinCaveTroll GoblinCaveTroll_FromTrollLair HillTroll_Slaved MordorCaveTroll_Summoned CaveTroll_HugeEdain GoblinCatapultTroll GoblinCatapulTrollExpansion MordorDrummerTroll
 

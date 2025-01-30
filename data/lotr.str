@@ -8199,7 +8199,7 @@ CONTROLBAR:ThranduilKonigDusterwalds_New
 END
 
 CONTROLBAR:TooltipThranduilKonigDusterwalds_New
-"Requires: Level 3 \n The ruler of the northern woodland empire leads his troops into battle.\n Briefly, allied Mirkwood units in a medium radius gain +25% range, sight, attack and speed.\n Left-click to activate"
+"Requires: Level 5 \n The ruler of the northern woodland empire leads his troops into battle.\n Briefly, allied Mirkwood units in a medium radius gain +25% range, sight, attack and speed.\n Left-click to activate"
 END
 
 CONTROLBAR:SpecialAbilityThranduilSchildwall
@@ -96245,6 +96245,14 @@ CONTROLBAR:ToolTipSelectUnitsAngbandThangorodrim
 "Recruit Angband Balrogs and Dragons from Thangorodrim"
 END
 
+CONTROLBAR:BuildAngbandRavagerHorde
+"Angba&nd Ravagers"
+END
+
+CONTROLBAR:ToolTipBuildAngbandRavagerHorde
+"Unit Type: Elite Infantry \n Strong vs: Melee Infantry and Cavalry \n Weak vs: Archers"
+END
+
 CONTROLBAR:BuildAngbandBabyDrakeHorde
 "Angband Fire Dra&ke Brood"
 END
@@ -96258,7 +96266,7 @@ CONTROLBAR:BuildAngbanddBalrog
 END
 
 CONTROLBAR:ToolTipBuildAngbanddBalrog
-"Requires: Level 4 Thangorodrim Fortress \n Unit Type: Elite Monster \n Strong vs: Infantry, Heroes and Structures \n You can only train 4 Balrogs"
+"Requires: Level 4 Thangorodrim Fortress \n Unit Type: Elite Monster \n Strong vs: Infantry, Heroes and Structures \n You can only train 2 Balrogs"
 END
 
 UPGRADE:Upgrade_AngbandBalrogPeitsche
@@ -96307,6 +96315,62 @@ END
 
 CONTROLBAR:ToolTipPurchaseTechnologyBalrogVerbrennen
 "Requires: Angband Fortress Level 5 \n Allows Balrogs to incinerate foes with their fire breath \n increases Balrog health by 1000 hit points \n Balrogs gain a level \n Passive Ability"
+END
+
+OBJECT:AngbandRavager
+"Angband Ravager"
+END
+
+OBJECT:AngbandRavagerHorde
+"Angband Ravager Horde"
+END
+
+BANNERUI:AngbandRavager
+"Angband Ravager"
+END
+
+BANNERUI:AngbandRavagerHorde
+"Angband Ravager Horde"
+END
+
+CONTROLBAR:LW_Unit_AngbandRavagerHorde
+"Angband Ravager Horde"
+END
+
+CONTROLBAR:LW_Unit_AngbandRavagerHordePlural
+"Angband Ravager Hordes"
+END
+
+CONTROLBAR:LW_ToolTipBuild_AngbandRavagerHorde
+"Unit Type: Elite Infantry \nStrong vs: Melee Infantry and Cavalry \n Weak vs: Archers"
+END
+
+CONTROLBAR:LW_ToolTip_AngbandBabyDrakeHorde
+"\nUnit Type: Elite Infantry \nStrong vs: Melee Infantry and Cavalry \n Weak vs: Archers"
+END
+
+CONTROLBAR:RavagerEndlessHordes
+"Endless Hordes"
+END
+
+CONTROLBAR:ToolTipRavagerEndlessHordes
+"These orcs were created by Melkor in the deepest pits of Angband. \n Endless numbers of corrupted fighters bred for a single purpose. \n War \n\n As long as Angband ravagers fight they keep their numbers up. \n Each kill replenishes one dead ravager" 
+END
+
+CONTROLBAR:RavagerArmorUpgrade
+"Black Iron Armor"
+END
+
+CONTROLBAR:ToolTipRavagerArmorUpgrade
+"Requires: Level 3 \n Ravagers are equiped with armor forged from black iron. \n One of the strongest metals, not enchanted, used during the wars of Arda. \n\n Angband ravagers get an armor upgrade \n Passive ability"
+END
+
+CONTROLBAR:UnmatchedFury
+"Unl&eashed Fury"
+END
+
+CONTROLBAR:ToolTipUnmatchedFury
+"Requires: Level 5 \n The continuous fighting makes these corrupted creations experts in savage brutality \n combined with their experience with previous battles makes Angband ravagers even more deadly. \n\n Angband ravagers gain +150% but lose -25% armor. \n Left-click to activate"
 END
 
 OBJECT:AngbandBabyDrakeHorde
