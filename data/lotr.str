@@ -91631,6 +91631,34 @@ CONTROLBAR:TooltipManweSulimo
 "He was also known as Sulimo \n(Quenya: "Lord of the Breath of Arda"),\n King of Arda, King of the World, King Mayor, Vice-regent of Iluvatar, Illustrious King of Arda, Ruler of Arda, and as King of the Valar world of Elves and Men. \n Manwe  raises a tornado to surround his divine being\n Left-click to activate"
 END
 
+CONTROLBAR:SentryBullewark
+"Bulwark "
+END
+
+CONTROLBAR:ToolTipSentryBullewark
+"The lone tower acts as a bulwark against the enemies of the west. Units and buildings around it gain 25% armor but lose 20% speed \n Passive ability "
+END
+
+CONTROLBAR:SentryBullewarkFire
+"Fire Arrows "
+END
+
+CONTROLBAR:ToolTipSentryBullewarkFire
+"Requires: Fire Arrows have been researched \n The Sentry now shoots with fire arrows \n Passive ability "
+END
+
+CONTROLBAR:SentryBullewarkBarahir
+"Arrows of the past"
+END
+
+CONTROLBAR:ToolTipSentryBullewarkBarahir
+"Requires: Gondor has the aid of Dorthonion \n The Sentry now shoots with ancient arrows \n Passive ability "
+END
+
+CONTROLBAR:ToolTipSentryBullewarkBodkin
+"Requires: Arnor has the aid of their ancestors \n The Sentry now shoots with ancient arrows of Numenor \n Passive ability "
+END
+
 OBJECT:NumenorElros
 "Elros Tar-Minyatur"
 END
