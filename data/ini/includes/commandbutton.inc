@@ -942,7 +942,7 @@ CommandButton Command_ArveduiFavour
   TextLabel                   = CONTROLBAR:SpecialAbilityGimliDiplomacy
   CursorName                  = Defector
   InvalidCursorName           = GenericInvalid
-  ButtonImage                 = UCCommon_ArnorFaction
+  ButtonImage                 = HSArveduiFavour
   ButtonBorderType            = ACTION
   DescriptLabel               = CONTROLBAR:ToolTipSpecialAbilityGimliDiplomacy
   InPalantir            = Yes
