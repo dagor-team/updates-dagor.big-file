@@ -1,44 +1,77 @@
 
 GENERAL
-	- new art for mordors witch-king, boromir, imrahil, gamling, hurin, theodred, and other stuff...
+	- new art mostly for new abilities
+	- all elite 3rd age cavalry damage nerf against buildings
+	- all regular cavalry - if more than 3 battalions at one spot will give progresively more experience when killed
 GONDOR	
-	Fiefdom expansions for gondor fully developped and viable to fully go for (through the beacon of gondor)
-	Dol amroth cav locked behind stable level 3 as well as imrahil
+	Faramir - level 5 description fix
+		- level 6 optimized placement
+	Gondor citadel - new model
+	Citadel guard - ability description fix
+	Ithilien rangers - cost decrease to 600
+	Tower guards - damage nerf against heroes
 ANGMAR
-	Chambres of black guard fixed description
-	Karsh rework
+	Witch-king - new level 3
+		   - level 5 significant damage nerf
+	Durmarth (warrior form) - level 8 passive nerfed to only apply to arrows
+				- level 10 passive nerfed radius and duration of the stun
+	Durmarth (gardist form) - level 8 passive nerfed to only apply to arrows
+	Thlim Doldron units (axemen and archers) - limited to 3
+	Snow trolls - movement fix
 ROHAN
-	Theoden recruitment fix
+	Theoden revive fix + descriptions
+	Theodred - level 8 fix
+	Eowyn - leadership fix
+	Eomer - level 5 fix
+	      - level 8 damage nerf
+	Helm spell - description fix
+	Haldir - description fix + new ability
+	Gamling - melee aoe slight increase
+	Taniquetil archers - damage nerf
+	Spear throwers - attacking distance fix
+	Cavalry archers - attacking distance fix
+	Yavanna - death weapon removed
+		- summoned time reduce (3 -> 2m)
 Arnor 
-	Lindons limited to 4, but an upgrade from the library is required to purchase heavy armor, forged blades and golden tips
+	Vardamir - rework
+	Tindomiel - new level 5
+	Elendil - rework
+	Lindon warriors - attacking distance fix with bow
+	Palantir guards - weapon switch fix
+	Aranarth (ranger form) - level 5 and 10 damage buff after first age
+	Earnur - level 2 fix
 Goblins
-	Balrogs armor buff
-	Ancalagon armor and speed buff
-	Drogoth armor buff
-	
+	Basic goblins recruit time increase (15 -> 17s)
+	Goblin warg riders - cost increase (400 -> 450)
+	Gorkil  - level 2 damage boost nerf 
+		- scavanger value reduced (100 -> 60%)
+	Drogoth - level 4 fix
+	Ogre - come out as a horde from the fissure
+	New first age unit
 Mordor
-	Gothmog - captains temporary
-		- level 3 revert
-		- xp share slightly lowered
-	Minas morgul unleashed only available from the minas morgul fortress
-	Corsair archers limited to 5, but you no longer need an upgrade to get them
-	Nekromancer - basic attack damage nerf
-	Saleme no longer affected by suladans leadership
-	Orc pit cost lowered to 320
-	Glaurung hp nerf to 10 000
+	Minas morgul fortress protecting fellbeast - kill xp reduced
+	Witch-king - level 9 longer cast time and smaller radius
+	Carcaroth - level 10 cd increase
+		  - level 6 damage increase
+	Spear throwers - range increase against cav archers
 Loth
-	
+	Thranduil - new level 10
+	Tauriel - new level 10
+	Mirkwood swordsmen - new formation
+	Menegroth scouts - buff + new level 7
+	Melian  - death weapon removed
+		- size increase significantly
+	Legolas - level 7 fix
+	Galadriel - death weapon removed
+	Thingol - level 3 and 6 cd decrease
+		- level 10 radius increase
 Imladris
-	Cav limited to 3
+	Imladris veterans - new ability
 Isengard
-	Dunland Brutes level 7 fixed
-	Tol in Gaurtoth guards - level 2 fix
-	Grima Rework
-	Uruk crossbows +20 damage buff across all upgrades
-Erebor
-	
-Iron hills
-	
-eren luin
+	Uruk crossbow capatain - new picture + ability fix
+	Saruman - level 7 rework
+Dwarves
 	Thorins arkenstone buff new clear FX
-	
+	Erebor axe throwers - damage nerf against heroes
+	Aglarond archers - significant damage nerf
+	Drár - level 3 fix
