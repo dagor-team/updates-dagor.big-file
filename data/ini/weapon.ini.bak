@@ -38809,7 +38809,7 @@ Weapon NaturmagierWurzelnEffecktWeapon
 
 End
 
-Weapon WachterderweiﬂenStadtSword
+Weapon WachterderweissenStadtSword
   LeechRangeWeapon      = Yes
   AttackRange           = STANDARD_MELEE_ATTACK_RANGE
   MeleeWeapon           = Yes
