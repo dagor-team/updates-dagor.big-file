@@ -21527,7 +21527,7 @@ CONTROLBAR:ToolTipConstructGondorCastleKeep
 END
 
 CONTROLBAR:ConstructGondorCastleKeep
-"Construct the Gondor citadel"
+"Construct the Gondor Citadel"
 END
 
 CONTROLBAR:ToolTipGondorBuildStoneMakerMod
