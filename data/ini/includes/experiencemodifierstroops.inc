@@ -263,11 +263,43 @@
 #define REGULAR_CHAMPION_HORDE_HP_ADD_LVL3                200
 #define REGULAR_CHAMPION_HORDE_HP_ADD_LVL4                200
 #define REGULAR_CHAMPION_HORDE_HP_ADD_LVL5                200
+#define REGULAR_CHAMPION_HORDE_HP_ADD_LVL6                200
+#define REGULAR_CHAMPION_HORDE_HP_ADD_LVL7                200
+#define REGULAR_CHAMPION_HORDE_HP_ADD_LVL8                200
+#define REGULAR_CHAMPION_HORDE_HP_ADD_LVL9                200
+#define REGULAR_CHAMPION_HORDE_HP_ADD_LVL10               200
 
 #define REGULAR_CHAMPION_HORDE_DAMAGE_ADD_LVL2            35
 #define REGULAR_CHAMPION_HORDE_DAMAGE_ADD_LVL3            35
 #define REGULAR_CHAMPION_HORDE_DAMAGE_ADD_LVL4            35
 #define REGULAR_CHAMPION_HORDE_DAMAGE_ADD_LVL5            35
+#define REGULAR_CHAMPION_HORDE_DAMAGE_ADD_LVL6            35
+#define REGULAR_CHAMPION_HORDE_DAMAGE_ADD_LVL7            35
+#define REGULAR_CHAMPION_HORDE_DAMAGE_ADD_LVL8            35
+#define REGULAR_CHAMPION_HORDE_DAMAGE_ADD_LVL9            35
+#define REGULAR_CHAMPION_HORDE_DAMAGE_ADD_LVL10           35
+
+;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#define FIRST_AGE_CHAMPION_HORDE_HP_ADD_LVL2                300
+#define FIRST_AGE_CHAMPION_HORDE_HP_ADD_LVL3                300
+#define FIRST_AGE_CHAMPION_HORDE_HP_ADD_LVL4                300
+#define FIRST_AGE_CHAMPION_HORDE_HP_ADD_LVL5                300
+#define FIRST_AGE_CHAMPION_HORDE_HP_ADD_LVL6                300
+#define FIRST_AGE_CHAMPION_HORDE_HP_ADD_LVL7                300
+#define FIRST_AGE_CHAMPION_HORDE_HP_ADD_LVL8                300
+#define FIRST_AGE_CHAMPION_HORDE_HP_ADD_LVL9                300
+#define FIRST_AGE_CHAMPION_HORDE_HP_ADD_LVL10               300
+
+#define FIRST_AGE_CHAMPION_HORDE_DAMAGE_ADD_LVL2            50
+#define FIRST_AGE_CHAMPION_HORDE_DAMAGE_ADD_LVL3            50
+#define FIRST_AGE_CHAMPION_HORDE_DAMAGE_ADD_LVL4            50
+#define FIRST_AGE_CHAMPION_HORDE_DAMAGE_ADD_LVL5            50
+#define FIRST_AGE_CHAMPION_HORDE_DAMAGE_ADD_LVL6            50
+#define FIRST_AGE_CHAMPION_HORDE_DAMAGE_ADD_LVL7            50
+#define FIRST_AGE_CHAMPION_HORDE_DAMAGE_ADD_LVL8            50
+#define FIRST_AGE_CHAMPION_HORDE_DAMAGE_ADD_LVL9            50
+#define FIRST_AGE_CHAMPION_HORDE_DAMAGE_ADD_LVL10           50
 
 ;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 

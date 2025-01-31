@@ -29016,7 +29016,31 @@ CONTROLBAR:ElrondErfahrungsLeadership
 END
 
 CONTROLBAR:TooltipElrondErfahrungsLeadership
-"Elrond unsheathes his sword, Hadhafang \n Elrond gives nearby Imladris units Armor and Damage , it scales with every level (from 2% to 30%) until level 10 \n At level 5 Elrond will combine the power of Vilya and Hadhafang and will deal Water damaga in a big area. He will also equip his Last Alliance armor and gain 50% Armor \n Elrond uses his vast knowledge to improve the combat skills of the Veterans. At level 5 they use the knowledge boost their experience. At Level 10 they improve their weapon skills. And at level 15 there crush their enemies and learn to become evasive. \n Elrond Uses his wisdom to train news scholars."
+"Elrond unsheathes his sword, Hadhafang \n Elrond gives nearby Imladris units Armor and Damage , it scales with every level (from 2% to 30%) until level 10 \n At level 5 Elrond will combine the power of Vilya and Hadhafang dealing more. He equips his Last Alliance armor and gain 50% Armor"
+END
+
+CONTROLBAR:ElrondBladeMaster
+"Hadhafang and Vilya"
+END
+
+CONTROLBAR:TooltipElrondBladeMaster
+"Requires: Level 2 \n Elrond channels the power of Vilya to impower his acttacks \n Damage and radius scales on on Level 3, Level 5 , Level 7 , Level 10,  \n at level 12 he sends out a powerful water horse everytime he attacks  \n  at level 15 he sends out 2 a powerful water horse everytime he attacks    \n\n Left click to activate."
+END
+
+CONTROLBAR:ElrondsGamble
+"Call for aid"
+END
+
+CONTROLBAR:TooltipElrondsGamble
+"Elrond Calls for Renforcements. \n has a chance to summon archers spearmen swordsmen or Guardians "
+END
+
+CONTROLBAR:ElrondsWisdom
+"Leader of the Veterans"
+END
+
+CONTROLBAR:TooltipElrondsWisdom
+"Elrond uses his vast knowledge to improve the combat skills of the Veterans. At level 5 they use the knowledge boost their experience. At Level 10 they improve their weapon skills. And at level 15 they learn to become evasive."
 END
 
 CONTROLBAR:DerRingVilya
@@ -105821,6 +105845,22 @@ END
 
 CONTROLBAR:ToolTipPurchaseBibliothekSchmiedekunstEntwickelt
 "Additional scholars study the Blacksmithing Arts of Eregion \n Allows Imladris troops to purchase the Golden Tip Arrows of Eregion \n When purchases troops will automaticly gain the Golden Arrow upgrade"
+END
+
+CONTROLBAR:ThePowerofVilya
+"Vilya, the ring of water"
+END
+
+CONTROLBAR:ToolTipPurchaseThePowerofVilya
+"Elrond and Gil Galad Study the capabilities of Vilya, the ring of water \n Allows Elrond and Gil Galad to access thier second palantir"
+END
+
+TOOLTIP:ThePowerofVilya
+"Second Palantir"
+END
+
+UPGRADE:ThePowerofVilya
+"Researched the capabilities of Vilya"
 END
 
 CONTROLBAR:SpecialAbilityBruchtalErkenntnisse

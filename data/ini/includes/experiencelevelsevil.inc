@@ -644,8 +644,8 @@ END
 
 ExperienceLevel    Evil_Regular_Champion_InfantryLevel2
     TargetNames                       =    EVIL_REGULAR_CHAMPION
-    RequiredExperience                =    EXPERIENCE_REQUIRED_REGULAR_15_HORDE_2
-    ExperienceAward                   =    EXPERIENCE_AWARD_REGULAR_15_HORDE_2
+    RequiredExperience                =    EXPERIENCE_REQUIRED_REGULAR_CHAMPION_HORDE_2
+    ExperienceAward                   =    EXPERIENCE_AWARD_REGULAR_CHAMPION_HORDE_2
     Rank                              =    2
     Upgrades                          =    Upgrade_ObjectLevel2 Upgrade_MiniHordeLvl2 Upgrade_EliteHordeLvl2
     AttributeModifiers                =    RegularChampionHordeBonusRank2
@@ -669,8 +669,8 @@ END
 
 ExperienceLevel    Evil_Regular_Champion_InfantryLevel3
     TargetNames                       =    EVIL_REGULAR_CHAMPION
-    RequiredExperience                =    EXPERIENCE_REQUIRED_REGULAR_15_HORDE_3
-    ExperienceAward                   =    EXPERIENCE_AWARD_REGULAR_15_HORDE_3
+    RequiredExperience                =    EXPERIENCE_REQUIRED_REGULAR_CHAMPION_HORDE_3
+    ExperienceAward                   =    EXPERIENCE_AWARD_REGULAR_CHAMPION_HORDE_3
     Rank                              =    3
     Upgrades                          =    Upgrade_ObjectLevel3 Upgrade_MiniHordeLvl3 Upgrade_EliteHordeLvl3
     AttributeModifiers                =    RegularChampionHordeBonusRank3
@@ -694,8 +694,8 @@ END
 
 ExperienceLevel    Evil_Regular_Champion_InfantryLevel4
     TargetNames                       =    EVIL_REGULAR_CHAMPION
-    RequiredExperience                =    EXPERIENCE_REQUIRED_REGULAR_15_HORDE_4
-    ExperienceAward                   =    EXPERIENCE_AWARD_REGULAR_15_HORDE_4
+    RequiredExperience                =    EXPERIENCE_REQUIRED_REGULAR_CHAMPION_HORDE_4
+    ExperienceAward                   =    EXPERIENCE_AWARD_REGULAR_CHAMPION_HORDE_4
     Rank                              =    4
     Upgrades                          =    Upgrade_ObjectLevel4 Upgrade_MiniHordeLvl4 Upgrade_EliteHordeLvl4
     AttributeModifiers                =    RegularChampionHordeBonusRank4
@@ -719,8 +719,8 @@ END
 
 ExperienceLevel    Evil_Regular_Champion_InfantryLevel5
     TargetNames                       =    EVIL_REGULAR_CHAMPION
-    RequiredExperience                =    EXPERIENCE_REQUIRED_REGULAR_15_HORDE_5
-    ExperienceAward                   =    EXPERIENCE_AWARD_REGULAR_15_HORDE_5
+    RequiredExperience                =    EXPERIENCE_REQUIRED_REGULAR_CHAMPION_HORDE_5
+    ExperienceAward                   =    EXPERIENCE_AWARD_REGULAR_CHAMPION_HORDE_5
     Rank                              =    5
     Upgrades                          =    Upgrade_ObjectLevel5 Upgrade_MiniHordeLvl5 Upgrade_EliteHordeLvl5
     AttributeModifiers                =    RegularChampionHordeBonusRank5
@@ -732,6 +732,124 @@ ExperienceLevel    Evil_Regular_Champion_InfantryLevel5
     EmotionType                       =    CHEER
     SelectionDecal
         Texture               =    decal_I_level4
+        Texture2              =    decal_evil_CO
+        Style                 =    SHADOW_MERGE_DECAL
+        OpacityMin            =    80%
+        OpacityMax            =    100%
+        MinRadius             =    70
+        MaxRadius             =    200
+        MaxSelectedUnits      =    40
+    End
+END
+
+ExperienceLevel    Evil_Regular_Champion_Infantry_Level6
+    TargetNames                       =    EVIL_REGULAR_CHAMPION
+    RequiredExperience                =    EXPERIENCE_REQUIRED_REGULAR_CHAMPION_HORDE_6
+    ExperienceAward                   =    EXPERIENCE_AWARD_REGULAR_CHAMPION_HORDE_6
+    Rank                              =    1
+    Upgrades                          =    Upgrade_ObjectLevel6 Upgrade_MiniHordeLvl6 Upgrade_EliteHordeLvl6
+    SelectionDecal
+        Texture               =    decal_I_level4
+        Texture2              =    decal_evil_CO
+        Style                 =    SHADOW_MERGE_DECAL
+        OpacityMin            =    80%
+        OpacityMax            =    100%
+        MinRadius             =    70
+        MaxRadius             =    200
+        MaxSelectedUnits      =    40
+    End
+END
+
+ExperienceLevel    Evil_Regular_Champion_InfantryLevel7
+    TargetNames                       =    EVIL_REGULAR_CHAMPION
+    RequiredExperience                =    EXPERIENCE_REQUIRED_REGULAR_CHAMPION_HORDE_7
+    ExperienceAward                   =    EXPERIENCE_AWARD_REGULAR_CHAMPION_HORDE_7
+    Rank                              =    2
+    Upgrades                          =    Upgrade_ObjectLevel7 Upgrade_MiniHordeLvl7 Upgrade_EliteHordeLvl7
+    AttributeModifiers                =    RegularChampionHordeBonusRank7
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+    SelectionDecal
+        Texture               =    decal_I_level4
+        Texture2              =    decal_evil_CO
+        Style                 =    SHADOW_MERGE_DECAL
+        OpacityMin            =    80%
+        OpacityMax            =    100%
+        MinRadius             =    70
+        MaxRadius             =    200
+        MaxSelectedUnits      =    40
+    End
+END
+
+ExperienceLevel    Evil_Regular_Champion_InfantryLevel8
+    TargetNames                       =    EVIL_REGULAR_CHAMPION
+    RequiredExperience                =    EXPERIENCE_REQUIRED_REGULAR_CHAMPION_HORDE_8
+    ExperienceAward                   =    EXPERIENCE_AWARD_REGULAR_CHAMPION_HORDE_8
+    Rank                              =    3
+    Upgrades                          =    Upgrade_ObjectLevel8 Upgrade_MiniHordeLvl8 Upgrade_EliteHordeLvl8
+    AttributeModifiers                =    RegularChampionHordeBonusRank8
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+    SelectionDecal
+        Texture               =    decal_I_level4
+        Texture2              =    decal_evil_CO
+        Style                 =    SHADOW_MERGE_DECAL
+        OpacityMin            =    80%
+        OpacityMax            =    100%
+        MinRadius             =    70
+        MaxRadius             =    200
+        MaxSelectedUnits      =    40
+    End
+END
+
+ExperienceLevel    Evil_Regular_Champion_InfantryLevel9
+    TargetNames                       =    EVIL_REGULAR_CHAMPION
+    RequiredExperience                =    EXPERIENCE_REQUIRED_REGULAR_CHAMPION_HORDE_9
+    ExperienceAward                   =    EXPERIENCE_AWARD_REGULAR_CHAMPION_HORDE_9
+    Rank                              =    4
+    Upgrades                          =    Upgrade_ObjectLevel9 Upgrade_MiniHordeLvl9 Upgrade_EliteHordeLvl9
+    AttributeModifiers                =    RegularChampionHordeBonusRank9
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+    SelectionDecal
+        Texture               =    decal_I_level4
+        Texture2              =    decal_evil_CO
+        Style                 =    SHADOW_MERGE_DECAL
+        OpacityMin            =    80%
+        OpacityMax            =    100%
+        MinRadius             =    70
+        MaxRadius             =    200
+        MaxSelectedUnits      =    40
+    End
+END
+
+ExperienceLevel    Evil_Regular_Champion_InfantryLevel10
+    TargetNames                       =    EVIL_REGULAR_CHAMPION
+    RequiredExperience                =    EXPERIENCE_REQUIRED_REGULAR_CHAMPION_HORDE_10
+    ExperienceAward                   =    EXPERIENCE_AWARD_REGULAR_CHAMPION_HORDE_10
+    Rank                              =    10
+    Upgrades                          =    Upgrade_ObjectLevel10 Upgrade_MiniHordeLvl10 Upgrade_EliteHordeLvl10
+    AttributeModifiers                =    RegularChampionHordeBonusRank10
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+    SelectionDecal
+        Texture               =    decal_I_level10
         Texture2              =    decal_evil_CO
         Style                 =    SHADOW_MERGE_DECAL
         OpacityMin            =    80%
