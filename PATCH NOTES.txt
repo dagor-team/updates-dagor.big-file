@@ -5,13 +5,18 @@ GENERAL
 	- all regular cavalry - if more than 3 battalions at one spot will give progresively more experience when killed
 	- Exp for 3000 hero and less has been reduced from level 1 and 7 but 8,9 and 10 still cost at much
 	- Champion units now level to 10 
+	- lone tower - grants a leadership and shoots upgraded arrows when you unlock new technology (so far only arnor and gondor)
 GONDOR	
 	Faramir - level 5 description fix
 		- level 6 optimized placement
+	Beregond - exp fix
 	Gondor citadel - new model
 	Citadel guard - ability description fix
 	Ithilien rangers - cost decrease to 600
 	Tower guards - damage nerf against heroes
+	Nargothrond Hammers - Revenge weapon added
+	Luthien and Isildur can now receive finarfins ring
+	The wihte tree now also buffs heroes
 ANGMAR
 	Witch-king - new level 3
 		   - level 5 significant damage nerf
@@ -26,22 +31,54 @@ ROHAN
 	Eowyn - leadership fix
 	Eomer - level 5 fix
 	      - level 8 damage nerf
+	Erkenbrand - Leadership fix
 	Helm spell - description fix
-	Haldir - description fix + new ability
+	Haldir - description fix + new ability + leadership fix
 	Gamling - melee aoe slight increase
 	Taniquetil archers - damage nerf
 	Spear throwers - attacking distance fix
 	Cavalry archers - attacking distance fix
+	Royal Cav - capped to 4
 	Yavanna - death weapon removed
 		- summoned time reduce (3 -> 2m)
+	Meduseld Captain - Fixed, can now be selected with E without selecting other battalions
+	Eonwe - Elentari Starlight fixed
+
+
 Arnor 
 	Vardamir - rework
 	Tindomiel - new level 5
 	Elendil - rework
 	Lindon warriors - attacking distance fix with bow
 	Palantir guards - weapon switch fix
+	Palantir guards - revenge weapon buff
+	donkey riders - pathfinding fixed
 	Aranarth (ranger form) - level 5 and 10 damage buff after first age
+	Carthaen - XP fix
 	Earnur - level 2 fix
+	Araphant - Level 7 fix
+	Argeleb - rework
+	    -new ability level 5
+	    -Palace wealt 6->7
+	    -Stand 8->9
+	    -Bane of the Witchking: Split up into multiple leaderships across levels -> Second palantir
+	    -Original Leadership: 50%exp -> 100% exp and affects heroes
+	    -basic attacks deal area damage (like boromir)
+
+	Halbarad
+	    -Hidden debuff removed
+	    -Experience Leadership removed
+	    -Passive healing for units removed
+	    -Bombardment - CD decreased
+
+	Arvedui
+	    -New level 5 ability - Favour of the last King
+	              - gives an upgrade to every armor hero: READ DESCRIPTIONS
+	              - Multiple new abilities for Arnor
+	              - Armor upgrades for carthaen and Argeleb
+	              - Improved old abilities for Cirdan, Arraphant, arranarth
+	              - New passive abilities for Elendil, Earnur, Elros (second palantir), Tindomiel, Vardamir, Halbarad
+	              - New abilities for summoned heroes
 Goblins
 	Basic goblins recruit time increase (15 -> 17s)
 	Goblin warg riders - cost increase (400 -> 450)
@@ -57,6 +94,7 @@ Mordor
 	Carcaroth - level 10 cd increase
 		  - level 6 damage increase
 	Spear throwers - range increase against cav archers
+	Glaurung - Level 10 no longer stuns heroes and valars
 Loth
 	Thranduil - new level 10
 	Tauriel - new level 10
@@ -74,11 +112,16 @@ Imladris
 	Elrond - Now has Second Palantir with some reworked abilities
 	both Elrond and Gilgalads Palantir locked behind a purchase
 	Gilgalad can now pick the Ring
+	Gildgalad, Fingolfin, Glorfindel - removed some hidden leaderships, can no longer stun heroes and valars
+	Gilgalad new level 7 (now actually works)
+	Gilgalad debuff level 2 - duration fixed 90s -> 9s
+	Formenos archers - cap reduced 6 -> 5
 Isengard
 	Uruk crossbow capatain - new picture + ability fix
 	Saruman - level 7 rework
 Dwarves
-	Thorins arkenstone buff new clear FX
+	Thorins arkenstone buff new clear FX, fixed fear weapon
+	Bilbo - Level 2 cooldown decreased
 	Erebor axe throwers - damage nerf against heroes
 	Aglarond archers - significant damage nerf
 	Drár - level 3 fix
