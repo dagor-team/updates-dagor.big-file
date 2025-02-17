@@ -87,7 +87,6 @@ Goblins
 	Drogoth - level 4 fix
 	Ogre - come out as a horde from the fissure
 	New first age unit
-	Smaug has been reverted
 Mordor
 	Minas morgul fortress protecting fellbeast - kill xp reduced
 	Witch-king - level 9 longer cast time and smaller radius
