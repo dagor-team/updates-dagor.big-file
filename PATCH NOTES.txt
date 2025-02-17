@@ -3,9 +3,12 @@ GENERAL
 	- new art mostly for new abilities
 	- all elite 3rd age cavalry damage nerf against buildings
 	- all regular cavalry - if more than 3 battalions at one spot will give progresively more experience when killed
+<<<<<<< Updated upstream
 	- Exp for 3000 hero and less has been reduced from level 1 and 7 but 8,9 and 10 still cost at much
 	- Champion units now level to 10 
 	- lone tower - grants a leadership and shoots upgraded arrows when you unlock new technology (so far only arnor and gondor)
+=======
+>>>>>>> Stashed changes
 GONDOR	
 	Faramir - level 5 description fix
 		- level 6 optimized placement
@@ -107,6 +110,7 @@ Loth
 		- level 10 radius increase
 Imladris
 	Imladris veterans - new ability
+<<<<<<< Updated upstream
 	Elrond vets - leadership now works 
 	Elrond - Now has Second Palantir with some reworked abilities
 	both Elrond and Gilgalads Palantir locked behind a purchase
@@ -115,6 +119,8 @@ Imladris
 	Gilgalad new level 7 (now actually works)
 	Gilgalad debuff level 2 - duration fixed 90s -> 9s
 	Formenos archers - cap reduced 6 -> 5
+=======
+>>>>>>> Stashed changes
 Isengard
 	Uruk crossbow capatain - new picture + ability fix
 	Saruman - level 7 rework
