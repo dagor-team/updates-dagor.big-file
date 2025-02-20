@@ -1943,6 +1943,47 @@ CommandSet EvilmenSuladanCommandSet
     18      = Command_SetStanceHoldGround
 End
 
+CommandSet EvilmenSuladanCommandSetNew
+    1    = Command_ToggleStance
+    2    = Command_ToggleMountedSuladan
+    3    = Command_SpecialAbilityBladeOfMadrat
+    4    = Command_SpecialAbilityLordOfTheSands
+    5    = Command_SpecialAbilityFlankingManeuver
+    6    = Command_SpecialAbilitySuladanGloriousCharge
+    12    = Command_CaptureBuilding
+    13    = Command_AttackMove
+    14    = Command_Stop
+    16      = Command_SetStanceBattle
+    17      = Command_SetStanceAggressive
+    18      = Command_SetStanceHoldGround
+End
+
+CommandSet HaradBadHarkanCommandSet
+    1    = Command_ToggleStance
+    2    = Command_ToggleBadharkanWeapon
+    3    = Command_SpecialAbilitySalemeGiftfalle
+    4    = Command_SpecialAbilityHunterAmbush
+    5    = Command_SpecialAbilityPiercingThrows
+    6    = Command_SpecialAbilityAncientSpear
+    12    = Command_CaptureBuilding
+    13    = Command_AttackMove
+    14    = Command_Stop
+    16      = Command_SetStanceBattle
+    17      = Command_SetStanceAggressive
+    18      = Command_SetStanceHoldGround
+End
+
+CommandSet HaradBadHarkanCommandSet_Ambush
+    1    = Command_ToggleStance
+    2    = Command_SpecialAbilitySetupAmbush
+    3    = Command_SpecialAbilityActivateAmbush
+    12    = Command_CaptureBuilding
+    13    = Command_AttackMove
+    14    = Command_Stop
+    16      = Command_SetStanceBattle
+    17      = Command_SetStanceAggressive
+    18      = Command_SetStanceHoldGround
+End
 
 CommandSet HaradPorterSummonedCommandSet
     1 = Command_EvilStop
