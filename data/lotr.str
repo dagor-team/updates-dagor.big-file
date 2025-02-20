@@ -8323,7 +8323,7 @@ CONTROLBAR:GasthausGhanBuriGhanRevive
 END
 
 INI:FactionEvilMen
-"Harad"
+"Men of the East"
 END
 
 INI:FactionRhun
@@ -9248,7 +9248,7 @@ CONTROLBAR:ToolTipSuladanMumakil
 END
 
 CONTROLBAR:ToolTipBuildEvilmenrhunreiterHordeInn
-"Heavily armed cavalry Rhun \n Strong vs: Archery and Sword Warrior"
+"Heavily armed cavalry of Rhun \n Strong vs: Archery and Sword Warrior"
 END
 
 CONTROLBAR:ToolTipCommandSelectUpgradesMdOFactionInn
@@ -19738,19 +19738,19 @@ CONTROLBAR:LW_Unit_EvilmenKhandSoldierHorde
 END
 
 CONTROLBAR:LW_Unit_EvilmenKhandRiderHorde
-"Riders from Khand"
+"Horse Archers of Far Harad"
 END
 
 OBJECT:KhandRider
-"Riders from Khand"
+"Riders from Far Harad"
 END
 
 OBJECT:HordeKhandRider
-"Riders from Khand"
+"Riders from Far Harad"
 END
 
 CONTROLBAR:LW_Unit_HordeKhandRider
-"Riders from Khand"
+"Riders from Far Harad"
 END
 
 CONTROLBAR:SpecialAbilityScorpionGiftwolke
@@ -19762,11 +19762,11 @@ CONTROLBAR:ToolTipToggleKhandWeapons
 END
 
 CONTROLBAR:ConstructEvilmenKhandRiderHorde
-"Riders from Khand"
+"Riders from Far Harad"
 END
 
 CONTROLBAR:ToolTipBuildEvilmenKhandRiderHorde
-"Requires Rhun Barracks Level 3 \n Strong vs: Ranged"
+"Requires: Stables Level 2 \n Strong vs: Ranged"
 END
 
 TOOLTIP:LackScorpionGiftwolke
@@ -19962,7 +19962,15 @@ CONTROLBAR:ConstructEvilmenHaradSwordHorde
 END
 
 CONTROLBAR:ToolTipBuildEvilmenHaradSwordHorde
-"Unit type: Regular infantry \n Strong vs: Spearman"
+"Unit type: Basic infantry \n Strong vs: Spearman"
+END
+
+CONTROLBAR:ToolTipConstructHaradPikemanHorde
+"Unit type: Basic Pikeman \n Strong vs: Cavalry and Monsters"
+END
+
+CONTROLBAR:ConstructHaradPikemanHorde
+"Haradrim Pikemen"
 END
 
 OBJECT:EvilmenHaradSwordHorde
@@ -24740,7 +24748,7 @@ TOOLTIP:LackEvilmenPorter
 END
 
 CONTROLBAR:ToolTipBuildEvilmenrhunreiterHorde
-"Requires Rhun Barracks Level 3 \n Strong vs: Archery and Sword Warrior"
+"Requires: Stable Level 3 \n Strong vs: Archery and Swordsmen"
 END
 
 CONTROLBAR:ConstructEvilmenrhunreiterHorde
@@ -24768,7 +24776,7 @@ CONTROLBAR:LW_Unit_EvilmenRhunriderHorde
 END
 
 CONTROLBAR:LW_ToolTip_EvilmenRhunriderHorde
-"\n Cavalry \n Strong vs: Archers"
+"\n Heavy Cavalry \n Strong vs: Archers"
 END
 
 OBJECT:MordorStall
@@ -25160,7 +25168,7 @@ CONTROLBAR:ConstructMordorRhunSwordHorde
 END
 
 CONTROLBAR:ToolTipBuildMordorRhunSwordHorde
-"Requires Barracks Level 3, forged blades and shields of the East must be researched  \n Strong vs: Melee, improved armor against arrows and cavalry"
+"Unit Type: Advanced Infantry \n  \n Requires Barracks Level 3, forged blades and shields of the East must be researched  \n \n  Strong vs: Melee, improved armor against arrows and cavalry"
 END
 
 CONTROLBAR:LW_Unit_MordorSpaherHorde
@@ -43006,7 +43014,7 @@ CONTROLBAR:ToolTipBuildMordorCorsairHorde
 END
 
 CONTROLBAR:ToolTipBuildMordorEasterlingHorde
-"Unit Type: Pikemen \n Strong vs: Cavalry"
+"Unit Type: Regular Pikemen \n Strong vs: Cavalry"
 END
 
 CONTROLBAR:ConstructMordorPorter
@@ -62617,6 +62625,10 @@ END
 
 TOOLTIP:LackMumakilWarPaint
 "Research at Mumakil Pen to enable this upgrade \n increases the Mumakil armor"
+END
+
+OBJECT:HaradPikeman
+"Pikeman of Harad"
 END
 
 //MORDOR
@@ -111104,19 +111116,19 @@ CONTROLBAR:ToolTipBuildHaradMumakilMahud
 END
 
 OBJECT:UmbarCorsairFortress
-"Umbar Fortress of Corsairs"
+"Corsair Stronghold"
 END
 
 OBJECT:UmbarCorsairFortressDescription
-"Recruit heroes "
+"Recruit Pirates and fortify a position "
 END
 
 CONTROLBAR:ConstructUmbarCorsairFortress
-"U&mbar Fortress"
+"U&mbar Stronghold"
 END
 
 CONTROLBAR:ToolTipConstructUmbarCorsairFortress
-"Recruit heroes and purchase upgrades "
+"Fortify your position and train pirates "
 END
 
 CONTROLBAR:PurchaseUpgradeUmbarCorsairGarissonDefences
@@ -111124,7 +111136,7 @@ CONTROLBAR:PurchaseUpgradeUmbarCorsairGarissonDefences
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeUmbarCorsairGarissonDefences
-"Summon Corsair archers to guard the Fort"
+" Position Corsair archers to guard the Fort"
 END
 
 CONTROLBAR:PurchaseUpgradeHaradFortressBannerTotem 
@@ -111152,7 +111164,7 @@ CONTROLBAR:ToolTipPurchaseUpgradeHaradFortressBlastingMunitions
 END
 
 CONTROLBAR:PurchaseUpgradeHaradFortressBrickBurner
-"Brick Burner "
+"Burned bricks"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeHaradBrickBurner
@@ -111172,7 +111184,7 @@ CONTROLBAR:ConstructUmbarCorsairWallBallistaExpansion
 END
 
 CONTROLBAR:ToolTipConstructUmbarCorsairWallBallistaExpansion
-"Defensive ballista Tower that fires at enemies. \N Strong weapon but of low accurancy "
+"Defensive ballista Tower that fires at enemies. \N Strong weapon but of low accuracy "
 END
 
 OBJECT:UmbarCorsairWallBallistaExpansion
@@ -111208,7 +111220,7 @@ CONTROLBAR:UmbarFortLighthouseexpanStartFire
 END
 
 CONTROLBAR:ToolTipUmbarFortLighthouseexpanStartFire
-"Purchase the necessary woods needed to light the fires in the Lighthouse. \n increases detection of units by 40 % and vision by 40 % . \n You can purchase it again, when fire is put out"
+"Purchase the necessary wood needed to light the fires in the Lighthouse. \n Increases detection of units and vision by 40 % . \n You can purchase it again, once the fire runs out"
 END
 
 OBJECT:UmbarTavern  
@@ -111286,4 +111298,41 @@ END
 CONTROLBAR:ToolTipArgelebLeadership2
 "Requires level 10: \n Argeleb rallies the peoples of Arthedain once more in pursuit of the Witchking and aid of Cardolan \n Nearby units in a large radious gain resistance, to knockback, fear, terror and gain 20% resistance to magic"
 END
+
+OBJECT:HaradMahudFighter
+"Mahud tribal warriors"
+END
+
+OBJECT:HaradMahudFighterHorde
+"Mahud tribal warriors"
+END
+
+OBJECT:HaradMahudFighterDescription
+"Type: close combat infantry (elite) \n strengths: defense \n a Mahud is a symbol of pride and superiority to its tribe, so they are often the target of assassins from other tribes \n these warriors swear over the bones of their ancestors to protect the Mûmakil and spill their blood for them"
+END
+
+CONTROLBAR:ConstructHaradMahudFighterHorde
+"Recruit Mahud tribal warriors"
+END
+
+CONTROLBAR:ToolTipConstructHaradMahudFighterHorde
+"Requirements: none \n type: close combat infantry (elite) \n strengths: defense \n a Mahud is a symbol of pride and superiority to his tribe, so they are often the target of assassins from other tribes \n these warriors swear over the bones of their ancestors to protect the Mûmakil and spill their blood for them"
+END
+
+CONTROLBAR:GuardMumakMahud
+"Protect mûmak (&B)"
+END
+
+CONTROLBAR:TooltipGuardMumakMahud
+"Requirement: Level 5\n The Mahud warriors protect a selected war mumak with their lives \n They disappear as a battalion and permanently protect the selected war mumak \n If a Mahud tribesman dies, he will respawn after 30 seconds \n The Mûmak permanently gets +50% and the Mahud warriors +100% armor"
+END
+
+CONTROLBAR:SpecialAbilityMahudRaserei
+"Rage  (&Y)"
+END
+
+CONTROLBAR:TooltipSpecialAbilityMahudRaserei
+"Mahud tribal warriors go into a blind rage \n for 30 seconds they leave their usual formation and move 25% faster \n additionally, during this time they deal area damage and knock down enemy units"
+END
+
 
