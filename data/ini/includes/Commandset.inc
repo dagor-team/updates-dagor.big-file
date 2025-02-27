@@ -1897,7 +1897,7 @@ CommandSet  MordorHaradrimSchwerterCommandSet
     3       = Command_PurchaseUpgradeMordorHaradBasicTraining
     4       = Command_PurchaseUpgradeMordorHaradArmor
     5       = Command_PurchaseUpgradeMordorHaradBlades
-   ;6       = Command_PurchaseUpgradeEvilmenShield
+    6       = Command_PurchaseUpgradeEvilmenShield
     12      = Command_CaptureBuilding
     13      = Command_AttackMove
     14      = Command_EvilStop
