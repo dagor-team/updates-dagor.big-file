@@ -1,0 +1,548 @@
+;Icons Formations Green
+
+MappedImage BIGreenEvade
+  Texture = icons_battleformations.tga
+  TextureWidth = 512
+  TextureHeight = 512
+  Coords = Left:0 Top:0 Right:64 Bottom:64
+  Status = NONE
+End
+
+MappedImage BIGreenMarchformation
+  Texture = icons_battleformations.tga
+  TextureWidth = 512
+  TextureHeight = 512
+  Coords = Left:64 Top:0 Right:128 Bottom:64
+  Status = NONE
+End
+
+MappedImage BIGreenWedgeformation
+  Texture = icons_battleformations.tga
+  TextureWidth = 512
+  TextureHeight = 512
+  Coords = Left:128 Top:0 Right:192 Bottom:64
+  Status = NONE
+End
+
+MappedImage BIGreenHardWedgeformation
+  Texture = icons_battleformations.tga
+  TextureWidth = 512
+  TextureHeight = 512
+  Coords = Left:192 Top:0 Right:256 Bottom:64
+  Status = NONE
+End
+
+MappedImage BIGreenBlock
+  Texture = icons_battleformations.tga
+  TextureWidth = 512
+  TextureHeight = 512
+  Coords = Left:0 Top:64 Right:64 Bottom:128
+  Status = NONE
+End
+
+MappedImage BIGreenPile
+  Texture = icons_battleformations.tga
+  TextureWidth = 512
+  TextureHeight = 512
+  Coords = Left:64 Top:64 Right:128 Bottom:128
+  Status = NONE
+End
+
+MappedImage BIGreenRangedBlock
+  Texture = icons_battleformations.tga
+  TextureWidth = 512
+  TextureHeight = 512
+  Coords = Left:128 Top:64 Right:192 Bottom:128
+  Status = NONE
+End
+
+MappedImage BIGreenStick
+  Texture = icons_battleformations.tga
+  TextureWidth = 512
+  TextureHeight = 512
+  Coords = Left:192 Top:64 Right:256 Bottom:128
+  Status = NONE
+End
+
+MappedImage BIGreenClose
+  Texture = icons_battleformations.tga
+  TextureWidth = 512
+  TextureHeight = 512
+  Coords = Left:0 Top:128 Right:64 Bottom:192
+  Status = NONE
+End
+
+MappedImage BIGreenRotate
+  Texture = icons_battleformations.tga
+  TextureWidth = 512
+  TextureHeight = 512
+  Coords = Left:64 Top:128 Right:128 Bottom:192
+  Status = NONE
+End
+
+MappedImage BIGreenEncircled
+  Texture = icons_battleformations.tga
+  TextureWidth = 512
+  TextureHeight = 512
+  Coords = Left:128 Top:128 Right:192 Bottom:192
+  Status = NONE
+End
+
+MappedImage BIGreenCurve
+  Texture = icons_battleformations.tga
+  TextureWidth = 512
+  TextureHeight = 512
+  Coords = Left:192 Top:128 Right:256 Bottom:192
+  Status = NONE
+End
+
+MappedImage BIGreenLineUp
+  Texture = icons_battleformations.tga
+  TextureWidth = 512
+  TextureHeight = 512
+  Coords = Left:0 Top:256 Right:64 Bottom:320
+  Status = NONE
+End
+
+MappedImage BIGreenHardLineUp
+  Texture = icons_battleformations.tga
+  TextureWidth = 512
+  TextureHeight = 512
+  Coords = Left:64 Top:256 Right:128 Bottom:320
+  Status = NONE
+End
+
+MappedImage BIGreenFFlanking
+  Texture = icons_battleformations.tga
+  TextureWidth = 512
+  TextureHeight = 512
+  Coords = Left:128 Top:256 Right:192 Bottom:320
+  Status = NONE
+End
+
+MappedImage BIGreenDoubleLineUp
+  Texture = icons_battleformations.tga
+  TextureWidth = 512
+  TextureHeight = 512
+  Coords = Left:192 Top:256 Right:256 Bottom:320
+  Status = NONE
+End
+
+
+
+
+;Icons Formations Blue
+
+
+
+
+
+
+
+
+MappedImage BIBlueEvade
+  Texture = icons_battleformations.tga
+  TextureWidth = 512
+  TextureHeight = 512
+  Coords = Left:256 Top:0 Right:320 Bottom:64
+  Status = NONE
+End
+
+MappedImage BIBlueMarchformation
+  Texture = icons_battleformations.tga
+  TextureWidth = 512
+  TextureHeight = 512
+  Coords = Left:320 Top:0 Right:384 Bottom:64
+  Status = NONE
+End
+
+MappedImage BIBlueWedgeformation
+  Texture = icons_battleformations.tga
+  TextureWidth = 512
+  TextureHeight = 512
+  Coords = Left:384 Top:0 Right:448 Bottom:64
+  Status = NONE
+End
+
+MappedImage BIBlueHardWedgeformation
+  Texture = icons_battleformations.tga
+  TextureWidth = 512
+  TextureHeight = 512
+  Coords = Left:448 Top:0 Right:512 Bottom:64
+  Status = NONE
+End
+
+MappedImage BIBlueBlock
+  Texture = icons_battleformations.tga
+  TextureWidth = 512
+  TextureHeight = 512
+  Coords = Left:256 Top:64 Right:320 Bottom:128
+  Status = NONE
+End
+
+MappedImage BIBluePile
+  Texture = icons_battleformations.tga
+  TextureWidth = 512
+  TextureHeight = 512
+  Coords = Left:320 Top:64 Right:384 Bottom:128
+  Status = NONE
+End
+
+MappedImage BIBlueRangedBlock
+  Texture = icons_battleformations.tga
+  TextureWidth = 512
+  TextureHeight = 512
+  Coords = Left:384 Top:64 Right:448 Bottom:128
+  Status = NONE
+End
+
+MappedImage BIBlueStick
+  Texture = icons_battleformations.tga
+  TextureWidth = 512
+  TextureHeight = 512
+  Coords = Left:448 Top:64 Right:512 Bottom:128
+  Status = NONE
+End
+
+MappedImage BIBlueClose
+  Texture = icons_battleformations.tga
+  TextureWidth = 512
+  TextureHeight = 512
+  Coords = Left:256 Top:128 Right:320 Bottom:192
+  Status = NONE
+End
+
+MappedImage BIBlueRotate
+  Texture = icons_battleformations.tga
+  TextureWidth = 512
+  TextureHeight = 512
+  Coords = Left:320 Top:128 Right:384 Bottom:192
+  Status = NONE
+End
+
+MappedImage BIBlueEncircled
+  Texture = icons_battleformations.tga
+  TextureWidth = 512
+  TextureHeight = 512
+  Coords = Left:384 Top:128 Right:448 Bottom:192
+  Status = NONE
+End
+
+MappedImage BIBlueCurve
+  Texture = icons_battleformations.tga
+  TextureWidth = 512
+  TextureHeight = 512
+  Coords = Left:448 Top:128 Right:512 Bottom:192
+  Status = NONE
+End
+
+MappedImage BIBlueLineUp
+  Texture = icons_battleformations.tga
+  TextureWidth = 512
+  TextureHeight = 512
+  Coords = Left:256 Top:256 Right:320 Bottom:320
+  Status = NONE
+End
+
+MappedImage BIBlueHardLineUp
+  Texture = icons_battleformations.tga
+  TextureWidth = 512
+  TextureHeight = 512
+  Coords = Left:320 Top:256 Right:384 Bottom:320
+  Status = NONE
+End
+
+MappedImage BIBlueFFlanking
+  Texture = icons_battleformations.tga
+  TextureWidth = 512
+  TextureHeight = 512
+  Coords = Left:384 Top:256 Right:448 Bottom:320
+  Status = NONE
+End
+
+MappedImage BIBlueDoubleLineUp
+  Texture = icons_battleformations.tga
+  TextureWidth = 512
+  TextureHeight = 512
+  Coords = Left:448 Top:256 Right:512 Bottom:320
+  Status = NONE
+End
+
+
+
+;Icons Formations DarkGreen
+
+
+
+
+
+
+
+
+MappedImage BIDarkGreenEvade
+  Texture = icons_battleformations.tga
+  TextureWidth = 512
+  TextureHeight = 512
+  Coords = Left:256 Top:256 Right:320 Bottom:320
+  Status = NONE
+End
+
+MappedImage BIDarkGreenMarchformation
+  Texture = icons_battleformations.tga
+  TextureWidth = 512
+  TextureHeight = 512
+  Coords = Left:320 Top:256 Right:384 Bottom:320
+  Status = NONE
+End
+
+MappedImage BIDarkGreenWedgeformation
+  Texture = icons_battleformations.tga
+  TextureWidth = 512
+  TextureHeight = 512
+  Coords = Left:384 Top:256 Right:448 Bottom:320
+  Status = NONE
+End
+
+MappedImage BIDarkGreenHardWedgeformation
+  Texture = icons_battleformations.tga
+  TextureWidth = 512
+  TextureHeight = 512
+  Coords = Left:448 Top:256 Right:512 Bottom:320
+  Status = NONE
+End
+
+MappedImage BIDarkGreenBlock
+  Texture = icons_battleformations.tga
+  TextureWidth = 512
+  TextureHeight = 512
+  Coords = Left:256 Top:320 Right:320 Bottom:384
+  Status = NONE
+End
+
+MappedImage BIDarkGreenPile
+  Texture = icons_battleformations.tga
+  TextureWidth = 512
+  TextureHeight = 512
+  Coords = Left:320 Top:320 Right:384 Bottom:384
+  Status = NONE
+End
+
+MappedImage BIDarkGreenRangedBlock
+  Texture = icons_battleformations.tga
+  TextureWidth = 512
+  TextureHeight = 512
+  Coords = Left:384 Top:320 Right:448 Bottom:384
+  Status = NONE
+End
+
+MappedImage BIDarkGreenStick
+  Texture = icons_battleformations.tga
+  TextureWidth = 512
+  TextureHeight = 512
+  Coords = Left:448 Top:320 Right:512 Bottom:384
+  Status = NONE
+End
+
+MappedImage BIDarkGreenClose
+  Texture = icons_battleformations.tga
+  TextureWidth = 512
+  TextureHeight = 512
+  Coords = Left:256 Top:384 Right:320 Bottom:448
+  Status = NONE
+End
+
+MappedImage BIDarkGreenRotate
+  Texture = icons_battleformations.tga
+  TextureWidth = 512
+  TextureHeight = 512
+  Coords = Left:320 Top:384 Right:384 Bottom:448
+  Status = NONE
+End
+
+MappedImage BIDarkGreenEncircled
+  Texture = icons_battleformations.tga
+  TextureWidth = 512
+  TextureHeight = 512
+  Coords = Left:384 Top:384 Right:448 Bottom:448
+  Status = NONE
+End
+
+MappedImage BIDarkGreenCurve
+  Texture = icons_battleformations.tga
+  TextureWidth = 512
+  TextureHeight = 512
+  Coords = Left:448 Top:384 Right:512 Bottom:448
+  Status = NONE
+End
+
+MappedImage BIDarkGreenLineUp
+  Texture = icons_battleformations.tga
+  TextureWidth = 512
+  TextureHeight = 512
+  Coords = Left:256 Top:448 Right:320 Bottom:512
+  Status = NONE
+End
+
+MappedImage BIDarkGreenHardLineUp
+  Texture = icons_battleformations.tga
+  TextureWidth = 512
+  TextureHeight = 512
+  Coords = Left:320 Top:448 Right:384 Bottom:512
+  Status = NONE
+End
+
+MappedImage BIDarkGreenFFlanking
+  Texture = icons_battleformations.tga
+  TextureWidth = 512
+  TextureHeight = 512
+  Coords = Left:384 Top:448 Right:448 Bottom:512
+  Status = NONE
+End
+
+MappedImage BIDarkGreenDoubleLineUp
+  Texture = icons_battleformations.tga
+  TextureWidth = 512
+  TextureHeight = 512
+  Coords = Left:448 Top:448 Right:512 Bottom:512
+  Status = NONE
+End
+
+
+;Icons Formations Red
+
+
+
+
+
+
+
+
+MappedImage BIRedEvade
+  Texture = icons_battleformations.tga
+  TextureWidth = 512
+  TextureHeight = 512
+  Coords = Left:256 Top:256 Right:320 Bottom:320
+  Status = NONE
+End
+
+MappedImage BIRedMarchformation
+  Texture = icons_battleformations.tga
+  TextureWidth = 512
+  TextureHeight = 512
+  Coords = Left:320 Top:256 Right:384 Bottom:320
+  Status = NONE
+End
+
+MappedImage BIRedWedgeformation
+  Texture = icons_battleformations.tga
+  TextureWidth = 512
+  TextureHeight = 512
+  Coords = Left:384 Top:256 Right:448 Bottom:320
+  Status = NONE
+End
+
+MappedImage BIRedHardWedgeformation
+  Texture = icons_battleformations.tga
+  TextureWidth = 512
+  TextureHeight = 512
+  Coords = Left:448 Top:256 Right:512 Bottom:320
+  Status = NONE
+End
+
+MappedImage BIRedBlock
+  Texture = icons_battleformations.tga
+  TextureWidth = 512
+  TextureHeight = 512
+  Coords = Left:256 Top:320 Right:320 Bottom:384
+  Status = NONE
+End
+
+MappedImage BIRedPile
+  Texture = icons_battleformations.tga
+  TextureWidth = 512
+  TextureHeight = 512
+  Coords = Left:320 Top:320 Right:384 Bottom:384
+  Status = NONE
+End
+
+MappedImage BIRedRangedBlock
+  Texture = icons_battleformations.tga
+  TextureWidth = 512
+  TextureHeight = 512
+  Coords = Left:384 Top:320 Right:448 Bottom:384
+  Status = NONE
+End
+
+MappedImage BIRedStick
+  Texture = icons_battleformations.tga
+  TextureWidth = 512
+  TextureHeight = 512
+  Coords = Left:448 Top:320 Right:512 Bottom:384
+  Status = NONE
+End
+
+MappedImage BIRedClose
+  Texture = icons_battleformations.tga
+  TextureWidth = 512
+  TextureHeight = 512
+  Coords = Left:256 Top:384 Right:320 Bottom:448
+  Status = NONE
+End
+
+MappedImage BIRedRotate
+  Texture = icons_battleformations.tga
+  TextureWidth = 512
+  TextureHeight = 512
+  Coords = Left:320 Top:384 Right:384 Bottom:448
+  Status = NONE
+End
+
+MappedImage BIRedEncircled
+  Texture = icons_battleformations.tga
+  TextureWidth = 512
+  TextureHeight = 512
+  Coords = Left:384 Top:384 Right:448 Bottom:448
+  Status = NONE
+End
+
+MappedImage BIRedCurve
+  Texture = icons_battleformations.tga
+  TextureWidth = 512
+  TextureHeight = 512
+  Coords = Left:448 Top:384 Right:512 Bottom:448
+  Status = NONE
+End
+
+MappedImage BIRedLineUp
+  Texture = icons_battleformations.tga
+  TextureWidth = 512
+  TextureHeight = 512
+  Coords = Left:256 Top:448 Right:320 Bottom:512
+  Status = NONE
+End
+
+MappedImage BIRedHardLineUp
+  Texture = icons_battleformations.tga
+  TextureWidth = 512
+  TextureHeight = 512
+  Coords = Left:320 Top:448 Right:384 Bottom:512
+  Status = NONE
+End
+
+MappedImage BIRedFFlanking
+  Texture = icons_battleformations.tga
+  TextureWidth = 512
+  TextureHeight = 512
+  Coords = Left:384 Top:448 Right:448 Bottom:512
+  Status = NONE
+End
+
+MappedImage BIRedDoubleLineUp
+  Texture = icons_battleformations.tga
+  TextureWidth = 512
+  TextureHeight = 512
+  Coords = Left:448 Top:448 Right:512 Bottom:512
+  Status = NONE
+End
+
+
