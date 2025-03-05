@@ -19985,6 +19985,11 @@ OBJECT:MordorHaradSword
 "Haradrim Swordsman"
 END
 
+OBJECT:MordorRunNewSword
+"Rhun Swordsman"
+END
+
+
 CONTROLBAR:ToolTipBuildEvilmenRhunArcherHorde
 "Unit type: Regular archer \n Strong vs: Ranged"
 END
@@ -25167,8 +25172,17 @@ CONTROLBAR:ConstructMordorRhunSwordHorde
 "Rhun &Halberd Fighters"
 END
 
+
 CONTROLBAR:ToolTipBuildMordorRhunSwordHorde
 "Unit Type: Advanced Infantry \n  \n Requires Barracks Level 3, forged blades and shields of the East must be researched  \n \n  Strong vs: Melee, improved armor against arrows and cavalry"
+END
+
+CONTROLBAR:ConstructEvilmenRhunSwordnewHorde
+"Rhun &Swordsmen "
+END
+
+CONTROLBAR:ToolTipBuildEvilmenRhunSwordnewHorde
+"Unit Type: Regular Infantry \n \n  Strong vs: Melee, can be equipped with improved armor against arrows"
 END
 
 CONTROLBAR:LW_Unit_MordorSpaherHorde
@@ -36280,6 +36294,10 @@ END
 
 CONTROLBAR:ToolTipToggleTowerGuardShieldWallToLineFormation
 "No bonus"
+END
+
+CONTROLBAR:ToolTipToggleRhunarcherLineToAmbushFormation
+"+20% armor,+20%Damage -30% Range"
 END
 
 CONTROLBAR:RevealArea
@@ -62399,7 +62417,7 @@ TOOLTIP:Lacklevel2Haradrimbarracks
 END
 
 TOOLTIP:LackRhunSwordsrequirement
-"Requires Haradrim barracks on level 3 and forged blades as well as shields must be researched"
+"Requires Rhun barracks on level 3"
 END
 
 CONTROLBAR:PurchaseTechnologyMordorAufseher

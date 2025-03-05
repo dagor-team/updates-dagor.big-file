@@ -1893,6 +1893,21 @@ End
 
 CommandSet  MordorHaradrimSchwerterCommandSet
     1       = Command_ToggleStance
+    2       = Command_ToggleFormationMarschformationHarad
+    3       = Command_PurchaseUpgradeMordorHaradBasicTraining
+    4       = Command_PurchaseUpgradeMordorHaradArmor
+    5       = Command_PurchaseUpgradeMordorHaradBlades
+    6       = Command_PurchaseUpgradeEvilmenShield
+    12      = Command_CaptureBuilding
+    13      = Command_AttackMove
+    14      = Command_EvilStop
+    16      = Command_SetStanceBattle
+    17      = Command_SetStanceAggressive
+    18      = Command_SetStanceHoldGround
+End
+
+CommandSet  EvilMenRhunSchwerterCommandSet
+    1       = Command_ToggleStance
     2       = Command_ToggleFormationMarschformation
     3       = Command_PurchaseUpgradeMordorHaradBasicTraining
     4       = Command_PurchaseUpgradeMordorHaradArmor
