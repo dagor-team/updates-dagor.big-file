@@ -189,7 +189,7 @@ Object EvilMenRhunPyramid
     KindOf            = PRELOAD VITAL_FOR_BASE_SURVIVAL STRUCTURE IMMOBILE CASTLE_KEEP MP_COUNT_FOR_VICTORY SELECTABLE FS_FACTORY AUTO_RALLYPOINT SCORE DOZER_FACTORY DONT_USE_CANCEL_BUILD_BUTTON SUMMONED GARRISONABLE_UNTIL_DESTROYED
 
     Behavior            = GettingBuiltBehavior ModuleTag_04
-        WorkerName          = MordorWorkerNoSelect
+        WorkerName          = HaradWorkerNoSelect
         SpawnTimer    = DEFAULT_STRUCTURE_HEALDELAY
     End
 
@@ -467,7 +467,7 @@ Object EvilMenHaradPyramid
     KindOf            = PRELOAD VITAL_FOR_BASE_SURVIVAL STRUCTURE IMMOBILE CASTLE_KEEP MP_COUNT_FOR_VICTORY SELECTABLE FS_FACTORY AUTO_RALLYPOINT SCORE DOZER_FACTORY DONT_USE_CANCEL_BUILD_BUTTON SUMMONED GARRISONABLE_UNTIL_DESTROYED
 
     Behavior            = GettingBuiltBehavior ModuleTag_04
-        WorkerName          = MordorWorkerNoSelect
+        WorkerName          = HaradWorkerNoSelect
         SpawnTimer    = DEFAULT_STRUCTURE_HEALDELAY
     End
 

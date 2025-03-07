@@ -679,7 +679,7 @@ End
 CommandButton Command_ToggleFormationRhunschwerter
   Command                 = HORDE_TOGGLE_FORMATION
   Options                 = TOGGLE_IMAGE_ON_FORMATION OK_FOR_MULTI_SELECT OK_FOR_MULTI_EXECUTE
-  ButtonImage             = UCFormation_MenegrothGuard UCCommon_PorcupineFormationOff
+  ButtonImage             = BIRedDoubleLineUp BIRedMarchformation
   ButtonBorderType        = ACTION
   TextLabel               = CONTROLBAR:ToggleShieldWallFormation    CONTROLBAR:ToggleLineFormation
   DescriptLabel           = CONTROLBAR:ToolTipToggleRhunschwerterLineToShieldWallFormation    CONTROLBAR:ToolTipToggleTowerGuardShieldWallToLineFormation
