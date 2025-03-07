@@ -1908,7 +1908,7 @@ End
 
 CommandSet  EvilMenRhunSchwerterCommandSet
     1       = Command_ToggleStance
-    2       = Command_ToggleFormationMarschformation
+    2       = Command_ToggleFormationRhunSword
     3       = Command_PurchaseUpgradeMordorHaradBasicTraining
     4       = Command_PurchaseUpgradeMordorHaradArmor
     5       = Command_PurchaseUpgradeMordorHaradBlades
