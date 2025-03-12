@@ -631,6 +631,11 @@
         <EventHandler EventName="ModelConditionUSER_8"     ScriptFunctionName="OnKing" DebugSingleStep="false"/>
         <EventHandler EventName="ModelConditionNOTUSER_8"  ScriptFunctionName="OnKingAftermath" DebugSingleStep="false"/>
     </EventList>
+	
+	<EventList Name="HaradBuildingFunctions" Inherit="BaseScriptFunctions">
+        <EventHandler EventName="ModelConditionUSER_6"     ScriptFunctionName="OnKing" DebugSingleStep="false"/>
+        <EventHandler EventName="ModelConditionNOTUSER_6"  ScriptFunctionName="OnKingAftermath" DebugSingleStep="false"/>
+    </EventList>
 
     <EventList Name="DormitoryFunctions" Inherit="BaseScriptFunctions">
         <EventHandler EventName="OnBuildVariation"        ScriptFunctionName="OnDormitoryBuildVariation" DebugSingleStep="false"/>
