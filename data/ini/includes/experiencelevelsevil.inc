@@ -1479,7 +1479,7 @@ ExperienceLevel    Evil_Elite_InfantryLevel5
     InformUpdateModule                =    Yes
     Rank                              =    5
     AttributeModifiers                =    EliteHordeBonusRank5
-    Upgrades                          =    Upgrade_ObjectLevel5 Upgrade_MiniHordeLvl5 Upgrade_EliteHordeLvl5
+    Upgrades                          =    Upgrade_ObjectLevel5 Upgrade_MiniHordeLvl5 Upgrade_EliteHordeLvl5 Upgrade_FormenosForgedBlades
     LevelUpFx                         =    FX:EvilLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -1533,7 +1533,7 @@ ExperienceLevel    Evil_Elite_InfantryLevel7
     InformUpdateModule                =    Yes
     Rank                              =    7
     AttributeModifiers                =    EliteHordeBonusRank7
-    Upgrades                          =    Upgrade_ObjectLevel7 Upgrade_MiniHordeLvl7 Upgrade_EliteHordeLvl7 Upgrade_FormenosForgedBlades
+    Upgrades                          =    Upgrade_ObjectLevel7 Upgrade_MiniHordeLvl7 Upgrade_EliteHordeLvl7
     LevelUpFx                         =    FX:EvilLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -1751,7 +1751,7 @@ ExperienceLevel    Evil_Elite3_InfantryLevel5
     InformUpdateModule                =    Yes
     Rank                              =    5
     AttributeModifiers                =    Elite3HordeBonusRank5
-    Upgrades                          =    Upgrade_ObjectLevel5 Upgrade_MiniHordeLvl5 Upgrade_EliteHordeLvl5
+    Upgrades                          =    Upgrade_ObjectLevel5 Upgrade_MiniHordeLvl5 Upgrade_EliteHordeLvl5 Upgrade_FormenosForgedBlades
     LevelUpFx                         =    FX:EvilLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -1805,7 +1805,7 @@ ExperienceLevel    Evil_Elite3_InfantryLevel7
     InformUpdateModule                =    Yes
     Rank                              =    7
     AttributeModifiers                =    Elite3HordeBonusRank7
-    Upgrades                          =    Upgrade_ObjectLevel7 Upgrade_MiniHordeLvl7 Upgrade_EliteHordeLvl7 Upgrade_FormenosForgedBlades
+    Upgrades                          =    Upgrade_ObjectLevel7 Upgrade_MiniHordeLvl7 Upgrade_EliteHordeLvl7
     LevelUpFx                         =    FX:EvilLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -2022,7 +2022,7 @@ ExperienceLevel    Evil_First_Age_RegularInfantryLevel5
     InformUpdateModule                =    Yes
     Rank                              =    5
     AttributeModifiers                =    First_Age_RegularInfantryHordeBonusRank5
-    Upgrades                          =    Upgrade_ObjectLevel5 Upgrade_MiniHordeLvl5 Upgrade_EliteHordeLvl5
+    Upgrades                          =    Upgrade_ObjectLevel5 Upgrade_MiniHordeLvl5 Upgrade_EliteHordeLvl5 Upgrade_FormenosForgedBlades
     LevelUpFx                         =    FX:EvilLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -2076,7 +2076,7 @@ ExperienceLevel    Evil_First_Age_RegularInfantryLevel7
     InformUpdateModule                =    Yes
     Rank                              =    7
     AttributeModifiers                =    First_Age_RegularInfantryHordeBonusRank7
-    Upgrades                          =    Upgrade_ObjectLevel7 Upgrade_MiniHordeLvl7 Upgrade_EliteHordeLvl7 Upgrade_FormenosForgedBlades
+    Upgrades                          =    Upgrade_ObjectLevel7 Upgrade_MiniHordeLvl7 Upgrade_EliteHordeLvl7
     LevelUpFx                         =    FX:EvilLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -2295,7 +2295,7 @@ ExperienceLevel    Evil_First_Age_EliteInfantryLevel5
     InformUpdateModule                =    Yes
     Rank                              =    5
     AttributeModifiers                =    First_Age_EliteInfantryHordeBonusRank5
-    Upgrades                          =    Upgrade_ObjectLevel5 Upgrade_MiniHordeLvl5 Upgrade_EliteHordeLvl5
+    Upgrades                          =    Upgrade_ObjectLevel5 Upgrade_MiniHordeLvl5 Upgrade_EliteHordeLvl5 Upgrade_FormenosForgedBlades
     LevelUpFx                         =    FX:EvilLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -2349,7 +2349,7 @@ ExperienceLevel    Evil_First_Age_EliteInfantryLevel7
     InformUpdateModule                =    Yes
     Rank                              =    7
     AttributeModifiers                =    First_Age_EliteInfantryHordeBonusRank7
-    Upgrades                          =    Upgrade_ObjectLevel7 Upgrade_MiniHordeLvl7 Upgrade_EliteHordeLvl7 Upgrade_FormenosForgedBlades
+    Upgrades                          =    Upgrade_ObjectLevel7 Upgrade_MiniHordeLvl7 Upgrade_EliteHordeLvl7
     LevelUpFx                         =    FX:EvilLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -2568,7 +2568,7 @@ ExperienceLevel    Evil_First_Age_EliteInfantryLevel5
     InformUpdateModule                =    Yes
     Rank                              =    5
     AttributeModifiers                =    First_Age_EliteInfantryHordeBonusRank5
-    Upgrades                          =    Upgrade_ObjectLevel5 Upgrade_MiniHordeLvl5 Upgrade_EliteHordeLvl5
+    Upgrades                          =    Upgrade_ObjectLevel5 Upgrade_MiniHordeLvl5 Upgrade_EliteHordeLvl5 Upgrade_FormenosForgedBlades
     LevelUpFx                         =    FX:EvilLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -2622,7 +2622,7 @@ ExperienceLevel    Evil_First_Age_EliteInfantryLevel7
     InformUpdateModule                =    Yes
     Rank                              =    7
     AttributeModifiers                =    First_Age_EliteInfantryHordeBonusRank7
-    Upgrades                          =    Upgrade_ObjectLevel7 Upgrade_MiniHordeLvl7 Upgrade_EliteHordeLvl7 Upgrade_FormenosForgedBlades
+    Upgrades                          =    Upgrade_ObjectLevel7 Upgrade_MiniHordeLvl7 Upgrade_EliteHordeLvl7
     LevelUpFx                         =    FX:EvilLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -2840,7 +2840,7 @@ ExperienceLevel    Evil_First_Age_RegularFlyingLevel5
     InformUpdateModule                =    Yes
     Rank                              =    5
     AttributeModifiers                =    First_Age_RegularFlyingHordeBonusRank5
-    Upgrades                          =    Upgrade_ObjectLevel5 Upgrade_MiniHordeLvl5 Upgrade_EliteHordeLvl5
+    Upgrades                          =    Upgrade_ObjectLevel5 Upgrade_MiniHordeLvl5 Upgrade_EliteHordeLvl5 Upgrade_FormenosForgedBlades
     LevelUpFx                         =    FX:EvilLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -2894,7 +2894,7 @@ ExperienceLevel    Evil_First_Age_RegularFlyingLevel7
     InformUpdateModule                =    Yes
     Rank                              =    7
     AttributeModifiers                =    First_Age_RegularFlyingHordeBonusRank7
-    Upgrades                          =    Upgrade_ObjectLevel7 Upgrade_MiniHordeLvl7 Upgrade_EliteHordeLvl7 Upgrade_FormenosForgedBlades
+    Upgrades                          =    Upgrade_ObjectLevel7 Upgrade_MiniHordeLvl7 Upgrade_EliteHordeLvl7
     LevelUpFx                         =    FX:EvilLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -3112,7 +3112,7 @@ ExperienceLevel    Evil_First_Age_RegularFlyingLevel5
     InformUpdateModule                =    Yes
     Rank                              =    5
     AttributeModifiers                =    First_Age_RegularFlyingHordeBonusRank5
-    Upgrades                          =    Upgrade_ObjectLevel5 Upgrade_MiniHordeLvl5 Upgrade_EliteHordeLvl5
+    Upgrades                          =    Upgrade_ObjectLevel5 Upgrade_MiniHordeLvl5 Upgrade_EliteHordeLvl5 Upgrade_FormenosForgedBlades
     LevelUpFx                         =    FX:EvilLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -3166,7 +3166,7 @@ ExperienceLevel    Evil_First_Age_RegularFlyingLevel7
     InformUpdateModule                =    Yes
     Rank                              =    7
     AttributeModifiers                =    First_Age_RegularFlyingHordeBonusRank7
-    Upgrades                          =    Upgrade_ObjectLevel7 Upgrade_MiniHordeLvl7 Upgrade_EliteHordeLvl7 Upgrade_FormenosForgedBlades
+    Upgrades                          =    Upgrade_ObjectLevel7 Upgrade_MiniHordeLvl7 Upgrade_EliteHordeLvl7
     LevelUpFx                         =    FX:EvilLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -3385,7 +3385,7 @@ ExperienceLevel    Evil_First_Age_BetterFlyingLevel5
     InformUpdateModule                =    Yes
     Rank                              =    5
     AttributeModifiers                =    First_Age_BetterFlyingHordeBonusRank5
-    Upgrades                          =    Upgrade_ObjectLevel5 Upgrade_MiniHordeLvl5 Upgrade_EliteHordeLvl5
+    Upgrades                          =    Upgrade_ObjectLevel5 Upgrade_MiniHordeLvl5 Upgrade_EliteHordeLvl5 Upgrade_FormenosForgedBlades
     LevelUpFx                         =    FX:EvilLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -3439,7 +3439,7 @@ ExperienceLevel    Evil_First_Age_BetterFlyingLevel7
     InformUpdateModule                =    Yes
     Rank                              =    7
     AttributeModifiers                =    First_Age_BetterFlyingHordeBonusRank7
-    Upgrades                          =    Upgrade_ObjectLevel7 Upgrade_MiniHordeLvl7 Upgrade_EliteHordeLvl7 Upgrade_FormenosForgedBlades
+    Upgrades                          =    Upgrade_ObjectLevel7 Upgrade_MiniHordeLvl7 Upgrade_EliteHordeLvl7
     LevelUpFx                         =    FX:EvilLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -3657,7 +3657,7 @@ ExperienceLevel    Evil_First_Age_LegendaryFlyingLevel5
     InformUpdateModule                =    Yes
     Rank                              =    5
     AttributeModifiers                =    First_Age_LegendaryFlyingHordeBonusRank5
-    Upgrades                          =    Upgrade_ObjectLevel5 Upgrade_MiniHordeLvl5 Upgrade_EliteHordeLvl5
+    Upgrades                          =    Upgrade_ObjectLevel5 Upgrade_MiniHordeLvl5 Upgrade_EliteHordeLvl5 Upgrade_FormenosForgedBlades
     LevelUpFx                         =    FX:EvilLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -3711,7 +3711,7 @@ ExperienceLevel    Evil_First_Age_LegendaryFlyingLevel7
     InformUpdateModule                =    Yes
     Rank                              =    7
     AttributeModifiers                =    First_Age_LegendaryFlyingHordeBonusRank7
-    Upgrades                          =    Upgrade_ObjectLevel7 Upgrade_MiniHordeLvl7 Upgrade_EliteHordeLvl7 Upgrade_FormenosForgedBlades
+    Upgrades                          =    Upgrade_ObjectLevel7 Upgrade_MiniHordeLvl7 Upgrade_EliteHordeLvl7
     LevelUpFx                         =    FX:EvilLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -3928,7 +3928,7 @@ ExperienceLevel    Evil_First_Age_EliteMontserLevel5
     InformUpdateModule                =    Yes
     Rank                              =    5
     AttributeModifiers                =    First_Age_EliteMontserHordeBonusRank5
-    Upgrades                          =    Upgrade_ObjectLevel5 Upgrade_MiniHordeLvl5 Upgrade_EliteHordeLvl5
+    Upgrades                          =    Upgrade_ObjectLevel5 Upgrade_MiniHordeLvl5 Upgrade_EliteHordeLvl5 Upgrade_FormenosForgedBlades
     LevelUpFx                         =    FX:EvilLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -3982,7 +3982,7 @@ ExperienceLevel    Evil_First_Age_EliteMontserLevel7
     InformUpdateModule                =    Yes
     Rank                              =    7
     AttributeModifiers                =    First_Age_EliteMontserHordeBonusRank7
-    Upgrades                          =    Upgrade_ObjectLevel7 Upgrade_MiniHordeLvl7 Upgrade_EliteHordeLvl7 Upgrade_FormenosForgedBlades
+    Upgrades                          =    Upgrade_ObjectLevel7 Upgrade_MiniHordeLvl7 Upgrade_EliteHordeLvl7
     LevelUpFx                         =    FX:EvilLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -4200,7 +4200,7 @@ ExperienceLevel    Evil_First_Age_LegendaryMontserLevel5
     InformUpdateModule                =    Yes
     Rank                              =    5
     AttributeModifiers                =    First_Age_LegendaryMontserHordeBonusRank5
-    Upgrades                          =    Upgrade_ObjectLevel5 Upgrade_MiniHordeLvl5 Upgrade_EliteHordeLvl5
+    Upgrades                          =    Upgrade_ObjectLevel5 Upgrade_MiniHordeLvl5 Upgrade_EliteHordeLvl5 Upgrade_FormenosForgedBlades
     LevelUpFx                         =    FX:EvilLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -4254,7 +4254,7 @@ ExperienceLevel    Evil_First_Age_LegendaryMontserLevel7
     InformUpdateModule                =    Yes
     Rank                              =    7
     AttributeModifiers                =    First_Age_LegendaryMontserHordeBonusRank7
-    Upgrades                          =    Upgrade_ObjectLevel7 Upgrade_MiniHordeLvl7 Upgrade_EliteHordeLvl7 Upgrade_FormenosForgedBlades
+    Upgrades                          =    Upgrade_ObjectLevel7 Upgrade_MiniHordeLvl7 Upgrade_EliteHordeLvl7
     LevelUpFx                         =    FX:EvilLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -4472,7 +4472,7 @@ ExperienceLevel    Evil_First_Age_RegularBeastsLevel5
     InformUpdateModule                =    Yes
     Rank                              =    5
     AttributeModifiers                =    First_Age_RegularBeastsHordeBonusRank5
-    Upgrades                          =    Upgrade_ObjectLevel5 Upgrade_MiniHordeLvl5 Upgrade_EliteHordeLvl5
+    Upgrades                          =    Upgrade_ObjectLevel5 Upgrade_MiniHordeLvl5 Upgrade_EliteHordeLvl5 Upgrade_FormenosForgedBlades
     LevelUpFx                         =    FX:EvilLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -4526,7 +4526,7 @@ ExperienceLevel    Evil_First_Age_RegularBeastsLevel7
     InformUpdateModule                =    Yes
     Rank                              =    7
     AttributeModifiers                =    First_Age_RegularBeastsHordeBonusRank7
-    Upgrades                          =    Upgrade_ObjectLevel7 Upgrade_MiniHordeLvl7 Upgrade_EliteHordeLvl7 Upgrade_FormenosForgedBlades
+    Upgrades                          =    Upgrade_ObjectLevel7 Upgrade_MiniHordeLvl7 Upgrade_EliteHordeLvl7
     LevelUpFx                         =    FX:EvilLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -4743,7 +4743,7 @@ ExperienceLevel    Evil_First_Age_BestBeastsLevel5
     InformUpdateModule                =    Yes
     Rank                              =    5
     AttributeModifiers                =    First_Age_BestBeastsHordeBonusRank5
-    Upgrades                          =    Upgrade_ObjectLevel5 Upgrade_MiniHordeLvl5 Upgrade_EliteHordeLvl5
+    Upgrades                          =    Upgrade_ObjectLevel5 Upgrade_MiniHordeLvl5 Upgrade_EliteHordeLvl5 Upgrade_FormenosForgedBlades
     LevelUpFx                         =    FX:EvilLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -4797,7 +4797,7 @@ ExperienceLevel    Evil_First_Age_BestBeastsLevel7
     InformUpdateModule                =    Yes
     Rank                              =    7
     AttributeModifiers                =    First_Age_BestBeastsHordeBonusRank7
-    Upgrades                          =    Upgrade_ObjectLevel7 Upgrade_MiniHordeLvl7 Upgrade_EliteHordeLvl7 Upgrade_FormenosForgedBlades
+    Upgrades                          =    Upgrade_ObjectLevel7 Upgrade_MiniHordeLvl7 Upgrade_EliteHordeLvl7
     LevelUpFx                         =    FX:EvilLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -5380,7 +5380,7 @@ ExperienceLevel    Evil_Elite_CavLevel5
     InformUpdateModule                =    Yes
     Rank                              =    5
     AttributeModifiers                =    EliteCavHordeBonusRank5
-    Upgrades                          =    Upgrade_ObjectLevel5 Upgrade_MiniHordeLvl5 Upgrade_EliteHordeLvl5
+    Upgrades                          =    Upgrade_ObjectLevel5 Upgrade_MiniHordeLvl5 Upgrade_EliteHordeLvl5 Upgrade_FormenosForgedBlades
     LevelUpFx                         =    FX:EvilLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -5434,7 +5434,7 @@ ExperienceLevel    Evil_Elite_CavLevel7
     InformUpdateModule                =    Yes
     Rank                              =    7
     AttributeModifiers                =    EliteCavHordeBonusRank7
-    Upgrades                          =    Upgrade_ObjectLevel7 Upgrade_MiniHordeLvl7 Upgrade_EliteHordeLvl7 Upgrade_FormenosForgedBlades
+    Upgrades                          =    Upgrade_ObjectLevel7 Upgrade_MiniHordeLvl7 Upgrade_EliteHordeLvl7
     LevelUpFx                         =    FX:EvilLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500

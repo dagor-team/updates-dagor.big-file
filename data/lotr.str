@@ -8323,7 +8323,7 @@ CONTROLBAR:GasthausGhanBuriGhanRevive
 END
 
 INI:FactionEvilMen
-"Men of the East"
+"Evil Men"
 END
 
 INI:FactionRhun
@@ -36248,12 +36248,12 @@ CONTROLBAR:ToolTipToggleGKnightLineToWedgeFormation
 "+25% damage, -25% armor"
 END
 
-CONTROLBAR:ToolTipToggleGKnightLineToStarFormation
-"+25% damage, -40% speed"
+CONTROLBAR:ToolTipToggleLineToSpearheadFormation
+"+25% speed, can trample, -100% damage"
 END
 
-CONTROLBAR:ToolTipToggleGKnightWedgeToLineFormation
-"No bonus"
+CONTROLBAR:ToolTipToggleGKnightLineToStarFormation
+"+25% damage, -40% speed"
 END
 
 CONTROLBAR:ToolTipToggleGKnightWedgeToLineFormation
@@ -43933,6 +43933,10 @@ END
 
 CONTROLBAR:ToggleWedgeFormation
 "Wedge For&mation"
+END
+
+CONTROLBAR:ToggleSpearheadFormation
+"Spearhead Assaul&t"
 END
 
 CONTROLBAR:ToggleStarFormation
@@ -70691,6 +70695,98 @@ CONTROLBAR:TooltipSunflare
 "Calls a fiery beam of sunlight to scorch the \nbattlefield. Stuns light-sensitive creatures. \n Left click icon then left click on target area"
 END
 
+CONTROLBAR:HaradHorn
+"Horn of Harad"
+END
+
+CONTROLBAR:TooltipHaradHorn
+"Targeted allies gain +50% damage and +50% armor and 20% speed \n Left click icon then left click on target area"
+END
+
+CONTROLBAR:Fortify
+"Fortify"
+END
+
+CONTROLBAR:TooltipFortify
+"Targeted allied building gets slowly healed over time \n If used on a Harad mill, will damage cavalry and monsters attacking it \n Left click icon then left click on target area"
+END
+
+CONTROLBAR:SuladansChosen
+"The Chosen One"
+END
+
+CONTROLBAR:TooltipSuladansChosen
+"Targeted harad hero gets a temporary bonus \n Suladan: .\n Badharkan: .\n Saleme: .\n Alatar and Palando: Empowered abilities.\n Dragon Emperor: .\n Left click icon then left click on a selected hero"
+END
+
+CONTROLBAR:SandStorm
+"Sand Storm"
+END
+
+CONTROLBAR:TooltipSandStorm
+"Summons a sand storm that lowers vision and range of enemy units and heroes \n Left click icon then left click on target area"
+END
+
+CONTROLBAR:SandStorm
+"Sand Storm"
+END
+
+CONTROLBAR:TooltipSandStorm
+"Summons a sand storm that lowers vision and range of enemy units and heroes \n Left click icon then left click on target area"
+END
+
+CONTROLBAR:DesertCracks
+"Desert Cracks"
+END
+
+CONTROLBAR:TooltipDesertCracks
+"Changes the area of terrain, creating a desert on the battlefield. Nearby allied units are 10% faster, deal 10% more damage and nearby enemy units are 10% slower and have reduced trample by 20% \n Left click icon then left click on target area"
+END
+
+CONTROLBAR:HaradMarket
+"Harad Market"
+END
+
+CONTROLBAR:TooltipHaradMarket
+"Places a market of Harad anywhere on the battlefield \n Allows purchasing mercenary units and economy upgrades \n Left click icon then left click on target area"
+END
+
+CONTROLBAR:TempleSummon
+"Desert Temple"
+END
+
+CONTROLBAR:TooltipHaradMarket
+"Places a temple on the battlefield \n Variation Harad: allows recruitment of desert scorpions, grant vision and debuffs enemies and allies alike in the vicinity \n Variation Rhun: allows recruitment of priests and cultists, ? \n Left click icon then left click on target area"
+END
+
+CONTROLBAR:WainRidersSummon
+"Wainriders of Khand"
+END
+
+CONTROLBAR:TooltipWainRidersSummon
+"Summon 3 battaillons of Wainriders of Khand, each led by a war chariot \n Lasts 180 seconds. \n Left click icon then left click on target area"
+END
+
+CONTROLBAR:SecondFaction
+"Expansion of Influence"
+END
+
+CONTROLBAR:TooltipSecondFaction
+"Unlocks the second faction and heavily buffs the premier chosen faction \n ? \n Passive Ability"
+END
+
+CONTROLBAR:AidOfMordor
+"Aid from Mordor"
+END
+
+CONTROLBAR:TooltipAidOfMordor
+"Summon an army of orcs on the battlefield led by ? \n Variation Army of the past ages: Summon an army of orcs on the battlefield led by Balcmeg \n Lasts 180 seconds. \n Left click icon then left click on target area"
+END
+
+CONTROLBAR:TooltipPurchaseSpellThargelionTechnology
+"Unlocks the support of the armies of Thargelion \n Heroes: Ulfang, Uldor and Lorgan \n Summoned Hero: Morgoth \n Passive ability"
+END
+
 CONTROLBAR:CaveBats
 "Cave Bats"
 END
@@ -93009,12 +93105,20 @@ CONTROLBAR:ToolTipFormenosGuardLeadership
 "Requires: Level 2 \n Significantly reduces cavalry armor. \n Passive ability"
 END
 
-CONTROLBAR:FormenosArmorUpgrade
-"Armor Upgrade"
+CONTROLBAR:TribalViolence
+"Tribal Violence"
 END
 
-CONTROLBAR:TooltipFormenosArmorUpgrade
-"Requires: Level 5 \n Units gain an armor upgrade \n Passive ability"
+CONTROLBAR:ToolTipTribalViolence
+"Requires: Level 3 \n Unit gains 25% damage if under 25% max health and continues fighting even after deathblow  \n Passive ability"
+END
+
+CONTROLBAR:FormenosWeaponUpgrade
+"Weapon Upgrade"
+END
+
+CONTROLBAR:ToolTipFormenosWeaponUpgrade
+"Requires: Level 5 \n Unit gains a weapon upgrade \n Passive ability"
 END
 
 OBJECT:FormenosEliteSword
@@ -95904,7 +96008,7 @@ CONTROLBAR:PurchaseSpellAngbandTechnology
 END
 
 CONTROLBAR:TooltipPurchaseSpellAngbandTechnology
-"Summons the support of the armies of Angband \n Heroes: Glaurung and Carcharoth\n Summoned Hero: Morgoth \n Passive ability"
+"Summons the support of the armies of Angband \n Heroes: Glaurung, Carcharoth and Balcmeg \n Summoned Hero: Morgoth \n Passive ability"
 END
 
 TOOLTIP:RequirementAngbandSpellTechnology
@@ -96923,6 +97027,69 @@ CONTROLBAR:ToolTipSelectThargelionUnits
 "Trains units from Thargelion \n and Uldor, the youngest son of Ulfang the Black"
 END
 
+CONTROLBAR:ThargelionFortressLevel2
+"Level 2"
+END
+
+CONTROLBAR:ToolTipThargelionFortressLevel2
+"Upgrade Thargelion fortress to level 2"
+END
+
+CONTROLBAR:ThargelionFortressLevel3
+"Level 3"
+END
+
+CONTROLBAR:ToolTipThargelionFortressLevel3
+"Upgrade Thargelion fortress to level 3"
+END
+
+CONTROLBAR:ThargelionFortressLevel4
+"Level 4"
+END
+
+CONTROLBAR:ToolTipThargelionFortressLevel4
+"Upgrade Thargelion fortress to level 4"
+END
+
+CONTROLBAR:ThargelionFortressLevel5
+"Level 5"
+END
+
+CONTROLBAR:ToolTipThargelionFortressLevel5
+"Upgrade Thargelion fortress to level 5"
+END
+
+CONTROLBAR:ThargelionFortressTrainingHalls
+"Training Halls"
+END
+
+CONTROLBAR:ToolTipThargelionFortressTrainingHalls
+"Requires: Thargelion Fortress level 2 \n Thargelion infantry and cavalry gain bonus health per level\n Passive ability"
+END
+
+CONTROLBAR:ThargelionFortressWaterfall
+"Waterfall"
+END
+
+CONTROLBAR:ToolTipThargelionFortressWaterfall
+"Requires: Thargelion Fortress level 3 \n Heals and quickly replenishes nearby allied units \n Passive ability"
+END
+
+CONTROLBAR:ThargelionFortressTower
+"Tower"
+END
+
+CONTROLBAR:ToolTipThargelionFortressTower
+"Requires: Thargelion Fortress level 4 \n Expands the defenses on the fortress \n Passive ability"
+END
+
+CONTROLBAR:ThargelionFortressPalisade
+"Beastmaster Quarters"
+END
+
+CONTROLBAR:ToolTipThargelionFortressPalisade
+"Requires: Thargelion Fortress level 5 \n Enables the recruitment of thargelion mumaks from the mumakil pen\n Passive ability"
+END
 
 OBJECT:ThargelionCavalaryHorde
 "Thargelion Cavalry"
@@ -96978,23 +97145,23 @@ CONTROLBAR:BuildThargelionMumakil
 END
 
 CONTROLBAR:ToolTipThargelionMumakil
-"Unit Type: Regular Monster \n Strong vs: Cavalry and Structures \n You can only train 5 Thargelion M makil"
+"Unit Type: Regular Monster \n Strong vs: Cavalry and Structures \n You can only train 5 Thargelion Mumakil"
 END
 
 BANNERUI:ThargelionMumakil
-"Thargelion M mak"
+"Thargelion Mumak"
 END
 
 BANNERUI:ThargelionMumakils
-"Thargelion M makil"
+"Thargelion Mumakil"
 END
 
 CONTROLBAR:LW_Unit_ThargelionMumakil
-"Thargelion M mak"
+"Thargelion Mumak"
 END
 
 CONTROLBAR:LW_Unit_ThargelionMumakilPlural
-"Thargelion M makil"
+"Thargelion Mumakil"
 END
 
 CONTROLBAR:LW_ToolTipBuild_ThargelionMumakil
@@ -99153,7 +99320,7 @@ CONTROLBAR:CarthaenGeheiligteErde
 END
 
 CONTROLBAR:ToolTipCarthaenGeheiligteErde
-"Carthaen blesses the terraiNain his immediate environment, purging the creatures of the shadow and bolstering the allies of the light \n Barrow-wights, werewolves, ghosts of the Shadow World, Morgul Shadows, and Castellans within the place of purity are paralyzed and are unable to move \n Allies in the field gain 50% armor\n Left-click to activate"
+"Carthaen blesses the terrain in his immediate environment, purging the creatures of the shadow and bolstering the allies of the light \n Barrow-wights, werewolves, ghosts of the Shadow World, Morgul Shadows, and Castellans within the place of purity are paralyzed and are unable to move \n Allies in the field gain 50% armor\n Left-click to activate"
 END
 
 CONTROLBAR:ToolTipHoffnungdesKonigreichs_neu
