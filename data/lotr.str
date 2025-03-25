@@ -8330,6 +8330,46 @@ INI:FactionRhun
 "Rhun"
 END
 
+CONTROLBAR:SubFactionRhun
+"Rhun"
+END
+
+TOOLTIP:SubFactionRhun
+"Men of the East chosen"
+END
+
+CONTROLBAR:SubFactionHarad
+"Harad"
+END
+
+TOOLTIP:SubFactionHarad
+"Men of the South chosen"
+END
+
+CONTROLBAR:SecondFactionHarad
+"Expansion Of Influence"
+END
+
+TOOLTIP:SecondFactionHarad
+"Second faction unlocked"
+END
+
+CONTROLBAR:ChooseRhun
+"Men Of The East"
+END
+
+CONTROLBAR:ToolTipChooseRhun
+"Unlock heroes of Rhun: The Dragon Emperor, Korîng, Balîrth, Grasha, Palando"
+END
+
+CONTROLBAR:ChooseHarad
+"Men Of The South"
+END
+
+CONTROLBAR:ToolTipChooseHarad
+"Unlock heroes of Harad: Suladân, Badhârkan, Mahud, Saléme, Alatar"
+END
+
 TOOLTIP:LackRohanForgedBladesandAxes
 "Requires 1: Research the Upgrades in the Armory, in order to enable the Equipments \n Requires 2: Draft \n increases damage dealt significantly \n Swordsmen receive additional bonus damage against other infantry \n Pikemen receive additional bonus damage against cavalry and monsters \n Cavalry receive additional bonus damage against structures"
 END
@@ -96194,7 +96234,6 @@ END
 GUI:ANGMINDiscount
 "Costs Dragons %d%%"
 END
-
 
 OBJECT:AngbandIronWorm
 "Angband Iron Worm"

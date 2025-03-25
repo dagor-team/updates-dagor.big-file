@@ -1506,7 +1506,6 @@ ModifierList ArcherCavHordeBonusRank2
     Category = LEVEL
     Modifier = HEALTH REGULARCAV_HORDE_HP_ADD_LVL2
     Modifier = DAMAGE_ADD ARCHERCAV_HORDE_DAMAGE_ADD_LVL2
-	Modifier = RANGE 4%
     Duration = 0
 End
 
