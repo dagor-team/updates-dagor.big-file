@@ -460,8 +460,8 @@
 	
 	Behavior   = OCLSpecialPower ModuleTag_DesertCracks
         SpecialPowerTemplate    	= SpellBookDesertCracks
-        TriggerFX                   = FX_FrozenLandFX
-        OCL                         = OCL_SpecialPowerFrozenLand
+        TriggerFX                   = FX_DesertLandFX
+        OCL                         = OCL_SpecialPowerDesertLand
         CreateLocation              = CREATE_AT_LOCATION
         UpdateModuleStartsAttack    = No
         AvailableAtStart            = No

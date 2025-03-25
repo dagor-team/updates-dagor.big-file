@@ -137,7 +137,7 @@ CommandButton Command_SelectUnitsMenegrothFortress
   TextLabel               = CONTROLBAR:SelectUnitsMenegrothFortress
   DescriptLabel           = CONTROLBAR:ToolTipSelectUnitsMenegrothFortress
   Radial                  = Yes
-  CommandRangeStart       = 10
+  CommandRangeStart       = 11
   CommandRangeCount       = 5
 End
 

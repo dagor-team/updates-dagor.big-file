@@ -166,7 +166,7 @@ CONTROLBAR:TooltipSpellBookForestLothlorien
 END
 
 CONTROLBAR:TooltipSpellBookGeschenkeLoriens_Neu2
-"The target hero recieves a specific gift from Lothlorien: \n Galadriel (Without the Silmaril): Recieves a Magical Necklace that decreases the cooldown of her abilities.\n Celeborn: Gains his Silver Blade as a passive, granting him +100% damage. Also grants allies close to him +50% damage for a short time.\n Haldir: "Golden Arrow" is replaced with "White Arrow of Galadriel" which stuns all units in a large radius.\n Rumil or Orophin: Grants them armour of the Galadhrim which gives them a large increase to their armour at the cost of speed.\n Thranduil: Equips his Battle Armour increasing his defense and vision range.\n Legolas: Recieves the Bow of Galadriel, improving the damage of "Hawk Strike" and "Arrow Wind".\n  Tauriel: Recieves an enchanted brooch that heals allied heroes close to her.\n Radagast: Receives an Elentári gem from Galadriel, increasing the power of his staff.\n Left-Click on the icon and then click the desired hero."
+"The target hero recieves a specific gift from Lothlorien: \n Galadriel (Without the Silmaril): Recieves a Magical Necklace that decreases the cooldown of her abilities and increases her damage by 60.\n Celeborn: Gains his Silver Blade as a passive, granting him +100% damage. Also grants allies close to him +50% damage for a short time.\n Haldir: "Golden Arrow" is replaced with "White Arrow of Galadriel" which stuns all units in a large radius.\n Rumil or Orophin: Grants them armour of the Galadhrim which gives them a large increase to their armour at the cost of speed.\n Thranduil: Equips his Battle Armour increasing his defense and vision range.\n Legolas: Recieves the Bow of Galadriel, improving the damage of "Hawk Strike" and "Arrow Wind".\n  Tauriel: Recieves an enchanted brooch that heals allied heroes close to her.\n Radagast: Receives an Elentári gem from Galadriel, increasing the power of his staff.\n Left-Click on the icon and then click the desired hero."
 END
 
 CONTROLBAR:SpellBookNoldorAman
@@ -96180,7 +96180,7 @@ CONTROLBAR:BuildAngbandFireDrake
 END
 
 CONTROLBAR:ToolTipBuildAngbandFireDrake
-"Requires: Angband Fortress Level 2 \n Unit Type: Elite Monster \n Strong vs: Infantry \n You can only train 4 Fire Drakes"
+"Requires: Angband Fortress Level 2 \n Unit Type: Elite Monster \n Strong vs: Infantry \n You can only train 5 Fire Drakes"
 END
 
 CONTROLBAR:BuildAngbandDragon
