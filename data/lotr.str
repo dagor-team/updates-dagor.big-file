@@ -111179,6 +111179,18 @@ CONTROLBAR:ToolTipHaradBarracks
 "Military Structure \n Trains haradrim (southrons) warriors. "
 END
 
+CONTROLBAR:ConstructBalchothBarracks
+"Build Balchoth &Barracks"
+END
+
+CONTROLBAR:ToolTipBalchothBarracks
+"Military Structure \n Trains Balchoth warriors."
+END
+
+OBJECT:BalchothBarracks
+"Balchoth Barracks"
+END
+
 OBJECT:HaradBarracks
 "Harad Barracks"
 END
