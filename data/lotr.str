@@ -1451,7 +1451,7 @@ CONTROLBAR:ElendilTheTall
 End
 
 CONTROLBAR:ToolTipElendilTheTall
-"Elendil does a meta aoe attack on the selected target \n Left-click on a selected enemy unit"
+"Elendil does a meta aoe attack on the selected target. \n At level 5, attack does double damage in a broader radius. \n Left-click on a selected enemy unit"
 End
 
 CONTROLBAR:HelmSlam
@@ -54290,7 +54290,7 @@ CONTROLBAR:ConstructGondorTowerGuardHorde
 END
 
 CONTROLBAR:ToolTipBuildGondorTowerGuardHorde
-"Requires: Barracks Level 2 \n Unit Type: Regular Pikemen \n Strong vs: Cavalry"
+"Requires: Barracks Level 3 \n Unit Type: Regular Pikemen \n Strong vs: Cavalry"
 END
 
 CONTROLBAR:ToolTipBuildGondorShieldGuardHorde_Monument
@@ -92128,7 +92128,7 @@ CONTROLBAR:IngweKingoftheVanyar
 END
 
 CONTROLBAR:ToolTipIngweKingoftheVanyar
-"As one of the first 12 elves awakened in Cuiviénen and one of the 3 ambassadors with Finwe  and Elwe , \n Ingwe is considered one of the wisest and most powerful elves among the Eldar. \n Nearby units gain 50% armor against magic attacks \n Passive ability"
+"As one of the first 12 elves awakened in Cuiviénen and one of the 3 ambassadors with Finwe and Elwe,\n Ingwe is considered one of the wisest and most powerful elves among the Eldar. \n Nearby units gain 25% armor against magic attacks \n Passive ability"
 END
 
 CONTROLBAR:IngweGalathilionTree
@@ -92144,7 +92144,7 @@ CONTROLBAR:IngweIngweron
 END
 
 CONTROLBAR:ToolTipIngweIngweron
-"Requires: Level 6 \n Ingwe  clearly exceeds the normal and natural limitations of mortality\n Having lived with the music and wisdom of Aman for all ages, \n he is the wisest of all the elves and is a master of almost any profession and skill\n Nearby heroes increase their armor by 50% \n Ingwe  get an improvement in his armor\n Passive ability"
+"Requires: Level 6 \n Ingwe clearly exceeds the normal and natural limitations of mortality\n Having lived with the music and wisdom of Aman for all ages,\n he is the wisest of all the elves and is a master of almost any profession and skill\n Nearby heroes increase their armor by 50% and gain experience twice as fast.\n Ingwe gets improved armor\n Passive ability"
 END
 
 CONTROLBAR:IngweLightMindonEldalieva
@@ -94109,7 +94109,7 @@ CONTROLBAR:EdainOutlawBarahirEliteDeathWish
 END
 
 CONTROLBAR:ToolTipEdainOutlawBarahirEliteDeathWish
-"Requires: Level 8 \n Barahir's Outlaws cause 250% damage, but lose 25% of their health for 30 seconds \n Left-click to activate"
+"Requires: Level 7 \n Barahir's Outlaws cause 250% damage, but lose 25% of their health for 30 seconds \n Left-click to activate"
 END
 
 
