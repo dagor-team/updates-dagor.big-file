@@ -150,7 +150,7 @@
 
       Behavior = PlayerHealSpecialPower ModuleTag_HealLothlorien
         SpecialPowerTemplate  = SpellBookHealLothlorien
-        HealAffects              = INFANTRY CAVALRY MONSTER MACHINE SHIP DOZER
+        HealAffects              = INFANTRY CAVALRY MONSTER MACHINE SHIP DOZER HERO
         HealAmount              = 0.6
         HealRadius              = SPELL_HEAL_RADIUS_UNIT_SCAN
         HealFX                  = FX_SpellHealUnitHealBuff
@@ -163,7 +163,7 @@
 
     Behavior = PlayerHealSpecialPower ModuleTag_HealRohan
         SpecialPowerTemplate  = SpellBookHealRohan
-        HealAffects              = INFANTRY CAVALRY MONSTER MACHINE SHIP DOZER
+        HealAffects              = INFANTRY CAVALRY MONSTER MACHINE SHIP DOZER HERO
         HealAmount              = 0.6
         HealRadius              = SPELL_HEAL_RADIUS_UNIT_SCAN
         HealFX                  = FX_SpellHealUnitHealBuff
@@ -176,7 +176,7 @@
 
     Behavior = PlayerHealSpecialPower ModuleTag_HealImladris
         SpecialPowerTemplate  = SpellBookHealImladris
-        HealAffects              = INFANTRY CAVALRY MONSTER MACHINE SHIP DOZER
+        HealAffects              = INFANTRY CAVALRY MONSTER MACHINE SHIP DOZER HERO
         HealAmount              = 0.6
         HealRadius              = SPELL_HEAL_RADIUS_UNIT_SCAN
         HealFX                  = FX_SpellHealUnitHealBuff
@@ -455,7 +455,7 @@
 
     Behavior = PlayerHealSpecialPower ModuleTag_Zwergenbier
         SpecialPowerTemplate  = SpellBookZwergenbier
-        HealAffects           = INFANTRY CAVALRY MONSTER DOZER
+        HealAffects           = INFANTRY CAVALRY MONSTER DOZER HERO
         HealAmount            = 0.8
         HealRadius            = SPELL_HEAL_RADIUS_UNIT_SCAN
         HealFX                = FX_SpellZwergenbierHealUnitHealBuff
@@ -661,7 +661,7 @@
 
       Behavior = PlayerHealSpecialPower ModuleTag_HealingOfTheOld
         SpecialPowerTemplate    = SpellBookHealingOfTheOld
-        HealAffects             = INFANTRY CAVALRY MONSTER MACHINE SHIP DOZER
+        HealAffects             = INFANTRY CAVALRY MONSTER MACHINE SHIP DOZER HERO
         HealAmount              = 0.6
         HealRadius              = SPELL_HEAL_RADIUS_UNIT_SCAN
         HealFX                  = FX_JustAOldHealingFX
