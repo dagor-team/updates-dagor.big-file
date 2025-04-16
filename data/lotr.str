@@ -3345,7 +3345,7 @@ CONTROLBAR:ToolTipCommandSelectRevivablesMenFortress_Neu
 END
 
 CONTROLBAR:ToolTipBuildArnorPalantirwachterHorde_Neu
-"Requires: Arnor Barracks Level 3 and Banner carriers reseached \n Unit Type: Elite Infantry \n Strong vs: Depending on the situation \n Can switch between Sword and Lance"
+"Requires: Arnor Barracks Level 3 and Banner carriers reseached \n Unit Type: Elite Infantry \n Strong vs: Depending on the situation \n Can switch between Sword and Lance \n You can maintain only 5 battaillons at a time"
 END
 
 CONTROLBAR:SelectRevivablesHeroeGeneric
@@ -91721,7 +91721,7 @@ CONTROLBAR:FinrodLeadership
 END
 
 CONTROLBAR:ToolTipFinrodLeadership
-"Finrod was first of the Noldor to come across the peoples of Men.\n Gondor infantry near Finrod gain 50% elemental resitance and 25% magic resitance.\n\n Level 5: Significantly reduces the speed, vision, and armor of nearby monsters.\n Passive ability"
+"Finrod was first of the Noldor to come across the peoples of Men.\n Gondor infantry near Finrod gain 15% elemental resitance and 25% magic resitance.\n\n Level 5: Significantly reduces the speed, vision, and armor of nearby monsters.\n Passive ability"
 END
 
 CONTROLBAR:FinrodLichtkristall
@@ -91741,7 +91741,7 @@ CONTROLBAR:FinrodHaltetStand
 END
 
 CONTROLBAR:ToolTipFinrodHaltetStand
-"Requires: Level 6 \n It was Ulmo who advised Finrod to build the mighty stronghold of Nargothrond, and Finrod requests his guidance once more.\nUlmo empowers an allied building.\n The building heals and replenishes fallen soldiers to all nearby allied units for 30 seconds.\n Enemy units near the building lose 50% damage.\n Left-click on icon then left-click on allied structure"
+"Requires: Level 6 \n It was Ulmo who advised Finrod to build the mighty stronghold of Nargothrond, and Finrod requests his guidance once more.\nUlmo empowers an allied building.\n The building heals and replenishes fallen soldiers to all nearby allied units for 10 seconds.\n Enemy units near the building lose 50% damage.\n Left-click on icon then left-click on allied structure"
 END
 
 CONTROLBAR:FinrodBladeMaster

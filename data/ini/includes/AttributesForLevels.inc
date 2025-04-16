@@ -248,7 +248,7 @@ End
 
 ModifierList AdvancedImladrisHordeBonusRank2
     Category = LEVEL
-    Modifier = HEALTH ADVANCED5_HORDE_HP_ADD_LVL2 ImladrisLancerRank2 ImladrisArcherRank2 ImladrisBannerLeadership
+    Modifier = HEALTH ADVANCED5_HORDE_HP_ADD_LVL2 ImladrisLancerRank2 ImladrisBannerLeadership
     Modifier = DAMAGE_ADD ADVANCED5_HORDE_DAMAGE_ADD_LVL2
     Duration = 0
 End
@@ -278,7 +278,7 @@ End
 
 ModifierList AdvancedImladrisMagesHordeBonusRank2
     Category = LEVEL
-    Modifier = HEALTH ADVANCED3_HORDE_HP_ADD_LVL2 ImladrisLancerRank2 ImladrisArcherRank2 ImladrisBannerLeadership
+    Modifier = HEALTH ADVANCED3_HORDE_HP_ADD_LVL2 ImladrisLancerRank2  ImladrisBannerLeadership
     Modifier = DAMAGE_ADD ADVANCED3_HORDE_DAMAGE_ADD_LVL2
     Duration = 0
 End
