@@ -2321,7 +2321,7 @@ CONTROLBAR:ToolTipShadowPrinceAura
 END
 
 CONTROLBAR:SpecialAbilityShadowPrinceBattleProwess
-"Battle Prowess (&E)"
+"Battle Prowess (&P)"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityShadowPrinceBattleProwess
@@ -3017,7 +3017,7 @@ CONTROLBAR:LW_ToolTip_MordorAufseherHorde
 END
 
 CONTROLBAR:SpecialAbilityRetterinderNot
-"&Savior of Trouble"
+"Sa&vior of Trouble"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityRetterinderNot
@@ -3453,7 +3453,7 @@ OBJECT:Stallagnit
 END
 
 CONTROLBAR:SpecialAbilityPalandoSteinmauer
-"&Stonewall"
+"Stone&wall"
 END
 
 CONTROLBAR:PalandoRecruit_Neu
@@ -3469,7 +3469,7 @@ CONTROLBAR:ToolTipPalandoFesthalten
 END
 
 CONTROLBAR:SpecialAbilityPalandoErschuttern
-"Shake the &Earth"
+"Sha&ke the Earth"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityPalandoErschuttern
@@ -7447,7 +7447,7 @@ CONTROLBAR:ToolTipElvenCloakGildor
 END
 
 CONTROLBAR:GildorGnadenschuss
-"Coup de &Grace"
+"&Coup de Grace"
 END
 
 CONTROLBAR:ToolTipGildorGnadenschuss
@@ -7571,7 +7571,7 @@ CONTROLBAR:DwarvenMurinRevive
 END
 
 CONTROLBAR:DrarFlammenpfeile
-"We&apon Toggle"
+"Weapon &Toggle"
 END
 
 CONTROLBAR:ToolTipDrarFlammenpfeile
@@ -8211,7 +8211,7 @@ CONTROLBAR:ToolTipSpecialAbilityThranduilSchildwall
 END
 
 CONTROLBAR:SpecialAbilityFesteDusterwalds
-"Feasts of &Starlight"
+"Feasts of Star&light"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityFesteDusterwalds
@@ -10176,7 +10176,7 @@ CONTROLBAR:ToolTipEffizienteErnte
 END
 
 CONTROLBAR:SpecialAbilityErestorsFarm
-"&Erestors Farm"
+"Erestors &Farm"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityErestorsFarm
@@ -11410,7 +11410,7 @@ CONTROLBAR:BestienmeisterToggleTooltipBack
 END
 
 CONTROLBAR:SpecialAbilityKampfgeistderBestie
-"&Fighting Spirit of the Beast"
+"Fighting S&pirit of the Beast"
 END
 
 CONTROLBAR:SpecialAbilityMondschein
@@ -14216,7 +14216,7 @@ CONTROLBAR:ToolTipSpecialAbilityHalbaradPfeilhagel
 END
 
 CONTROLBAR:SpecialAbilityHalbaradPfeilhagelFavour
-"Leader of the Duned&ain"
+"&Leader of the Dunedain"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityHalbaradPfeilhagelFavour
@@ -15053,7 +15053,7 @@ CONTROLBAR:ToolTipPurchaseUpgradeGaladrielRingablehnen
 END
 
 CONTROLBAR:SpecialAbilityBlickderweiﬂenFrau
-"Power o&f the White lady"
+"&Power of the White lady"
 END
 
 CONTROLBAR:MagiedesgoldenenWaldes
@@ -15818,7 +15818,7 @@ CONTROLBAR:ToolTipSpecialAbilityDefilerWargsprung
 END
 
 CONTROLBAR:SpecialAbilityBestienmeisterLeap
-"Rage &Filled"
+"&Rage Filled"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityBestienmeisterLeap
@@ -23866,7 +23866,7 @@ OBJECT:HordeMiniBabyDrake
 END
 
 CONTROLBAR:MiniDragonHotkey
-"&Drogoth's Breedlings"
+"Drogoth's &Breedlings"
 END
 
 OBJECT:Kaltdrache
@@ -25700,7 +25700,7 @@ CONTROLBAR:ToolTipSpecialAbilityDwarvenWachterChargeAttack
 END
 
 CONTROLBAR:GloriousChargeMod
-"&Glorious Attack"
+"&lorio&us Attack"
 END
 
 CONTROLBAR:ToolTipGloriousChargeModTheo
@@ -28666,7 +28666,7 @@ CONTROLBAR:ToolTipFaramirWarSpeech
 END
 
 CONTROLBAR:FaramirKnightRanger
-"Knight/&Ranger Toggle"
+"&Knight/Ranger Toggle"
 END
 
 CONTROLBAR:ToolTipFaramirKnightRanger
@@ -36533,7 +36533,7 @@ CONTROLBAR:SpecialAbilityBalrogScream
 END
 
 CONTROLBAR:SpecialAbilityBalrogBreath
-"B&reathe Fire"
+"Breathe Fire (&Y)"
 END
 
 CONTROLBAR:SpecialAbilityBalrogWings
@@ -42296,7 +42296,7 @@ CONTROLBAR:ToolTipEvilBuildSentryTower
 END
 
 CONTROLBAR:SpecialAbilitySarumanFireball
-"Fi&reball"
+"Fire&ball"
 END
 
 CONTROLBAR:ToolTipSpecialAbilitySarumanFireball
@@ -43808,7 +43808,7 @@ CONTROLBAR:ToolTipSummonEntAllies
 END
 
 CONTROLBAR:KingsFavor
-"Royal Favo&r"
+"Royal Fav&or"
 END
 
 CONTROLBAR:ToolTipKingsFavor
@@ -43876,7 +43876,7 @@ CONTROLBAR:ToolTipAxeThrow
 END
 
 CONTROLBAR:Slayer
-"Destroye&r"
+"Des&troyer"
 END
 
 CONTROLBAR:ToolTipSlayer
@@ -44064,7 +44064,7 @@ CONTROLBAR:ToolTipWizardBlast
 END
 
 CONTROLBAR:WordofPower
-"Wo&rd of Power"
+"Word of &Power"
 END
 
 CONTROLBAR:ToolTipWordofPower
@@ -44180,7 +44180,7 @@ CONTROLBAR:ToolTipThrowSpear
 END
 
 CONTROLBAR:HornofGondor
-"Ho&rn of Gondor"
+"&Horn of Gondor"
 END
 
 CONTROLBAR:ToolTipHornofGondor
@@ -71000,7 +71000,7 @@ CONTROLBAR:ToolTipBackstab
 END
 
 CONTROLBAR:CorrodeAllegiance
-"Co&rrode Allegiance"
+"&Corrode Allegiance"
 END
 
 CONTROLBAR:ToolTipCorrodeAllegiance
@@ -71024,7 +71024,7 @@ CONTROLBAR:ToolTipGBloodHunt
 END
 
 CONTROLBAR:SharkuManEater
-"Man Eate&r"
+"&Man Eater"
 END
 
 CONTROLBAR:ToolTipSharkuManEater
@@ -71040,7 +71040,7 @@ CONTROLBAR:ToolTipElrondFarsight
 END
 
 CONTROLBAR:ElrondRestoration
-"&Restoration"
+"Res&toration"
 END
 
 CONTROLBAR:ToolTipElrondRestoration
@@ -71112,7 +71112,7 @@ CONTROLBAR:ToolTipGlorfindelWindRider_New
 END
 
 CONTROLBAR:GlorfindelStarlight
-"Sta&rlight"
+"Star&light"
 END
 
 CONTROLBAR:ToolTipGlorfindelStarlight
@@ -71176,7 +71176,7 @@ CONTROLBAR:ToolTipSummonRoyalGuardEreborNew
 END
 
 CONTROLBAR:MightyRage
-"Mighty &Rage"
+"&Mighty Rage"
 END
 
 CONTROLBAR:ToolTipMightyRage
@@ -71200,7 +71200,7 @@ CONTROLBAR:ToolTipDwarvenGloinShakeFoundation
 END
 
 CONTROLBAR:GloinSmash
-"Shatter Hamme&r"
+"Shatter &Hammer"
 END
 
 CONTROLBAR:ToolTipGloinSmash
@@ -71224,7 +71224,7 @@ CONTROLBAR:ToolTipSpecialAbilityFavourArvedui
 END
 
 CONTROLBAR:GoblinKingPoisonedStinger
-"Poisoned Stinge&r"
+"Poisoned Sti&nger"
 END
 
 CONTROLBAR:ToolTipGoblinKingPoisonedStinger
@@ -71276,7 +71276,7 @@ CONTROLBAR:ToolTipSpecialAbilityWildShelobTunnel
 END
 
 CONTROLBAR:SpecialAbilityFireDrakeInferno
-"Infe&rno"
+"&Inferno"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityFireDrakeInferno
@@ -71284,7 +71284,7 @@ CONTROLBAR:ToolTipSpecialAbilityFireDrakeInferno
 END
 
 CONTROLBAR:SpecialAbilityFiresOfDoom
-"Fi&res of Doom"
+"Fires &of Doom"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityFiresOfDoom
@@ -71300,7 +71300,7 @@ CONTROLBAR:TooltipTerribleFury
 END
 
 CONTROLBAR:SpecialAbilityDrogothFireball
-"Fi&reball"
+"Fire%ball"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityDrogothFireball
@@ -71328,7 +71328,7 @@ CONTROLBAR:ToolTipSpecialAbilityDrogothHealing
 END
 
 CONTROLBAR:SpecialAbilityIncinerate
-"Incin&erate"
+"&Incinerate"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityIncinerate
@@ -71628,7 +71628,7 @@ CONTROLBAR:PurchaseIsengardWargSentry
 END
 
 CONTROLBAR:Roar
-"&Roar"
+"R&oar"
 END
 
 CONTROLBAR:RohanGamlingRecruit
@@ -72013,7 +72013,7 @@ CONTROLBAR:WildMountainGiantStomp
 END
 
 CONTROLBAR:WildShelobPoisonedStinger
-"Poisoned Stinge&r"
+"&Poisoned Stinger"
 END
 
 CONTROLBAR:WitchKingDismount
@@ -87162,7 +87162,7 @@ END
 
 
 CONTROLBAR:DestructionMark    
-"Flames of Anfauglith(&E)"
+"Flames of Anfauglith(&W)"
 END
 
 CONTROLBAR:ToolTipDestructionMark
@@ -90434,7 +90434,7 @@ CONTROLBAR:NoldorMaglorHotkey
 END
 
 CONTROLBAR:MaglorSong
-"Maglor's &Song"
+"&Maglor's Song"
 END
 
 CONTROLBAR:ToolTipMaglorSong
@@ -90635,7 +90635,7 @@ CONTROLBAR:ToolTipOromeLeadership
 END
 
 CONTROLBAR:OromeValaroma
-"V&alaroma"
+"&Valaroma"
 END
 
 CONTROLBAR:TooltipOromeValaroma
@@ -90643,7 +90643,7 @@ CONTROLBAR:TooltipOromeValaroma
 END
 
 CONTROLBAR:SpecialAbilityMoveUnseenTauronOrome
-"T&auron"
+"&Tauron"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityMoveUnseenTauronOrome
@@ -90659,7 +90659,7 @@ CONTROLBAR:ToolTipBemaOrome
 END
 
 CONTROLBAR:SpecialAbilityMaiarofOrome
-"M&aiar of Orome"
+"&Maiar of Orome"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityMaiarofOrome
@@ -90731,7 +90731,7 @@ CONTROLBAR:ToolTipTulkasAstaldo
 END
 
 CONTROLBAR:TulkasStomp
-"Shake the &Ground"
+"S&hake the Ground"
 END
 
 CONTROLBAR:ToolTipTulkasStomp
@@ -90767,7 +90767,7 @@ CONTROLBAR:ToolTipTurgonHighKing
 END
 
 CONTROLBAR:TurgonDefender
-"&Defenders of the City"
+"Defenders of the &City"
 END
 
 CONTROLBAR:ToolTipTurgonDefender
@@ -90791,7 +90791,7 @@ CONTROLBAR:TooltipTurgonSummonTuor
 END
 
 CONTROLBAR:TurgonGondolinTower
-"&Gwarestrin"
+"Gwares&trin"
 END
 
 CONTROLBAR:TooltipTurgonGondolinTower
@@ -90843,7 +90843,7 @@ CONTROLBAR:ToolTipEcthelionWaterBall
 END
 
 CONTROLBAR:EcthelionGondolinFountain
-"&Gondolin Fountain"
+"Gondoli&n Fountain"
 END
 
 CONTROLBAR:TooltipEcthelionGondolinFountain
@@ -91079,7 +91079,7 @@ CONTROLBAR:ToolTipMablungGraceofMerethAderthad
 END
 
 CONTROLBAR:MablungEpesse
-"&Epess "
+"E&pess "
 END
 
 CONTROLBAR:ToolTipMablungEpesse
@@ -91140,7 +91140,7 @@ CONTROLBAR:ToolTipBelegMoveUnseen
 END
 
 CONTROLBAR:BelegDeadEye
-"&Dead Eye"
+"Dead E&ye"
 END
 
 CONTROLBAR:ToolTipBelegDeadEye
@@ -91514,7 +91514,7 @@ CONTROLBAR:ToolTipBerenArmorUpgrade
 END
 
 CONTROLBAR:BerenAngrist
-"An&grist"
+"A%ngrist"
 END
 
 CONTROLBAR:ToolTipBerenAngrist
@@ -91664,7 +91664,7 @@ CONTROLBAR:ToolTipThorondorMessengerofManwe
 END
 
 CONTROLBAR:ThorondorScreech
-"&Screech"
+"S&creech"
 END
 
 CONTROLBAR:TooltipThorondorScreech
@@ -91672,7 +91672,7 @@ CONTROLBAR:TooltipThorondorScreech
 END
 
 CONTROLBAR:ThorondorEyeoftheStorm
-"&Eye of the Storm"
+"Eye of the Storm"
 END
 
 CONTROLBAR:ToolTipThorondorEyeoftheStorm
@@ -91814,7 +91814,7 @@ CONTROLBAR:ToolTipManweTeleport
 END
 
 CONTROLBAR:ManweSulimo
-"&Sulimo"
+"Sulimo"
 END
 
 CONTROLBAR:TooltipManweSulimo
@@ -92132,7 +92132,7 @@ CONTROLBAR:ToolTipIngweKingoftheVanyar
 END
 
 CONTROLBAR:IngweGalathilionTree
-"&Galathilion Tree"
+"Galathilion &Tree"
 END
 
 CONTROLBAR:TooltipIngweGalathilionTree
@@ -92156,7 +92156,7 @@ CONTROLBAR:TooltipIngweLightMindonEldalieva
 END
 
 CONTROLBAR:IngweEalentriStorm
-"Elent ri &Storm"
+"Elent ri Storm"
 END
 
 CONTROLBAR:ToolTipIngweEalentriStorm
@@ -92217,7 +92217,7 @@ CONTROLBAR:ToolTipTurinDragonHelm
 END
 
 CONTROLBAR:TurinDagnirGlaurunga
-"Dagnir &Glaurunga"
+"Dag&nir Glaurunga"
 END
 
 CONTROLBAR:ToolTipTurinDagnirGlaurunga
@@ -92583,7 +92583,7 @@ CONTROLBAR:ToolTipSpecialAbilityYavannaSummonEnts
 END
 
 CONTROLBAR:SpecialAbilityYavannaWoodSeed
-"P&alurien"
+"&Palurien"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityYavannaWoodSeed
@@ -92607,7 +92607,7 @@ CONTROLBAR:ToolTipSpellPowerYavannaGiverofFruits
 END
 
 CONTROLBAR:YavannaToggleTreeForm
-"M&etamorphosis"
+"&Metamorphosis"
 END
 
 CONTROLBAR:TooltipYavannaToggleTreeForm
@@ -92659,7 +92659,7 @@ CONTROLBAR:TooltipAzaghalFury
 END
 
 CONTROLBAR:AzaghalSlam
-"&Slam"
+"S&lam"
 END
 
 CONTROLBAR:ToolTipAzaghalSlam
@@ -92667,7 +92667,7 @@ CONTROLBAR:ToolTipAzaghalSlam
 END
 
 CONTROLBAR:AzaghalBaneofGlaurung
-"Bane of &Glaurung"
+"&Bane of Glaurung"
 END
 
 CONTROLBAR:ToolTipAzaghalBaneofGlaurung
@@ -92853,7 +92853,7 @@ OBJECT:ToolTipSpecialAbilityAuleStoneColumns
 End
 
 CONTROLBAR:SpecialAbilityValinorAuleQuickSand
-"Quick&Sand"
+"Q&uickSand"
 End
 
 CONTROLBAR:ToolTipSpecialAbilityValinorAuleQuickSand
@@ -95135,7 +95135,7 @@ CONTROLBAR:TooltipMelkorNethermostMist
 END
 
 CONTROLBAR:MelkorEarthquake
-"Desolation of Ard-&Galen"
+"Des&olation of Ard-Galen"
 END
 
 CONTROLBAR:ToolTipMelkorEarthquake
@@ -95265,7 +95265,7 @@ CONTROLBAR:ToolTipAncalagoGreatestDragon
 END
 
 CONTROLBAR:AncalagonIncinerate
-"Fire&storm"
+"Firestorm"
 END
 
 CONTROLBAR:ToolTipAncalagonIncinerate
@@ -95317,7 +95317,7 @@ CONTROLBAR:ToolTipGothmogWings
 END
 
 CONTROLBAR:GothmogFireBreath
-"Breathe &Fire"
+"&Breathe Fire"
 END
 
 CONTROLBAR:ToolTipGothmogFireBreath
@@ -95377,7 +95377,7 @@ CONTROLBAR:ToolTipAngbandScathaPillage
 END
 
 CONTROLBAR:AngbandScathaScreech
-"&Screech"
+"Screech"
 END
 
 CONTROLBAR:TooltipAngbandScathaScreech
@@ -95591,7 +95591,7 @@ CONTROLBAR:AngbandCarcharothHotkey
 END
 
 CONTROLBAR:CarcharothDarkness
-"Dark from the Dun&geons"
+"Dar%k from the Dungeons"
 END
 
 CONTROLBAR:TooltipCarcharothDarkness
@@ -95885,11 +95885,11 @@ CONTROLBAR:TooltipDraugluinArmorUpgrade
 END
 
 CONTROLBAR:DraugluinWolfwinter
-"Wolves Tol-in-&Garouth"
+"%Wolves of Tol-in-Garouth"
 END
 
 CONTROLBAR:ToolTipDraugluinWolfwinter
-"Requires: Level 10 \n The hunt of the Wolves begins.\n Drauglin calls his wolves to feast during the night. Every enemy unit on the battlefield is ambushed by a wolf of Drauglin.\n Left-click to activate"
+"Requires: Level 10 \n The hunt of the Wolves begins.\n Drauglin calls his wolves to feast during the night. Enemy units on the battlefield are ambushed by the wolves of Drauglin.\n Left-click to activate"
 END
 
 
@@ -95930,7 +95930,7 @@ CONTROLBAR:ToolTipUnderworldOverlordLeadership
 END
 
 CONTROLBAR:UnderworldOverlordMinionsSpawn
-"&Servants of the Master"
+"Servants of the Master"
 END
 
 CONTROLBAR:ToolTipUnderworldOverlordMinionsSpawn
@@ -95995,7 +95995,7 @@ CONTROLBAR:UnderworldWizardHotkey
 END
 
 CONTROLBAR:UnderworldWizardDissent
-"&Disent"
+"Dise&nt"
 END
 
 CONTROLBAR:ToolTipUnderworldWizardDissent
@@ -96638,7 +96638,7 @@ CONTROLBAR:ToolTipRavagerArmorUpgrade
 END
 
 CONTROLBAR:UnmatchedFury
-"Unl&eashed Fury"
+"&Unleashed Fury"
 END
 
 CONTROLBAR:ToolTipUnmatchedFury
@@ -97577,7 +97577,7 @@ CONTROLBAR:ToolTipMaeglinSchattenwanderungStart
 END
 
 CONTROLBAR:MaeglinSchattenwanderung
-"&Shadow Walk"
+"Shadow Walk"
 END
 
 CONTROLBAR:ToolTipMaeglinSchattenwanderung
@@ -98074,7 +98074,7 @@ CONTROLBAR:ToolTipSpecialAbilityKeinFliehen
 END
 
 CONTROLBAR:SpecialAbilityDarkMarshalPowerUnleashed
-"Power Unleashed(&E)"
+"Power Unleashed(&P)"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityDarkMarshalPowerUnleashed
@@ -109427,7 +109427,7 @@ CONTROLBAR:ToolTipCultOfTheBoar
 END
 
 CONTROLBAR:CultOfTheBear
-"Cult Of The B&ear"
+"Cult Of The &Bear"
 END
 
 CONTROLBAR:ToolTipCultOfTheBear
@@ -109643,7 +109643,7 @@ CONTROLBAR:ToolTipSmaugGround
 END
 
 CONTROLBAR:TaniquetilWatcherWeaponSong
-"The Watcher's &Song"
+"The &Watcher's Song"
 END
 
 CONTROLBAR:ToolTipTaniquetilWatcherWeaponSong
@@ -109827,7 +109827,7 @@ CONTROLBAR:MordorGuritzHotkey
 END
 
 CONTROLBAR:MordorGuritzSummonCorsairs
-"S&ea rats"
+"Sea rats(&C)"
 END
 
 CONTROLBAR:ToolTipMordorGuritzSummonCorsairs
@@ -109871,7 +109871,7 @@ CONTROLBAR:ToolTipMordorArgdushDiscipline
 END
 
 CONTROLBAR:SpecialAbilityMordorArgdushCarnage
-"T&aste Blood"
+"Taste &Blood"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityMordorArgdushCarnage
@@ -110239,7 +110239,7 @@ CONTROLBAR:ToolTipGirdleofMelian
 END
 
 CONTROLBAR:MelianSong
-"&Song Of Melian"
+"Song Of Melian"
 END
 
 CONTROLBAR:ToolTipMelianSong
@@ -110255,7 +110255,7 @@ OBJECT:ToolTipMelianPlantForest
 End
 
 CONTROLBAR:MelianLembasBread
-"L&embas Bread"
+"&Lembas Bread"
 END
 
 CONTROLBAR:TooltipMelianLembasBread
@@ -110311,7 +110311,7 @@ CONTROLBAR:ToolTipToggleFormationNoldorAmanArcher2
 END
 
 CONTROLBAR:NoldorAmanArcherWeaponSong
-"The Battle &Song"
+"The &Battle Song"
 END
 
 CONTROLBAR:ToolTipNoldorAmanArcherWeaponSong
@@ -110331,7 +110331,7 @@ CONTROLBAR:ToolTipShadowKnightZaphragorUpgrade
 END
 
 CONTROLBAR:ManweSummonEagles
-"The Eagl&es of Manwe "
+"T&he Eagles of Manwe "
 END
 
 CONTROLBAR:ToolTipManweSummonEagles
@@ -110543,7 +110543,7 @@ CONTROLBAR:ToolTipPurchaseTechnologyArnorCounterWeights
 END
 
 CONTROLBAR:PurchaseUpgradeArnorCounterWeights
-"Purchase dense CounterW&eights"
+"Purchase dense Counter&Weights"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeArnorCounterWeights
