@@ -25214,7 +25214,7 @@ END
 
 
 CONTROLBAR:ToolTipBuildMordorRhunSwordHorde
-"Unit Type: Advanced Infantry \n  \n Requires Barracks Level 3, forged blades and shields of the East must be researched  \n \n  Strong vs: Melee, improved armor against arrows and cavalry"
+"Unit Type: Advanced Infantry \n  \n Requires Barracks Level 3 \n \n Strong vs: Melee, improved armor against arrows and cavalry"
 END
 
 CONTROLBAR:ConstructEvilmenRhunSwordnewHorde

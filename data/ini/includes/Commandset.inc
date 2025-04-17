@@ -2040,6 +2040,35 @@ CommandSet HaradBarracksCommandSetLevel3
         6    = Command_Sell
 End
 
+CommandSet HaradBarracksMordorCommandSet
+        1    = Command_ConstructEasterlingHorde
+        2    = Command_ConstructEvilmenHaradSwordHorde
+        3    = Command_ConstructMordorHaradrimLancerModHordeBarracks
+        4    = Command_ConstructHaradHaradrimArcherHordeBarracks
+        5    = Command_ConstructMordorRhunSchwertHorde
+        6    = Command_UpgradeHaradBarracksLevel2
+        7    = Command_Sell
+End
+
+CommandSet HaradBarracksMordorCommandSetLevel2
+        1    = Command_ConstructEasterlingHorde
+        2    = Command_ConstructEvilmenHaradSwordHorde
+        3    = Command_ConstructMordorHaradrimLancerModHordeBarracks
+        4    = Command_ConstructHaradHaradrimArcherHordeBarracks
+        5    = Command_ConstructMordorRhunSchwertHorde
+        6    = Command_UpgradeHaradBarracksLevel3
+        7    = Command_Sell
+End
+
+CommandSet HaradBarracksMordorCommandSetLevel3
+        1    = Command_ConstructEasterlingHorde
+        2    = Command_ConstructEvilmenHaradSwordHorde
+        3    = Command_ConstructMordorHaradrimLancerModHordeBarracks
+        4    = Command_ConstructHaradHaradrimArcherHordeBarracks
+        5    = Command_ConstructMordorRhunSchwertHorde
+        6    = Command_Sell
+End
+
 CommandSet BilboCommandSet1
     1    = Command_ToggleStance
     2    = Command_SpecialAbilityBilboVerstecken
