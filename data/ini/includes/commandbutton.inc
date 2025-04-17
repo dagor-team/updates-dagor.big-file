@@ -116,7 +116,7 @@ CommandButton Command_SelectRevivablesMenegrothFortress
   DescriptLabel           = CONTROLBAR:ToolTipSelectRevivablesMenegrothFortress
   Radial                  = Yes
   CommandRangeStart       = 16
-  CommandRangeCount       = 18
+  CommandRangeCount       = 17
 End
 
 CommandButton Command_SelectUpgradesMenegrothFortress
