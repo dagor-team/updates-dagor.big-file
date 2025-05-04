@@ -529,6 +529,7 @@
     <EventList Name="IsengardFighterFunctions" Inherit="MordorFighterFunctions">
         <!-- This contains events specific to the IsengardFighter. Kris -->
         <EventHandler EventName="OnCreated"                ScriptFunctionName="OnIsengardFighterCreated" DebugSingleStep="false"/>
+		<EventHandler EventName="ModelConditionUSER_4"	   ScriptFunctionName="ObjectTriggerEnrageEnemies"       DebugSingleStep="false"/>
     </EventList>
 
     <EventList Name="WargRiderFunctions" Inherit="MordorFighterFunctions">
