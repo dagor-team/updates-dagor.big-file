@@ -183,11 +183,11 @@ CONTROLBAR:ToolTipConstructMenegrothFortress_wotr
 END
 
 CONTROLBAR:MenegrothFortressLevel4
-"&Upgrade Fortress Level 4"
+"Upgr&ade Fortress Level 4"
 END
 
 CONTROLBAR:MenegrothFortressLevel5
-"&Upgrade Fortress Level 5"
+"Upgr&ade Fortress Level 5"
 END
 
 CONTROLBAR:ToolTipMenegrothFortressLevel4
@@ -3121,7 +3121,7 @@ CONTROLBAR:ToolTipTogglePalantir2_Imrahil
 END
 
 CONTROLBAR:ToggleQuadratFormation
-"Square For&mation"
+"Square Formation (&W)"
 END
 
 CONTROLBAR:ToolTipToggleLineToQuadratFormation
@@ -7423,7 +7423,7 @@ CONTROLBAR:ToolTipSpecialAbilityBilboRiddles
 END
 
 CONTROLBAR:ToolTipThrowZapfen
-"Bilbo throws Burning pine colons on Enemies after Gandalf used this trick to fend of the wargs of the Misty Mountains. \n Changes the Palantir"
+"Bilbo throws Burning pine cones on Enemies after Gandalf used this trick to fend of the wargs of the Misty Mountains. \n Changes the Palantir"
 END
 
 CONTROLBAR:DrarSabotage
@@ -8863,11 +8863,11 @@ CONTROLBAR:LW_ToolTip_ArnorHueterHordeHorde
 END
 
 CONTROLBAR:BuildArnorHueterHorde
-"&Guardians of Arnor"
+"Guardians of Arnor (&R)"
 END
 
 CONTROLBAR:ToolTipBuildArnorHueterHorde
-"Requires: Arnor Barracks Level 2 \n Unit Type: Elite Infantry \n Strong vs: Infantry and Monster"
+"Requires: Arnor Barracks Level 2 \n Unit Type: Advanced Swordsmen \n Strong vs: Infantry"
 END
 
 TOOLTIP:LackKatakombenLevel3
@@ -10541,7 +10541,7 @@ CONTROLBAR:LW_ToolTip_ArnorPalantirwachterHorde
 END
 
 CONTROLBAR:BuildArnorPalantirwachterHorde
-"&Palantir Guardians"
+"Palantir Guardians (&T)"
 END
 
 CONTROLBAR:ToolTipBuildArnorPalantirwachterHorde
@@ -12843,15 +12843,15 @@ TOOLTIP:GelehrtenWeisheit
 END
 
 CONTROLBAR:ToggleWeisheitFormationSword
-"Attack For&mation"
+"Attack Formation (&W)"
 END
 
 CONTROLBAR:ToggleWeisheitFormationBow
-"Loose For&mation"
+"Loose Formation (&W)"
 END
 
 CONTROLBAR:ToggleWeisheitFormationLance
-"Wall For&mation"
+"Wall Formation (&W)"
 END
 
 CONTROLBAR:ToolTipToggleWeisheitFormationSword
@@ -14876,11 +14876,11 @@ CONTROLBAR:DwarvenDurinHotkey
 END
 
 CONTROLBAR:ToggleDwarvenGardeFormation
-"Berserker For&mation"
+"Berserker Formation (&W)"
 END
 
 CONTROLBAR:ToggleDwarvenGardeLineFormation
-"Open For&mation"
+"Open Formation (&W)"
 END
 
 CONTROLBAR:DwarvenGardeCripple
@@ -19066,7 +19066,7 @@ CONTROLBAR:ConstructLothlorienBowRiderHorde
 END
 
 CONTROLBAR:ToggleKreisabdeckungFormation
-"Circle For&mation"
+"Circle Formation (&W)"
 END
 
 CONTROLBAR:ToolTipBuildLothlorienBowRiderHorde
@@ -19198,7 +19198,7 @@ UPGRADE:LothStableLevel2
 END
 
 CONTROLBAR:ToggleFreieFormation
-"Loose For&mation"
+"Loose Formation (&W)"
 END
 
 UPGRADE:LothStableLevel3
@@ -19998,11 +19998,11 @@ CONTROLBAR:ToolTipBuildMordorHaradrimRiderHordeMod2
 END
 
 CONTROLBAR:ConstructEvilmenHaradSwordHorde
-"Haradrim Swordsman"
+"Haradrim Swordsmen (&E)"
 END
 
 CONTROLBAR:ToolTipBuildEvilmenHaradSwordHorde
-"Unit type: Basic infantry \n Strong vs: Spearman"
+"Unit type: Basic Infantry \n Strong vs: Spearman"
 END
 
 CONTROLBAR:ToolTipConstructHaradPikemanHorde
@@ -20531,7 +20531,7 @@ CONTROLBAR:ToolTipBuildMirkwoodAvariWarriorHorde
 END
 
 CONTROLBAR:ToggleKlingenFormation
-"Razortail For&mation"
+"Razortail Formation (&W)"
 END
 
 CONTROLBAR:ToolTipToggleAvariLineToBlockFormation
@@ -21211,11 +21211,11 @@ CONTROLBAR:ToolTipScorpionSlam
 END
 
 OBJECT:ConstructWildScorpion
-"Giant Scorpion"
+"Giant Scorpion (&E)"
 END
 
 CONTROLBAR:WildScorpionRecruit
-"A huge scorpion bred by Gorkil, ready at his command \n Requires spider pit level 2 \n You can Control a maximum of 3 Scorpions \n Strong vs: Melee"
+"Requires: Spider Pit Level 2 \n Unit Type: Regular Champion Monster \n Strong vs: Heroes, Monsters \n You can Control a maximum of 3 Scorpions \n \n A huge scorpion bred by Gorkil, ready at his command"
 END
 
 OBJECT:WildScorpion
@@ -21560,7 +21560,7 @@ CONTROLBAR:TooltipNecromancerDeathMaskMod
 END
 
 CONTROLBAR:TogglePelagirShieldWallFormation
-"Troll Tamer For&mation"
+"Troll Tamer Formation (&W)"
 END
 
 CONTROLBAR:ToolTipTogglePelagirLineToShieldWallFormation
@@ -21776,7 +21776,7 @@ CONTROLBAR:ToolTipConstructDolguldurVampire
 END
 
 CONTROLBAR:ToggleOrcShieldWallFormation
-"Shield Wall For&mation"
+"Shield Wall Formation (&W)"
 END
 
 CONTROLBAR:ConstructDolguldurOpfer
@@ -21796,7 +21796,7 @@ CONTROLBAR:ToolTipToggleOrcLineToShieldWallFormation
 END
 
 CONTROLBAR:ToggleOrcLineFormation
-"Normal For&mation"
+"Normal Formation (&W)"
 END
 
 CONTROLBAR:ToolTipConstructDolguldurOrkHorde
@@ -22722,11 +22722,11 @@ OBJECT:LindonHeavenWarrior
 END
 
 CONTROLBAR:ConstructLindonHeavenLancerHorde
-"&Lancers of Mithlond"
+"Lancers of Mithlond (&W)"
 END
 
 CONTROLBAR:ToolTipBuildLindonLanzentragerHorde
-"Unit Type: Regular Pikeman\n Strong vs: Cavalry and Monsters"
+"Unit Type: Regular Pikeman \n Strong vs: Cavalry and Monsters"
 END
 
 OBJECT:LindonHeavenLancer
@@ -22917,12 +22917,20 @@ OBJECT:HordeLindonLanzentrager
 "Lindon Lancers"
 END
 
-CONTROLBAR:ConstructArnorShieldGuardHordeMod
-"Dunedain Spearmen"
+CONTROLBAR:ConstructArnorFighterHordeMod
+"Dunedain Soldiers (&W)"
 END
 
-CONTROLBAR:ConstructArnorFighterHordeMod
-"Dunedain Soldiers"
+CONTROLBAR:ToolTipConstructArnorFighterHorde
+"Unit Type: Regular Swordsmen \n Strong vs: Pikemen"
+END
+
+CONTROLBAR:ConstructArnorShieldGuardHordeMod
+"Dunedain Spearmen (&E)"
+END
+
+CONTROLBAR:ToolTipConstructArnorShieldGuardHordeMod
+"Unit Type: Regular Pikemen \n Strong vs: Cavalry"
 END
 
 CONTROLBAR:TooltipGebieterderFlammen
@@ -23166,7 +23174,7 @@ CONTROLBAR:ToolTipEasMacht
 END
 
 CONTROLBAR:ConstructArnorHobbitArchers
-"Hobbit archers"
+"Hobbit archers (&W)"
 END
 
 CONTROLBAR:ToolTipConstructArnorHobbitArchers
@@ -24453,11 +24461,11 @@ OBJECT:EvilmenFarm
 END
 
 CONTROLBAR:ToolTipBuildSchlachterHorde
-"Requires: Level 3 Clan Hut \n Strong vs: Everything \n You can entertain a maximum of 3 Dunland Brute hordes simultaneously"
+"Requires: Level 3 Dunland Shelter \n Unit Type: Advanced Infantry \n Strong vs: Everything \n You can entertain a maximum of 3 Dunland Brute hordes simultaneously"
 END
 
 CONTROLBAR:ConstructSchlachterHorde
-"&Dunland Brutes"
+"Dunland Brutes (&S)"
 END
 
 OBJECT:GondorHauptmann
@@ -25209,12 +25217,12 @@ OBJECT:HordeMordorEasterlingSword
 END
 
 CONTROLBAR:ConstructMordorRhunSwordHorde
-"Rhun &Halberd Fighters"
+"Rhun Halberd Fighters (&S)"
 END
 
 
 CONTROLBAR:ToolTipBuildMordorRhunSwordHorde
-"Unit Type: Advanced Infantry \n  \n Requires Barracks Level 3 \n \n Strong vs: Melee, improved armor against arrows and cavalry"
+"Requires Barracks Level 3 \n Unit Type: Advanced Infantry \n Strong vs: Infantry \n These special troops from Rhun have improved armor against arrows and cavalry"
 END
 
 CONTROLBAR:ConstructEvilmenRhunSwordnewHorde
@@ -25928,7 +25936,7 @@ CONTROLBAR:ToolTipBuildGondorRohanArchery2Upgrade
 END
 
 CONTROLBAR:ConstructLothlorienUpgrade
-"&Upgrade Archery Range at Level 2"
+"Upgr&ade Archery Range at Level 2"
 END
 
 CONTROLBAR:GilGaladsLeibwachter
@@ -26024,7 +26032,7 @@ TOOLTIP:LackLevel2ArmoryRohan
 END
 
 CONTROLBAR:ConstructLothlorienArcherRange2Upgrade
-"&Upgrade Archery Range at Level 2"
+"Upgr&ade Archery Range at Level 2"
 END
 
 CONTROLBAR:ToolTipBuildConstructLothlorienArcherRange2Upgrade
@@ -26032,7 +26040,7 @@ CONTROLBAR:ToolTipBuildConstructLothlorienArcherRange2Upgrade
 END
 
 CONTROLBAR:ConstructLothlorienArcherRange3Upgrade
-"&Upgrade Archery Range at Level 3"
+"Upgr&ade Archery Range at Level 3"
 END
 
 CONTROLBAR:ToolTipBuildConstructLothlorienArcherRange3Upgrade
@@ -27517,11 +27525,11 @@ OBJECT:HeroWolf
 END
 
 CONTROLBAR:BuildIsengardWildSpearHorde
-"Dunland &Lancers"
+"Dunland Lancers (&E)"
 END
 
 CONTROLBAR:ToolTipBuildIsengardWildSpearHorde
-"Strong vs: Cavalry"
+"Unit Type: Cheap Spearmen \n Strong vs: Cavalry"
 END
 
 CONTROLBAR:ToolTipBuildAngmarHeroWolfHorde
@@ -36357,7 +36365,7 @@ CONTROLBAR:ToolTipSpecialAbilityManTheWalls
 END
 
 CONTROLBAR:SpecialAbilityRangerAmbush
-"Ambush For&mation"
+"Ambush Formation (&W)"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityRangerAmbush
@@ -43048,7 +43056,7 @@ CONTROLBAR:ConstructMordorCorsairHorde
 END
 
 CONTROLBAR:ConstructMordorEasterlingHorde
-"&Easterlings"
+"Easterlings (&W)"
 END
 
 CONTROLBAR:ConstructMordorSiegeTower
@@ -43072,7 +43080,7 @@ CONTROLBAR:ToolTipBuildMordorCorsairHorde
 END
 
 CONTROLBAR:ToolTipBuildMordorEasterlingHorde
-"Unit Type: Regular Pikemen \n Strong vs: Cavalry"
+"Unit Type: Regular Pikemen \n Strong vs: Cavalry and Monsters"
 END
 
 CONTROLBAR:ConstructMordorPorter
@@ -43288,7 +43296,7 @@ CONTROLBAR:ToolTipThrowRocks
 END
 
 CONTROLBAR:ToolTipThrowPine
-"Bilbo switches to throwing burning Pine Colons"
+"Bilbo switches to throwing burning Pine Cones"
 END
 
 CONTROLBAR:ToolTipBuildElvenWarriorHorde
@@ -43441,7 +43449,7 @@ CONTROLBAR:tooltipCommand_ToggleEntRockThrow
 END
 
 CONTROLBAR:tooltipCommand_ToggleZapfenThrow
-"&Toggle to Pine Colon Throw Mode"
+"&Toggle to Pine Cones Throw Mode"
 END
 
 
@@ -43655,7 +43663,7 @@ CONTROLBAR:ShieldWall
 END
 
 CONTROLBAR:ToolTipSpecialAbilityShieldWall
-"Shield Wall For&mation"
+"Shield Wall Formation (&W)"
 END
 
 CONTROLBAR:ToolTipLindonEliteWeaponSwitchLeadership
@@ -43948,7 +43956,7 @@ CONTROLBAR:ToolTipToggleHorseBow
 END
 
 CONTROLBAR:ToggleFormation
-"Change For&mation"
+"Change Formation (&W)"
 END
 
 CONTROLBAR:ToggleSkirmishFormation
@@ -43960,19 +43968,19 @@ CONTROLBAR:ToolTipToggleSkirmishFormation
 END
 
 CONTROLBAR:ToggleHaradrimLineFormation
-"Line For&mation"
+"Line Formation (&W)"
 END
    
 CONTROLBAR:ToolTipToggleHaradrimLineFormation
-"Haradrim Line For&mation"
+"Haradrim Line Formation (&W)"
 END
 
 CONTROLBAR:ToggleAmbushFormation
-"Ambush For&mation"
+"Ambush Formation (&W)"
 END
 
 CONTROLBAR:ToggleWedgeFormation
-"Wedge For&mation"
+"Wedge Formation (&W)"
 END
 
 CONTROLBAR:ToggleSpearheadFormation
@@ -43984,11 +43992,11 @@ CONTROLBAR:ToggleStarFormation
 END
 
 CONTROLBAR:ToggleLineFormation
-"Line For&mation"
+"Line Formation (&W)"
 END
 
 CONTROLBAR:ToggleLineFormation_ImladrisBow
-"Line For&mation"
+"Line Formation (&W)"
 END
 
 CONTROLBAR:ToolTipToggleWedgeFormation
@@ -43996,11 +44004,11 @@ CONTROLBAR:ToolTipToggleWedgeFormation
 END
 
 CONTROLBAR:ToolTipToggleLineFormation
-"Default Line For&mation"
+"Default Line Formation (&W)"
 END
 
 CONTROLBAR:TogglePorcupineFormation
-"Porcupine For&mation"
+"Porcupine Formation (&W)"
 END
 
 CONTROLBAR:ToolTipTogglePorcupineFormation
@@ -44008,7 +44016,7 @@ CONTROLBAR:ToolTipTogglePorcupineFormation
 END
 
 CONTROLBAR:ToggleBlockFormation
-"Shield Wall For&mation"
+"Shield Wall Formation (&W)"
 END
 
 CONTROLBAR:ToolTipToggleBlockFormation
@@ -44224,7 +44232,7 @@ CONTROLBAR:ToolTipDamrodKnightRanger
 END
 
 CONTROLBAR:ToggleShieldWallFormation
-"Shield Wall For&mation"
+"Shield Wall Formation (&W)"
 END
 
 CONTROLBAR:ToolTipToggleShieldWallFormation
@@ -44232,7 +44240,7 @@ CONTROLBAR:ToolTipToggleShieldWallFormation
 END
 
 CONTROLBAR:ToggleEngageLineFormation
-"Engage Line For&mation"
+"Engage Line Formation (&W)"
 END
 
 CONTROLBAR:ToolTipToggleEngageLineFormation
@@ -44240,7 +44248,7 @@ CONTROLBAR:ToolTipToggleEngageLineFormation
 END
 
 CONTROLBAR:ToggleLooseFormation
-"Loose For&mation"
+"Loose Formation (&W)"
 END
 
 CONTROLBAR:ToolTipToggleIFighterLooseToBlockFormation
@@ -44248,7 +44256,7 @@ CONTROLBAR:ToolTipToggleIFighterLooseToBlockFormation
 END
 
 CONTROLBAR:ToolTipToggleIFighterBlockToLooseFormation
-"Standard For&mation"
+"Standard Formation (&W)"
 END
 
 CONTROLBAR:ToolTipToggleCrossbowmanLooseToWedgeFormation
@@ -44256,7 +44264,7 @@ CONTROLBAR:ToolTipToggleCrossbowmanLooseToWedgeFormation
 END
 
 CONTROLBAR:ToolTipToggleCrossbowmanWedgeToLooseFormation
-"Standard For&mation"
+"Standard Formation (&W)"
 END
 
 CONTROLBAR:ToolTipToggleFighterLooseToBlockFormation
@@ -44264,7 +44272,7 @@ CONTROLBAR:ToolTipToggleFighterLooseToBlockFormation
 END
 
 CONTROLBAR:ToolTipToggleFighterBlockToLooseFormation
-"Standard For&mation"
+"Standard Formation (&W)"
 END
 
 CONTROLBAR:ToolTipTogglePikemanLooseToPorcupineFormation
@@ -44272,7 +44280,7 @@ CONTROLBAR:ToolTipTogglePikemanLooseToPorcupineFormation
 END
 
 CONTROLBAR:ToolTipTogglePikemanPorcupineToLooseFormation
-"Standard For&mation"
+"Standard Formation (&W)"
 END
 
 CONTROLBAR:ConstructGondorBattleTower
@@ -52644,7 +52652,7 @@ CONTROLBAR:ToolTipBuildDwarvenMenOfDaleInnHorde
 END
 
 CONTROLBAR:ConstructDwarvenArcheryRangeLevel2Upgrade
-"&Upgrade Archery Range to Level 2"
+"Upgr&ade Archery Range to Level 2"
 END
 
 CONTROLBAR:ToolTipBuildDwarvenArcheryRangeLevel2Upgrade
@@ -52652,7 +52660,7 @@ CONTROLBAR:ToolTipBuildDwarvenArcheryRangeLevel2Upgrade
 END
 
 CONTROLBAR:ConstructDwarvenArcheryRangeLevel3Upgrade
-"&Upgrade Archery Range to Level 3"
+"Upgr&ade Archery Range to Level 3"
 END
 
 CONTROLBAR:ToolTipBuildDwarvenArcheryRangeLevel3Upgrade
@@ -52704,7 +52712,7 @@ CONTROLBAR:ToolTipConstructWildGiantSentryExpansion
 END
 
 CONTROLBAR:SelectUpgradesWildFortress
-"Fortress &Upgrade"
+"Fortress Upgr&ade"
 END
 
 CONTROLBAR:ToolTipCommandSelectUpgradesWildFortress
@@ -52748,7 +52756,7 @@ OBJECT:WildGiantBat
 END
 
 CONTROLBAR:ConstructWildGiantBat
-"&Giant Bat"
+"Giant Bat (&R)"
 END
 
 CONTROLBAR:LW_Unit_WildGiantBat
@@ -52760,7 +52768,7 @@ CONTROLBAR:LW_ToolTip_WildGiantBat
 END
 
 CONTROLBAR:ToolTipBuildWildGiantBat
-"Requires: Level 2 Wyrm Lair\n Monster \nStrong vs. Infantry, Cavalry, and Buildings \n Only 5 Bats are allowed at any time.  \n \n These bats are bred for one purpuse, for war"
+"Requires: Level 2 Fissure \n Unit Type: Basic Flying Monster \n Strong vs. Melee Infantry, Cavalry, and Buildings \n Only 5 Bats are allowed at any time.  \n \n These bats are bred for one purpuse, for war"
 END
 
 CONTROLBAR:LW_ToolTipBuild_WildGiantBat
@@ -52968,11 +52976,11 @@ CONTROLBAR:ToolTipBuildElvenMithlondSentryHorde
 END
 
 CONTROLBAR:ConstructLindonWarriorHorde
-"Train Lindon Warriors"
+"Lindon Warriors (&R)"
 END
 
 CONTROLBAR:ToolTipConstructLindonWarriorHorde
-"Requires: Arnor elven barracks level 3 \n Unit type: Elite LindoNainfantry \n Can hide in the vicinity of trees \n You can only train 3 battalions"
+"Requires: Lindon Barracks Level 3 \n Unit type: Elite Infantry \n Can stealth near trees \n You can only train 3 battalions"
 END
 
 
@@ -53396,7 +53404,7 @@ CONTROLBAR:ToolTipConstructMenBarracks
 END
 
 CONTROLBAR:ConstructGondorBarracks2Upgrade
-"&Upgrade Barracks to Level 2"
+"Upgr&ade Barracks to Level 2"
 END
 
 CONTROLBAR:ToolTipBuildGondorBarracksLevel2Upgrade
@@ -53404,7 +53412,7 @@ CONTROLBAR:ToolTipBuildGondorBarracksLevel2Upgrade
 END
 
 CONTROLBAR:ConstructGondorBarracksLevel3Upgrade
-"&Upgrade Barracks to Level 3"
+"Upgr&ade Barracks to Level 3"
 END
 
 CONTROLBAR:ToolTipBuildGondorBarracksLevel3Upgrade
@@ -53461,7 +53469,7 @@ CONTROLBAR:ToolTipMenArcheryRange
 END
 
 CONTROLBAR:ConstructGondorArcheryRangeLevel2Upgrade
-"&Upgrade Archery Range to Level 2"
+"Upgr&ade Archery Range to Level 2"
 END
 
 CONTROLBAR:ToolTipBuildGondorArcheryRangeLevel2Upgrade
@@ -53469,7 +53477,7 @@ CONTROLBAR:ToolTipBuildGondorArcheryRangeLevel2Upgrade
 END
 
 CONTROLBAR:ConstructGondorArcheryRangeLevel3Upgrade
-"&Upgrade Archery Range to Level 3"
+"Upgr&ade Archery Range to Level 3"
 END
 
 CONTROLBAR:ToolTipBuildGondorArcheryRangeLevel3Upgrade
@@ -53522,7 +53530,7 @@ CONTROLBAR:ToolTipConstructMenStable
 END
 
 CONTROLBAR:ConstructGondorStable2Upgrade
-"&Upgrade Stables to Level 2"
+"Upgr&ade Stables to Level 2"
 END
 
 CONTROLBAR:ToolTipBuildGondorStableLevel2Upgrade
@@ -53530,7 +53538,7 @@ CONTROLBAR:ToolTipBuildGondorStableLevel2Upgrade
 END
 
 CONTROLBAR:ConstructGondorStableLevel3Upgrade
-"&Upgrade Stables to Level 3"
+"Upgr&ade Stables to Level 3"
 END
 
 CONTROLBAR:ToolTipBuildGondorStableLevel3Upgrade
@@ -53563,7 +53571,7 @@ CONTROLBAR:ToolTipConstructMenWorkshop
 END
 
 CONTROLBAR:ConstructGondorWorkshop2Upgrade
-"&Upgrade Workshop to Level 2"
+"Upgr&ade Workshop to Level 2"
 END
 
 CONTROLBAR:ToolTipBuildGondorWorkshopLevel2Upgrade
@@ -53571,7 +53579,7 @@ CONTROLBAR:ToolTipBuildGondorWorkshopLevel2Upgrade
 END
 
 CONTROLBAR:ConstructGondorWorkshopLevel3Upgrade
-"&Upgrade Workshop to Level 3"
+"Upgr&ade Workshop to Level 3"
 END
 
 CONTROLBAR:ToolTipBuildGondorWorkshopLevel3Upgrade
@@ -53604,7 +53612,7 @@ CONTROLBAR:ToolTipConstructMenBlacksmith
 END
 
 CONTROLBAR:ConstructGondorForgeLevel2Upgrade
-"&Upgrade Blacksmith to Level 2"
+"Upgr&ade Blacksmith to Level 2"
 END
 
 CONTROLBAR:ToolTipBuildGondorForgeLevel2Upgrade
@@ -53616,7 +53624,7 @@ CONTROLBAR:ToolTipBuildHaradForgeLevel2Upgrade
 END
 
 CONTROLBAR:ConstructGondorForgeLevel3Upgrade
-"&Upgrade Blacksmith to Level 3"
+"Upgr&ade Blacksmith to Level 3"
 END
 
 CONTROLBAR:ToolTipBuildGondorForgeLevel3Upgrade
@@ -53862,7 +53870,7 @@ CONTROLBAR:ToolTipCaptiansIthillienForbiddenPool
 END
 
 CONTROLBAR:ConstructDamrod
-"Dam&rod"
+"Damrod (&W)"
 END
 
 CONTROLBAR:ToolTipConstructDamrod
@@ -53999,7 +54007,7 @@ END
 
 
 CONTROLBAR:PurchaseTechnologyGondorFireArrows
-"Research Fire Arro&ws"
+"Research &Fire Arrows"
 END
 
 CONTROLBAR:ToolTipPurchaseTechnologyGondorFireArrows
@@ -54197,15 +54205,15 @@ OBJECT:GondorFighter
 END
 
 CONTROLBAR:ConstructGondorFighterHorde
-"Gondor S&oldiers"
+"Gondor Soldiers (&W)"
 END
 
-CONTROLBAR:ToolTipBuildGondorFighterHorde
-"Unit Type: Basic Infantry \n Strong vs: Pikemen"
+CONTROLBAR:ToolTipConstructGondorFighterHorde
+"Unit Type: Basic Swordsmen \n Strong vs: Pikemen"
 END
 
-CONTROLBAR:ToolTipBuildGondorFighterHorde_Denethor
-"Emergency Troops: Low Health and cannot be equipped \n Unit Type: Basic Infantry \n Strong vs: Pikemen"
+CONTROLBAR:ToolTipConstructGondorFighterHorde_Denethor
+"Emergency Troops: Low Health and cannot receive upgrades \n Unit Type: Basic Swordsmen \n Strong vs: Pikemen"
 END
 
 BANNERUI:GondorFighter
@@ -54245,15 +54253,15 @@ OBJECT:GondorSpeertrager
 END
 
 CONTROLBAR:ConstructSpearmenHorde
-"Gondor S&pearmen"
+"Gondor Spearmen (&E)"
 END
 
-CONTROLBAR:ToolTipBuildSpearmenHorde
+CONTROLBAR:ToolTipConstructSpearmenHorde
 "Unit Type: Basic Pikemen \n Strong vs: Cavalry"
 END
 
-CONTROLBAR:ToolTipBuildSpearmenHorde_Denethor
-"Emergency Troops: Low Health and cannot be equipped \n Unit Type: Basic Pikemen \n Strong vs: Cavalry"
+CONTROLBAR:ToolTipConstructSpearmenHorde_Denethor
+"Emergency Troops: Low Health and cannot receive upgrades \n Unit Type: Basic Pikemen \n Strong vs: Cavalry"
 END
 
 BANNERUI:GondorSpearman
@@ -54286,15 +54294,15 @@ OBJECT:HordeGondorTowerGuard
 END
 
 CONTROLBAR:ConstructGondorTowerGuardHorde
-"&Tower Guards"
+"Tower Guards (&R)"
 END
 
 CONTROLBAR:ToolTipBuildGondorTowerGuardHorde
-"Requires: Barracks Level 3 \n Unit Type: Regular Pikemen \n Strong vs: Cavalry"
+"Requires: Barracks Level 2 \n Unit Type: Advanced Pikemen \n Strong vs: Cavalry and Monsters"
 END
 
 CONTROLBAR:ToolTipBuildGondorShieldGuardHorde_Monument
-"Unit Type: Regular Pikemen \n Strong vs: Cavalry"
+"Unit Type: Advanced Pikemen \n Strong vs: Cavalry and Monsters"
 END
 
 BANNERUI:GondorTowerGuard
@@ -54334,7 +54342,7 @@ OBJECT:GondorWachterderVesteHorde
 END
 
 CONTROLBAR:BuildGondorWachterderVesteHorde
-"Gondor &Citadel Guards"
+"Gondor Citadel Guards (&E)"
 END
 
 CONTROLBAR:ToolTipBuildGondorWachterderVesteHorde
@@ -54418,11 +54426,11 @@ CONTROLBAR:LW_ToolTipBuild_HordeLehenLossarnach
 END
 
 CONTROLBAR:BuildGondorOrkjagerHorde
-"Gondor Orc Hunters"
+"Gondor Orc Hunters (&T)"
 END
 
 CONTROLBAR:ToolTipBuildGondorOrkjagerHorde
-"Unit Type: Regular Infantry \n Strong vs: Orcs"
+"Unit Type: Regular Archers \n Strong at Range \n These archers specialize in killing the accursed servants of Sauron"
 END
 
 
@@ -54475,7 +54483,7 @@ CONTROLBAR:ConstructPelegirSpearmenHorde
 END
 
 CONTROLBAR:ToolTipBuildPelegirSpearmenHorde
-"Unit Type: Basic Pikemen \n Strong vs: Monster"
+"Unit Type: Basic Pikemen \n Strong vs: Cavalry and Monsters"
 END
 
 BANNERUI:PelegirSpearmen
@@ -54511,11 +54519,11 @@ OBJECT:LehenDolsoldatenHorde
 END
 
 CONTROLBAR:ConstructLehenDolsoldatenHorde
-"Dol Amroth &Swordsmen"
+"Dol Amroth Swordsmen (&T)"
 END
 
 CONTROLBAR:ToolTipBuildLehenDolsoldatenHorde
-"Unit Type: Regular Infantry \n Requires Gondor barracks level 2"
+"Requires: Gondor Barracks Level 2 \n Unit Type: Regular Infantry \n Strong vs: Pikemen"
 END
 
 BANNERUI:LehenDolsoldaten
@@ -54583,7 +54591,7 @@ OBJECT:HordeGondorArcher
 END
 
 CONTROLBAR:ConstructGondorArcherHorde
-"Gondor &Archers"
+"Gondor Archers (&W)"
 END
 
 CONTROLBAR:ToolTipBuildGondorArcherHorde
@@ -54620,11 +54628,11 @@ OBJECT:HordeGondorRanger
 END
 
 CONTROLBAR:ConstructGondorRangerHorde
-"Ithilien &Rangers"
+"Ithilien Rangers (&E)"
 END
 
 CONTROLBAR:ToolTipBuildGondorRangerHorde
-"Requires: Archery Range Level 2 \n Unit Type: Regular Archer \n Strong at Range"
+"Requires: Archery Range Level 2 \n Unit Type: Advanced Archer \n Strong at Range"
 END
 
 BANNERUI:GondorRanger
@@ -54696,11 +54704,11 @@ OBJECT:HordeGondorBoromirGuard
 END
 
 CONTROLBAR:ConstructGondorBoromirGuardHorde
-"&Guardians of the White City"
+"Guardians of the White City (&W)"
 END
 
 CONTROLBAR:ToolTipBuildGondorBoromirGuardHorde
-"Requires: Ivory Tower \n Unit Type: Elite Infantry \n Strong vs: Heroes \n You can only maintain 1 battaillon at a time."
+"Requires: Ivory Tower \n Unit Type: Elite Infantry \n Strong vs: Infantry and Heroes \n You can only maintain 1 battalion at a time."
 END
 
 BANNERUI:GondorBoromirGuard
@@ -54736,11 +54744,11 @@ OBJECT:HordeIthilienSchwertkampfer
 END
 
 CONTROLBAR:IthilienSchwertkampferHorde_forFaramirMap
-"Ithilien &Swordsmen"
+"Ithilien Swordsmen (&W)"
 END
 
 CONTROLBAR:ToolTipBuildIthilienSchwertkampferHorde_forFaramirMap
-"Unit Type: Basic Infantry \n Strong vs: Pikemen"
+"Unit Type: Regular Infantry \n Strong vs: Pikemen"
 END
 
 BANNERUI:IthilienSchwertkampfer
@@ -54769,11 +54777,11 @@ OBJECT:HordeIthilienSpeertrager
 END
 
 CONTROLBAR:IthilienSpeertragerHorde_forFaramirMap
-"Ithilien S&pearmen"
+"Ithilien Spearmen (&E)"
 END
 
 CONTROLBAR:ToolTipBuildIthilienSpeertragerHorde_forFaramirMap
-"Unit Type: Basic Pikemen \n Strong vs: Cavalry"
+"Unit Type: Regular Pikemen \n Strong vs: Cavalry"
 END
 
 BANNERUI:IthilienSpeertrager
@@ -54801,11 +54809,11 @@ OBJECT:HordeGondorKnight
 END
 
 CONTROLBAR:ConstructGondorKnightHorde
-"Gondor &Knights"
+"Gondor Knights (&W)"
 END
 
 CONTROLBAR:ToolTipBuildGondorKnightHorde
-"Unit Type: Basic Cavalry \n Strong vs: Archers"
+"Unit Type: Regular Cavalry \n Strong vs: Swordsmen, Archers \n Weak vs: Pikemen, Monsters"
 END
 
 BANNERUI:GondorKnight
@@ -54841,11 +54849,11 @@ OBJECT:HordeGondorKnightsofDol
 END
 
 CONTROLBAR:ConstructGondorKnightsofDolHorde
-"Dol Amroth Knights"
+"Dol Amroth Knights (&R)"
 END
 
 CONTROLBAR:ToolTipBuildGondorKnightsofDolHorde
-"Requires: Prince Imrahil on the battlefield and stable level 3 \n Unit Type: Elite Cavalry \n Strong vs: Heroes, Buildings and Monsters \n "
+"Requires: Prince Imrahil on the battlefield and Stables Level 3 \n Unit Type: Elite Cavalry \n Strong vs: Infantry, Cavalry, Heroes, Structures \n You may only control 3 battalions at a time"
 END
 
 CONTROLBAR:ToolTipBuildGondorKnightsofDolHorde_King
@@ -55102,7 +55110,7 @@ CONTROLBAR:ToolTipConstructRohanKaserne
 END
 
 CONTROLBAR:ConstructRohanKaserne2Upgrade
-"&Upgrade Barracks to Level 2"
+"Upgr&ade Barracks to Level 2"
 END
 
 CONTROLBAR:ToolTipBuildRohanKaserne2Upgrade
@@ -55110,7 +55118,7 @@ CONTROLBAR:ToolTipBuildRohanKaserne2Upgrade
 END
 
 CONTROLBAR:ConstructRohanKaserneLevel3Upgrade
-"&Upgrade Barracks to Level 3"
+"Upgr&ade Barracks to Level 3"
 END 
 
 CONTROLBAR:ToolTipBuildRohanKaserneLevel3Upgrade
@@ -55143,7 +55151,7 @@ CONTROLBAR:ToolTipRohanArcherRange
 END
 
 CONTROLBAR:ConstructRohanArchery2Upgrade
-"&Upgrade Archery Range at Level 2"
+"Upgr&ade Archery Range at Level 2"
 END
 
 CONTROLBAR:ToolTipBuildRohanArchery2Upgrade
@@ -55151,7 +55159,7 @@ CONTROLBAR:ToolTipBuildRohanArchery2Upgrade
 END
 
 CONTROLBAR:ConstructRohanArcherryLevel3Upgrade
-"&Upgrade Archery Range at Level 3"
+"Upgr&ade Archery Range at Level 3"
 END
 
 CONTROLBAR:ToolTipBuildRohanArcherryLevel3Upgrade
@@ -55184,7 +55192,7 @@ CONTROLBAR:ToolTipRohanStable
 END
 
 CONTROLBAR:ConstructRohanStable2Upgrade
-"&Upgrade Stables at Level 2"
+"Upgr&ade Stables at Level 2"
 END
 
 CONTROLBAR:ToolTipBuildRohanStableLevel2Upgrade
@@ -55192,7 +55200,7 @@ CONTROLBAR:ToolTipBuildRohanStableLevel2Upgrade
 END
 
 CONTROLBAR:ConstructRohanStableLevel3Upgrade
-"&Upgrade Stables at Level 3"
+"Upgr&ade Stables at Level 3"
 END
 
 CONTROLBAR:ToolTipBuildRohanStableLevel3Upgrade
@@ -55700,11 +55708,11 @@ OBJECT:RohanFighterHorde
 END
 
 CONTROLBAR:ConstructRohanFighterHorde
-"Rohan &Swordsmen"
+"Rohan Swordsmen (&W)"
 END
 
 CONTROLBAR:ToolTipBuildRohanFighterHorde
-"Unit Type: Basic Infantry \n Strong vs: Pikemen and Infantry"
+"Unit Type: Basic Infantry \n Strong vs: Pikemen"
 END
 
 BANNERUI:RohanFighter
@@ -55736,11 +55744,11 @@ OBJECT:HordeRohanWachterMeduselds
 END
 
 CONTROLBAR:ConstructRohanWachterMeduseldsHorde
-"Rohan &Lance Carriers"
+"Rohan Lance Carriers (&R)"
 END
 
 CONTROLBAR:ToolTipBuildRohanWachterMeduseldsHorde
-"Unit Type: Basic Pikemen \n Strong vs: Cavalry"
+"Unit Type: Basic Pikemen \n Strong vs: Cavalry and Monsters"
 END
 
 BANNERUI:RohanWachterMeduseld
@@ -55769,7 +55777,7 @@ OBJECT:RohanAxeFighterHorde
 END
 
 CONTROLBAR:ConstructRohanAxeFighterHorde
-"Rohan A&xeman"
+"Rohan Axeman (&E)"
 END
 
 CONTROLBAR:ToolTipBuildRohanAxeFighterHorde
@@ -55806,11 +55814,11 @@ OBJECT:RohanHauptmann
 END
 
 CONTROLBAR:ConstructRohanHauptmann
-"Rohan &Captain"
+"Rohan Captain (&T)"
 END
 
 CONTROLBAR:ToolTipBuildRohanHauptmann
-"Requires: Barracks Level 3 \n Unit Type: Versatile \n Strong vs: Heroes"
+"Requires: Barracks Level 3 \n Unit Type: Regular Infantry \n Strong vs: Versatile \n The captain can recruit swordsmen, spearmen, or cavalry from the Westfold"
 END
 
 CONTROLBAR:ToolTipBuildRohanHauptmann_B
@@ -56044,11 +56052,11 @@ OBJECT:RohanArcherHorde
 END
 
 CONTROLBAR:ConstructRohanArcherHorde
-"Rohan &Yeoman Archers"
+"Rohan Yeoman Archers (&W)"
 END
 
 CONTROLBAR:ToolTipBuildRohanArcherHorde
-"Unit Type: Basic Archer \n Strong vs: Infantry"
+"Unit Type: Basic Archer \n Strong at Range"
 END
 
 BANNERUI:RohanArcher
@@ -56076,11 +56084,11 @@ OBJECT:RohanSpeerwerferHorde
 END
 
 CONTROLBAR:ConstructRohanSpeerwerferHorde
-"Rohan &Spear Throwers"
+"Rohan Spear Throwers (&E)"
 END
 
 CONTROLBAR:ToolTipBuildRohanSpeerwerferHorde
-"Requires: Rohan Archery Range Level 2 \n Unit Type: Regular Archer \n Strong vs: Cavalry and Monster"
+"Requires: Rohan Archery Range Level 2 \n Unit Type: Basic Spear Thrower \n Strong vs: Cavalry and Monster"
 END
 
 BANNERUI:RohanSpeerwerfer
@@ -56113,11 +56121,11 @@ OBJECT:HordeRohanRohirrim
 END
 
 CONTROLBAR:ConstructRohanRohirrimHorde
-"Rohirrim"
+"Rohirrim (&W)"
 END
 
 CONTROLBAR:ToolTipBuildRohanRohirrimHorde
-"Unit Type: Basic Cavalry \n Strong vs: Infantry and Archers"
+"Unit Type: Regular Cavalry \n Strong vs: Swordsmen and Archers"
 END
 
 BANNERUI:RohanRohirrim
@@ -56154,11 +56162,11 @@ OBJECT:RohirrimAxeHorde
 END
 
 CONTROLBAR:ConstructRohanAxtRohirrimHorde
-"A&xe Rohirrim"
+"Axe Rohirrim (&E)"
 END
 
 CONTROLBAR:ToolTipBuildRohanAxtRohirrimHorde
-"Unit Type: Basic Cavalry\nStrong vs: Archers and Structures"
+"Unit Type: Regular Cavalry \n Strong vs: Archers and Structures"
 END
 
 BANNERUI:RohanAxtRohirrim
@@ -56194,11 +56202,11 @@ OBJECT:HordeRohanRohirrimArchers
 END
 
 CONTROLBAR:ConstructRohanRohirrimArcherHorde
-"Rohirrim &Archers"
+"Rohirrim Archers (&R)"
 END
 
 CONTROLBAR:ToolTipBuildRohanRohirrimArcherHorde
-"Requires: Rohan Stables Level 2 \n Unit Type: Cavalry Archer \n Strong at Range \n You can maintain only 4 at a time"
+"Requires: Rohan Stables Level 2 \n Unit Type: Regular Cavalry Archer \n Strong at Range \n You can maintain only 4 at a time"
 END
 
 BANNERUI:RohanRohirrimArcher
@@ -56235,11 +56243,11 @@ OBJECT:RohanKoniglicheGardeHorde
 END
 
 CONTROLBAR:ConstructRohanRoyalGuardHorde
-"Rohan Royal &Guard"
+"Rohan Royal Guard (&T)"
 END
 
 CONTROLBAR:ToolTipBuildRohanRoyalGuardHorde
-"Requires: Level 3 Stables \n Unit Type: Elite Cavalry \n Strong vs: Infantry and Cavalry \n You can only train 4 battalions"
+"Requires: Level 3 Stables \n Unit Type: Elite Cavalry \n Strong vs: Infantry, Cavalry and Heroes \n You can only maintain 4 battalions at a time"
 END
 
 CONTROLBAR:ToolTipBuildRohanRoyalGuardHorde_Edoras
@@ -56611,7 +56619,7 @@ CONTROLBAR:ToolTipLothlorienBarracks2
 END
 
 CONTROLBAR:ConstructLothlorienBarracks2Upgrade
-"&Upgrade Barracks to Level 2"
+"Upgr&ade Barracks to Level 2"
 END
 
 CONTROLBAR:ToolTipBuildConstructLothlorienBarracks2Upgrade
@@ -56619,7 +56627,7 @@ CONTROLBAR:ToolTipBuildConstructLothlorienBarracks2Upgrade
 END
 
 CONTROLBAR:ConstructLothlorienBarracks3Upgrade
-"&Upgrade Barracks to Level 3"
+"Upgr&ade Barracks to Level 3"
 END
 
 CONTROLBAR:ToolTipBuildConstructLothlorienBarracks3Upgrade
@@ -56639,7 +56647,7 @@ CONTROLBAR:ToolTipLothlorienHeiligtum
 END
 
 CONTROLBAR:ConstructLothlorienHeiligtum2Upgrade
-"&Upgrade Sanctuary at Level 2"
+"Upgr&ade Sanctuary at Level 2"
 END
 
 CONTROLBAR:ToolTipBuildConstructLothlorienHeiligtum2Upgrade
@@ -56647,7 +56655,7 @@ CONTROLBAR:ToolTipBuildConstructLothlorienHeiligtum2Upgrade
 END
 
 CONTROLBAR:ConstructLothlorienHeiligtum3Upgrade
-"&Upgrade Sanctuary at Level 3"
+"Upgr&ade Sanctuary at Level 3"
 END
 
 CONTROLBAR:ToolTipBuildConstructLothlorienHeiligtum3Upgrade
@@ -56676,7 +56684,7 @@ CONTROLBAR:ToolTipConstructMirkwoodBarracks_DolGuldur
 END
 
 CONTROLBAR:ConstructMirkwoodBarracksLevel2Upgrade
-"&Upgrade Mirkwood Barracks to Level 2"
+"Upgr&ade Mirkwood Barracks to Level 2"
 END
 
 CONTROLBAR:ToolTipBuildMirkwoodBarracksLevel2Upgrade
@@ -56684,7 +56692,7 @@ CONTROLBAR:ToolTipBuildMirkwoodBarracksLevel2Upgrade
 END
 
 CONTROLBAR:ConstructMirkwoodBarracksLevel3Upgrade
-"&Upgrade Mirkwood Barracks to Level 3"
+"Upgr&ade Mirkwood Barracks to Level 3"
 END
 
 CONTROLBAR:ToolTipBuildMirkwoodBarracksLevel3Upgrade
@@ -57118,7 +57126,7 @@ END
 
 
 CONTROLBAR:PurchaseTechnologyElvenCloak
-"Research Mirkwood &Cloak"
+"Research Mirkwood Cloak (&R)"
 END
 
 CONTROLBAR:ToolTipPurchaseTechnologyElvenCloak
@@ -57157,7 +57165,7 @@ OBJECT:ElvenLorienWarriorHorde
 END
 
 CONTROLBAR:ConstructElvenLorienWarriorHorde
-"Lothlorien &Warriors"
+"Lothlorien Warriors (&W)"
 END
 
 CONTROLBAR:ToolTipBuildElvenLorienWarriorHordeWithNoPrerequisites
@@ -57198,7 +57206,7 @@ OBJECT:ElvenLorienArcherHorde
 END
 
 CONTROLBAR:ConstructElvenLorienArcherHorde
-"Lothlorien &Archers"
+"Lothlorien Archers (&R)"
 END
 
 CONTROLBAR:ToolTipBuildElvenLorienArcherHordeWithNoPrerequisites
@@ -57239,7 +57247,7 @@ OBJECT:ElvenLorienPikemanHorde
 END
 
 CONTROLBAR:ConstructLorienPikemanHorde
-"Lothlorien &Lancers"
+"Lothlorien Lancers (&E)"
 END
 
 CONTROLBAR:ToolTipConstructLorienPikemanHorde
@@ -57268,7 +57276,7 @@ OBJECT:LothlorienSangerinnen
 END
 
 CONTROLBAR:ConstructLothlorienSangerinnen
-"Lothlorien &Singer"
+"Lothlorien Singer (&T)"
 END
 
 CONTROLBAR:ToolTipBuildLothlorienSangerinnen
@@ -57310,11 +57318,11 @@ OBJECT:LothlorienGrenzwachterHorde
 END
 
 CONTROLBAR:BuildLothlorienGrenzwachterHorde
-"Lothlorien &Borderguards"
+"Lothlorien Borderguards (&S)"
 END
 
 CONTROLBAR:ToolTipBuildLothlorienGrenzwachterHorde
-"Requires: Lothlorien Barracks Level 2 \n Unit Type: Regular Infantry \n Strong vs: Cavalry"
+"Requires: Lothlorien Barracks Level 2 \n Unit Type: Regular Infantry \n Strong vs: Cavalry \n These specialized swordsmen are resistant to cavalry"
 END
 
 BANNERUI:LothlorienGrenzwachter
@@ -57351,11 +57359,11 @@ OBJECT:LothlorienGaladhrimHorde
 END
 
 CONTROLBAR:BuildLothlorienGaladhrimHorde
-"Lothlorien &Galadhrim"
+"Lothlorien Galadhrim (&D)"
 END
 
 CONTROLBAR:ToolTipBuildLothlorienGaladhrimHorde
-"Requires: Lothlorien Barracks Level 3 \n Unit Type: Regular Archer \n Strong vs: Depending on the situation \n Can switch between Sword and Bow"
+"Requires: Lothlorien Barracks Level 3 \n Unit Type: Advanced Archer \n Strong vs: Depending on the situation \n Can switch between Sword and Bow"
 END
 
 BANNERUI:LothlorienGaladhrim
@@ -57488,7 +57496,7 @@ OBJECT:ElvenMirkwoodArcherHorde
 END
 
 CONTROLBAR:ConstructElvenMirkwoodArcherHorde
-"Mirkwood &Guardians of the Paths"
+"Mirkwood Guardians of the Paths (&T)"
 END
 
 CONTROLBAR:ToolTipBuildElvenMirkwoodArcherHorde
@@ -57528,11 +57536,11 @@ OBJECT:HordeMirkwoodWarrior
 END
 
 CONTROLBAR:ConstructMirkwoodWarriorHorde
-"Mirkwood &Warriors"
+"Mirkwood Warriors (&W)"
 END
 
 CONTROLBAR:ToolTipConstructMirkwoodWarriorHorde
-"Requires: Troopchamber Expansion has build \n Unit Type: Basic Infantry \n Strong vs: Pikemen"
+"Requires: Troopchamber Expansion has build \n Unit Type: Regular Infantry \n Strong vs: Pikemen"
 END
 
 CONTROLBAR:ToolTipBuildMirkwoodwarriorHorde
@@ -57573,11 +57581,11 @@ OBJECT:HordeMirkwoodSpearmen
 END
 
 CONTROLBAR:ConstructMirkwoodSpearmen
-"Mirkwood &Spearmen"
+"Mirkwood Spearmen (&R)"
 END
 
 CONTROLBAR:ToolTipBuildMirkwoodSpearmen
-"Requires: Troopchamber Expansion has been build \n Unit Type: Basic Pikemen \n Strong vs: Cavalry"
+"Requires: Troopchamber Expansion has been built \n Unit Type: Regular Pikemen \n Strong vs: Cavalry and Monsters"
 END
 
 CONTROLBAR:ToolTipBuildMirkwoodSpearmen_WCM
@@ -57614,11 +57622,11 @@ OBJECT:MirkwoodWachterPfadeHorde
 END
 
 CONTROLBAR:ConstructMirkwoodWachterPfadeHorde
-"Mirkwood &Archers"
+"Mirkwood Archers (&E)"
 END
 
 CONTROLBAR:ToolTipConstructMirkwoodWachterPfadeHorde
-"Requires: Troopchamber Expansion has been build \n Unit Type: Basic Archer \n Strong at Range"
+"Requires: Troopchamber Expansion has been built \n Unit Type: Advanced Archer \n Strong at Range"
 END
 
 CONTROLBAR:ToolTipConstructMirkwoodWachterPfadeHorde_WCM
@@ -57654,7 +57662,7 @@ OBJECT:MirkwoodElkriderHorde
 END
 
 CONTROLBAR:ConstructMirkwoodElkriderHorde
-"Mirkwood Elk &Riders" 
+"Mirkwood Elk Riders (&E)" 
 END
 
 CONTROLBAR:ToolTipBuildMirkwoodElkriderHorde
@@ -57695,11 +57703,11 @@ OBJECT:LothlorienMirkwoodPalaceGuardHorde
 END
 
 CONTROLBAR:LothlorienMirkwoodPalaceGuardHorde
-"Mirkwood &Palace Guards"
+"Mirkwood Palace Guards (&T)"
 END
 
 CONTROLBAR:ToolTipBuildLothlorienMirkwoodPalaceGuardHorde
-"Requires: Captain of the Watch \n Unit Type: Advanced Pikemen \n Strong vs: Cavalry and Monsters \n You can only build 4 units at the same time"
+"Requires: Captain of the Watch \n Unit Type: Elite Pikemen \n Strong vs: Cavalry and Monsters \n You can only build 4 units at the same time"
 END
 
 BANNERUI:MirkwoodPalaceGuard
@@ -57735,7 +57743,7 @@ CONTROLBAR:ToolTipSpecialAbilityVerteidigerDusterwalds
 END
 
 CONTROLBAR:ConstructEnt
-"E&nt"
+"Ent (&W)"
 END
 
 CONTROLBAR:ToolTipBuildEnt_Neu
@@ -57768,7 +57776,7 @@ END
 
 
 CONTROLBAR:ConstructEntAsh
-"&Ash Ent"
+"Ash Ent (&E)"
 END
 
 CONTROLBAR:ToolTipBuildEntAsh
@@ -58025,7 +58033,7 @@ CONTROLBAR:ToolTipConstructImladrisBarracks
 END
 
 CONTROLBAR:PurchaseUpgradeElvenBarracksLevel2
-"&Upgrade Barracks to Level 2"
+"Upgr&ade Barracks to Level 2"
 END
 
 CONTROLBAR:ToolTipBuildElvenBarracksLevel2
@@ -58033,7 +58041,7 @@ CONTROLBAR:ToolTipBuildElvenBarracksLevel2
 END
 
 CONTROLBAR:PurchaseUpgradeElvenBarracksLevel3
-"&Upgrade Barracks to Level 3"
+"Upgr&ade Barracks to Level 3"
 END
 
 CONTROLBAR:ToolTipBuildElvenBarracksLevel3
@@ -58066,7 +58074,7 @@ CONTROLBAR:ToolTipGreenPasture
 END
 
 CONTROLBAR:ConstructElvenGreenPastureLevel2Upgrade
-"&Upgrade Green Pasture to Level 2"
+"Upgr&ade Green Pasture to Level 2"
 END
 
 CONTROLBAR:ToolTipBuildElvenGreenPastureLevel2Upgrade
@@ -58074,7 +58082,7 @@ CONTROLBAR:ToolTipBuildElvenGreenPastureLevel2Upgrade
 END
 
 CONTROLBAR:ConstructElvenGreenPastureLevel3Upgrade
-"&Upgrade Green Pasture to Level 3"
+"Upgr&ade Green Pasture to Level 3"
 END
 
 CONTROLBAR:ToolTipBuildElvenGreenPastureLevel3Upgrade
@@ -58209,7 +58217,7 @@ CONTROLBAR:ToolTipEregionForge
 END
 
 CONTROLBAR:PurchaseUpgradeEregionForgeLevel2
-"&Upgrade Eregion Forge to Level 2"
+"Upgr&ade Eregion Forge to Level 2"
 END
 
 CONTROLBAR:ToolTipBuildEregionForgeLevel2
@@ -58217,7 +58225,7 @@ CONTROLBAR:ToolTipBuildEregionForgeLevel2
 END
 
 CONTROLBAR:PurchaseUpgradeEregionForgeLevel3
-"&Upgrade Eregion Forge to Level 3"
+"Upgr&ade Eregion Forge to Level 3"
 END
 
 CONTROLBAR:ToolTipBuildEregionForgeLevel3
@@ -58480,7 +58488,7 @@ CONTROLBAR:ToolTipPurchaseTechnologyBruchtalKnightSchield
 END
 
 CONTROLBAR:PurchaseUpgradeBruchtalKnightSchield
-"Purchase Wind Rider Sh&ields"
+"Purchase Wind Rider Shields (&E)"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeBruchtalKnightSchield
@@ -58590,7 +58598,7 @@ OBJECT:HordeBruchtalSchwertkampfer
 END
 
 CONTROLBAR:BuildBruchtalSchwertkampferHorde
-"Imladris &Swordsmen"
+"Imladris Swordsmen (&W)"
 END
 
 CONTROLBAR:ToolTipBuildBruchtalSchwertkampferHorde
@@ -58630,11 +58638,11 @@ OBJECT:HordeImladrisWaffenmeister
 END
 
 CONTROLBAR:ConstructImladrisWaffenmeisterHorde
-"Imladris B&lade Masters"
+"Imladris Blade Masters (&T)"
 END
 
 CONTROLBAR:ToolTipBuildImladrisWaffenmeisterHorde
-"Unit Type: Hybrid Infantry \n Strong vs: Spam \n Weak vs: Swordsmen and cavalry \n Upgrades from the Imladris Library unlock special abilities and enable them to be more versatile."
+"Unit Type: Hybrid Infantry \n Strong vs: Spam Units \n Weak vs: Swordsmen and Cavalry \n Upgrades from the Imladris Library unlock special abilities and enable them to be more versatile."
 END
 
 BANNERUI:ImladrisWaffenmeister
@@ -58671,11 +58679,11 @@ OBJECT:HordeBruchtalLanzer
 END
 
 CONTROLBAR:BuildBruchtalLancerHorde
-"Imladris S&pearmen"
+"Imladris Spearmen (&R)"
 END
 
 CONTROLBAR:ToolTipBuildBruchtalLancerHorde
-"Requires: Level 2 Barracks \n Unit Type: Regular Pikemen \n Strong vs: Cavalry \n Upgrades from the Imladris Library unlock special abilities"
+"Requires: Level 2 Barracks \n Unit Type: Regular Pikemen \n Strong vs: Cavalry and Monsters \n Upgrades from the Imladris Library unlock special abilities"
 END
 
 BANNERUI:BruchtalLancer
@@ -58712,11 +58720,11 @@ OBJECT:HordeBruchtalBogenschuetzen
 END
 
 CONTROLBAR:BuildBruchtalBogenschuetzenHorde
-"Imladris &Archers"
+"Imladris Archers (&E)"
 END
 
 CONTROLBAR:ToolTipBuildBruchtalBogenschuetzenHorde
-"Unit Type: Regular Archer \n Strong vs: Infantry and Monster \n Upgrades from the Imladris Library unlock special abilities"
+"Unit Type: Regular Archer \n Strong at Range \n Upgrades from the Imladris Library unlock special abilities"
 END
 
 BANNERUI:BruchtalBogenschuetzen
@@ -58753,11 +58761,11 @@ OBJECT:HordeBruchtalwachter
 END
 
 CONTROLBAR:BruchtalwachterHorde
-"Imladris &Guardians"
+"Imladris Guardians (&S)"
 END
 
 CONTROLBAR:ToolTipBruchtalwachterHorde
-"Requires: Barracks Level 3 \n Unit Type: Elite Infantry \n Strong vs: Heroes and Monster \n Imladris Library upgrades allows the Guardian to unlock special abilities \n You can only build 4 Guardians at the same time"
+"Requires: Barracks Level 3 \n Unit Type: Elite Infantry \n Strong vs: Infantry and Heroes \n Imladris Library upgrades allows the Guardian to unlock special abilities \n You can only build 4 Guardians at the same time"
 END
 
 BANNERUI:Bruchtalwachter
@@ -58790,11 +58798,11 @@ OBJECT:HordeElvenRivendellLancer
 END
 
 CONTROLBAR:BuildElvenRivendellLancers
-"Imladris &Lancers"
+"Imladris Lancers (&W)"
 END
 
 CONTROLBAR:ToolTipBuildElvenRivendellLancers
-"Unit Type: Regular Cavalry \n Strong vs: Infantry \n You can maintain only 3 battalions at a time"
+"Unit Type: Regular Cavalry \n Strong vs: Swordsmen and Archers \n You can maintain only 3 battalions at a time"
 END
 
 BANNERUI:ElvenRivendellLancer
@@ -58830,11 +58838,11 @@ OBJECT:HordeElvenKnight
 END
 
 CONTROLBAR:BuildElvenKnightHorde
-"Imladris &Wind Riders"
+"Imladris Wind Riders (&R)"
 END
 
 CONTROLBAR:ToolTipBuildElvenKnightHorde
-"Requires: Green Pasture Level 3 and Wind Rider Shields \n Unit Type: Elite Cavalry \n Strong vs: Infantry and Cavalry \n Imladris Library upgrades allow the battalion to unlock special abilities \n You can only train 3 battalions"
+"Requires: Green Pasture Level 3 and Wind Rider Shields \n Unit Type: Elite Cavalry \n Strong vs: Infantry, Cavalry and Heroes \n Imladris Library upgrades allow the battalion to unlock special abilities \n You can only train 3 battalions"
 END
 
 CONTROLBAR:ToolTipBuildElvenKnightHordeInn
@@ -58871,11 +58879,11 @@ OBJECT:ImladrisElbenfuerst
 END
 
 CONTROLBAR:ImladrisElbenfuerstHotkey
-"&Elf Lord"
+"Elf Lord (&W)"
 END
 
 CONTROLBAR:BuildImladrisElbenfuerst
-"Elf &Lord"
+"Elf Lord (&W)"
 END
 
 CONTROLBAR:ImladrisElbenfuerstRecruit
@@ -58912,7 +58920,7 @@ OBJECT:BruchtalGelehrter
 END
 
 CONTROLBAR:ConstructBruchtalGelehrter
-"S&cholar"
+"Scholar (&E)"
 END
 
 CONTROLBAR:ToolTipBuildBruchtalGelehrter
@@ -58985,19 +58993,19 @@ OBJECT:BruchtalLichtbringerLuftWasserComboHorde
 END
 
 CONTROLBAR:BruchtalLichtbringerErdeHorde
-"Imladris Loremasters \n Element: &Earth"
+"Imladris Loremasters \n Element: Earth (&W)"
 END
 
 CONTROLBAR:BruchtalLichtbringerWasserHorde
-"Imladris Loremasters \n Element: &Water"
+"Imladris Loremasters \n Element: Water (&E)"
 END
 
 CONTROLBAR:BruchtalLichtbringerFeuerHorde
-"Imladris Loremasters \n Element: &Fire"
+"Imladris Loremasters \n Element: Fire (&R)"
 END
 
 CONTROLBAR:BruchtalLichtbringerLuftHorde
-"Imladris Loremasters\n Element: &Air"
+"Imladris Loremasters\n Element: Air (&T)"
 END
 
 CONTROLBAR:ToolTipBruchtalLichtbringerLuftHorde
@@ -59209,7 +59217,7 @@ OBJECT:HordeHobbits
 END
 
 CONTROLBAR:ConstructElvenHobbitShirrif
-"&Hobbits"
+"Hobbits (&E)"
 END
 
 CONTROLBAR:ToolTipElvenHobbitShirrif
@@ -59246,11 +59254,11 @@ OBJECT:HordeHobbitKnight
 END
 
 CONTROLBAR:HobbitRiderHordeInn
-"&Donkey Riders"
+"Donkey Riders (&T)"
 END
 
 CONTROLBAR:ToolTipHobbitRiderHordeInn
-"Unit Type: Expendable Cavalry \n Strong vs: Archers"
+"Unit Type: Basic Cavalry \n Strong vs: Archers"
 END
 
 BANNERUI:HordeHobbitKnight
@@ -59270,7 +59278,7 @@ CONTROLBAR:LW_Unit_HordeHobbitKnightPlural
 END
 
 CONTROLBAR:LW_ToolTip_HordeHobbitKnight
-"\nUnit Type: Expendable Cavalry\nStrong vs: Archers"
+"\nUnit Type: Basic Cavalry\nStrong vs: Archers"
 END
 
 
@@ -59279,7 +59287,7 @@ OBJECT:HobbitBallista
 END
 
 CONTROLBAR:HobbitBallistaInn
-"&Fireworks Ballista"
+"Fireworks Ballista (&R)"
 END
 
 CONTROLBAR:ToolTipHobbitBallistaInn
@@ -59303,11 +59311,11 @@ OBJECT:LindonWachterHorde
 END
 
 CONTROLBAR:ConstructLindonWachterHorde
-"&Lindon Guardians"
+"Lindon Guardians (&E)"
 END
 
 CONTROLBAR:ToolTipCommandBuildLindonWachterHorde
-"Requires: Arnor elven barracks level 3 \n Unit Type: Regular Archer \n Strong vs: Depending on the situation \n Can switch between Sword and Bow \n You can only train 4 battalions"
+"Requires: Lindon Barracks Level 3 \n Unit Type: Advanced Archer \n Strong vs: Depending on the situation \n Can switch between Sword and Bow \n You can only train 4 battalions"
 END
 
 BANNERUI:LindonWachter
@@ -59344,11 +59352,11 @@ OBJECT:HordeDunedainSoldier
 END
 
 CONTROLBAR:ConstructDunedainFighter
-"Dunedain &Swordsmen"
+"Dunedain Swordsmen (&W)"
 END
 
 CONTROLBAR:ToolTipBuildDunedainFighter
-"Unit Type: Basic Infantry \n Strong vs: Pikemen \n Can be disguised in woods"
+"Unit Type: Regular Infantry \n Strong vs: Pikemen \n Can be stealth near trees"
 END
 
 BANNERUI:DunedainFighter
@@ -59368,7 +59376,7 @@ CONTROLBAR:LW_Unit_DunedainFighterHordePlural
 END
 
 CONTROLBAR:LW_ToolTip_DunedainFighterHorde
-"\nUnit Type: Basic Infantry\nStrong vs: Pikemen"
+"\nUnit Type: Regular Infantry\nStrong vs: Pikemen"
 END
 
 
@@ -59377,15 +59385,15 @@ OBJECT:HordeDunedainRangerImla
 END
 
 CONTROLBAR:ConstructDunedainRangerMod
-"Dunedain &Rangers"
+"Dunedain Rangers (&E)"
 END
 
 CONTROLBAR:ToolTipBuildDunedainRangerModCamp
-"Unit Type: Basic Archer \n Strong vs: Infantry and Monster \n Can be disguised in woods"
+"Unit Type: Regular Archer \n Strong at Range \n Can be disguised in woods"
 END
 
 CONTROLBAR:ToolTipBuildArnorDunedainRangerModInn
-"Unit Type: Basic Archer \n Strong at Range"
+"Unit Type: Regular Archer \n Strong at Range"
 END
 
 BANNERUI:DunedainRangerModImla
@@ -59405,7 +59413,7 @@ CONTROLBAR:LW_Unit_DunedainRangerHordeImlaPlural
 END
 
 CONTROLBAR:LW_ToolTip_DunedainRangerHordeImla
-"\nUnit Type: Basic Archer\nStrong vs: Infantry and Monster"
+"\nUnit Type: Regular Archer\nStrong vs: Infantry and Monster"
 END
 
 // DWARVEN STRUCTURES
@@ -59673,11 +59681,11 @@ OBJECT:DwarvenBarracksDainDescription
 END
 
 CONTROLBAR:UpgradeDwarvenBarracksLevel2
-"&Upgrade Hall of Warriors to Level 2"
+"Upgr&ade Hall of Warriors to Level 2"
 END
 
 CONTROLBAR:UpgradeDwarvenBarracksLevel3
-"&Upgrade Hall of Warriors to Level 3"
+"Upgr&ade Hall of Warriors to Level 3"
 END
 
 CONTROLBAR:ToolTipUpgradeDwarvenBarracksLevel2
@@ -59745,7 +59753,7 @@ CONTROLBAR:ToolTipConstructDwarvenForgeWorks_Erebor
 END
 
 CONTROLBAR:UpgradeDwarvenForgeWorksLevel2
-"&Upgrade Siege Works to Level 2"
+"Upgr&ade Siege Works to Level 2"
 END
 
 CONTROLBAR:ToolTipUpgradeDwarvenForgeWorksLevel2
@@ -59761,7 +59769,7 @@ CONTROLBAR:ToolTipUpgradeDwarvenForgeWorksLevel2_Eisenberge
 END
 
 CONTROLBAR:UpgradeDwarvenForgeWorksLevel3
-"&Upgrade Siege Works to Level 3"
+"Upgr&ade Siege Works to Level 3"
 END
 
 CONTROLBAR:ToolTipUpgradeDwarvenForgeWorksLevel3
@@ -59793,7 +59801,7 @@ CONTROLBAR:ToolTipDwarvenForge_Neu
 END
 
 CONTROLBAR:UpgradeDwarvenForgeLevel2
-"&Upgrade Forge to Level 2"
+"Upgr&ade Forge to Level 2"
 END
 
 CONTROLBAR:ToolTipUpgradeDwarvenForgeLevel2
@@ -59801,7 +59809,7 @@ CONTROLBAR:ToolTipUpgradeDwarvenForgeLevel2
 END
 
 CONTROLBAR:UpgradeDwarvenForgeLevel3
-"&Upgrade Forge to Level 3"
+"Upgr&ade Forge to Level 3"
 END
 
 CONTROLBAR:ToolTipUpgradeDwarvenForgeLevel3
@@ -59965,7 +59973,7 @@ CONTROLBAR:ConstructEMithBastion
 END
 
 CONTROLBAR:ToolTipEMithBastion
-"Military Structure \n Trains Dwarves from Ered Mithrin \n May be equipped with upgrades \n You can build one bastioNain the same game"
+"Military Structure \n Trains Dwarves from Ered Mithrin \n May be equipped with upgrades \n You can build one bastion the same game"
 END
 
 CONTROLBAR:PurchaseUpgradeDwarvenEMithHalls
@@ -60572,7 +60580,7 @@ OBJECT:HordeDwarvenGuardianErebor
 END
 
 CONTROLBAR:BuildDwarvenGuardianErebor
-"Erebor &Guardians"
+"Erebor Guardians (&W)"
 END
 
 CONTROLBAR:ToolTipBuildDwarvenGuardianErebor
@@ -60621,7 +60629,7 @@ OBJECT:HordeDwarvenPhalanxLangbarte
 END
 
 CONTROLBAR:BuildDwarvenPhalanxLangbarteHorde
-"Erebor &Phalanx"
+"Erebor Phalanx (&E)"
 END
 
 CONTROLBAR:ToolTipBuildDwarvenPhalanxLangbarteHorde
@@ -60662,7 +60670,7 @@ OBJECT:HordeDwarvenAxeThrower
 END
 
 CONTROLBAR:ConstructDwarvenAxeThrowerHorde
-"Erebor A&xe Throwers"
+"Erebor Axe Throwers (7R)"
 END
 
 CONTROLBAR:ToolTipBuildDwarvenBowHorde
@@ -60703,11 +60711,11 @@ OBJECT:HordeDwarvenArkenguard
 END
 
 CONTROLBAR:ConstructDwarvenArkenguardHorde
-"The Ar&kenguards"
+"The Arkenguards (&S)"
 END
 
 CONTROLBAR:ToolTipBuildDwarvenArkenguardHorde
-"Requires: Hall of Warriors Level 3 \n Unit Type: Regular Infantry \n Strong vs: Monsters"
+"Requires: Hall of Warriors Level 3 \n Unit Type: Advanced Infantry \n Strong vs: Infantry and Heroes"
 END
 
 BANNERUI:DwarvenArkenguard
@@ -60743,7 +60751,7 @@ OBJECT:HordeDwarvenGuardianIronHills
 END
 
 CONTROLBAR:BuildDwarvenGuardianIronHills
-"Iron Hills &Guardians"
+"Iron Hills Guardians (&W)"
 END
 
 BANNERUI:DwarvenGuardianIronHills
@@ -60772,7 +60780,7 @@ OBJECT:HordeDwarvenPhalanxFeuerbarte
 END
 
 CONTROLBAR:BuildDwarvenPhalanxFeuerbarte
-"Iron Hills &Halberdiers"
+"Iron Hills Halberdiers (&E)"
 END
 
 BANNERUI:DwarvenPhalanxFeuerbarte
@@ -60800,7 +60808,7 @@ OBJECT:DwarvenCrossbowHorde
 END
 
 CONTROLBAR:BuildDwarvenCrossbowHorde
-"Iron Hills &Crossbowmen"
+"Iron Hills Crossbowmen (&R)"
 END
 
 BANNERUI:DwarvenCrossbowHorde
@@ -60829,7 +60837,7 @@ OBJECT:DwarvenIronBreakerHorde
 END
 
 CONTROLBAR:ConstructDwarvenIronBreakerHorde
-"The Ironbreaker&s"
+"The Ironbreakers (&S)"
 END
 
 BANNERUI:DwarvenSchlachterHorde
@@ -60858,7 +60866,7 @@ OBJECT:HordeDwarvenGuardianBreitschultern
 END
 
 CONTROLBAR:BuildDwarvenGuardianBreitschultern
-"Ered Luin &Guardians"
+"Ered Luin Guardians (&W)"
 END
 
 BANNERUI:DwarvenGuardianBreitschultern
@@ -60887,7 +60895,7 @@ OBJECT:HordeDwarvenPhalanxBreitschultern
 END
 
 CONTROLBAR:BuildDwarvenPhalanxBreitschultern
-"Ered Luin &Phalange"
+"Ered Luin Phalange (&E)"
 END
 
 BANNERUI:DwarvenPhalanxBreitschultern
@@ -60916,7 +60924,7 @@ OBJECT:HordeDwarvenBow
 END
 
 CONTROLBAR:ConstructDwarvenBowHorde
-"Ered Luin Ar&chers"
+"Ered Luin Archers (&R)"
 END
 
 BANNERUI:DwarvenBowHorde
@@ -60941,7 +60949,7 @@ OBJECT:DwarvenUnburntHorde
 END
 
 CONTROLBAR:ConstructDwarvenUnburntHorde
-"The &Unburnt"
+"The Unburnt (&S)"
 END
 
 BANNERUI:DwarvenUnburntHorde
@@ -61187,51 +61195,51 @@ OBJECT:DwarvenThalSpearmenHorde
 END
 
 CONTROLBAR:BuildDwarvenLaketownSwordmenHorde
-"Lake Town S&wordsmen"
+"Lake Town Swordsmen (&W)"
 END
 
 CONTROLBAR:BuildDwarvenLaketownSpearmenHorde
-"Lake Town &Spearmen"
+"Lake Town Spearmen (&E)"
 END
 
 CONTROLBAR:BuildDwarvenLaketownBowmenHorde
-"Lake Town &Bowmen"
+"Lake Town Bowmen (&R)"
 END
 
 CONTROLBAR:BuildDwarvenThalSwordmenHorde
-"Dale S&wordsmen"
+"Dale Swordsmen (&W)"
 END
 
 CONTROLBAR:BuildDwarvenThalSpearmenHorde
-"Dale &Spearmen"
+"Dale Spearmen (&E)"
 END
 
 CONTROLBAR:BuildDwarvenThalBowmenHorde
-"Dale &Bowmen"
+"Dale Bowmen (&R)"
 END
 
 CONTROLBAR:ToolTipBuildDwarvenLaketownBowmenHorde
-"Unit Type: Regular Archer \n Strong at Range"
+"Unit Type: Basic Archer \n Strong at Range"
 END
 
 CONTROLBAR:ToolTipBuildDwarvenLaketownSpearmenHorde
-"Unit Type: Regular Pikemen \n Strong vs: Cavalry and Monster"
+"Unit Type: Basic Pikemen \n Strong vs: Cavalry and Monsters"
 END
 
 CONTROLBAR:ToolTipBuildDwarvenLaketownSwordmenHorde
-"Unit Type: Regular Infantry \n Strong vs: Pikemen"
+"Unit Type: Basic Infantry \n Strong vs: Pikemen"
 END
 
 CONTROLBAR:ToolTipBuildDwarvenThalBowmenHorde
-"Unit Type: Regular Archer \n Strong at Range"
+"Unit Type: Basic Archer \n Strong at Range"
 END
 
 CONTROLBAR:ToolTipBuildDwarvenThalSpearmenHorde
-"Unit Type: Regular Pikemen \n Strong vs: Cavalry and Monster"
+"Unit Type: Basic Pikemen \n Strong vs: Cavalry and Monsters"
 END
 
 CONTROLBAR:ToolTipBuildDwarvenThalSwordmenHorde
-"Unit Type: Regular Infantry \n Strong vs: Pikemen"
+"Unit Type: Basic Infantry \n Strong vs: Pikemen"
 END
 
 BANNERUI:LaketownBowmenHorde
@@ -61388,7 +61396,7 @@ OBJECT:DwarvenEredMithrinDragonSlayer
 END
 
 CONTROLBAR:ConstructDwarvenGuardianEredMithrinHorde
-"Ered Mithrin &Zealots"
+"Ered Mithrin Zealots (&W)"
 END
 
 CONTROLBAR:ToolTipBuild_DwarvenGuardianEredMithrinHorde
@@ -61396,15 +61404,15 @@ CONTROLBAR:ToolTipBuild_DwarvenGuardianEredMithrinHorde
 END
 
 CONTROLBAR:ConstructDwarvenEredMithrinHunterHorde
-"Ered Mithrin &Hunters"
+"Ered Mithrin Hunters (&E)"
 END
 
 CONTROLBAR:ToolTipBuild_DwarvenEredMithrinHunterHorde
-"Unit Type: Regular Specialist \n Strong at Range \n You can have only 6 units on the battlefield at the same time"
+"Unit Type: Advanced Spear Throwers \n Strong at Range \n You can have only 6 units on the battlefield at the same time"
 END
 
 CONTROLBAR:ConstructDwarvenEredMithrinDragonslayer
-"Ered Mithrin Dragon &Slayer"
+"Ered Mithrin Dragon Slayer (&R)"
 END
 
 CONTROLBAR:ToolTipBuild_DwarvenEredMithrinDragonslayer
@@ -61485,11 +61493,11 @@ OBJECT:AglarondHunterHorde
 END
 
 CONTROLBAR:ConstructAglarondHunterHorde
-"Aglarond &Hunters"
+"Aglarond Hunters (&W)"
 END
 
 CONTROLBAR:ToolTipBuildConstructAglarondHunterHorde
-"Unit Type: Regular Archer \n Strong vs: Depending on the situation \n Can switch between Sword and Bow \n You can only train 3 battalions"
+"Unit Type: Advanced Archer \n Strong vs: Depending on the situation \n Can switch between Sword and Bow \n You can only train 3 battalions"
 END
 
 BANNERUI:AglarondHunter
@@ -61525,11 +61533,11 @@ OBJECT:AglarondPikeHorde
 END
 
 CONTROLBAR:ConstructAglarondPikeHorde
-"Aglarond &Pikemen"
+"Aglarond Pikemen (&E)"
 END
 
 CONTROLBAR:ToolTipConstructAglarondPikeHorde
-"Unit Type: Regular Pikemen \n Strong vs: Cavalry and Monster \n You can only train 3 battalions"
+"Unit Type: Advanced Pikemen \n Strong vs: Cavalry and Monsters \n You can only train 3 battalions"
 END
 
 BANNERUI:AglarondPike
@@ -61566,11 +61574,11 @@ OBJECT:AglarondCavalaryHorde
 END
 
 CONTROLBAR:ConstructAglarondCavalaryHorde
-"Aglarond Pony &Riders"
+"Aglarond Pony Riders (&R)"
 END
 
 CONTROLBAR:ToolTipConstructAglarondCavalaryHorde
-"Unit Type: Regular Cavalry \n Strong vs: Infantry \n You can only train 3 battalions"
+"Unit Type: Advanced Cavalry \n Strong vs: Swordsmen, Archers, Structures \n You can only train 3 battalions"
 END
 
 BANNERUI:AglarondCavalary
@@ -61611,11 +61619,11 @@ OBJECT:DwarvenOrocarniHorde
 END
 
 CONTROLBAR:ConstructDwarvenOrocarni
-"&Orocarni Dwarves"
+"Orocarni Dwarves (&W)"
 END
 
 CONTROLBAR:ToolTipBuildDwarvenOrocarni
-"Unit Type: Regular Infantry \n Strong vs: Infantry and Monsters \n You can only train 3 battalions"
+"Unit Type: Regular Infantry \n Strong vs: Infantry and Heroes \n You can only train 3 battalions"
 END
 
 BANNERUI:DwarvenOrocarni
@@ -61652,11 +61660,11 @@ OBJECT:DwarvenKhazadVeteran
 END
 
 CONTROLBAR:ConstructDwarvenKhazadVeteranenHorde
-"Khazad-dum &Veterans"
+"Khazad-dum Veterans (&D)"
 END
 
 CONTROLBAR:ToolTipBuildDwarvenKhazadVeteranenHorde
-"Requires: Expedition to Khazad-dum \n Unit Type: Elite Infantry \n Strong vs: Heroes and Monsters \n You can only train 3 battalions"
+"Requires: Expedition to Khazad-dum \n Unit Type: Elite Infantry \n Strong vs: Everything \n You can only train 3 battalions"
 END
 
 BANNERUI:DwarvenKhazadVeteranenHorde
@@ -61927,7 +61935,7 @@ CONTROLBAR:ToolTipMordorOrcPit
 END
 
 CONTROLBAR:UpgradeMordorOrcPitLevel2
-"&Upgrade Orc Pit to Level 2"
+"Upgr&ade Orc Pit to Level 2"
 END
 
 CONTROLBAR:TooltipUpgradeMordorOrcPitLevel2
@@ -61935,7 +61943,7 @@ CONTROLBAR:TooltipUpgradeMordorOrcPitLevel2
 END
 
 CONTROLBAR:UpgradeMordorOrcPitLevel3
-"&Upgrade Orc Pit to Level 3"
+"Upgr&ade Orc Pit to Level 3"
 END
 
 CONTROLBAR:TooltipUpgradeMordorOrcPitLevel3
@@ -62059,7 +62067,7 @@ CONTROLBAR:ToolTipMordorTrollCage
 END
 
 CONTROLBAR:UpgradeMordorTrollCageLevel2
-"&Upgrade Troll Cage to Level 2"
+"Upgr&ade Troll Cage to Level 2"
 END
 
 CONTROLBAR:TooltipUpgradeMordorTrollCageLevel2
@@ -62067,7 +62075,7 @@ CONTROLBAR:TooltipUpgradeMordorTrollCageLevel2
 END
 
 CONTROLBAR:UpgradeMordorTrollCageLevel3
-"&Upgrade Troll Cage to Level 3"
+"Upgr&ade Troll Cage to Level 3"
 END
 
 CONTROLBAR:TooltipUpgradeMordorTrollCageLevel3
@@ -62108,7 +62116,7 @@ CONTROLBAR:ToolTipordorSiegeWorks
 END
 
 CONTROLBAR:UpgradeMordorSiegeWorksLevel2
-"&Upgrade Siege Works to Level 2"
+"Upgr&ade Siege Works to Level 2"
 END
 
 CONTROLBAR:TooltipUpgradeMordorSiegeWorksLevel2
@@ -62116,7 +62124,7 @@ CONTROLBAR:TooltipUpgradeMordorSiegeWorksLevel2
 END
 
 CONTROLBAR:UpgradeMordorSiegeWorksLevel3
-"&Upgrade Siege Works to Level 3"
+"Upgr&ade Siege Works to Level 3"
 END
 
 CONTROLBAR:TooltipUpgradeMordorSiegeWorksLevel3
@@ -62272,7 +62280,7 @@ OBJECT:MordorMumakilPenDescription
 END
 
 CONTROLBAR:UpgradeMordorMumakilPenLevel2
-"&Upgrade Mumakil Pen to Level 2"
+"Upgr&ade Mumakil Pen to Level 2"
 END
 
 CONTROLBAR:TooltipUpgradeMordorMumakilPenLevel2
@@ -62280,7 +62288,7 @@ CONTROLBAR:TooltipUpgradeMordorMumakilPenLevel2
 END
 
 CONTROLBAR:UpgradeMordorMumakilPenLevel3
-"&Upgrade Mumakil Pen to Level 3"
+"Upgr&ade Mumakil Pen to Level 3"
 END
 
 CONTROLBAR:TooltipUpgradeMordorMumakilPenLevel3
@@ -62708,7 +62716,7 @@ OBJECT:MordorAufseherFighter
 END
 
 CONTROLBAR:ConstructMordorOrcFighterHorde
-"Mordor Orc &Warriors"
+"Mordor Orc Warriors (&W)"
 END
 
 CONTROLBAR:ToolTipBuildMordorOrcFighterHorde
@@ -62786,11 +62794,11 @@ OBJECT:MordorAufseherPikeman
 END
 
 CONTROLBAR:BuildMordorPikemanHorde
-"Mordor Orc &Pikemen"
+"Mordor Orc Pikemen (&E)"
 END
 
 CONTROLBAR:ToolTipBuildMordorPikemanHorde
-"Unit Type: Basic Pikemen \n Strong vs: Cavalry"
+"Unit Type: Expendable Pikemen \n Strong vs: Cavalry"
 END
 
 BANNERUI:MordorPikeman
@@ -62818,11 +62826,11 @@ CONTROLBAR:LW_Unit_MordorAufseherPikemanHordePlural
 END
 
 CONTROLBAR:LW_ToolTipBuild_MordorPikemanHorde
-"Unit Type: Basic Pikemen\nStrong vs: Cavalry\n"
+"Unit Type: Expendable Pikemen\nStrong vs: Cavalry\n"
 END
 
 CONTROLBAR:LW_ToolTip_MordorPikemanHorde
-"\nUnit Type: Basic Pikemen\nStrong vs: Cavalry"
+"\nUnit Type: Expendable Pikemen\nStrong vs: Cavalry"
 END
 
 
@@ -62839,11 +62847,11 @@ OBJECT:MordorAufseherArcher
 END
 
 CONTROLBAR:ConstructMordorArcher
-"Mordor Orc &Archers"
+"Mordor Orc Archers (&R)"
 END
 
 CONTROLBAR:ToolTipBuildMordorArcher
-"Unit Type: Basic Archer \n Strong at Range"
+"Unit Type: Cheap Archer \n Strong at Range"
 END
 
 BANNERUI:MordorArcher
@@ -62871,11 +62879,11 @@ CONTROLBAR:LW_Unit_MordorAufseherArcherHordePlural
 END
 
 CONTROLBAR:LW_ToolTipBuild_MordorArcherHorde
-"Unit Type: Basic Archer\nStrong at Range\n"
+"Unit Type: Cheap Archer\nStrong at Range\n"
 END
 
 CONTROLBAR:LW_ToolTip_MordorArcherHorde
-"\nUnit Type: Basic Archer\nStrong at Range"
+"\nUnit Type: Cheap Archer\nStrong at Range"
 END
 
 
@@ -62892,15 +62900,15 @@ OBJECT:MordorAufseherMorgulOrks
 END
 
 CONTROLBAR:ConstructMordorMorgulOrkHorde
-"Morgul Orc &Warriors"
+"Morgul Orc Warriors (&W)"
 END
 
 CONTROLBAR:ToolTipBuildMordorMorgulOrkHorde_Orcpit
-"Unit Type: Basic Infantry \n Strong vs: Pikemen"
+"Unit Type: Regular Infantry \n Strong vs: Pikemen"
 END
 
 CONTROLBAR:ToolTipBuildMordorMorgulOrkHorde
-"Requires: Orc Pit Level 3 \n Unit Type: Basic Infantry \n Strong vs: Pikemen"
+"Requires: Orc Pit Level 3 \n Unit Type: Regular Infantry \n Strong vs: Pikemen"
 END
 
 BANNERUI:MordorMorgulOrk
@@ -62928,7 +62936,7 @@ CONTROLBAR:LW_Unit_MordorAufseherMorgulOrksPlural
 END
 
 CONTROLBAR:LW_ToolTip_MordorMorgulOrks
-"\nUnit Type: Basic Infantry\nStrong vs: Pikemen"
+"\nUnit Type: Regular Infantry\nStrong vs: Pikemen"
 END
 
 
@@ -62945,15 +62953,15 @@ OBJECT:MordorAufseherCirithOrk
 END
 
 CONTROLBAR:BuildMordorCirithOrkHorde
-"Cirith Ungol Orc Halberdiers"
+"Cirith Ungol Orc Halberdiers (&E)"
 END
 
 CONTROLBAR:ToolTipBuildMordorCirithOrkHorde_Orcpit
-"Unit Type: Basic Pikemen \n Strong vs: Cavalry"
+"Unit Type: Regular Pikemen \n Strong vs: Cavalry"
 END
 
 CONTROLBAR:ToolTipBuildMordorCirithOrkHorde
-"Unit Type: Basic Pikemen \n Strong vs: Cavalry"
+"Unit Type: Regular Pikemen \n Strong vs: Cavalry"
 END
 
 BANNERUI:MordorCirithOrk
@@ -62981,7 +62989,7 @@ CONTROLBAR:LW_Unit_MordorAufseherCirithOrkHordePlural
 END
 
 CONTROLBAR:LW_ToolTip_MordorCirithOrkHorde
-"\nUnit Type: Basic Pikemen\nStrong vs: Cavalry"
+"\nUnit Type: Regular Pikemen\nStrong vs: Cavalry"
 END
 
 OBJECT:DolguldurArcher
@@ -62997,15 +63005,15 @@ OBJECT:MordorAufseherDolGuldorOrk
 END
 
 CONTROLBAR:ConstructDolguldurArcherHorde
-"Dol Guldur Orc &Archers"
+"Dol Guldur Orc Archers (&R)"
 END
 
 CONTROLBAR:ToolTipBuildDolguldurArcherHorde_Orcpit
-"Unit Type: Basic Archer \n Strong at Ranged"
+"Unit Type: Regular Archer \n Strong at Ranged"
 END
 
 CONTROLBAR:ToolTipBuildDolguldurArcherHorde
-"Requires: Dungeon Level 2 \n Unit Type: Basic Archer \n Strong at Ranged"
+"Requires: Dungeon Level 2 \n Unit Type: Regular Archer \n Strong at Ranged"
 END
 
 BANNERUI:DolguldurArcher
@@ -63033,7 +63041,7 @@ CONTROLBAR:LW_Unit_MordorAufseherDolguldurArcherHordelural
 END
 
 CONTROLBAR:LW_ToolTip_DolguldurArcherHorde
-"\nUnit Type: Basic Archer\nStrong at Ranged"
+"\nUnit Type: Regular Archer\nStrong at Ranged"
 END
 
 
@@ -63042,11 +63050,11 @@ OBJECT:MordorMountainTroll
 END
 
 CONTROLBAR:ConstructMordorMountainTroll
-"Mordor &Mountain Troll"
+"Mordor Mountain Troll (&W)"
 END
 
 CONTROLBAR:ToolTipBuildMordorMountainTroll
-"Unit Type: Basic Monster \n Strong vs: Infantry and Structures \n Can be improved to Attack Troll \n You can only have 6 at the same time"
+"Unit Type: Regular Monster \n Strong vs: Infantry and Structures \n Can be improved to Attack Troll \n You can only have 6 at the same time"
 END
 
 BANNERUI:MordorMountainTroll
@@ -63066,11 +63074,11 @@ CONTROLBAR:LW_Unit_MordorMountainTrollPlural
 END
 
 CONTROLBAR:LW_ToolTipBuild_MordorMountainTroll
-"Unit Type: Basic Monster\nStrong vs: Infantry and Structures\n"
+"Unit Type: Regular Monster\nStrong vs: Infantry and Structures\n"
 END
 
 CONTROLBAR:LW_ToolTip_MordorMountainTroll
-"\nUnit Type: Basic Monster\nStrong vs: Infantry and Structures"
+"\nUnit Type: Regular Monster\nStrong vs: Infantry and Structures"
 END
 
 OBJECT:MordorAttackTroll
@@ -63102,11 +63110,11 @@ OBJECT:MordorDrummerTroll
 END
 
 CONTROLBAR:ConstructMordorDrummerTrolls
-"Mordor &Drummer Troll"
+"Mordor Drummer Troll (&E)"
 END
 
 CONTROLBAR:TooltipConstructMordorDrummerTrolls
-"Requires: Troll Cage Level 2 \n Unit Type: Support \n Strong at supporting your own units"
+"Requires: Troll Cage Level 2 \n Unit Type: Regular Support Monster \n Strong at supporting your own units"
 END 
 
 CONTROLBAR:DescriptionConstructMordorDrummerTrolls
@@ -63146,7 +63154,7 @@ OBJECT:MordorBlackUrukHorde
 END
 
 CONTROLBAR:ConstructMordorBlackUrukHordeHorde
-"Black Uruk &Warriors"
+"Black Uruk Warriors (&W)"
 END
 
 CONTROLBAR:ToolTipBuildMordorBlackUrukHordeHorde
@@ -63190,7 +63198,7 @@ OBJECT:HordeMordorBlackUrukBow
 END
 
 CONTROLBAR:ConstructMordorBlackUrukBowHorde
-"Black Uruk &Archers"
+"Black Uruk Archers (&E)"
 END
 
 CONTROLBAR:ToolTipBuildMordorBlackUrukBowHorde
@@ -63234,11 +63242,11 @@ OBJECT:HordeMordorMorgulrider
 END
 
 CONTROLBAR:ConstructMordorMorgulriderHorde
-"Morgul &Riders"
+"Morgul Riders (&W)"
 END
 
 CONTROLBAR:ToolTipBuildMordorMorgulriderHorde
-"Unit Type: Elite Cavalry \n Strong vs: Infantry and Cavalry"
+"Unit Type: Elite Cavalry \n Strong vs: Swordsmen, Archers, Cavalry, Heroes"
 END
 
 BANNERUI:MordorMorgulrider
@@ -63274,11 +63282,11 @@ OBJECT:MordorSpiderlingHorde
 END
 
 CONTROLBAR:ConstructMordorSpiderlingHorde
-"Dol Guldur &Spiders"
+"Dol Guldur Spiders (&W)"
 END
 
 CONTROLBAR:ToolTipBuildMordorSpiderlingHorde
-"Unit Type: Regular Cavalry \n Strong vs: Cavalry \n You can only train 6 battalions"
+"Unit Type: Basic Cavalry \n Strong vs: Cavalry \n You can only train 6 battalions"
 END
 
 BANNERUI:MordorSpiderling
@@ -63298,7 +63306,7 @@ CONTROLBAR:LW_Unit_MordorSpiderlingHordePlural
 END
 
 CONTROLBAR:LW_ToolTip_MordorSpiderlingHorde
-"\nUnit Type: Regular Cavalry\nStrong vs: Cavalry"
+"\nUnit Type: Basic Cavalry\nStrong vs: Cavalry"
 END
 
 OBJECT:MordorKastellan
@@ -63306,7 +63314,7 @@ OBJECT:MordorKastellan
 END
 
 CONTROLBAR:ConstructMordorKastellan
-"Castellan"
+"Castellan (&E)"
 END
 
 CONTROLBAR:ToolTipBuildMordorKastellan
@@ -63346,7 +63354,7 @@ OBJECT:HordeMordorHaradrimArcher
 END
 
 CONTROLBAR:ConstructMordorHaradrimArcherHorde
-"Haradrim &Archers"
+"Haradrim Archers (&T)"
 END
 
 CONTROLBAR:ToolTipBuildMordorHaradrimArcherHordeBarracks
@@ -63399,15 +63407,15 @@ OBJECT:HordeMordorHaradrimLancer
 END
 
 CONTROLBAR:ConstructMordorHaradrimLancerHorde
-"Haradrim &Spear Throwers"
+"Haradrim Spear Throwers (&R)"
 END
 
 CONTROLBAR:ToolTipBuildMordorHaradrimLancerHorde
-"Unit Type: Regular ranged unit \n Strong vs: Cavalry and Monster"
+"Unit Type: Regular Spear Thrower \n Strong at Range \n Deals additional damage against Cavalry and Monsters"
 END
 
 CONTROLBAR:ToolTipBuildMordorHaradrimLancerHordeBarracks
-"Requires: Level 2 Barracks \n Unit Type: Regular ranged unit \n Strong vs: Cavalry and Monster"
+"Requires: Level 2 Barracks \n Unit Type: Regular Spear Thrower \n Strong at Range \n Deals additional damage against Cavalry and Monsters"
 END
 
 BANNERUI:MordorHaradrimLancer
@@ -64005,7 +64013,7 @@ CONTROLBAR:TooltipIsengardTavern
 END
 
 CONTROLBAR:UpgradeIsengardTavernLevel2
-"&Upgrade Dunland Shelter to Level 2"
+"Upgr&ade Dunland Shelter to Level 2"
 END
 
 CONTROLBAR:TooltipUpgradeIsengardTavernLevel2
@@ -64013,7 +64021,7 @@ CONTROLBAR:TooltipUpgradeIsengardTavernLevel2
 END
 
 CONTROLBAR:UpgradeIsengardTavernLevel3
-"&Upgrade Dunland Shelter to Level 3"
+"Upgr&ade Dunland Shelter to Level 3"
 END
 
 CONTROLBAR:TooltipUpgradeIsengardTavernLevel3
@@ -64055,7 +64063,7 @@ END
 
 
 CONTROLBAR:UpgradeIsengardUrukPitLevel2
-"&Upgrade Uruk Pit to Level 2"
+"Upgr&ade Uruk Pit to Level 2"
 END
 
 CONTROLBAR:TooltipUpgradeIsengardUrukPitLevel2
@@ -64063,7 +64071,7 @@ CONTROLBAR:TooltipUpgradeIsengardUrukPitLevel2
 END
 
 CONTROLBAR:UpgradeIsengardUrukPitLevel3
-"&Upgrade Uruk Pit to Level 3"
+"Upgr&ade Uruk Pit to Level 3"
 END
 
 CONTROLBAR:TooltipUpgradeIsengardUrukPitLevel3
@@ -64100,7 +64108,7 @@ CONTROLBAR:ToolTipIsengardWargPit_MapIsengard
 END
 
 CONTROLBAR:UpgradeIsengardWargPitLevel2
-"&Upgrade Warg Pit to Level 2"
+"Upgr&ade Warg Pit to Level 2"
 END
 
 CONTROLBAR:TooltipUpgradeIsengardWargPitLevel2
@@ -64108,11 +64116,11 @@ CONTROLBAR:TooltipUpgradeIsengardWargPitLevel2
 END
 
 CONTROLBAR:UpgradeIsengardWargPitLevel3
-"&Upgrade Warg Pit to Level 3"
+"Upgr&ade Warg Pit to Level 3"
 END
 
 CONTROLBAR:TooltipUpgradeIsengardWargPitLevel3
-"+25% Training Speed \n Allows the training of Shark 's Warg Riders"
+"+25% Training Speed \n Allows the training of Sharku's Warg Riders"
 END
 
 UPGRADE:IsengardWargPitLevel2
@@ -64145,7 +64153,7 @@ CONTROLBAR:ToolTipIsengardSiegeWorks_MapIsengard
 END
 
 CONTROLBAR:UpgradeIsengardSiegeWorksLevel2
-"&Upgrade the Siege Works to Level 2"
+"Upgr&ade the Siege Works to Level 2"
 END
 
 CONTROLBAR:TooltipUpgradeIsengardSiegeWorksLevel2
@@ -64153,7 +64161,7 @@ CONTROLBAR:TooltipUpgradeIsengardSiegeWorksLevel2
 END
 
 CONTROLBAR:UpgradeIsengardSiegeWorksLevel3
-"&Upgrade the Siege Works to Level 3"
+"Upgr&ade the Siege Works to Level 3"
 END
 
 CONTROLBAR:TooltipUpgradeIsengardSiegeWorksLevel3
@@ -64190,7 +64198,7 @@ CONTROLBAR:ToolTipIsengardArmory_MapIsengard
 END
 
 CONTROLBAR:ConstructIsengardArmoryLevel2
-"&Upgrade Armory to Level 2"
+"Upgr&ade Armory to Level 2"
 END
 
 CONTROLBAR:ToolTipBuildIsengardArmoryLevel2
@@ -64198,7 +64206,7 @@ CONTROLBAR:ToolTipBuildIsengardArmoryLevel2
 END
 
 CONTROLBAR:ConstructIsengardArmoryLevel3
-"&Upgrade Armory to Level 3"
+"Upgr&ade Armory to Level 3"
 END
 
 CONTROLBAR:ToolTipBuildIsengardArmoryLevel3
@@ -64678,11 +64686,11 @@ OBJECT:IsengardWildman
 END
 
 CONTROLBAR:ConstructIsengardWildmanHorde
-"Dunland &Wildmen"
+"Dunland Wildmen (&W)"
 END
 
 CONTROLBAR:ToolTipBuildIsengardWildmanHorde
-"Unit Type: Basic Infantry \n Strong vs: Structures"
+"Unit Type: Cheap Infantry \n Strong vs: Structures"
 END
 
 BANNERUI:IsengardWildman
@@ -64702,11 +64710,11 @@ CONTROLBAR:LW_Unit_IsengardWildmanHordePlural
 END
 
 CONTROLBAR:LW_ToolTipBuild_IsengardWildmanHorde
-"Unit Type: Basic Infantry\nStrong vs: Structures\n"
+"Unit Type: Cheap Infantry\nStrong vs: Structures\n"
 END
 
 CONTROLBAR:LW_ToolTip_IsengardWildmanHorde
-"\nUnit Type: Basic Infantry\nStrong vs: Structures"
+"\nUnit Type: Cheap Infantry\nStrong vs: Structures"
 END
 
 
@@ -64719,15 +64727,15 @@ OBJECT:HordeWildmanAxeThrower
 END
 
 CONTROLBAR:ConstructIsengardWildmanAxeHorde
-"Dunland Wildmen Axe &Throwers"
+"Dunland Wildmen Axe Throwers (&R)"
 END
 
 CONTROLBAR:ToolTipBuildIsengardWildmanAxeHorde
-"Requires: Dunland Shelter Level 2 \n Unit Type: Basic Archer \n Strong at Range"
+"Requires: Dunland Shelter Level 2 \n Unit Type: Cheap Axe Throwers \n Strong at Range \n Especially deadly against swordsmen and structures"
 END
 
 CONTROLBAR:ToolTipBuildIsengardWildmanAxeHordeNeu
-"Requires: Dunland Shelter Level 2 \n Unit Type: Basic Archer \n Strong at Range"
+"Requires: Dunland Shelter Level 2 \n Unit Type: Cheap Axe Throwers \n Strong at Range \n Especially deadly against swordsmen and structures"
 END
 
 BANNERUI:IsengardWildmanAxe
@@ -64768,7 +64776,7 @@ OBJECT:HordeWildmanElite
 END
 
 CONTROLBAR:ConstructIsengardWildeliteHorde
-"Dunland &Guardians"
+"Dunland Guardians (&T)"
 END
 
 CONTROLBAR:ToolTipBuildIsengardWildeliteHorde
@@ -64813,7 +64821,7 @@ OBJECT:HordeIsengardFighter
 END
 
 CONTROLBAR:ConstructIsengardUrukHai
-"Uruk-hai &Warriors"
+"Uruk-hai Warriors (&W)"
 END
 
 CONTROLBAR:ToolTipBuildIsengardUrukHai
@@ -64854,11 +64862,11 @@ OBJECT:HordeIsengardPikemen
 END
 
 CONTROLBAR:ConstructIsengardPikemen
-"Uruk-hai Pikemen"
+"Uruk-hai Pikemen (&R)"
 END
 
 CONTROLBAR:ToolTipBuildIsengardPikemen
-"Requires: Uruk Pit Level 2 \n Unit Type: Regular Pikemen \n Strong vs: Cavalry"
+"Requires: Uruk Pit Level 2 \n Unit Type: Regular Pikemen \n Strong vs: Cavalry and Monsters"
 END
 
 BANNERUI:IsengardPikeman
@@ -64895,7 +64903,7 @@ OBJECT:HordeIsengardCrossbow
 END
 
 CONTROLBAR:ConstructIsengardCrossbowmen
-"Uruk-hai &Crossbowmen"
+"Uruk-hai Crossbowmen (&E)"
 END
 
 CONTROLBAR:ToolTipBuildIsengardCrossbowmen
@@ -65038,11 +65046,11 @@ OBJECT:IsengardBerserker
 END
 
 CONTROLBAR:ConstructIsengardBerserker
-"Uruk-hai &Berserker"
+"Uruk-hai Berserker (&S)"
 END
 
 CONTROLBAR:ToolTipBuildIsengardBerserker
-"Requires: Uruk Pit Level 3 \n Unit Type: Heroic Infantry \n Strong vs Heroes \n You can only train 6 Uruk-hai Berserkers"
+"Requires: Uruk Pit Level 3 \n Unit Type: Regular Champion Unit \n Strong vs Infantry and Heroes \n You can only train 6 Uruk-hai Berserkers"
 END
 
 BANNERUI:IsengardBeserker
@@ -65244,15 +65252,15 @@ END
 
 
 OBJECT:Sharkuswargreiter
-"Shark 's Warg Rider"
+"Sharku's Warg Rider"
 END
 
 OBJECT:IsengardSharkuswargreiterHorde
-"Shark 's Warg Riders"
+"Sharku's Warg Riders"
 END
 
 CONTROLBAR:ConstructIsengardSharkuswargreiterHorde
-"Shark 's &Warg Riders"
+"Sharku's Warg Riders (&W)"
 END
 
 CONTROLBAR:ToolTipBuildIsengardSharkuswargreiterHorde
@@ -65260,19 +65268,19 @@ CONTROLBAR:ToolTipBuildIsengardSharkuswargreiterHorde
 END
 
 BANNERUI:Sharkuswargreiter
-"Shark 's Warg Rider"
+"Sharku's Warg Rider"
 END
 
 BANNERUI:Sharkuswargreiters
-"Shark 's Warg Riders"
+"Sharku's Warg Riders"
 END
 
 CONTROLBAR:LW_Unit_IsengardSharkuswargreiterHorde
-"Shark 's Warg Rider Battalion"
+"Sharku's Warg Rider Battalion"
 END
 
 CONTROLBAR:LW_Unit_IsengardSharkuswargreiterHordePlural
-"Shark 's Warg Rider Battalions"
+"Sharku's Warg Rider Battalions"
 END
 
 
@@ -65285,7 +65293,7 @@ OBJECT:HordeIsengardWargBowHorde
 END
 
 CONTROLBAR:ConstructIsengardWargBowHorde
-"Isen&gard Warg Archers"
+"Isengard Warg Archers (&E)"
 END
 
 CONTROLBAR:ToolTipBuildIsengardWargBowHorde
@@ -65796,7 +65804,7 @@ CONTROLBAR:ToolTipConstructWildGoblinCave
 END
 
 CONTROLBAR:ConstructWildCaveLevel2Upgrade
-"&Upgrade Cave to Level 2"
+"Upgr&ade Cave to Level 2"
 END
 
 CONTROLBAR:ToolTipBuildWildCaveLevel2Upgrade
@@ -65849,7 +65857,7 @@ CONTROLBAR:ToolTipConstructWildWildSpiderPit
 END
 
 CONTROLBAR:ConstructWildSpiderPitLevel2Upgrade
-"&Upgrade Spider Pit at Level 2"
+"Upgr&ade Spider Pit at Level 2"
 END
 
 CONTROLBAR:ToolTipBuildWildSpiderPitLevel2Upgrade
@@ -65861,7 +65869,7 @@ CONTROLBAR:ToolTipBuildWildSpiderPitLevel2Upgrade_forEtteenmoors
 END
 
 CONTROLBAR:ConstructWildSpiderPitLevel3Upgrade
-"&Upgrade Spider Pit at Level 3"
+"Upgr&ade Spider Pit at Level 3"
 END
 
 CONTROLBAR:ToolTipBuildWildSpiderPitLevel3Upgrade
@@ -65898,7 +65906,7 @@ CONTROLBAR:ToolTipConstructWildGoblinFissure
 END
 
 CONTROLBAR:UpgradeWildFissureLevel2
-"&Upgrade Fissure to Level 2"
+"Upgr&ade Fissure to Level 2"
 END
 
 CONTROLBAR:ToolTipBuildWildFissureLevel2Upgrade
@@ -65906,7 +65914,7 @@ CONTROLBAR:ToolTipBuildWildFissureLevel2Upgrade
 END
 
 CONTROLBAR:UpgradeWildFissureLevel3
-"&Upgrade Fissure to Level 3"
+"Upgr&ade Fissure to Level 3"
 END
 
 CONTROLBAR:ToolTipBuildWildFissureLevel3Upgrade
@@ -65947,7 +65955,7 @@ CONTROLBAR:ToolTipConstructWildTreasureTrove
 END
 
 CONTROLBAR:ConstructWildTreasureTroveLevel2Upgrade
-"&Upgrade Treasure Trove to Level 2"
+"Upgr&ade Treasure Trove to Level 2"
 END
 
 CONTROLBAR:ToolTipBuildWildTreasureTroveLevel2Upgrade
@@ -65955,7 +65963,7 @@ CONTROLBAR:ToolTipBuildWildTreasureTroveLevel2Upgrade
 END
 
 CONTROLBAR:ConstructWildTreasureTroveLevel3Upgrade
-"&Upgrade Treasure Trove to Level 3"
+"Upgr&ade Treasure Trove to Level 3"
 END
 
 CONTROLBAR:ToolTipBuildWildTreasureTroveLevel3Upgrade
@@ -66119,11 +66127,11 @@ CONTROLBAR:ToolTipConstructFireWyrmLair
 END
 
 CONTROLBAR:UpgradeFireWyrmLairLevel2
-"&Upgrade Wyrm Lair to Level 2"
+"Upgr&ade Wyrm Lair to Level 2"
 END
 
 CONTROLBAR:UpgradeFireWyrmLairLevel3
-"&Upgrade Wyrm Lair to Level 3"
+"Upgr&ade Wyrm Lair to Level 3"
 END
 
 Upgrade:FireWyrmLairLevel2
@@ -66342,7 +66350,11 @@ OBJECT:HordeGoblinFighters
 END
 
 CONTROLBAR:ConstructGoblinFighterHorde
-"Goblin &Warriors"
+"Goblin Warriors (&W)"
+END
+
+CONTROLBAR:ToolTipBuildGoblinFighterHorde
+"Unit Type: Expendable Infantry \n Strong vs: Infantry"
 END
 
 OBJECT:HordeGorkilsElite
@@ -66355,10 +66367,6 @@ END
 
 CONTROLBAR:LW_ToolTip_GoblinGorkilEliteHorde
 "Unit Type: Combo-Horde \n Strong vs Cavalry, Archers"
-END
-
-CONTROLBAR:ToolTipBuildGoblinFighterHorde
-"Unit Type: Basic Infantry \n Strong vs: Infantry"
 END
 
 CONTROLBAR:ToolTipBuildGoblinFighterHorde_Neu
@@ -66470,11 +66478,11 @@ OBJECT:HordeGoblinArchers
 END
 
 CONTROLBAR:ConstructGoblinArcherHorde
-"Goblin &Archers"
+"Goblin Archers (&E)"
 END
 
 CONTROLBAR:ToolTipBuildGoblinArcherHorde
-"Unit Type: Basic Archer \n Strong at Range"
+"Unit Type: Expendable Archer \n Strong at Range"
 END
 
 CONTROLBAR:ToolTipBuildGoblinArcherHorde_Neu
@@ -66498,11 +66506,11 @@ CONTROLBAR:LW_Unit_GoblinArcherHordePlural
 END
 
 CONTROLBAR:LW_ToolTipBuild_GoblinArcherHorde
-"Unit Type: Basic Archer\nStrong at Range\n"
+"Unit Type: Expendable Archer\nStrong at Range\n"
 END
 
 CONTROLBAR:LW_ToolTip_GoblinArcherHorde
-"\nUnit Type: Basic Archer\nStrong at Range"
+"\nUnit Type: Expendable Archer\nStrong at Range"
 END
 
 OBJECT:GoblinArcherBolg
@@ -66510,31 +66518,31 @@ OBJECT:GoblinArcherBolg
 END
 
 OBJECT:GoblinArcherBolgHorde
-"Durbagh sh Archers"
+"Durbaghush Archers"
 END
 
 CONTROLBAR:ConstructGoblinArcherBolgHorde
-"Durbagh sh &Archers"
+"Durbaghush Archers (&E)"
 END
 
 CONTROLBAR:ToolTipBuildGoblinArcherBolgHorde
-"Unit Type: Regular Archer \n Strong at Range"
+"Unit Type: Cheap Archer \n Strong at Range"
 END
 
 BANNERUI:GoblinArcherBolg
-"Durbagh sh Archer"
+"Durbaghush Archer"
 END
 
 BANNERUI:GoblinArcherBolgs
-"Durbagh sh Archers"
+"Durbaghush Archers"
 END
 
 CONTROLBAR:LW_Unit_GoblinArcherBolgHorde
-"Durbagh sh Archer Battalion"
+"Durbaghush Archer Battalion"
 END
 
 CONTROLBAR:LW_Unit_GoblinArcherBolgHordePlural
-"Durbagh sh Archer Battalions"
+"Durbaghush Archer Battalions"
 END
 
 CONTROLBAR:LW_ToolTip_GoblinArcherBolgHorde
@@ -66551,11 +66559,11 @@ OBJECT:GoblinPikemanHorde
 END
 
 CONTROLBAR:ConstructGoblinSpearHorde
-"Goblin &Lancers"
+"Goblin Lancers (&R)"
 END
 
 CONTROLBAR:ToolTipBuildGoblinSpearHorde
-"Unit Type: Basic Pikemen \n Strong vs: Cavalry"
+"Unit Type: Expendable Pikemen \n Strong vs: Cavalry"
 END
 
 CONTROLBAR:ToolTipBuildGoblinSpearHorde_Neu
@@ -66596,19 +66604,19 @@ OBJECT:GoblinRiderHorde
 END
 
 CONTROLBAR:BuildGoblinRiderHorde
-"Goblin Warg &Riders"
+"Goblin Warg Riders (&T)"
 END
 
 CONTROLBAR:ToolTipBuildGoblinRiderHorde
-"Requires: The Great Goblin has been crowned and Cave Level 2 \n Unit Type: Basic Cavalry \n Strong vs: Infantry"
+"Requires: The Great Goblin has been crowned and Cave Level 2 \n Unit Type: Regular Cavalry \n Strong vs: Swordsmen, Archers, Structures"
 END
 
 CONTROLBAR:ToolTipBuildGoblinRiderHorde_forHighPass
-"Requires: Cave Level 2 \n Unit Type: Basic Cavalry \n Strong vs: Infantry"
+"Requires: Cave Level 2 \n Unit Type: Regular Cavalry \n Strong vs: Swordsmen, Archers, Structures"
 END
 
 CONTROLBAR:ToolTipBuildGoblinRiderHorde_Neu
-"Requires: Cave must be built \n Unit Type: Basic Cavalry \n Strong vs: Infantry"
+"Requires: Cave must be built \n Unit Type: Basic Cavalry \n Strong vs: Swordsmen, Archers, Structures"
 END
 
 BANNERUI:GoblinRider
@@ -66644,7 +66652,7 @@ OBJECT:WildWargPackHorde
 END
 
 CONTROLBAR:BuildWildWargPackHorde
-"Goblin &Warg Pack"
+"Goblin Warg Pack (&W)"
 END
 
 CONTROLBAR:ToolTipBuildWildWargPackHorde
@@ -66677,11 +66685,11 @@ OBJECT:RudelfuhrerWarg
 END
 
 CONTROLBAR:ConstructRudelfuhrerWarg
-"Warg Pack &Leader"
+"Warg Pack Leader (&E)"
 END
 
 CONTROLBAR:ToolTipBuildRudelfuhrerWarg
-"Requires: The Great Goblin has been crowned and Cave must be built \n Unit Type: Heroic Cavalry \n Strong vs: Heroes"
+"Requires: The Great Goblin has been crowned and Cave must be built \n Unit Type: Regular Cavalry \n Strong vs: Heroes"
 END
 
 BANNERUI:RudelfuhrerWarg
@@ -66710,7 +66718,7 @@ OBJECT:WildDrummerOrc
 END
 
 CONTROLBAR:BuildWildDrummerOrc
-"Goblin &Drummer"
+"Goblin Drummer (&S)"
 END
 
 CONTROLBAR:WildDrummerOrcRecruit_Neu
@@ -66752,15 +66760,15 @@ OBJECT:WildMarauderHorde
 END
 
 CONTROLBAR:ConstructWildMarauderHorde
-"Goblin Half-Troll &Marauders"
+"Goblin Half-Troll Marauders (&D)"
 END
 
 CONTROLBAR:ToolTipBuildWildMarauderHorde
-"Requires: Cave Level 2 \n Unit Type: Regular Pikemen \n Strong vs: Cavalry"
+"Requires: Cave Level 2 \n Unit Type: Regular Pikemen \n Strong vs: Cavalry and Monsters"
 END
 
 CONTROLBAR:ToolTipBuildWildMarauderHordeEdain
-"Requires: Cave Level 2 \n Unit Type: Regular Pikemen \n Strong vs: Cavalry"
+"Requires: Cave Level 2 \n Unit Type: Regular Pikemen \n Strong vs: Cavalry and Monsters"
 END
 
 BANNERUI:WildMarauder
@@ -66800,19 +66808,19 @@ OBJECT:WildMarauderSwordHorde
 END
 
 CONTROLBAR:ConstructWildMarauderSwordHorde
-"Goblin Half-Troll &Swordsmen"
+"Goblin Half-Troll Swordsmen (&F)"
 END
 
 CONTROLBAR:ToolTipBuildWildMarauderSwordHorde
-"Requires: Cave Level 3 \n Unit Type: Elite Infantry \n Strong vs: Infantry and Heroes"
+"Requires: Cave Level 3 \n Unit Type: Advanced Infantry \n Strong vs: Infantry and Heroes"
 END
 
 CONTROLBAR:ToolTipBuildWildMarauderSwordHordeEdain
-"Requires: Durburz has been crowned and the Goblin Cave is Level 3 \n Unit Type: Elite Infantry \n Strong vs: Infantry and Heroes"
+"Requires: Durburz has been crowned and the Goblin Cave is Level 3 \n Unit Type: Advanced Infantry \n Strong vs: Infantry and Heroes"
 END
 
 CONTROLBAR:ToolTipBuildWildMarauderSwordHorde_forGundabad
-"Requires: Cave Level 3 \n Unit Type: Elite Infantry \n Strong vs: Infantry and Heroes"
+"Requires: Cave Level 3 \n Unit Type: Advanced Infantry \n Strong vs: Infantry and Heroes"
 END
 
 BANNERUI:WildMarauderSwordman
@@ -66844,7 +66852,7 @@ OBJECT:WildCatapult
 END
 
 CONTROLBAR:ConstructWildCatapult
-"Goblin Spider Cocoon &Catapult"
+"Goblin Spider Cocoon Catapult (&C)"
 END
 
 CONTROLBAR:ToolTipBuildWildCatapult
@@ -66881,11 +66889,11 @@ OBJECT:WildHauptmannork
 END
 
 CONTROLBAR:BuildWildHauptmannork
-"&Captain of the Great Goblin"
+"Captain of the Great Goblin (&C)"
 END
 
 CONTROLBAR:ToolTipBuildWildHauptmannork
-"Requires: The Great Goblin has been crowned and Cave must have been built \n Unit Type: Heroic Cavalry \n Strong vs: Infantry \n You can only train 3 Captains"
+"Requires: The Great Goblin has been crowned and Cave must have been built \n Unit Type: Regular Champion Cavalry \n Strong vs: Infantry \n \n You can only train 3 Captains \n These captains can call upon legions of Goblins from the Mist Mountains"
 END
 
 
@@ -66944,7 +66952,7 @@ OBJECT:WildSpiderlingHorde
 END
 
 CONTROLBAR:ConstructWildSpiderlingHorde
-"Goblin &Spiderlings"
+"Goblin Spiderlings (&W)"
 END
 
 CONTROLBAR:ToolTipBuildWildSpiderlingHorde
@@ -66998,15 +67006,15 @@ OBJECT:WildSpiderRiderHorde
 END
 
 CONTROLBAR:ConstructWildSpiderRiderHorde
-"Goblin Spider &Riders"
+"Goblin Spider Riders (&R)"
 END
 
 CONTROLBAR:ToolTipBuildWildSpiderRiderHorde
-"Requires: Gorkil has been crowned and Spider Pit Level 3 \n Unit Type: Elite Cavalry \n Strong vs: Depending on the situation \n Can switch between Sword and Bow \n You can only build 5 Spider riders at the same time"
+"Requires: Gorkil has been crowned and Spider Pit Level 3 \n Unit Type: Advanced Cavalry \n Strong vs: Depending on the situation \n Can switch between Sword and Bow \n You can only build 5 Spider riders at the same time"
 END
 
 CONTROLBAR:ToolTipBuildWildSpiderRiderHordeEdain_forEtteenmoors
-"Requires: Spider Pit Level 3 \n Unit Type: Elite Cavalry \n Strong vs: Depending on the situation \n Can switch between Sword and Bow"
+"Requires: Spider Pit Level 3 \n Unit Type: Advanced Cavalry \n Strong vs: Depending on the situation \n Can switch between Sword and Bow"
 END
 
 BANNERUI:GoblinSpiderRider
@@ -67026,11 +67034,11 @@ CONTROLBAR:LW_Unit_GoblinSpiderRiderHordePlural
 END
 
 CONTROLBAR:LW_ToolTipBuild_GoblinSpiderRiderHorde
-"Unit Type: Elite Cavalry\nStrong vs. Archers\n"
+"Unit Type: Advanced Cavalry\nStrong vs. Archers\n"
 END
 
 CONTROLBAR:LW_ToolTip_GoblinSpiderRiderHorde
-"\nUnit Type: Elite Cavalry\nStrong vs: Depending on the situation"
+"\nUnit Type: Advanced Cavalry\nStrong vs: Depending on the situation"
 END
 
 
@@ -67039,19 +67047,19 @@ OBJECT:GoblinCaveTroll
 END
 
 CONTROLBAR:ConstructGoblinCaveTroll
-"Goblin Cave &Troll"
+"Goblin Cave Troll (&W)"
 END
 
 CONTROLBAR:ToolTipBuildGoblinCaveTrollEdain
-"Unit Type: Basic Monster \n Strong vs: Infantry and Structures\n You can only train 10 Cave Trolls at the same time"
+"Unit Type: Regular Monster \n Strong vs: Infantry and Structures\n You can only train 10 Cave Trolls at the same time"
 END
 
 CONTROLBAR:ToolTipBuildGoblinCaveTroll
-"Unit Type: Basic Monster \n Strong vs: Infantry and Structures\n You can only train 10 Cave Trolls at the same time"
+"Unit Type: Regular Monster \n Strong vs: Infantry and Structures\n You can only train 10 Cave Trolls at the same time"
 END
 
 CONTROLBAR:ToolTipBuildGoblinCaveTrollLair
-"Unit Type: Basic Monster \n Strong vs: Infantry and Structures\n You can only train 10 Cave Trolls at the same time"
+"Unit Type: Regular Monster \n Strong vs: Infantry and Structures\n You can only train 10 Cave Trolls at the same time"
 END
 
 BANNERUI:GoblinCaveTroll
@@ -67071,11 +67079,11 @@ CONTROLBAR:LW_Unit_GoblinCaveTrollPlural
 END
 
 CONTROLBAR:LW_ToolTipBuild_GoblinCaveTroll
-"Unit Type: Basic Monster\nStrong vs: Infantry and Structures\n"
+"Unit Type: Regular Monster\nStrong vs: Infantry and Structures\n"
 END
 
 CONTROLBAR:LW_ToolTip_GoblinCaveTroll
-"\nUnit Type: Basic Monster\nStrong vs: Infantry and Structures"
+"\nUnit Type: Regular Monster\nStrong vs: Infantry and Structures"
 END
 
 
@@ -67097,15 +67105,15 @@ OBJECT:WildMountainGiant
 END
 
 CONTROLBAR:ConstructWildMountainGiant
-"Goblin Mountain &Giant"
+"Goblin Mountain Giant (&T)"
 END
 
 CONTROLBAR:ToolTipBuildWildMountainGiant
-"Requires: Fissure Level 3 \n Unit Type: Elite Monster \n Strong vs: Cavalry and Structures \n You can only have 5 Mountain Giants in the same game"
+"Requires: Fissure Level 3 \n Unit Type: Advanced Monster \n Strong vs: Cavalry and Structures \n You can only have 5 Mountain Giants in the same game"
 END
 
 CONTROLBAR:ToolTipBuildWildMountainGiant_Neu
-"Requires: Fissure Level 3 \n Unit Type: Elite Monster \n Strong vs: Cavalry and Structures \n You can only have 5 Mountain Giants in the same game"
+"Requires: Fissure Level 3 \n Unit Type: Advanced Monster \n Strong vs: Cavalry and Structures \n You can only have 5 Mountain Giants in the same game"
 END
 
 BANNERUI:WildMountainGiant
@@ -67125,11 +67133,11 @@ CONTROLBAR:LW_Unit_WildMountainGiantPlural
 END
 
 CONTROLBAR:LW_ToolTipBuild_WildMountainGiant
-"Unit Type: Elite Monster\nStrong vs: Cavalry and Structures\n"
+"Unit Type: Advanced Monster\nStrong vs: Cavalry and Structures\n"
 END
 
 CONTROLBAR:LW_ToolTip_WildMountainGiant
-"\nUnit Type: Elite Monster\nStrong vs: Cavalry and Structures"
+"\nUnit Type: Advanced Monster\nStrong vs: Cavalry and Structures"
 END
 
 
@@ -67221,15 +67229,15 @@ OBJECT:WildBabyZuchtdrache
 END
 
 CONTROLBAR:ConstructWildZuchtdracheBaby
-"Young &Breed Dragon"
+"Young Breed Dragon (&W)"
 END
 
 CONTROLBAR:LW_ToolTipBuild_WildZuchtdracheBaby
-"Unit Type: Basic Monster \n Strong vs: Infantry and Cavalry \n You can only train 3 units"
+"Unit Type: Advanced Monster \n Strong vs: Infantry and Cavalry \n You can only train 3 units \n \n The stage of the Dragon's evolution is tied to the level of the Wyrm Lair"
 END
 
 CONTROLBAR:ToolTipBuildWildZuchtdracheBaby_Neu
-"Requires: Treasure Trove must be built \n Unit Type: Basic Monster \n Strong vs: Infantry and Cavalry \n You can only train 3 units"
+"Requires: Treasure Trove must be built \n Unit Type: Advanced Monster \n Strong vs: Infantry and Cavalry \n You can only train 3 units"
 END
 
 BANNERUI:WildZuchtdracheBaby
@@ -67605,7 +67613,7 @@ CONTROLBAR:ToolTipAngmarDen
 END
 
 CONTROLBAR:UpgradeAngmarDenLevel2
-"&Upgrade Beast's Den at Level 2"
+"Upgr&ade Beast's Den at Level 2"
 END
 
 CONTROLBAR:TooltipUpgradeAngmarDenLevel2
@@ -67613,7 +67621,7 @@ CONTROLBAR:TooltipUpgradeAngmarDenLevel2
 END
 
 CONTROLBAR:UpgradeAngmarDenLevel3
-"&Upgrade Beast's Den at Level 3"
+"Upgr&ade Beast's Den at Level 3"
 END
 
 CONTROLBAR:TooltipUpgradeAngmarDenLevel3
@@ -67650,7 +67658,7 @@ CONTROLBAR:ToolTipConstructAngmarBarracks_forCarnDum
 END
 
 CONTROLBAR:PurchaseUpgradeGemacherderSchwarzenGarde
-"Chambers of the Black Guard"
+"Chambers of the Black Guard (&D)"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeGemacherderSchwarzenGarde
@@ -67707,7 +67715,7 @@ CONTROLBAR:ToolTipConstructAngmarHallofTwilight_forCarnDum
 END
 
 CONTROLBAR:ConstructAngmarHallofTwilight2Upgrade
-"&Upgrade Temple of Twilight to Level 2"
+"Upgr&ade Temple of Twilight to Level 2"
 END
 
 CONTROLBAR:ToolTipBuildAngmarHallofTwilightLevel2Upgrade
@@ -67715,7 +67723,7 @@ CONTROLBAR:ToolTipBuildAngmarHallofTwilightLevel2Upgrade
 END
 
 CONTROLBAR:ConstructAngmarHallofTwilightLevel3Upgrade
-"&Upgrade Temple of Twilight to Level 3"
+"Upgr&ade Temple of Twilight to Level 3"
 END
 
 CONTROLBAR:TooltipBuildAngmarHallofTwilightLevel3Upgrade
@@ -67860,19 +67868,19 @@ CONTROLBAR:ToolTipBarrowWightLairInfoBox
 END
 
 CONTROLBAR:UpgradeBarrowWightLairLevel2
-"&Upgrade Barrow-wight Crypt at Level 2"
+"Upgr&ade Barrow-wight Crypt at Level 2"
 END
 
 CONTROLBAR:UpgradeBarrowWightLairLevel3
-"&Upgrade Barrow-wight Crypt at Level 3"
+"Upgr&ade Barrow-wight Crypt at Level 3"
 END
 
 CONTROLBAR:UpgradeBarrowWightLairLevel4
-"&Upgrade Barrow-wight Crypt at Level 4"
+"Upgr&ade Barrow-wight Crypt at Level 4"
 END
 
 CONTROLBAR:UpgradeBarrowWightLairLevel5
-"&Upgrade Barrow-wight Crypt at Level 5"
+"Upgr&ade Barrow-wight Crypt at Level 5"
 END
 
 CONTROLBAR:ToolTipUpgradeBarrowWightLairLevel2
@@ -67925,7 +67933,7 @@ CONTROLBAR:ToolTipConstructAngmarForgeWorks
 END
 
 CONTROLBAR:UpgradeAngmarForgeWorksLevel2
-"&Upgrade Dark Iron Forge to Level 2"
+"Upgr&ade Dark Iron Forge to Level 2"
 END
 
 CONTROLBAR:TooltipUpgradeAngmarForgeWorksLevel2
@@ -67933,7 +67941,7 @@ CONTROLBAR:TooltipUpgradeAngmarForgeWorksLevel2
 END
 
 CONTROLBAR:UpgradeAngmarForgeWorksLevel3
-"&Upgrade Dark Iron Forge to Level 3"
+"Upgr&ade Dark Iron Forge to Level 3"
 END
 
 CONTROLBAR:TooltipUpgradeAngmarForgeWorksLevel3
@@ -68083,23 +68091,23 @@ END
 // ANGMAR UPGRADES
 
 CONTROLBAR:ThrallMasterUpgradeOrcWarriors
-"Gundabad Orc G&ruts"
+"Gundabad Orc Grunts (&W)"
 END
 
 CONTROLBAR:TooltipThrallMasterUpgradeOrcWarriors
-"Summon Gundabad Orc Gruts \n Unit Type: Expendable Infantry \n Strong vs: Pikemen"
+"Summon Gundabad Orc Grunts \n Unit Type: Expendable Infantry \n Strong vs: Pikemen"
 END
 
 UPGRADE:AngmarThrallMasterOrcWarriors
-"Gundabad Orc Gruts"
+"Gundabad Orc Grunts"
 END
 
 CONTROLBAR:ThrallMasterUpgradeRhudaurSpearmen
-"Rhudaur S&pearmen"
+"Rhudaur Spearmen (&R)"
 END
 
 CONTROLBAR:TooltipThrallMasterUpgradeRhudaurSpearmen
-"Summon Rhudaur Spearmen \n Unit Type: Basic Pikemen \n Strong vs: Cavalry"
+"Summon Rhudaur Spearmen \n Unit Type: Cheap Pikemen \n Strong vs: Cavalry"
 END
 
 UPGRADE:AngmarThrallMasterRhudaurSpearmen
@@ -68107,11 +68115,11 @@ UPGRADE:AngmarThrallMasterRhudaurSpearmen
 END
 
 CONTROLBAR:ThrallMasterUpgradeRhudaurSlingers
-"Rhudaur Axe &Throwers"
+"Rhudaur Axe Throwers (&T)"
 END
 
 CONTROLBAR:TooltipThrallMasterUpgradeRhudaurSlingers
-"Summon Rhudaur Axe Throwers \n Unit Type: Basic Archer \n Strong at Range"
+"Summon Rhudaur Axe Throwers \n Unit Type: Cheap Axe Thrower \n Strong at Range \n These treacherous hillmen are epecially deadly enemy pikemen and structures"
 END
 
 UPGRADE:AngmarThrallMasterRhudaurSlingers
@@ -68119,7 +68127,7 @@ UPGRADE:AngmarThrallMasterRhudaurSlingers
 END
 
 CONTROLBAR:ThrallMasterUpgradeWolfRiders
-"Rhudaur &Wolf Riders"
+"Rhudaur Wolf Riders (&C)"
 END
 
 CONTROLBAR:TooltipThrallMasterUpgradeWolfRiders
@@ -68285,7 +68293,7 @@ END
 
 
 CONTROLBAR:PurchaseTechnologyAngmarSpikedCollars
-"Research Spiked Col&lars"
+"Research Spiked Collars (&E)"
 END
 
 CONTROLBAR:ToolTipPurchaseTechnologyAngmarSpikedCollars
@@ -68293,7 +68301,7 @@ CONTROLBAR:ToolTipPurchaseTechnologyAngmarSpikedCollars
 END
 
 CONTROLBAR:PurchaseUpgradeAngmarSpikedCollars
-"Purchase Spiked Col&lars"
+"Purchase Spiked Collars (&W)"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeAngmarSpikedCollars
@@ -68496,11 +68504,11 @@ OBJECT:AngmarThrallMaster
 END
 
 CONTROLBAR:ConstructAngmarThrallMaster
-"Thrall &Master"
+"Thrall Master (&W)"
 END
 
 CONTROLBAR:ToolTipBuildAngmarThrallMaster
-"Unit Type: Versatile \n Strong vs: Depending on the situation"
+"Unit Type: Basic Infantry \n Strong vs: Depending on the situation \n \n The thrall masters of Angmar can summon a variety of units from across the realm of Angmar"
 END
 
 BANNERUI:AngmarThrallMaster
@@ -68529,27 +68537,27 @@ END
 
 
 OBJECT:AngmarOrcWarrior
-"Gundabad Orc Grut"
+"Gundabad Orc Grunt"
 END
 
 OBJECT:HordeAngmarOrcWarriors
-"Gundabad Orc Gruts"
+"Gundabad Orc Grunts"
 END
 
 BANNERUI:AngmarOrcWarrior
-"Gundabad Orc Grut"
+"Gundabad Orc Grunt"
 END
 
 BANNERUI:AngmarOrcWarriors
-"Gundabad Orc Gruts"
+"Gundabad Orc Grunts"
 END
 
 CONTROLBAR:LW_Unit_AngmarOrcWarriors
-"Gundabad Orc Grut Battalion"
+"Gundabad Orc Grunt Battalion"
 END
 
 CONTROLBAR:LW_Unit_AngmarOrcWarriorsPlural
-"Gundabad Orc Grut Battalions"
+"Gundabad Orc Grunt Battalions"
 END
 
 CONTROLBAR:LW_ToolTip_AngmarOrcWarriors
@@ -68648,7 +68656,7 @@ OBJECT:HordeAngmarDarkDunedain
 END
 
 CONTROLBAR:ConstructAngmarDarkDunedainHorde
-"Black Numenorean Swordsmen"
+"Black Numenorean Swordsmen (&W)"
 END
 
 CONTROLBAR:ToolTipBuildAngmarDarkDunedainHorde
@@ -68689,7 +68697,7 @@ OBJECT:HordeAngmarDunedainPikeman
 END
 
 CONTROLBAR:ConstructAngmarDunedainPikemanHorde
-"Black Numenorean &Pikemen"
+"Black Numenorean Pikemen (&E)"
 END
 
 CONTROLBAR:ToolTipBuildAngmarDunedainPikemanHorde
@@ -68738,7 +68746,7 @@ OBJECT:HordeAngmarDarkRanger
 END
 
 CONTROLBAR:ConstructAngmarDarkRangerHorde
-"Black Numenorean &Rangers"
+"Black Numenorean Rangers (&R)"
 END
 
 CONTROLBAR:ToolTipBuildAngmarDarkRangerHorde
@@ -68783,7 +68791,7 @@ OBJECT:HordeAngmarNumElite
 END
 
 CONTROLBAR:ConstructAngmarNumEliteHorde
-"Black &Guards"
+"Black Guards (&T)"
 END
 
 CONTROLBAR:ToolTipBuildAngmarNumEliteHorde
@@ -68835,7 +68843,7 @@ OBJECT:HordeAngmarSchwarzeRitter
 END
 
 CONTROLBAR:ConstructAngmarSchwarzeRitterHorde
-"Black K&night Guards"
+"Black Knight Guards (&S)"
 END
 
 CONTROLBAR:ToolTipBuildAngmarSchwarzeRitterHorde
@@ -68927,11 +68935,11 @@ CONTROLBAR:TooltipIronCrownGuardGeneralBuff
 END
 
 CONTROLBAR:ConstructAngmarDireWolfHorde
-"Dire &Wolves"
+"Dire Wolves (&W)"
 END
 
 CONTROLBAR:ToolTipBuildAngmarDireWolfHorde
-"Unit Type: Basic Cavalry \n Strong vs: Cavalry"
+"Unit Type: Cheap Cavalry \n Strong vs: Cavalry"
 END
 
 OBJECT:AngmarDireWolf
@@ -68959,11 +68967,11 @@ CONTROLBAR:LW_Unit_AngmarDireWolfHordePlural
 END
 
 CONTROLBAR:LW_ToolTipBuild_AngmarDireWolfHorde
-"Unit Type: Basic Cavalry\nStrong vs: Cavalry\n"
+"Unit Type: Cheap Cavalry\nStrong vs: Cavalry\n"
 END
 
 CONTROLBAR:LW_ToolTip_AngmarDireWolfHorde
-"\nUnit Type: Basic Cavalry\nStrong vs: Cavalry"
+"\nUnit Type: Cheap Cavalry\nStrong vs: Cavalry"
 END
 
 
@@ -68980,11 +68988,11 @@ OBJECT:AngmarSnowTrollHorde
 END
 
 CONTROLBAR:ConstructAngmarSnowTrollHorde
-"Snow Trolls"
+"Snow Trolls (&R)"
 END
 
 CONTROLBAR:ToolTipBuildAngmarSnowTrollHorde
-"Requires: Beast's Den Level 2 \n Unit Type: Regular Cavalry \n Strong vs: Infantry"
+"Requires: Beast's Den Level 2 \n Unit Type: Advanced Cavalry \n Strong vs: Swordsmen, Archers, Structures"
 END
 
 BANNERUI:AngmarSnowTroll
@@ -69012,15 +69020,15 @@ CONTROLBAR:LW_Unit_AngmarSnowTrollHordePlural
 END
 
 CONTROLBAR:LW_ToolTipBuild_AngmarSnowTrollHorde
-"Unit Type: Regular Cavalry\nStrong vs: Infantry\n"
+"Unit Type: Advanced Cavalry\nStrong vs: Infantry\n"
 END
 
 CONTROLBAR:LW_ToolTip_AngmarSnowTroll
-"Unit Type: Regular Monster\nStrong vs: Heroes\n"
+"Unit Type: Advanced Monster\nStrong vs: Heroes\n"
 END
 
 CONTROLBAR:LW_ToolTip_AngmarSnowTrollHorde
-"Unit Type: Regular Cavalry\nStrong vs: Infantry\n"
+"Unit Type: Advanced Cavalry\nStrong vs: Infantry\n"
 END
 
 
@@ -69037,11 +69045,11 @@ OBJECT:AngmarHillTrollHorde
 END
 
 CONTROLBAR:ConstructAngmarHillTrollHorde
-"Hill Trolls"
+"Hill Trolls (&T)"
 END
 
 CONTROLBAR:ToolTipBuildAngmarHillTrollHorde
-"Requires: Beast's Den Level 3 \n Unit Type: Regular Pikemen \nStrong vs: Cavalry"
+"Requires: Beast's Den Level 3 \n Unit Type: Advanced Pikemen \n Strong vs: Cavalry and Monsters"
 END
 
 BANNERUI:AngmarHillTroll
@@ -69142,7 +69150,7 @@ OBJECT:AngmarBarrowWight
 END
 
 CONTROLBAR:ConstructBarrowWight
-"Barrow-&wight"
+"Barrow-wight (&E)"
 END
 
 CONTROLBAR:ToolTipBuildBarrowWight
@@ -71981,19 +71989,19 @@ CONTROLBAR:UnpackFurnace
 END
 
 CONTROLBAR:UpgradeMordorHaradrimPalaceLevel2
-"&Upgrade Haradrim Palace to Level 2"
+"Upgr&ade Haradrim Palace to Level 2"
 END
 
 CONTROLBAR:UpgradeMordorHaradrimPalaceLevel3
-"&Upgrade Haradrim Palace to Level 3"
+"Upgr&ade Haradrim Palace to Level 3"
 END
 
 CONTROLBAR:UpgradeMordorTavernLevel2
-"&Upgrade Tavern to Level 2"
+"Upgr&ade Tavern to Level 2"
 END
 
 CONTROLBAR:UpgradeMordorTavernLevel3
-"&Upgrade Tavern to Level 3"
+"Upgr&ade Tavern to Level 3"
 END
 
 CONTROLBAR:WildDrogothRevive
@@ -85462,7 +85470,7 @@ CONTROLBAR:ToolTipBuildArnorArcheryRangeLevel3Upgrade
 END
 
 CONTROLBAR:ConstructArnorBarracks2Upgrade
-"&Upgrade Barracks to Level 2"
+"Upgr&ade Barracks to Level 2"
 END
 
 CONTROLBAR:ToolTipBuildArnorBarracksLevel2Upgrade
@@ -85470,7 +85478,7 @@ CONTROLBAR:ToolTipBuildArnorBarracksLevel2Upgrade
 END
 
 CONTROLBAR:ConstructArnorBarracksLevel3Upgrade
-"&Upgrade Barracks to Level 3"
+"Upgr&ade Barracks to Level 3"
 END
 
 CONTROLBAR:ToolTipBuildArnorBarracksLevel3Upgrade
@@ -85510,7 +85518,11 @@ CONTROLBAR:ToolTipBuildArnorWorkshopLevel3Upgrade
 END
 
 CONTROLBAR:ConstructArnorArcherHorde
-"Dunedain &Archers"
+"Dunedain Archers (&W)"
+END
+
+CONTROLBAR:ToolTipConstructArnorArcherHorde
+"Unit Type: Regular Archer \n Strong at Range"
 END
 
 CONTROLBAR:ConstructArnorRangerHorde
@@ -85530,7 +85542,11 @@ CONTROLBAR:ConstructGondorWachterBrunnenHorde
 END
 
 CONTROLBAR:ConstructArnorKnightHorde
-"Dunedain &Knights"
+"Dunedain Knights (&W)"
+END
+
+CONTROLBAR:ToolTipConstructArnorKnightHorde
+"Unit Type: Regular Cavalry \n Strong vs: Swordsmen and Archers"
 END
 
 CONTROLBAR:ConstructArnorTrebuchet
@@ -85569,14 +85585,6 @@ CONTROLBAR:ToolTipBuildArnorFireArrowPorter
 "Can upgrade 1 group of archers"
 END
 
-CONTROLBAR:ToolTipBuildArnorFighterHorde
-"Unit Type: Basic Infantry \n Strong vs: Pikemen"
-END
-
-CONTROLBAR:ToolTipBuildArnorArcherHorde
-"Unit Type: Basic Archer \n Strong at Range"
-END
-
 CONTROLBAR:ToolTipBuildArnorRangerHorde
 "Requires: Archery Range Level 2 \n Unit Type: Regular Archer \n Strong at Range"
 END
@@ -85585,16 +85593,8 @@ CONTROLBAR:ToolTipBuildArnorRangerHordeForGoodIthilien
 "Strong vs: at Range"
 END
 
-CONTROLBAR:ToolTipBuildArnorShieldGuardHorde
-"Unit Type: Regular Pikemen \n Strong vs: Cavalry"
-END
-
 CONTROLBAR:ToolTipBuildGondorWachterBrunnendHorde
 "Requires: Barracks Level 2 \n Unit Type: Elite Infantry \n Strong vs: Heroes and Cavalry"
-END
-
-CONTROLBAR:ToolTipBuildArnorKnightHorde
-"Unit Type: Regular Cavalry \n Strong vs: Infantry"
 END
 
 CONTROLBAR:ToolTipBuildArnorTrebuchet
@@ -86370,19 +86370,19 @@ CONTROLBAR:HwaldarSummonHillmen2
 END
 
 CONTROLBAR:ConstructAngmarBarracks2Upgrade
-"&Upgrade Hall of the King's Men to Level 2"
+"Upgr&ade Hall of the King's Men to Level 2"
 END
 
 CONTROLBAR:ConstructAngmarBarracksLevel3Upgrade
-"&Upgrade Hall of the King's Men to Level 3"
+"Upgr&ade Hall of the King's Men to Level 3"
 END
 
 CONTROLBAR:ConstructAngmarDen2Upgrade
-"&Upgrade Beast's Den to Level 2"
+"Upgr&ade Beast's Den to Level 2"
 END
 
 CONTROLBAR:ConstructAngmarDen3Upgrade
-"&Upgrade Beast's Den to Level 3"
+"Upgr&ade Beast's Den to Level 3"
 END
 
 CONTROLBAR:AngmarDireWolfHowl
@@ -91268,6 +91268,14 @@ CONTROLBAR:LW_Unit_SilvanArcherHorde
 "Silvan Elf Archers"
 END
 
+CONTROLBAR:BuildSilvanArcherHorde
+"Silvan Archer (&E)"
+END
+
+CONTROLBAR:ToolTipBuildSilvanArcherHorde
+"Requires: Menegroth Fortress Level 2 \n \n Unit Type: Elite Archer \n Strong at Range \n You can only control up to six battalions"
+END
+
 
 OBJECT:DoriathMelian
 "Melian"
@@ -91550,11 +91558,11 @@ CONTROLBAR:DoriathLuthienHotkey
 "&Luthien Tinúviel"
 END
 
-CONTROLBAR:LuthienNauglam r
-"Nauglam r"
+CONTROLBAR:LuthienNauglamir
+"Nauglamir"
 END
 
-CONTROLBAR:ToolTipLuthienNauglam r
+CONTROLBAR:ToolTipLuthienNauglamir
 "This necklace was made for Finrod Felagund by the Dwarves of Ered LuiNain the First Age. It was filled with gems brought from Valinor and the Silmaril stolen from Morgoth.\n Level 1: \n The necklace blesses Luthien with continued health regeneration. Additionally, units and heroes around Luthien heal faster\n Level 10: \n Luthien's power becomes ever more radiant. Her attacks are larger waves of energy that also heal nearby allied units. She also reduces the recharge time of powers for all heroes by 35% \n Passive Ability"
 END
 
@@ -92921,7 +92929,7 @@ UPGRADE:Upgrade_FormenosFortressLevel5
 END
 
 CONTROLBAR:FormenosFortressLevel2
-"&Upgrade Fortress Level 2"
+"Upgr&ade Fortress Level 2"
 END
 
 CONTROLBAR:ToolTipFormenosFortressLevel2
@@ -92929,7 +92937,7 @@ CONTROLBAR:ToolTipFormenosFortressLevel2
 END
 
 CONTROLBAR:FormenosFortressLevel3
-"&Upgrade Fortress Level 3"
+"Upgr&ade Fortress Level 3"
 END
 
 CONTROLBAR:ToolTipFormenosFortressLevel3
@@ -92937,7 +92945,7 @@ CONTROLBAR:ToolTipFormenosFortressLevel3
 END
 
 CONTROLBAR:FormenosFortressLevel4
-"&Upgrade Fortress Level 4"
+"Upgr&ade Fortress Level 4"
 END
 
 CONTROLBAR:ToolTipFormenosFortressLevel4
@@ -92945,7 +92953,7 @@ CONTROLBAR:ToolTipFormenosFortressLevel4
 END
 
 CONTROLBAR:FormenosFortressLevel5
-"&Upgrade Fortress Level 5"
+"Upgr&ade Fortress Level 5"
 END
 
 CONTROLBAR:ToolTipFormenosFortressLevel5
@@ -93496,7 +93504,7 @@ UPGRADE:Upgrade_MenegrothFortressLevel3
 END
 
 CONTROLBAR:MenegrothFortressLevel2
-"&Upgrade Fortress Level 2"
+"Upgr&ade Fortress Level 2"
 END
 
 CONTROLBAR:ToolTipMenegrothFortressLevel2
@@ -93504,7 +93512,7 @@ CONTROLBAR:ToolTipMenegrothFortressLevel2
 END
 
 CONTROLBAR:MenegrothFortressLevel3
-"&Upgrade Fortress Level 3"
+"Upgr&ade Fortress Level 3"
 END
 
 CONTROLBAR:ToolTipMenegrothFortressLevel3
@@ -93584,23 +93592,23 @@ CONTROLBAR:ToolTipPurchaseUpgradeMenegrothFortressEncasingVines
 END
 
 CONTROLBAR:BuildMenegrothGuardHorde
-"Menegroth &Guard"
+"Menegroth Guard (&W)"
 END
 
 CONTROLBAR:ToolTipBuildMenegrothGuardHorde
-"Unit Type: Elite Pikemen \n Strong vs: Cavalry and Monster"
+"Unit Type: Elite Pikemen \n Strong vs: Cavalry and Monsters"
 END
 
 CONTROLBAR:BuildMenegrothEliteHorde
-"Menegroth &Scout"
+"Menegroth Scout (&R)"
 END
 
 CONTROLBAR:ToolTipBuildMenegrothEliteHorde
-"Requires: Menegroth Fortress Level 2 \n Unit Type: Elite Infantry \n Strong vs: Archer"
+"Requires: Menegroth Fortress Level 2 \n Unit Type: Elite Infantry \n Strong vs: Infantry"
 END
 
 CONTROLBAR:BuildMenegrothCavalaryHorde
-"Menegroth &Cavalry"
+"Menegroth Cavalry (&T)"
 END
 
 CONTROLBAR:ToolTipBuildMenegrothCavalaryHorde
@@ -93714,7 +93722,7 @@ CONTROLBAR:LW_ToolTipBuild_MenegrothCavalaryHorde
 END
 
 CONTROLBAR:ToggleMenegrothEliteFormation
-"Circle For&mation"
+"Circle Formation (&W)"
 END
 
 CONTROLBAR:ToolTipToggleMenegrothEliteFormation_Neu 
@@ -93743,7 +93751,7 @@ CONTROLBAR:BuildAlqualondeGuardianHorde
 END
 
 CONTROLBAR:ToolTipBuildAlqualondeGuardianHorde
-"Requires: Level 3 Barracks \n Unit Type: Elite Pikemen \n Strong vs: Depending on the situation \n Can switch between Foot and Mount"
+"Requires: Army of the Past Ages \n Unit Type: Elite Pikemen & Cavalry \n Strong vs: Depending on the situation \n Can switch between Foot and Mount"
 END
 
 CONTROLBAR:AlqualondeGuardianHorde
@@ -93897,7 +93905,7 @@ UPGRADE:Upgrade_DorthonionFortressLevel3
 END
 
 CONTROLBAR:DorthonionFortressLevel2
-"&Upgrade Fortress Level 2"
+"Upgr&ade Fortress Level 2"
 END
 
 CONTROLBAR:ToolTipDorthonionFortressLevel2
@@ -93905,7 +93913,7 @@ CONTROLBAR:ToolTipDorthonionFortressLevel2
 END
 
 CONTROLBAR:DorthonionFortressLevel3
-"&Upgrade Fortress Level 3"
+"Upgr&ade Fortress Level 3"
 END
 
 CONTROLBAR:ToolTipDorthonionFortressLevel3
@@ -93937,27 +93945,27 @@ CONTROLBAR:ToolTipSelectUnitsDorthonionFortress
 END
 
 CONTROLBAR:BuildEdainOutlawBarahirHorde
-"Barahir's &Outlaws"
+"Barahir's Outlaws (&R)"
 END
 
 CONTROLBAR:ToolTipBuildEdainOutlawBarahirHorde
-" Requires: Tol Galen Fortress Level 3 \n Unit Type: Elite Archer \n Strong vs: Depending on the situation \n Can switch between Sword and Bow"
+"Requires: Tol Galen Fortress Level 3 \n Unit Type: Elite Archer \n Strong vs: Depending on the situation \n Can switch between Sword and Bow"
 END
 
 CONTROLBAR:BuildEdainOutlawBarahirEliteHorde
-"Barahir's Outlaws &Axeman"
+"Barahir's Outlaws Axeman (&W)"
 END
 
 CONTROLBAR:ToolTipBuildEdainOutlawBarahirEliteHorde
-" Unit Type: Elite Infantry \n Strong vs: Heroes"
+"Unit Type: Elite Infantry \n Strong vs: Infantry and Heroes"
 END
 
 CONTROLBAR:BuildValinorEagle
-"&Valinor Eagle"
+"Valinor Eagle (&T)"
 END
 
 CONTROLBAR:ToolTipBuildValinorEagle
-"Requires: Tol Galen Fortress Level 4 \n Unit Type: Elite Flying Monster \n Strong vs: Infantry and Cavalry \n You can only train 5 Eagles at the same time"
+"Requires: Tol Galen Fortress Level 4 \n Unit Type: Elite Flying Monster \n Strong vs: Infantry, Cavalry and Structures \n You can only train 5 Eagles at the same time"
 END
 
 UPGRADE:Upgrade_DorthonionFortressEagleBonus
@@ -94183,15 +94191,15 @@ CONTROLBAR:ToolTipSelectNargothrondUnits
 END
 
 CONTROLBAR:BuildNargothrondHammerHorde
-"Nargothrond &Hammerer"
+"Nargothrond Hammerer (&E)"
 END
 
 CONTROLBAR:ToolTipNargothrondHammerHorde
-"Unit Type: Elite Infantry \n Strong vs: Monster"
+"Unit Type: Elite Infantry \n Strong vs: Infantry and Monsters"
 END
 
 CONTROLBAR:ToolTipNargothrondHammerHorde2
-"Requires: Tol Galen Fortress Level 2 \n Unit Type: Elite Infantry \n Strong vs: Monster"
+"Requires: Tol Galen Fortress Level 2 \n Unit Type: Elite Infantry \n Strong vs: Infantry and Monsters"
 END
 
 OBJECT:NargothrondBanner
@@ -94231,11 +94239,11 @@ CONTROLBAR:LW_ToolTip_NargothrondHammerHorde
 END
 
 CONTROLBAR:NargothrondToggleBlockFormation    
-"Defensive For&mation"
+"Defensive Formation (&W)"
 END
 
 CONTROLBAR:NargothrondToggleLineFormation
-"Line For&mation"
+"Line Formation (&W)"
 END
 
 CONTROLBAR:NargothrondToolTipToggleGFighterLineToBlockFormation
@@ -94332,7 +94340,7 @@ UPGRADE:Upgrade_ArmenelosFortressLevel3
 END
 
 CONTROLBAR:ArmenelosFortressLevel2
-"&Upgrade Fortress Level 2"
+"Upgr&ade Fortress Level 2"
 END
 
 CONTROLBAR:ToolTipArmenelosFortressLevel2
@@ -94340,7 +94348,7 @@ CONTROLBAR:ToolTipArmenelosFortressLevel2
 END
 
 CONTROLBAR:ArmenelosFortressLevel3
-"&Upgrade Fortress Level 3"
+"Upgr&ade Fortress Level 3"
 END
 
 CONTROLBAR:ToolTipArmenelosFortressLevel3
@@ -94533,7 +94541,7 @@ UPGRADE:Upgrade_TaniquetilFortressLevel3
 END
 
 CONTROLBAR:TaniquetilFortressLevel2
-"&Upgrade Barracks Level 2"
+"Upgr&ade Barracks Level 2"
 END
 
 CONTROLBAR:ToolTipTaniquetilFortressLevel2
@@ -94541,7 +94549,7 @@ CONTROLBAR:ToolTipTaniquetilFortressLevel2
 END
 
 CONTROLBAR:TaniquetilFortressLevel3
-"&Upgrade Barracks Level 3"
+"Upgr&ade Barracks Level 3"
 END
 
 CONTROLBAR:ToolTipTaniquetilFortressLevel3
@@ -94549,7 +94557,7 @@ CONTROLBAR:ToolTipTaniquetilFortressLevel3
 END
 
 CONTROLBAR:TaniquetilFortressLevel4
-"&Upgrade Barracks Level 4"
+"Upgr&ade Barracks Level 4"
 END
 
 CONTROLBAR:ToolTipTaniquetilFortressLevel4
@@ -94557,7 +94565,7 @@ CONTROLBAR:ToolTipTaniquetilFortressLevel4
 END
 
 CONTROLBAR:TaniquetilFortressLevel5
-"&Upgrade Barracks Level 5"
+"Upgr&ade Barracks Level 5"
 END
 
 CONTROLBAR:ToolTipTaniquetilFortressLevel5
@@ -94825,7 +94833,7 @@ UPGRADE:Upgrade_BelegostFortressLevel3
 END
 
 CONTROLBAR:BelegostFortressLevel2
-"&Upgrade Fortress Level 2"
+"Upgr&ade Fortress Level 2"
 END
 
 CONTROLBAR:ToolTipBelegostFortressLevel2
@@ -94833,7 +94841,7 @@ CONTROLBAR:ToolTipBelegostFortressLevel2
 END
 
 CONTROLBAR:BelegostFortressLevel3
-"&Upgrade Fortress Level 3"
+"Upgr&ade Fortress Level 3"
 END
 
 CONTROLBAR:ToolTipBelegostFortressLevel3
@@ -94841,7 +94849,7 @@ CONTROLBAR:ToolTipBelegostFortressLevel3
 END
 
 CONTROLBAR:BelegostFortressLevel4
-"&Upgrade Fortress Level 4"
+"Upgr&ade Fortress Level 4"
 END
 
 CONTROLBAR:ToolTipBelegostFortressLevel4
@@ -94849,7 +94857,7 @@ CONTROLBAR:ToolTipBelegostFortressLevel4
 END
 
 CONTROLBAR:BelegostFortressLevel5
-"&Upgrade Fortress Level 5"
+"Upgr&ade Fortress Level 5"
 END
 
 CONTROLBAR:ToolTipBelegostFortressLevel5
@@ -96096,7 +96104,7 @@ UPGRADE:Upgrade_AngbandFortressLevel3
 END
 
 CONTROLBAR:AngbandFortressLevel2
-"&Upgrade Fortress Level 2"
+"Upgr&ade Fortress Level 2"
 END
 
 CONTROLBAR:ToolTipAngbandFortressLevel2
@@ -96104,7 +96112,7 @@ CONTROLBAR:ToolTipAngbandFortressLevel2
 END
 
 CONTROLBAR:AngbandFortressLevel3
-"&Upgrade Fortress Level 3"
+"Upgr&ade Fortress Level 3"
 END
 
 CONTROLBAR:ToolTipAngbandFortressLevel3
@@ -96112,7 +96120,7 @@ CONTROLBAR:ToolTipAngbandFortressLevel3
 END
 
 CONTROLBAR:AngbandFortressLevel4
-"&Upgrade Fortress Level 4"
+"Upgr&ade Fortress Level 4"
 END
 
 CONTROLBAR:ToolTipAngbandFortressLevel4
@@ -96120,7 +96128,7 @@ CONTROLBAR:ToolTipAngbandFortressLevel4
 END
 
 CONTROLBAR:AngbandFortressLevel5
-"&Upgrade Fortress Level 5"
+"Upgr&ade Fortress Level 5"
 END
 
 CONTROLBAR:ToolTipAngbandFortressLevel5
@@ -96462,7 +96470,7 @@ UPGRADE:Upgrade_AngbandThangorodrimLevel5
 END
 
 CONTROLBAR:AngbandThangorodrimLevel2
-"&Upgrade Volcano Level 2"
+"Upgr&ade Volcano Level 2"
 END
 
 CONTROLBAR:ToolTipAngbandThangorodrimLevel2
@@ -96470,7 +96478,7 @@ CONTROLBAR:ToolTipAngbandThangorodrimLevel2
 END
 
 CONTROLBAR:AngbandThangorodrimLevel3
-"&Upgrade Volcano Level 3"
+"Upgr&ade Volcano Level 3"
 END
 
 CONTROLBAR:ToolTipAngbandThangorodrimLevel3
@@ -96478,7 +96486,7 @@ CONTROLBAR:ToolTipAngbandThangorodrimLevel3
 END
 
 CONTROLBAR:AngbandThangorodrimLevel4
-"&Upgrade Volcano Level 4"
+"Upgr&ade Volcano Level 4"
 END
 
 CONTROLBAR:ToolTipAngbandThangorodrimLevel4
@@ -96486,7 +96494,7 @@ CONTROLBAR:ToolTipAngbandThangorodrimLevel4
 END
 
 CONTROLBAR:AngbandThangorodrimLevel5
-"&Upgrade Volcano Level 5"
+"Upgr&ade Volcano Level 5"
 END
 
 CONTROLBAR:ToolTipAngbandThangorodrimLevel5
@@ -96799,7 +96807,7 @@ UPGRADE:Upgrade_TolinGaurhothFortressLevel3
 END
 
 CONTROLBAR:TolinGaurhothFortressLevel2
-"&Upgrade Fortress Level 2"
+"Upgr&ade Fortress Level 2"
 END
 
 CONTROLBAR:ToolTipTolinGaurhothFortressLevel2
@@ -96807,7 +96815,7 @@ CONTROLBAR:ToolTipTolinGaurhothFortressLevel2
 END
 
 CONTROLBAR:TolinGaurhothFortressLevel3
-"&Upgrade Fortress Level 3"
+"Upgr&ade Fortress Level 3"
 END
 
 CONTROLBAR:ToolTipTolinGaurhothFortressLevel3
@@ -96815,7 +96823,7 @@ CONTROLBAR:ToolTipTolinGaurhothFortressLevel3
 END
 
 CONTROLBAR:TolinGaurhothFortressLevel4
-"&Upgrade Fortress Level 4"
+"Upgr&ade Fortress Level 4"
 END
 
 CONTROLBAR:ToolTipTolinGaurhothFortressLevel4
@@ -96823,7 +96831,7 @@ CONTROLBAR:ToolTipTolinGaurhothFortressLevel4
 END
 
 CONTROLBAR:TolinGaurhothFortressLevel5
-"&Upgrade Fortress Level 5"
+"Upgr&ade Fortress Level 5"
 END
 
 CONTROLBAR:ToolTipTolinGaurhothFortressLevel5
@@ -97265,7 +97273,7 @@ CONTROLBAR:TooltipSummonUnderworldPortal
 END
 
 CONTROLBAR:UnderworldPortalFortressLevel2
-"&Upgrade Fortress Level 2"
+"Upgr&ade Fortress Level 2"
 END
 
 CONTROLBAR:ToolTipUnderworldPortalFortressLevel2
@@ -97273,7 +97281,7 @@ CONTROLBAR:ToolTipUnderworldPortalFortressLevel2
 END
 
 CONTROLBAR:UnderworldPortalFortressLevel3
-"&Upgrade Fortress Level 3"
+"Upgr&ade Fortress Level 3"
 END
 
 CONTROLBAR:ToolTipUnderworldPortalFortressLevel3
@@ -97281,7 +97289,7 @@ CONTROLBAR:ToolTipUnderworldPortalFortressLevel3
 END
 
 CONTROLBAR:UnderworldPortalFortressLevel4
-"&Upgrade Fortress Level 4"
+"Upgr&ade Fortress Level 4"
 END
 
 CONTROLBAR:ToolTipUnderworldPortalFortressLevel4
@@ -97289,7 +97297,7 @@ CONTROLBAR:ToolTipUnderworldPortalFortressLevel4
 END
 
 CONTROLBAR:UnderworldPortalFortressLevel5
-"&Upgrade Fortress Level 5"
+"Upgr&ade Fortress Level 5"
 END
 
 CONTROLBAR:ToolTipUnderworldPortalFortressLevel5
@@ -97369,27 +97377,27 @@ CONTROLBAR:TooltipUnderworldFrozen
 END
 
 CONTROLBAR:BuildUnderworldSoulCollectorHorde
-"Underworld &Soul Collector"
+"Underworld Soul Collector (&W)"
 END
 
 CONTROLBAR:ToolTipBuildUnderworldSoulCollectorHorde
-"Unit Type: Elite Infantry \n Strong vs: Heroes"
+"Unit Type: Elite Infantry \n Strong vs: Infantry and Heroes"
 END
 
 CONTROLBAR:BuildUnderworldDragon
-"Underworld D&ragon"
+"Underworld Dragon (&E)"
 END
 
 CONTROLBAR:ToolTipBuildUnderworldDragon
-" Requires: Level 32 \n Unit Type: Elite Flying Monster \n Strong vs: Infantry and Cavalry \n You can only train 5 Dragons"
+"Requires: Level 2 Underworld Portal \n Unit Type: Elite Flying Monster \n Strong vs: Infantry and Cavalry \n You can only train 5 Dragons"
 END
 
 CONTROLBAR:BuildUnderworldDeamon
-"Underworld Dark &Daemon"
+"Underworld Dark Daemon (&R)"
 END
 
 OBJECT:UnderworldDeamonDescription
-" The demons of the Underworld are terrible creatures, \n carriers of terrible strength and endurance. \n From Hell, they will bring disgrace to the world."
+"The demons of the Underworld are terrible creatures, \n carriers of terrible strength and endurance. \n From Hell, they will bring disgrace to the world."
 END
 
 CONTROLBAR:ToolTipBuildUnderworldDeamon
@@ -98098,7 +98106,7 @@ OBJECT:HordeIsengardManSlayer
 END
 
 CONTROLBAR:ConstructIsengardManSlayerHorde
-"Uruk &Man-Slayers"
+"Uruk Man-Slayers (&D)"
 END
 
 CONTROLBAR:LW_Unit_IsengardManSlayerHorde
@@ -98110,7 +98118,7 @@ CONTROLBAR:LW_ToolTip_IsengardManSlayerHorde
 END
 
 CONTROLBAR:ToolTipBuildIsengardManSlayerHorde
-"Requires: Uruk Pit Level 3, Forged Blades and Heavy Armor researched \n Strong vs. All Unit Types \n You can only train 3 Man Slayer battalions at the same time \n \n Driven mad by the scent of Man-flesh, these deranged creatures are capable of cleaving through armor and sustaining wounds that would kill ordinary orcs and uruks. \n You can have only 3 units on the battlefield at the same time"
+"Requires: Uruk Pit Level 3, Forged Blades and Heavy Armor researched \n Unit Type: Elite Infantry \n Strong vs. Everything \n You can only train 3 Man Slayer battalions at the same time \n \n Driven mad by the scent of Man-flesh, these deranged creatures are capable of cleaving through armor and sustaining wounds that would kill ordinary orcs and uruks. \n You can have only 3 units on the battlefield at the same time"
 END
 
 CONTROLBAR:LW_ToolTipBuild_IsengardManSlayerHorde
@@ -101203,7 +101211,7 @@ CONTROLBAR:ToolTipAzogBefehldesOrkkonigs
 END
 
 CONTROLBAR:AzogSchlachtformation
-"Battle For&mation"
+"Battle Formation (&W)"
 END
 
 CONTROLBAR:ToolTipAzogSchlachtformation
@@ -102961,7 +102969,7 @@ CONTROLBAR:Hetzjagd
 END
 
 CONTROLBAR:ToolTipToggleHetzjagd
-"Requires: "In the Service of the White Hand" was cast on Shark  \n Saruman commands Shark  to lead his Warg Riders with the hunting on the slow infantry of the enemy \n Shark 's leadership improves, and he can now the skills "Shark 's Lies", "Man-eater" and "Rampage" \n Left-click to activate"
+"Requires: "In the Service of the White Hand" was cast on Shark  \n Saruman commands Shark  to lead his Warg Riders with the hunting on the slow infantry of the enemy \n Sharku'sleadership improves, and he can now the skills "Sharku'sLies", "Man-eater" and "Rampage" \n Left-click to activate"
 END
 
 CONTROLBAR:MauhurFleisch_neu
@@ -105981,7 +105989,7 @@ CONTROLBAR:ToolTipBuildGaladhrimWarriorHordeNew
 END
 
 CONTROLBAR:PurchaseUpgradeLothlorienBarracksLevel2New
-"&Upgrade Golden Wood Garrison to Level 2"
+"Upgr&ade Golden Wood Garrison to Level 2"
 END
 
 CONTROLBAR:ToolTipBuildLothlorienBarracksLevel2New
@@ -105989,8 +105997,8 @@ CONTROLBAR:ToolTipBuildLothlorienBarracksLevel2New
 END
 
 CONTROLBAR:PurchaseUpgradeLothlorienBarracksLevel3New
-//"&Upgrade to Level 3"
-"&Upgrade Golden Wood Garrison to Level 3"
+//"Upgr&ade to Level 3"
+"Upgr&ade Golden Wood Garrison to Level 3"
 END
 
 CONTROLBAR:ToolTipBuildLothlorienBarracksLevel3New
@@ -106168,11 +106176,11 @@ OBJECT:HordeBruchtalVeteran
 END
 
 CONTROLBAR:ConstructBruchtalVeteranHorde
-"&Veterans of the Last Alliance"
+"Veterans of the Last Alliance (&D)"
 END
 
 CONTROLBAR:ToolTipBuildBruchtalVeteranHorde
-"Requires: Barracks Level 3, Helmets of the Last Alliance and Forged Blades \n Hero-Battalion \n Strengths: Everything \n You can only have a maximum of 3 veteran hordes at the same time"
+"Requires: Barracks Level 3, Helmets of the Last Alliance and Forged Blades \n Unit Type: Special Elite Infantry \n Strong vs: Everything \n You can only have a maximum of 3 veteran hordes at the same time"
 END
 
 CONTROLBAR:LW_Unit_HordeBruchtalVeteran
@@ -106925,7 +106933,7 @@ CONTROLBAR:ToolTipBuildGondorSpearmenHorde
 END
 
 CONTROLBAR:ToggleSpearWallFormation
-"Spear Wall For&mation"
+"Spear Wall Formation (&W)"
 END
 
 CONTROLBAR:ConstructAnorienSoldierHorde
@@ -106957,11 +106965,11 @@ CONTROLBAR:ToolTipSpecialAbilityGondorChargeAttack
 END
 
 CONTROLBAR:ToolTipBuildGondorBarracksNewLevel2Upgrade
-"&Upgrade Barracks to Level 2"
+"Upgr&ade Barracks to Level 2"
 END
 
 CONTROLBAR:ToolTipBuildGondorBarracksNewLevel3Upgrade
-"&Upgrade Barracks to Level 3"
+"Upgr&ade Barracks to Level 3"
 END
 
 CONTROLBAR:GeheimwaffeErruption
@@ -107612,7 +107620,7 @@ OBJECT:UnpackedFortress
 END
 
 OBJECT:HordeGondorArcherMonsterHunter
-"Gondor Monster Hunters"
+"Gondor Monster Hunters (&R)"
 END
 
 OBJECT:GondorArcherMonsterHunter
@@ -107624,7 +107632,7 @@ CONTROLBAR:ConstructGondorArcherMonsterHunterHorde
 END
 
 CONTROLBAR:ToolTipBuildGondorArcherMonsterHunterHorde
-"Requires: Archery Range Level 2 \n These Archers deal increased damaged against Monsters \n Strong vs infantry and monsters"
+"Requires: Archery Range Level 2 \n Unit Type: Regular Archers \n Strong at Range \n These Archers deal increased damaged against Monsters"
 END
 
 ///////////////////////////////////////////////////////////
@@ -108835,7 +108843,7 @@ CONTROLBAR:ToolTipToggleRohanFighterLineToBlockFormation
 END
 
 CONTROLBAR:ToggleNormalFormation
-"Normal For&mation"
+"Normal Formation (&W)"
 END
 
 CONTROLBAR:RohanStrengthofArms
@@ -109159,19 +109167,19 @@ CONTROLBAR:MumakMountTooltip
 END
 
 CONTROLBAR:UpgradeFirstAgeFortressLevel2
-"&Upgrade Fortress to level 2"
+"Upgr&ade Fortress to level 2"
 END
 
 CONTROLBAR:UpgradeFirstAgeFortressLevel3
-"&Upgrade Fortress to level 3"
+"Upgr&ade Fortress to level 3"
 END
 
 CONTROLBAR:UpgradeFirstAgeFortressLevel4
-"&Upgrade Fortress to level 4"
+"Upgr&ade Fortress to level 4"
 END
 
 CONTROLBAR:UpgradeFirstAgeFortressLevel5
-"&Upgrade Fortress to level 5"
+"Upgr&ade Fortress to level 5"
 END
 
 CONTROLBAR:ToolTipUpgradeFirstAgeFortressLevel2
@@ -109491,11 +109499,11 @@ TOOLTIP:LackWildFireArrows
 END
 
 CONTROLBAR:ConstructWildGundabadArcherHorde
-"Gundabad &Archers"
+"Gundabad Archers (&R)"
 End
 
 CONTROLBAR:ToolTipBuildWildGundabadArcherHorde
-"Requires Level 2 Gundabad Barracks \n Strong vs Swordsmen \n Can fire Barbed Arrows \n \n Feared throughout Eriador, these Mountain-orc manhunters have a reputation for being cruel and ruthless in tracking down their quarry."
+"Requires: Level 2 Gundabad Barracks \n Unit Type: Regular Archer \n Strong at Range \n Can fire Barbed Arrows \n \n Feared throughout Eriador, these Mountain-orc manhunters have a reputation for being cruel and ruthless in tracking down their quarry."
 End
 
 OBJECT:WildGundabadArcher
@@ -109507,11 +109515,11 @@ OBJECT:HordeWildGundabadArcher
 End
 
 CONTROLBAR:LW_ToolTipBuild_WildGundabadArcherHorde
-"Unit Type: Elite Archer\nStrong vs. Swordsmen\n"
+"Unit Type: Regular Archer\nStrong vs. Swordsmen\n"
 END
 
 CONTROLBAR:LW_ToolTip_WildGundabadArcherHorde
-"\nUnit Type: Elite Archer\nStrong vs. Swordsmen"
+"\nUnit Type: Regular Archer\nStrong vs. Swordsmen"
 END
 
 CONTROLBAR:LW_Unit_WildGundabadArcherHordePlural
@@ -109711,11 +109719,11 @@ CONTROLBAR:ToolTipSpecialAbilityMaglorTeleport
 END
 
 CONTROLBAR:ConstructWildGundabadPikesHorde
-"Gundabad &Pikeman"
+"Gundabad Pikeman (&E)"
 END
 
 CONTROLBAR:ToolTipBuildWildGundabadPikesHorde
-"Strong vs. Cavalry \n Able to switch formation for improved defensive capabilities\n \n Tasked with guarding the cold valleys and foothills of Orc-held territory, these pikemen have been known to ambush Elven scouting parties."
+"Unit Type: Regular Pikemen \n Strong vs: Cavalry and Monsters \n Able to switch formation for improved defensive capabilities \n \n Tasked with guarding the cold valleys and foothills of Orc-held territory, these pikemen have been known to ambush Elven scouting parties."
 END
 
 OBJECT:WildGundabadPike
@@ -109743,11 +109751,11 @@ CONTROLBAR:ToolTipWildGundabadGroupLeadership
 END
 
 CONTROLBAR:ConstructWildGundabadMarauderSwordHorde
-"Gundabad Warriors"
+"Gundabad Warriors (&W)"
 END
 
 CONTROLBAR:ToolTipBuildWildGundabadMarauderSwordHorde
-"Strong vs. Pikemen \n \n Hardened through generations of war and weather, these Mountain-orcs were finally united under one banner by Azog the Defiler."
+"Unit Type: Regular Infantry \n Strong vs. Pikemen \n \n Hardened through generations of war and weather, these Mountain-orcs were finally united under one banner by Azog the Defiler."
 END
 
 CONTROLBAR:ToolTipBuildWildGundabadBarracksLevel2
@@ -109759,27 +109767,27 @@ CONTROLBAR:ToolTipBuildWildGundabadBarracksLevel3
 END
 
 CONTROLBAR:ConstructWildAttackTroll
-"&Gundabad Attack Troll"
+"Gundabad Attack Troll (&S)"
 End
 
 CONTROLBAR:ToolTipBuildWildAttackTroll
-"Requires Level 3 Gundabad Barracks \n Strong vs. Swordsmen, Cavalry, and Structures \n \n This terrifying breed of Mountain Troll far outclasses its southern kin in both strength and intelligence."
+"Requires: Level 3 Gundabad Barracks \n Unit Type: Advanced Monster \n Strong vs: Swordsmen, Cavalry, and Structures \n \n This terrifying breed of Mountain Troll far outclasses its southern kin in both strength and intelligence."
 End
 
 OBJECT:WildAttackTroll
-"&Gundabad Attack Troll"
+"Gundabad Attack Troll"
 End
 
 OBJECT:WildAttackTrollSummoned
-"&Gundabad Attack Troll Summoned"
+"Gundabad Attack Troll Summoned"
 End
 
 CONTROLBAR:ConstructWildBodyGuardHorde
-"Gundabad &Bodyguards"
+"Gundabad Bodyguards (&T)"
 END
 
 CONTROLBAR:ToolTipBuildWildBodyGuardHorde
-"Strong vs. All Normal Troops\n Requires Level 3 Gundabad Barracks and Forged Blades researched \n \n Through years of torment and horrifying hardship, these deranged Gundabad Orcs are the greatest warriors the Mountain has to offer. \n You can have only 5 units on the battlefield at the same time"
+"Requires: Level 3 Gundabad Barracks and Forged Blades researched \n Unit Type: Elite Infantry \n Strong vs: Infantry, Cavalry and Heroes \n \n You can have only 5 units on the battlefield at the same time Through years of torment and horrifying hardship, these deranged Gundabad Orcs are the greatest warriors the Mountain has to offer."
 END
 
 CONTROLBAR:ConstructGundabadBarracks
@@ -110787,7 +110795,7 @@ OBJECT:Ogre
 END
 
 CONTROLBAR:ConstructOgre
-"&Ogre Group"
+"Ogre Group (&E)"
 END
 
 CONTROLBAR:LW_ToolTip_OgreHorde
@@ -110803,7 +110811,7 @@ OBJECT:OgreHorde
 END
 
 CONTROLBAR:ToolTipConstructOgre
-"Small Monster Horde \n Strong vs. Melee Infantry \n Weak vs Archers \n Autoheals by level 2"
+"Unit Type: Basic Monster Horde \n Strong vs. Melee Infantry \n Weak vs Archers"
 END
 
 CONTROLBAR:OgreCannibalism
@@ -111196,7 +111204,7 @@ OBJECT:HaradBarracks
 END
 
 CONTROLBAR:UpgradeHaradBarracksLevel2
-"&Upgrade Barracks to Level 2"
+"Upgr&ade Barracks to Level 2"
 END
 
 CONTROLBAR:TooltipUpgradeHaradBarracksLevel2
@@ -111204,7 +111212,7 @@ CONTROLBAR:TooltipUpgradeHaradBarracksLevel2
 END
 
 CONTROLBAR:UpgradeHaradBarracksLevel3
-"&Upgrade Barracks to Level 3"
+"Upgr&ade Barracks to Level 3"
 END
 
 CONTROLBAR:TooltipUpgradeHaradBarracksLevel3
@@ -111224,7 +111232,7 @@ OBJECT:HaradStable
 END
 
 CONTROLBAR:UpgradeHaradStableLevel2
-"&Upgrade Stables to Level 2"
+"Upgr&ade Stables to Level 2"
 END
 
 CONTROLBAR:TooltipUpgradeHaradStableLevel2
@@ -111232,7 +111240,7 @@ CONTROLBAR:TooltipUpgradeHaradStableLevel2
 END
 
 CONTROLBAR:UpgradeHaradStableLevel3
-"&Upgrade Stables to Level 3"
+"Upgr&ade Stables to Level 3"
 END
 
 CONTROLBAR:TooltipUpgradeHaradStableLevel3
