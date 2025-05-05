@@ -6,11 +6,11 @@
 #define EXPERIENCE_REQUIRED_EXPANDABLE_HORDE_4        80
 #define EXPERIENCE_REQUIRED_EXPANDABLE_HORDE_5        140
 
-#define EXPERIENCE_AWARD_EXPANDABLE_HORDE_1            2
-#define EXPERIENCE_AWARD_EXPANDABLE_HORDE_2            3
-#define EXPERIENCE_AWARD_EXPANDABLE_HORDE_3            4
-#define EXPERIENCE_AWARD_EXPANDABLE_HORDE_4            5
-#define EXPERIENCE_AWARD_EXPANDABLE_HORDE_5            6
+#define EXPERIENCE_AWARD_EXPANDABLE_HORDE_1            1
+#define EXPERIENCE_AWARD_EXPANDABLE_HORDE_2            2
+#define EXPERIENCE_AWARD_EXPANDABLE_HORDE_3            3
+#define EXPERIENCE_AWARD_EXPANDABLE_HORDE_4            3
+#define EXPERIENCE_AWARD_EXPANDABLE_HORDE_5            4
 
 ;------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -23,9 +23,9 @@
 
 #define EXPERIENCE_AWARD_CHEAP_HORDE_1            3
 #define EXPERIENCE_AWARD_CHEAP_HORDE_2            4
-#define EXPERIENCE_AWARD_CHEAP_HORDE_3            5
-#define EXPERIENCE_AWARD_CHEAP_HORDE_4            6
-#define EXPERIENCE_AWARD_CHEAP_HORDE_5            7
+#define EXPERIENCE_AWARD_CHEAP_HORDE_3            4
+#define EXPERIENCE_AWARD_CHEAP_HORDE_4            5
+#define EXPERIENCE_AWARD_CHEAP_HORDE_5            6
 
 ;------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
