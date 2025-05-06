@@ -2245,7 +2245,7 @@ CONTROLBAR:ToolTipKhamulTribut_Neu
 END
 
 CONTROLBAR:ToolTipBlackRiderMorgulBlade_Khamul_Neu
-"Requires: Level 7 \n The targeted enemy suffers persistent poison damage and slowly slips into the Shadowworld. After his or her death, the enemy becomes an allied spirit of the Shadowrealm, which is invisible to the eyes of the enemy and can neither attack nor be attacked\n Left-click on the icon and then click the target"
+"Requires: Level 4 \n The targeted enemy suffers persistent poison damage and slowly slips into the Shadowworld. After his or her death, the enemy becomes an allied spirit of the Shadowrealm, which is invisible to the eyes of the enemy and can neither attack nor be attacked\n Left-click on the icon and then click the target"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityKhamulSpionage_Neu
@@ -2261,7 +2261,7 @@ CONTROLBAR:ToolTipAuradesVerfalls_Neu
 END
 
 CONTROLBAR:ToolTipDrohungderNazgul_Neu
-"Requires: Level 4 \n Khamul puts the residents of an enemy building into fear, forcing them to provide service to the Dark Ruler \n For 30 seconds a new Palantir opens up, where Khamul can choose one of 3 ways to terrorize enemy buildings \n Left-click to switch the Palantir"
+"Requires: Level 7 \n Khamul puts the residents of an enemy building into fear, forcing them to provide service to the Dark Ruler \n For 30 seconds a new Palantir opens up, where Khamul can choose one of 3 ways to terrorize enemy buildings \n Left-click to switch the Palantir"
 END
 
 CONTROLBAR:ToolTipBlackRiderMorgulBlade_DunklerMarshallNeu
@@ -9519,6 +9519,14 @@ CONTROLBAR:ToolTipSpecialAbilityHauptmannHeiﬂblut
 "Requires: Level 2 \n The Uruk-hai Captain gains +100% damage and has +50% Armor \n Left-click to activate"
 END
 
+CONTROLBAR:OutOfFightHeal
+"Meat¥s Back On The Menu"
+END
+
+CONTROLBAR:ToolTipOutOfFightHeal
+"Requires: Level 5 \n The Uruk-hai General gathers the fallen enemeies and feeds them to his armies. \n\n With each attack he stacks a healing ping. Once not in a fight for 15 seconds, heals all uruks in the area. \n Can heal max 75% health. \n Left-click to activate"
+END
+
 CONTROLBAR:TooltipHauptmannBrullen
 "Requires: Level 2 \n The Uruk-hai Captain unleashes a petrifying roar, which causes foes to flee in terror \n Left-click to activate"
 END
@@ -14580,7 +14588,7 @@ CONTROLBAR:SpecialAbilityVerschlingendeFinsternis
 END
 
 CONTROLBAR:ToolTipSpecialAbilityVerschlingendeFinsternis
-"Requires: Level 7 \n Gorthaur creates with his dark magic a shadowy vortex that sucks in enemies and devours them whole \n None will escape the darkness\n Left-click on the desired destination"
+"Requires: Level 9 \n Gorthaur creates with his dark magic a shadowy vortex that sucks in enemies and devours them whole \n None will escape the darkness\n Left-click on the desired destination"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityVerschlingendeFinsternisSauron
@@ -19678,7 +19686,7 @@ CONTROLBAR:RogashModLeadership
 END
 
 CONTROLBAR:ToolTipRogashModLeadership
-"Requires: Level 7 \n Rogash gains an armor improvement\n trolls on the whole map gain 25% armor and 25% attack \n Passive ability"
+"Requires: Level 7 \n Trolls on the whole map gain 25% armor and 25% attack \n Passive ability"
 END
 
 CONTROLBAR:RogashScreech
@@ -64922,7 +64930,7 @@ CONTROLBAR:ConstructIsengardPikemen
 END
 
 CONTROLBAR:ToolTipBuildIsengardPikemen
-"Requires: Uruk Pit Level 2 \n Unit Type: Regular Pikemen \n Strong vs: Cavalry and Monsters"
+"Unit Type: Regular Pikemen \n Strong vs: Cavalry and Monsters"
 END
 
 BANNERUI:IsengardPikeman
@@ -64963,7 +64971,7 @@ CONTROLBAR:ConstructIsengardCrossbowmen
 END
 
 CONTROLBAR:ToolTipBuildIsengardCrossbowmen
-"Unit Type: Regular Archer \n Strong at Range"
+"Requires: Uruk Pit Level 2 \n Unit Type: Regular Archer \n Strong at Range"
 END
 
 BANNERUI:IsengardUrukCrossbow
@@ -65134,32 +65142,64 @@ CONTROLBAR:LW_ToolTip_IsengardBeserker
 END
 
 
-OBJECT:IsengardUrukHauptmann
-"Uruk-hai Captain"
+OBJECT:IsengardUrukHauptmannF
+"Uruk-hai Fighter Captain"
 END
 
-CONTROLBAR:ConstructIsengardUrukHauptmann
-"Uruk-hai &Captain"
+OBJECT:IsengardUrukHauptmannC
+"Uruk-hai Crossbow Captain"
+END
+
+OBJECT:IsengardUrukHauptmannP
+"Uruk-hai Pikemen Captain"
+END
+
+OBJECT:IsengardUrukHauptmannB
+"Uruk-hai Berserker Captain"
+END
+
+OBJECT:IsengardUrukGeneral
+"Uruk-hai Captain General"
+END
+
+CONTROLBAR:ConstructIsengardUrukHauptmannF
+"Uruk-hai Fighter Captain"
+END
+
+CONTROLBAR:ConstructIsengardUrukHauptmannC
+"Uruk-hai Crossbow Captain"
+END
+
+CONTROLBAR:ConstructIsengardUrukHauptmannP
+"Uruk-hai Pikemen Captain"
+END
+
+CONTROLBAR:ConstructIsengardUrukHauptmannB
+"Uruk-hai Berserker Captain"
+END
+
+CONTROLBAR:ConstructIsengardUrukGeneral
+"Uruk-hai Captain General"
 END
 
 CONTROLBAR:ToolTipBuildIsengardUrukHauptmann1
-"Requires: Uruk Pit Level 3 \n Unit Type: Support Hero \n Strong at supporting fellow Uruk-hai \n His presence provides discipline and unlocks captain order abilities for nearby Uruk-hai battalions.\n Wields a sword and shield"
+"Requires: Uruk Pit Level 3 \n Unit Type: Support Champion Unit \n Strong at: supporting Uruk-hai fighters \n His presence provides discipline and unlocks captain order abilities for nearby Uruk-hai battalions.\n Wields a sword and shield"
 END
 
 CONTROLBAR:ToolTipBuildIsengardUrukHauptmann2
-"Requires: Uruk Pit Level 3 \n Unit Type: Support Hero \n Strong at supporting fellow Uruk-hai \n His presence provides discipline and unlocks captain order abilities for nearby Uruk-hai battalions.\n Wields a berserker sword"
+"Requires: Uruk Pit Level 3 \n Unit Type: Support Champion Unit \n Strong at: leading Uruk-hai armies \n His presence provides discipline and unlocks captain order abilities for nearby Uruk-hai battalions.\n Wields a sword"
 END
 
 CONTROLBAR:ToolTipBuildIsengardUrukHauptmann3
-"Requires: Uruk Pit Level 3 \n Unit Type: Support Hero \n Strong at supporting fellow Uruk-hai \n His presence provides discipline and unlocks captain order abilities for nearby Uruk-hai battalions.\n Wields a crossbow"
+"Requires: Uruk Pit Level 3 \n Unit Type: Support Champion Unit \n Strong at: supporting Uruk-hai crossbows \n His presence provides discipline and unlocks captain order abilities for nearby Uruk-hai battalions.\n Wields a crossbow"
 END
 
 CONTROLBAR:ToolTipBuildIsengardUrukHauptmann4
-"Requires: Uruk Pit Level 3 \n Unit Type: Support Hero \n Strong at supporting fellow Uruk-hai \n His presence provides discipline and unlocks captain order abilities for nearby Uruk-hai battalions.\n Wields a sword and shield"
+"Requires: Uruk Pit Level 3 \n Unit Type: Support Champion Unit \n Strong at: leading Uruk-hai berserkers \n His presence provides discipline and unlocks captain order abilities for nearby Uruk-hai battalions.\n Wields a sword and shield"
 END
 
 CONTROLBAR:ToolTipBuildIsengardUrukHauptmann5
-"Requires: Uruk Pit Level 3 \n Unit Type: Support Hero \n Strong at supporting fellow Uruk-hai \n His presence provides discipline and unlocks captain order abilities for nearby Uruk-hai battalions.\n Wields a spear and shield"
+"Requires: Uruk Pit Level 3 \n Unit Type: Support Champion Unit \n Strong at: supporting Uruk-hai pikemen \n His presence provides discipline and unlocks captain order abilities for nearby Uruk-hai battalions.\n Wields a spear and shield"
 END
 
 BANNERUI:IsengardUrukHauptmann
