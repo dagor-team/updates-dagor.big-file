@@ -355,6 +355,10 @@ function GandalfTriggerWizardBlast(self)
     ObjectCreateAndFireTempWeapon(self, "GandalfWizardBlast")
 end
 
+function ObjectTriggerEnrageEnemies(self)
+    ObjectCreateAndFireTempWeapon(self, "GimliSturheitWeapon")
+end
+
 --function SarumanConsiderUsingDefensePower(self, other, delay, amount)
 --    -- Put up the shield if a big attack is coming and we have time to block it
 --E4    if tonumber(delay) > 1 then

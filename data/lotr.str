@@ -2245,7 +2245,7 @@ CONTROLBAR:ToolTipKhamulTribut_Neu
 END
 
 CONTROLBAR:ToolTipBlackRiderMorgulBlade_Khamul_Neu
-"Requires: Level 7 \n The targeted enemy suffers persistent poison damage and slowly slips into the Shadowworld. After his or her death, the enemy becomes an allied spirit of the Shadowrealm, which is invisible to the eyes of the enemy and can neither attack nor be attacked\n Left-click on the icon and then click the target"
+"Requires: Level 4 \n The targeted enemy suffers persistent poison damage and slowly slips into the Shadowworld. After his or her death, the enemy becomes an allied spirit of the Shadowrealm, which is invisible to the eyes of the enemy and can neither attack nor be attacked\n Left-click on the icon and then click the target"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityKhamulSpionage_Neu
@@ -2261,7 +2261,7 @@ CONTROLBAR:ToolTipAuradesVerfalls_Neu
 END
 
 CONTROLBAR:ToolTipDrohungderNazgul_Neu
-"Requires: Level 4 \n Khamul puts the residents of an enemy building into fear, forcing them to provide service to the Dark Ruler \n For 30 seconds a new Palantir opens up, where Khamul can choose one of 3 ways to terrorize enemy buildings \n Left-click to switch the Palantir"
+"Requires: Level 7 \n Khamul puts the residents of an enemy building into fear, forcing them to provide service to the Dark Ruler \n For 30 seconds a new Palantir opens up, where Khamul can choose one of 3 ways to terrorize enemy buildings \n Left-click to switch the Palantir"
 END
 
 CONTROLBAR:ToolTipBlackRiderMorgulBlade_DunklerMarshallNeu
@@ -3053,11 +3053,11 @@ CONTROLBAR:SpecialAbilityGardedesPrinzen
 END
 
 CONTROLBAR:ToolTipSpecialAbilityGardedesPrinzen
-"Imrahil's abilities will recharge 33% faster while near the Prince Guard \n Passive ability"
+"Imrahil's Guard provide him with more armor and damage if near him \n Passive ability"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityImrahilPrinzengarde
-"Requires: Level 10 \n Imrahil summons his Prince Guard from Dol Amroth to his side. \n His abilities will recharge 33% faster while near to the Prince Guard. \n If the guard is summoned while Imrahil is on foot, the Prince Guard will be on foot. \n If summoned while Imrahil is mounted, the Prince Guard will also be mounted. \n Only one battalion of Prince Guard can be on the battlefield at once \n Left-click on a passable area"
+"Requires: Level 10 \n Imrahil summons his Prince Guard from Dol Amroth to his side. \n If the guard is summoned while Imrahil is on foot, the Prince Guard will be on foot. \n If summoned while Imrahil is mounted, the Prince Guard will also be mounted. \n Only one battalion of Prince Guard can be on the battlefield at once \n Left-click on a passable area"
 END
 
 CONTROLBAR:SpecialAbilityDisziplin
@@ -9519,6 +9519,14 @@ CONTROLBAR:ToolTipSpecialAbilityHauptmannHeiﬂblut
 "Requires: Level 2 \n The Uruk-hai Captain gains +100% damage and has +50% Armor \n Left-click to activate"
 END
 
+CONTROLBAR:OutOfFightHeal
+"Meat¥s Back On The Menu"
+END
+
+CONTROLBAR:ToolTipOutOfFightHeal
+"Requires: Level 5 \n The Uruk-hai General gathers the fallen enemeies and feeds them to his armies. \n\n With each attack he stacks a healing ping. Once not in a fight for 15 seconds, heals all uruks in the area. \n Can heal max 75% health. \n Left-click to activate"
+END
+
 CONTROLBAR:TooltipHauptmannBrullen
 "Requires: Level 2 \n The Uruk-hai Captain unleashes a petrifying roar, which causes foes to flee in terror \n Left-click to activate"
 END
@@ -9528,7 +9536,15 @@ CONTROLBAR:SwiftMarch
 END
 
 CONTROLBAR:ToolTipSwiftMarch_New
-"Requires: Level 2 \n The Uruk-hai Captain draws the attention of his troops to a group of enemies \n Allied Uruk-hai Scouts and Crossbowmen in the target area gain +50% damage, +50% rate of fire and recoil resistance, but also -25% to -50% armor and speed\n Left-click on the desired destination area"
+"Requires: Level 5 \n The captain of the Uruk-Hai crossbows draws the attention of his troops to a group of enemies \n Allied Uruk-hai Scouts and Crossbowmen in the target area gain +50% damage, +50% rate of fire and recoil resistance, but also -25% to -50% armor and speed\n Left-click on the desired destination area"
+END
+
+CONTROLBAR:SwiftMarch2
+"Wounding Thrust"
+END
+
+CONTROLBAR:ToolTipSwiftMarch2
+"Requires: Level 5 \n The captain of the Uruk-Hai Pikemen commands the pikemen lines to move forward and break the enemy lines. \n Uruk-hai pikemen in the target area slow down enemy infantry with each attack. \n Left-click on the target area"
 END
 
 CONTROLBAR:SelectRevivablesHauptmann
@@ -14572,7 +14588,7 @@ CONTROLBAR:SpecialAbilityVerschlingendeFinsternis
 END
 
 CONTROLBAR:ToolTipSpecialAbilityVerschlingendeFinsternis
-"Requires: Level 7 \n Gorthaur creates with his dark magic a shadowy vortex that sucks in enemies and devours them whole \n None will escape the darkness\n Left-click on the desired destination"
+"Requires: Level 9 \n Gorthaur creates with his dark magic a shadowy vortex that sucks in enemies and devours them whole \n None will escape the darkness\n Left-click on the desired destination"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityVerschlingendeFinsternisSauron
@@ -16806,7 +16822,47 @@ CONTROLBAR:UrukHauptmannLeadership
 END
 
 CONTROLBAR:ToolTipUrukHauptmannLeadership
-"The captain of the Uruk-Hai provides  in the Uruk-Hai's ranks  \n When the captain is Located near a horde of Uruks, he provides the horde a special ability \n  Passive ability"
+"The captain of the Uruk-Hai provides in the Uruk-Hai's ranks \n When the captain is Located near a horde of Uruks, he provides the horde a special ability. \n Passive ability"
+END
+
+CONTROLBAR:UrukBerserkersHauptmann
+"Senseless Slaughter"
+END
+
+CONTROLBAR:ToolTipUrukBerserkersHauptmann
+"Requires: Level 3 \n The captain of the Uruk-Hai berserkers leads them into the slaughter disregarding everything and everyone. \n Uruk-Hai berserkers near him are immune to knockback and fight beyond their mortal wound for a couple of seconds. \n  Passive ability"
+END
+
+CONTROLBAR:UrukPikeHauptmann
+"The Phalanx"
+END
+
+CONTROLBAR:ToolTipUrukPikeHauptmann
+"Requires: Level 3 \n The captain of the Uruk-Hai pikemen reforms their formations into more battlefield appropriate positioning.\n Uruk-Hai pikemen near him gain 20% armor if in the porcupine formation, \n  if combined with shield uruks gain acces to the phalanx formation. \n  Passive ability"
+END
+
+CONTROLBAR:UrukFighterHauptmann
+"Mass Assault"
+END
+
+CONTROLBAR:ToolTipUrukFighterHauptmann
+"Requires: Level 3 \n The captain of the Uruk-Hai fighters orders them to stand their ground against any threat to come, \n forming a line of bodies on the battlefield. \n Uruk-Hai fighters near him are immune to trample for 15 seconds. \n Left-click to activate"
+END
+
+CONTROLBAR:UrukFighterHauptmann2
+"Mass Assault"
+END
+
+CONTROLBAR:ToolTipUrukFighterHauptmann2
+"Requires: Level 5 \n The captain of the Uruk-Hai fighters orders them to engage their enemies. \n Targeted Uruk-Hai fighters taunt enemies in their vicinity. \n Uruk-Hai fighters become the automatic targets for enemies in the vicinity, but gain 50% more health and 25% more damage, but lose 50% armor. \n Left-click on a target unit"
+END
+
+CONTROLBAR:UrukCrossbowHauptmann
+"Reposition"
+END
+
+CONTROLBAR:ToolTipUrukCrossbowHauptmann
+"Requires: Level 3 \n The captain of the Uruk-Hai crossbows orders them to reposition behind the frontline. \n Uruk-Hai crossbows near him are 20% faster but cant shoot for 4 seconds. \n Left-click to activate"
 END
 
 CONTROLBAR:UrukHauptmannLeadership2
@@ -19630,7 +19686,7 @@ CONTROLBAR:RogashModLeadership
 END
 
 CONTROLBAR:ToolTipRogashModLeadership
-"Requires: Level 7 \n Rogash gains an armor improvement\n trolls on the whole map gain 25% armor and 25% attack \n Passive ability"
+"Requires: Level 7 \n Trolls on the whole map gain 25% armor and 25% attack \n Passive ability"
 END
 
 CONTROLBAR:RogashScreech
@@ -29378,7 +29434,7 @@ CONTROLBAR:MauhurLeadership
 END
 
 CONTROLBAR:ToolTipMauhurLeadership
-"Vrasku leads the Crossbowmen of Isengard into battle.\n He grants +40% sight and 20% range for nearby Crossbowmen.\n At level 5 range bonus is increased to 40% Passive ability"
+"Vrasku leads the Crossbowmen of Isengard into battle.\n He grants +40% sight and 20% range for nearby Crossbowmen.\n At level 5 the range bonus is increased to 40% \n Passive ability"
 END
 
 CONTROLBAR:MauhurWoundingArrow
@@ -29398,7 +29454,7 @@ CONTROLBAR:MauhurSchutzeTruppen
 END
 
 CONTROLBAR:ToolTipMauhurSchutze
-"Requires: Level 3 \n Vrasku begins to use another ammunition.\n Struck targets for the duration of the ability are knocked back by the enormous force of the bolts and suffer significantly more damage.\n Left click to activate"
+"Vrasku shoot a piercing bolt into enemy army with such force that it goes through 3 enemies \n\n At level 5 Vrasku gets access to stronger bolts that are able to pierce through any enemy in its way \n Left click on the target enemy"
 END
 
 CONTROLBAR:ToolTipMauhurSchutzeTruppen
@@ -29410,7 +29466,7 @@ CONTROLBAR:MauhurAuge
 END
 
 CONTROLBAR:ToolTipMauhurAuge
-"Requires: Level 5 \n Vrasku was bred for ranged combat.\n His sharp eyes see more than the usual Uruks, giving him a visioNaincrease.\n Gains a new armor set as well \n Passive ability"
+"Requires: Level 5 \n Vrasku was bred for ranged combat.\n His sharp eyes see more than the usual Uruks, giving him a vision increase.\n Gains a new armor set as well \n Passive ability"
 END
 
 CONTROLBAR:MauhurUruks
@@ -44237,6 +44293,14 @@ END
 
 CONTROLBAR:ToolTipToggleShieldWallFormation
 "+50% armor \n -75% speed"
+END
+
+CONTROLBAR:TogglePhalanxFormation
+"Shield Wall Forma&tion"
+END
+
+CONTROLBAR:ToolTipTogglePhalanxFormation
+"+25% damage \n -40% speed"
 END
 
 CONTROLBAR:ToggleEngageLineFormation
@@ -64866,7 +64930,7 @@ CONTROLBAR:ConstructIsengardPikemen
 END
 
 CONTROLBAR:ToolTipBuildIsengardPikemen
-"Requires: Uruk Pit Level 2 \n Unit Type: Regular Pikemen \n Strong vs: Cavalry and Monsters"
+"Unit Type: Regular Pikemen \n Strong vs: Cavalry and Monsters"
 END
 
 BANNERUI:IsengardPikeman
@@ -64907,7 +64971,7 @@ CONTROLBAR:ConstructIsengardCrossbowmen
 END
 
 CONTROLBAR:ToolTipBuildIsengardCrossbowmen
-"Unit Type: Regular Archer \n Strong at Range"
+"Requires: Uruk Pit Level 2 \n Unit Type: Regular Archer \n Strong at Range"
 END
 
 BANNERUI:IsengardUrukCrossbow
@@ -65078,32 +65142,64 @@ CONTROLBAR:LW_ToolTip_IsengardBeserker
 END
 
 
-OBJECT:IsengardUrukHauptmann
-"Uruk-hai Captain"
+OBJECT:IsengardUrukHauptmannF
+"Uruk-hai Fighter Captain"
 END
 
-CONTROLBAR:ConstructIsengardUrukHauptmann
-"Uruk-hai &Captain"
+OBJECT:IsengardUrukHauptmannC
+"Uruk-hai Crossbow Captain"
+END
+
+OBJECT:IsengardUrukHauptmannP
+"Uruk-hai Pikemen Captain"
+END
+
+OBJECT:IsengardUrukHauptmannB
+"Uruk-hai Berserker Captain"
+END
+
+OBJECT:IsengardUrukGeneral
+"Uruk-hai Captain General"
+END
+
+CONTROLBAR:ConstructIsengardUrukHauptmannF
+"Uruk-hai Fighter Captain"
+END
+
+CONTROLBAR:ConstructIsengardUrukHauptmannC
+"Uruk-hai Crossbow Captain"
+END
+
+CONTROLBAR:ConstructIsengardUrukHauptmannP
+"Uruk-hai Pikemen Captain"
+END
+
+CONTROLBAR:ConstructIsengardUrukHauptmannB
+"Uruk-hai Berserker Captain"
+END
+
+CONTROLBAR:ConstructIsengardUrukGeneral
+"Uruk-hai Captain General"
 END
 
 CONTROLBAR:ToolTipBuildIsengardUrukHauptmann1
-"Requires: Uruk Pit Level 3 \n Unit Type: Support Hero \n Strong at supporting fellow Uruk-hai \n His presence provides discipline and unlocks captain order abilities for nearby Uruk-hai battalions.\n Wields a sword and shield"
+"Requires: Uruk Pit Level 3 \n Unit Type: Support Champion Unit \n Strong at: supporting Uruk-hai fighters \n His presence provides discipline and unlocks captain order abilities for nearby Uruk-hai battalions.\n Wields a sword and shield"
 END
 
 CONTROLBAR:ToolTipBuildIsengardUrukHauptmann2
-"Requires: Uruk Pit Level 3 \n Unit Type: Support Hero \n Strong at supporting fellow Uruk-hai \n His presence provides discipline and unlocks captain order abilities for nearby Uruk-hai battalions.\n Wields a berserker sword"
+"Requires: Uruk Pit Level 3 \n Unit Type: Support Champion Unit \n Strong at: leading Uruk-hai armies \n His presence provides discipline and unlocks captain order abilities for nearby Uruk-hai battalions.\n Wields a sword"
 END
 
 CONTROLBAR:ToolTipBuildIsengardUrukHauptmann3
-"Requires: Uruk Pit Level 3 \n Unit Type: Support Hero \n Strong at supporting fellow Uruk-hai \n His presence provides discipline and unlocks captain order abilities for nearby Uruk-hai battalions.\n Wields a crossbow"
+"Requires: Uruk Pit Level 3 \n Unit Type: Support Champion Unit \n Strong at: supporting Uruk-hai crossbows \n His presence provides discipline and unlocks captain order abilities for nearby Uruk-hai battalions.\n Wields a crossbow"
 END
 
 CONTROLBAR:ToolTipBuildIsengardUrukHauptmann4
-"Requires: Uruk Pit Level 3 \n Unit Type: Support Hero \n Strong at supporting fellow Uruk-hai \n His presence provides discipline and unlocks captain order abilities for nearby Uruk-hai battalions.\n Wields a sword and shield"
+"Requires: Uruk Pit Level 3 \n Unit Type: Support Champion Unit \n Strong at: leading Uruk-hai berserkers \n His presence provides discipline and unlocks captain order abilities for nearby Uruk-hai battalions.\n Wields a sword and shield"
 END
 
 CONTROLBAR:ToolTipBuildIsengardUrukHauptmann5
-"Requires: Uruk Pit Level 3 \n Unit Type: Support Hero \n Strong at supporting fellow Uruk-hai \n His presence provides discipline and unlocks captain order abilities for nearby Uruk-hai battalions.\n Wields a spear and shield"
+"Requires: Uruk Pit Level 3 \n Unit Type: Support Champion Unit \n Strong at: supporting Uruk-hai pikemen \n His presence provides discipline and unlocks captain order abilities for nearby Uruk-hai battalions.\n Wields a spear and shield"
 END
 
 BANNERUI:IsengardUrukHauptmann
