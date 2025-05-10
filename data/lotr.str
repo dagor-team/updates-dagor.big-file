@@ -11418,11 +11418,11 @@ CONTROLBAR:ToolTipGandalfBlendendesLicht
 END
 
 CONTROLBAR:BestienmeisterToggleTooltip
-"Requires: Level 3 \n The Beastmaster's connection with his creature is now even stronger, which makes it possible for Drauglin to even be a beast\n Left-click to activate"
+"Requires: Level 2 \n The Beastmaster's connection with his creature is now even stronger, which makes it possible for Drauglin to even be a beast\n Left-click to activate"
 END
 
 CONTROLBAR:BestienmeisterToggleTooltipBack
-"Requires: Level 3 \n Drauglin returns to human form \n Left-click to activate"
+"Requires: Level 2 \n Drauglin returns to human form \n Left-click to activate"
 END
 
 CONTROLBAR:SpecialAbilityKampfgeistderBestie
@@ -11434,7 +11434,7 @@ CONTROLBAR:SpecialAbilityMondschein
 END
 
 CONTROLBAR:ToolTipSpecialAbilityMondschein
-"Requires: Level 1 \n The moon shines a bright firmament\n The force that lives inside the wounds can heal Drauglin and his beast again \n Left-click to activate"
+"Requires: Level 3 \n The moon shines a bright firmament\n The force that lives inside the wounds can heal Drauglin and his beast again \n Left-click to activate"
 END
 
 OBJECT:AngmarBestie
@@ -21596,7 +21596,7 @@ CONTROLBAR:GenericMountTooltipModTheo
 END
 
 CONTROLBAR:GenericMountTooltipModGamling
-"Left click to mount and dismount"
+"Requires: Stables constructed \n Left click to mount and dismount"
 END
 
 CONTROLBAR:AngmarChargeAttackMod
@@ -29454,7 +29454,7 @@ CONTROLBAR:MauhurSchutzeTruppen
 END
 
 CONTROLBAR:ToolTipMauhurSchutze
-"Vrasku shoot a piercing bolt into enemy army with such force that it goes through 3 enemies \n\n At level 5 Vrasku gets access to stronger bolts that are able to pierce through any enemy in its way \n Left click on the target enemy"
+"Vrasku shoot a piercing bolt into enemy army with such force that it goes through 3 enemies \n At level 5 Vrasku gets access to stronger bolts that are able to pierce through any enemy in its way \n Left click on the target enemy"
 END
 
 CONTROLBAR:ToolTipMauhurSchutzeTruppen
@@ -94782,7 +94782,7 @@ CONTROLBAR:LW_Unit_TaniquetilExpeditionaryHorde
 END
 
 CONTROLBAR:LW_ToolTip_TaniquetilExpeditionaryHorde
-"Unit Type: Elite Cavalry\nStrong vs: Archers and Swordsmen"
+"Unit Type: First Age Cavalry\nStrong vs: Archers and Swordsmen"
 END
 
 OBJECT:TaniquetilExpeditionaryHorde
@@ -94794,7 +94794,7 @@ CONTROLBAR:BuildTaniquetilExpeditionaryHorde
 END
 
 CONTROLBAR:ToolTipBuildTaniquetilExpeditionaryHorde
-"Requires: Noble Stud \n Unit Type: Elite Cavalry\nStrong vs: Archers and Swordsmen"
+"Requires: Noble Stud \n Unit Type: First Age Cavalry\nStrong vs: Archers and Swordsmen \n You can maintain only 3 battallions at a time"
 END
 
 CONTROLBAR:LW_Unit_TaniquetilGuardHordePlural
@@ -109883,7 +109883,7 @@ CONTROLBAR:ConstructWildBodyGuardHorde
 END
 
 CONTROLBAR:ToolTipBuildWildBodyGuardHorde
-"Requires: Level 3 Gundabad Barracks and Forged Blades researched \n Unit Type: Elite Infantry \n Strong vs: Infantry, Cavalry and Heroes \n \n You can have only 5 units on the battlefield at the same time Through years of torment and horrifying hardship, these deranged Gundabad Orcs are the greatest warriors the Mountain has to offer."
+"Requires: Level 3 Gundabad Barracks and Forged Blades researched \n Unit Type: Elite Infantry \n Strong vs: Infantry, Cavalry and Heroes \n You can have only 3 units on the battlefield at the same time \n\n Through years of horrifying torment and hardship, these deranged gundabad orcs are the greatest warriors the Mountain has to offer."
 END
 
 CONTROLBAR:ConstructGundabadBarracks
