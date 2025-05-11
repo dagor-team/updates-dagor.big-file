@@ -42671,6 +42671,14 @@ CONTROLBAR:TooltipLoneTower
 "Summons a defensive tower \n You can summon 3 in the same game \n Left click icon then left click on pathable location"
 END
 
+CONTROLBAR:RunesOfPower
+"Runes of Power"
+END
+
+CONTROLBAR:TooltipRunesOfPower
+"The dwarves laid mighty runes upon their works that could strengthen body, mind and stone. \n You can now enchant units, heros and structures \n Pick the Runes of your desire in the Mausoleum of Durin"
+END
+
 CONTROLBAR:ArrowVolley
 "Arrow Volley"
 END
@@ -42694,6 +42702,15 @@ END
 CONTROLBAR:TooltipUndermine
 "Places a Mineshaft anywhere on the map \n Mineshaft becomes immediately connected to tunnel network \n You can summon 3 in the same game \n Left-click icon then left-click on visible location"
 END
+
+CONTROLBAR:TowerMine
+"Dwarven Structures"
+END
+
+CONTROLBAR:TooltipTowerMine
+"Gain the ability to summon either a Mineshaft or a tower anywhere on the map. Beware that the mineshaft cannot be constructed close to enemy fortresses"
+END
+
 
 OBJECT:UndermineMineShaft
 "Provides access to the tunnel network"

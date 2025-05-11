@@ -874,8 +874,7 @@
         AvailableAtStart     = No
         RequirementsFilterMPSkirmish = SPELL_BOOK_REQUIREMENTS_FILTER
         RequirementsFilterStrategic = SPELL_BOOK_REQUIREMENTS_FILTER_STRATEGIC
-
-
+        OnTriggerRechargeSpecialPower = SpellBookUndermine
     End
 
     Behavior = SpecialPowerModule ModuleTag_Zwergenhorn
@@ -1171,6 +1170,16 @@
 	AvailableAtStart				= No
 	RequirementsFilterMPSkirmish = SPELL_BOOK_REQUIREMENTS_FILTER
 	RequirementsFilterStrategic   = SPELL_BOOK_REQUIREMENTS_FILTER_STRATEGIC
+    End
+
+    Behavior = PlayerUpgradeSpecialPower    ModuleTag_SpellBookRunesOfPower
+        SpecialPowerTemplate        = SpellBookRunesOfPower
+        UpgradeName             = Upgrade_AngmarStructureDenBuild
+        UpdateModuleStartsAttack    = No
+        AffectAllies            = No
+        AvailableAtStart        = No
+        RequirementsFilterMPSkirmish = SPELL_BOOK_REQUIREMENTS_FILTER
+        RequirementsFilterStrategic = SPELL_BOOK_REQUIREMENTS_FILTER_STRATEGIC
     End
 
 
