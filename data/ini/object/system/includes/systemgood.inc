@@ -1191,29 +1191,11 @@
         RequirementsFilterMPSkirmish = SPELL_BOOK_REQUIREMENTS_FILTER
         RequirementsFilterStrategic = SPELL_BOOK_REQUIREMENTS_FILTER_STRATEGIC
     End
-	Behavior = PlayerUpgradeSpecialPower    ModuleTag_SpellBookRuneHero1BONUS
-        SpecialPowerTemplate        = SpellBookRuneHero1
-        UpgradeName             = Upgrade_ErestorLevel2
-        UpdateModuleStartsAttack    = No
-        AffectAllies            = No
-        AvailableAtStart        = No
-        RequirementsFilterMPSkirmish = SPELL_BOOK_REQUIREMENTS_FILTER
-        RequirementsFilterStrategic = SPELL_BOOK_REQUIREMENTS_FILTER_STRATEGIC
-    End
-	
+
 	Behavior   = OCLSpecialPower ModuleTag_SpellBookRuneHero2
         SpecialPowerTemplate    = SpellBookRuneHero2
         OCL                     = OCL_SpellBookRuneHero2
         CreateLocation          = CREATE_AT_LOCATION
-        AvailableAtStart        = No
-        RequirementsFilterMPSkirmish = SPELL_BOOK_REQUIREMENTS_FILTER
-        RequirementsFilterStrategic = SPELL_BOOK_REQUIREMENTS_FILTER_STRATEGIC
-    End
-	Behavior = PlayerUpgradeSpecialPower    ModuleTag_SpellBookRuneHero2BONUS
-        SpecialPowerTemplate        = SpellBookRuneHero2
-        UpgradeName             = Upgrade_ErestorLevel3
-        UpdateModuleStartsAttack    = No
-        AffectAllies            = No
         AvailableAtStart        = No
         RequirementsFilterMPSkirmish = SPELL_BOOK_REQUIREMENTS_FILTER
         RequirementsFilterStrategic = SPELL_BOOK_REQUIREMENTS_FILTER_STRATEGIC
@@ -1227,15 +1209,6 @@
         RequirementsFilterMPSkirmish = SPELL_BOOK_REQUIREMENTS_FILTER
         RequirementsFilterStrategic = SPELL_BOOK_REQUIREMENTS_FILTER_STRATEGIC
     End
-	Behavior = PlayerUpgradeSpecialPower    ModuleTag_SpellBookRuneHero3BONUS
-        SpecialPowerTemplate        = SpellBookRuneHero3
-        UpgradeName             = Upgrade_ErestorLevel4
-        UpdateModuleStartsAttack    = No
-        AffectAllies            = No
-        AvailableAtStart        = No
-        RequirementsFilterMPSkirmish = SPELL_BOOK_REQUIREMENTS_FILTER
-        RequirementsFilterStrategic = SPELL_BOOK_REQUIREMENTS_FILTER_STRATEGIC
-    End
 	
 	Behavior   = OCLSpecialPower ModuleTag_SpellBookRuneHero4
         SpecialPowerTemplate    = SpellBookRuneHero4
@@ -1245,51 +1218,38 @@
         RequirementsFilterMPSkirmish = SPELL_BOOK_REQUIREMENTS_FILTER
         RequirementsFilterStrategic = SPELL_BOOK_REQUIREMENTS_FILTER_STRATEGIC
     End
-	Behavior = PlayerUpgradeSpecialPower    ModuleTag_SpellBookRuneHero4BONUS
-        SpecialPowerTemplate        = SpellBookRuneHero4
-        UpgradeName             = Upgrade_ErestorLevel5
-        UpdateModuleStartsAttack    = No
-        AffectAllies            = No
-        AvailableAtStart        = No
-        RequirementsFilterMPSkirmish = SPELL_BOOK_REQUIREMENTS_FILTER
-        RequirementsFilterStrategic = SPELL_BOOK_REQUIREMENTS_FILTER_STRATEGIC
-    End
 ;--------------------------------------------------------------------------------
-	Behavior = PlayerUpgradeSpecialPower    ModuleTag_SpellBookRuneUnit1
-        SpecialPowerTemplate        = SpellBookRuneUnit1
-        UpgradeName             = Upgrade_ErestorLevel2
-        UpdateModuleStartsAttack    = No
-        AffectAllies            = No
+	Behavior   = OCLSpecialPower ModuleTag_SpellBookRuneUnit1
+        SpecialPowerTemplate    = SpellBookRuneUnit1
+        OCL                     = OCL_SpellBookRuneUnit1
+        CreateLocation          = CREATE_AT_LOCATION
         AvailableAtStart        = No
         RequirementsFilterMPSkirmish = SPELL_BOOK_REQUIREMENTS_FILTER
         RequirementsFilterStrategic = SPELL_BOOK_REQUIREMENTS_FILTER_STRATEGIC
     End
 	
-	Behavior = PlayerUpgradeSpecialPower    ModuleTag_SpellBookRuneUnit2
+	Behavior = OCLSpecialPower    ModuleTag_SpellBookRuneUnit2
         SpecialPowerTemplate        = SpellBookRuneUnit2
-        UpgradeName             = Upgrade_ErestorLevel3
-        UpdateModuleStartsAttack    = No
-        AffectAllies            = No
+        OCL                     = OCL_SpellBookRuneUnit2
+        CreateLocation          = CREATE_AT_LOCATION
         AvailableAtStart        = No
         RequirementsFilterMPSkirmish = SPELL_BOOK_REQUIREMENTS_FILTER
         RequirementsFilterStrategic = SPELL_BOOK_REQUIREMENTS_FILTER_STRATEGIC
     End
 	
-	Behavior = PlayerUpgradeSpecialPower    ModuleTag_SpellBookRuneUnit3
+	Behavior = OCLSpecialPower    ModuleTag_SpellBookRuneUnit3
         SpecialPowerTemplate        = SpellBookRuneUnit3
-        UpgradeName             = Upgrade_ErestorLevel4
-        UpdateModuleStartsAttack    = No
-        AffectAllies            = No
+        OCL                     = OCL_SpellBookRuneUnit3
+        CreateLocation          = CREATE_AT_LOCATION
         AvailableAtStart        = No
         RequirementsFilterMPSkirmish = SPELL_BOOK_REQUIREMENTS_FILTER
         RequirementsFilterStrategic = SPELL_BOOK_REQUIREMENTS_FILTER_STRATEGIC
     End
 	
-	Behavior = PlayerUpgradeSpecialPower    ModuleTag_SpellBookRuneUnit4
+	Behavior = OCLSpecialPower    ModuleTag_SpellBookRuneUnit4
         SpecialPowerTemplate        = SpellBookRuneUnit4
-        UpgradeName             = Upgrade_ErestorLevel5
-        UpdateModuleStartsAttack    = No
-        AffectAllies            = No
+        OCL                     = OCL_SpellBookRuneUnit4
+        CreateLocation          = CREATE_AT_LOCATION
         AvailableAtStart        = No
         RequirementsFilterMPSkirmish = SPELL_BOOK_REQUIREMENTS_FILTER
         RequirementsFilterStrategic = SPELL_BOOK_REQUIREMENTS_FILTER_STRATEGIC
@@ -1303,29 +1263,11 @@
         RequirementsFilterMPSkirmish = SPELL_BOOK_REQUIREMENTS_FILTER
         RequirementsFilterStrategic = SPELL_BOOK_REQUIREMENTS_FILTER_STRATEGIC
     End
-	Behavior = PlayerUpgradeSpecialPower    ModuleTag_SpellBookRuneStructure1BONUS
-        SpecialPowerTemplate        = SpellBookRuneStructure1
-        UpgradeName             = Upgrade_ErestorLevel2
-        UpdateModuleStartsAttack    = No
-        AffectAllies            = No
-        AvailableAtStart        = No
-        RequirementsFilterMPSkirmish = SPELL_BOOK_REQUIREMENTS_FILTER
-        RequirementsFilterStrategic = SPELL_BOOK_REQUIREMENTS_FILTER_STRATEGIC
-    End
 	
 	Behavior   = OCLSpecialPower ModuleTag_SpellBookRuneStructure2
         SpecialPowerTemplate    = SpellBookRuneStructure2
         OCL                     = OCL_SpellBookRuneStructure2
         CreateLocation          = CREATE_AT_LOCATION
-        AvailableAtStart        = No
-        RequirementsFilterMPSkirmish = SPELL_BOOK_REQUIREMENTS_FILTER
-        RequirementsFilterStrategic = SPELL_BOOK_REQUIREMENTS_FILTER_STRATEGIC
-    End
-	Behavior = PlayerUpgradeSpecialPower    ModuleTag_SpellBookRuneStructure2BONUS
-        SpecialPowerTemplate        = SpellBookRuneStructure2
-        UpgradeName             = Upgrade_ErestorLevel3
-        UpdateModuleStartsAttack    = No
-        AffectAllies            = No
         AvailableAtStart        = No
         RequirementsFilterMPSkirmish = SPELL_BOOK_REQUIREMENTS_FILTER
         RequirementsFilterStrategic = SPELL_BOOK_REQUIREMENTS_FILTER_STRATEGIC
@@ -1339,29 +1281,11 @@
         RequirementsFilterMPSkirmish = SPELL_BOOK_REQUIREMENTS_FILTER
         RequirementsFilterStrategic = SPELL_BOOK_REQUIREMENTS_FILTER_STRATEGIC
     End
-	Behavior = PlayerUpgradeSpecialPower    ModuleTag_SpellBookRuneStructure3BONUS
-        SpecialPowerTemplate        = SpellBookRuneStructure3
-        UpgradeName             = Upgrade_ErestorLevel4
-        UpdateModuleStartsAttack    = No
-        AffectAllies            = No
-        AvailableAtStart        = No
-        RequirementsFilterMPSkirmish = SPELL_BOOK_REQUIREMENTS_FILTER
-        RequirementsFilterStrategic = SPELL_BOOK_REQUIREMENTS_FILTER_STRATEGIC
-    End
 	
 	Behavior   = OCLSpecialPower ModuleTag_SpellBookRuneStructure4
         SpecialPowerTemplate    = SpellBookRuneStructure4
         OCL                     = OCL_SpellBookRuneStructure4
         CreateLocation          = CREATE_AT_LOCATION
-        AvailableAtStart        = No
-        RequirementsFilterMPSkirmish = SPELL_BOOK_REQUIREMENTS_FILTER
-        RequirementsFilterStrategic = SPELL_BOOK_REQUIREMENTS_FILTER_STRATEGIC
-    End
-	Behavior = PlayerUpgradeSpecialPower    ModuleTag_SpellBookRuneStructure4BONUS
-        SpecialPowerTemplate        = SpellBookRuneStructure4
-        UpgradeName             = Upgrade_ErestorLevel5
-        UpdateModuleStartsAttack    = No
-        AffectAllies            = No
         AvailableAtStart        = No
         RequirementsFilterMPSkirmish = SPELL_BOOK_REQUIREMENTS_FILTER
         RequirementsFilterStrategic = SPELL_BOOK_REQUIREMENTS_FILTER_STRATEGIC

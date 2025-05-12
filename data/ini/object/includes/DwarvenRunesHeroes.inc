@@ -18,7 +18,7 @@
         HealOnlyIfNotInCombat = No
     End
 
-    Behavior = AutoHealBehavior ModuleTag_SchicksalHealing
+    Behavior = AutoHealBehavior ModuleTag_SchicksalAusdauerHealing
         StartsActive          = No
         TriggeredBy           = Upgrade_OriSchicksal Upgrade_OriAusdauer
         RequiresAllTriggers   = Yes        
