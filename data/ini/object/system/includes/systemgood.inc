@@ -1290,7 +1290,115 @@
         RequirementsFilterMPSkirmish = SPELL_BOOK_REQUIREMENTS_FILTER
         RequirementsFilterStrategic = SPELL_BOOK_REQUIREMENTS_FILTER_STRATEGIC
     End
-
+;--------------------------------------------------------------------------------
+	Behavior = PlayerUpgradeSpecialPower	ModuleTag_SpellBookRunesTier1
+		SpecialPowerTemplate		= SpellBookRuneStructureTier1
+		UpgradeName 			= Upgrade_ErestorLevel2
+		UpdateModuleStartsAttack	= No
+		AffectAllies			= No
+		AvailableAtStart		= No
+		RequirementsFilterMPSkirmish    = SPELL_BOOK_REQUIREMENTS_FILTER
+		RequirementsFilterStrategic     = SPELL_BOOK_REQUIREMENTS_FILTER_STRATEGIC
+	End
+	Behavior = PlayerUpgradeSpecialPower	ModuleTag_SpellBookRunesTier12
+		SpecialPowerTemplate		= SpellBookRuneHeroTier1
+		UpgradeName 			= Upgrade_ErestorLevel2
+		UpdateModuleStartsAttack	= No
+		AffectAllies			= No
+		AvailableAtStart		= No
+		RequirementsFilterMPSkirmish    = SPELL_BOOK_REQUIREMENTS_FILTER
+		RequirementsFilterStrategic     = SPELL_BOOK_REQUIREMENTS_FILTER_STRATEGIC
+	End
+	Behavior = PlayerUpgradeSpecialPower	ModuleTag_SpellBookRunesTier13
+		SpecialPowerTemplate		= SpellBookRuneUnitTier1
+		UpgradeName 			= Upgrade_ErestorLevel2
+		UpdateModuleStartsAttack	= No
+		AffectAllies			= No
+		AvailableAtStart		= No
+		RequirementsFilterMPSkirmish    = SPELL_BOOK_REQUIREMENTS_FILTER
+		RequirementsFilterStrategic     = SPELL_BOOK_REQUIREMENTS_FILTER_STRATEGIC
+	End
+	Behavior = PlayerUpgradeSpecialPower	ModuleTag_SpellBookRunesTier2
+		SpecialPowerTemplate		= SpellBookRuneStructureTier2
+		UpgradeName 			= Upgrade_ErestorLevel3
+		UpdateModuleStartsAttack	= No
+		AffectAllies			= No
+		AvailableAtStart		= No
+		RequirementsFilterMPSkirmish    = SPELL_BOOK_REQUIREMENTS_FILTER
+		RequirementsFilterStrategic     = SPELL_BOOK_REQUIREMENTS_FILTER_STRATEGIC
+	End
+	Behavior = PlayerUpgradeSpecialPower	ModuleTag_SpellBookRunesTier22
+		SpecialPowerTemplate		= SpellBookRuneHeroTier2
+		UpgradeName 			= Upgrade_ErestorLevel3
+		UpdateModuleStartsAttack	= No
+		AffectAllies			= No
+		AvailableAtStart		= No
+		RequirementsFilterMPSkirmish    = SPELL_BOOK_REQUIREMENTS_FILTER
+		RequirementsFilterStrategic     = SPELL_BOOK_REQUIREMENTS_FILTER_STRATEGIC
+	End
+	Behavior = PlayerUpgradeSpecialPower	ModuleTag_SpellBookRunesTier23
+		SpecialPowerTemplate		= SpellBookRuneUnitTier2
+		UpgradeName 			= Upgrade_ErestorLevel3
+		UpdateModuleStartsAttack	= No
+		AffectAllies			= No
+		AvailableAtStart		= No
+		RequirementsFilterMPSkirmish    = SPELL_BOOK_REQUIREMENTS_FILTER
+		RequirementsFilterStrategic     = SPELL_BOOK_REQUIREMENTS_FILTER_STRATEGIC
+	End
+	Behavior = PlayerUpgradeSpecialPower	ModuleTag_SpellBookRunesTier3
+		SpecialPowerTemplate		= SpellBookRuneStructureTier3
+		UpgradeName 			= Upgrade_ErestorLevel4
+		UpdateModuleStartsAttack	= No
+		AffectAllies			= No
+		AvailableAtStart		= No
+		RequirementsFilterMPSkirmish    = SPELL_BOOK_REQUIREMENTS_FILTER
+		RequirementsFilterStrategic     = SPELL_BOOK_REQUIREMENTS_FILTER_STRATEGIC
+	End
+	Behavior = PlayerUpgradeSpecialPower	ModuleTag_SpellBookRunesTier32
+		SpecialPowerTemplate		= SpellBookRuneHeroTier3
+		UpgradeName 			= Upgrade_ErestorLevel4
+		UpdateModuleStartsAttack	= No
+		AffectAllies			= No
+		AvailableAtStart		= No
+		RequirementsFilterMPSkirmish    = SPELL_BOOK_REQUIREMENTS_FILTER
+		RequirementsFilterStrategic     = SPELL_BOOK_REQUIREMENTS_FILTER_STRATEGIC
+	End
+	Behavior = PlayerUpgradeSpecialPower	ModuleTag_SpellBookRunesTier33
+		SpecialPowerTemplate		= SpellBookRuneUnitTier3
+		UpgradeName 			= Upgrade_ErestorLevel4
+		UpdateModuleStartsAttack	= No
+		AffectAllies			= No
+		AvailableAtStart		= No
+		RequirementsFilterMPSkirmish    = SPELL_BOOK_REQUIREMENTS_FILTER
+		RequirementsFilterStrategic     = SPELL_BOOK_REQUIREMENTS_FILTER_STRATEGIC
+	End
+	Behavior = PlayerUpgradeSpecialPower	ModuleTag_SpellBookRunesTier4
+		SpecialPowerTemplate		= SpellBookRuneStructureTier4
+		UpgradeName 			= Upgrade_ErestorLevel5
+		UpdateModuleStartsAttack	= No
+		AffectAllies			= No
+		AvailableAtStart		= No
+		RequirementsFilterMPSkirmish    = SPELL_BOOK_REQUIREMENTS_FILTER
+		RequirementsFilterStrategic     = SPELL_BOOK_REQUIREMENTS_FILTER_STRATEGIC
+	End
+	Behavior = PlayerUpgradeSpecialPower	ModuleTag_SpellBookRunesTier42
+		SpecialPowerTemplate		= SpellBookRuneHeroTier4
+		UpgradeName 			= Upgrade_ErestorLevel5
+		UpdateModuleStartsAttack	= No
+		AffectAllies			= No
+		AvailableAtStart		= No
+		RequirementsFilterMPSkirmish    = SPELL_BOOK_REQUIREMENTS_FILTER
+		RequirementsFilterStrategic     = SPELL_BOOK_REQUIREMENTS_FILTER_STRATEGIC
+	End
+	Behavior = PlayerUpgradeSpecialPower	ModuleTag_SpellBookRunesTier43
+		SpecialPowerTemplate		= SpellBookRuneUnitTier4
+		UpgradeName 			= Upgrade_ErestorLevel5
+		UpdateModuleStartsAttack	= No
+		AffectAllies			= No
+		AvailableAtStart		= No
+		RequirementsFilterMPSkirmish    = SPELL_BOOK_REQUIREMENTS_FILTER
+		RequirementsFilterStrategic     = SPELL_BOOK_REQUIREMENTS_FILTER_STRATEGIC
+	End
 
     Behavior = SpecialPowerModule ModuleTag_SpellBookGeneralView
         SpecialPowerTemplate            = SpellBookGeneralView
