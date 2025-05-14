@@ -2,9 +2,9 @@
         StartsActive          = No
         TriggeredBy           = Upgrade_OriAusdauer
         ConflictsWith         = Upgrade_OriSchicksal; L00BE9600: List of Upgrades //May not have these upgrades  
-        HealingAmount         = 15
+        HealingAmount         = 50
         HealingDelay          = ELVEN_GIFT_REGEN_DELAY
-        StartHealingDelay     = HERO_HEAL_DELAY
+        StartHealingDelay     = 1000
         HealOnlyIfNotInCombat = Yes
     End
 
@@ -12,17 +12,17 @@
         StartsActive          = No
         TriggeredBy           = Upgrade_OriSchicksal
         ConflictsWith         = Upgrade_OriAusdauer; L00BE9600: List of Upgrades //May not have these upgrades  
-        HealingAmount         = 5
+        HealingAmount         = 25
         HealingDelay          = ELVEN_GIFT_REGEN_DELAY
-        StartHealingDelay     = 1000
-        HealOnlyIfNotInCombat = No
+        StartHealingDelay     = HERO_HEAL_DELAY
+        HealOnlyIfNotInCombat = Yes
     End
 
     Behavior = AutoHealBehavior ModuleTag_SchicksalAusdauerHealing
         StartsActive          = No
         TriggeredBy           = Upgrade_OriSchicksal Upgrade_OriAusdauer
         RequiresAllTriggers   = Yes        
-        HealingAmount         = 25
+        HealingAmount         = 100
         HealingDelay          = ELVEN_GIFT_REGEN_DELAY
         StartHealingDelay     = 1000
         HealOnlyIfNotInCombat = No
