@@ -105,11 +105,12 @@ Weapon BilboRockThrow
     AcceptableAimDelta    = 20
     PreAttackDelay        = 500
     PreAttackType         = PER_SHOT
-    HitPercentage          = 0
+    HitPercentage       = 100
     ScatterRadius          = 0.0
     FiringDuration            = 1200
     DelayBetweenShots        = 1700
     CanFireWhileMoving        = Yes
+    CanBeDodged        = No
 
     ProjectileNugget
         ProjectileTemplateName = HobbitRockProjectile

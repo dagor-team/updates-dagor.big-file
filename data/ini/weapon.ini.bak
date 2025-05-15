@@ -25412,7 +25412,7 @@ Weapon AngmarWitchkingSchattenklingeRing
     End
 End
 
-Weapon AngmarWitchkingCrush
+Weapon VeryStrongHeroCrush
   LeechRangeWeapon      = Yes
   AttackRange           = 9999999.0
   MeleeWeapon           = No
