@@ -4641,7 +4641,7 @@ CONTROLBAR:ToggleOinAxeWeapon
 END
 
 CONTROLBAR:ToolTipToggleOinAxeWeapon
-"Oin temporary throws axes upon his foes\n He has 15% less armor while doing so\n Left-click to activate"
+"Oin temporary throws axes upon his foes\n He has 15% less armor while doing so \n Runes can strengthen this ability \n Left-click to activate"
 END
 
 CONTROLBAR:SpecialAbilityOinAxthagel
@@ -4649,7 +4649,7 @@ CONTROLBAR:SpecialAbilityOinAxthagel
 END
 
 CONTROLBAR:ToolTipSpecialAbilityOinAxthagel
-"Requires: Level 10 \n Only available in Ranged \n Oin's deadly axes rain down on his enemies \n Left-click on the desired destination area"
+"Requires: Level 10 \n Only available in Ranged \n Oin's deadly axes rain down on his enemies \n Runes can strengthen this ability \n Left-click on the desired destination area"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityErfullterPakt

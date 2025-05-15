@@ -76,7 +76,7 @@ Armor EdainSupportHeroArmorMounted
 End
 
 
-Armor HeroLightArmor
+Armor WeakHeroArmor
   Armor = DEFAULT               45%
   Armor = SLASH                 35%
   Armor = PIERCE                45%
@@ -133,7 +133,7 @@ Armor HeroArmorMounted
 End
 
 
-Armor ToughHeroArmor
+Armor MediumHeroArmor
   Armor = DEFAULT               12%
   Armor = SLASH                 12%
   Armor = PIERCE                20%
@@ -10700,7 +10700,7 @@ Armor MordorNecromancerArmor
 End
 
 
-Armor ToughHeroArmorMounted
+Armor MediumHeroArmorMounted
   Armor = DEFAULT          30%
   Armor = SLASH            30%
   Armor = PIERCE           20%
