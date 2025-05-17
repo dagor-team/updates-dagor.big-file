@@ -34,7 +34,7 @@
         UpgradeRequired         = Upgrade_Level_1
         EffectRadius            = 180
         PingDelay               = 2000
-        HealPercentPerSecond    = 2%
+        HealPercentPerSecond    = 10%
         AllowFilter             = ANY +INFANTRY +CAVALRY +HERO -MACHINE +MONSTER -IMMOBILE +DOZER
         NonStackable            = Yes
         HealFX                  = FX_SpellHealUnitHealBuff
