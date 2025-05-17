@@ -884,6 +884,25 @@ function OnKingAftermath(self)
     ObjectRemoveUpgrade( self, "Upgrade_TestBuilding_2" )
 end
 
+function OrcristShow(self)
+    ObjectHideSubObject( self, "SWORD", true )
+	ObjectShowSubObject( self, "ORCRIST", true )
+	ObjectGrantUpgrade( self, "Upgrade_TestBuilding_2" )
+end
+
+function OrcristHide(self)
+    ObjectShowSubObject( self, "SWORD", true )
+	ObjectHideSubObject( self, "ORCRIST", true )
+	ObjectRemoveUpgrade( self, "Upgrade_TestBuilding_2" )
+end
+
+function UnleashCurse(self, other, delay, amount)
+	if tonumber(ObjectCountNearbyEnemies(self, 6)) >= 1 then
+        ObjectDoSpecialPower(self, "SpecialAbilityThorinCurse")
+        return
+    end
+end
+
 function OnArveduiBuild(self)
     ObjectGrantUpgrade( self, "Upgrade_TestBuilding" )
 end

@@ -13284,7 +13284,7 @@ CONTROLBAR:DornpfeileDusterwalds
 END
 
 CONTROLBAR:ToolTipSpecialAbilityDornpfeileDusterwalds
-"Requires: Level 5 \n Guardian of the Paths shoot arrows briefly, repulse the enemies with each hit, but cause less damage \n Left-click to activate"
+"Requires: Level 5 \n Guardian of the Paths shoot magical arrows that hit multiple enemies with each hit \n Left-click to activate"
 END
 
 CONTROLBAR:PurchaseTechnologyLothlorienLembasbrotAktive
@@ -94889,7 +94889,7 @@ CONTROLBAR:TaniquetilCaptianLeadership
 END
 
 CONTROLBAR:TooltipTaniquetilCaptianLeadership
-"All nearby Vanyar Elves are protected against structure attacks and gain experience 50% faster. \n Passive ability"
+"All nearby Vanyar Elves are 50% more against flying units attacks and gain experience 50% faster. \n Passive ability"
 END
 
 
