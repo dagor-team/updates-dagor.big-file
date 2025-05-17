@@ -100794,7 +100794,7 @@ CONTROLBAR:ThorinOrcristschlag
 END
 
 CONTROLBAR:ToolTipThorinOrcristschlag
-"Requires: Level 3 \n Passive:\n Thorin now wields the mighty Elf weapon Orcrist of Gondolin\n The sword deals massive damage to Orcs and shines even if only one of these creatures is nearby\n \n Active:\n Thorin leads the Elven weapon with a terrific blow against the selected enemy\n Left-click on the desired target"
+"Thorin now wields the mighty Elf weapon Orcrist of Gondolin\n The sword deals massive damage and shines if one of the evil creatures is nearby\n At level 3 Thorin makes enemy units also cover in fear when wielding this blade\n At level 5 with each hit he lowers the spell damage of enemy heroes by 50% \n At level 7 Thorin deals greater area damage and heal slightly with each hit \n At level 10 Thorin sets back the cooldowns of enemy heroes by 5% with each hit \n Left-click on the desired target"
 END
 
 CONTROLBAR:ToolTipThorinOrcristschlag_forKing
