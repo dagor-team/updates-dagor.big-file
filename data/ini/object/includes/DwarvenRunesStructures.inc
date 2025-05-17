@@ -40,6 +40,15 @@
         HealFX                  = FX_SpellHealUnitHealBuff
     End
 
+        Behavior = BannerCarrierUpdate Runesreplentish1UpdateModuleTag
+        IdleSpawnRate            = 1000
+        UnitSpawnFX              = FX_BannerCarrierSpawnUnit
+        ReplenishNearbyHorde     = Yes
+        ReplenishAllNearbyHordes = Yes
+        ScanHordeDistance        = GONDOR_WELL_AOE_RADIUS
+        UpgradeRequired = Upgrade_Level_1
+    End
+
     Behavior = PassiveAreaEffectBehavior ModuleTag_FeelGoodHero
         UpgradeRequired         = Upgrade_Level_3
         EffectRadius            = 180

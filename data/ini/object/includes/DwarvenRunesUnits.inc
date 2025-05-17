@@ -14,7 +14,7 @@
         AttributeModifier = SchmiedSchutzBonus
     End
 
-    Behavior = PassiveAreaEffectBehavior ModuleTag_SplashOfHealingWater_Ahh
+    Behavior = PassiveAreaEffectBehavior ModuleTag_SplashOfHealingWater_Rune
         EffectRadius         = 120
         PingDelay            = 1000
         HealPercentPerSecond = 1%
@@ -22,6 +22,15 @@
         HealFX               = FX_SpellHealUnitHealBuff
         UpgradeRequired = Upgrade_ZwergenschmiedReichtum ;SUB_L006D4C30:String (Upgrade)  
         NonStackable = No
+    End
+
+    Behavior = BannerCarrierUpdate Runesreplentish1UpdateModuleTag
+        IdleSpawnRate            = 2000
+        UnitSpawnFX              = FX_BannerCarrierSpawnUnit
+        ReplenishNearbyHorde     = Yes
+        ReplenishAllNearbyHordes = Yes
+        ScanHordeDistance        = GONDOR_WELL_AOE_RADIUS
+        UpgradeRequired = Upgrade_ZwergenschmiedReichtum
     End
 
     Behavior = DoCommandUpgrade Module_DoCommandUpgrade1
