@@ -4581,7 +4581,7 @@ CONTROLBAR:SpecialAbilityOriMacht
 END
 
 CONTROLBAR:ToolTipSpecialAbilityOriMacht
-"Ori seals within the equipment of a Dwarven hero of Ered Luin a Rune of Power.\n The hero throws enemies back with each strike\n Left-click on a desired Dwarven hero of Ered Luin"
+"The equipment of a Dwarven hero is sealed with a Rune of Power.\n The hero throws enemies back with each strike\n Left-click on a desired Dwarven hero of the Third Age"
 END
 
 CONTROLBAR:SpecialAbilityOriAusdauer
@@ -4589,7 +4589,7 @@ CONTROLBAR:SpecialAbilityOriAusdauer
 END
 
 CONTROLBAR:ToolTipSpecialAbilityOriAusdauer
-"Ori seals within the equipment of a Dwarven hero of Ered Luin a Rune of Stamina.\n The hero has increased life regeneration.\n Left-click on a desired Dwarven hero of Ered Luin"
+"The equipment of a Dwarven hero is sealed with a Rune of Endurance.\n The hero has increased life regeneration outside of combat.\n Left-click on a desired Dwarven hero of the Third Age"
 END
 
 CONTROLBAR:SpecialAbilityOriZorn
@@ -4597,7 +4597,7 @@ CONTROLBAR:SpecialAbilityOriZorn
 END
 
 CONTROLBAR:ToolTipSpecialAbilityOriZorn
-"Ori seals within the equipment of a Dwarven hero of Ered Luin a Rune of Wrath.\n The hero causes minor surface damage.\n Left-click on a desired Dwarven hero of Ered Luin"
+"The equipment of a Dwarven hero is sealed with a Rune of Wrath.\n The hero causes surface damage.\n Left-click on a desired Dwarven hero of the Third Age"
 END
 
 CONTROLBAR:SpecialAbilityOriSchicksal
@@ -4605,7 +4605,39 @@ CONTROLBAR:SpecialAbilityOriSchicksal
 END
 
 CONTROLBAR:ToolTipSpecialAbilityOriSchicksal
-"Ori seals within the equipment of a Dwarven hero of Ered Luin a Rune of Fate. \n All runes sealed within the hero are amplified. \n Power: Heroes are more likely to knock back enemies.\n Endurance: The health regeneration is increased. \n Wrath: The splash damage is again increased slightly. \n Ori's skills also recharge quicker. \n Left-click on a desired Dwarven hero of Ered Luin"
+"The equipment of a Dwarven hero is sealed with a Rune of Fate. \n All runes sealed within the hero are amplified. \n Power: Heroes have improved knock back to enemies.\n Endurance: The health regeneration is increased and they even regenerate in combat. \n Wrath: The splash damage is again increased slightly. \n If no runes have been laid on the heroes, they will still get minor boni \n Left-click on a desired Dwarven hero of the Third Age"
+END
+
+CONTROLBAR:SpellBookRuneUnit1
+"Rune of Morality"
+END
+
+CONTROLBAR:TooltipSpellBookRuneUnit1
+"The armor of the dwarven unit is enhanced by runes \n Allies near the unit are slowly healed \n left click on the desired dwarven battalion"
+END
+
+CONTROLBAR:SpellBookRuneUnit2
+"Rune of Strength"
+END
+
+CONTROLBAR:TooltipSpellBookRuneUnit2
+"Runes of strength are laid upon the weapons of the dwarven battalion \n Attack is increased by 25% \n left click on the desired dwarven battalion"
+END
+
+CONTROLBAR:SpellBookRuneUnit3
+"Rune of Wisdom"
+END
+
+CONTROLBAR:TooltipSpellBookRuneUnit3
+"A rune of wisdom is engraved upon the equiment of a dwarven unit \n The Battalion will aquire experience 3 times faster \n left click on the desired dwarven battalion"
+END
+
+CONTROLBAR:SpellBookRuneUnit4
+"Rune of Sturdiness"
+END
+
+CONTROLBAR:TooltipSpellBookRuneUnit4
+"Runes of Sturdiness are laid upon the dwarven armor of a unit \n The Battalion becomes highly resistant against elemental and magic attacks \n left click on the desired dwarven battalion"
 END
 
 OBJECT:DwarvenFilli
@@ -16142,7 +16174,7 @@ CONTROLBAR:SpecialAbilityZwergenRuneUnantastbarkeit
 END
 
 CONTROLBAR:ToolTipSpecialAbilityZwergenRuneUnantastbarkeit
-"The Runemaster provides a building with a rune \n The building can only be attacked by siege weapons \n A building can be decorated with all 4 different runes \n Fortresses can not receive runes \n Left-click on a desired building"
+"The building is provided with a rune \n The building can only be attacked by siege weapons \n A building can be decorated with all 4 different runes \n Fortresses can not receive runes \n Left-click on a desired building"
 END
 
 CONTROLBAR:SpecialAbilityZwergenRuneInspiration
@@ -16150,7 +16182,7 @@ CONTROLBAR:SpecialAbilityZwergenRuneInspiration
 END
 
 CONTROLBAR:ToolTipSpecialAbilityZwergenRuneInspiration
-"The Runemaster provides a building with a rune \n Allies in the vicinity of the building receive +50% armor \n A building can be decorated with all 4 different runes \n Fortresses can not receive runes \n Left-click on a desired building"
+"The building is provided with a rune \n Allies in the vicinity of the building receive +50% armor \n A building can be decorated with all 4 different runes \n Fortresses can not receive runes \n Left-click on a desired building"
 END
 
 CONTROLBAR:SpecialAbilityZwergenRuneKraft
@@ -16158,7 +16190,7 @@ CONTROLBAR:SpecialAbilityZwergenRuneKraft
 END
 
 CONTROLBAR:ToolTipSpecialAbilityZwergenRuneKraft
-"The Runemaster provides a building with a rune \n Allies in the vicinity of the building are slowly healed\n A building can be decorated with all 4 different runes \n Fortresses can not receive runes \n Left-click on a desired building"
+"The building is provided with a rune \n Allies in the vicinity of the building are quickly healed\n A building can be decorated with all 4 different runes \n Fortresses can not receive runes \n Left-click on a desired building"
 END
 
 CONTROLBAR:SpecialAbilityZwergenRuneProduktivitat
@@ -16166,7 +16198,7 @@ CONTROLBAR:SpecialAbilityZwergenRuneProduktivitat
 END
 
 CONTROLBAR:ToolTipSpecialAbilityZwergenRuneProduktivitat
-"The Runemaster provides a building with a rune \n The building produces 50% more yield of raw materials and recruited units faster \n A building can be decorated with all 4 different runes \n Fortresses can not receive runes \n Left-click on a desired building"
+"The building is provided with a rune \n The building produces 50% more yield of raw materials and recruits units faster \n A building can be decorated with all 4 different runes \n Fortresses can not receive runes \n Left-click on a desired building"
 END
 
 CONTROLBAR:SpecialAbilityZwergenRuneSchrecken
