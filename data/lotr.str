@@ -7738,6 +7738,14 @@ CONTROLBAR:SpecialAbilityThorinBlutrausch
 "Bloodlust"
 END
 
+CONTROLBAR:ThorinDesperateCry
+"Desperate &Cry"
+END
+
+CONTROLBAR:ToolTipThorinDesperateCry
+"Thorin in the despair of battle cries out loud causing enemies to cover in fear \n  Left-click to activate"
+END
+
 CONTROLBAR:ToolTipSpecialAbilityThorinBlutrausch
 "Requires Level 3: \n Thorin gives in to his rage allowing him to hit his enemies twice as hard, however losing defence in the process \n Thorin deals +100% damage but loses 35% armor \n  Left-click to activate"
 END
