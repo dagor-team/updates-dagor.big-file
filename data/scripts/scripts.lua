@@ -885,15 +885,17 @@ function OnKingAftermath(self)
 end
 
 function OrcristShow(self)
-    ObjectHideSubObject( self, "SWORD", true )
-	ObjectShowSubObject( self, "ORCRIST", true )
+    ObjectHideSubObjectPermanently( self, "SWORD", true )
+	ObjectShowSubObjectPermanently( self, "ORCRIST", true )
 	ObjectGrantUpgrade( self, "Upgrade_TestBuilding_2" )
+	ObjectRemoveUpgrade( self, "Upgrade_TestBuilding" )
 end
 
 function OrcristHide(self)
-    ObjectShowSubObject( self, "SWORD", true )
-	ObjectHideSubObject( self, "ORCRIST", true )
+    ObjectShowSubObjectPermanently( self, "SWORD", true )
+	ObjectHideSubObjectPermanently( self, "ORCRIST", true )
 	ObjectRemoveUpgrade( self, "Upgrade_TestBuilding_2" )
+	ObjectGrantUpgrade( self, "Upgrade_TestBuilding" )
 end
 
 function UnleashCurse(self, other, delay, amount)
