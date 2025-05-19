@@ -3736,6 +3736,14 @@ TOOLTIP:AranarthsGetreue
 "The Faithful of Aranarth"
 END
 
+CONTROLBAR:ArnorSummonLindon
+"Aid from Lindon"
+END
+
+CONTROLBAR:ToolTipArnorSummonLindon
+"Summon a couple of Lindon lancers with an elven barracs from which elves of Lindon can be trained \n Left-click on the icon and then click passable area"
+END
+
 CONTROLBAR:ArnorSummonHobbits
 "Detachment from the Shire"
 END
