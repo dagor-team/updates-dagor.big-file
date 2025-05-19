@@ -11,12 +11,15 @@ Gondor
 	Cavalry shields moved to stables level 2
 	Fiefdom units all slight armor nerf
 	Dol amroth knights very slight health buff
+	
 Angmar
 	Sorcerers limited to 2, corpse rain significant damage nerf
 	Rogash level 7 armor buff removed
 	Witchking slight health nerf, significant damage nerf
 	Black numenorian archers cp increase to 60
 	Beastmaster heal moved to level 3, transform to wolf moved to level 2, speed nerf
+	Underworld dragons no longer knockdown heroes
+	Snowbind and fell wind switched in the spellbook
 	
 Rohan
 	Hurins slam damage buffed
@@ -30,6 +33,8 @@ Rohan
 	Traitors are temporary (90 seconds), mount option removed
 	Taniquetil expeditionaries limited to 3, health and damage buff
 	Taniquetil guards, archers, captains health and damage buffed
+	Axemen speed nerf
+	Theoden the corrupted retreat ability duration nerf to 30s
 	
 Arnor 
 	Arnor archers significant health buff
@@ -40,12 +45,13 @@ Goblins
 	Balrog trample significant damage nerf
 	Goblin archers poison arrows damage nerf
 	Spider riders slight armor nerf
-	Bolg health nerf
+	Bolg health nerf, speed nerf
 	Durburz armor buff, health nerf (without crown)
 	gorkil health nerf (without crown)
 	Gundabad bodyguards limited to 3
 	Creep and untaimed allegiance switched in the spellbook
 	Great goblin cost increase, health nerf
+	Buhrdur armor buff
 	
 Mordor
 	Armored trolls get significant bonuses after purchasing their chosen weapon
@@ -68,12 +74,14 @@ Loth
 	Ents stomp damage significantly increased
 	Haldir aoe removed from his sword, golden arrow fear duration decreased
 	Singers paralyze removed
+	Mirkwood elites speed nerf, bouncing arrows only with ability
 	
 Imladris
 	Imladris units in general gain less bonus after purchasing heavy armor
 	Imladris archers golden tips damage bonus nerfed
 	Imladris pikes now cost 60 command points
 	Lore masters damage and range nerf
+	Elrond disabled blademaster while having tornado active and vice versa
 	
 Isengard
 	Vrasku new level 1 (level 3 removed)
@@ -86,7 +94,7 @@ Isengard
 	Vampires require level 2 to swarm
 	Tol-in-gaurhoth sentinels charge fix
 	Draugluin level 6 cooldown increase
-	Dire wolfs damage nerf, armor nerf against swordsmen and slightly pikes
+	Dire wolfs damage nerf, armor nerf against swordsmen and slightly pikes, slight health nerf
 	
 Dwarves
 	Aglarond hunters bow damage nerfed
@@ -95,10 +103,10 @@ Dwarves
 	Iron Hills
 		SpearThowers damage nerf both upgraded and unupgraded
 		Dragon slayers damage nerf of his mace
-		
+		ThorinIII new mithril ability
 	Erebor
 		Brand cost decrease
-		 
+		ThorinIII new mithril ability
 	Ered Luin
 		Bard cost decrease
 		Dwarven heroes speed increase
