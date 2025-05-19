@@ -406,6 +406,127 @@ ExperienceLevel    Good_Basic_InfantryLevel5
     End
 END
 
+;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+ExperienceLevel    Good_Basic_Infantry_Level1
+    TargetNames                       =    GOOD_BASIC_SUMMONED
+    RequiredExperience                =    EXPERIENCE_REQUIRED_BASIC_HORDE_1
+    ExperienceAward                   =    EXPERIENCE_AWARD_BASIC_HORDE_1
+    Rank                              =    1
+    Upgrades                          =    Upgrade_ObjectLevel1 Upgrade_MiniHordeLvl1 Upgrade_EliteHordeLvl1
+    SelectionDecal
+        Texture               =    decal_G_level1
+        Texture2              =    decal_good_CO
+        Style                 =    SHADOW_MERGE_DECAL
+        OpacityMin            =    80%
+        OpacityMax            =    100%
+        MinRadius             =    70
+        MaxRadius             =    200
+        MaxSelectedUnits      =    40
+    End
+END
+
+ExperienceLevel    Good_Basic_InfantryLevel2
+    TargetNames                       =    GOOD_BASIC_SUMMONED
+    RequiredExperience                =    EXPERIENCE_REQUIRED_BASIC_HORDE_2
+    ExperienceAward                   =    EXPERIENCE_AWARD_BASIC_HORDE_2
+    Rank                              =    2
+    Upgrades                          =    Upgrade_ObjectLevel2 Upgrade_MiniHordeLvl2 Upgrade_EliteHordeLvl2
+    AttributeModifiers                =    BasicHordeBonusRank2
+    LevelUpFx                         =    FX:GandalfLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+    SelectionDecal
+        Texture               =    decal_G_level2
+        Texture2              =    decal_good_CO
+        Style                 =    SHADOW_MERGE_DECAL
+        OpacityMin            =    80%
+        OpacityMax            =    100%
+        MinRadius             =    70
+        MaxRadius             =    200
+        MaxSelectedUnits      =    40
+    End
+END
+
+ExperienceLevel    Good_Basic_InfantryLevel3
+    TargetNames                       =    GOOD_BASIC_SUMMONED
+    RequiredExperience                =    EXPERIENCE_REQUIRED_BASIC_HORDE_3
+    ExperienceAward                   =    EXPERIENCE_AWARD_BASIC_HORDE_3
+    Rank                              =    3
+    Upgrades                          =    Upgrade_ObjectLevel3 Upgrade_MiniHordeLvl3 Upgrade_EliteHordeLvl3
+    AttributeModifiers                =    BasicHordeBonusRank3
+    LevelUpFx                         =    FX:GandalfLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+    SelectionDecal
+        Texture               =    decal_G_level3
+        Texture2              =    decal_good_CO
+        Style                 =    SHADOW_MERGE_DECAL
+        OpacityMin            =    80%
+        OpacityMax            =    100%
+        MinRadius             =    70
+        MaxRadius             =    200
+        MaxSelectedUnits      =    40
+    End
+END
+
+ExperienceLevel    Good_Basic_InfantryLevel4
+    TargetNames                       =    GOOD_BASIC_SUMMONED
+    RequiredExperience                =    EXPERIENCE_REQUIRED_BASIC_HORDE_4
+    ExperienceAward                   =    EXPERIENCE_AWARD_BASIC_HORDE_4
+    Rank                              =    4
+    Upgrades                          =    Upgrade_ObjectLevel4 Upgrade_MiniHordeLvl4 Upgrade_EliteHordeLvl4
+    AttributeModifiers                =    BasicHordeBonusRank4
+    LevelUpFx                         =    FX:GandalfLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+    SelectionDecal
+        Texture               =    decal_G_level4
+        Texture2              =    decal_good_CO
+        Style                 =    SHADOW_MERGE_DECAL
+        OpacityMin            =    80%
+        OpacityMax            =    100%
+        MinRadius             =    70
+        MaxRadius             =    200
+        MaxSelectedUnits      =    40
+    End
+END
+
+ExperienceLevel    Good_Basic_InfantryLevel5
+    TargetNames                       =    GOOD_BASIC_SUMMONED
+    RequiredExperience                =    EXPERIENCE_REQUIRED_BASIC_HORDE_5
+    ExperienceAward                   =    EXPERIENCE_AWARD_BASIC_HORDE_5
+    Rank                              =    5
+    Upgrades                          =    Upgrade_ObjectLevel5 Upgrade_MiniHordeLvl5 Upgrade_EliteHordeLvl5
+    AttributeModifiers                =    BasicHordeBonusRank5
+    LevelUpFx                         =    FX:GandalfLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+    SelectionDecal
+        Texture               =    decal_G_level4
+        Texture2              =    decal_good_CO
+        Style                 =    SHADOW_MERGE_DECAL
+        OpacityMin            =    80%
+        OpacityMax            =    100%
+        MinRadius             =    70
+        MaxRadius             =    200
+        MaxSelectedUnits      =    40
+    End
+END
+
 ;--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ExperienceLevel    Good_Basic10_Infantry_Level1
     TargetNames                       =    GOOD_BASIC_10
