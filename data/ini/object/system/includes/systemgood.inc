@@ -699,7 +699,7 @@
 
 	Behavior = OCLSpecialPower ModuleTag_ArnorSummonHobbits
 		SpecialPowerTemplate = SpellBookArnorSummonHobbits
-		OCL                  = OCL_SpawnArnorHobbitBowEgg
+		OCL                  = OCL_SpawnArnorLindonSummon
                 TriggerFX            = FX_HobbitSummon
 		CreateLocation       = CREATE_AT_LOCATION
 		UpgradeName	     = Upgrade_HobbitFriends
