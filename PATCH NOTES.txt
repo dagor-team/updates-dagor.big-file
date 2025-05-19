@@ -1,132 +1,105 @@
-
 GENERAL
-	- new art mostly for new abilities
-	- all elite 3rd age cavalry damage nerf against buildings
-	- all regular cavalry - if more than 3 battalions at one spot will give progresively more experience when killed
-<<<<<<< Updated upstream
-	- Exp for 3000 hero and less has been reduced from level 1 and 7 but 8,9 and 10 still cost at much
-	- Champion units now level to 10 
-	- lone tower - grants a leadership and shoots upgraded arrows when you unlock new technology (so far only arnor and gondor)
-=======
->>>>>>> Stashed changes
-GONDOR	
-	Faramir - level 5 description fix
-		- level 6 optimized placement
-	Beregond - exp fix
-	Gondor citadel - new model
-	Citadel guard - ability description fix
-	Ithilien rangers - cost decrease to 600
-	Tower guards - damage nerf against heroes
-	Nargothrond Hammers - Revenge weapon added
-	Luthien and Isildur can now receive finarfins ring
-	The wihte tree now also buffs heroes
-ANGMAR
-	Witch-king - new level 3
-		   - level 5 significant damage nerf
-	Durmarth (warrior form) - level 8 passive nerfed to only apply to arrows
-				- level 10 passive nerfed radius and duration of the stun
-	Durmarth (gardist form) - level 8 passive nerfed to only apply to arrows
-	Thlim Doldron units (axemen and archers) - limited to 3
-	Snow trolls - movement fix
-ROHAN
-	Theoden revive fix + descriptions
-	Theodred - level 8 fix
-	Eowyn - leadership fix
-	Eomer - level 5 fix
-	      - level 8 damage nerf
-	Erkenbrand - Leadership fix
-	Helm spell - description fix
-	Haldir - description fix + new ability + leadership fix
-	Gamling - melee aoe slight increase
-	Taniquetil archers - damage nerf
-	Spear throwers - attacking distance fix
-	Cavalry archers - attacking distance fix
-	Royal Cav - capped to 4
-	Yavanna - death weapon removed
-		- summoned time reduce (3 -> 2m)
-	Meduseld Captain - Fixed, can now be selected with E without selecting other battalions
-	Eonwe - Elentari Starlight fixed
-
-
+	Cheap and expendable units give less xp when killed
+	Regular swordsmen slight armor buff against trample and monsters
+	All horse archers trample damage nerf
+	Trolls passive healing increased
+	Fixed possible bug abusing with hero takeovers
+	Flanking bonus for cavalry removed
+	Non monster heroes armor buff against arrows, armor nerf against pikemen and swordsmen
+	
+Gondor	
+	Cavalry shields moved to stables level 2
+	Fiefdom units all slight armor nerf
+	Dol amroth knights very slight health buff
+Angmar
+	Sorcerers limited to 2, corpse rain significant damage nerf
+	Rogash level 7 armor buff removed
+	Witchking slight health nerf, significant damage nerf
+	Black numenorian archers cp increase to 60
+	Beastmaster heal moved to level 3, transform to wolf moved to level 2, speed nerf
+	
+Rohan
+	Hurins slam damage buffed
+	Theoden cost increase, health nerf, slight damage nerf
+	Hama cost decrease
+	Gamling reworked
+	Eomer slight health nerf, damage nerf, level 2 xp bonus no longer applies to heroes
+	Erkenbrand slight health buff, significant cost increase, slight damage buff
+	Eowyn damage nerf, cost increase
+	Theodred aoe by default on basic attack, health nerf
+	Traitors are temporary (90 seconds), mount option removed
+	Taniquetil expeditionaries limited to 3, health and damage buff
+	Taniquetil guards, archers, captains health and damage buffed
+	
 Arnor 
-	Vardamir - rework
-	Tindomiel - new level 5
-	Elendil - rework
-	Lindon warriors - attacking distance fix with bow
-	Palantir guards - weapon switch fix
-	Palantir guards - revenge weapon buff
-	donkey riders - pathfinding fixed
-	Aranarth (ranger form) - level 5 and 10 damage buff after first age
-	Carthaen - XP fix
-	Earnur - level 2 fix
-	Araphant - Level 7 fix
-	Argeleb - rework
-	    -new ability level 5
-	    -Palace wealt 6->7
-	    -Stand 8->9
-	    -Bane of the Witchking: Split up into multiple leaderships across levels -> Second palantir
-	    -Original Leadership: 50%exp -> 100% exp and affects heroes
-	    -basic attacks deal area damage (like boromir)
-
-	Halbarad
-	    -Hidden debuff removed
-	    -Experience Leadership removed
-	    -Passive healing for units removed
-	    -Bombardment - CD decreased
-
-	Arvedui
-	    -New level 5 ability - Favour of the last King
-	              - gives an upgrade to every armor hero: READ DESCRIPTIONS
-	              - Multiple new abilities for Arnor
-	              - Armor upgrades for carthaen and Argeleb
-	              - Improved old abilities for Cirdan, Arraphant, arranarth
-	              - New passive abilities for Elendil, Earnur, Elros (second palantir), Tindomiel, Vardamir, Halbarad
-	              - New abilities for summoned heroes
+	Arnor archers significant health buff
+	Lindon is now summoned instead of the hobbits
+	
 Goblins
-	Basic goblins recruit time increase (15 -> 17s)
-	Goblin warg riders - cost increase (400 -> 450)
-	Gorkil  - level 2 damage boost nerf 
-		- scavanger value reduced (100 -> 60%)
-	Drogoth - level 4 fix
-	Ogre - come out as a horde from the fissure
-	New first age unit
+	Azog level 1 fixed, health and damage nerf
+	Balrog trample significant damage nerf
+	Goblin archers poison arrows damage nerf
+	Spider riders slight armor nerf
+	Bolg health nerf
+	Durburz armor buff, health nerf (without crown)
+	gorkil health nerf (without crown)
+	Gundabad bodyguards limited to 3
+	Creep and untaimed allegiance switched in the spellbook
+	Great goblin cost increase, health nerf
+	
 Mordor
-	Minas morgul fortress protecting fellbeast - kill xp reduced
-	Witch-king - level 9 longer cast time and smaller radius
-	Carcaroth - level 10 cd increase
-		  - level 6 damage increase
-	Spear throwers - range increase against cav archers
-	Glaurung - Level 10 no longer stuns heroes and valars
+	Armored trolls get significant bonuses after purchasing their chosen weapon
+	Harad archers significant health buff
+	Black uruk archers slight health nerf
+	Morgul orcs very slight armor nerf, significant damage buff
+	Dol guldur archers slight health nerf, damage buff
+	Cirith ungol pikemen slight damage buff
+	Dark marshal damage, health, price increased
+	Khamul without insignia morgul blade and dol guldur abilities switched, trample damage buff
+	Gorthaur flame pillar moved to level 9, fixed xp difference between him and necromancer
+	
 Loth
-	Thranduil - new level 10
-	Tauriel - new level 10
-	Mirkwood swordsmen - new formation
-	Menegroth scouts - buff + new level 7
-	Melian  - death weapon removed
-		- size increase significantly
-	Legolas - level 7 fix
-	Galadriel - death weapon removed
-	Thingol - level 3 and 6 cd decrease
-		- level 10 radius increase
+	Mirkwood spearmen cost lowered by 50 and slight damage buff
+	Galadrim armor nerf, slight health nerf
+	Border guards slight health nerf but deal more damage against trampling cavalry
+	Elk riders armor nerf and health nerf
+	Palace guards armor rebalance
+	Mirkwood swordsmen slight armor nerf
+	Ents stomp damage significantly increased
+	Haldir aoe removed from his sword, golden arrow fear duration decreased
+	Singers paralyze removed
+	
 Imladris
-	Imladris veterans - new ability
-<<<<<<< Updated upstream
-	Elrond vets - leadership now works 
-	Elrond - Now has Second Palantir with some reworked abilities
-	both Elrond and Gilgalads Palantir locked behind a purchase
-	Gilgalad can now pick the Ring
-	Gildgalad, Fingolfin, Glorfindel - removed some hidden leaderships, can no longer stun heroes and valars
-	Gilgalad new level 7 (now actually works)
-	Gilgalad debuff level 2 - duration fixed 90s -> 9s
-	Formenos archers - cap reduced 6 -> 5
-=======
->>>>>>> Stashed changes
+	Imladris units in general gain less bonus after purchasing heavy armor
+	Imladris archers golden tips damage bonus nerfed
+	Imladris pikes now cost 60 command points
+	Lore masters damage and range nerf
+	
 Isengard
-	Uruk crossbow capatain - new picture + ability fix
-	Saruman - level 7 rework
+	Vrasku new level 1 (level 3 removed)
+	Uruk captains reworked
+	Isengard pikemen slight damage nerf, moved to level 1 pit
+	Isengard crossbows moved to level 2 pit
+	Lurtz damage and health buff
+	Dunland brutes aoe with basic attacks removed
+	Menslayers aoe with basic attacks removed
+	Vampires require level 2 to swarm
+	Tol-in-gaurhoth sentinels charge fix
+	Draugluin level 6 cooldown increase
+	Dire wolfs damage nerf, armor nerf against swordsmen and slightly pikes
+	
 Dwarves
-	Thorins arkenstone buff new clear FX, fixed fear weapon
-	Bilbo - Level 2 cooldown decreased
-	Erebor axe throwers - damage nerf against heroes
-	Aglarond archers - significant damage nerf
-	Drár - level 3 fix
+	Aglarond hunters bow damage nerfed
+	Dwarven rune system revamped
+	Undermine and the lone tower are now one spellbook spell
+	Iron Hills
+		SpearThowers damage nerf both upgraded and unupgraded
+		Dragon slayers damage nerf of his mace
+		
+	Erebor
+		Brand cost decrease
+		 
+	Ered Luin
+		Bard cost decrease
+		Dwarven heroes speed increase
+		

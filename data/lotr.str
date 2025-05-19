@@ -13876,7 +13876,7 @@ CONTROLBAR:SpecialAbilitySangerinHymne
 END
 
 CONTROLBAR:ToolTipSpecialAbilitySangerinHymne
-"Requires: 3 Lothlorien Singers standing close together.\n A group of Lothlorien Singers sing praises towards their fair lady. \n They can not move for the duration of the song \n If only one Ministrel sings allies in the area cause +25% damage and gain +25% armor \n If 2 Ministrels sing allies in the area additionally cause +33% damage, gain +33% armor and speed and become resistant against fear \n If 3 Ministrels who stand close together sing, allies in the area are additionally invulnerable"
+"Requires: 3 Lothlorien Singers standing close together.\n A group of Lothlorien Singers sing praises towards their fair lady. \n They can not move for the duration of the song \n If only one Ministrel sings allies in the area cause +25% damage and gain +25% armor \n If 2 Ministrels sing allies in the area additionally cause +33% damage, gain +33% armor and speed and become resistant against fear"
 END
 
 CONTROLBAR:SpecialAbilitySangerinHymne_L
