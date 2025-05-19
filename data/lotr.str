@@ -2096,6 +2096,14 @@ CONTROLBAR:TooltipThorinIIIThronerbeEisenberge
 "As an aspiring master of the Iron Hills, Thorin's presence spurs the relentlessness of other dwarf heroes. \n Nearby heroes of the Iron Hills are resistant to recoil and are 25% faster \n Passive ability"
 END
 
+CONTROLBAR:SpecialAbilityThorinAntiAbility
+"Heir of Thorin Oakenshield"
+END
+
+CONTROLBAR:TooltipSpecialAbilityThorinAntiAbility
+"Thorin Stonehelm became King after the death of King Dain Ironfoot in the siege of Erebor. While under Siege he earned the respect of his fellow dwarves and men of dale. \n Nearby Allies are strengthened in spirit and morale and would follow Thorin into their death. Allies close to him can not be turned against each other or taken over  \n left click to activate"
+END
+
 CONTROLBAR:TooltipThorinIIIThronerbeEisenberge_Neu
 "As an aspiring master of the Iron Hills, Thorin's presence spurs the relentlessness of other dwarf heroes. \n\n Passive Effect: Nearby heroes of the Iron Hills are resistant to knockback and gain 20% more experience.\n\n Active Effect: The leadership is paused for 30 seconds and Thorin will not be knocked back. For this period, Thorin receives +50% armor and moves 30% faster. \n Left-click to activate"
 END
