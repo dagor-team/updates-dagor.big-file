@@ -3736,6 +3736,14 @@ TOOLTIP:AranarthsGetreue
 "The Faithful of Aranarth"
 END
 
+CONTROLBAR:ArnorSummonLindon
+"Aid from Lindon"
+END
+
+CONTROLBAR:ToolTipArnorSummonLindon
+"Summon a couple of Lindon lancers with an elven barracs from which elves of Lindon can be trained \n Left-click on the icon and then click passable area"
+END
+
 CONTROLBAR:ArnorSummonHobbits
 "Detachment from the Shire"
 END
@@ -7736,6 +7744,14 @@ END
 
 CONTROLBAR:SpecialAbilityThorinBlutrausch
 "Bloodlust"
+END
+
+CONTROLBAR:ThorinDesperateCry
+"Desperate &Cry"
+END
+
+CONTROLBAR:ToolTipThorinDesperateCry
+"Thorin in the despair of battle cries out loud causing enemies to cover in fear \n  Left-click to activate"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityThorinBlutrausch
