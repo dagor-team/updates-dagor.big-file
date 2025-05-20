@@ -6,6 +6,13 @@ GENERAL
 	Fixed possible bug abusing with hero takeovers
 	Flanking bonus for cavalry removed
 	Non monster heroes armor buff against arrows, armor nerf against pikemen and swordsmen
+	Heroes take far more damage by pikes when trampling
+	Heroes crush damage nerfed
+	some cav bugs fixed
+	farms give no xp to heroes
+	Camera settings removed from spell book
+	Some hotkeys fixed
+
 	
 Gondor	
 	Cavalry shields moved to stables level 2
@@ -23,6 +30,8 @@ Angmar
 	
 Rohan
 	Hurins slam damage buffed
+	Hurin pink horse fixed
+	Eonwe elentari starlight heavy nerf
 	Theoden cost increase, health nerf, slight damage nerf
 	Hama cost decrease
 	Gamling reworked
@@ -35,6 +44,8 @@ Rohan
 	Taniquetil guards, archers, captains health and damage buffed
 	Axemen speed nerf
 	Theoden the corrupted retreat ability duration nerf to 30s
+	Hero chasing speed decreased
+	Eomer fixed leaderships affecting heroes
 	
 Arnor 
 	Arnor archers significant health buff
@@ -75,6 +86,7 @@ Loth
 	Haldir aoe removed from his sword, golden arrow fear duration decreased
 	Singers paralyze removed
 	Mirkwood elites speed nerf, bouncing arrows only with ability
+	Celeborn hidden leadership removed, speed nerf
 	
 Imladris
 	Imladris units in general gain less bonus after purchasing heavy armor
@@ -82,6 +94,9 @@ Imladris
 	Imladris pikes now cost 60 command points
 	Lore masters damage and range nerf
 	Elrond disabled blademaster while having tornado active and vice versa
+	Heroes speed nerf
+	Erestor price increase, production of farm: -50%
+	Elrond no longer gains xp when summoning units
 	
 Isengard
 	Vrasku new level 1 (level 3 removed)
@@ -100,6 +115,7 @@ Dwarves
 	Aglarond hunters bow damage nerfed
 	Dwarven rune system revamped
 	Undermine and the lone tower are now one spellbook spell
+	Gandalf and Citadel spell switched again
 	Iron Hills
 		SpearThowers damage nerf both upgraded and unupgraded
 		Dragon slayers damage nerf of his mace
@@ -110,4 +126,5 @@ Dwarves
 	Ered Luin
 		Bard cost decrease
 		Dwarven heroes speed increase
+		Thorin aoe by default
 		
