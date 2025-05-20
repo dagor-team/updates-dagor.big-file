@@ -28050,11 +28050,11 @@ CONTROLBAR:LW_Unit_MordorGrishnak
 END
 
 CONTROLBAR:MordorGrishnakHotkey
-"G&rischn kh"
+"G&rischnakh"
 END
 
 CONTROLBAR:MordorGrishnakRecruit
-"Recruit the leader of the Orcs of Barad-Dur \n \n Lore: \n Grishn kh was an Orc captain from Barad-d r in the service of Sauron in the Third Age, who led a host of Mordor Orcs to join Saruman's Uruk-hai soldiers who were taking Merry and Pippin across the plain of Rohan to Isengard."
+"Recruit the leader of the Orcs of Barad-Dur \n \n Lore: \n Grishnakh was an Orc captain from Barad-dur in the service of Sauron in the Third Age, who led a host of Mordor Orcs to join Saruman's Uruk-hai soldiers who were taking Merry and Pippin across the plain of Rohan to Isengard."
 END
 
 CONTROLBAR:MordorGrishnakRevive
@@ -36406,6 +36406,10 @@ END
 
 CONTROLBAR:ToolTipToggleGKnightLineToWedgeFormation
 "+25% damage, -25% armor"
+END
+
+CONTROLBAR:ToolTipToggleGoatRWedgeToChargeFormation
+"+15% damage, -10% armor, -15% speed"
 END
 
 CONTROLBAR:ToolTipToggleLineToSpearheadFormation

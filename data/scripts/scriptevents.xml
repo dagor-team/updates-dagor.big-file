@@ -630,6 +630,12 @@
         <EventHandler EventName="ModelConditionNOTUSER_6"  ScriptFunctionName="OnKingAftermath" DebugSingleStep="false"/>
     </EventList>
 	
+	<EventList Name="FortressFunctions" Inherit="BaseScriptFunctions">
+        <EventHandler EventName="OnCreated"                ScriptFunctionName="OnFortressCreated" DebugSingleStep="false"/>
+        <EventHandler EventName="OnBeingStoned"            ScriptFunctionName="OnFortressstolenUpgrade" DebugSingleStep="false"/>
+        <EventHandler EventName="OnNotBeingStoned"         ScriptFunctionName="OnFortressstolenUpgradeAftermath" DebugSingleStep="false"/>
+	</EventList>
+	
     <EventList Name="HaradFortressFunctions" Inherit="HaradBuildingFunctions">
         <EventHandler EventName="OnCreated"                ScriptFunctionName="OnFortressCreated" DebugSingleStep="false"/>
         <EventHandler EventName="OnBeingStoned"            ScriptFunctionName="OnFortressstolenUpgrade" DebugSingleStep="false"/>
