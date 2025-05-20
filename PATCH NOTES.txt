@@ -12,7 +12,7 @@ GENERAL
 	farms give no xp to heroes
 	Camera settings removed from spell book
 	Some hotkeys fixed
-
+	Spear throwers damage nerf against heroes
 	
 Gondor	
 	Cavalry shields moved to stables level 2
@@ -120,6 +120,7 @@ Dwarves
 		SpearThowers damage nerf both upgraded and unupgraded
 		Dragon slayers damage nerf of his mace
 		ThorinIII new mithril ability
+		Goat riders new formation
 	Erebor
 		Brand cost decrease
 		ThorinIII new mithril ability
