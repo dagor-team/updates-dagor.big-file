@@ -36409,7 +36409,7 @@ CONTROLBAR:ToolTipToggleGKnightLineToWedgeFormation
 END
 
 CONTROLBAR:ToolTipToggleGoatRWedgeToChargeFormation
-"+15% damage, -10% armor, -15% speed"
+"+15% damage, -20% armor, 25% speed"
 END
 
 CONTROLBAR:ToolTipToggleLineToSpearheadFormation
