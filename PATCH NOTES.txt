@@ -3,7 +3,7 @@ GENERAL
 	Regular swordsmen slight armor buff against trample and monsters
 	All horse archers trample damage nerf
 	Trolls passive healing increased
-	Fixed possible bug abusing with hero takeovers
+	Fixed possible bug abusing with hero takeovers (making temporary takeovers permanent by switching object)
 	Flanking bonus for cavalry removed
 	Non monster heroes armor buff against arrows, armor nerf against pikemen and swordsmen
 	Heroes take far more damage by pikes when trampling
@@ -27,6 +27,7 @@ Angmar
 	Beastmaster heal moved to level 3, transform to wolf moved to level 2, speed nerf
 	Underworld dragons no longer knockdown heroes
 	Snowbind and fell wind switched in the spellbook
+	Dire wolfs damage nerf, armor nerf against swordsmen and slightly pikes, slight health nerf
 	
 Rohan
 	Hurins slam damage buffed
@@ -68,12 +69,13 @@ Mordor
 	Armored trolls get significant bonuses after purchasing their chosen weapon
 	Harad archers significant health buff
 	Black uruk archers slight health nerf
+	Black uruks level 3 lifesteal nerfed by half 
 	Morgul orcs very slight armor nerf, significant damage buff
 	Dol guldur archers slight health nerf, damage buff
 	Cirith ungol pikemen slight damage buff
 	Dark marshal damage, health, price increased
 	Khamul without insignia morgul blade and dol guldur abilities switched, trample damage buff
-	Gorthaur flame pillar moved to level 9, fixed xp difference between him and necromancer
+	Gorthaur tornado moved to level 9, fixed xp difference between him and necromancer
 	
 Loth
 	Mirkwood spearmen cost lowered by 50 and slight damage buff
@@ -109,7 +111,6 @@ Isengard
 	Vampires require level 2 to swarm
 	Tol-in-gaurhoth sentinels charge fix
 	Draugluin level 6 cooldown increase
-	Dire wolfs damage nerf, armor nerf against swordsmen and slightly pikes, slight health nerf
 	
 Dwarves
 	Aglarond hunters bow damage nerfed
@@ -127,5 +128,5 @@ Dwarves
 	Ered Luin
 		Bard cost decrease
 		Dwarven heroes speed increase
-		Thorin aoe by default
+		Thorin aoe by default + new ability
 		

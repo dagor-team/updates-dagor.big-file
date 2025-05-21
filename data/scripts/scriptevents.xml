@@ -195,6 +195,22 @@
         <ModelConditionEvent Name="ModelConditionNOTUSER_8">
                 <Conditions>-USER_8</Conditions>
         </ModelConditionEvent>
+		
+		<ModelConditionEvent Name="ModelConditionUSER_9">
+                <Conditions>+USER_9</Conditions>
+        </ModelConditionEvent>
+		
+		<ModelConditionEvent Name="ModelConditionNOTUSER_9">
+                <Conditions>-USER_9</Conditions>
+        </ModelConditionEvent>
+		
+		<ModelConditionEvent Name="ModelConditionUSER_10">
+                <Conditions>+USER_10</Conditions>
+        </ModelConditionEvent>
+		
+		<ModelConditionEvent Name="ModelConditionNOTUSER_10">
+                <Conditions>-USER_10</Conditions>
+        </ModelConditionEvent>
 
         <ModelConditionEvent Name="ModelConditionWEAPONSET_HERO_MODE">
                 <Conditions>+WEAPONSET_HERO_MODE</Conditions>
@@ -1016,8 +1032,8 @@
         <EventHandler EventName="UsingSpecialOne"        ScriptFunctionName="RadiateUncontrollableFear"    DebugSingleStep="false"/>
         <EventHandler EventName="ModelConditionUSER_3"     ScriptFunctionName="UnleashCurse" DebugSingleStep="false"/>
 		
-		<EventHandler EventName="ModelConditionWEAPONSET_HERO_MODE"  ScriptFunctionName="OrcristShow" DebugSingleStep="false"/>
-		<EventHandler EventName="ModelConditionNOTWEAPONSET_HERO_MODE"  ScriptFunctionName="OrcristHide" DebugSingleStep="false"/>
+		<EventHandler EventName="ModelConditionUSER_10"  ScriptFunctionName="OrcristShow" DebugSingleStep="false"/>
+		<EventHandler EventName="ModelConditionNOTUSER_10"  ScriptFunctionName="OrcristHide" DebugSingleStep="false"/>
     </EventList>
 
     <EventList Name="GamlingFunctions" Inherit="BaseScriptFunctions">

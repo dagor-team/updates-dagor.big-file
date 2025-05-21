@@ -9572,7 +9572,7 @@ CONTROLBAR:SpecialAbilityHauptmannHeiﬂblut
 END
 
 CONTROLBAR:ToolTipSpecialAbilityHauptmannHeiﬂblut
-"Requires: Level 2 \n The Uruk-hai Captain gains +100% damage and has +50% Armor \n Left-click to activate"
+"Requires: Level 5 \n The Uruk-hai Captain gains +100% damage and has +25% Armor \n Left-click to activate"
 END
 
 CONTROLBAR:OutOfFightHeal
@@ -16898,7 +16898,7 @@ CONTROLBAR:ToolTipUrukPikeHauptmann
 END
 
 CONTROLBAR:UrukFighterHauptmann
-"Mass Assault"
+"Bear For Impact"
 END
 
 CONTROLBAR:ToolTipUrukFighterHauptmann
@@ -36409,7 +36409,7 @@ CONTROLBAR:ToolTipToggleGKnightLineToWedgeFormation
 END
 
 CONTROLBAR:ToolTipToggleGoatRWedgeToChargeFormation
-"+15% damage, -20% armor, 25% speed"
+"-40% trample deceleration, -20% armor, 25% speed"
 END
 
 CONTROLBAR:ToolTipToggleLineToSpearheadFormation
@@ -86578,6 +86578,10 @@ CONTROLBAR:ToolTipSpecialAbilityAngmarChargeAttack
 "Requires: Level 2 \n Orders the Black Numenoreans to charge the enemy \n Black Numenoreans gain +50% damage and +50% armor \n Causes meta impact \n Left click icon then left click on target"
 END
 
+CONTROLBAR:ToolTipSpecialAbilityIsengardChargeAttack
+"Requires: Level 2 \n Isengard hordes charge the enemy \n gains +50% damage and +50% armor \n Causes meta impact \n Left click icon then left click on target"
+END
+
 CONTROLBAR:AngmarTrollChargeAttack
 "&Charge Attack"
 END
@@ -97148,7 +97152,7 @@ CONTROLBAR:ToolTipTolinGaurhothVampiresMinionsSpawn
 END
 
 TOOLTIP:LackUpgradeThuringwethilCreate
-"Requires: Thuringwethil on the battlefield"
+"Requires: Level 2"
 END
 
 CONTROLBAR:TolinGaurhothVampiresLeadership

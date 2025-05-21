@@ -41,7 +41,7 @@
     End
 
         Behavior = BannerCarrierUpdate Runesreplentish1UpdateModuleTag
-        IdleSpawnRate            = 1000
+        IdleSpawnRate            = 3000
         UnitSpawnFX              = FX_BannerCarrierSpawnUnit
         ReplenishNearbyHorde     = Yes
         ReplenishAllNearbyHordes = Yes
