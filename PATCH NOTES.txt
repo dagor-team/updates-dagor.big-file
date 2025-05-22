@@ -79,6 +79,7 @@ Mordor
 	Dark marshal damage, health, price increased
 	Khamul without insignia morgul blade and dol guldur abilities switched, trample damage buff
 	Gorthaur tornado moved to level 9, fixed xp difference between him and necromancer
+	3rd mumak pink Portrait fixed
 	
 Loth
 	Mirkwood spearmen cost lowered by 50 and slight damage buff
