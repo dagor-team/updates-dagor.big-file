@@ -10244,7 +10244,7 @@ CONTROLBAR:EffizienteErnte
 END
 
 CONTROLBAR:ToolTipEffizienteErnte
-"Requires: Level 2 \n Erestor's knowledge extends to the territory of the farm economy \n He can now apply that knowledge to farms, giving them experience \n Left-click on a friendly farm"
+"Requires: Level 3 \n Erestor's knowledge extends to the territory of the farm economy \n He can now apply that knowledge to farms, giving them experience \n Left-click on a friendly farm"
 END
 
 CONTROLBAR:SpecialAbilityErestorsFarm
@@ -10252,7 +10252,7 @@ CONTROLBAR:SpecialAbilityErestorsFarm
 END
 
 CONTROLBAR:ToolTipSpecialAbilityErestorsFarm
-"Erestor spends a lot of his time studying in the beautiful gardens of the last homely house,\n so much so that elrond designated a whole garden just for him.\n \n Erestor summons a garden house that provides resources, but also gives him experience.\n Left-click on a target area"
+"Erestor spends a lot of his time studying in the beautiful gardens of the last homely house,\n so much so that elrond designated a whole garden just for him.\n \n Erestor summons a garden house that provides resources, but also grants him experience.\n Left-click on a target area"
 END
 
 CONTROLBAR:ErestorZweiteReihe
