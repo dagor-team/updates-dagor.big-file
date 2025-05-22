@@ -211,8 +211,8 @@ CommandSet BelegostFortressCommandSet
        27      = Command_FakeHeroReviveSlot9
        28      = Command_FakeHeroReviveSlot18
        29      = Command_FakeHeroReviveSlot19
-       30      = Command_FakeHeroReviveSlot20
-       31      = Command_GenericReviveSlot21
+       30      = Command_GenericReviveSlot20
+       31      = Command_FakeHeroReviveSlot21
 
     32  = Command_SummonValinorAule
     33  = Command_RadialBack
@@ -251,8 +251,8 @@ CommandSet BelegostFortressCommandSetLevel2
        27      = Command_FakeHeroReviveSlot9
        28      = Command_FakeHeroReviveSlot18
        29      = Command_FakeHeroReviveSlot19
-       30      = Command_FakeHeroReviveSlot20
-       31      = Command_GenericReviveSlot21
+       30      = Command_GenericReviveSlot20
+       31      = Command_FakeHeroReviveSlot21
        
     32  = Command_SummonValinorAule
     33  = Command_RadialBack
@@ -291,8 +291,8 @@ InitialVisible = 4
        27      = Command_FakeHeroReviveSlot9
        28      = Command_FakeHeroReviveSlot18
        29      = Command_FakeHeroReviveSlot19
-       30      = Command_FakeHeroReviveSlot20
-       31      = Command_GenericReviveSlot21
+       30      = Command_GenericReviveSlot20
+       31      = Command_FakeHeroReviveSlot21
        
     32  = Command_SummonValinorAule
     33  = Command_RadialBack
@@ -331,8 +331,8 @@ InitialVisible = 4
        27      = Command_FakeHeroReviveSlot9
        28      = Command_FakeHeroReviveSlot18
        29      = Command_FakeHeroReviveSlot19
-       30      = Command_FakeHeroReviveSlot20
-       31      = Command_GenericReviveSlot21
+       30      = Command_GenericReviveSlot20
+       31      = Command_FakeHeroReviveSlot21
        
     32  = Command_SummonValinorAule
     33  = Command_RadialBack
@@ -371,8 +371,8 @@ CommandSet BelegostFortressCommandSetLevel5
        27      = Command_FakeHeroReviveSlot9
        28      = Command_FakeHeroReviveSlot18
        29      = Command_FakeHeroReviveSlot19
-       30      = Command_FakeHeroReviveSlot20
-       31      = Command_GenericReviveSlot21
+       30      = Command_GenericReviveSlot20
+       31      = Command_FakeHeroReviveSlot21
        
     32  = Command_SummonValinorAule
     33  = Command_RadialBack

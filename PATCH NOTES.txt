@@ -51,6 +51,8 @@ Rohan
 Arnor 
 	Arnor archers significant health buff
 	Lindon is now summoned instead of the hobbits
+	Fixed multi select on Summoned units
+	Fixed fortress door appearing randomly
 	
 Goblins
 	Azog level 1 fixed, health and damage nerf
@@ -64,6 +66,7 @@ Goblins
 	Creep and untaimed allegiance switched in the spellbook
 	Great goblin cost increase, health nerf
 	Buhrdur armor buff
+	Fixed multi select on lugdush archers
 	
 Mordor
 	Armored trolls get significant bonuses after purchasing their chosen weapon
@@ -97,8 +100,9 @@ Imladris
 	Lore masters damage and range nerf
 	Elrond disabled blademaster while having tornado active and vice versa
 	Heroes speed nerf
-	Erestor price increase, production of farm: -50%
+	Erestor price increase, production of farm: -50%, eco xp -> lvl3.
 	Elrond no longer gains xp when summoning units
+	Fixed multi select on erestors horde
 	
 Isengard
 	Vrasku new level 1 (level 3 removed)
