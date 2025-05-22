@@ -2101,7 +2101,7 @@ CONTROLBAR:SpecialAbilityThorinAntiAbility
 END
 
 CONTROLBAR:TooltipSpecialAbilityThorinAntiAbility
-"Thorin Stonehelm became King after the death of King Dain Ironfoot in the siege of Erebor. While under Siege he earned the respect of his fellow dwarves and men of dale. \n Nearby Allies are strengthened in spirit and morale and would follow Thorin into their death. Allies close to him can not be turned against each other or taken over  \n left click to activate"
+"Requires: Level 5 \n Thorin Stonehelm became King after the death of King Dain Ironfoot in the siege of Erebor. While under Siege he earned the respect of his fellow dwarves and men of dale. \n Nearby Allies are strengthened in spirit and morale and would follow Thorin into their death. Allies close to him can not be turned against each other or taken over  \n left click to activate"
 END
 
 CONTROLBAR:TooltipThorinIIIThronerbeEisenberge_Neu
@@ -3313,7 +3313,7 @@ CONTROLBAR:ToolTipSpecialAbilityGamlingKompanie
 END
 
 CONTROLBAR:SpecialAbilityErkenbrandExileCharge
-"Charge of the Exiled"
+"Charge of the Westfold"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityErkenbrandExileCharge
@@ -4593,7 +4593,7 @@ CONTROLBAR:DwarvenOriRecruit
 END
 
 CONTROLBAR:SpecialAbilityOriMacht
-"Power"
+"Rune of Power"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityOriMacht
@@ -4601,7 +4601,7 @@ CONTROLBAR:ToolTipSpecialAbilityOriMacht
 END
 
 CONTROLBAR:SpecialAbilityOriAusdauer
-"Endurance"
+"Rune of Endurance"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityOriAusdauer
@@ -4609,7 +4609,7 @@ CONTROLBAR:ToolTipSpecialAbilityOriAusdauer
 END
 
 CONTROLBAR:SpecialAbilityOriZorn
-"Wrath"
+"Rune of Wrath"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityOriZorn
@@ -4617,7 +4617,7 @@ CONTROLBAR:ToolTipSpecialAbilityOriZorn
 END
 
 CONTROLBAR:SpecialAbilityOriSchicksal
-"Fate"
+"Rune of Fate"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityOriSchicksal
@@ -16194,7 +16194,7 @@ CONTROLBAR:ToolTipSpecialAbilityTheodredSentryPoint
 END
 
 CONTROLBAR:SpecialAbilityZwergenRuneUnantastbarkeit
-"Sanctity"
+"Rune of Sanctity"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityZwergenRuneUnantastbarkeit
@@ -16202,7 +16202,7 @@ CONTROLBAR:ToolTipSpecialAbilityZwergenRuneUnantastbarkeit
 END
 
 CONTROLBAR:SpecialAbilityZwergenRuneInspiration
-"Inspiration"
+"Rune of Inspiration"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityZwergenRuneInspiration
@@ -16210,7 +16210,7 @@ CONTROLBAR:ToolTipSpecialAbilityZwergenRuneInspiration
 END
 
 CONTROLBAR:SpecialAbilityZwergenRuneKraft
-"Force"
+"Rune of Force"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityZwergenRuneKraft
@@ -16218,7 +16218,7 @@ CONTROLBAR:ToolTipSpecialAbilityZwergenRuneKraft
 END
 
 CONTROLBAR:SpecialAbilityZwergenRuneProduktivitat
-"Productivity"
+"Rune of Productivity"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityZwergenRuneProduktivitat
@@ -42736,7 +42736,7 @@ CONTROLBAR:RunesOfPower
 END
 
 CONTROLBAR:TooltipRunesOfPower
-"The dwarves laid mighty runes upon their works that could strengthen body, mind and stone. \n You can now enchant units, heros and structures \n Pick the Runes of your desire in the Mausoleum of Durin"
+"The dwarves laid mighty runes upon their works that could strengthen body, mind and stone. \n You can now enchant units, heros and structures \n Pick the Runes of your desire in the Mausoleum of Durin. \n Each runes costs one power point"
 END
 
 CONTROLBAR:ArrowVolley
