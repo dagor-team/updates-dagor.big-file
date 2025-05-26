@@ -9936,7 +9936,7 @@ CONTROLBAR:SpecialAbilityBannerderOrkhordeKing
 END
 
 CONTROLBAR:ToolTipSpecialAbilityBannerderOrkhordeKing
-"All Goblin hordes in Durburz's vicinity are provided with a Banner Carrier in order to unite the forces into organized battalions \n Left-click to activate"
+"All Goblin hordes in Durburz's vicinity are provided with a Banner Carrier in order to unite the forces into organized battalions \n Passive: requires: Army Of The Past Ages \n all Durgnabash goblins and half trolls gain 25% armor, 33 additional damage and resistance to knockback but are 20% slower\n Left-click to activate"
 END
 
 CONTROLBAR:TheElfRing
