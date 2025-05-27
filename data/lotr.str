@@ -2273,7 +2273,7 @@ CONTROLBAR:ToolTipDrohungderNazgul_Neu
 END
 
 CONTROLBAR:ToolTipBlackRiderMorgulBlade_DunklerMarshallNeu
-"Requires: Level 8 \n The targeted enemy suffers persistent poison damage and slowly slips into the Shadowworld. After his or her death, the enemy becomes an allied spirit of the Shadowrealm, which is invisible to the eyes of the enemy and can neither attacked nor be attacked\n Left-click on the icon and then click the target"
+"Requires: Level 4 \n The targeted enemy suffers persistent poison damage and slowly slips into the Shadowworld. After his or her death, the enemy becomes an allied spirit of the Shadowrealm, which is invisible to the eyes of the enemy and can neither attacked nor be attacked\n Left-click on the icon and then click the target"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityDieStundedesHexenkonigs_Neu
@@ -2297,7 +2297,7 @@ CONTROLBAR:TooltipSpecialAbilityBlackriderGeisterform_Neu
 END
 
 CONTROLBAR:ToolTipSchattenfurstMorgulBladeNeu
-"Requires: Level 8 \n The Shadow Prince strikes an enemy unit with his unholy blade\n The targeted enemy suffers persistent poison damage and slowly slips into the Shadowworld. After his or her death, the enemy becomes an allied spirit of the Shadowrealm, which is invisible to the eyes of the enemy and can neither attack nor be attacked\n Left-click on the icon and then click the target"
+"Requires: Level 4 \n The Shadow Prince strikes an enemy unit with his unholy blade\n The targeted enemy suffers persistent poison damage and slowly slips into the Shadowworld. After his or her death, the enemy becomes an allied spirit of the Shadowrealm, which is invisible to the eyes of the enemy and can neither attack nor be attacked\n Left-click on the icon and then click the target"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityDunklerMarschallMassakerNeu
@@ -9492,7 +9492,7 @@ CONTROLBAR:SchattenfurstMorgulBlade
 END
 
 CONTROLBAR:ToolTipSchattenfurstMorgulBlade
-"Requires: Level 8 \n Stab the targeted enemy with a Morgul Blade, poisoning them over time. If the unit dies while the effect is active, they will become a Lesser Wraith, which are invisible and cannot attack or be attacked \n Left click on the target"
+"Requires: Level 4 \n Stab the targeted enemy with a Morgul Blade, poisoning them over time. If the unit dies while the effect is active, they will become a Lesser Wraith, which are invisible and cannot attack or be attacked \n Left click on the target"
 END
 
 CONTROLBAR:ToolTipAngesichtDreadVisage_Schattenfurst
@@ -14540,7 +14540,7 @@ CONTROLBAR:TooltipScreechBlackRider_Khamul
 END
 
 CONTROLBAR:ToolTipBlackRiderMorgulBlade_Khamul
-"Requires: Level 7 \n The targeted enemy suffers persistent poison damage and slowly slips into the Shadowworld. After his or her death, the enemy becomes an allied spirit of the Shadowrealm, which is invisible to the eyes of the enemy and can neither be attacked nor attack itself \n Left-click on the icon and then click the target"
+"Requires: Level 4 \n The targeted enemy suffers persistent poison damage and slowly slips into the Shadowworld. After his or her death, the enemy becomes an allied spirit of the Shadowrealm, which is invisible to the eyes of the enemy and can neither be attacked nor attack itself \n Left-click on the icon and then click the target"
 END
 
 CONTROLBAR:TooltipSpecialAbilitySauronFlammenschlag
@@ -93034,7 +93034,7 @@ OBJECT:SpecialAbilityAuleStoneColumns
 End
 
 OBJECT:ToolTipSpecialAbilityAuleStoneColumns
-"Four stone Columns rise from ground \n Which Collapse upon the Enemy \n doing heavy damage. \n  Left click icon then left click on pathable location"
+"Four stone Columns rise from ground \n Which Collapse upon the Enemy \n doing heavy damage. \n Prevents enemies to use invulnerabilities to structures in range \n  Left click icon then left click on pathable location"
 End
 
 CONTROLBAR:SpecialAbilityValinorAuleQuickSand
