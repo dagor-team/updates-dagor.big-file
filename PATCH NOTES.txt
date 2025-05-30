@@ -1,137 +1,44 @@
 GENERAL
-	Cheap and expendable units give less xp when killed
-	Regular swordsmen slight armor buff against trample and monsters
-	All horse archers trample damage nerf
-	Trolls passive healing increased
-	Fixed possible bug abusing with hero takeovers (making temporary takeovers permanent by switching object)
-	Flanking bonus for cavalry removed
-	Non monster heroes armor buff against arrows, armor nerf against pikemen and swordsmen
-	Heroes take far more damage by pikes when trampling
-	Heroes crush damage nerfed
-	some cav bugs fixed
-	farms give no xp to heroes
-	Camera settings removed from spell book
-	Some hotkeys fixed
-	Spear throwers damage nerf against heroes
+	Pikes armor increase against cav archers
+	Buildings armor decrease against monster damage
 	
 Gondor	
-	Cavalry shields moved to stables level 2
-	Fiefdom units all slight armor nerf
-	Dol amroth knights very slight health buff
+	Gandalf armor nerf
 	
 Angmar
-	Sorcerers limited to 2, corpse rain significant damage nerf
-	Rogash level 7 armor buff removed
-	Witchking slight health nerf, significant damage nerf
-	Black numenorian archers cp increase to 60
-	Beastmaster heal moved to level 3, transform to wolf moved to level 2, speed nerf
-	Underworld dragons no longer knockdown heroes
-	Snowbind and fell wind switched in the spellbook
-	Dire wolfs damage nerf, armor nerf against swordsmen and slightly pikes, slight health nerf
+	
 	
 Rohan
-	Hurins slam damage buffed
-	Hurin pink horse fixed
-	Eonwe elentari starlight heavy nerf
-	Theoden cost increase, health nerf, slight damage nerf
-	Hama cost decrease
-	Gamling reworked
-	Eomer slight health nerf, damage nerf, level 2 xp bonus no longer applies to heroes
-	Erkenbrand slight health buff, significant cost increase, slight damage buff
-	Eowyn damage nerf, cost increase
-	Theodred aoe by default on basic attack, health nerf
-	Traitors are temporary (90 seconds), mount option removed
-	Taniquetil expeditionaries limited to 3, health and damage buff
-	Taniquetil guards, archers, captains health and damage buffed
-	Axemen speed nerf
-	Theoden the corrupted retreat ability duration nerf to 30s
-	Hero chasing speed decreased
-	Eomer fixed leaderships affecting heroes
+	
 	
 Arnor 
-	Arnor archers significant health buff
-	Lindon is now summoned instead of the hobbits
-	Fixed multi select on Summoned units
-	Fixed fortress door appearing randomly
+	
 	
 Goblins
-	Azog level 1 fixed, health and damage nerf
-	Balrog trample significant damage nerf
-	Goblin archers poison arrows damage nerf
-	Spider riders slight armor nerf
-	Bolg health nerf, speed nerf
-	Durburz armor buff, health nerf (without crown)
-	gorkil health nerf (without crown)
-	Gundabad bodyguards limited to 3
-	Creep and untaimed allegiance switched in the spellbook
-	Great goblin cost increase, health nerf
-	Buhrdur armor buff
-	Fixed multi select on lugdush archers
+	Scorpions reworked
+	Great goblins price reverted
 	
 Mordor
-	Armored trolls get significant bonuses after purchasing their chosen weapon
-	Harad archers significant health buff
-	Black uruk archers slight health nerf
-	Black uruks level 3 lifesteal nerfed by half 
-	Morgul orcs very slight armor nerf, significant damage buff
-	Dol guldur archers slight health nerf, damage buff
-	Cirith ungol pikemen slight damage buff
-	Dark marshal damage, health, price increased
-	Khamul without insignia morgul blade and dol guldur abilities switched, trample damage buff
-	Gorthaur tornado moved to level 9, fixed xp difference between him and necromancer
-	3rd mumak pink Portrait fixed
+	Suladan leadership nerfed
+	Saleme no longer deals friendly damage with poison
 	
 Loth
-	Mirkwood spearmen cost lowered by 50 and slight damage buff
-	Galadrim armor nerf, slight health nerf
-	Border guards slight health nerf but deal more damage against trampling cavalry
-	Elk riders armor nerf and health nerf
-	Palace guards armor rebalance
-	Mirkwood swordsmen slight armor nerf
-	Ents stomp damage significantly increased
-	Haldir aoe removed from his sword, golden arrow fear duration decreased
-	Singers paralyze removed
-	Mirkwood elites speed nerf, bouncing arrows only with ability
-	Celeborn hidden leadership removed, speed nerf
+	Mirkwood elites and silvan elves attack speed nerf
+	Elk riders armor decreased against monsters
+	Mablungs lvl 10 significantly buffed
+	Legolas health increased
 	
 Imladris
-	Imladris units in general gain less bonus after purchasing heavy armor
-	Imladris archers golden tips damage bonus nerfed
-	Imladris pikes now cost 60 command points
-	Lore masters damage and range nerf
-	Elrond disabled blademaster while having tornado active and vice versa
-	Heroes speed nerf
-	Erestor price increase, production of farm: -50%, eco xp -> lvl3.
-	Elrond no longer gains xp when summoning units
-	Fixed multi select on erestors horde
+	
 	
 Isengard
-	Vrasku new level 1 (level 3 removed)
-	Uruk captains reworked
-	Isengard pikemen slight damage nerf, moved to level 1 pit
-	Isengard crossbows moved to level 2 pit
-	Lurtz damage and health buff
-	Dunland brutes aoe with basic attacks removed
-	Menslayers aoe with basic attacks removed
-	Vampires require level 2 to swarm
-	Tol-in-gaurhoth sentinels charge fix
-	Draugluin level 6 cooldown increase
+	Shield uruk system reworked
+	Uruk captains take less damage from flanking
+	Vrasku level 1 damage increase
+	Shield uruk hordes speed increased
+	Vampires health nerfed
 	
 Dwarves
-	Aglarond hunters bow damage nerfed
-	Dwarven rune system revamped
-	Undermine and the lone tower are now one spellbook spell
-	Gandalf and Citadel spell switched again
-	Iron Hills
-		SpearThowers damage nerf both upgraded and unupgraded
-		Dragon slayers damage nerf of his mace
-		ThorinIII new mithril ability
-		Goat riders new formation
-	Erebor
-		Brand cost decrease
-		ThorinIII new mithril ability
-	Ered Luin
-		Bard cost decrease
-		Dwarven heroes speed increase
-		Thorin aoe by default + new ability
-		
+	Oin aoe with runes fixed
+	Oil casks friendly damage fixed
+	
