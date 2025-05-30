@@ -20171,7 +20171,7 @@ CONTROLBAR:LegendedesSchlangefursten
 END
 
 CONTROLBAR:ToolTipLegendedesSchlangefursten
-"The Legend of the Snake Prince is widespread in the countries of Middle-earth\n The Snake Prince of the East and South is worshiped as a deity\n\n Passive Ability:\nAllied heroes and units of the Men of the East near Suladan have +50% attack and defense, fearlessness, double XP, and are immune to poison damage.\n \n Active Ability:\n Left-click to mount or dismount his noble steed"
+"The Legend of the Snake Prince is widespread in the countries of Middle-earth\n The Snake Prince of the South is worshiped as a deity\n\n Passive Ability:\n Allied heroes and units of the Men of the East near Suladan have +25% damage and defense, fearlessness, double XP, and additional resistance to poison damage.\n \n Active Ability:\n Left-click to mount or dismount his noble steed"
 END
 
 CONTROLBAR:ToggleMountedSuladan
@@ -53847,7 +53847,7 @@ UPGRADE:GardenUpgradeGrandHarvest
 END
 
 UPGRADE:SchieldUrukFormations
-"Schield Uruk Formations"
+"Shield Uruk Combo Hordes"
 END
 
 UPGRADE:MarketplaceUpgradeDefiance
@@ -64962,11 +64962,19 @@ OBJECT:HordeIsengardFighter
 END
 
 CONTROLBAR:ConstructIsengardUrukHai
-"Uruk-hai Warriors (&W)"
+"Uruk-hai Warriors (&Q)"
 END
 
 CONTROLBAR:ToolTipBuildIsengardUrukHai
 "Unit Type: Regular Infantry \n Strong vs: Pikemen"
+END
+
+CONTROLBAR:ConstructIsengardFighterShieldurukComboHorde
+"Warriors Shield-Uruk Combo Horde (&Q)"
+END
+
+CONTROLBAR:ToolTipBuildIsengardFighterShieldurukComboHorde
+"Unit Type: Regular Swordsmen + Uruk Shield Bearers \n Strong vs: Pikemen"
 END
 
 BANNERUI:IsengardFighter
@@ -65003,11 +65011,19 @@ OBJECT:HordeIsengardPikemen
 END
 
 CONTROLBAR:ConstructIsengardPikemen
-"Uruk-hai Pikemen (&R)"
+"Uruk-hai Pikemen (&W)"
 END
 
 CONTROLBAR:ToolTipBuildIsengardPikemen
 "Unit Type: Regular Pikemen \n Strong vs: Cavalry and Monsters"
+END
+
+CONTROLBAR:ConstructIsengardPikemanShieldurukComboHorde
+"Pikemen Shield-Uruk Combo Horde (&W)"
+END
+
+CONTROLBAR:ToolTipBuildIsengardPikemanShieldurukComboHorde
+"Unit Type: Regular Pikemen + Uruk Shield Bearers \n Strong vs: Cavalry and Monsters"
 END
 
 BANNERUI:IsengardPikeman
@@ -65048,7 +65064,15 @@ CONTROLBAR:ConstructIsengardCrossbowmen
 END
 
 CONTROLBAR:ToolTipBuildIsengardCrossbowmen
-"Requires: Uruk Pit Level 2 \n Unit Type: Regular Archer \n Strong at Range"
+"Requires: Uruk Pit Level 2 \n Unit Type: Advanced Archers \n Strong at Range"
+END
+
+CONTROLBAR:ConstructIsengardCrossbowmen
+"Crossbowmen Shield-Uruk Combo Horde (&E)"
+END
+
+CONTROLBAR:ToolTipBuildIsengardShieldurukCrossbowComboHorde
+"Requires: Uruk Pit Level 2 \n Unit Type: Advanced Archers + Uruk Shield Bearers \n Strong at Range"
 END
 
 BANNERUI:IsengardUrukCrossbow

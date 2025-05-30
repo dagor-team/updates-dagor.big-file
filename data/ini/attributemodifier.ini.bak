@@ -14027,15 +14027,6 @@ ModifierList MordorEasterlingHordePorcupineBonus
     FX = FX_PorcupineSoldierOfRhun
 End
 
-
-ModifierList IsengardWargSkirmish
-    Category = FORMATION
-
-
-    Duration = 0
-End
-
-
 ModifierList IsengardWargLine
     Category = FORMATION
     Modifier = DAMAGE_MULT 50%
