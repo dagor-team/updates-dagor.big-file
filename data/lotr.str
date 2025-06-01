@@ -21319,7 +21319,7 @@ CONTROLBAR:ScorpionSlam
 END
 
 CONTROLBAR:ToolTipScorpionSlam
-"Requires: Level 2 \n Commands the giant scorpion, your enemies niederzurennen \n Left-click on the desired enemy target group"
+"Requires: Level 2 \n The giant scorpion sweeps his tail damaging and knocking back the enemies in front of him \n Left-click on the desired enemy target group"
 END
 
 OBJECT:ConstructWildScorpion
@@ -65067,7 +65067,7 @@ CONTROLBAR:ToolTipBuildIsengardCrossbowmen
 "Requires: Uruk Pit Level 2 \n Unit Type: Advanced Archers \n Strong at Range"
 END
 
-CONTROLBAR:ConstructIsengardCrossbowmen
+CONTROLBAR:ConstructIsengardShieldurukCrossbowComboHorde
 "Crossbowmen Shield-Uruk Combo Horde (&E)"
 END
 
