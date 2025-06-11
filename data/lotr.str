@@ -15141,7 +15141,7 @@ UPGRADE:RingHeroAblehnen
 END
 
 CONTROLBAR:ToolTipMagiedesgoldenenWaldes
-"Requires: Level 9 \n The Magic of Caras Galadhon penetrates the units of Lothlorien.\n They are temporarily invulnerable \n All units in a large radius are affected \n Left-click to activate"
+"Requires: Level 10 \n The Magic of Caras Galadhon penetrates the units of Lothlorien.\n They are temporarily invulnerable \n All units in a large radius are affected \n Left-click to activate"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityBlickderweiﬂenFrau

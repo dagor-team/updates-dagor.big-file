@@ -17,15 +17,15 @@
     Behavior = PassiveAreaEffectBehavior ModuleTag_SplashOfHealingWater_Rune
         EffectRadius         = 120
         PingDelay            = 1000
-        HealPercentPerSecond = 1%
-        AllowFilter          = ANY +HERO +INFANTRY -STRUCTURE -MACHINE ALLIES
+        HealPercentPerSecond = 0.5%
+        AllowFilter          = ANY -HERO +INFANTRY -STRUCTURE -MACHINE SAME_PLAYER
         HealFX               = FX_SpellHealUnitHealBuff
         UpgradeRequired = Upgrade_ZwergenschmiedReichtum ;SUB_L006D4C30:String (Upgrade)  
-        NonStackable = No
+        NonStackable = Yes
     End
 
     Behavior = BannerCarrierUpdate Runesreplentish1UpdateModuleTag
-        IdleSpawnRate            = 2000
+        IdleSpawnRate            = 5000
         UnitSpawnFX              = FX_BannerCarrierSpawnUnit
         ReplenishNearbyHorde     = Yes
         ReplenishAllNearbyHordes = Yes
