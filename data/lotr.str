@@ -141,11 +141,11 @@ CONTROLBAR:ToolTipLeadershipMallornSprouts
 END
 
 CONTROLBAR:LeadershipDiscountGaladrim
- "Galadrim Discount"
+ "Heavy Guard Duty"
 END
 
 CONTROLBAR:ToolTipLeadershipDiscountGaladrim
-"Requires: Level 2 Lothlorien Garden \n Galadrim are 25% cheaper \n Passive Ability"
+"All units in Lothlorien are 15% cheaper and train faster"
 END
 
 CONTROLBAR:LeadershipDiscountUpgrades
@@ -153,7 +153,7 @@ CONTROLBAR:LeadershipDiscountUpgrades
 END
 
 CONTROLBAR:ToolTipLeadershipDiscountUpgrades
-"Requires: Level 3 Lothlorien Garden \n Upgrades are 25% cheaper \n Passive Ability"
+"Upgrades are 25% cheaper \n Passive Ability"
 END
 
 //Spellbook
@@ -27593,7 +27593,7 @@ CONTROLBAR:SegenderNoldor
 END
 
 CONTROLBAR:ToolTipSegenderNoldor
-"Requires: Level 9 \n Ereinion leaves the soft darkness and enemies feel his unimaginable power \n Left-click on the target area"
+"Requires: Level 10 \n Ereinion leaves the soft darkness and enemies feel his unimaginable power \n Left-click on the target area"
 END
 
 CONTROLBAR:Firepower
@@ -27734,7 +27734,7 @@ CONTROLBAR:KonigderNoldor
 END
 
 CONTROLBAR:ToolTipKonigderNoldor
-"Imladris infantry lines gain 15% armor and damage around the returned King of the Noldor.\n Scales to 35% until Level 9.\n Passive ability \n\n Gilgalad switches palantir to Aeglos hidden powers. \n Gilgalad switches off of Aeglos powers.\n Left-click to switch"
+"Imladris regular melee infantry gain 33% armor around the returned King of the Noldor. \n Passive ability"
 END
 
 CONTROLBAR:GilgaladSpearThrust
@@ -27746,11 +27746,11 @@ CONTROLBAR:ToolTipGilgaladSpearThrust
 END
 
 CONTROLBAR:GilgaladAeglosSnow
-"Aeglos slow"
+"Aeglos Snow"
 END
 
 CONTROLBAR:TooltipGilgaladAeglosSnow
-"Requires: Level 2 \n Gil-Galad Thrusts his spear Aeglos dealing  damage and debuffing enimies in an area \n Left click on enemy target unit"
+"Requires: Level 3 \n Gil-Galad Thrusts his spear Aeglos dealing damage and debuffing enimies in an area \n Left click on enemy target unit"
 END
 
 CONTROLBAR:GilgaladsBodyguards
@@ -27774,7 +27774,7 @@ CONTROLBAR:GilgaladVilya
 END
 
 CONTROLBAR:ToolTipGilgaladVilya
-"Requires: Level 8 \n Gil-Galad uses the hidden power of the ring Vilya  \n Left click on enemy target unit"
+"Requires: Level 5 \n Gil-Galad uses the hidden power of the ring Vilya  \n Left click on enemy target unit"
 END
 
 CONTROLBAR:Sternenschild
@@ -27782,7 +27782,7 @@ CONTROLBAR:Sternenschild
 END
 
 CONTROLBAR:ToolTipSternenschild
-"Requires: Level 5 \n Gil-Galad uses his mighty shield star and gets briefly -75% speed and tenfold Armor \n Left click to activate"
+"Requires: Level 7 \n Gil-Galad uses his mighty shield star and gets briefly -75% speed and tenfold Armor \n Left click to activate"
 END
 
 CONTROLBAR:CirdanAthelas
@@ -57641,7 +57641,7 @@ CONTROLBAR:ConstructElvenMirkwoodArcherHorde
 END
 
 CONTROLBAR:ToolTipBuildElvenMirkwoodArcherHorde
-"Requires: Mirkwood Barracks Level 3 \n Unit Type: Elite Archer \n Strong at Range \n You can only train 3 battalions"
+"Requires: Mirkwood Barracks Level 3 and the Silverthorn Arrows technology \n Unit Type: Elite Archer \n Strong at Range \n You can only train 3 battalions"
 END
 
 BANNERUI:ElvenMirkwoodArcher
@@ -58300,11 +58300,11 @@ CONTROLBAR:HouseofTheGoldenFlower
 END
 
 CONTROLBAR:PurchaseHouseofTheGoldenFlower
-"House of The Golden Flower"
+"The King of Gondolin"
 END
 
 CONTROLBAR:ToolTipPurchaseHouseofTheGoldenFlower
-"Glorfindel was the lord of the house of the Golden flower in Gondolin during it's days of glory. \n This upgrade allows you to purchase Glorfindel. \n Excludes the ability to purchase Ecthelion."
+"Turgon was the king of Gondolin during it's days of glory. \n This upgrade allows you to recruit Turgon. \n Excludes the ability to purchase Ecthelion."
 END
 
 CONTROLBAR:HouseofTheSilverFount
@@ -58316,7 +58316,7 @@ CONTROLBAR:PurchaseHouseofTheSilverFount
 END
 
 CONTROLBAR:ToolTipPurchaseHouseofTheSilverFount
-"Ecthelion, Lord of the Silver Fount of Gondolin, was one of the most renowned captains of Gondolin, who slew Gothmog, the lieutenant of Morgoth. \n This upgrade allows you to purchase Ecthelion.\n Excludes the ability to purchase Glorfindel"
+"Ecthelion, Lord of the Silver Fount of Gondolin, was one of the most renowned captains of Gondolin, who slew Gothmog, the lieutenant of Morgoth. \n This upgrade allows you to recruit Ecthelion.\n Excludes the ability to purchase Turgon"
 END
 
 
@@ -66569,6 +66569,13 @@ END
 CONTROLBAR:ToolTipBuildGoblinFighterHorde_Neu
 "Requires: Cave must be built \n Unit Type: Basic Infantry \n Strong vs: Infantry"
 END
+
+CONTROLBAR:GorkilElite
+"Scorpion presence"
+End
+
+CONTROLBAR:ToolTipGorkilElite
+"Horrific combination only ever present under the command of Gorkil \n Enemy cavalry suffer the loss of 30% speed and trample 50% less \n Passive ability"
 
 BANNERUI:GoblinFighter
 "Goblin Warrior"
@@ -94842,7 +94849,7 @@ CONTROLBAR:BuildTaniquetilWatcherHorde
 END
 
 CONTROLBAR:ToolTipBuildTaniquetilWatcherHorde
-"Requires: Taniquetil Barracks Level 2 \n Unit Type: Elite Archer \n Strong vs: Depending on the situation \n Can switch between Sword and Bow"
+"Requires: Taniquetil Barracks Level 2 \n Unit Type: Elite Archer \n Strong vs: Depending on the situation \n Can switch between Sword and Bow \n You can maintain 6 battalions simultaneously"
 END
 
 CONTROLBAR:BuildTaniquetilCaptian
@@ -108900,7 +108907,7 @@ CONTROLBAR:AzogShout
 END
 
 CONTROLBAR:ToolTipAzogShout
-"Requires: Level 3 \n Azog releases terrible shout which echoes through battlefield, making enemies flee in terror \n Neaby allies gain 60% more damage and are 25% faster \n Left click on icon to activate"
+"Requires: Level 3 \n Azog releases terrible shout which echoes through battlefield \n Neaby allies gain 60% more damage and are 25% faster \n Left click on icon to activate"
 END
 
 CONTROLBAR:ToolTipArvelegShatterPalantir
