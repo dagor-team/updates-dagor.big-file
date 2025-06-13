@@ -1653,7 +1653,7 @@ CONTROLBAR:ToolTipHaldirWhiteArrow
 END
 
 CONTROLBAR:TooltipArwenAbendsternSpellbook_Neu
-"The hidden magic of the Evening Star is awakened and fulfills Arwen's soul \n Arwen can summon Strider at Level 8 \n Imladris cavalry all over the map has improved trample potential \n Passive ability"
+"The hidden magic of the Evening Star is awakened and fulfills Arwen's soul \n Arwen can summon Strider at Level 8 \n Arwen provides nearby Imladris heroes with +15% armor and 25% cooldown reduction on their abilitiies \n Passive ability"
 END 
 
 CONTROLBAR:ToolTipPurchaseUpgradeWildFortressDragonNest_forHeide_Neu
@@ -15141,7 +15141,7 @@ UPGRADE:RingHeroAblehnen
 END
 
 CONTROLBAR:ToolTipMagiedesgoldenenWaldes
-"Requires: Level 9 \n The Magic of Caras Galadhon penetrates the units of Lothlorien.\n They are temporarily invulnerable \n All units in a large radius are affected \n Left-click to activate"
+"Requires: Level 10 \n The Magic of Caras Galadhon penetrates the units of Lothlorien.\n They are temporarily invulnerable \n All units in a large radius are affected \n Left-click to activate"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityBlickderweiﬂenFrau
@@ -71300,7 +71300,7 @@ CONTROLBAR:GlorfindelCaptainOfGondolin
 END
 
 CONTROLBAR:ToolTipGlorfindelCaptainOfGondolin
-"Glorfindel was one of the mightiest lords and captains in Gondolin, and led the legion of the golden flower \n Glordindel summons a banner which grants himself, and imladris untis and heroes resistance to trample/crush damage and resistance to knock back and 10% armor within the radius (can be destroyed)"
+"Glorfindel was one of the mightiest lords and captains in Gondolin, and led the legion of the golden flower \n Glordindel summons a banner which grants himself, and nearby imladris untis and heroes +10% armor, knockback resistance, and immunity to trample \n (The banner can be destroyed)"
 END
 
 CONTROLBAR:GlorfindelBladeOfPurity
