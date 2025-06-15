@@ -14,30 +14,7 @@ CommandSet BalcmegCommandSet
     18   = Command_SetStanceHoldGround
 End
 
-
-
-
-
 CommandSet ImladrisFortressCommandset
-    InitialVisible = 2
-	1    = Command_PurchaseHouseofElrond
-	2    = Command_PurchaseHouseofGilgalad
-End
-
-CommandSet ImladrisFortressCommandset2
-    InitialVisible = 2
-	1    = Command_PurchaseHouseofTheGoldenFlowerElrond
-	2    = Command_PurchaseHouseofTheSilverFountElrond
-End
-
-CommandSet ImladrisFortressCommandset3
-    InitialVisible = 2
-	1    = Command_PurchaseHouseofTheGoldenFlowerGilgalad
-	2    = Command_PurchaseHouseofTheSilverFountGilgalad
-End
-
-
-CommandSet HouseofTheGoldenFlowerElrondCommandSet
     InitialVisible = 6
 
     1    = Command_RingMechanikImladris
@@ -67,114 +44,8 @@ CommandSet HouseofTheGoldenFlowerElrondCommandSet
        24    = Command_FakeHeroReviveSlot9
        25    = Command_GwaihirReviveSlot
        26    = Command_FakeHeroReviveSlot11
-       27    = Command_FakeHeroReviveSlot12
-	   28    = Command_FakeHeroReviveSlot13
-       29    = Command_RadialBack
-End
-
-CommandSet HouseofTheSilverFountElrondCommandSet
-    InitialVisible = 6
-
-    1    = Command_RingMechanikImladris
-    2    = Command_SpielsystemImladris
-    3    = Command_SelectUpgradesImladrisFaction
-    4    = Command_SelectRevivablesImladrisFortress
-    6    = Command_Sell
-
-    7     = Command_ConstructImladrisPorter
-    8     = Command_PurchaseUpgradeElvenFortressEnchantedAnvil
-    9     = Command_PurchaseUpgradeElvenFortressBlessedMist
-    10    = Command_PurchaseUpgradeElvenFortressCrystalMoat
-    11    = Command_PurchaseUpgradeElvenFortressMysticFountains
-    12    = Command_PurchaseUpgradeElvenFortressEaglesNest
-    13    = Command_RadialBack
-
-       14    = Command_FakeRingHeroReviveSlot
-       15    = Command_FakeCreateAHeroReviveSlot
-       16    = Command_GenericReviveSlot1
-       17    = Command_GenericReviveSlot2
-       18    = Command_GenericReviveSlot3
-       19    = Command_GenericReviveSlot4
-       20    = Command_FakeHeroReviveSlot5
-       21    = Command_FakeHeroReviveSlot6
-       22    = Command_GenericReviveSlot7
-       23    = Command_FakeHeroReviveSlot8
-       24    = Command_FakeHeroReviveSlot9
-       25    = Command_GwaihirReviveSlot
-       26    = Command_FakeHeroReviveSlot11
-       27    = Command_FakeHeroReviveSlot12
-	   28    = Command_GenericReviveSlot13
-       29    = Command_RadialBack
-End
-
-
-CommandSet HouseofTheGoldenFlowerGilgaladCommandSet
-    InitialVisible = 6
-
-    1    = Command_RingMechanikImladris
-    2    = Command_SpielsystemImladris
-    3    = Command_SelectUpgradesImladrisFaction
-    4    = Command_SelectRevivablesImladrisFortress
-    6    = Command_Sell
-
-    7     = Command_ConstructImladrisPorter
-    8     = Command_PurchaseUpgradeElvenFortressEnchantedAnvil
-    9     = Command_PurchaseUpgradeElvenFortressBlessedMist
-    10    = Command_PurchaseUpgradeElvenFortressCrystalMoat
-    11    = Command_PurchaseUpgradeElvenFortressMysticFountains
-    12    = Command_PurchaseUpgradeElvenFortressEaglesNest
-    13    = Command_RadialBack
-
-       14    = Command_FakeRingHeroReviveSlot
-       15    = Command_FakeCreateAHeroReviveSlot
-       16    = Command_FakeHeroReviveSlot1
-       17    = Command_GenericReviveSlot2
-       18    = Command_GenericReviveSlot3
-       19    = Command_GenericReviveSlot4
-       20    = Command_GenericReviveSlot5
-       21    = Command_FakeHeroReviveSlot6
-       22    = Command_GenericReviveSlot7
-       23    = Command_FakeHeroReviveSlot8
-       24    = Command_FakeHeroReviveSlot9
-       25    = Command_GwaihirReviveSlot
-       26    = Command_FakeHeroReviveSlot11
        27    = Command_GenericReviveSlot12
 	   28    = Command_FakeHeroReviveSlot13
-       29    = Command_RadialBack
-End
-
-CommandSet HouseofTheSilverFountGilgaladCommandSet
-    InitialVisible = 6
-
-    1    = Command_RingMechanikImladris
-    2    = Command_SpielsystemImladris
-    3    = Command_SelectUpgradesImladrisFaction
-    4    = Command_SelectRevivablesImladrisFortress
-    6    = Command_Sell
-
-    7     = Command_ConstructImladrisPorter
-    8     = Command_PurchaseUpgradeElvenFortressEnchantedAnvil
-    9     = Command_PurchaseUpgradeElvenFortressBlessedMist
-    10    = Command_PurchaseUpgradeElvenFortressCrystalMoat
-    11    = Command_PurchaseUpgradeElvenFortressMysticFountains
-    12    = Command_PurchaseUpgradeElvenFortressEaglesNest
-    13    = Command_RadialBack
-
-       14    = Command_FakeRingHeroReviveSlot
-       15    = Command_FakeCreateAHeroReviveSlot
-       16    = Command_FakeHeroReviveSlot1
-       17    = Command_GenericReviveSlot2
-       18    = Command_GenericReviveSlot3
-       19    = Command_GenericReviveSlot4
-       20    = Command_FakeHeroReviveSlot5
-       21    = Command_FakeHeroReviveSlot6
-       22    = Command_GenericReviveSlot7
-       23    = Command_FakeHeroReviveSlot8
-       24    = Command_FakeHeroReviveSlot9
-       25    = Command_GwaihirReviveSlot
-       26    = Command_FakeHeroReviveSlot11
-       27    = Command_GenericReviveSlot12
-	   28    = Command_GenericReviveSlot13
        29    = Command_RadialBack
 End
 
@@ -1629,7 +1500,7 @@ CommandSet FormenosFortressCommandSetLevel2
     3    = Command_SelectLibraryFormenos
     4    = Command_SelectUnitsFormenos
     5    = Command_UpgradeFormenosFortressLevel3
-    
+	
     6    = Command_SummonValinorTulkas
     7    = Command_RadialBack
     
@@ -1779,15 +1650,6 @@ CommandSet FormenosFortressCommandSetLevel5
        30    = Command_FakeHeroReviveSlot12
 	   31    = Command_FakeHeroReviveSlot13
        32    = Command_RadialBack
-End
-
-CommandSet LorienGardenCommandSet
-    1   = Command_LeadershipMallornSprouts
-    2   = Command_LeadershipDiscountGaladrim
-    3   = Command_LeadershipDiscountUpgrades
-    4   = Command_PurchaseUpgradeBundnisWaldelben_New
-	5   = Command_PurchaseGardenUpgradeGrandHarvest
-    6   = Command_Sell
 End
 
 CommandSet AngmarMorgramirCommandSetMod

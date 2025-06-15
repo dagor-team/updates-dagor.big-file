@@ -43,9 +43,9 @@
 #define EXPERIENCE_AWARD_BASIC_HORDE_5            7
 
 #define EXPERIENCE_AWARD_BASIC_10_HORDE_1            6
-#define EXPERIENCE_AWARD_BASIC_10_HORDE_2            6
+#define EXPERIENCE_AWARD_BASIC_10_HORDE_2            7
 #define EXPERIENCE_AWARD_BASIC_10_HORDE_3            7
-#define EXPERIENCE_AWARD_BASIC_10_HORDE_4            7
+#define EXPERIENCE_AWARD_BASIC_10_HORDE_4            8
 #define EXPERIENCE_AWARD_BASIC_10_HORDE_5            8
 
 ;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
