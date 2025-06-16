@@ -11222,7 +11222,7 @@ CONTROLBAR:SpawnWhiteTree
 END
 
 CONTROLBAR:ToolTipSpawnWhiteTree
-"Requires: Level 7\n Isildur, the presever of Nimloth the Fair in Numenor's dark days, summons the ancient tree.\n All allied units near the tree are healed and gain 20% armor and 40% resistance to magic.\n Left-click to summon"
+"Requires: Level 7 \n Isildur, the presever of Nimloth the Fair in Numenor's dark days, summons the ancient tree.\n All allies near the tree are healed and gain 20% armor and 40% resistance to magic.\n Left-click to summon"
 END
 
 OBJECT:WhiteTree
