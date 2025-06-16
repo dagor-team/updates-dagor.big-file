@@ -58906,7 +58906,7 @@ CONTROLBAR:BruchtalwachterHorde
 END
 
 CONTROLBAR:ToolTipBruchtalwachterHorde
-"Requires: Barracks Level 3 \n Unit Type: Elite Infantry \n Strong vs: Infantry and Heroes \n Imladris Library upgrades allows the Guardian to unlock special abilities \n You can only build 4 Guardians at the same time"
+"Requires: Barracks Level 2, Forged Blades and Elrond level 5 on the battlefield \n Unit Type: Elite Infantry \n Strong vs: Infantry and Heroes \n Imladris Library upgrades allows the Guardian to unlock special abilities \n You can only build 4 Guardians at the same time"
 END
 
 BANNERUI:Bruchtalwachter
@@ -58983,7 +58983,7 @@ CONTROLBAR:BuildElvenKnightHorde
 END
 
 CONTROLBAR:ToolTipBuildElvenKnightHorde
-"Requires: Green Pasture Level 3 and Wind Rider Shields \n Unit Type: Elite Cavalry \n Strong vs: Infantry, Cavalry and Heroes \n Imladris Library upgrades allow the battalion to unlock special abilities \n You can only train 3 battalions"
+"Requires: Green Pasture Level 3, Wind Rider Shields and Glorfindel level 5 \n Unit Type: Elite Cavalry \n Strong vs: Infantry, Cavalry and Heroes \n Imladris Library upgrades allow the battalion to unlock special abilities \n You can only train 3 battalions"
 END
 
 CONTROLBAR:ToolTipBuildElvenKnightHordeInn
@@ -106388,7 +106388,7 @@ CONTROLBAR:ConstructBruchtalVeteranHorde
 END
 
 CONTROLBAR:ToolTipBuildBruchtalVeteranHorde
-"Requires: Barracks Level 3, Helmets of the Last Alliance and Forged Blades \n Unit Type: Special Elite Infantry \n Strong vs: Everything \n You can only have a maximum of 3 veteran hordes at the same time"
+"Requires: Barracks Level 3, Helmets of the Last Alliance, Forged Blades and Gil Galad level 5 on the battlefield \n Unit Type: Special Elite Infantry \n Strong vs: Everything \n You can only have a maximum of 3 veteran hordes at the same time"
 END
 
 CONTROLBAR:LW_Unit_HordeBruchtalVeteran
