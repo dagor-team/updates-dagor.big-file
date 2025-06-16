@@ -751,7 +751,7 @@
 
     <EventList Name="GilGaladFunctions" Inherit="BaseScriptFunctions">
         <EventHandler EventName="BeScary" ScriptFunctionName="RadiateTerrorEx" DebugSingleStep="false"/>
-		<EventHandler EventName="DamageIncoming" ScriptFunctionName="4" DebugSingleStep="false"/>
+		<EventHandler EventName="DamageIncoming" ScriptFunctionName="GandalfConsiderUsingDefensePower" DebugSingleStep="false"/>
 		<EventHandler EventName="OnRing"      ScriptFunctionName="OnRingUpgrade" DebugSingleStep="false"/>
     </EventList>
 
