@@ -11229,8 +11229,12 @@ OBJECT:WhiteTree
 "Nimloth the Fair"
 END
 
+OBJECT:WhiteTreeBonus
+"Blossoms of the King"
+END
+
 OBJECT:WhiteTreeDescriptionNew
-"The ancient tree of Numenor\n Provides healing, +20% armor, and +40% magic resistance to nearby allied units."
+"The ancient tree of Numenor fills the hearts of Units and Heroes with hope \n Provides healing, +20% armor, and +40% magic resistance and faster gain of experience to nearby allies."
 END
 
 CONTROLBAR:SpecialAbilityNatursanktumZornderNatur
