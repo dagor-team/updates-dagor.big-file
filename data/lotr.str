@@ -11234,15 +11234,19 @@ CONTROLBAR:SpawnWhiteTree
 END
 
 CONTROLBAR:ToolTipSpawnWhiteTree
-"Requires: Level 7\n Isildur, the presever of Nimloth the Fair in Numenor's dark days, summons the ancient tree.\n All allied units near the tree are healed and gain 20% armor and 40% resistance to magic.\n Left-click to summon"
+"Requires: Level 7 \n Isildur, the presever of Nimloth the Fair in Numenor's dark days, summons the ancient tree.\n All allies near the tree are healed and gain 20% armor and 40% resistance to magic.\n Left-click to summon"
 END
 
 OBJECT:WhiteTree
 "Nimloth the Fair"
 END
 
+OBJECT:WhiteTreeBonus
+"Blossoms of the King"
+END
+
 OBJECT:WhiteTreeDescriptionNew
-"The ancient tree of Numenor\n Provides healing, +20% armor, and +40% magic resistance to nearby allied units."
+"The ancient tree of Numenor fills the hearts of Units and Heroes with hope \n Provides healing, +20% armor, and +40% magic resistance and faster gain of experience to nearby allies."
 END
 
 CONTROLBAR:SpecialAbilityNatursanktumZornderNatur
@@ -58922,7 +58926,7 @@ CONTROLBAR:BruchtalwachterHorde
 END
 
 CONTROLBAR:ToolTipBruchtalwachterHorde
-"Requires: Barracks Level 3 \n Unit Type: Elite Infantry \n Strong vs: Infantry and Heroes \n Imladris Library upgrades allows the Guardian to unlock special abilities \n You can only build 4 Guardians at the same time"
+"Requires: Barracks Level 2, Forged Blades and Elrond level 5 on the battlefield \n Unit Type: Elite Infantry \n Strong vs: Infantry and Heroes \n Imladris Library upgrades allows the Guardian to unlock special abilities \n You can only build 4 Guardians at the same time"
 END
 
 BANNERUI:Bruchtalwachter
@@ -58999,7 +59003,7 @@ CONTROLBAR:BuildElvenKnightHorde
 END
 
 CONTROLBAR:ToolTipBuildElvenKnightHorde
-"Requires: Green Pasture Level 3 and Wind Rider Shields \n Unit Type: Elite Cavalry \n Strong vs: Infantry, Cavalry and Heroes \n Imladris Library upgrades allow the battalion to unlock special abilities \n You can only train 3 battalions"
+"Requires: Green Pasture Level 3, Wind Rider Shields and Glorfindel level 5 \n Unit Type: Elite Cavalry \n Strong vs: Infantry, Cavalry and Heroes \n Imladris Library upgrades allow the battalion to unlock special abilities \n You can only train 3 battalions"
 END
 
 CONTROLBAR:ToolTipBuildElvenKnightHordeInn
@@ -106409,7 +106413,7 @@ CONTROLBAR:ConstructBruchtalVeteranHorde
 END
 
 CONTROLBAR:ToolTipBuildBruchtalVeteranHorde
-"Requires: Barracks Level 3, Helmets of the Last Alliance and Forged Blades \n Unit Type: Special Elite Infantry \n Strong vs: Everything \n You can only have a maximum of 3 veteran hordes at the same time"
+"Requires: Barracks Level 3, Helmets of the Last Alliance, Forged Blades and Gil Galad level 5 on the battlefield \n Unit Type: Special Elite Infantry \n Strong vs: Everything \n You can only have a maximum of 3 veteran hordes at the same time"
 END
 
 CONTROLBAR:LW_Unit_HordeBruchtalVeteran
