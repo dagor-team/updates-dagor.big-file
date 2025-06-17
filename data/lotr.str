@@ -977,11 +977,11 @@ CONTROLBAR:ToolTipDurinSummonSevenFathers
 END
 
 CONTROLBAR:SpellBookLothlorienPfeilsalve
-"Arrow Storm"
+"Golden Forest"
 END
 
 CONTROLBAR:TooltipSpellBookLothlorienPfeilsalve
-"Rains down a storm of arrows at the target location \n Left click on icon then left click on target area"
+"Summon a sacred tree of Lothlorien \n Left click on icon then left click on target area"
 END
 
 CONTROLBAR:SpellBookElberethGilthoniel
@@ -1427,11 +1427,11 @@ CONTROLBAR:RohanHurinHotkey
 End
 
 CONTROLBAR:RohanHurinRecruit
-"Recruit Hurin, Lord of Dor-lómin \n \n Lore:\n Hurin Thalion ("the Steadfast", "the Strong"), was the last Lord of Dor-lómin and one of the great heroes of Men during the First Age. He was the eldest son of Galdor and Hareth and the older brother of Huor. He was the father of Turin, Urwen and Nienor.\n Hurin was regarded as "the mightiest of warriors of mortal Men"[3] but also known for being the titular character of the tale, Narn i Ch n Hurin, "The Tale of the Children of Hurin". In the tale he was captured by Morgoth at the Nirnaeth Arnoediad and forced to reveal the secret location of Gondolin. He refused so the Dark Lord cursed his kin and imprisoned in Thangorodrim he watched the curse befall his children. The curse led to some of the greatest successes and tragedies of the First Age."
+"Recruit Hurin, Lord of Dor-lómin \n Class: Warrior \n \n Lore:\n Hurin Thalion ("the Steadfast", "the Strong"), was the last Lord of Dor-lómin and one of the great heroes of Men during the First Age. He was the eldest son of Galdor and Hareth and the older brother of Huor. He was the father of Turin, Urwen and Nienor.\n Hurin was regarded as "the mightiest of warriors of mortal Men"[3] but also known for being the titular character of the tale, Narn i Ch n Hurin, "The Tale of the Children of Hurin". In the tale he was captured by Morgoth at the Nirnaeth Arnoediad and forced to reveal the secret location of Gondolin. He refused so the Dark Lord cursed his kin and imprisoned in Thangorodrim he watched the curse befall his children. The curse led to some of the greatest successes and tragedies of the First Age."
 End
 
 CONTROLBAR:RohanHurinRevive
-"Revive Hurin"
+"Revive the fallen Hero, Hurin \n Class: Warrior"
 End
 
 CONTROLBAR:HelmLeadership
@@ -3153,7 +3153,7 @@ CONTROLBAR:ToolTipBeregondKommandantWeißeKompanie
 END
 
 CONTROLBAR:GondorBeregondRecruit_Neu
-"Recruit the Guard of the Citadel and faithful companion of Pippin and Faramir \n \n Lore: \n At some point in his life, Beregond became a Guard of the Citadel, serving in the Third Company. He never left Minas Tirith during his service in the guard before the War of the Ring. He was also a great admirer of Faramir, son of Denethor II, and perhaps one of his friends as well. When Peregrin Took came to the city in March 3019, Beregond and his son Bergil served as his guides in Minas Tirith. During the Siege of Gondor, Beregond received news from Pippin that Denethor intended to kill both himself and the seemingly-dead Faramir. Leaving his post, he fought the door guards of the place where Denethor had taken Faramir in order to reach him, until the arrival of Gandalf and Pippin, whereupon Faramir was saved. After protecting Faramir, he carried him to the Houses of Healing and stood guard over him until he awoke."
+"Recruit the Guard of the Citadel and faithful companion of Pippin and Faramir \n Class: Structure support/Hero support \n \n Lore: \n At some point in his life, Beregond became a Guard of the Citadel, serving in the Third Company. He never left Minas Tirith during his service in the guard before the War of the Ring. He was also a great admirer of Faramir, son of Denethor II, and perhaps one of his friends as well. When Peregrin Took came to the city in March 3019, Beregond and his son Bergil served as his guides in Minas Tirith. During the Siege of Gondor, Beregond received news from Pippin that Denethor intended to kill both himself and the seemingly-dead Faramir. Leaving his post, he fought the door guards of the place where Denethor had taken Faramir in order to reach him, until the arrival of Gandalf and Pippin, whereupon Faramir was saved. After protecting Faramir, he carried him to the Houses of Healing and stood guard over him until he awoke."
 END
 
 CONTROLBAR:ToolTipToggleberegondWeapon_Neu
@@ -4898,11 +4898,19 @@ OBJECT:ArnorAranarthPrinzEntscheidung
 END
 
 CONTROLBAR:ArnorAranarthRecruitPrinz
-"Recruit Arvedui's son, the Prince of Arnor, and lead him on the path to his destination \n \n Lore: \n Aranarth was the first of the Chieftains of the Dunedain, and would have been King of Arnor at the death of his father Arvedui, the last King of Arnor, had the North Kingdom not fallen. He also was chieftain for longer than any would be after him, ruling for 131 years. Aranarth was born in TA 1938 to Arvedui and F riel. In his youth, the Witch-king of Angmar was at the height of its power and destroyed the Northern Kingdom, overrunning its capital city Fornost. Most of the surviving people, including Aranarth, fled to Lindon, but King Arvedui went north to the Ice-Bay of Forochel. Aranarth urged Cirdan to send ships to rescue Arvedui, but this ship never returned. It was later learned that the ship had sunk with Arvedui on board as well as the Palantiri of the north."
+"Recruit Arvedui's son, the Prince of Arnor \n Class: Hero support \n\n Lore: \n Aranarth was the first of the Chieftains of the Dunedain, and would have been King of Arnor at the death of his father Arvedui, the last King of Arnor, had the North Kingdom not fallen. He also was chieftain for longer than any would be after him, ruling for 131 years. Aranarth was born in TA 1938 to Arvedui and F riel. In his youth, the Witch-king of Angmar was at the height of its power and destroyed the Northern Kingdom, overrunning its capital city Fornost. Most of the surviving people, including Aranarth, fled to Lindon, but King Arvedui went north to the Ice-Bay of Forochel. Aranarth urged Cirdan to send ships to rescue Arvedui, but this ship never returned. It was later learned that the ship had sunk with Arvedui on board as well as the Palantiri of the north."
+END
+
+CONTROLBAR:ArnorAranarthReviveDunedain
+"Revive the fallen Hero, Aranarth \n Class: Archer"
+END
+
+CONTROLBAR:ArnorAranarthRevivePrinz
+"Revive the fallen Hero, Aranarth \n Class: Hero support"
 END
 
 OBJECT:ArnorAranarthDunedain
-"Aranarth \n D nadain of the North"
+"Aranarth \n Dunadain of the North"
 END
 
 OBJECT:ArnorAranarthDunedainEntscheidung
@@ -7263,7 +7271,7 @@ CONTROLBAR:ToolTipHaldirBundnissPassiv
 END
 
 CONTROLBAR:RohanOldManRevive
-"Revive the fallen Theoden Corrupted"
+"Revive the fallen Hero, Theoden Corrupted \n Class: Faction leader/Army support"
 END
 
 CONTROLBAR:ToolTipBuildLothlorienHaldirsElvesHordeInnGasthaus_New
@@ -8035,7 +8043,7 @@ CONTROLBAR:AnfuhrerGaladhrim_New
 END
 
 CONTROLBAR:ToolTipAnfuhrerGaladhrim_New
-"Requires: Level 6 \n Haldir dons his battle armor and leads the Galadhrim in the battle \n Haldir gets +25% armor, allies near him get +30% attack \n Passive ability"
+"Requires: Level 4 \n Lothlorien Basic units gain +30% damage \n At level 6 Haldir dons his battle armor, getting +25% armor, Galadrim near him get +30% damage \n At level 8 his leadership is extended to troops from Mirkwood \n At level 10 it affects the Mirkwood elite archers and Menegroth elves \n Passive ability"
 END
 
 CONTROLBAR:ToolTipAnfuhrerGaladhrim_NewSummon
@@ -8371,11 +8379,11 @@ CONTROLBAR:WildDuhrburRevive
 END
 
 CONTROLBAR:GasthausGhanBuriGhanRecruit
-"Recruit the leader of the forest people \n \n Lore: \n Ghan-Buri-Ghan was the chief of the Dr edain living in the Dr adan Forest in the latter half of the Third Age. Ghan-Buri-Ghan's early history is unknown. He was best known for giving aid to King Theoden's relief army of Rohirrim to the aid of the city of Minas Tirith during the Siege of Gondor. He guided them through a safe path through the secret pass of Stonewain Valley to avoid being attacked by the Orcs, so they could safely reach Minas Tirith with reinforcements before it was conquered by the enemy. In return, Theoden promises that his people will make peace with the Dr edain, and that his people will battle and drive away the Gorg n (Orcs), that have been troubling the Dr edain for years. When Aragorn became King of the Reunited Kingdom, the Dr adan Forest officially belonged to Ghan-Buri-Ghan and his people, and no one could enter it without their permission."
+"Recruit the leader of the forest people \n Class: Archer/Army support \n\n Lore: \n Ghan-Buri-Ghan was the chief of the Dr edain living in the Dr adan Forest in the latter half of the Third Age. Ghan-Buri-Ghan's early history is unknown. He was best known for giving aid to King Theoden's relief army of Rohirrim to the aid of the city of Minas Tirith during the Siege of Gondor. He guided them through a safe path through the secret pass of Stonewain Valley to avoid being attacked by the Orcs, so they could safely reach Minas Tirith with reinforcements before it was conquered by the enemy. In return, Theoden promises that his people will make peace with the Dr edain, and that his people will battle and drive away the Gorg n (Orcs), that have been troubling the Dr edain for years. When Aragorn became King of the Reunited Kingdom, the Dr adan Forest officially belonged to Ghan-Buri-Ghan and his people, and no one could enter it without their permission."
 END
 
 CONTROLBAR:GasthausGhanBuriGhanRevive
-"Revive the fallen hero Ghan-Buri-Ghan"
+"Revive the fallen Hero, Ghan-Buri-Ghan \n Class: Archer/Army support"
 END
 
 INI:FactionEvilMen
@@ -9680,7 +9688,7 @@ CONTROLBAR:SpecialAbilityUglukRaserei
 END
 
 CONTROLBAR:ToolTipSpecialAbilityUglukRaserei
-"Requires: Level 3 \n Ugluk feasts on the blood of his enemies\n He gains life points equivalent to the damage he inflicts on enemies\n Left-click to activate"
+"Requires: Level 2 \n Ugluk feasts on the blood of his enemies\n He gains life points equivalent to the damage he inflicts on enemies\n Left-click to activate"
 END
 
 CONTROLBAR:TooltipBuildMordorCirithUngolPrisonLevel2Upgrade
@@ -10729,7 +10737,11 @@ OBJECT:ArnorAraphant
 END
 
 CONTROLBAR:ArnorAraphantRecruit
-"Recruit the father of Arvedui \n \n Lore: \n Araphant was a Dunedain of the North and the fourteenth King of Arthedain. Araphant was the son and heir of King Araval who came to the throne in TA 1891 at the death of his father. During his reign the the well-known seer Malbeth predicted regarding the fate of his son Arvedui. For some 5-hundred years, Arthedain held off the constant attacks of the evil realm of Angmar. Araphant continued fighting off these attacks with failing strength.Araphant died in TA 1964 after ruling for seventy-3 years, and was succeeded by his son Arvedui."
+"Recruit the father of Arvedui \n Class: Army support \n\n Lore: \n Araphant was a Dunedain of the North and the fourteenth King of Arthedain. Araphant was the son and heir of King Araval who came to the throne in TA 1891 at the death of his father. During his reign the the well-known seer Malbeth predicted regarding the fate of his son Arvedui. For some 5-hundred years, Arthedain held off the constant attacks of the evil realm of Angmar. Araphant continued fighting off these attacks with failing strength.Araphant died in TA 1964 after ruling for seventy-3 years, and was succeeded by his son Arvedui."
+END
+
+CONTROLBAR:ArnorAraphantRecruit
+"Revive the fallen Hero, Araphant \n Class: Army support"
 END
 
 CONTROLBAR:ArnorAraphantHotkey
@@ -10769,7 +10781,7 @@ CONTROLBAR:ToolTipArveduiHaltetStand
 END
 
 CONTROLBAR:GondorEarnurRecruit
-"Recruit the King of Gondor \n \n Lore: \n Earnur was the son of Earnil II. He was a great warrior and became a great leader of armies before he became King. His greatest victory was against Angmar in TA 1975 in the Battle of Fornost, in which he defeated the Witch-king, whom he intended to slay had his steed not panicked in terror of the Witch-king's darkness. It was to him that Glorfindel stated his prophecy that "not by the hand of men shall he fall" referring to the Witch-king as he fled from defeat. After becoming King in TA 2043, he was challenged by the Witch-king of Angmar, chief of the Ringwraiths, who then resided in Minas Morgul. Earnur, being quick to anger and wrath, would have accepted his challenge had the wise Steward Mardil Voronw  not held him back, and so the first challenge went unanswered. In TA 2050 a second challenge came, mocking Earnur, and Mardil was not able to stop Earnur from accepting the challenge. After entering the gates of Minas Morgul with a small escort, Earnur was never heard from again. His crown lay on his father's tomb in the Hallows of Minas Tirith."
+"Recruit the King of Gondor \n Class: Hero killer/Cavalry support \n \n Lore: \n Earnur was the son of Earnil II. He was a great warrior and became a great leader of armies before he became King. His greatest victory was against Angmar in TA 1975 in the Battle of Fornost, in which he defeated the Witch-king, whom he intended to slay had his steed not panicked in terror of the Witch-king's darkness. It was to him that Glorfindel stated his prophecy that "not by the hand of men shall he fall" referring to the Witch-king as he fled from defeat. After becoming King in TA 2043, he was challenged by the Witch-king of Angmar, chief of the Ringwraiths, who then resided in Minas Morgul. Earnur, being quick to anger and wrath, would have accepted his challenge had the wise Steward Mardil Voronw  not held him back, and so the first challenge went unanswered. In TA 2050 a second challenge came, mocking Earnur, and Mardil was not able to stop Earnur from accepting the challenge. After entering the gates of Minas Morgul with a small escort, Earnur was never heard from again. His crown lay on his father's tomb in the Hallows of Minas Tirith."
 END
 
 CONTROLBAR:EarnurTugenden
@@ -12611,7 +12623,7 @@ OBJECT:RohanOldman
 END
 
 CONTROLBAR:RohanOldManRecruit
-"Recruit Theoden the Corrupted, whose spirit was corrupted by Saruman \n Grima Wormtongue accompanies him on his way and whispers false words \n Theoden the Corrupted cannot attack or level up, but can perform various skills \n Many of his skills are tied to the environment \n \n Lore: \n By the time of the War of the Ring, Theoden had been king for nearly 40 years, and was becoming old and tired. He was increasingly misled by his chief adviser Gr ma (or Wormtongue as most others in the Mark called him), who was secretly in the employ of Saruman the White. Gr ma may even have been poisoning Theoden. In the last years before the War of the Ring, Theoden let his rule slip out of his hands, and Gr ma gained aNaincreasingly large hold over him. Rohan was troubled again by Orcs and Dunlendings as well as the new fighting Uruk-hai, who operated under the will of Saruman, ruling from Isengard."
+"Recruit Theoden the Corrupted, whose spirit was corrupted by Saruman \n Grima Wormtongue accompanies him on his way and whispers false words \n Theoden the Corrupted cannot attack or level up, but can perform various skills \n Many of his skills are tied to the environment \n Class: Faction leader/Army support \n \n Lore: \n By the time of the War of the Ring, Theoden had been king for nearly 40 years, and was becoming old and tired. He was increasingly misled by his chief adviser Gr ma (or Wormtongue as most others in the Mark called him), who was secretly in the employ of Saruman the White. Gr ma may even have been poisoning Theoden. In the last years before the War of the Ring, Theoden let his rule slip out of his hands, and Gr ma gained aNaincreasingly large hold over him. Rohan was troubled again by Orcs and Dunlendings as well as the new fighting Uruk-hai, who operated under the will of Saruman, ruling from Isengard."
 END
 
 CONTROLBAR:SpeerwerferEingezogen
@@ -17374,7 +17386,7 @@ CONTROLBAR:SelectRevivablesLothFortress
 END
 
 CONTROLBAR:ToolTipCommandSelectRevivablesLothFortress
-"Recruits Galadriel and Celeborn"
+"Recruits heroes of Lothlorien and Mirkwood"
 END
 
 CONTROLBAR:RinglotalHirluinRecruit
@@ -18802,7 +18814,11 @@ CONTROLBAR:DunedainArathornHotkey
 END
 
 CONTROLBAR:DunedainArathornRecruit
-"Recruit the father of Aragorn and Chieftain of the Dunedain"
+"Recruit the father of Aragorn and Chieftain of the Dunedain \n Class: Archer"
+END
+
+CONTROLBAR:DunedainArathornRevive
+"Revive the fallen Hero, Arathorn \n Class: Archer"
 END
 
 CONTROLBAR:EalendrilShieldBubbleEdain
@@ -22796,7 +22812,7 @@ OBJECT:GondorAragornsEntwicklung
 END
 
 CONTROLBAR:GondorAragornsEntwicklungRecruit
-"Recruit Strider, the ranger who will in time discover his legacy, earn the trust of mighty kingdoms, and become the King of Gondor \n \n Lore: \n Aragorn was a descendant of Elros Tar-Minyatur. His ancestor Arvedui was wedded to F riel, who was descended from Anarion, who bore their son Aranarth, making Aragorn the last descendant of Anarion as well. When he was only 2 years old, his father Arathorn was killed while pursuing orcs. Aragorn was afterwards fostered in Rivendell by Elrond. At the request of his mother, his lineage was kept secret, as she feared he would be killed like his father and grandfather if his true identity as the descendant of Elendil and Heir of Isildur became known. Aragorn was renamed Estel and was not told about his heritage until 2951. Elrond revealed to "Estel" his true name and ancestry when he was twenty, and gave to him the Ring of Barahir and the Shards of Narsil. Elrond withheld the Sceptre of Ann minas from Aragorn until he "came of the right" to possess the item. It was also around this time that Aragorn met and fell in love with Arwen, Elrond's daughter, newly returned from her mother's homeland of L rien where she had visited her grandmother Galadriel."
+"Recruit Strider, the ranger who will in time discover his legacy, earn the trust of mighty kingdoms, and become the King of Gondor \n Class: Warrior \n\n Lore: \n Aragorn was a descendant of Elros Tar-Minyatur. His ancestor Arvedui was wedded to Firiel, who was descended from Anarion, who bore their son Aranarth, making Aragorn the last descendant of Anarion as well. When he was only 2 years old, his father Arathorn was killed while pursuing orcs. Aragorn was afterwards fostered in Rivendell by Elrond. At the request of his mother, his lineage was kept secret, as she feared he would be killed like his father and grandfather if his true identity as the descendant of Elendil and Heir of Isildur became known. Aragorn was renamed Estel and was not told about his heritage until 2951. Elrond revealed to "Estel" his true name and ancestry when he was twenty, and gave to him the Ring of Barahir and the Shards of Narsil. Elrond withheld the Sceptre of Annuminas from Aragorn until he "came of the right" to possess the item. It was also around this time that Aragorn met and fell in love with Arwen, Elrond's daughter, newly returned from her mother's homeland of L rien where she had visited her grandmother Galadriel."
 END
 
 OBJECT:LindonHeavenArcher
@@ -23086,7 +23102,7 @@ OBJECT:CaptainCarthaenMod
 END
 
 CONTROLBAR:CaptainCarthaenRecruit
-"Recruit the Captain of Cardolan \n \n Lore: \n Karsh was originally of the race of Men as Captain Carthaen, a Captain of Arnor and was a celebrated leader of his time. He was a close friend of the last Prince of Cardolan and commander of the Dunedain Rangers, and aided him when Angmar attacked his realm. He fled, not because he was a coward but to protect the people of the land. He was one of the few soldiers of Cardolan who survived the onslaught. He defended Cardolan from the Witch-king and his servants, but during an assault on the Barrow-Downs, the burial grounds where the ancient Kings of Arnor lay, he failed, and at the end Carthaen fled for reinforcements. He returned with reinforcements to face Morgomirs' army and his necromancers, however they were also defeated. With his reinforcements dead, he retreated deeper into the land. He returned once more with more reinforcements, the majority of which were cavalry, when Morgomir sent his necromancers to the Hill of Kings. In this battle, he also, failed in defeating Angmar."
+"Recruit the Captain of Cardolan \n Class: Scout \n\n Lore: \n Karsh was originally of the race of Men as Captain Carthaen, a captain of Arnor and was a celebrated leader of his time. He was a close friend of the last Prince of Cardolan and commander of the Dunedain rangers, and aided him when Angmar attacked his realm. He fled, not because he was a coward but to protect the people of the land. He was one of the few soldiers of Cardolan who survived the onslaught. He defended Cardolan from the Witch-king and his servants, but during an assault on the Barrow-Downs, the burial grounds where the ancient Kings of Arnor lay, he failed, and at the end Carthaen fled for reinforcements. He returned with reinforcements to face Mornamarths army and his necromancers, however they were also defeated. With his reinforcements dead, he retreated deeper into the land. He returned once more with more reinforcements, the majority of which were cavalry, when Mornamarth sent his necromancers to the Hill of Kings. In this battle, he also, failed in defeating Angmar."
 END
 
 CONTROLBAR:CaptainCarthaenHotkey
@@ -23094,7 +23110,7 @@ CONTROLBAR:CaptainCarthaenHotkey
 END
 
 CONTROLBAR:CaptainCarthaenRevive
-"Summon the fallen hero Carthaen"
+"Summon the fallen hero Carthaen \n Class: Scout"
 END
 
 CONTROLBAR:TooltipSindarCry
@@ -23822,11 +23838,11 @@ CONTROLBAR:LW_Hero_DunedainHalbarad
 END
 
 CONTROLBAR:DunedainHalbaradRecruit
-"Recruit the Banner Bearer of the Dunedain \n \n Lore: \n Halbarad was a D nadan Ranger of the North, and one of Aragorn's comrades during the weeks leading up to Sauron's final demise. Halbarad accompanied Aragorn to a chamber high in the Hornburg where Aragorn looked into the Palantir and revealed himself to Sauron. That morning Aragorn decided to take the Paths of the Dead, down the Dimholt Road, under the White Mountains and Halbarad and the Grey Company went with him, along with Legolas and Gimli. When they reached the entrance at daybreak on March 8, Halbarad said, "This is an evil door, and my death lies beyond it. I will dare to pass it nonetheless..." At midnight at the Stone of Erech, Aragorn summoned the Dead to fulfill their oaths and Halbarad unfurled Aragorn's standard, which appeared black with no device in the darkness. The Grey Company and the Army of the Dead passed through the lands of the South to Pelargir, where they captured the fleet of the Corsairs. Aragorn dismissed the Dead, and the Grey Company sailed up the Anduin. When they arrived at the Pelennor Fields on March 15 in the midst of the battle, Aragorn's standard was once again unfurled but now it was seen to bear the emblem of the White Tree of Gondor and the 7 Stars and Crown of Elendil. Halbarad carried the standard onto the battlefield, where he was killed."
+"Recruit the Banner Bearer of the Dunedain \n Class: Army support \n \n Lore: \n Halbarad was a D nadan Ranger of the North, and one of Aragorn's comrades during the weeks leading up to Sauron's final demise. Halbarad accompanied Aragorn to a chamber high in the Hornburg where Aragorn looked into the Palantir and revealed himself to Sauron. That morning Aragorn decided to take the Paths of the Dead, down the Dimholt Road, under the White Mountains and Halbarad and the Grey Company went with him, along with Legolas and Gimli. When they reached the entrance at daybreak on March 8, Halbarad said, "This is an evil door, and my death lies beyond it. I will dare to pass it nonetheless..." At midnight at the Stone of Erech, Aragorn summoned the Dead to fulfill their oaths and Halbarad unfurled Aragorn's standard, which appeared black with no device in the darkness. The Grey Company and the Army of the Dead passed through the lands of the South to Pelargir, where they captured the fleet of the Corsairs. Aragorn dismissed the Dead, and the Grey Company sailed up the Anduin. When they arrived at the Pelennor Fields on March 15 in the midst of the battle, Aragorn's standard was once again unfurled but now it was seen to bear the emblem of the White Tree of Gondor and the 7 Stars and Crown of Elendil. Halbarad carried the standard onto the battlefield, where he was killed."
 END
 
 CONTROLBAR:DunedainHalbaradRevive
-"Summon the fallen hero Halbarad"
+"Revive the fallen hero, Halbarad \n Class: Army support"
 END
 
 CONTROLBAR:DunedainHalbaradHotkey
@@ -25924,7 +25940,7 @@ OBJECT:DwarvenGrimbeorn
 END
 
 CONTROLBAR:DwarvenGrimbeornRevive
-"Summon the fallen hero Grimbeorn"
+"Revive the fallen Hero, Grimbeorn \n Class: Warrior"
 END
 
 CONTROLBAR:DwarvenGrimbeornHotkey
@@ -25936,7 +25952,7 @@ CONTROLBAR:LW_Hero_DwarvenGrimbeorn
 END
 
 CONTROLBAR:DwarvenGrimbeornRecruit
-"Recruit the mighty Grimbeorn \n \n Lore: \n Grimbeorn, also known as Grimbeorn the Old, was Beorn's son. \n Grimbeorn's date of birth is unknown, but it was probably within the first few decades following the Battle of 5 Armies in TA 2941. Like his father, he could turNainto the shape of a bear, and he lived in the same regions as his father had in the Vales of Anduin. He took over as chieftain of the Beornings after his father's death. By the time of the Council of Elrond he was known as Grimbeorn the Old. As chieftain, he kept the High Pass and the Ford of Carrock free from Orcs and Wolves, though Gl in commented to Frodo Baggins that his tolls are high and he was not over fond of Dwarves. He was the chieftain of many stout Men and had some military power in the Vales of Anduin."
+"Recruit the mighty Grimbeorn \n Class: Warrior \n\n Lore: \n Grimbeorn, also known as Grimbeorn the Old, was Beorn's son. \n Grimbeorn's date of birth is unknown, but it was probably within the first few decades following the Battle of 5 Armies in TA 2941. Like his father, he could turn into the shape of a bear, and he lived in the same regions as his father had in the Vales of Anduin. He took over as chieftain of the Beornings after his father's death. By the time of the Council of Elrond he was known as Grimbeorn the Old. As chieftain, he kept the High Pass and the Ford of Carrock free from Orcs and Wolves, though Gl in commented to Frodo Baggins that his tolls are high and he was not over fond of Dwarves. He was the chieftain of many stout Men and had some military power in the Vales of Anduin."
 END
 
 CONTROLBAR:ConstructGrimbeorn
@@ -25944,11 +25960,11 @@ CONTROLBAR:ConstructGrimbeorn
 END
 
 CONTROLBAR:ToolTipBuildGrimbeorn
-"Recruit the son of Beorn"
+"Recruit the son of Beorn \n Class: Warrior"
 END
 
 CONTROLBAR:ToolTipBearTransform
-"Grimbeorn can turNainto a bear or human\n Bear transformation: Deals splash damage, can not use most skills, great defense against normal attacks, but weak against arrows and magic damage\n Human transformation: Can use all skills, resistant against magic damage and arrows, but weaker against normal attacks \n Left-click to activate"
+"Grimbeorn can turn into a bear or human\n Bear transformation: Deals splash damage, can not use most skills, great defense against normal attacks, but weak against arrows and magic damage\n Human transformation: Can use all skills, resistant against magic damage and arrows, but weaker against normal attacks \n Left-click to activate"
 END
 
 CONTROLBAR:GrimbeornDismount
@@ -27032,11 +27048,11 @@ OBJECT:RohanTheodred
 END
 
 CONTROLBAR:RohanTheodredRecruit
-"Recruit the son of the King of Rohan \n \n Lore: \n Theodred was a Prince of Rohan, and the only son and heir of King Theoden, who died during the time Theoden was under Saruman's spell. Theodred's mother Elfhild died giving birth to him. During the War of the Ring, Prince Theodred was the Second Marshal of Rohan and commanded western Rohan. He set Grimbold in command with fifty dismounted Riders, while Theodred himself manned the eyot, to cover Grimbold if he was driven back. Amidst the battle, Elfhelm found Grimbold fighting 2 axemen for Theodred's body. Theodred was slain by an Orc-maNain the First Battle of the Fords of Isen, and his body was defended by the marshal Grimbold. The death of Theodred made his cousin Eomer the heir to the throne of Rohan. Little else is known about him, except that he loved Eomer like a brother, and loved no one more except for Theoden."
+"Recruit the son of the King of Rohan \n Class: Warrior/Structure support \n\n Lore: \n Theodred was a Prince of Rohan, and the only son and heir of King Theoden, who died during the time Theoden was under Saruman's spell. Theodred's mother Elfhild died giving birth to him. During the War of the Ring, Prince Theodred was the Second Marshal of Rohan and commanded western Rohan. He set Grimbold in command with fifty dismounted Riders, while Theodred himself manned the eyot, to cover Grimbold if he was driven back. Amidst the battle, Elfhelm found Grimbold fighting 2 axemen for Theodred's body. Theodred was slain by an Orc-maNain the First Battle of the Fords of Isen, and his body was defended by the marshal Grimbold. The death of Theodred made his cousin Eomer the heir to the throne of Rohan. Little else is known about him, except that he loved Eomer like a brother, and loved no one more except for Theoden."
 END
 
 CONTROLBAR:RohanTheodredRevive
-"Summon the fallen hero Theodred"
+"Revive the fallen Hero, Theodred \n Class: Warrior/Structure support"
 END
 
 CONTROLBAR:RohanTheodredHotkey
@@ -27874,7 +27890,7 @@ OBJECT:LothlorienCirdan
 END
 
 CONTROLBAR:LothlorienCirdanRecruit
-"Recruit the Lord of Gray Havens \n \n Lore: \n Cirdan, also known as Now  and Cirdan the Shipwright, was a Telerin Elf (of which he was one of the wisest princes), a great mariner and shipwright in Middle-earth. Cirdan was the lord of the Falas and then of the Balar during much of the First Age, one of the wisest and perhaps the mightiest of the Moriquendi. He was the bearer of the Great Ring Narya, which he in turn gave to Gandalf. He was kin to both Elwe  and Olwe . He is one of the 3 oldest living elves in Middle-earth at the end of the Third Age, along with Galadriel and Celeborn, who were all born during the Years of the Trees. At the end of the Third Age, there were no other elves who had been alive at the start of the First Age. Cirdan is one of 2 elves, the other being Celeborn, to have spent the most time in Middle-Earth of any elf by being present in more ages than any other elf. Cirdan and Celeborn were in Arda from sometime late in the Years of the Trees, through the First Age, until the Fourth Age. Tolkien has written that Cirdan would sail on the last ship into the West, as he is the Lord of the Grey Havens. So, it can thus be known that Cirdan had the longest incarnated single life span of any elf, having entered Arda during the Years of the Trees and having left for Valinor later in the Fourth Age than any other Elf"
+"Recruit the Lord of Gray Havens \n Class: Warrior/Lindon support \n \n Lore: \n Cirdan, also known as Now  and Cirdan the Shipwright, was a Telerin Elf (of which he was one of the wisest princes), a great mariner and shipwright in Middle-earth. Cirdan was the lord of the Falas and then of the Balar during much of the First Age, one of the wisest and perhaps the mightiest of the Moriquendi. He was the bearer of the Great Ring Narya, which he in turn gave to Gandalf. He was kin to both Elwe  and Olwe . He is one of the 3 oldest living elves in Middle-earth at the end of the Third Age, along with Galadriel and Celeborn, who were all born during the Years of the Trees. At the end of the Third Age, there were no other elves who had been alive at the start of the First Age. Cirdan is one of 2 elves, the other being Celeborn, to have spent the most time in Middle-Earth of any elf by being present in more ages than any other elf. Cirdan and Celeborn were in Arda from sometime late in the Years of the Trees, through the First Age, until the Fourth Age. Tolkien has written that Cirdan would sail on the last ship into the West, as he is the Lord of the Grey Havens. So, it can thus be known that Cirdan had the longest incarnated single life span of any elf, having entered Arda during the Years of the Trees and having left for Valinor later in the Fourth Age than any other Elf"
 END
 
 CONTROLBAR:UglukBerserker
@@ -27894,7 +27910,7 @@ CONTROLBAR:ToolTipUglukBerserkerTruppen
 END
 
 CONTROLBAR:LothlorienCirdanRevive
-"Summon the fallen hero Cirdan"
+"Summon the fallen Hero, Cirdan \n Class: Warrior/Lindon support"
 END
 
 CONTROLBAR:LothlorienCirdanHotkey
@@ -27998,11 +28014,11 @@ OBJECT:Bilbo
 END
 
 CONTROLBAR:BilboRecruit
-"Recruit the brave fellow from the Shire \n \n Lore: \n Bilbo Baggins was born on September 22 by Shire Reckoning (around September 12-14 of our calendar), in the year 2890 of the Third Age. He was the only son of Bungo Baggins and Belladonna Took. When Bilbo's father and mother died in TA 2926 and TA 2934 respectively, Bilbo became his own master and spent the next 7 years living alone in Bag End. During this time, Bilbo grew fond of his life as a wealthy bachelor and acquired a reputation for respectability that the neighbors admired."
+"Recruit the brave fellow from the Shire \n Class: Scout/Hero support \n\n Lore: \n Bilbo Baggins was born on September 22 by Shire Reckoning (around September 12-14 of our calendar), in the year 2890 of the Third Age. He was the only son of Bungo Baggins and Belladonna Took. When Bilbo's father and mother died in TA 2926 and TA 2934 respectively, Bilbo became his own master and spent the next 7 years living alone in Bag End. During this time, Bilbo grew fond of his life as a wealthy bachelor and acquired a reputation for respectability that the neighbors admired."
 END
 
 CONTROLBAR:BilboRevive
-"Summon the fallen hero Bilbo Baggins"
+"Revive the fallen Hero, Bilbo Baggins \n Class: Scout/Hero support"
 END
 
 CONTROLBAR:BilboHotkey
@@ -28014,7 +28030,7 @@ OBJECT:GondorAnarion
 END
 
 CONTROLBAR:GondorAnarionHotkey
-"A&n rion"
+"A&narion"
 END
 
 CONTROLBAR:GondorAnarionRecruit
@@ -28038,11 +28054,11 @@ CONTROLBAR:MordorWitchkingHotkey
 END
 
 CONTROLBAR:MordorWitchkingRecruit
-"Recruit the leader of the Nazgul \n While all Ringwraiths generate their own power, they are tied to the mercy of the Dark Lord \n As Sauron grows in strength, the Nazgul will be able to fully embrace his darkness, unlocking their truest and darkest selves \n \n Lore: \n Having ruined the Dunedain kingdoms in Eriador, the Witch-king returned to Mordor. Although Sauron was still hiding in Dol Guldur (disguised as the Necromancer), the other 8 Nazgul rallied around the Witch-king. Together, the 9 of them laboured to rebuild their master's power in Mordor, gathering huge Orcish hordes about themselves. In the year TA 2000 they came out of Mordor and began attacking Gondor, which was recovered from the Great Plague but devastated by the Wainriders. In TA 2002 they captured Minas Ithil, and took the place for their own. It became known as Minas Morgul and its citadel "the Tower of Witchcraft", and remained a place of great evil for centuries thereafter."
+"Recruit the leader of the Nazgul \n Class: Warrior/Hero support \n\n Lore: \n While all Ringwraiths generate their own power, they are tied to the mercy of the Dark Lord \n As Sauron grows in strength, the Nazgul will be able to fully embrace his darkness, unlocking their truest and darkest selves \n \n Lore: \n Having ruined the Dunedain kingdoms in Eriador, the Witch-king returned to Mordor. Although Sauron was still hiding in Dol Guldur (disguised as the Necromancer), the other 8 Nazgul rallied around the Witch-king. Together, the 9 of them laboured to rebuild their master's power in Mordor, gathering huge Orcish hordes about themselves. In the year TA 2000 they came out of Mordor and began attacking Gondor, which was recovered from the Great Plague but devastated by the Wainriders. In TA 2002 they captured Minas Ithil, and took the place for their own. It became known as Minas Morgul and its citadel "the Tower of Witchcraft", and remained a place of great evil for centuries thereafter."
 END
 
 CONTROLBAR:MordorWitchkingRevive
-"Awaken the Witch-king of Angmar"
+"Revive the fallen Hero, Witch-king \n Class: Warrior/Hero support"
 END
 
 OBJECT:MordorGrishnak
@@ -28058,11 +28074,11 @@ CONTROLBAR:MordorGrishnakHotkey
 END
 
 CONTROLBAR:MordorGrishnakRecruit
-"Recruit the leader of the Orcs of Barad-Dur \n \n Lore: \n Grishnakh was an Orc captain from Barad-dur in the service of Sauron in the Third Age, who led a host of Mordor Orcs to join Saruman's Uruk-hai soldiers who were taking Merry and Pippin across the plain of Rohan to Isengard."
+"Recruit the leader of the Orcs of Barad-Dur \n Class: Army support/Hero killer \n \n Lore: \n Grishnakh was an Orc captain from Barad-dur in the service of Sauron in the Third Age, who led a host of Mordor Orcs to join Saruman's Uruk-hai soldiers who were taking Merry and Pippin across the plain of Rohan to Isengard."
 END
 
 CONTROLBAR:MordorGrishnakRevive
-"Summon the fallen hero Grischnakh"
+"Revive the fallen Hero, Grischnakh \n Class: Army support/Hero killer"
 END
 
 OBJECT:LothlorienGilGalad
@@ -28074,11 +28090,11 @@ CONTROLBAR:LothlorienGilGaladHotkey
 END
 
 CONTROLBAR:LothlorienGilGaladRecruit
-"Bring the King of the Noldor to life\n\n Lore:\n Ereinion Gil-galad, born Artan ro, was a  oldorin Elf and son to Orodreth. He was the last High King of the  Noldor in Middle-earth, and bore many titles, including High King of the Elves of the West, King of the Eldar, King of Lindon, Lord of the High Elves, and the Lord of Eriador.\n Gil-galad held the highest authority among the Elves he ruled and was respected by both the  Noldor and the Sindar, considered a "High King" of Elves in Middle-earth. He formed the Last Alliance of Elves and Men with King Elendil, and led the Elves to war against Sauron. His death in this war marked the end of the  oldorin Kingdoms in Middle-earth, although some  Noldor would remaiNain Imladris or the Grey Havens throughout the Third Age."
+"Recruit the King of the Noldor \n Class: Warrior/Army support \n\n Lore:\n Ereinion Gil-galad, born Artan ro, was a  oldorin Elf and son to Orodreth. He was the last High King of the  Noldor in Middle-earth, and bore many titles, including High King of the Elves of the West, King of the Eldar, King of Lindon, Lord of the High Elves, and the Lord of Eriador.\n Gil-galad held the highest authority among the Elves he ruled and was respected by both the  Noldor and the Sindar, considered a "High King" of Elves in Middle-earth. He formed the Last Alliance of Elves and Men with King Elendil, and led the Elves to war against Sauron. His death in this war marked the end of the  oldorin Kingdoms in Middle-earth, although some  Noldor would remaiNain Imladris or the Grey Havens throughout the Third Age."
 END
 
 CONTROLBAR:LothlorienGilGaladRevive
-"Summon the fallen king of the Noldor"
+"Revive the fallen Hero, Gil-Galad "
 END
 
 OBJECT:LothlorienOrophin
@@ -28098,11 +28114,11 @@ CONTROLBAR:LothlorienRumilHotkey
 END
 
 CONTROLBAR:LothlorienOrophinRecruit
-"Recruit the brothers of Haldir and scouts of Lothlorien"
+"Recruit the brothers of Haldir and scouts of Lothlorien \n Class: Scout"
 END
 
 CONTROLBAR:LothlorienOrophinRevive
-"Summon the fallen hero Orophin"
+"Revive the fallen Hero, Orophin \n Class: Scout"
 END
 
 OBJECT:LothlorienCeleborn
@@ -28114,11 +28130,11 @@ CONTROLBAR:LothlorienCelebornHotkey
 END
 
 CONTROLBAR:LothlorienCelebornRecruit
-"Recruit the Lord of Lothlorien \n \n Lore: \n Celeborn was the Lord of Lothlorien, and his wife was Galadriel, Lady of the Golden Wood. Celeborn was said to be one of the wisest Elves in Middle-earth at the end of the Third Age. During the War of the Ring, Celeborn defended Lothlorien and led the assault on the Enemy castle of Dol Guldur. He remained in Middle-earth for a time at the beginning of the Fourth Age, but eventually he joined his wife in the Undying Lands."
+"Recruit the Lord of Lothlorien \n Class: Army support/Hero killer \n \n Lore: \n Celeborn was the Lord of Lothlorien, and his wife was Galadriel, Lady of the Golden Wood. Celeborn was said to be one of the wisest Elves in Middle-earth at the end of the Third Age. During the War of the Ring, Celeborn defended Lothlorien and led the assault on the Enemy castle of Dol Guldur. He remained in Middle-earth for a time at the beginning of the Fourth Age, but eventually he joined his wife in the Undying Lands."
 END
 
 CONTROLBAR:LothlorienCelebornRevive
-"Summon the fallen hero Celeborn"
+"Revive the fallen Hero, Celeborn \n Class: Army support/Hero killer"
 END
 
 OBJECT:MordorShagrat
@@ -28166,11 +28182,11 @@ CONTROLBAR:GondorElendilHotkey
 END
 
 CONTROLBAR:GondorElendilRecruit
-"Recruit the first High King of the Dunedain\n Lore:\n Elendil, also known as Elendil the Tall/the Fair or Voronda ("The Faithful"), was a Man of Numenor and the father of Isildur and Anarion who led the survivors of its Downfall to the shores of Middle-earth where they founded two Realms in Exile, Arnor and Gondor. Thus, Elendil became the first King of both realms and held the title of first High King of the Dunedain, making him supreme overlord of all exiled N men reans in the lands east of the Great Sea. Elendil was killed alongside his friend, the High King Gil-galad, by the Dark Lord Sauron at the Siege of Barad-d r, in the War of the Last Alliance in the late Second Age."
+"Recruit the first High King of the Dunedain \n Class: Warrior/Army support \n\n Lore:\n Elendil, also known as Elendil the Tall/the Fair or Voronda ("The Faithful"), was a Man of Numenor and the father of Isildur and Anarion who led the survivors of its Downfall to the shores of Middle-earth where they founded two Realms in Exile, Arnor and Gondor. Thus, Elendil became the first King of both realms and held the title of first High King of the Dunedain, making him supreme overlord of all exiled Numenoreans in the lands east of the Great Sea. Elendil was killed alongside his friend, the High King Gil-galad, by the Dark Lord Sauron at the Siege of Barad-dur, in the War of the Last Alliance in the late Second Age."
 END
 
 CONTROLBAR:GondorElendilRevive
-"Summon the fallen hero Elendil"
+"Revive the fallen Hero, Elendil \n Class: Warrior/Army support"
 END
 
 OBJECT:ImladrisGwaihir
@@ -28190,7 +28206,7 @@ CONTROLBAR:ImladrisGwaihirRecruit
 END
 
 CONTROLBAR:ImladrisGwaihirRevive
-"Summon the fallen hero Gwaihir"
+"Revive the fallen Hero, Gwaihir"
 END
 
 OBJECT:GondorIsildur
@@ -28202,11 +28218,11 @@ CONTROLBAR:GondorIsildurHotkey
 END
 
 CONTROLBAR:GondorIsildurRecruit
-"Recruit the slayer of Sauron. \n\n Lore:\n Isildur was the oldest son of Elendil and the brother of Anarion. He and Anarion founded and jointly ruled Gondor in the south, while their father dwelt in Arnor in the north.In the War of the Last Alliance, Isildur cut the One Ring from Sauron's hand, but he refused to destroy it. Isildur was later killed by Orcs and the ring was lost in the Disaster of the Gladden Fields for nearly 2,500 years. His refusal to destroy the ring; allowed Sauron's spirit to endure and ensured that; he would remain a threat to Middle-earth for years to come. Isildur's bloodline survived in the Dunedain of the North and his heir would help end Sauron's power in the War of the Ring."
+"Recruit the slayer of Sauron. \n Class: Warrior/Hero killer \n\n Lore:\n Isildur was the oldest son of Elendil and the brother of Anarion. He and Anarion founded and jointly ruled Gondor in the south, while their father dwelt in Arnor in the north.In the War of the Last Alliance, Isildur cut the One Ring from Sauron's hand, but he refused to destroy it. Isildur was later killed by Orcs and the ring was lost in the Disaster of the Gladden Fields for nearly 2,500 years. His refusal to destroy the ring; allowed Sauron's spirit to endure and ensured that; he would remain a threat to Middle-earth for years to come. Isildur's bloodline survived in the Dunedain of the North and his heir would help end Sauron's power in the War of the Ring."
 END
 
 CONTROLBAR:GondorIsildurRevive
-"Summon the fallen hero Isildur"
+"Revive the fallen Hero, Isildur \n Class: Warrior/Hero killer"
 END
 
 CONTROLBAR:BuildCarasGaladhonWaechterHorde
@@ -28310,11 +28326,11 @@ OBJECT:RohanHama
 END
 
 CONTROLBAR:RohanHamaRecruit
-"Recruit the bodyguard of King Theoden \n \n Lore: \n H ma was a Man of Rohan and the doorward of the Meduseld and captain of Theoden's guard. H ma greeted Gandalf, Aragorn, Legolas and Gimli when they arrived to speak with King Theoden. He told the company to leave their weapons behind, by order of Grima Wormtongue, before entering the King's hall. He disarmed Aragorn, Legolas, and Gimli, but against the King's orders permitted Gandalf to keep his staff with him as a courtesy, though he knew, as he remarked, that "The staff in the hand of a wizard may be more than a prop for age." H ma was present at the Battle of the Hornburg, and died defending the gates of Helm's Deep. He was buried at Helm's Deep after the battle."
+"Recruit the bodyguard of King Theoden \n Class: Tank \n \n Lore: \n Hama was a Man of Rohan and the doorward of the Meduseld and captain of Theoden's guard. Hama greeted Gandalf, Aragorn, Legolas and Gimli when they arrived to speak with King Theoden. He told the company to leave their weapons behind, by order of Grima Wormtongue, before entering the King's hall. He disarmed Aragorn, Legolas, and Gimli, but against the King's orders permitted Gandalf to keep his staff with him as a courtesy, though he knew, as he remarked, that "The staff in the hand of a wizard may be more than a prop for age." Hama was present at the Battle of the Hornburg, and died defending the gates of Helm's Deep. He was buried at Helm's Deep after the battle."
 END
 
 CONTROLBAR:RohanHamaRevive
-"Summon the fallen hero Hama"
+"Revive the fallen Hero, Hama\n Class: Tank"
 END
 
 CONTROLBAR:RohanHamaHotkey
@@ -28510,15 +28526,15 @@ CONTROLBAR:ToolTipConvertEnemy2
 END
 
 CONTROLBAR:RadagastRecruit
-"Call the brown wizard and Lord of the Animals \n Magic: Nature \n Silmaril hero \n Silmaril function only on the ground available: Radagast enters into an alliance with nature, so his connection to this immeasurably grow \n He can created Sanctuary of Nature , which has large bonuses and abilities, and automatically engages units with "natural touch" \n ally people around him are weakened because of the corruption of the Silmaril to rub off on Radagast"
+"Call the brown wizard and Lord of the Animals \n Class: Wizard \n Silmaril function only on the ground available: Radagast enters into an alliance with nature, so his connection to this immeasurably grow \n He can created Sanctuary of Nature , which has large bonuses and abilities, and automatically engages units with "natural touch" \n ally people around him are weakened because of the corruption of the Silmaril to rub off on Radagast"
 END
 
 CONTROLBAR:RohanErkenbrandRecruit
-"Recruit the Lord of the Westfold \n \n Lore: \n Erkenbrand was a warrior of Rohan during the War of the Ring, and the lord of the Westfold. At the time of the War of the Ring, Erkenbrand had retired from service to Theoden, but returned after the death of Theoden's son, Theodred, to command the forces of Rohan in its western regions. He defended the Westfold until he was summoned by Gandalf to aid the besieged forces at Helm's Deep. He aided Gandalf during the Battle of the Hornburg when he and the White Wizard led a thousand footmen to reinforce the besieged forces of Rohan. After the War of the Ring, Erkenbrand was granted the title of Marshal of the West-Mark by King Eomer. Erkenbrand was a warrior of great renown and was a mighty leader. He went into battle with a red shield."
+"Recruit the Lord of the Westfold \n Class: Army support \n\n Lore: \n Erkenbrand was a warrior of Rohan during the War of the Ring, and the lord of the Westfold. At the time of the War of the Ring, Erkenbrand had retired from service to Theoden, but returned after the death of Theoden's son, Theodred, to command the forces of Rohan in its western regions. He defended the Westfold until he was summoned by Gandalf to aid the besieged forces at Helm's Deep. He aided Gandalf during the Battle of the Hornburg when he and the White Wizard led a thousand footmen to reinforce the besieged forces of Rohan. After the War of the Ring, Erkenbrand was granted the title of Marshal of the West-Mark by King Eomer. Erkenbrand was a warrior of great renown and was a mighty leader. He went into battle with a red shield."
 END
 
 CONTROLBAR:RohanErkenbrandRevive
-"Summon the fallen hero Erkenbrand"
+"Revive the fallen Hero, Erkenbrand \n Class: Army support"
 END
 
 CONTROLBAR:RohanErkenbrandHotkey
@@ -28702,11 +28718,11 @@ OBJECT:GondorImrahil
 END
 
 CONTROLBAR:GondorImrahilRecruit
-"Recruit the Prince of Dol Amroth \n \n Lore: \n During the War of the Ring, on March 9, 3019, Prince Imrahil led a company of Swan Knights and 700 men at arms to Minas Tirith to help defend the City. Prince Imrahil led the group that rode to the aid of Faramir and the rear-guard who were retreating from Osgiliath when the forces of Sauron overran the Pelennor Fields on March 13. Gandalf rode with them, and the Winged Nazgul fled before him. The Knights of Dol Amroth rescued Faramir from the Southrons. Faramir was poisoned, and Imrahil carried his nephew back to the City on his horse. Gandalf then took command of the besieged city, and Prince Imrahil assisted him because Denethor in his madness retreated to the White Tower with his dying son, and forgot about the city."
+"Recruit the Prince of Dol Amroth \n Class: Dol Amroth support \n\n Lore: \n During the War of the Ring, on March 9, 3019, Prince Imrahil led a company of Swan Knights and 700 men at arms to Minas Tirith to help defend the City. Prince Imrahil led the group that rode to the aid of Faramir and the rear-guard who were retreating from Osgiliath when the forces of Sauron overran the Pelennor Fields on March 13. Gandalf rode with them, and the Winged Nazgul fled before him. The Knights of Dol Amroth rescued Faramir from the Southrons. Faramir was poisoned, and Imrahil carried his nephew back to the City on his horse. Gandalf then took command of the besieged city, and Prince Imrahil assisted him because Denethor in his madness retreated to the White Tower with his dying son, and forgot about the city."
 END
 
 CONTROLBAR:GondorImrahilRevive
-"Summon the fallen hero Imrahil"
+"Revive the fallen Hero, Imrahil \n Class: Dol Amroth support"
 END
 
 CONTROLBAR:ToolTipImrahilRittervonDolAmroth
@@ -28830,7 +28846,7 @@ CONTROLBAR:IsengardMauhurRecruit
 END
 
 CONTROLBAR:GondorBeregondRevive
-"Revive the fallen hero Beregond."
+"Revive the fallen Hero, Beregond \n Class: Structure support/Hero support"
 END
 
 CONTROLBAR:GondorBeregondHotkey
@@ -29202,7 +29218,7 @@ CONTROLBAR:ElrondErfahrungsLeadership
 END
 
 CONTROLBAR:TooltipElrondErfahrungsLeadership
-"Elrond unsheathes his sword, Hadhafang \n Elrond gives nearby Imladris units Armor and Damage , it scales with every level (from 2% to 30%) until level 10 \n At level 5 Elrond will combine the power of Vilya and Hadhafang dealing more. He equips his Last Alliance armor and gain 50% Armor"
+"Elrond unsheathes his sword, Hadhafang \n Elrond gives nearby Imladris units 33% more damage \n At level 5 Elrond equips his Last Alliance armor and gains 50% Armor"
 END
 
 CONTROLBAR:ElrondBladeMaster
@@ -42905,7 +42921,7 @@ CONTROLBAR:GondorAragornRecruit
 END
 
 CONTROLBAR:GondorAragornRevive
-"Revive the fallen Hero, Aragorn"
+"Revive the fallen Hero, Aragorn \n Class: Warrior"
 END
 
 CONTROLBAR:GondorAragornHotkey
@@ -42917,11 +42933,11 @@ CONTROLBAR:ToolTipBuildFaramir
 END
 
 CONTROLBAR:GondorFaramirRecruit
-"Recruit the versatile Captain of Gondor \n \n Lore: \n Faramir was born in the year TA 2983 to Denethor II and Finduilas, daughter of Adrahil of Dol Amroth. The following year, his grandfather Ecthelion II died and his father, Denethor, succeeded him as the Ruling Steward of Gondor. When Faramir was 5 years old, Finduilas died. Her death caused Denethor to become detached from his family. The relationship between Faramir and Boromir, who was 5 years elder of the brothers, grew much closer and greater in love. Despite the obvious way that Denethor favored Boromir over Faramir, there was no jealousy or rivalry between them. Boromir protected and helped him, and Faramir looked up to his older brother. Although the siblings were very similar in appearance with their dark hair and grey eyes, it was not so in personality. Boromir was defined to be the more daring one, as well as the more fearless and strong warrior. Faramir s boldness was incorrectly judged less due to his gentle nature and love of lore and music."
+"Recruit the versatile Captain of Gondor \n Class: Archer/Army support \n\n Lore: \n Faramir was born in the year TA 2983 to Denethor II and Finduilas, daughter of Adrahil of Dol Amroth. The following year, his grandfather Ecthelion II died and his father, Denethor, succeeded him as the Ruling Steward of Gondor. When Faramir was 5 years old, Finduilas died. Her death caused Denethor to become detached from his family. The relationship between Faramir and Boromir, who was 5 years elder of the brothers, grew much closer and greater in love. Despite the obvious way that Denethor favored Boromir over Faramir, there was no jealousy or rivalry between them. Boromir protected and helped him, and Faramir looked up to his older brother. Although the siblings were very similar in appearance with their dark hair and grey eyes, it was not so in personality. Boromir was defined to be the more daring one, as well as the more fearless and strong warrior. Faramir s boldness was incorrectly judged less due to his gentle nature and love of lore and music."
 END
 
 CONTROLBAR:GondorFaramirRevive
-"Revive the fallen Hero, Faramir"
+"Revive the fallen Hero, Faramir \n Class: Archer/Army support"
 END
 
 CONTROLBAR:GondorFaramirHotkey
@@ -42949,11 +42965,11 @@ CONTROLBAR:ToolTipBuildBorimir
 END
 
 CONTROLBAR:GondorBoromirRecruit
-"Recruit one of the greatest Captains of Gondor \n \n Lore: \n Boromir was born in the year TA 2978. He was the eldest child of Denethor II (the penultimate Steward of Gondor) and his wife Finduilas, and would have taken over as Steward after Denethor's death, had he lived. When Boromir was only 10 years old, his mother died. Consequently, his father became a grim person and visibly preferred Boromir over his brother, Faramir. Despite this fact, Boromir looked after his younger brother and they became very close. Boromir devoted himself to leading his people and fought in the battle for the eastern part of Osgiliath. He, his brother, and 2 others were the only survivors of the unit that held the bridge until its destruction; they had to swim the river Anduin to reach safety."
+"Recruit one of the greatest Captains of Gondor \n Class: Tank/Army support \n\n Lore: \n Boromir was born in the year TA 2978. He was the eldest child of Denethor II (the penultimate Steward of Gondor) and his wife Finduilas, and would have taken over as Steward after Denethor's death, had he lived. When Boromir was only 10 years old, his mother died. Consequently, his father became a grim person and visibly preferred Boromir over his brother, Faramir. Despite this fact, Boromir looked after his younger brother and they became very close. Boromir devoted himself to leading his people and fought in the battle for the eastern part of Osgiliath. He, his brother, and 2 others were the only survivors of the unit that held the bridge until its destruction; they had to swim the river Anduin to reach safety."
 END
 
 CONTROLBAR:GondorBoromirRevive
-"Revive the fallen hero, Boromir"
+"Revive the fallen hero, Boromir \n Class: Tank/Army support"
 END
 
 CONTROLBAR:GondorBoromirHotkey
@@ -42977,11 +42993,11 @@ CONTROLBAR:GandalfTheWhiteHotkey
 END
 
 CONTROLBAR:RohanPippinRecruit
-"Recruit a loyal hobbit to fight for your cause \n \n Lore: \n Peregrin Took, more commonly known as Pippin, was a Hobbit of the Shire, and one of Frodo Baggins's youngest, but closest friends. He was a member of the Fellowship of the Ring. Pippin was born to Paladin Took II and Eglantine Banks on the spring of TA 2990 (SR 1390). He was the youngest of 4 children and had 3 older sisters, Pearl, Pimpernel, and Pervinca. His father's sister, Esmeralda Took, was the mother of Meriadoc Brandybuck, thus making Pippin and Merry first cousins. Through his father, Pippin was the second-cousin once-removed of Frodo, and the first-cousin twice-removed of Bilbo Baggins."
+"Recruit a loyal hobbit to fight for your cause \n Class: Scout \n \n Lore: \n Peregrin Took, more commonly known as Pippin, was a Hobbit of the Shire, and one of Frodo Baggins's youngest, but closest friends. He was a member of the Fellowship of the Ring. Pippin was born to Paladin Took II and Eglantine Banks on the spring of TA 2990 (SR 1390). He was the youngest of 4 children and had 3 older sisters, Pearl, Pimpernel, and Pervinca. His father's sister, Esmeralda Took, was the mother of Meriadoc Brandybuck, thus making Pippin and Merry first cousins. Through his father, Pippin was the second-cousin once-removed of Frodo, and the first-cousin twice-removed of Bilbo Baggins."
 END
 
 CONTROLBAR:RohanPippinRevive
-"Revive the fallen Hero, Pippin"
+"Revive the fallen Hero, Pippin \n Class: Scout"
 END
 
 CONTROLBAR:RohanPippinHotkey
@@ -43049,11 +43065,11 @@ CONTROLBAR:ToolTipBuildTheoden
 END
 
 CONTROLBAR:RohanTheodenRecruit
-"Recruit the King of Rohan \n Silmaril Hero \n Once Glorious Theoden gains the Ring he will gain access to the powers of his ancestors \n \n Lore: \n Theoden was the seventeenth King of Rohan, and last of the Second Line of the royal house of House of Eorl. When Gandalf the White, Aragorn, Legolas and Gimli appeared before him, TheodeNainitially rebuked Gandalf's advice to resist Saruman, but after being released from the effects of Gr ma, he commanded Hama to release his nephew and bring him his sword, and led the Riders of Rohan into battle against Saruman but having found that Saruman's forces had broken through Rohan's outer defenses. Theoden, under advice from Gandalf, retreated and fought against Saruman's hordes at the Battle of Helm's Deep. After this, he became known as Theoden Ednew, the Renewed, because he had thrown off the yoke of Saruman. He challenged the Witch-king of the 9 Ringwraiths, and was unconscious when his horse Snowmane fell upon him after being spooked by the Ringwraith's fell beast. He was quickly protected by his niece  Eowyn and the Hobbit Meriadoc Brandybuck both of whom had ridden to war in secret. Theoden's wounds were mortal and he perished on the plains of Pelennor."
+"Recruit the King of Rohan \n Class: Faction leader/Army support \n\n Lore: \n Theoden was the seventeenth King of Rohan, and last of the Second Line of the royal house of House of Eorl. When Gandalf the White, Aragorn, Legolas and Gimli appeared before him, TheodeNainitially rebuked Gandalf's advice to resist Saruman, but after being released from the effects of Gr ma, he commanded Hama to release his nephew and bring him his sword, and led the Riders of Rohan into battle against Saruman but having found that Saruman's forces had broken through Rohan's outer defenses. Theoden, under advice from Gandalf, retreated and fought against Saruman's hordes at the Battle of Helm's Deep. After this, he became known as Theoden Ednew, the Renewed, because he had thrown off the yoke of Saruman. He challenged the Witch-king of the 9 Ringwraiths, and was unconscious when his horse Snowmane fell upon him after being spooked by the Ringwraith's fell beast. He was quickly protected by his niece  Eowyn and the Hobbit Meriadoc Brandybuck both of whom had ridden to war in secret. Theoden's wounds were mortal and he perished on the plains of Pelennor."
 END
 
 CONTROLBAR:RohanTheodenRevive
-"Revive the fallen hero Theoden again"
+"Revive the fallen Hero, Theoden \n Class: Faction leader/Army support"
 END
 
 CONTROLBAR:RohanTheodenHotkey
@@ -43061,15 +43077,15 @@ CONTROLBAR:RohanTheodenHotkey
 END
 
 CONTROLBAR:ToolTipBuilEEowyn
-"Recruit the shieldmaiden of Rohan \n \n Lore: \n  Eowyn was a shieldmaiden of Rohan, daughter of  Éomund and Theodwyn, younger sister of Eomer and niece of King Theoden. After the War of the Ring, she married Faramir and had one son with him, Elboron.  Eowyn was the second child of  Éomund and Theodwyn. Like her brother Eomer, she was related to King Theoden through their mother, the King's sister. Her father was slain and her mother died of illness in TA 3002. Afterwards, Theoden took Eomer and  Eowynain his household and raised them as his children."
+"Recruit the shieldmaiden of Rohan \n Class: Hero killer/Army support \n\n Lore: \n Eowyn was a shieldmaiden of Rohan, daughter of  Éomund and Theodwyn, younger sister of Eomer and niece of King Theoden. After the War of the Ring, she married Faramir and had one son with him, Elboron.  Eowyn was the second child of  Éomund and Theodwyn. Like her brother Eomer, she was related to King Theoden through their mother, the King's sister. Her father was slain and her mother died of illness in TA 3002. Afterwards, Theoden took Eomer and  Eowynain his household and raised them as his children."
 END
 
 CONTROLBAR:RohanEowynRevive
-"Revive Eowyn again the fallen hero"
+"Revive the fallen Hero, Eowyn \n Class: Hero killer/Army support"
 END
 
 CONTROLBAR:RohanEowynRecruit
-"Recruit the shieldmaiden of Rohan \n \n Lore: \n  Eowyn was a shieldmaiden of Rohan, daughter of  Éomund and Theodwyn, younger sister of Eomer and niece of King Theoden. After the War of the Ring, she married Faramir and had one son with him, Elboron.  Eowyn was the second child of  Éomund and Theodwyn. Like her brother Eomer, she was related to King Theoden through their mother, the King's sister. Her father was slain and her mother died of illness in TA 3002. Afterwards, Theoden took Eomer and  Eowynain his household and raised them as his children."
+"Recruit the shieldmaiden of Rohan \n Class: Hero killer/Army support \n\n Lore: \n Eowyn was a shieldmaiden of Rohan, daughter of Éomund and Theodwyn, younger sister of Eomer and niece of King Theoden. After the War of the Ring, she married Faramir and had one son with him, Elboron.  Eowyn was the second child of  Éomund and Theodwyn. Like her brother Eomer, she was related to King Theoden through their mother, the King's sister. Her father was slain and her mother died of illness in TA 3002. Afterwards, Theoden took Eomer and  Eowynain his household and raised them as his children."
 END
 
 CONTROLBAR:RohanEowynHotkey
@@ -43077,11 +43093,11 @@ CONTROLBAR:RohanEowynHotkey
 END
 
 CONTROLBAR:RohanMerryRecruit
-"Recruit the brave companion of the Shire. \n \n Lore: \n Meriadoc "Merry" Brandybuck (later known as Meriadoc "Merry" Brandybuck I, due to his grandson's birth) was a Hobbit and one of Frodo's cousins and closest friends. He loved boats and ponies and had a great interest in the maps of Middle-earth. He was also one of the 9 companions of the Fellowship of the Ring, and later became the eighth Master of Buckland. Merry was often considered the most perceptive and intelligent of the hobbits, for example, knowing of the One Ring and its power even before Frodo Baggins left the Shire. He guarded Bag End after Bilbo's party, protecting Frodo from the various and often unwanted guests. He also was the force behind "the Conspiracy" of Sam, Pippin, Fredegar Bolger (more commonly known as "Fatty", due to his plump form) and himself to help Frodo. Thus, even before the Quest of the Ring begins, Merry was well prepared and organized; he assembled their gear and brought ponies. His shortcut through the Old Forest served them well, because they avoided the Black Riders and met Tom Bombadil, who helped them. At the Barrow-downs, Merry acquired his sword, a work of Westernesse.
+"Recruit the brave companion of the Shire \n Class: Scout \n\n Lore: \n Meriadoc "Merry" Brandybuck (later known as Meriadoc "Merry" Brandybuck I, due to his grandson's birth) was a Hobbit and one of Frodo's cousins and closest friends. He loved boats and ponies and had a great interest in the maps of Middle-earth. He was also one of the 9 companions of the Fellowship of the Ring, and later became the eighth Master of Buckland. Merry was often considered the most perceptive and intelligent of the hobbits, for example, knowing of the One Ring and its power even before Frodo Baggins left the Shire. He guarded Bag End after Bilbo's party, protecting Frodo from the various and often unwanted guests. He also was the force behind "the Conspiracy" of Sam, Pippin, Fredegar Bolger (more commonly known as "Fatty", due to his plump form) and himself to help Frodo. Thus, even before the Quest of the Ring begins, Merry was well prepared and organized; he assembled their gear and brought ponies. His shortcut through the Old Forest served them well, because they avoided the Black Riders and met Tom Bombadil, who helped them. At the Barrow-downs, Merry acquired his sword, a work of Westernesse.
 END
 
 CONTROLBAR:RohanMerryRevive
-"Awake the Fallen Hero Merry to life"
+"Revive the fallen Hero, Merry \n Class: Scout"
 END
 
 CONTROLBAR:RohanMerryHotkey
@@ -43089,15 +43105,15 @@ CONTROLBAR:RohanMerryHotkey
 END
 
 CONTROLBAR:ToolTipBuildGimli
-"Recruit the runt of the Lonely Mountain \n \n Lore: \n Gimli, son of Gl in, was a well-respected dwarf warrior in Middle-earth during the Great Years. He was a member of the Fellowship of the Ring, and was the only one of the dwarves to readily fight alongside elves in the war against Sauron at the end of the Third Age. After the defeat of Sauron, he was given lordship of the Glittering Caves at Helm's Deep."
+"Recruit the runt of the Lonely Mountain \n Class: Warrior \n\n Lore: \n Gimli, son of Gloin, was a well-respected dwarf warrior in Middle-earth during the Great Years. He was a member of the Fellowship of the Ring, and was the only one of the dwarves to readily fight alongside elves in the war against Sauron at the end of the Third Age. After the defeat of Sauron, he was given lordship of the Glittering Caves at Helm's Deep."
 END
 
 CONTROLBAR:RohanGimliRecruit
-"Recruit the runt of the Lonely Mountain \n \n Lore: \n Gimli, son of Gl in, was a well-respected dwarf warrior in Middle-earth during the Great Years. He was a member of the Fellowship of the Ring, and was the only one of the dwarves to readily fight alongside elves in the war against Sauron at the end of the Third Age. After the defeat of Sauron, he was given lordship of the Glittering Caves at Helm's Deep."
+"Recruit the runt of the Lonely Mountain \n Class: Warrior \n\n Lore: \n Gimli, son of Gloin, was a well-respected dwarf warrior in Middle-earth during the Great Years. He was a member of the Fellowship of the Ring, and was the only one of the dwarves to readily fight alongside elves in the war against Sauron at the end of the Third Age. After the defeat of Sauron, he was given lordship of the Glittering Caves at Helm's Deep."
 END
 
 CONTROLBAR:RohanGimliRevive
-"Revive the fallen hero Gimli again."
+"Revive the fallen Hero, Gimli \n Class: Warrior"
 END
 
 CONTROLBAR:RohanGimliHotkey
@@ -43125,11 +43141,11 @@ CONTROLBAR:ToolTipBuildEomer
 END
 
 CONTROLBAR:RohanEomerRecruit
-"Recruit the exiled leader of the Rohirrim \n \n Lore: \n Eomer was a Man of Rohan and the eventual eighteenth King of Rohan, and first of the Third Line of their kings. Eomer, born in TA 2991, of the House of Eorl, was the son of Éomund, a descendant of  ofor, and of Theodwyn, sister of Theoden King. In TA 3002, when Eomer was 11, Éomund was slain in battle with Orcs. Theodwyn died of grief shortly afterward. Éomund also had a daughter named Eowyn, Eomer's sister. After they were orphaned Theoden adopted them as his own children. Eomer became the third Marshal of the Mark, and was a strong leader of Men. He was honored highly, prized extensively by the king, and was good friends with Theodred, son of Theoden who loved him like a brother. His company hunted down the Uruk-hai that had taken Meriadoc Brandybuck and Peregrin Took as they camped near Fangorn forest, slaying them all. He never saw the Hobbits, as they had fled during the battle. Afterwards he met Aragorn, Gimli, and Legolas in the plains of Rohan, and he lent them 2 horses, Arod and Hasufel. Eomer returned to Edoras and reported on meeting the Ranger and friends and allowing them to go free, a violation of the king's law. Under the poisonous advice of Gr ma Wormtongue, he was imprisoned by Theoden, who had grown weak, aged, and suspicious under Saruman the White's influence."
+"Recruit the exiled leader of the Rohirrim \n Class: Warrior/Army support \n\n Lore: \n Eomer was a Man of Rohan and the eventual eighteenth King of Rohan, and first of the Third Line of their kings. Eomer, born in TA 2991, of the House of Eorl, was the son of Éomund, a descendant of  ofor, and of Theodwyn, sister of Theoden King. In TA 3002, when Eomer was 11, Éomund was slain in battle with Orcs. Theodwyn died of grief shortly afterward. Éomund also had a daughter named Eowyn, Eomer's sister. After they were orphaned Theoden adopted them as his own children. Eomer became the third Marshal of the Mark, and was a strong leader of Men. He was honored highly, prized extensively by the king, and was good friends with Theodred, son of Theoden who loved him like a brother. His company hunted down the Uruk-hai that had taken Meriadoc Brandybuck and Peregrin Took as they camped near Fangorn forest, slaying them all. He never saw the Hobbits, as they had fled during the battle. Afterwards he met Aragorn, Gimli, and Legolas in the plains of Rohan, and he lent them 2 horses, Arod and Hasufel. Eomer returned to Edoras and reported on meeting the Ranger and friends and allowing them to go free, a violation of the king's law. Under the poisonous advice of Gr ma Wormtongue, he was imprisoned by Theoden, who had grown weak, aged, and suspicious under Saruman the White's influence."
 END
 
 CONTROLBAR:RohanEomerRevive
-"Revive the fallen hero Eomer again."
+"Revive the fallen Hero, Eomer \n Class: Warrior/Army support"
 END
 
 CONTROLBAR:RohanEomerHotkey
@@ -43137,15 +43153,15 @@ CONTROLBAR:RohanEomerHotkey
 END
 
 CONTROLBAR:ToolTipBuildLegolas
-"Recruit the elf prince of Mirkwood \n \n Lore: \n Although he lived among them and in their culture, Legolas was not fully of the Silvan Elves. As a son of the Elven-king Thranduil, who had originally come from Doriath, Legolas was at least part Sindarin Elf, as his mother's identity is completely unknown. This is complicated by the fact that a small minority of Sindarin Elves ruled the predominantly Silvan Woodland Realm of Northern Mirkwood, a minority to which Legolas belonged. The Sindarin minority in that realm, who should have been nobler and wiser than the Silvan Elves can be seen as having gone native at the end of the First Age: after Morgoth was defeated and all of the grand Elf-kingdoms of Beleriand were destroyed, they can be seen as going back to a simpler time in their culture. Like all elves, Legolas has a great respect and appreciation for nature. While in Fangorn Forest he longed to return once more in order to explore its wonders more thoroughly. He is kind, and cares greatly for his friends, even Gimli the Dwarf, though it was a rarity for Elves and Dwarves to express a liking for one another because of their feud. Due to his age however, he sometimes seems rather patronizing toward the mortals around him."
+"Recruit the elf prince of Mirkwood \n Class: Archer/Warrior \n\n Lore: \n Although he lived among them and in their culture, Legolas was not fully of the Silvan Elves. As a son of the Elven-king Thranduil, who had originally come from Doriath, Legolas was at least part Sindarin Elf, as his mother's identity is completely unknown. This is complicated by the fact that a small minority of Sindarin Elves ruled the predominantly Silvan Woodland Realm of Northern Mirkwood, a minority to which Legolas belonged. The Sindarin minority in that realm, who should have been nobler and wiser than the Silvan Elves can be seen as having gone native at the end of the First Age: after Morgoth was defeated and all of the grand Elf-kingdoms of Beleriand were destroyed, they can be seen as going back to a simpler time in their culture. Like all elves, Legolas has a great respect and appreciation for nature. While in Fangorn Forest he longed to return once more in order to explore its wonders more thoroughly. He is kind, and cares greatly for his friends, even Gimli the Dwarf, though it was a rarity for Elves and Dwarves to express a liking for one another because of their feud. Due to his age however, he sometimes seems rather patronizing toward the mortals around him."
 END
 
 CONTROLBAR:RohanLegolasRecruit
-"Recruit the elf prince of Mirkwood \n \n Lore: \n Although he lived among them and in their culture, Legolas was not fully of the Silvan Elves. As a son of the Elven-king Thranduil, who had originally come from Doriath, Legolas was at least part Sindarin Elf, as his mother's identity is completely unknown. This is complicated by the fact that a small minority of Sindarin Elves ruled the predominantly Silvan Woodland Realm of Northern Mirkwood, a minority to which Legolas belonged. The Sindarin minority in that realm, who should have been nobler and wiser than the Silvan Elves can be seen as having gone native at the end of the First Age: after Morgoth was defeated and all of the grand Elf-kingdoms of Beleriand were destroyed, they can be seen as going back to a simpler time in their culture. Like all elves, Legolas has a great respect and appreciation for nature. While in Fangorn Forest he longed to return once more in order to explore its wonders more thoroughly. He is kind, and cares greatly for his friends, even Gimli the Dwarf, though it was a rarity for Elves and Dwarves to express a liking for one another because of their feud. Due to his age however, he sometimes seems rather patronizing toward the mortals around him."
+"Recruit the elf prince of Mirkwood \n Class: Archer/Warrior \n\n Lore: \n Although he lived among them and in their culture, Legolas was not fully of the Silvan Elves. As a son of the Elven-king Thranduil, who had originally come from Doriath, Legolas was at least part Sindarin Elf, as his mother's identity is completely unknown. This is complicated by the fact that a small minority of Sindarin Elves ruled the predominantly Silvan Woodland Realm of Northern Mirkwood, a minority to which Legolas belonged. The Sindarin minority in that realm, who should have been nobler and wiser than the Silvan Elves can be seen as having gone native at the end of the First Age: after Morgoth was defeated and all of the grand Elf-kingdoms of Beleriand were destroyed, they can be seen as going back to a simpler time in their culture. Like all elves, Legolas has a great respect and appreciation for nature. While in Fangorn Forest he longed to return once more in order to explore its wonders more thoroughly. He is kind, and cares greatly for his friends, even Gimli the Dwarf, though it was a rarity for Elves and Dwarves to express a liking for one another because of their feud. Due to his age however, he sometimes seems rather patronizing toward the mortals around him."
 END
 
 CONTROLBAR:RohanLegolasRevive
-"Revive the fallen hero Legolas again"
+"Revive the fallen Hero, Legolas \n Class: Archer/Warrior"
 END
 
 CONTROLBAR:RohanLegolasHotkey
@@ -43305,15 +43321,15 @@ CONTROLBAR:ElvenGlorfindelHotkey
 END
 
 CONTROLBAR:ToolTipBuildThranduil
-"Recruit the leader of the Elves of Mirkwood \n \n Lore: \n Thranduil was the only son of Oropher, the King of the Woodland Realm. He was born sometime during the First and Second Age. At the beginning of the Second Age, the Sindar travelled east and Oropher eventually founded Greenwood the Great. In SA 3434, Thranduil and his father fought in the Battle of Dagorlad. Oropher was slain and Thranduil returned to Greenwood with roughly a third of the army that had marched to war. He claimed his inheritance and some time before TA 1000 inherited Oropher's title of King of the Woodland Realm, reigning over the south of Greenwood the Great. At the beginning of Thranduil's reign his kingdom encompassed all of Greenwood the Great and was known as the Woodland Realm, but as the Third Age progressed, the shadow of the Necromancer advanced, and the Greenwood grew dark and became known as Mirkwood, and became infested with Orcs and giant spiders. The Wood-elves of Mirkwood were reduced in number and retreated to lands in the north of Mirkwood. By the time of the events of The Lord of the Rings Thranduil's title was King of the Elves of Northern Mirkwood. In his realm, both Sindarin and Silvan Elvish were spoken, though not all members of his Woodland folk spoke Sindarin"
+"Recruit the leader of the Elves of Mirkwood \n Class: Warrior/Army support \n\n Lore: \n Thranduil was the only son of Oropher, the King of the Woodland Realm. He was born sometime during the First and Second Age. At the beginning of the Second Age, the Sindar travelled east and Oropher eventually founded Greenwood the Great. In SA 3434, Thranduil and his father fought in the Battle of Dagorlad. Oropher was slain and Thranduil returned to Greenwood with roughly a third of the army that had marched to war. He claimed his inheritance and some time before TA 1000 inherited Oropher's title of King of the Woodland Realm, reigning over the south of Greenwood the Great. At the beginning of Thranduil's reign his kingdom encompassed all of Greenwood the Great and was known as the Woodland Realm, but as the Third Age progressed, the shadow of the Necromancer advanced, and the Greenwood grew dark and became known as Mirkwood, and became infested with Orcs and giant spiders. The Wood-elves of Mirkwood were reduced in number and retreated to lands in the north of Mirkwood. By the time of the events of The Lord of the Rings Thranduil's title was King of the Elves of Northern Mirkwood. In his realm, both Sindarin and Silvan Elvish were spoken, though not all members of his Woodland folk spoke Sindarin"
 END
 
 CONTROLBAR:ElvenThranduilRecruit
-"Recruit the leader of the Elves of Mirkwood \n \n Lore: \n Thranduil was the only son of Oropher, the King of the Woodland Realm. He was born sometime during the First and Second Age. At the beginning of the Second Age, the Sindar travelled east and Oropher eventually founded Greenwood the Great. In SA 3434, Thranduil and his father fought in the Battle of Dagorlad. Oropher was slain and Thranduil returned to Greenwood with roughly a third of the army that had marched to war. He claimed his inheritance and some time before TA 1000 inherited Oropher's title of King of the Woodland Realm, reigning over the south of Greenwood the Great. At the beginning of Thranduil's reign his kingdom encompassed all of Greenwood the Great and was known as the Woodland Realm, but as the Third Age progressed, the shadow of the Necromancer advanced, and the Greenwood grew dark and became known as Mirkwood, and became infested with Orcs and giant spiders. The Wood-elves of Mirkwood were reduced in number and retreated to lands in the north of Mirkwood. By the time of the events of The Lord of the Rings Thranduil's title was King of the Elves of Northern Mirkwood. In his realm, both Sindarin and Silvan Elvish were spoken, though not all members of his Woodland folk spoke Sindarin"
+"Recruit the leader of the Elves of Mirkwood \n Class: Warrior/Army support \n\n Lore: \n Thranduil was the only son of Oropher, the King of the Woodland Realm. He was born sometime during the First and Second Age. At the beginning of the Second Age, the Sindar travelled east and Oropher eventually founded Greenwood the Great. In SA 3434, Thranduil and his father fought in the Battle of Dagorlad. Oropher was slain and Thranduil returned to Greenwood with roughly a third of the army that had marched to war. He claimed his inheritance and some time before TA 1000 inherited Oropher's title of King of the Woodland Realm, reigning over the south of Greenwood the Great. At the beginning of Thranduil's reign his kingdom encompassed all of Greenwood the Great and was known as the Woodland Realm, but as the Third Age progressed, the shadow of the Necromancer advanced, and the Greenwood grew dark and became known as Mirkwood, and became infested with Orcs and giant spiders. The Wood-elves of Mirkwood were reduced in number and retreated to lands in the north of Mirkwood. By the time of the events of The Lord of the Rings Thranduil's title was King of the Elves of Northern Mirkwood. In his realm, both Sindarin and Silvan Elvish were spoken, though not all members of his Woodland folk spoke Sindarin"
 END
 
 CONTROLBAR:ElvenThranduilRevive
-"Summon the fallen hero Thranduil to life"
+"Revive the fallen Hero, Thranduil \n Class: Warrior/Army support"
 END
 
 CONTROLBAR:ElvenThranduilHotkey
@@ -66576,10 +66592,11 @@ END
 
 CONTROLBAR:GorkilElite
 "Scorpion presence"
-End
+END
 
 CONTROLBAR:ToolTipGorkilElite
 "Horrific combination only ever present under the command of Gorkil \n Enemy cavalry suffer the loss of 30% speed and trample 50% less \n Passive ability"
+END
 
 BANNERUI:GoblinFighter
 "Goblin Warrior"
@@ -71276,7 +71293,7 @@ CONTROLBAR:HaldirGoldenArrow
 END
 
 CONTROLBAR:ToolTipHaldirGoldenArrow
-"Requires: Level 4 \n A high damage attack that also stuns units \n Left-click icon then left-click on target" 
+"Requires: Level 6 \n A high damage arrow that also stuns units \n Left-click icon then left-click on target" 
 END
 
 CONTROLBAR:GondolinEcthelionRecruit
@@ -71848,11 +71865,11 @@ CONTROLBAR:Roar
 END
 
 CONTROLBAR:RohanGamlingRecruit
-"Gamling \n \n Lore: \n Gamling was a Man of Rohan sometimes known as "Gamling the Old" referenced in The 2 Towers and the Return of the King. Gamling was from the Westfold and he understood the language of Dunland. Gamling is left in charge of the forces defending Helm's Dike (a fortification across the Deeping-coomb before the stronghold of the Hornburg defending Helm's Deep) by command of Erkenbrand. King Theoden of Rohan arrives at Helm's Deep with reinforcements from Edoras on March 3, 3019. As the forces of Isengard approach, Gamling and his men pull back from Helm's Dike and enter the stronghold of the Hornburg. Gamling hears Gimli's warning that Orcs have entered a culvert under the wall and leads the Men of the Westfold in a charge that drives them back. Gamling then asks Gimli to help block up the opening with small boulders and broken stones with the remark, "We must stop this rat-hole. Dwarves are said to be cunning folk with stone. Lend us your aid, master!" However, Saruman's forces later breach the Deeping Wall using an explosive device. Gamling retreats into the Deep with Gimli. There they defend the narrows before the entrance to the Glittering Caves until dawn, when Gandalf and Eomer arrive with reinforcements, and the Battle of the Hornburg is won."
+"Recruit Gamling \n Class: Army support \n\n Lore: \n Gamling was a Man of Rohan sometimes known as "Gamling the Old" referenced in The 2 Towers and the Return of the King. Gamling was from the Westfold and he understood the language of Dunland. Gamling is left in charge of the forces defending Helm's Dike (a fortification across the Deeping-coomb before the stronghold of the Hornburg defending Helm's Deep) by command of Erkenbrand. King Theoden of Rohan arrives at Helm's Deep with reinforcements from Edoras on March 3, 3019. As the forces of Isengard approach, Gamling and his men pull back from Helm's Dike and enter the stronghold of the Hornburg. Gamling hears Gimli's warning that Orcs have entered a culvert under the wall and leads the Men of the Westfold in a charge that drives them back. Gamling then asks Gimli to help block up the opening with small boulders and broken stones with the remark, "We must stop this rat-hole. Dwarves are said to be cunning folk with stone. Lend us your aid, master!" However, Saruman's forces later breach the Deeping Wall using an explosive device. Gamling retreats into the Deep with Gimli. There they defend the narrows before the entrance to the Glittering Caves until dawn, when Gandalf and Eomer arrive with reinforcements, and the Battle of the Hornburg is won."
 END
 
 CONTROLBAR:RohanGamlingRevive
-"Revive Gamling"
+"Revive the fallen Hero, Gamling \n Class: Army support"
 END
 
 CONTROLBAR:RohanHobbitRecruit
@@ -72169,7 +72186,7 @@ CONTROLBAR:TooltipSpecialAbilityDwarvenDemolisherDeploy
 END
 
 CONTROLBAR:TooltipSpecialAbilityOilBarrels
-"Launches flaming oil barrels that explode on the battlefield \n Left-click icon then left-click on target area"
+"Requires: Level 4 \n Launches flaming oil barrels that explode on the battlefield \n Left-click icon then left-click on target area"
 END
 
 CONTROLBAR:TooltipSummonWildMenAllies
@@ -75021,11 +75038,11 @@ CONTROLBAR:ToolTipBuildFireDrake
 END
 
 CONTROLBAR:HaldirRecruit
-"Recruit the agile defender of Lothlorien \n \n Lore: \n Haldir was an Elf of Lothlorien, probably a Silvan Elf, and a marchwarden who guarded the forest's northern borders. When the Fellowship of the Ring arrived in L rien, he became their guide to Caras Galadhon. He and his companions are described as wearing grey hooded cloaks and residing on platforms or flets. Haldir was accompanied by his brothers, R mil and Orophin, who interacted little with the Fellowship because they, unlike Haldir, spoke little of the Common Tongue. Haldir could speak it fluently, as he often travelled outside of Lothlorien. Little is known about his brothers."
+"Recruit the agile defender of Lothlorien \n Class: Archer/Army support \n\n Lore: \n Haldir was an Elf of Lothlorien, probably a Silvan Elf, and a marchwarden who guarded the forest's northern borders. When the Fellowship of the Ring arrived in L rien, he became their guide to Caras Galadhon. He and his companions are described as wearing grey hooded cloaks and residing on platforms or flets. Haldir was accompanied by his brothers, R mil and Orophin, who interacted little with the Fellowship because they, unlike Haldir, spoke little of the Common Tongue. Haldir could speak it fluently, as he often travelled outside of Lothlorien. Little is known about his brothers."
 END
 
 CONTROLBAR:HaldirRevive
-"Revive the fallen Hero, Haldir"
+"Revive the fallen Hero, Haldir \n Class: Archer/Army support"
 END
 
 CONTROLBAR:ElrondRecruit
@@ -79849,11 +79866,11 @@ OBJECT:ElvenCastleWallHubExpansionDescription
 END
 
 CONTROLBAR:GaladrielRecruit
-"Recruit the Lady of Light \n Silmaril Hero \n Silmaril function: Galadriel can choose whether to take the Silmaril for herself or reject its power\n Takes the Silmaril: Galadriel becomes the Dark Queen, receiving destructive capabilities and has a large area damage; however, her fellow Elves shake with fear\n Rejects the Silmaril: Galadriel becomes the Lady of Light, having an enormous power increase to rally her forces \n \n Lore: \n Galadriel was the co-ruler and Lady of Lothlorien alongside her husband, Lord Celeborn - however, neither of them took royal titles, as they only saw themselves as the Guardians of The Golden Wood. She was the only daughter and youngest child of Finarfin, prince of the  Noldor and of Earwen, whose cousin was Luthien. Her elder brothers were Finrod Felagund, Orodreth, Angrod, and Aegnor. Galadriel was a niece of Feanor, one of the most important elves of the First Age. She was one of the greatest of the Eldar in Middle-earth, and surpassed nearly all others in beauty, knowledge, and power. She was also the bearer of Nenya, one of the 3 Elven rings of power. Tolkien thought of her, along with Gil-galad the Elven-king, as one of the mightiest and fairest of all the Elves left in Middle-earth."
+"Recruit the Lady of Light \n Class: Faction leader/Wizard \n\n Lore: \n Galadriel was the co-ruler and Lady of Lothlorien alongside her husband, Lord Celeborn - however, neither of them took royal titles, as they only saw themselves as the Guardians of The Golden Wood. She was the only daughter and youngest child of Finarfin, prince of the  Noldor and of Earwen, whose cousin was Luthien. Her elder brothers were Finrod Felagund, Orodreth, Angrod, and Aegnor. Galadriel was a niece of Feanor, one of the most important elves of the First Age. She was one of the greatest of the Eldar in Middle-earth, and surpassed nearly all others in beauty, knowledge, and power. She was also the bearer of Nenya, one of the 3 Elven rings of power. Tolkien thought of her, along with Gil-galad the Elven-king, as one of the mightiest and fairest of all the Elves left in Middle-earth."
 END
 
 CONTROLBAR:GaladrielRevive
-"Revive the fallen Hero, Galadriel"
+"Revive the fallen Hero, Galadriel \n Class: Faction leader/Wizard"
 END
 
 CONTROLBAR:GaladrielHotkey
@@ -85274,7 +85291,7 @@ CONTROLBAR:ArnorArvelegRecruit
 END
 
 CONTROLBAR:ArnorArvelegRevive
-"Summon the fallen hero Arveleg to life."
+"Revive the fallen Hero, Arveleg"
 END
 
 CONTROLBAR:ArnorArvelegHotkey
@@ -85294,11 +85311,11 @@ CONTROLBAR:ToolTipBuildArgeleb
 END
 
 CONTROLBAR:ArnorArgelebRecruit
-"Recruit the King of Arthedain \n \n Lore: \n Argeleb I was the seventh King of Arthedain. Argeleb succeeded his father Malvegil in TA 1349 when he died, because the line of kings of the Dunedain of the North had failed in the realms of Cardolan and Rhudaur. Argeleb claimed the Kingship of all of Arnor again, taking the royal prefix ar(a)- as a sign. He was thus not only the seventh King of Arthedain, but also the seventeenth King of Arnor. Cardolan accepted this rule, but it was too late for Rhudaur as it had by then fallen under the control of Angmar, and therefore resisted his rule. As a result of this breach, war broke out between the two opposing sides. Argeleb fortified the hills at Weathertop, and was killed in TA 1356 by evil men from Rhudaur, under the command of the Witch-king of Angmar."
+"Recruit the King of Arthedain \n Class: Tank/Army support \n\n Lore: \n Argeleb I was the seventh King of Arthedain. Argeleb succeeded his father Malvegil in TA 1349 when he died, because the line of kings of the Dunedain of the North had failed in the realms of Cardolan and Rhudaur. Argeleb claimed the Kingship of all of Arnor again, taking the royal prefix ar(a)- as a sign. He was thus not only the seventh King of Arthedain, but also the seventeenth King of Arnor. Cardolan accepted this rule, but it was too late for Rhudaur as it had by then fallen under the control of Angmar, and therefore resisted his rule. As a result of this breach, war broke out between the two opposing sides. Argeleb fortified the hills at Weathertop, and was killed in TA 1356 by evil men from Rhudaur, under the command of the Witch-king of Angmar."
 END
 
 CONTROLBAR:ArnorArgelebRevive
-"Summon the fallen hero Argeleb to life"
+"Revive the fallen Hero, Argeleb \n Class: Tank/Army support"
 END
 
 CONTROLBAR:ArnorArgelebHotkey
@@ -85314,7 +85331,11 @@ CONTROLBAR:ToolTipBuildArvedui
 END
 
 CONTROLBAR:ArnorArveduiRecruit
-"Recruit the last king of Arnor \n \n Lore: \n Arvedui was the last King of Arthedain. Arvedui was the son of King Araphant. Arvedui came to the throne in TA 1964 at the death of his father. Arvedui married F riel, daughter of King Ondoher of Gondor, who was killed in TA 1944. At Ondoher's death, Arvedui sent messages to Gondor claiming the throne as a direct descendant of Isildur, but he was refused: the Men of Gondor appointed general Earnil as King instead. Arvedui became King of Arthedain soon after, and in TA 1974 Angmar attacked again, driving the Dunedain away. Gondor sent help in the form of a great fleet, but it came too late: Arthedain was destroyed, and Arvedui fled to the Ice-bay of Forochel."
+"Recruit the last king of Arnor \n Class: Faction leader/Army support \n\n Lore: \n Arvedui was the last King of Arthedain. Arvedui was the son of King Araphant. Arvedui came to the throne in TA 1964 at the death of his father. Arvedui married F riel, daughter of King Ondoher of Gondor, who was killed in TA 1944. At Ondoher's death, Arvedui sent messages to Gondor claiming the throne as a direct descendant of Isildur, but he was refused: the Men of Gondor appointed general Earnil as King instead. Arvedui became King of Arthedain soon after, and in TA 1974 Angmar attacked again, driving the Dunedain away. Gondor sent help in the form of a great fleet, but it came too late: Arthedain was destroyed, and Arvedui fled to the Ice-bay of Forochel."
+END
+
+CONTROLBAR:ArnorArveduiRevive
+"Revive the fallen Hero, Arvedui \n Class: Faction leader/Army support"
 END
 
 CONTROLBAR:ArnorArveduiRevive
@@ -90557,7 +90578,7 @@ CONTROLBAR:GondorEarnurHotkey
 END
 
 OBJECT:GondorEarnurRevive
-"Revive the fallen hero, Earnur"
+"Revive the fallen hero, Earnur \n Class: Hero killer/Cavalry support"
 END
 
 OBJECT:NoldorFeanor
@@ -91169,11 +91190,11 @@ CONTROLBAR:LW_ToolTip_DoriathThingol
 END
 
 CONTROLBAR:DoriathThingolRecruit
-"Recruit one of 3 ambassadors (along with Ingwe  and Finwe ) \n that accompanied Orome to Valinor, \n also King of Doriath and High King of the Sindar \n \n Lore: \n Elu Thingol was an Elf of the Teleri during the First Age. His brother was Olwe, who became the Lord of Alqualonde, Lord of Tol Eressea, and High King of the Teleri of Aman, both of whom may have had a second brother called Elmo. He was a good friend of Finwe , the first High King of the  Noldor during the times before the elves reached Aman. He was the founder and first King of the northern Elven Kingdom of Doriath and was respected by all the Sindar of the Beleriand, who considered him to be the High King of the Sindar and the Lord of Beleriand." 
+"Recruit one of 3 ambassadors that accompanied Orome to Valinor, \n also King of Doriath and High King of the Sindar \n Class: Army support \n\n Lore: \n Elu Thingol was an Elf of the Teleri during the First Age. His brother was Olwe, who became the Lord of Alqualonde, Lord of Tol Eressea, and High King of the Teleri of Aman, both of whom may have had a second brother called Elmo. He was a good friend of Finwe , the first High King of the  Noldor during the times before the elves reached Aman. He was the founder and first King of the northern Elven Kingdom of Doriath and was respected by all the Sindar of the Beleriand, who considered him to be the High King of the Sindar and the Lord of Beleriand." 
 END
 
 CONTROLBAR:DoriathThingolRevive
-"Revive the fallen Hero, Thingol"
+"Revive the fallen Hero, Thingol \n Class: Army support"
 END
 
 CONTROLBAR:DoriathThingolHotkey
@@ -91682,11 +91703,11 @@ CONTROLBAR:LW_ToolTip_EdainBeren
 END
 
 CONTROLBAR:EdainBerenRecruit
-"Recruit Beren, son of Barahir from the House of B or, and Luthien husband \n \n Lore: \n Luthien's love for Beren was so strong that, upon hearing of his death, she lay down and died. Her soul went to the Halls of Mandos, where she managed to charm Mandos into granting her a wish. Both she and Beren were miraculously restored to life, but both of them would live as mortals and die the death of Men, and go beyond the walls of Arda to a place unknown. Thus Beren and Luthien lived again, and dwelt on Tol GaleNain the middle of the river Adurant in Ossiriand. There they stayed apart from other mortals; Beren was involved with the events of the First Age only one further time, when he waylaid a group of dwarves who had destroyed Doriath and stolen the Nauglam r (and the Silmaril with it). Luthien bore Beren a son, named Dior, Thingol's heir, considered to be one of the fairest beings to ever live, for in him flowed the blood of men, of elves, and of the Ainur. Through his descendants, the blood of Beren and of Luthien was preserved among the Eldar and the Edain."
+"Recruit Beren, son of Barahir from the House of Beor, and Luthien husband \n Class: Hero killer \n\n Lore: \n Luthien's love for Beren was so strong that, upon hearing of his death, she lay down and died. Her soul went to the Halls of Mandos, where she managed to charm Mandos into granting her a wish. Both she and Beren were miraculously restored to life, but both of them would live as mortals and die the death of Men, and go beyond the walls of Arda to a place unknown. Thus Beren and Luthien lived again, and dwelt on Tol GaleNain the middle of the river Adurant in Ossiriand. There they stayed apart from other mortals; Beren was involved with the events of the First Age only one further time, when he waylaid a group of dwarves who had destroyed Doriath and stolen the Nauglam r (and the Silmaril with it). Luthien bore Beren a son, named Dior, Thingol's heir, considered to be one of the fairest beings to ever live, for in him flowed the blood of men, of elves, and of the Ainur. Through his descendants, the blood of Beren and of Luthien was preserved among the Eldar and the Edain."
 END
 
 CONTROLBAR:EdainBerenRevive
-"Revive the fallen Hero, Beren"
+"Revive the fallen Hero, Beren \n Class: Hero killer"
 END
 
 CONTROLBAR:EdainBerenHotkey
@@ -91759,11 +91780,11 @@ CONTROLBAR:LW_ToolTip_DoriathLuthien
 END
 
 CONTROLBAR:DoriathLuthienRecruit
-"Recruit Luthien Tinúviel, fairest of the Children of Iluvatar \n \n Lore: \n Luthien, also known as Tinúviel, was an Elf Maiden of Doriath, the wife of Beren Erchamion, and the most beautiful of all the Children of Iluvatar to ever live. Her love of the mortal Edain Beren, for which she was prepared to risk everything, including her life, was legendary and lamented forever in song and story. She and Beren braved Morgoth's horrors, eventually winning the Silmaril and the respect of Thingol. Though their actions later resulted in both their deaths, their deeds won them the pity of Mandos and a second life in Middle-earth. Her romance with Beren was one of the great stories of the Elder Days that were told for many ages after she lived."
+"Recruit Luthien Tinúviel, fairest of the Children of Iluvatar \n Class: Army support/Wizard \n \n Lore: \n Luthien, also known as Tinúviel, was an Elf Maiden of Doriath, the wife of Beren Erchamion, and the most beautiful of all the Children of Iluvatar to ever live. Her love of the mortal Edain Beren, for which she was prepared to risk everything, including her life, was legendary and lamented forever in song and story. She and Beren braved Morgoth's horrors, eventually winning the Silmaril and the respect of Thingol. Though their actions later resulted in both their deaths, their deeds won them the pity of Mandos and a second life in Middle-earth. Her romance with Beren was one of the great stories of the Elder Days that were told for many ages after she lived."
 END
 
 CONTROLBAR:DoriathLuthienRevive
-"Revive the fallen Hero, Luthien Tinúviel"
+"Revive the fallen Hero, Luthien Tinúviel \n Class: Army support/Wizard"
 END
 
 CONTROLBAR:DoriathLuthienHotkey
@@ -91864,11 +91885,11 @@ CONTROLBAR:LW_ToolTip_ValinorThorondor
 END
 
 CONTROLBAR:ValinorThorondorRecruit
-"Recruit Thorondor Lord of the Eagles \n \n Lore: \n Thorondor was the King of Eagles of Middle-earth during the First Age. He was presumably the greatest of all the Eagles in terms of size, with his wingspan measuring at 30 fathoms (180 feet). Thorondor was sent by Manwe , King of the Valar, to watch over the  Noldor after they arrived in Beleriand. The Eldar first encountered him when he helped Fingon rescue Maedhros from imprisonment from Thangorodrim, upon which he had apparently made his home for a short time. After that, Thorondor and the rest of the Eagles settled in the Crissaegrim. When Gondolin was built, Thorondor became the ever vigilant guardian of the city. He rescued Fingolfin's body from defilement after Morgoth killed him, giving the Dark Lord a scar on his face. He, Landroval, and Gwaihir rescued Beren and Luthien when Angband was aroused. When Gondolin fell, Thorondor rescued the survivors. During the War of Wrath, Thorondor and Earendil led the Eagles in battle with the Dragons, and may have fought with Ancalagon the Black."
+"Recruit Thorondor Lord of the Eagles \n Class: Flyer \n \n Lore: \n Thorondor was the King of Eagles of Middle-earth during the First Age. He was presumably the greatest of all the Eagles in terms of size, with his wingspan measuring at 30 fathoms (180 feet). Thorondor was sent by Manwe , King of the Valar, to watch over the  Noldor after they arrived in Beleriand. The Eldar first encountered him when he helped Fingon rescue Maedhros from imprisonment from Thangorodrim, upon which he had apparently made his home for a short time. After that, Thorondor and the rest of the Eagles settled in the Crissaegrim. When Gondolin was built, Thorondor became the ever vigilant guardian of the city. He rescued Fingolfin's body from defilement after Morgoth killed him, giving the Dark Lord a scar on his face. He, Landroval, and Gwaihir rescued Beren and Luthien when Angband was aroused. When Gondolin fell, Thorondor rescued the survivors. During the War of Wrath, Thorondor and Earendil led the Eagles in battle with the Dragons, and may have fought with Ancalagon the Black."
 END
 
 CONTROLBAR:ValinorThorondorRevive
-"Revive the fallen Hero, Thorondor"
+"Revive the fallen Hero, Thorondor \n Class: Flyer"
 END
 
 CONTROLBAR:ValinorThorondorHotkey
@@ -91925,11 +91946,11 @@ CONTROLBAR:LW_Hero_NargothrondFinrod
 END
 
 CONTROLBAR:NargothrondFinrodRecruit    
-"Recruit the most beloved elf by the Edain \n \n Lore: \n Finrod, also known fully as Finrod Felagund, was a  oldorin Elf who was born in Aman, probably in Tirion. He was the eldest son of Finarfin and Earwen, and the brother of Galadriel, Angrod and Aegnor. Finrod was one of the noblest elves of the House of Finarfin and a friend of Men. His nobility and death saving Beren and his opposition to the Oath of Feanor allowed for his return to life in Valinor, making him the first Elf to be reincarnated in the Undying Lands before the end of First Age. Finrod was friendly with Turgon and the House of Fingolfin. He opposed Feanor and the Oath when he sought to return to Middle-earth to recover the Silmarils from Morgoth, but chose not to be parted with his friends and so he followed his father and his House and the House of Fingolfin. Finrod did not fight in the Kinslaying of Alqualond  nor was he aware of it as he continued the transit through Araman. While marching up the coast, the host encountered a figure on a rock and heard the Prophecy of the North. Afterwards, Finarfin and many of his followers departed and returned to Tirion, but Finrod chose to continue onto Middle-earth with the host of Fingolfin."
+"Recruit the most beloved elf by the Edain \n Class: Hero support/Hero killer \n \n Lore: \n Finrod, also known fully as Finrod Felagund, was a Noldorin Elf who was born in Aman, probably in Tirion. He was the eldest son of Finarfin and Earwen, and the brother of Galadriel, Angrod and Aegnor. Finrod was one of the noblest elves of the House of Finarfin and a friend of Men. His nobility and death saving Beren and his opposition to the Oath of Feanor allowed for his return to life in Valinor, making him the first Elf to be reincarnated in the Undying Lands before the end of First Age. Finrod was friendly with Turgon and the House of Fingolfin. He opposed Feanor and the Oath when he sought to return to Middle-earth to recover the Silmarils from Morgoth, but chose not to be parted with his friends and so he followed his father and his House and the House of Fingolfin. Finrod did not fight in the Kinslaying of Alqualonde nor was he aware of it as he continued the transit through Araman. While marching up the coast, the host encountered a figure on a rock and heard the Prophecy of the North. Afterwards, Finarfin and many of his followers departed and returned to Tirion, but Finrod chose to continue onto Middle-earth with the host of Fingolfin."
 END
 
 CONTROLBAR:NargothrondFinrodRevive    
-"Revive the fallen Hero, Finrod Felagund"
+"Revive the fallen Hero, Finrod Felagund \n Class: Hero support/Hero killer"
 END
 
 CONTROLBAR:NargothrondFinrodHotkey
@@ -92082,11 +92103,11 @@ CONTROLBAR:LW_ToolTipBuild_NumenorElros
 END
 
 CONTROLBAR:NumenorElrosRecruit
-"Recruit the first King of Numenor and Elrond twin brother \n \n Lore: \n Elros, also known as Elros Tar-Minyatur, the Half-elven, was the son of Earendil and Elwing, brother of Elrond, uncle of Elladan and Elrohir and Arwen Undomiel, and the first King of Numenor; ancestor to a line of kings especially to his descendant Aragorn II Elessar. He had a strong friendship with the Elves, who were half his kin. In FA 532, Elros was born in Arvernien. In the assault of the Third Kinslaying by the Sons of Feanor, Elros and Elrond were taken captive by Maglor and Maedhros. Later, Elwing, their mother, cast herself into the great Belegaer and vanished from Middle-earth. From then on, Elros and his brother were raised by Maglor. They were both raised in love for Maglor was not proud of his deeds. It is nowhere told when or if Elros and Elrond actually left Maglor but it can be assumed that at the time of Eonwe 's arrival they took full part in the war. In FA 547, the host of Eonwe  and the Valar were seen shining upon the sea and the noise of Eonwe `s trumpets rang over the waves. Eonwe  summoned all of the Elves and all of the men from Hithlum to the South, rallying them for the great war against Morgoth that was now to come."
+"Recruit the first King of Numenor and Elrond twin brother \n Class: Tank/Army support \n\n Lore: \n Elros, also known as Elros Tar-Minyatur, the Half-elven, was the son of Earendil and Elwing, brother of Elrond, uncle of Elladan and Elrohir and Arwen Undomiel, and the first King of Numenor; ancestor to a line of kings especially to his descendant Aragorn II Elessar. He had a strong friendship with the Elves, who were half his kin. In FA 532, Elros was born in Arvernien. In the assault of the Third Kinslaying by the Sons of Feanor, Elros and Elrond were taken captive by Maglor and Maedhros. Later, Elwing, their mother, cast herself into the great Belegaer and vanished from Middle-earth. From then on, Elros and his brother were raised by Maglor. They were both raised in love for Maglor was not proud of his deeds. It is nowhere told when or if Elros and Elrond actually left Maglor but it can be assumed that at the time of Eonwe 's arrival they took full part in the war. In FA 547, the host of Eonwe  and the Valar were seen shining upon the sea and the noise of Eonwe `s trumpets rang over the waves. Eonwe  summoned all of the Elves and all of the men from Hithlum to the South, rallying them for the great war against Morgoth that was now to come."
 END
 
 CONTROLBAR:NumenorElrosRevive
-"Revive the fallen Hero, Elros Tar-Minyatur"
+"Revive the fallen Hero, Elros Tar-Minyatur \n Class: Tank/Army support"
 END
 
 CONTROLBAR:NumenorElrosHotkey
@@ -92189,11 +92210,11 @@ CONTROLBAR:LW_ToolTipBuild_NumenorVardamir
 END
 
 CONTROLBAR:NumenorVardamirRecruit
-"Recruit the prince of Numenor son of Elros \n \n Lore: \n Vardamir Nolimon was the oldest child of Elros Tar-Minyatur, and the second King of Numenor. Vardamir N limon heir to the Kingship of Numenor and was noted as an exceptional scholar whose only desire was to study, not to rule. When Elros died, Vardamir immediately abdicated in favour of his son, Tar-Amandil. He was counted as the second King of Numenor, having nominally ruled for a single year. He died in year 471 of the Second Age, aged 410 years. \n He had 3 younger siblings: Tindomiel, Manwendil, and Atanalcar."
+"Recruit the prince of Numenor son of Elros \n Class: Warrior/Hero killer \n\n Lore: \n Vardamir Nolimon was the oldest child of Elros Tar-Minyatur, and the second King of Numenor. Vardamir Nolimon heir to the Kingship of Numenor and was noted as an exceptional scholar whose only desire was to study, not to rule. When Elros died, Vardamir immediately abdicated in favour of his son, Tar-Amandil. He was counted as the second King of Numenor, having nominally ruled for a single year. He died in year 471 of the Second Age, aged 410 years. \n He had 3 younger siblings: Tindomiel, Manwendil, and Atanalcar."
 END
 
 CONTROLBAR:NumenorVardamirRevive
-"Revive the fallen Hero, Vardamir Nolimon"
+"Revive the fallen Hero, Vardamir Nolimon \n Class: Warrior/Hero killer"
 END
 
 CONTROLBAR:NumenorVardamirHotkey
@@ -92254,11 +92275,11 @@ CONTROLBAR:LW_ToolTipBuild_NumenorTindomiel
 END
 
 CONTROLBAR:NumenorTindomielRecruit
-"Recruit the princes of Numenor, daughter of Elros \n \n Lore: \n Tindomiel was the second child and only daughter of Elros Tar-Minyatur, Half-elven and the first King of Numenor. Tindomiel was born after SA 61 and was the sister of Manwendil, Atanalcar, and the short reigning king Vardamir Nolimon. Nothing else is known of her life or whether she married and had children or not. The name Tindomiel means "Morning Star" from the Quenyan tindome ("twilight of dawn") and el ("star"). It may also mean "Daughter of Twilight" from the feminine suffix -iel."
+"Recruit the princes of Numenor, daughter of Elros \n Class: Army support/Hero support \n\n Lore: \n Tindomiel was the second child and only daughter of Elros Tar-Minyatur, Half-elven and the first King of Numenor. Tindomiel was born after SA 61 and was the sister of Manwendil, Atanalcar, and the short reigning king Vardamir Nolimon. Nothing else is known of her life or whether she married and had children or not. The name Tindomiel means "Morning Star" from the Quenyan tindome ("twilight of dawn") and el ("star"). It may also mean "Daughter of Twilight" from the feminine suffix -iel."
 END
 
 CONTROLBAR:NumenorTindomielRevive
-"Revive the fallen Hero, Tindomiel"
+"Revive the fallen Hero, Tindomiel \n Class: Army support/Hero support"
 END
 
 CONTROLBAR:NumenorTindomielHotkey
@@ -92332,11 +92353,11 @@ CONTROLBAR:LW_ToolTip_VanyarIngwe
 END
 
 CONTROLBAR:VanyarIngweRecruit    
-"Recruit Ingwe  King of the Vanyar, \n and considered the High King of the Eldar \n \n Lore: \n Ingwe was a Vanyar Elf, the King of the Vanyar and the High King of the Elves. Ingwe was the leader of the first Kindred of Elves of the Vanyar tribe, and the uncle of Finwe 's wife Indis. His name means "first one, Chief" in Quenya. He was perhaps one of the first 12 elves who awoke in Cuiviénen with Imin, who was the first to awake. He became one of the 3 elves, with Elwe and Finwe , of the first embassy to Aman. Ingwe  became the first of the Vanyar to travel to Valinor with Orome. Loving its beauty and bliss, he returned to his people and urged them to undertake a journey to Aman. He and his kin were fascinated with the Valar, and they decided not to return to Middle-earth. They stayed and made Ingwe  their king. The Mindon Eldali va in Tirion was built in honor of him. Ingwe  was reckoned as High King of all the Eldali , the Elves of the Great Journey, and because of this he is called Ingwe  Ingweron; the "Chief of the Chieftains". He lived in Taniquetil, ruling from beneath Manwe  High King of Arda. Ingwe  never set foot on Middle-earth after he began living in Taniquetil. When the Vanyar took up arms in the War of Wrath and followed The Host of Valinor, Ingwe  did not join them."
+"Recruit Ingwe  King of the Vanyar, \n and considered the High King of the Eldar \n Class: Warrior/Army support \n\n Lore: \n Ingwe was a Vanyar Elf, the King of the Vanyar and the High King of the Elves. Ingwe was the leader of the first Kindred of Elves of the Vanyar tribe, and the uncle of Finwe 's wife Indis. His name means "first one, Chief" in Quenya. He was perhaps one of the first 12 elves who awoke in Cuiviénen with Imin, who was the first to awake. He became one of the 3 elves, with Elwe and Finwe , of the first embassy to Aman. Ingwe  became the first of the Vanyar to travel to Valinor with Orome. Loving its beauty and bliss, he returned to his people and urged them to undertake a journey to Aman. He and his kin were fascinated with the Valar, and they decided not to return to Middle-earth. They stayed and made Ingwe  their king. The Mindon Eldali va in Tirion was built in honor of him. Ingwe  was reckoned as High King of all the Eldali , the Elves of the Great Journey, and because of this he is called Ingwe  Ingweron; the "Chief of the Chieftains". He lived in Taniquetil, ruling from beneath Manwe  High King of Arda. Ingwe  never set foot on Middle-earth after he began living in Taniquetil. When the Vanyar took up arms in the War of Wrath and followed The Host of Valinor, Ingwe  did not join them."
 END
 
 CONTROLBAR:VanyarIngweRevive    
-"Revive the fallen Hero, Ingwe "
+"Revive the fallen Hero, Ingwe \n Class: Warrior/Army support"
 END
 
 CONTROLBAR:VanyarIngweHotkey
@@ -92409,11 +92430,11 @@ CONTROLBAR:LW_ToolTip_EdainTurin
 END
 
 CONTROLBAR:EdainTurinRecruit
-"Recruit Turin son of Hurin, belonging to the Third House of the Edain, the House of Hador \n Lore: \n Turin Turambar was an Adan of the House of Hador and a Man of Middle-earth, who became a tragic hero (or anti-hero) of the First Age, in the tale called Narn i Ch n Hurin ("The Tale of the Children of Hurin"). Gwindor then led Turin to Nargothrond, where once he had lived. In Nargothrond, Turin hid his name, calling himself by the alias Agarwaen son of  marth (Sindarin for "Bloodstained son of Ill-fate"), while hoping to hide his identity and escape Morgoth's curse upon his kin. He had Anglachel reforged and named it Gurthang, "Iron of Death". Finduilas, daughter of Orodreth, fell in love with him, but he avoided her because she had previously been the beloved of his friend Gwindor. Turin declined to tell her his name, so that she called him Thurin (the secret). He was also called Adanedhel (Man-Elf) because he was so like an elf, though he was human. Gwindor later revealed Turin's true identity to Finduilas when anger and sadness over took him and it eventually reached Finduilas' father, King Orodreth."
+"Recruit Turin son of Hurin, belonging to the Third House of the Edain, the House of Hador \n Class: Warrior/Army support \n\n Lore: \n Turin Turambar was an Adan of the House of Hador and a Man of Middle-earth, who became a tragic hero (or anti-hero) of the First Age, in the tale called Narn i Ch n Hurin ("The Tale of the Children of Hurin"). Gwindor then led Turin to Nargothrond, where once he had lived. In Nargothrond, Turin hid his name, calling himself by the alias Agarwaen son of  marth (Sindarin for "Bloodstained son of Ill-fate"), while hoping to hide his identity and escape Morgoth's curse upon his kin. He had Anglachel reforged and named it Gurthang, "Iron of Death". Finduilas, daughter of Orodreth, fell in love with him, but he avoided her because she had previously been the beloved of his friend Gwindor. Turin declined to tell her his name, so that she called him Thurin (the secret). He was also called Adanedhel (Man-Elf) because he was so like an elf, though he was human. Gwindor later revealed Turin's true identity to Finduilas when anger and sadness over took him and it eventually reached Finduilas' father, King Orodreth."
 END
 
 CONTROLBAR:EdainTurinRevive
-"Revive the fallen Hero, Turin"
+"Revive the fallen Hero, Turin \n Class: Warrior/Army support"
 END
 
 CONTROLBAR:EdainTurinHotkey
