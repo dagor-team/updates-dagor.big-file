@@ -2765,11 +2765,11 @@ OBJECT:AngmarWargLairDescription
 END
 
 CONTROLBAR:ConstructAngmarWeiﬂerWargHorde
-"White Wolves"
+"White Wolves of Forochel"
 END
 
 CONTROLBAR:ToolTipBuildAngmarWeiﬂerWargHorde
-"Recruit the White Wolves of Forochel \n Strong vs: Swordsman"
+"Unit type: Regular Cavalry \n Class: Light Cavalry \n Strong vs: Archers and at flanking"
 END
 
 CONTROLBAR:ToolTipBuildAngmarHeroWolf_Neu
@@ -2789,7 +2789,7 @@ CONTROLBAR:LW_Unit_AngmarWeiﬂerWargHorde
 END
 
 CONTROLBAR:LW_ToolTip_AngmarWeiﬂerWargHorde
-"Unit Type: Cavalry \n Strong vs: Swordsman"
+"Unit type: Regular Cavalry \n Class: Light Cavalry \n Strong vs: Archers and at flanking""
 END
 
 CONTROLBAR:TogglePeasentFighter
@@ -24941,7 +24941,7 @@ CONTROLBAR:LW_Unit_EvilmenrhunreiterHorde
 END
 
 CONTROLBAR:ToolTipBuildMordorHaradrimRiderHordeMod
-"Strong vs: Archery and Sword Warrior"
+"Unit Type: Regular Cavalry \n Class: Light Cavalry \n Strong vs: Archers and at flanking"
 END
 
 OBJECT:HordeEvilmenRhunrider
@@ -56262,11 +56262,11 @@ OBJECT:HordeRohanRohirrim
 END
 
 CONTROLBAR:ConstructRohanRohirrimHorde
-"Rohirrim (&W)"
+"Rohirrim (&Q)"
 END
 
 CONTROLBAR:ToolTipBuildRohanRohirrimHorde
-"Unit Type: Regular Cavalry \n Strong vs: Swordsmen and Archers"
+"Unit Type: Regular Cavalry \n Class: Medium Cavarly \n Strong at trampling vs: Swordsmen and Archers"
 END
 
 BANNERUI:RohanRohirrim
@@ -56286,11 +56286,11 @@ CONTROLBAR:LW_Unit_RohanRohirrimHordePlural
 END
 
 CONTROLBAR:LW_ToolTipBuild_RohanRohirrimHorde
-"Unit Type: Cavalry\nStrong vs: Infantry and Archers\n"
+"Unit Type: Regular Cavalry \n Class: Medium Cavarly \n Strong at trampling vs: Swordsmen and Archers"
 END
 
 CONTROLBAR:LW_ToolTip_RohanRohirrimHorde
-"\nUnit Type: Cavalry\nStrong vs: Infantry and Archers"
+"Unit Type: Regular Cavalry \n Class: Medium Cavarly \n Strong at trampling vs: Swordsmen and Archers"
 END
 
 
@@ -56303,11 +56303,11 @@ OBJECT:RohirrimAxeHorde
 END
 
 CONTROLBAR:ConstructRohanAxtRohirrimHorde
-"Axe Rohirrim (&E)"
+"Axe Rohirrim (&W)"
 END
 
 CONTROLBAR:ToolTipBuildRohanAxtRohirrimHorde
-"Unit Type: Regular Cavalry \n Strong vs: Archers and Structures"
+"Unit Type: Regular Cavalry \n Class: Heavy Cavarly \n Strong in melee, doesnt trample well"
 END
 
 BANNERUI:RohanAxtRohirrim
@@ -56327,11 +56327,11 @@ CONTROLBAR:LW_Unit_RohirrimAxeHordePlural
 END
 
 CONTROLBAR:LW_ToolTipBuild_RohirrimAxeHorde
-"Unit Type: Basic Cavalry\nStrong vs: Archers and Structures\n"
+"Unit Type: Regular Cavalry \n Class: Heavy Cavarly \n Strong in melee, doesnt trample well"
 END
 
 CONTROLBAR:LW_ToolTip_RohirrimAxeHorde
-"\nUnit Type: Basic Cavalry\nStrong vs: Archers and Structures"
+"Unit Type: Regular Cavalry \n Class: Heavy Cavarly \n Strong in melee, doesnt trample well"
 END
 
 OBJECT:RohanRohirrimArchers
@@ -56343,11 +56343,11 @@ OBJECT:HordeRohanRohirrimArchers
 END
 
 CONTROLBAR:ConstructRohanRohirrimArcherHorde
-"Rohirrim Archers (&R)"
+"Rohirrim Archers (&E)"
 END
 
 CONTROLBAR:ToolTipBuildRohanRohirrimArcherHorde
-"Requires: Rohan Stables Level 2 \n Unit Type: Regular Cavalry Archer \n Strong at Range \n You can maintain only 4 at a time"
+"Requires: Rohan Stables Level 2 \n Unit Type: Regular Cavalry Archer \n Class: Light Cavalry \n Strong at Range \n You can maintain only 4 at a time"
 END
 
 BANNERUI:RohanRohirrimArcher
@@ -56367,11 +56367,11 @@ CONTROLBAR:LW_Unit_RohanRohirrimBogisHordePlural
 END
 
 CONTROLBAR:LW_ToolTipBuild_RohanRohirrimBogisHorde
-"Unit Type: Cavalry Archer\nStrong at Range\n"
+"Unit Type: Regular Cavalry Archer \n Class: Light Cavalry \n Strong at Range"
 END
 
 CONTROLBAR:LW_ToolTip_RohanRohirrimBogisHorde
-"\nUnit Type: Cavalry Archer\nStrong at Range"
+"Unit Type: Regular Cavalry Archer \n Class: Light Cavalry \n Strong at Range"
 END
 
 
@@ -56384,7 +56384,7 @@ OBJECT:RohanKoniglicheGardeHorde
 END
 
 CONTROLBAR:ConstructRohanRoyalGuardHorde
-"Rohan Royal Guard (&T)"
+"Rohan Royal Guard (&R)"
 END
 
 CONTROLBAR:ToolTipBuildRohanRoyalGuardHorde
@@ -57807,7 +57807,7 @@ CONTROLBAR:ConstructMirkwoodElkriderHorde
 END
 
 CONTROLBAR:ToolTipBuildMirkwoodElkriderHorde
-"Requires: Mirkwood Barracks Level 2 \n Unit Type: Regular Cavalry Archer \n Strong at Range \n You can only build 5 Elkrider Battalions"
+"Requires: Mirkwood Barracks Level 2 \n Unit Type: Regular Cavalry Archer \n Class: Light Cavalry \n Strong at Range \n You can only maintain 5 battalions at a time"
 END
 
 BANNERUI:MirkwoodElkrider
@@ -57827,11 +57827,11 @@ CONTROLBAR:LW_Unit_MirkwoodElkriderHordeHordePlural
 END
 
 CONTROLBAR:LW_ToolTipBuild_MirkwoodElkriderHordeHorde
-"Unit Type: Regular Cavalry Archer\nStrong at Range\n"
+"Unit Type: Regular Cavalry Archer \n Class: Light Cavalry \n Strong at Range"
 END
 
 CONTROLBAR:LW_ToolTip_MirkwoodElkriderHordeHorde
-"\nUnit Type: Regular Cavalry Archer\nStrong at Range"
+"Unit Type: Regular Cavalry Archer \n Class: Light Cavalry \n Strong at Range"
 END
 
 
@@ -65502,7 +65502,7 @@ CONTROLBAR:ConstructIsengardWargBowHorde
 END
 
 CONTROLBAR:ToolTipBuildIsengardWargBowHorde
-"Requires: Warg Pit Level 2 and Ambush of Beasts \n Unit Type: Regular Ranged Cavalry \n Strong at Ranged"
+"Requires: Warg Pit Level 2 and Ambush of Beasts \n Unit Type: Regular Cavalry Archer \n Class: Light Cavalry \n Strong at Ranged"
 END
 
 BANNERUI:IsengardWargBow
@@ -65522,11 +65522,11 @@ CONTROLBAR:LW_Unit_IsengardWargBowHordePlural
 END
 
 CONTROLBAR:LW_ToolTipBuild_IsengardWargBowHorde
-"Unit Type: Regular Archer\nStrong vs: Depending on the situation\n"
+"Unit Type: Regular Cavalry Archer \n Class: Light Cavalry \n Strong at Ranged"
 END
 
 CONTROLBAR:LW_ToolTip_IsengardWargBowHorde
-"Unit Type: Regular Ranged Cavalry\nStrong at Ranged"
+"Unit Type: Regular Cavalry Archer \n Class: Light Cavalry \n Strong at Ranged"
 END
 
 
@@ -67223,11 +67223,11 @@ CONTROLBAR:ConstructWildSpiderRiderHorde
 END
 
 CONTROLBAR:ToolTipBuildWildSpiderRiderHorde
-"Requires: Gorkil has been crowned and Spider Pit Level 3 \n Unit Type: Advanced Cavalry \n Strong vs: Depending on the situation \n Can switch between Sword and Bow \n You can only build 5 Spider riders at the same time"
+"Requires: Gorkil has been crowned and Spider Pit Level 3 \n Unit Type: Advanced Cavalry \n Class: Light Cavalry \n Can switch between Spear and Bow \n Spear selected - Strong vs: Archers and at flanking \n Bow selected - Strong vs: Melee units and Monsters \n You can only maintain 5 battalions at the same time"
 END
 
 CONTROLBAR:ToolTipBuildWildSpiderRiderHordeEdain_forEtteenmoors
-"Requires: Spider Pit Level 3 \n Unit Type: Advanced Cavalry \n Strong vs: Depending on the situation \n Can switch between Sword and Bow"
+"Requires: Gorkil has been crowned and Spider Pit Level 3 \n Unit Type: Advanced Cavalry \n Class: Light Cavalry \n Can switch between Spear and Bow \n Spear selected - Strong vs: Archers and at flanking \n Bow selected - Strong vs: Melee units and Monsters \n You can only maintain 5 battalions at the same time"
 END
 
 BANNERUI:GoblinSpiderRider
@@ -67247,11 +67247,11 @@ CONTROLBAR:LW_Unit_GoblinSpiderRiderHordePlural
 END
 
 CONTROLBAR:LW_ToolTipBuild_GoblinSpiderRiderHorde
-"Unit Type: Advanced Cavalry\nStrong vs. Archers\n"
+"Unit Type: Advanced Cavalry \n Class: Light Cavalry \n Can switch between Spear and Bow \n Spear selected - Strong vs: Archers and at flanking \n Bow selected - Strong vs: Melee units and Monsters"
 END
 
 CONTROLBAR:LW_ToolTip_GoblinSpiderRiderHorde
-"\nUnit Type: Advanced Cavalry\nStrong vs: Depending on the situation"
+"Unit Type: Advanced Cavalry \n Class: Light Cavalry \n Can switch between Spear and Bow \n Spear selected - Strong vs: Archers and at flanking \n Bow selected - Strong vs: Melee units and Monsters"
 END
 
 
@@ -68304,7 +68304,7 @@ END
 // ANGMAR UPGRADES
 
 CONTROLBAR:ThrallMasterUpgradeOrcWarriors
-"Gundabad Orc Grunts (&W)"
+"Gundabad Orc Grunts (&Q)"
 END
 
 CONTROLBAR:TooltipThrallMasterUpgradeOrcWarriors
@@ -68316,7 +68316,7 @@ UPGRADE:AngmarThrallMasterOrcWarriors
 END
 
 CONTROLBAR:ThrallMasterUpgradeRhudaurSpearmen
-"Rhudaur Spearmen (&R)"
+"Rhudaur Spearmen (&W)"
 END
 
 CONTROLBAR:TooltipThrallMasterUpgradeRhudaurSpearmen
@@ -68328,11 +68328,11 @@ UPGRADE:AngmarThrallMasterRhudaurSpearmen
 END
 
 CONTROLBAR:ThrallMasterUpgradeRhudaurSlingers
-"Rhudaur Axe Throwers (&T)"
+"Rhudaur Axe Throwers (&E)"
 END
 
 CONTROLBAR:TooltipThrallMasterUpgradeRhudaurSlingers
-"Summon Rhudaur Axe Throwers \n Unit Type: Cheap Axe Thrower \n Strong at Range \n These treacherous hillmen are epecially deadly enemy pikemen and structures"
+"Summon Rhudaur Axe Throwers \n Unit Type: Cheap Axe Thrower \n Strong at Range \n These treacherous hillmen are epecially deadly for enemy pikemen and structures"
 END
 
 UPGRADE:AngmarThrallMasterRhudaurSlingers
@@ -68340,11 +68340,11 @@ UPGRADE:AngmarThrallMasterRhudaurSlingers
 END
 
 CONTROLBAR:ThrallMasterUpgradeWolfRiders
-"Rhudaur Wolf Riders (&C)"
+"Rhudaur Wolf Riders (&R)"
 END
 
 CONTROLBAR:TooltipThrallMasterUpgradeWolfRiders
-"Summon Rhudaur Wolf Riders \n Unit Type: Basic Cavalry \n Strong vs: Infantry"
+"Summon Rhudaur Wolf Riders \n Unit Type: Basic Cavalry \n Class: Light Cavalry \n Strong vs: Archers and at flanking"
 END
 
 UPGRADE:AngmarThrallMasterWolfRiders
@@ -68852,7 +68852,7 @@ CONTROLBAR:LW_Unit_AngmarWolfRidersPlural
 END
 
 CONTROLBAR:LW_ToolTip_AngmarWolfRiders
-"\nUnit Type: Basic Cavalry\nStrong vs: Infantry"
+"Unit Type: Basic Cavalry \n Class: Light Cavalry \n Strong vs: Archers and at flanking"
 END
 
 
@@ -87414,7 +87414,7 @@ OBJECT:HordeMordorHaradrimRider
 END
 
 CONTROLBAR:ToolTipBuildMordorHaradrimRiderHorde
-"Requires: Level 2 Haradrim Palace \n Cavalry, Strong vs. Archers and Swordsmen"
+"Requires: Harad Faction chosen \n Unit Type: Regular Cavalry \n Strong vs: Archers and Swordsmen"
 END
 
 OBJECT:MordorHaradrimRiders
@@ -89970,7 +89970,7 @@ BANNERUI:MordorBlackOrcs
 END
 
 CONTROLBAR:LW_ToolTipBuild_MordorHaradrimRiderHorde
-"Unit Type: Basic Cavalry\nStrong vs. Archers\n"
+"Unit Type: Regular Cavalry \n Class: Light Cavalry \n Strong vs: Archers and at flanking"
 END
 
 BANNERUI:MordorHaradrimRider
