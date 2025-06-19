@@ -558,11 +558,11 @@ CONTROLBAR:LW_Hero_GundabadBolg
 END
 
 CONTROLBAR:GundabadBolgRecruit
-"Recruit the Orc Chieftain of Gundabad \n \n Lore: \n Bolg was an Orc leader of the Misty Mountains during the late Third Age, and the son of Azog. Bolg had succeeded Azog after the latter's death in the Battle of Azanulbizar (the last battle of the War of the Dwarves and Orcs) in TA 2799 by Dain II Ironfoot, and had resettled in the old refuge of Mount Gundabad after the kingdom of Angmar was abandoned. There he would rule over the goblins of the Misty Mountains from their seat at Mount Gundabad. After about 150 years, he led an army of goblins, wargs, and bats in the Battle of the 5 Armies, into which he took his bodyguards with him as well. In that battle he was crushed by the mighty Beorn, who was avenging Thorin II Oakenshield who had just been fatally wounded."
+"Recruit the Orc Chieftain of Gundabad \n Class: Army support/Warrior \n \n Lore: \n Bolg was an Orc leader of the Misty Mountains during the late Third Age, and the son of Azog. Bolg had succeeded Azog after the latter's death in the Battle of Azanulbizar (the last battle of the War of the Dwarves and Orcs) in TA 2799 by Dain II Ironfoot, and had resettled in the old refuge of Mount Gundabad after the kingdom of Angmar was abandoned. There he would rule over the goblins of the Misty Mountains from their seat at Mount Gundabad. After about 150 years, he led an army of goblins, wargs, and bats in the Battle of the 5 Armies, into which he took his bodyguards with him as well. In that battle he was crushed by the mighty Beorn, who was avenging Thorin II Oakenshield who had just been fatally wounded."
 END
 
 CONTROLBAR:GundabadBolgRevive
-"Revive the fallen Hero, Bolg"
+"Revive the fallen Hero, Bolg \n Class: Army support/Warrior"
 END
 
 CONTROLBAR:GundabadBolgHotkey
@@ -841,11 +841,11 @@ CONTROLBAR:LW_Hero_Helegwen
 END
 
 CONTROLBAR:AngmarHelegwenRecruit
-"Recruit Angmar's greatest archer \n \n Lore: \n Helegwen knew from a young age what it meant to fight for her life. As the power of Angmar grew, winter was becoming harsher every year and she had to use her skills to hunt and defend her town from wolves and hill men. She was recruited by Mornamarth, who saw her potential, and now serves Angmar with her bow and mighty arrows."
+"Recruit Angmar's greatest archer \n Class: Archer/Army support \n\n Lore: \n Helegwen knew from a young age what it meant to fight for her life. As the power of Angmar grew, winter was becoming harsher every year and she had to use her skills to hunt and defend her town from wolves and hill men. She was recruited by Mornamarth, who saw her potential, and now serves Angmar with her bow and mighty arrows."
 END
 
 CONTROLBAR:AngmarHelegwenRevive
-"Revive the fallen hero Helegwen"
+"Revive the fallen Hero, Helegwen \n Class: Archer/Army support"
 END
 
 CONTROLBAR:AngmarHelegwenHotkey
@@ -1503,11 +1503,11 @@ CONTROLBAR:LW_ToolTip_LeaderHero
 END
 
 CONTROLBAR:WildBoldogRecruit
-"Boldog The Captain of Angband"
+"Boldog The Captain of Angband \n Class: Warrior/Army support \n\n Lore: \n the name Boldog was used by an Orc-captain of Angband, who led a host of Orcs on a raid of the north-marches of the Kingdom of Doriath. He was commanded by Morgoth to capture Lúthien and bring her to him for an undisclosed reason. Boldog drove his host south over the highlands of Dorthonion and through the enchanted forest of Taur-nu-Fuin, following the Orcs' Road of Haste through the Pass of Anach. Where fell darkness met the mists of the Girdle of Melian, just east of the river Mindeb, the Orc-host reached the border of Doriath. To meet the deadly threat posed by Boldog's invasion in force, Thingol mustered his full might with his two great Captains, Beleg and Mablung. He lead the army of Iathrim Elves beyond the north-marches of Doriath. Thingol and Boldog met in single combat in the midst of the battle. Boldog fought him with an iron spear, but was ultimately slain by Thingol wielding Aranrúth."
 End
 
 CONTROLBAR:WildBoldogRevive
-"Boldog"
+"Revive the fallen Hero, Boldog \n Class: Warrior/Army support"
 End
 
 CONTROLBAR:WildBoldogHotkey
@@ -2497,7 +2497,7 @@ CONTROLBAR:WildGroßorkRecruit_Neu
 END
 
 CONTROLBAR:WildGreatGoblinRecruit_Neu
-"Recruit the Great Goblin, the Lord of the Misty Mountains \n \n Lore: \n The Great Goblin was a large Goblin leader who lived in the Misty Mountains in Middle-earth during the Third Age. The Great Goblin was a Goblin chieftain of the Misty Mountains. He was a very large creature with a huge head. He was the chief of a group of goblins who lived in Goblin-town near the High Pass. They preyed on travellers who used another, easier pass near the main gate of Goblin-town until people started avoiding that route over the mountains. The goblins then made another gate that opened into a cave that they called the Front Porch, at the top of the High Pass. The Great Goblin also sometimes ordered his goblins to catch fish for him in Gollum's Lake, and these goblins were sometimes killed by Gollum."
+"Recruit the Great Goblin, the Lord of the Misty Mountains \n Class: Army support \n \n Lore: \n The Great Goblin was a large Goblin leader who lived in the Misty Mountains in Middle-earth during the Third Age. The Great Goblin was a Goblin chieftain of the Misty Mountains. He was a very large creature with a huge head. He was the chief of a group of goblins who lived in Goblin-town near the High Pass. They preyed on travellers who used another, easier pass near the main gate of Goblin-town until people started avoiding that route over the mountains. The goblins then made another gate that opened into a cave that they called the Front Porch, at the top of the High Pass. The Great Goblin also sometimes ordered his goblins to catch fish for him in Gollum's Lake, and these goblins were sometimes killed by Gollum."
 END
 
 CONTROLBAR:ToolTipConstructMordorCirithTower_Neu
@@ -4165,7 +4165,7 @@ CONTROLBAR:ToolTipArgdushDecimate
 END
 
 CONTROLBAR:AngmarZaphragorRevive
-"Revive the fallen hero Zaphragor"
+"Revive the fallen Hero, Zaphragor \n Class: Warrior"
 END
 
 CONTROLBAR:ToolTipGothmogFuhrerschaftNew
@@ -4918,7 +4918,7 @@ OBJECT:ArnorAranarthDunedainEntscheidung
 END
 
 CONTROLBAR:AngmarZaphragorRecruit
-"Recruit the most loyal and fanatical subject of the Witch-king \n \n Lore: \n Zaphragor is among Angmar's most powerful servants. He is a fearsome butcher who drives his enemies before him through strength of arms and magic. He is the hammer of the Witch-King, charging into battle at the head of his host to break the enemy line with little regard for his own life; Zaphragor does not serve the Witch-King out of fear or greed, but burns with true and unbending loyalty. Where other sorcerers sacrifice acolytes to perform their spells, Zaphragor despises such weakness and gives of his own life force instead. Far from a weakness, however, this makes him even more deadly as he does not have to rely on any kind of support to wreak havoc on the battlefield. Due to events of their past, he harbors a hatred for Mornamarth."
+"Recruit the most loyal and fanatical subject of the Witch-king \n Class: Warrior \n \n Lore: \n Zaphragor is among Witch-King's most powerful servants. He is a fearsome butcher who drives his enemies before him through strength of arms and magic. He is the hammer of the Witch-King, charging into battle at the head of his host to break the enemy line with little regard for his own life; Zaphragor does not serve the Witch-King out of fear or greed, but burns with true and unbending loyalty. Where other sorcerers sacrifice acolytes to perform their spells, Zaphragor despises such weakness and gives of his own life force instead. Far from a weakness, however, this makes him even more deadly as he does not have to rely on any kind of support to wreak havoc on the battlefield. Due to events of their past, he harbors a hatred for Mornamarth."
 END
 
 CONTROLBAR:SchwerterderWesternis
@@ -6646,11 +6646,11 @@ CONTROLBAR:ToolTipBlutigesBundnissDebuff
 END
 
 CONTROLBAR:EvilbeastsScathaRecruit
-"Recruit the horrors of the Withered Heath"
+"Recruit the horror of the Withered Heath \n Class: Warrior \n Some have great wings like the wind \n Some have fire and fierce wrath,\n Some have venom on their long teeth \n Some have hides like armour, tails \n like steel, tongues like spears, eyes \n piercing bright: some are great & golden \n Some are green; some are red as \n glowing iron. Not so was Scatha."
 END
 
 CONTROLBAR:EvilbeastsScathaRevive
-"Revive the fallen hero Scatha"
+"Revive the fallen Hero, Scatha \n Class: Warrior"
 END
 
 CONTROLBAR:EvilbeastsScathaHotkey
@@ -8343,7 +8343,7 @@ CONTROLBAR:ToolTipBolgsLeibgardeKing
 END
 
 CONTROLBAR:ShelobRecruitMod
-"Recruit the Dread of Cirith-Ungol \n Shelob gets the majority of her experience by producing spiders. \n \n Lore: \n Shelob was a Great Spider, that was the greatest offspring of Ungoliant, the primordial spider. During the Third Age she lived in Mordor and was known to feed indiscriminately, preying on the inhabitants. She was encountered by Frodo and Sam in their quest to destroy the One Ring. Shelob's early history is completely unknown, save for the assumption that she was born in the Ered Gorgoroth and that she was the "last child" of Ungoliant. By the Second Age, she often feasted on her own children, and that at some point after fleeing from Beleriand, yet long before Sauron took the land of Mordor for himself she spun a dark lair in the Ephel Duath (Mountains of Shadow), near Cirith Ungol in the passes above Minas Morgul. For hundreds of years, she resided there making a labyrinth of webs within a network of caves to better trap her prey, which included all creatures great and small. She feasted primarily on those who wandered into her webs, though if a particularly juicy morsel was available, she would silently pursue and kill it."
+"Recruit the Dread of Cirith-Ungol \n Shelob gets the majority of her experience by producing spiders \n Class: Hero killer \n \n Lore: \n Shelob was a Great Spider, that was the greatest offspring of Ungoliant, the primordial spider. During the Third Age she lived in Mordor and was known to feed indiscriminately, preying on the inhabitants. She was encountered by Frodo and Sam in their quest to destroy the One Ring. Shelob's early history is completely unknown, save for the assumption that she was born in the Ered Gorgoroth and that she was the "last child" of Ungoliant. By the Second Age, she often feasted on her own children, and that at some point after fleeing from Beleriand, yet long before Sauron took the land of Mordor for himself she spun a dark lair in the Ephel Duath (Mountains of Shadow), near Cirith Ungol in the passes above Minas Morgul. For hundreds of years, she resided there making a labyrinth of webs within a network of caves to better trap her prey, which included all creatures great and small. She feasted primarily on those who wandered into her webs, though if a particularly juicy morsel was available, she would silently pursue and kill it."
 END
 
 CONTROLBAR:EvilmenSalemeRecruit
@@ -8351,7 +8351,7 @@ CONTROLBAR:EvilmenSalemeRecruit
 END
 
 CONTROLBAR:MordorCastamirRevive
-"Revive the fallen hero Castamir"
+"Revive the fallen Hero, Castamir \n Class: Army support"
 END
 
 CONTROLBAR:EvilmenSalemeRevive
@@ -8367,7 +8367,7 @@ CONTROLBAR:AngmarDurmarthHotkey
 END
 
 CONTROLBAR:WildGoblinKingReviveNew
-"Summon the fallen hero Gorkil to life"
+"Revive the fallen Hero, Gorkil \n Class: Warrior/Army support"
 END
 
 CONTROLBAR:ImladrisErestorRecruitNew
@@ -8375,7 +8375,7 @@ CONTROLBAR:ImladrisErestorRecruitNew
 END
 
 CONTROLBAR:WildDuhrburRevive
-"Revive the fallen hero Buhrdur"
+"Revive the fallen hero Buhrdur \n Class: Warrior"
 END
 
 CONTROLBAR:GasthausGhanBuriGhanRecruit
@@ -10212,7 +10212,7 @@ CONTROLBAR:WildGroßorkRevive
 END
 
 CONTROLBAR:WildGreatGoblinRevive
-"Revive the fallen Lord of the High Pass"
+"Revive the fallen Hero, Great Goblin \n Class: Army support"
 END
 
 CONTROLBAR:WaffenmeisterWaffenkunst
@@ -11533,8 +11533,12 @@ CONTROLBAR:AngmarBestienmeisterHotkey
 "The &Beastmaster"
 END
 
-CONTROLBAR:AngmarBestienmeister
-"Recruit the Beastmaster of Angmar \n \n Lore: \n Drauglin is the Beastmaster of Angmar, a tortured Beorning that can skinchange into a Wolf. Due to the torture, he was bent to the Sorcerers of Angmar's will and is a slave without a will of his own. Commanding the Dire Wolves of Angmar due to his intelligence, he is a fearsome hunter that preys on the Iron Crown's enemies and raids the lands outside Angmar's borders."
+CONTROLBAR:AngmarBestienmeisterRecruit
+"Recruit the Beastmaster of Angmar \n Class: Scout \n \n Lore: \n Drauglin is the Beastmaster of Angmar, a tortured Beorning that can skinchange into a Wolf. Due to the torture, he was bent to the Sorcerers of Angmar's will and is a slave without a will of his own. Commanding the Dire Wolves of Angmar due to his intelligence, he is a fearsome hunter that preys on the Iron Crown's enemies and raids the lands outside Angmar's borders."
+END
+
+CONTROLBAR:AngmarBestienmeisterRevive
+"Revive the fallen Hero, the Beastmaster \n Class: Scout"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityTrolldesNordens
@@ -12054,7 +12058,7 @@ CONTROLBAR:LW_Hero_Duhrbur
 END
 
 CONTROLBAR:WildDuhrburRecruit
-"Recruit the Troll Leader of the Trollshaws \n \n Lore: \n Buhrdur was a chieftain of the Hill trolls. Buhrdur was said to be born in the darkest depths of the Misty Mountains caves. He had also the influence of gathering up all sorts of Creatures under his banner to support his lord Sauron."
+"Recruit the Troll Leader of the Trollshaws \n Class: Warrior \n\n Lore: \n Buhrdur was a chieftain of the Hill trolls. Buhrdur was said to be born in the darkest depths of the Misty Mountains caves. He had also the influence of gathering up all sorts of Creatures under his banner to support his lord Sauron."
 END
 
 CONTROLBAR:TogglePalantir1Alatar
@@ -12623,7 +12627,7 @@ OBJECT:RohanOldman
 END
 
 CONTROLBAR:RohanOldManRecruit
-"Recruit Theoden the Corrupted, whose spirit was corrupted by Saruman \n Grima Wormtongue accompanies him on his way and whispers false words \n Theoden the Corrupted cannot attack or level up, but can perform various skills \n Many of his skills are tied to the environment \n Class: Faction leader/Army support \n \n Lore: \n By the time of the War of the Ring, Theoden had been king for nearly 40 years, and was becoming old and tired. He was increasingly misled by his chief adviser Gr ma (or Wormtongue as most others in the Mark called him), who was secretly in the employ of Saruman the White. Gr ma may even have been poisoning Theoden. In the last years before the War of the Ring, Theoden let his rule slip out of his hands, and Gr ma gained aNaincreasingly large hold over him. Rohan was troubled again by Orcs and Dunlendings as well as the new fighting Uruk-hai, who operated under the will of Saruman, ruling from Isengard."
+"Recruit Theoden the Corrupted, whose spirit was corrupted by Saruman \n Grima Wormtongue accompanies him on his way and whispers false words \n Theoden the Corrupted cannot attack or level up, but can perform various skills \n Many of his skills are tied to the environment \n Class: Faction leader/Army support \n \n Lore: \n By the time of the War of the Ring, Theoden had been king for nearly 40 years, and was becoming old and tired. He was increasingly misled by his chief adviser Grima (or Wormtongue as most others in the Mark called him), who was secretly in the employ of Saruman the White. Grima may even have been poisoning Theoden. In the last years before the War of the Ring, Theoden let his rule slip out of his hands, and Grima gained aNaincreasingly large hold over him. Rohan was troubled again by Orcs and Dunlendings as well as the new fighting Uruk-hai, who operated under the will of Saruman, ruling from Isengard."
 END
 
 CONTROLBAR:SpeerwerferEingezogen
@@ -13036,7 +13040,7 @@ CONTROLBAR:ToolTipdescriptionIsengardOrthanc
 END
 
 CONTROLBAR:IsengardSarumanRecruit
-"Recruit the leader of the order of the Istari \n Magic: Words \n Silmaril Hero \n Silmaril Function: By chance he will be 'Saruman the Blessed' or "Saruman the Cursed" \n Saruman the Blessed: The White Wizard is presented as a sublime presence, like the power of a Valar \n Saruman the Cursed: The White Wizard succumbs to his madness \n in this figure, Saruman casts powerful fire magic \n \n Lore: \n He studied deeply the arts of Sauron, the better to oppose him, but he soon became enamored of Sauron's devices, especially the One Ring. He betrayed his mission and sought the power of the Ring for himself. He initially advocated an alliance with Sauron, but he soon betrayed Sauron as well, as his ultimate goal was to supplant Sauron and rule Middle-earth. But his plans came to nought, and his power was broken in the Battle of the Hornburg and the Battle of Isengard. Before his fall, he was the chief of both the wizards and of the White Council (a league of all those opposed to Sauron). His knowledge and skill, especially of Sauron's devices, was said to be great. However, his deep study of the One Ring and Sauron's other magic corrupted him, and his overweening lust for power led to his downfall."
+"Recruit the leader of the order of the Istari \n Class: Faction leader/Wizard \n\n Lore: \n He studied deeply the arts of Sauron, the better to oppose him, but he soon became enamored of Sauron's devices, especially the One Ring. He betrayed his mission and sought the power of the Ring for himself. He initially advocated an alliance with Sauron, but he soon betrayed Sauron as well, as his ultimate goal was to supplant Sauron and rule Middle-earth. But his plans came to nought, and his power was broken in the Battle of the Hornburg and the Battle of Isengard. Before his fall, he was the chief of both the wizards and of the White Council (a league of all those opposed to Sauron). His knowledge and skill, especially of Sauron's devices, was said to be great. However, his deep study of the One Ring and Sauron's other magic corrupted him, and his overweening lust for power led to his downfall."
 END
 
 CONTROLBAR:SpecialAbilityKarshSummonLvl1
@@ -14252,7 +14256,7 @@ CONTROLBAR:ToolTipCommandSelectUpgradesGraueScharFaction
 END
 
 CONTROLBAR:MordorCastamirRecruit
-"Recruit the captain of the pirates \n \n Lore: \n Castamir the Usurper usurped the throne of Gondor from Eldacar, ruling from TA 1437 to 1447 of the Third Age, until he was violently deposed at the Battle of Erui. The great-grandson of the unremarkable King Calmacil, Castamir was not in line for the throne, but his royal background had made him the Lord of Ships under the previous king, Valacar. His lineage and influence left him in a position to challenge the current king, Eldacar, who was only half Dunedain. As King Valacar's only son, Eldacar was the legitimate heir to the throne, but his half Rhovanion lineage angered citizens who believed in a pure Dunedain royalty. Capitalizing on what became outright protest against the current king, Castamir was able to incite rebellion and besiege Eldacar within the city Osgiliath in TA 1437 of the Third Age. The city was set on fire by Castamir's troops, destroying the famed Dome of Stars. Shortly thereafter, Eldacar fled the city and into exile in Rhovanion, to the north. With the defeat of the king, Castamir seized the throne."
+"Recruit the captain of the pirates \n Class: Army support \n \n Lore: \n Castamir the Usurper usurped the throne of Gondor from Eldacar, ruling from TA 1437 to 1447 of the Third Age, until he was violently deposed at the Battle of Erui. The great-grandson of the unremarkable King Calmacil, Castamir was not in line for the throne, but his royal background had made him the Lord of Ships under the previous king, Valacar. His lineage and influence left him in a position to challenge the current king, Eldacar, who was only half Dunedain. As King Valacar's only son, Eldacar was the legitimate heir to the throne, but his half Rhovanion lineage angered citizens who believed in a pure Dunedain royalty. Capitalizing on what became outright protest against the current king, Castamir was able to incite rebellion and besiege Eldacar within the city Osgiliath in TA 1437 of the Third Age. The city was set on fire by Castamir's troops, destroying the famed Dome of Stars. Shortly thereafter, Eldacar fled the city and into exile in Rhovanion, to the north. With the defeat of the king, Castamir seized the throne."
 END
 
 CONTROLBAR:MordorCastamirHotkey
@@ -15838,11 +15842,11 @@ OBJECT:BleicheOrk
 END
 
 CONTROLBAR:BleicheOrkRecruit
-"Recruit Azog The Defiler of Gundabad \n \n Lore: \n Azog, known also as the Defiler and the Pale Orc, was an orc who lived in the Third Age. He commanded the tribes of Moria from TA 2790 until his death in TA 2799. He was responsible for the death of King Thror and for King Thrain's madness. Azog was a powerful orc who claimed rulership over the abandoned Dwarvish mines of Moria during the Third Age. He became the leader of the Goblins of Moria and initiated the War of the Dwarves and Orcs in TA 2790 by beheading King Thror, who had come to revisit the ruins of the ancient dwarven kingdom of Moria. At some point he had a son named Bolg. In the following years, Azog was the common enemy of all dwarves, and the war he started had its climax in the Battle of Azanulbizar, where he killed Nain, only to be himself slain by Nain's son Dain, who would later become King of Durin's Folk. His son, Bolg, inherited the reign in Moria and continued it for decades until his death at the Battle of the 5 Armies."
+"Recruit Azog The Defiler of Gundabad \n Class: Faction leader/Army support \n \n Lore: \n Azog, known also as the Defiler and the Pale Orc, was an orc who lived in the Third Age. He commanded the tribes of Moria from TA 2790 until his death in TA 2799. He was responsible for the death of King Thror and for King Thrain's madness. Azog was a powerful orc who claimed rulership over the abandoned Dwarvish mines of Moria during the Third Age. He became the leader of the Goblins of Moria and initiated the War of the Dwarves and Orcs in TA 2790 by beheading King Thror, who had come to revisit the ruins of the ancient dwarven kingdom of Moria. At some point he had a son named Bolg. In the following years, Azog was the common enemy of all dwarves, and the war he started had its climax in the Battle of Azanulbizar, where he killed Nain, only to be himself slain by Nain's son Dain, who would later become King of Durin's Folk. His son, Bolg, inherited the reign in Moria and continued it for decades until his death at the Battle of the 5 Armies."
 END
 
 CONTROLBAR:BleicheOrkRevive
-"Resurrect the fallen Azog The Defiler"
+"Revive the fallen Hero, Azog The Defiler \n Class: Faction leader/Army support"
 END
 
 CONTROLBAR:BleicheOrkHotkey
@@ -20839,7 +20843,7 @@ CONTROLBAR:ToolTipDurmarthSchwarzeGarde
 END
 
 CONTROLBAR:AngmarDurmarthRecruit
-" Recruit the lieutenant of the Black Guard \n Durmarth is the Guardsman and Enforcer of Angmar, the Captain of the Shadow Guard. He can change between acting as a Guardsman (Hero Supporter) or as an Enforcer (Hero Killer). \n \n Lore: \n Durmarth, was born a man of Arthedain, called Atauko. After his father's death, Durmarth and his mother moved with his uncle, who was abusive to them. After a while, he ended up killing his uncle and he had to flee, his mother getting killed in the process. After that, wolves were about to eat him, when a man, who turned out to be Gulzar, killed them and saved him.  Atauko was brought to Carn-D m, where he was given the name Durmarth by the High Sorcerer of Angmar. From then and onwards, he could not think of anything but his hatred for Arthedain. Durmarth became a loyal follower of the Iron Crown, learning to tame Wolves and Trolls (losing his left ring finger in the process). He swore to protect the man who had saved him, and after a while, he ended up becoming the Captain of the Shadow Guard of the Witch-King himself. "
+" Recruit the lieutenant of the Black Guard \n Durmarth is the Guardsman and Enforcer of Angmar, the Captain of the Shadow Guard. He can change between acting as a Guardsman Class: Hero support \n or as an Enforcer Class: Hero Killer \n\n Lore: \n Durmarth, was born a man of Arthedain, called Atauko. After his father's death, Durmarth and his mother moved with his uncle, who was abusive to them. After a while, he ended up killing his uncle and he had to flee, his mother getting killed in the process. After that, wolves were about to eat him, when a man, who turned out to be Gulzar, killed them and saved him.  Atauko was brought to Carn-D m, where he was given the name Durmarth by the High Sorcerer of Angmar. From then and onwards, he could not think of anything but his hatred for Arthedain. Durmarth became a loyal follower of the Iron Crown, learning to tame Wolves and Trolls (losing his left ring finger in the process). He swore to protect the man who had saved him, and after a while, he ended up becoming the Captain of the Shadow Guard of the Witch-King himself. "
 END
 
 CONTROLBAR:DurmarthLeadership
@@ -20887,11 +20891,7 @@ CONTROLBAR:ToolTipHexenkonigInsignien
 END
 
 CONTROLBAR:AngmarDurmarthRevive
-"Revive the fallen hero Durmarth"
-END
-
-CONTROLBAR:AngmarDurmarthRevive
-"Durmarth"
+"Revive the fallen Hero, Durmarth \n Class: Hero killer/Hero support"
 END
 
 OBJECT:HordeDunkelelfen1
@@ -21347,7 +21347,7 @@ OBJECT:ConstructWildScorpion
 END
 
 CONTROLBAR:WildScorpionRecruit
-"Requires: Spider Pit Level 2 \n Unit Type: Regular Champion Monster \n Strong vs: Heroes, Monsters \n You can Control a maximum of 3 Scorpions \n \n A huge scorpion bred by Gorkil, ready at his command"
+"Requires: Spider Pit Level 2 \n Unit Type: Regular Champion Monster \n Strong vs: Melee infantry and cavalry \n You can Control a maximum of 3 Scorpions \n \n A huge scorpion bred by Gorkil, ready at his command"
 END
 
 OBJECT:WildScorpion
@@ -27577,11 +27577,11 @@ OBJECT:Drogothnew
 END
 
 CONTROLBAR:WildDrogothnewRecruit
-"Recruit the Dragon Prince from the Misty Mountains \n \n Lore: \n Drogoth joins Sauron and commands the Goblins in exchange for one of the Dwarven Rings of Power, for as it is said, most of the Dwarven Rings were "consumed" by Dragons. He commands a legion of Goblins, and takes over a Dwarven city in the Blue Mountains as his new lair. With the arrival of Glorfindel and Gloin, the Dwarves were able to fight back a multitude of Goblins, Spiders, Trolls, and Fire-drakes. In the end, Glorfindel and Gloin destroyed Drogoth and the Dwarves reclaimed their home and the Dwarven Ring. Unfortunately, they refused to aid the Elves against Sauron, anDainstead returned to mine for more gems in their underground tunnels."
+"Recruit the Dragon Prince from the Misty Mountains \n Class: Flyer \n \n Lore: \n Drogoth joins Sauron and commands the Goblins in exchange for one of the Dwarven Rings of Power, for as it is said, most of the Dwarven Rings were "consumed" by Dragons. He commands a legion of Goblins, and takes over a Dwarven city in the Blue Mountains as his new lair. With the arrival of Glorfindel and Gloin, the Dwarves were able to fight back a multitude of Goblins, Spiders, Trolls, and Fire-drakes. In the end, Glorfindel and Gloin destroyed Drogoth and the Dwarves reclaimed their home and the Dwarven Ring. Unfortunately, they refused to aid the Elves against Sauron, anDainstead returned to mine for more gems in their underground tunnels."
 END
 
 CONTROLBAR:WildDrogothnewRevive
-"Awake the Fallen Dragon Prince"
+"Revive the fallen Hero, Drogoth \n Class: Flyer"
 END
 
 CONTROLBAR:WildDrogothnewHotkey
@@ -28834,7 +28834,7 @@ CONTROLBAR:GondorBeregondHotkey
 END
 
 CONTROLBAR:IsengardMauhurRevive
-"Summon the fallen hero Mauhúr"
+"Revive the fallen Hero, Mauhúr \n Class: Archer/Army support"
 END
 
 CONTROLBAR:IsengardMauhurHotkey
@@ -28842,7 +28842,7 @@ CONTROLBAR:IsengardMauhurHotkey
 END
 
 CONTROLBAR:IsengardWulfgarRevive
-"Summon the fallen hero Wulfgar"
+"Revive the fallen Hero, Wulfgar \n Class: Army support"
 END
 
 CONTROLBAR:IsengardWulfgarHotkey
@@ -28850,7 +28850,7 @@ CONTROLBAR:IsengardWulfgarHotkey
 END
 
 CONTROLBAR:IsengardWulfgarRecruit
-"Recruit the Leader of the Dunlendings to fight for Isengard. \n \n Lore: \n Wulfgar was the leader of the Dunlendings. He worked together with Saruman, the leader of Isengard, to destroy mankind."
+"Recruit the Leader of the Dunlendings to fight for Isengard. \n Class: Army support\n \n Lore: \n Wulfgar was the leader of the Dunlendings. He worked together with Saruman, the leader of Isengard, to destroy mankind."
 END
 
 OBJECT:IsengardWulfgar
@@ -28858,11 +28858,11 @@ OBJECT:IsengardWulfgar
 END
 
 CONTROLBAR:IsengardUglukRecruit
-"Recruit the leader of the Uruk-Hai of Isengard \n Lore: \n Ugluk was the leader of the Uruk-hai scouts, who were sent to pursue the Fellowship of the Ring in TA 3018, and a highly trusted servant of Saruman. Ugluk and his company were the ones who ended up capturing Merry and Pippin at Amon Hen and headed towards Isengard. He was one of the largest and strongest of the Uruk-hai and was a fierce fighter, managing to dismount Eomer and nearly kill him. Before that, he had been the commander of those that raided the Wold, shortly before the Fellowship left Moria. After his capture of the 2 hobbits at the end of The Fellowship of the Ring, Ugluk stood by his lord Saruman's demands when a band of Sauron's Orcs, led by Grishn kh, tried to apprehend Merry and Pippin to take them to Mordor, and he beheaded one of Grishn kh's followers to prevent Saruman's orders from being disobeyed. Ugluk was ultimately killed when, within that week, Eomer and his outlawed Rohirrim attacked his band."
+"Recruit the leader of the Uruk-Hai of Isengard \n Class: Army support/Warrior \n\n Lore: \n Ugluk was the leader of the Uruk-hai scouts, who were sent to pursue the Fellowship of the Ring in TA 3018, and a highly trusted servant of Saruman. Ugluk and his company were the ones who ended up capturing Merry and Pippin at Amon Hen and headed towards Isengard. He was one of the largest and strongest of the Uruk-hai and was a fierce fighter, managing to dismount Eomer and nearly kill him. Before that, he had been the commander of those that raided the Wold, shortly before the Fellowship left Moria. After his capture of the 2 hobbits at the end of The Fellowship of the Ring, Ugluk stood by his lord Saruman's demands when a band of Sauron's Orcs, led by Grishn kh, tried to apprehend Merry and Pippin to take them to Mordor, and he beheaded one of Grishn kh's followers to prevent Saruman's orders from being disobeyed. Ugluk was ultimately killed when, within that week, Eomer and his outlawed Rohirrim attacked his band."
 END
 
 CONTROLBAR:IsengardUglukRevive
-"Summon the fallen hero Ugluk"
+"Revive the fallen Hero, Ugluk \n Class: Army support/Warrior"
 END
 
 CONTROLBAR:IsengardUglukHotkey
@@ -28874,7 +28874,7 @@ OBJECT:IsengardUgluk
 END
 
 CONTROLBAR:WildDSmaugRevive
-"Bring fallen hero the Smaug"
+"Revive the fallen Hero, Smaug \n Class: Flyer"
 END
 
 CONTROLBAR:WildSmaugHotkey
@@ -28886,7 +28886,7 @@ OBJECT:Smaug
 END
 
 CONTROLBAR:WildSmaugRecruit
-"Recruit the Golden Dragon \n Silmaril Hero"
+"Recruit the Golden Dragon \n Class: Flyer \n\n Lore: \n Smaug was a fire-drake of the Third Age, considered the last "great" dragon of Middle-earth. He was drawn to the enormous wealth amassed by the Dwarves of the Lonely Mountain during King Thrór's reign. He laid waste to the nearby city of Dale and captured the Lonely Mountain, driving the surviving Dwarves into exile. For 171 years, Smaug hoarded the Lonely Mountain's treasures to himself, staying within the mountain until a company of Dwarves managed to enter the Lonely Mountain and awaken him from hibernation. Correctly believing that the Dwarves had received assistance from the men of Lake-town in entering the Lonely Mountain, Smaug left the mountain to wreak destruction upon Lake-town, nearly destroying it before being slain by Bard the Bowman."
 END
 
 CONTROLBAR:WildMollokRevive
@@ -28922,7 +28922,7 @@ CONTROLBAR:ImladrisErestorHotkey
 END
 
 CONTROLBAR:WildDurbutzRevive
-"Summon the fallen hero Durburz"
+"Revive the fallen Hero, Durburz \n Class: Army support"
 END
 
 OBJECT:WildDurbutz
@@ -28934,11 +28934,11 @@ CONTROLBAR:WildDurbutzHotkey
 END
 
 CONTROLBAR:WildDurbutzRecruit
-"Recruit the leader of the Orcs of the Misty Mountains \n \n Lore: \n The Goblin King of Moria has ruled the underground lands for many years with an iron fist of brutality and strength. Feared mightily by his Orc subjects, Durburz, while not the cleverest of Orcs, is as fiercely territorial as the rest and reacts to his realm's invasion by raising a powerful army to oppose Balin and his Dwarves."
+"Recruit the leader of the Orcs of the Misty Mountains \n Class: Army support \n \n Lore: \n The Goblin King of Moria has ruled the underground lands for many years with an iron fist of brutality and strength. Feared mightily by his Orc subjects, Durburz, while not the cleverest of Orcs, is as fiercely territorial as the rest and reacts to his realm's invasion by raising a powerful army to oppose Balin and his Dwarves."
 END
 
 CONTROLBAR:WildBolgRevive
-"Summon the fallen hero Durburz"
+"Revive the fallen Hero, Durburz"
 END
 
 CONTROLBAR:WildBolgRecruit
@@ -43041,11 +43041,11 @@ TOOLTIP:RohanFlamingArrows
 END
 
 CONTROLBAR:ToolTipBuildTheoden
-"Recruit the King of Rohan \n Once Glorious Theoden gains the Ring he will gain access to the powers of his ancestors \n \n Lore: \n Theoden was the seventeenth King of Rohan, and last of the Second Line of the royal house of House of Eorl. When Gandalf the White, Aragorn, Legolas and Gimli appeared before him, TheodeNainitially rebuked Gandalf's advice to resist Saruman, but after being released from the effects of Gr ma, he commanded Hama to release his nephew and bring him his sword, and led the Riders of Rohan into battle against Saruman but having found that Saruman's forces had broken through Rohan's outer defenses. Theoden, under advice from Gandalf, retreated and fought against Saruman's hordes at the Battle of Helm's Deep. After this, he became known as Theoden Ednew, the Renewed, because he had thrown off the yoke of Saruman. He challenged the Witch-king of the 9 Ringwraiths, and was unconscious when his horse Snowmane fell upon him after being spooked by the Ringwraith's fell beast. He was quickly protected by his niece  Eowyn and the Hobbit Meriadoc Brandybuck both of whom had ridden to war in secret. Theoden's wounds were mortal and he perished on the plains of Pelennor."
+"Recruit the King of Rohan \n Once Glorious Theoden gains the Ring he will gain access to the powers of his ancestors \n \n Lore: \n Theoden was the seventeenth King of Rohan, and last of the Second Line of the royal house of House of Eorl. When Gandalf the White, Aragorn, Legolas and Gimli appeared before him, TheodeNainitially rebuked Gandalf's advice to resist Saruman, but after being released from the effects of Grima, he commanded Hama to release his nephew and bring him his sword, and led the Riders of Rohan into battle against Saruman but having found that Saruman's forces had broken through Rohan's outer defenses. Theoden, under advice from Gandalf, retreated and fought against Saruman's hordes at the Battle of Helm's Deep. After this, he became known as Theoden Ednew, the Renewed, because he had thrown off the yoke of Saruman. He challenged the Witch-king of the 9 Ringwraiths, and was unconscious when his horse Snowmane fell upon him after being spooked by the Ringwraith's fell beast. He was quickly protected by his niece  Eowyn and the Hobbit Meriadoc Brandybuck both of whom had ridden to war in secret. Theoden's wounds were mortal and he perished on the plains of Pelennor."
 END
 
 CONTROLBAR:RohanTheodenRecruit
-"Recruit the King of Rohan \n Class: Faction leader/Army support \n\n Lore: \n Theoden was the seventeenth King of Rohan, and last of the Second Line of the royal house of House of Eorl. When Gandalf the White, Aragorn, Legolas and Gimli appeared before him, TheodeNainitially rebuked Gandalf's advice to resist Saruman, but after being released from the effects of Gr ma, he commanded Hama to release his nephew and bring him his sword, and led the Riders of Rohan into battle against Saruman but having found that Saruman's forces had broken through Rohan's outer defenses. Theoden, under advice from Gandalf, retreated and fought against Saruman's hordes at the Battle of Helm's Deep. After this, he became known as Theoden Ednew, the Renewed, because he had thrown off the yoke of Saruman. He challenged the Witch-king of the 9 Ringwraiths, and was unconscious when his horse Snowmane fell upon him after being spooked by the Ringwraith's fell beast. He was quickly protected by his niece  Eowyn and the Hobbit Meriadoc Brandybuck both of whom had ridden to war in secret. Theoden's wounds were mortal and he perished on the plains of Pelennor."
+"Recruit the King of Rohan \n Class: Faction leader/Army support \n\n Lore: \n Theoden was the seventeenth King of Rohan, and last of the Second Line of the royal house of House of Eorl. When Gandalf the White, Aragorn, Legolas and Gimli appeared before him, TheodeNainitially rebuked Gandalf's advice to resist Saruman, but after being released from the effects of Grima, he commanded Hama to release his nephew and bring him his sword, and led the Riders of Rohan into battle against Saruman but having found that Saruman's forces had broken through Rohan's outer defenses. Theoden, under advice from Gandalf, retreated and fought against Saruman's hordes at the Battle of Helm's Deep. After this, he became known as Theoden Ednew, the Renewed, because he had thrown off the yoke of Saruman. He challenged the Witch-king of the 9 Ringwraiths, and was unconscious when his horse Snowmane fell upon him after being spooked by the Ringwraith's fell beast. He was quickly protected by his niece  Eowyn and the Hobbit Meriadoc Brandybuck both of whom had ridden to war in secret. Theoden's wounds were mortal and he perished on the plains of Pelennor."
 END
 
 CONTROLBAR:RohanTheodenRevive
@@ -43117,11 +43117,11 @@ CONTROLBAR:DwarvenDainHotkey
 END
 
 CONTROLBAR:ToolTipBuildEomer
-"Recruit the exiled leader of the Rohirrim \n \n Lore: \n Eomer was a Man of Rohan and the eventual eighteenth King of Rohan, and first of the Third Line of their kings. Eomer, born in TA 2991, of the House of Eorl, was the son of Éomund, a descendant of  ofor, and of Theodwyn, sister of Theoden King. In TA 3002, when Eomer was 11, Éomund was slain in battle with Orcs. Theodwyn died of grief shortly afterward. Éomund also had a daughter named Eowyn, Eomer's sister. After they were orphaned Theoden adopted them as his own children. Eomer became the third Marshal of the Mark, and was a strong leader of Men. He was honored highly, prized extensively by the king, and was good friends with Theodred, son of Theoden who loved him like a brother. His company hunted down the Uruk-hai that had taken Meriadoc Brandybuck and Peregrin Took as they camped near Fangorn forest, slaying them all. He never saw the Hobbits, as they had fled during the battle. Afterwards he met Aragorn, Gimli, and Legolas in the plains of Rohan, and he lent them 2 horses, Arod and Hasufel. Eomer returned to Edoras and reported on meeting the Ranger and friends and allowing them to go free, a violation of the king's law. Under the poisonous advice of Gr ma Wormtongue, he was imprisoned by Theoden, who had grown weak, aged, and suspicious under Saruman the White's influence."
+"Recruit the exiled leader of the Rohirrim \n \n Lore: \n Eomer was a Man of Rohan and the eventual eighteenth King of Rohan, and first of the Third Line of their kings. Eomer, born in TA 2991, of the House of Eorl, was the son of Éomund, a descendant of  ofor, and of Theodwyn, sister of Theoden King. In TA 3002, when Eomer was 11, Éomund was slain in battle with Orcs. Theodwyn died of grief shortly afterward. Éomund also had a daughter named Eowyn, Eomer's sister. After they were orphaned Theoden adopted them as his own children. Eomer became the third Marshal of the Mark, and was a strong leader of Men. He was honored highly, prized extensively by the king, and was good friends with Theodred, son of Theoden who loved him like a brother. His company hunted down the Uruk-hai that had taken Meriadoc Brandybuck and Peregrin Took as they camped near Fangorn forest, slaying them all. He never saw the Hobbits, as they had fled during the battle. Afterwards he met Aragorn, Gimli, and Legolas in the plains of Rohan, and he lent them 2 horses, Arod and Hasufel. Eomer returned to Edoras and reported on meeting the Ranger and friends and allowing them to go free, a violation of the king's law. Under the poisonous advice of Grima Wormtongue, he was imprisoned by Theoden, who had grown weak, aged, and suspicious under Saruman the White's influence."
 END
 
 CONTROLBAR:RohanEomerRecruit
-"Recruit the exiled leader of the Rohirrim \n Class: Warrior/Army support \n\n Lore: \n Eomer was a Man of Rohan and the eventual eighteenth King of Rohan, and first of the Third Line of their kings. Eomer, born in TA 2991, of the House of Eorl, was the son of Éomund, a descendant of  ofor, and of Theodwyn, sister of Theoden King. In TA 3002, when Eomer was 11, Éomund was slain in battle with Orcs. Theodwyn died of grief shortly afterward. Éomund also had a daughter named Eowyn, Eomer's sister. After they were orphaned Theoden adopted them as his own children. Eomer became the third Marshal of the Mark, and was a strong leader of Men. He was honored highly, prized extensively by the king, and was good friends with Theodred, son of Theoden who loved him like a brother. His company hunted down the Uruk-hai that had taken Meriadoc Brandybuck and Peregrin Took as they camped near Fangorn forest, slaying them all. He never saw the Hobbits, as they had fled during the battle. Afterwards he met Aragorn, Gimli, and Legolas in the plains of Rohan, and he lent them 2 horses, Arod and Hasufel. Eomer returned to Edoras and reported on meeting the Ranger and friends and allowing them to go free, a violation of the king's law. Under the poisonous advice of Gr ma Wormtongue, he was imprisoned by Theoden, who had grown weak, aged, and suspicious under Saruman the White's influence."
+"Recruit the exiled leader of the Rohirrim \n Class: Warrior/Army support \n\n Lore: \n Eomer was a Man of Rohan and the eventual eighteenth King of Rohan, and first of the Third Line of their kings. Eomer, born in TA 2991, of the House of Eorl, was the son of Éomund, a descendant of  ofor, and of Theodwyn, sister of Theoden King. In TA 3002, when Eomer was 11, Éomund was slain in battle with Orcs. Theodwyn died of grief shortly afterward. Éomund also had a daughter named Eowyn, Eomer's sister. After they were orphaned Theoden adopted them as his own children. Eomer became the third Marshal of the Mark, and was a strong leader of Men. He was honored highly, prized extensively by the king, and was good friends with Theodred, son of Theoden who loved him like a brother. His company hunted down the Uruk-hai that had taken Meriadoc Brandybuck and Peregrin Took as they camped near Fangorn forest, slaying them all. He never saw the Hobbits, as they had fled during the battle. Afterwards he met Aragorn, Gimli, and Legolas in the plains of Rohan, and he lent them 2 horses, Arod and Hasufel. Eomer returned to Edoras and reported on meeting the Ranger and friends and allowing them to go free, a violation of the king's law. Under the poisonous advice of Grima Wormtongue, he was imprisoned by Theoden, who had grown weak, aged, and suspicious under Saruman the White's influence."
 END
 
 CONTROLBAR:RohanEomerRevive
@@ -43361,15 +43361,15 @@ CONTROLBAR:ToolTipBuildIsengardFlamingArrowsPorter
 END
 
 CONTROLBAR:ToolTipBuildLurtz
-"Recruit the First of the Uruk-Hai \n \n Lore: \n Lurtz was the first of Saruman's Uruk-hai to be bred, choking the first Orc he sees to death within seconds of his birth. Attempting to intervene, other Orcs (Snaga) move towards the newly born Uruk-hai warrior, but Saruman halts their advance, intrigued by the malice and violence present in the Uruk's blood, leaving the unfortunate Orc to its fate. He became Saruman's second-in-command, and led the first battalion of Uruk-hai into battle against the Fellowship of the Ring at Amon Hen. Lurtz was born from the first batch of Uruk-hai in Isengard's pits (possibly even the first ever as an experiment), and so was far more developed, smarter, and stronger than the later troops which were bred more quickly, presumably so Saruman could amass an army as fast as possible. Given that he gave orders to the other Uruk-hai Scouts at the Amon Hen and that he was given private audience with Saruman, he could presumably be called the strongest, smartest and most loyal of all of Saruman's Uruk-hai warriors."
+"Recruit the First of the Uruk-Hai \n Class: Army support/Warrior \n \n Lore: \n Lurtz was the first of Saruman's Uruk-hai to be bred, choking the first Orc he sees to death within seconds of his birth. Attempting to intervene, other Orcs (Snaga) move towards the newly born Uruk-hai warrior, but Saruman halts their advance, intrigued by the malice and violence present in the Uruk's blood, leaving the unfortunate Orc to its fate. He became Saruman's second-in-command, and led the first battalion of Uruk-hai into battle against the Fellowship of the Ring at Amon Hen. Lurtz was born from the first batch of Uruk-hai in Isengard's pits (possibly even the first ever as an experiment), and so was far more developed, smarter, and stronger than the later troops which were bred more quickly, presumably so Saruman could amass an army as fast as possible. Given that he gave orders to the other Uruk-hai Scouts at the Amon Hen and that he was given private audience with Saruman, he could presumably be called the strongest, smartest and most loyal of all of Saruman's Uruk-hai warriors."
 END
 
 CONTROLBAR:IsengardLurtzRecruit
-"Recruit the First of the Uruk-Hai \n \n Lore: \n Lurtz was the first of Saruman's Uruk-hai to be bred, choking the first Orc he sees to death within seconds of his birth. Attempting to intervene, other Orcs (Snaga) move towards the newly born Uruk-hai warrior, but Saruman halts their advance, intrigued by the malice and violence present in the Uruk's blood, leaving the unfortunate Orc to its fate. He became Saruman's second-in-command, and led the first battalion of Uruk-hai into battle against the Fellowship of the Ring at Amon Hen. Lurtz was born from the first batch of Uruk-hai in Isengard's pits (possibly even the first ever as an experiment), and so was far more developed, smarter, and stronger than the later troops which were bred more quickly, presumably so Saruman could amass an army as fast as possible. Given that he gave orders to the other Uruk-hai Scouts at the Amon Hen and that he was given private audience with Saruman, he could presumably be called the strongest, smartest and most loyal of all of Saruman's Uruk-hai warriors."
+"Recruit the First of the Uruk-Hai \n Class: Army support/Warrior \n \n Lore: \n Lurtz was the first of Saruman's Uruk-hai to be bred, choking the first Orc he sees to death within seconds of his birth. Attempting to intervene, other Orcs (Snaga) move towards the newly born Uruk-hai warrior, but Saruman halts their advance, intrigued by the malice and violence present in the Uruk's blood, leaving the unfortunate Orc to its fate. He became Saruman's second-in-command, and led the first battalion of Uruk-hai into battle against the Fellowship of the Ring at Amon Hen. Lurtz was born from the first batch of Uruk-hai in Isengard's pits (possibly even the first ever as an experiment), and so was far more developed, smarter, and stronger than the later troops which were bred more quickly, presumably so Saruman could amass an army as fast as possible. Given that he gave orders to the other Uruk-hai Scouts at the Amon Hen and that he was given private audience with Saruman, he could presumably be called the strongest, smartest and most loyal of all of Saruman's Uruk-hai warriors."
 END
 
 CONTROLBAR:IsengardLurtzRevive
-"Revive the fallen hero Lurtz again."
+"Revive the fallen Hero, Lurtz \n Class: Army support/Warrior"
 END
 
 CONTROLBAR:IsengardLurtzHotkey
@@ -43381,7 +43381,7 @@ CONTROLBAR:ToolTipBuildSaruman
 END
 
 CONTROLBAR:IsengardSarumanRevive
-"Revive the fallen hero Saruman again."
+"Revive the fallen hero Saruman \n Class: Faction leader/Wizard"
 END
 
 CONTROLBAR:IsengardSarumanHotkey
@@ -52873,7 +52873,7 @@ CONTROLBAR:WildGoblinKingHotkey
 END
 
 CONTROLBAR:WildGoblinKingRecruit
-"Recruit the Lord of the Spiders \n \n Lore: \n Gorkil was a powerful Goblin ruler during the Third Age. He is portrayed as a goblin riding on the back of a Giant Spider. He appears to be the King of all the Goblin tribes. He and his armies took control of the abandoned outpost in the Ettenmoors in Angmar, formerly owned by the Witch-king of Angmar. Sauron uses Gorkil to control the goblins and serve his will. He also owns and raised a rare, gigantic scorpion. Gorkil was killed at the Ettenmoors by Glorfindel of Rivendell, Haldir of Lothlorien, and Gloin, father of Gimli. When he died, his goblins were lost and confused and Sauron's hold over them was broken."
+"Recruit the Lord of the Spiders \n Class: Warrior/Army support \n\n Lore: \n Gorkil was a powerful Goblin ruler during the Third Age. He is portrayed as a goblin riding on the back of a Giant Spider. He appears to be the King of all the Goblin tribes. He and his armies took control of the abandoned outpost in the Ettenmoors in Angmar, formerly owned by the Witch-king of Angmar. Sauron uses Gorkil to control the goblins and serve his will. He also owns and raised a rare, gigantic scorpion. Gorkil was killed at the Ettenmoors by Glorfindel of Rivendell, Haldir of Lothlorien, and Gloin, father of Gimli. When he died, his goblins were lost and confused and Sauron's hold over them was broken."
 END
 
 CONTROLBAR:WildDrogothHotkey
@@ -72226,7 +72226,7 @@ CONTROLBAR:WildDrogothRevive
 END
 
 CONTROLBAR:WildGoblinKingRevive
-"Revive the fallen Hero, The Goblin King"
+"Revive the fallen Hero, Gorkil \n Class: Warrior/Army support"
 END
 
 CONTROLBAR:WildMountainGiantGrab
@@ -75086,27 +75086,27 @@ CONTROLBAR:IsengardSharkuHotkey
 END
 
 CONTROLBAR:IsengardSharkuRecruit
-"Recruit the leader of the warg riders \n \n Lore: \n Sharku was the veteran Orc leading Saruman's Warg-Riders. Saruman's nickname Sharkey was stated in a footnote to be a corruption of the word 'sharku'. While Sharku is not a Uruk jockey, it is unclear if all of his Orcs are, or just most of them. He may have had an elite group of normal, but experienced, Orcs, along with the larger jockey group."
+"Recruit the leader of the warg riders \n Class: Cavalry support \n\n Lore: \n Sharku was the veteran Orc leading Saruman's Warg-Riders. Saruman's nickname Sharkey was stated in a footnote to be a corruption of the word 'sharku'. While Sharku is not a Uruk jockey, it is unclear if all of his Orcs are, or just most of them. He may have had an elite group of normal, but experienced, Orcs, along with the larger jockey group."
 END
 
 CONTROLBAR:IsengardWormtongueRecruit
-"Recruit the spy of Saruman \n \n Lore: \n Gr ma Wormtongue was the chief advisor to King Theoden of Rohan before being exposed as an agent and spy of Saruman. He ends up being the killer of Saruman, in the last climactic chapter of The Return of the King. Little is known of Gr ma before he became counselor of TheodeNain Edoras. His childhood is a mystery. What is known is that Gr ma, son of G lm d, and a native of Rohan, joined the service of SarumaNain secret and worked as a spy to weaken Theoden and his kingdom, using his voice to keep the spell intact while Saruman is inside the King. It is likely that Saruman had promised him  Eowyn, the king's niece, as a reward for his services; in the novel, Wormtongue is accused of "watching her under his lids and haunting her steps" and in the film, he makes clumsy romantic overtures to her as she weeps for her dead cousin Theodred. He also exiles  Eowyn's brother Eomer and his army from Rohan, only saying that he sees "too much" after Eomer says, "Too long have you watched my sister, too long have you haunted her steps". It is also possible that he has Dunlending ancestry, since he is darker-haired and physically smaller than the other Rohirrim."
+"Recruit the spy of Saruman \n Class: Army support \n\n Lore: \n Grima Wormtongue was the chief advisor to King Theoden of Rohan before being exposed as an agent and spy of Saruman. He ends up being the killer of Saruman, in the last climactic chapter of The Return of the King. Little is known of Grima before he became counselor of Theoden in Edoras. His childhood is a mystery. What is known is that Grima, son of G lm d, and a native of Rohan, joined the service of SarumaNain secret and worked as a spy to weaken Theoden and his kingdom, using his voice to keep the spell intact while Saruman is inside the King. It is likely that Saruman had promised him  Eowyn, the king's niece, as a reward for his services; in the novel, Wormtongue is accused of "watching her under his lids and haunting her steps" and in the film, he makes clumsy romantic overtures to her as she weeps for her dead cousin Theodred. He also exiles  Eowyn's brother Eomer and his army from Rohan, only saying that he sees "too much" after Eomer says, "Too long have you watched my sister, too long have you haunted her steps". It is also possible that he has Dunlending ancestry, since he is darker-haired and physically smaller than the other Rohirrim."
 END
 
 CONTROLBAR:IsengardSharkuRevive
-"Revive the fallen Hero, Sharku"
+"Revive the fallen Hero, Sharku \n Class: Cavalry support"
 END
 
 CONTROLBAR:IsengardWormtongueRevive
-"Revive the fallen Hero, Wormtongue"
+"Revive the fallen Hero, Wormtongue \n Class: Army support"
 END
 
 CONTROLBAR:ShelobRecruit
-"Recruit the spider from the pass of Cirith Ungol"
+"Recruit the spider from the pass of Cirith Ungol \n Class: Hero killer"
 END
 
 CONTROLBAR:ShelobRevive
-"Revive the fallen Hero, Shelob"
+"Revive the fallen Hero, Shelob \n Class: Hero killer"
 END
 
 CONTROLBAR:ShelobHotkey
@@ -86395,11 +86395,11 @@ OBJECT:AngmarMenOfDale
 END
 
 CONTROLBAR:AngmarWitchKingRecruit
-"Recruit the ruler of Angmar \n Silmaril Hero \n Silmaril function: The Witch-king of Angmar nourishes his power and covers the land with cold and ice \n \n Lore: \n The Witch-king of Angmar was the leader of the Nazgul or Ringwraiths, and Sauron's second-in-command during the Second and Third Ages. Once a Numenorean king of men, he was corrupted by one of the 9 Rings of Power that had been given to the lords of men, and became an undead wraith in the service of Sauron. Soon, the only resistance against the Witch-king's forces was the western kingdom of Arthedain. The Witch-king continued his war for hundreds of years. In TA 1636, the Witch-king sent wights to the Barrow-downs in CardolaNain order to prevent the rebirth of the kingdom. The Witch-king claimed ultimate victory in the north in TA 1974, when his forces captured Fornost Erain, the capital of Arthedain. With its capture, the final kingdom collapsed, and with it, the last remnants of the lost realm of Arnor were destroyed. The Witch-king gladly took his seat of power in the newly captured Fornost. But his glory did not last long, for in TA 1975, general Earnur of Gondor landed at the harbours of the Grey Havens, leading an army of Gondor. His army was joined by the Elves of Lindon and the remnant of the northern Dunedain, and they marched on the Witch-king."
+"Recruit the ruler of Angmar \n Class: Faction leader/Warrior \n \n Lore: \n The Witch-king of Angmar was the leader of the Nazgul or Ringwraiths, and Sauron's second-in-command during the Second and Third Ages. Once a Numenorean king of men, he was corrupted by one of the 9 Rings of Power that had been given to the lords of men, and became an undead wraith in the service of Sauron. Soon, the only resistance against the Witch-king's forces was the western kingdom of Arthedain. The Witch-king continued his war for hundreds of years. In TA 1636, the Witch-king sent wights to the Barrow-downs in CardolaNain order to prevent the rebirth of the kingdom. The Witch-king claimed ultimate victory in the north in TA 1974, when his forces captured Fornost Erain, the capital of Arthedain. With its capture, the final kingdom collapsed, and with it, the last remnants of the lost realm of Arnor were destroyed. The Witch-king gladly took his seat of power in the newly captured Fornost. But his glory did not last long, for in TA 1975, general Earnur of Gondor landed at the harbours of the Grey Havens, leading an army of Gondor. His army was joined by the Elves of Lindon and the remnant of the northern Dunedain, and they marched on the Witch-king."
 END
 
 CONTROLBAR:AngmarWitchKingRevive
-"Revive the fallen Hero, The Witch-King"
+"Revive the fallen Hero, The Witch-King \n Class: Faction leader/Warrior"
 END
 
 CONTROLBAR:AngmarWitchKingHotkey
@@ -86535,7 +86535,7 @@ CONTROLBAR:ConstructAngmarPorter
 END
 
 CONTROLBAR:AngmarMorgramirRecruit
-"Mornamarth is the steward of Carn D m, a man of ruthless ambition who will sacrifice his own men for victory without hesitation. He has gained this position through ruthless ambition, eliminating all who stood in his way and proving his cunning and strength to the Witch-king. In return, he has received great authority among the Men of Carn D m and has even been tutored in dark sorcery - though not nearly to the same extent as the High Sorcerer Gulzar and the fanatically loyal Zaphragor. The Witch-king knows well that while he is a great asset, he is not truly loyal to anyone and is best kept on a short leash. For his part, Mornamarth burns to rule Angmar himself one day, but for now he bides his time and builds his power by destroying Angmar's enemies. Due to events of their past, he and Zaphragor harbor hatred for each other. "
+"Recruit Mornamarth the steward of Carn Dum \n Class: Army support \n\n Lore: \n A man of ruthless ambition who will sacrifice his own men for victory without hesitation. He has gained this position through ruthless ambition, eliminating all who stood in his way and proving his cunning and strength to the Witch-king. In return, he has received great authority among the Men of Carn Dum and has even been tutored in dark sorcery - though not nearly to the same extent as the High Sorcerer Gulzar and the fanatically loyal Zaphragor. The Witch-king knows well that while he is a great asset, he is not truly loyal to anyone and is best kept on a short leash. For his part, Mornamarth burns to rule Angmar himself one day, but for now he bides his time and builds his power by destroying Angmar's enemies. Due to events of their past, he and Zaphragor harbor hatred for each other."
 END
 
 CONTROLBAR:AngmarMorgramirHotkey
@@ -86543,7 +86543,7 @@ CONTROLBAR:AngmarMorgramirHotkey
 END
 
 CONTROLBAR:AngmarMorgramirRevive
-"Revive the fallen Hero, Mornamarth"
+"Revive the fallen Hero, Mornamarth \n Class: Army support"
 END
 
 CONTROLBAR:RogashLeap
@@ -86563,7 +86563,7 @@ CONTROLBAR:MorgramirRuin
 END
 
 CONTROLBAR:AngmarHwaldarRecruit
-"Recruit the Traitor of Rhudaur \n \n Lore: \n Hwaldar was the hillchief of many tribes at Rhudaur, one of the ancient 3 kingdoms of Arnor. Rhudaur is secretly in league with the Witch-king of Angmar, Hwaldar paves the way for Angmar's invasion but must evade capture from the clutches of the soldiers of Arthedain, to complete his treachery. He holds aNainteresting nickname, the "Brigand". He is based on an unnamed character from J. R. R. Tolkien s cannon. King Argeleb of Arthedain reclaims the throne of all Arnor due to in Rhudaur and Cardolan Isildur's line fell long ago. Cardolan is not opposed but Hwaldar and the hillmen of Rhudaur begin to expose their plans, some time before that the Witch-king sent emissaries to Rhudaur. They decided to cause a rebellioNain Rhudaur against their 'masters', Arnor. Without knowing anything about Hwaldar's alliance with Angmar, Argeleb chained Hwaldar and built fortifications all over Rhudaur in order to silence the rebellion."
+"Recruit the Traitor of Rhudaur \n Class: Army support \n\n Lore: \n Hwaldar was the hillchief of many tribes at Rhudaur, one of the ancient 3 kingdoms of Arnor. Rhudaur is secretly in league with the Witch-king of Angmar, Hwaldar paves the way for Angmar's invasion but must evade capture from the clutches of the soldiers of Arthedain, to complete his treachery. He holds aNainteresting nickname, the "Brigand". He is based on an unnamed character from J. R. R. Tolkien s cannon. King Argeleb of Arthedain reclaims the throne of all Arnor due to in Rhudaur and Cardolan Isildur's line fell long ago. Cardolan is not opposed but Hwaldar and the hillmen of Rhudaur begin to expose their plans, some time before that the Witch-king sent emissaries to Rhudaur. They decided to cause a rebellioNain Rhudaur against their 'masters', Arnor. Without knowing anything about Hwaldar's alliance with Angmar, Argeleb chained Hwaldar and built fortifications all over Rhudaur in order to silence the rebellion."
 END
 
 CONTROLBAR:AngmarHwaldarHotkey
@@ -86571,7 +86571,7 @@ CONTROLBAR:AngmarHwaldarHotkey
 END
 
 CONTROLBAR:AngmarHwaldarRevive
-"Revive the fallen Hero, Hwaldar"
+"Revive the fallen Hero, Hwaldar \n Class: Army support"
 END
 
 CONTROLBAR:HwaldarLeadership
@@ -86703,7 +86703,7 @@ CONTROLBAR:TooltipNecromancerDeathMask
 END
 
 CONTROLBAR:AngmarRogashRecruit
-"Recruit the mighty Troll of the North \n \n Lore: \n Rogash was a troll that joined the Witch-king of Angmar in the conquest of Arnor, believing in promises of unification between the warring Snow Trolls and Hill-trolls. He was known as the "Troll of the North" by friends and foes alike. He had the built and strength of an average troll but his skill with swords was equal to a trained swordsman. He was slain during the final assault on Angmar."
+"Recruit the mighty Troll of the North \n Class: Warrior/Troll support \n \n Lore: \n Rogash was a troll that joined the Witch-king of Angmar in the conquest of Arnor, believing in promises of unification between the warring Snow Trolls and Hill-trolls. He was known as the "Troll of the North" by friends and foes alike. He had the built and strength of an average troll but his skill with swords was equal to a trained swordsman. He was slain during the final assault on Angmar."
 END
 
 CONTROLBAR:AngmarRogashHotkey
@@ -86711,7 +86711,7 @@ CONTROLBAR:AngmarRogashHotkey
 END
 
 CONTROLBAR:AngmarRogashRevive
-"Revive the fallen Hero, Rogash"
+"Revive the fallen Hero, Rogash \n Class: Warrior/Troll support"
 END
 
 CONTROLBAR:AngmarKarshRecruit
@@ -87348,7 +87348,15 @@ CONTROLBAR:LW_ToolTip_Balcmeg
 END
 
 CONTROLBAR:BalcmegRecruit
-"Balcmeg, the captain of Angband"
+"Recuit Balcmeg, the captain of Angband \n Class: Warrior \n\n Lore: \n Balcmeg was considered to be "a great fighter among the Orclim" of Angband. In the Fall of Gondolin in FA 510, Balcmeg was among the Orcs that assailed the Gondothlim alongside the Balrogs at the coming of the Drakes. Balcmeg was ultimately slain by Tuor, who hewed him "asunder" with his axe, Dramborleg, in the process. The slaying of Balcmeg was part of the famous onslaught which is said to have been the greatest killing of Orcs ever conducted by the Eldar."
+END
+
+CONTROLBAR:BalcmegRevive
+"Revive the fallen Hero, Balcmeg \n Class: Warrior"
+END
+
+CONTROLBAR:BalcmegHotkey
+"Bal&cmeg"
 END
 
 CONTROLBAR:BalcmegLeadership    
@@ -95522,11 +95530,11 @@ CONTROLBAR:LW_ToolTip_AngbandGothmog
 END
 
 CONTROLBAR:AngbandGothmogRecruit
-"Recruit Gothmog, the greatest Balrog ever to walk Middle-earth \n \n Lore: \n Gothmog was the Lord of Balrogs during the First Age. As the High Captain of Angband, his only equal in rank was Sauron. He fought many battles in the name of his master Morgoth, and was personally responsible for killing 2 of the High Kings of the  Noldor. \n Gothmog was initially one of the Maiar who were under the allegiance of Morgoth. Prior to the Revolt of the  Noldor, he was the High Captain of Angband and given the title Lord of the Balrogs."
+"Recruit Gothmog, the greatest Balrog ever to walk Middle-earth and high captain of Angband \n Class: Warrior \n \n Lore: \n Gothmog was the Lord of Balrogs during the First Age. As the high captain of Angband, his only equal in rank was Sauron. He fought many battles in the name of his master Morgoth, and was personally responsible for killing 2 of the High Kings of the  Noldor. \n Gothmog was initially one of the Maiar who were under the allegiance of Morgoth. Prior to the Revolt of the  Noldor, he was the High Captain of Angband and given the title Lord of the Balrogs."
 END
 
 CONTROLBAR:AngbandGothmogRevive
-"Revive the fallen Hero, Gothmog"
+"Revive the fallen Hero, Gothmog \n Class: Warrior"
 END
 
 CONTROLBAR:AngbandGothmogHotkey 
@@ -95927,11 +95935,11 @@ CONTROLBAR:LW_ToolTip_ThargelioUldor
 END
 
 CONTROLBAR:ThargelioUldorRecruit
-"Recruit Uldor the Accursed one of Ulfang the Black's sons \n \n Lore: \n An Unfaithful Easterling Warrior and Chieftain, he was the youngest and strongest son of Ulfang the Black, High-chieftain of the Ulbarim (S. "Homeless Host"). His father's clan enlisted in the service of the Elf Caranthir, one of Feanor's sons, soon after entering Beleriand. Unbeknownst to the Elves, however, Ulfast and his 3 sons actually served Morgoth. They supplied the Black Enemy with information for many years. During the Battle of Unnumbered Tears (Q. "Nimaeth Ar- noediad"), Uldor led the Easterling allies and served with Caranthir in the eastern army under Maedhros. His false reports initially : delayed Maedhros' advance, but the eastern army eventually met Morgoth's main host and successfully flanked the evil forces. Then, Uldor committed his greatest act of betrayal. He ordered his own warriors to change sides and strike their allies."
+"Recruit Uldor the Accursed one of Ulfang the Black's sons \n Class: Archer \n \n Lore: \n An Unfaithful Easterling Warrior and Chieftain, he was the youngest and strongest son of Ulfang the Black, High-chieftain of the Ulbarim (S. "Homeless Host"). His father's clan enlisted in the service of the Elf Caranthir, one of Feanor's sons, soon after entering Beleriand. Unbeknownst to the Elves, however, Ulfast and his 3 sons actually served Morgoth. They supplied the Black Enemy with information for many years. During the Battle of Unnumbered Tears (Q. "Nimaeth Ar- noediad"), Uldor led the Easterling allies and served with Caranthir in the eastern army under Maedhros. His false reports initially : delayed Maedhros' advance, but the eastern army eventually met Morgoth's main host and successfully flanked the evil forces. Then, Uldor committed his greatest act of betrayal. He ordered his own warriors to change sides and strike their allies."
 END
 
 CONTROLBAR:ThargelioUldorRevive
-"Revive the fallen Hero, Uldor the Accursed"
+"Revive the fallen Hero, Uldor the Accursed \n Class: Archer"
 END
 
 CONTROLBAR:ThargelioUldorHotkey
@@ -95997,11 +96005,11 @@ CONTROLBAR:LW_ToolTip_TolinGaurhothThuringwethil
 END
 
 CONTROLBAR:TolinGaurhothThuringwethilRecruit
-"Recruit the terrible vampire, \n the messenger of Sauron in the fortress of Tol-in-Gaurhoth during the First Age \n \n Lore: \n Thuringwethil was a Vampire servant of Sauron in his fortress of Tol-in-Gaurhoth (the former Tol Sirion), during her time serving Morgoth during the First Age. Thuringwethil was Sauron's herald and was stationed at Tol-in-Gaurhoth by the time of the Quest for the Silmaril. She was probably slain or died during the fight between Sauron and HuaNain the fortress. She served as a herald, or a messenger, for Sauron at Tol-Sirion. Her origins were not mentioned, but her ability to take forms suggest that she could be a Maia. She was described to have fingered-wings and iron claws. Luthien was disguised as Thuringwethil and introduced herself as such upoNainfiltrating Angband."
+"Recruit the terrible vampire, \n the messenger of Sauron in the fortress of Tol-in-Gaurhoth during the First Age \n Class: Warrior/Army support \n \n Lore: \n Thuringwethil was a Vampire servant of Sauron in his fortress of Tol-in-Gaurhoth (the former Tol Sirion), during her time serving Morgoth during the First Age. Thuringwethil was Sauron's herald and was stationed at Tol-in-Gaurhoth by the time of the Quest for the Silmaril. She was probably slain or died during the fight between Sauron and HuaNain the fortress. She served as a herald, or a messenger, for Sauron at Tol-Sirion. Her origins were not mentioned, but her ability to take forms suggest that she could be a Maia. She was described to have fingered-wings and iron claws. Luthien was disguised as Thuringwethil and introduced herself as such upoNainfiltrating Angband."
 END
 
 CONTROLBAR:TolinGaurhothThuringwethilRevive
-"Revive the fallen Hero, Thuringwethil"
+"Revive the fallen Hero, Thuringwethil \n Class: Warrior/Army support"
 END
 
 CONTROLBAR:TolinGaurhothThuringwethilHotkey
@@ -96074,11 +96082,11 @@ CONTROLBAR:LW_ToolTip_TolinGaurhothDraugluin
 END
 
 CONTROLBAR:TolinGaurhothDraugluinRecruit
-"Recruit the Lord of all Werewolves of Tol-in-Gaurhoth \n \n Lore: \n Draugluin was the first werewolf to be bred by Morgoth during the First Age of Middle-earth. Draugluin was bred from the Wolves and imbued with an evil spirit sent by Morgoth himself. Draugluin was a dreadful, old, and evil abomination and was the lord and sire of all werewolves of Beleriand, and dwelt with his master Sauron in Tol-in-Gaurhoth, the former watchtower of Finrod Felagund. Draugluin was slain by Huan during the Quest for the Silmaril after a long battle, and Beren and Luthien used his pelt to sneak into Angband. Draugluin was the sire of Carcharoth and many other werewolves. It is probable the Wargs of the Third Age and the White Wolves were descended from him, as these wolves could speak, suggesting they had F ar. Draugluin means "Blue wolf" in Sindarin, from draug ("wolf") and luin ("blue"). Drauglir was an earlier form of the name."
+"Recruit the Lord of all Werewolves of Tol-in-Gaurhoth \n Class: Warrior \n \n Lore: \n Draugluin was the first werewolf to be bred by Morgoth during the First Age of Middle-earth. Draugluin was bred from the Wolves and imbued with an evil spirit sent by Morgoth himself. Draugluin was a dreadful, old, and evil abomination and was the lord and sire of all werewolves of Beleriand, and dwelt with his master Sauron in Tol-in-Gaurhoth, the former watchtower of Finrod Felagund. Draugluin was slain by Huan during the Quest for the Silmaril after a long battle, and Beren and Luthien used his pelt to sneak into Angband. Draugluin was the sire of Carcharoth and many other werewolves. It is probable the Wargs of the Third Age and the White Wolves were descended from him, as these wolves could speak, suggesting they had F ar. Draugluin means "Blue wolf" in Sindarin, from draug ("wolf") and luin ("blue"). Drauglir was an earlier form of the name."
 END
 
 CONTROLBAR:TolinGaurhothDraugluinRevive
-"Revive the fallen Hero, Draugluin"
+"Revive the fallen Hero, Draugluin \n Class: Warrior"
 END
 
 CONTROLBAR:TolinGaurhothDraugluinHotkey
@@ -96143,11 +96151,11 @@ CONTROLBAR:LW_ToolTip_UnderworldOverlord
 END
 
 CONTROLBAR:UnderworldOverlordRecruit
-"Recruit the Overlord, the Ruler of Darkness \n \n Lore: \n The Mighty Overlord, an undead skeleton creature who is devoid of skin and flesh. He tends to mainly wear an elaborate, jet-black academic gown adorned with golden and violet edges. When he had no clothes on, his whole body alone is purely made up of just his bones. He also has a dark red orb floating under his ribs that emanate a feeling of dread. Furthermore, he has a type of tiny dark red glow radiating from inside his empty eye sockets. Sometimes, however, that glow can become largely intensified, leading it to elicit faint reddish flames flickering about in both his 2 eyes. Additionally, Ainz has a dark halo-like object glimmering right behind his head."
+"Recruit the Overlord, the Ruler of Darkness \n Class: Warrior \n \n Lore: \n The Mighty Overlord, an undead skeleton creature who is devoid of skin and flesh. Clad in jet-black gown adorned with golden and violet edges. Lord of the undead and spirits from beyond the Door of Night he wields a sword made of shadow magic."
 END
 
 CONTROLBAR:UnderworldOverlordRevive
-"Revive the fallen Hero, Underworld Overlord"
+"Revive the fallen Hero, Underworld Overlord \n Class: Warrior"
 END
 
 CONTROLBAR:UnderworldOverlordHotkey
@@ -96216,11 +96224,11 @@ CONTROLBAR:LW_ToolTip_UnderworldWizard
 END
 
 CONTROLBAR:UnderworldWizardRecruit
-"Recruit the Sorcerer of Darkness, \n dweller in the deepest regions of Arda \n \n Lore: \n He lived in the First Age of Arda were he hated Elves and Humans"
+"Recruit the Sorcerer of Darkness, \n dweller in the deepest regions of Arda \n Class: Wizard \n \n Lore: \n He lived during the First Age of Arda. He hated Elves and Humans, their position of favor in the eyes of the Valar. His sorcery, learned from the spirits of the Void, was powerful enough to conjure magic so dark and vile even the first Dark Lod Morgoth acknowledged his abilities"
 END
 
 CONTROLBAR:UnderworldWizardRevive
-"Revive the fallen hero, Underworld Wizard"
+"Revive the fallen Hero, Underworld Wizard \n Class: Wizard"
 END
 
 CONTROLBAR:UnderworldWizardHotkey
@@ -97770,11 +97778,11 @@ CONTROLBAR:LW_Hero_ThlimDoldronMaeglin
 END
 
 CONTROLBAR:ThlimDoldronMaeglinRecruit    
-"Recruit the traitor of Gondolin, \n \n Lore: \n Maeglin was an Elf, the son of Eol the "Dark Elf" and Aredhel daughter of Fingolfin. He lived during the First Age of the SuNain Middle-earth, and was a lord of the hidden Elven kingdom of Gondolin. He became infamous for his betrayal of the location of the city of Gondolin to the Dark Lord Morgoth. Aredhel had left Gondolin to wander through Beleriand, and in the woods of Nan Elmoth, she met Eol, and stayed with him, eventually giving birth to Maeglin. Eol gave his child the name Maeglin when he was 12. His mother told him about Gondolin and its people throughout his childhood and he desired to see his related kin in the Hidden City. He and his mother soon grew weary and discontented with their life in Nan Elmoth and Eol's strict shunning of the outside world. When Aredhel finally decided to leave Eol, she took her son (who stole his father's sword, Anguirel, forged of meteoric iron) with her and returned to Gondolin. However, Eol had followed her, and in judgment before Turgon, he attempted to kill Maeglin with a poisoned dart, but hit Aredhel instead. She died, and Eol was cast down to his death from the city walls."
+"Recruit the traitor of Gondolin \n Class: Hero killer \n \n Lore: \n Maeglin was an Elf, the son of Eol the "Dark Elf" and Aredhel daughter of Fingolfin. He lived during the First Age of the SuNain Middle-earth, and was a lord of the hidden Elven kingdom of Gondolin. He became infamous for his betrayal of the location of the city of Gondolin to the Dark Lord Morgoth. Aredhel had left Gondolin to wander through Beleriand, and in the woods of Nan Elmoth, she met Eol, and stayed with him, eventually giving birth to Maeglin. Eol gave his child the name Maeglin when he was 12. His mother told him about Gondolin and its people throughout his childhood and he desired to see his related kin in the Hidden City. He and his mother soon grew weary and discontented with their life in Nan Elmoth and Eol's strict shunning of the outside world. When Aredhel finally decided to leave Eol, she took her son (who stole his father's sword, Anguirel, forged of meteoric iron) with her and returned to Gondolin. However, Eol had followed her, and in judgment before Turgon, he attempted to kill Maeglin with a poisoned dart, but hit Aredhel instead. She died, and Eol was cast down to his death from the city walls."
 END
 
 CONTROLBAR:ThlimDoldronMaeglinRevive    
-"Revive the fallen hero, Maeglin"
+"Revive the fallen Hero, Maeglin \n Class: Hero killer"
 END
 
 CONTROLBAR:ThlimDoldronMaeglinHotkey
@@ -110328,11 +110336,11 @@ OBJECT:IsengardVrasku
 END
 
 CONTROLBAR:IsengardVraskuRecruit
-"Recruit the Uruk-hai Scout Commander \n \n Lore: \n Vrasku is an Uruk-hai Captain of the White-Hand. With his crossbow he shot down Theodred, Prince of Rohan in the First Battle of the Fords of Isen but later met his doom in the Second Battle of the Fords of Isen at the hands of Erkenbrand."
+"Recruit the Uruk-hai Scout Commander \n Class: Archer/Army support \n \n Lore: \n Vrasku is an Uruk-hai Captain of the White-Hand. With his crossbow he shot down Theodred, Prince of Rohan in the First Battle of the Fords of Isen but later met his doom in the Second Battle of the Fords of Isen at the hands of Erkenbrand."
 END
 
 CONTROLBAR:IsengardVraskuRevive
-"Revive the fallen Hero, Vrasku"
+"Revive the fallen Hero, Vrasku \n Class: Archer/Army support"
 END
 
 CONTROLBAR:IsengardVraskuHotkey
@@ -110368,11 +110376,11 @@ OBJECT:DunlandWulf
 END
 
 CONTROLBAR:DunlandWulfRecruit
-"Recruit the Leader of Dunlendings \n \n Lore: \n Wulf, Dunlending Chieftain was a Dunlending who swore his allegiance to Saruman during the War of the Ring."
+"Recruit the Leader of Dunlendings \n Class: Army support/Warrior \n\n Lore: \n Wulf, Dunlending Chieftain was a Dunlending who swore his allegiance to Saruman during the War of the Ring."
 END
 
 CONTROLBAR:DunlandWulfRevive
-"Revive the fallen Hero, Wulf"
+"Revive the fallen Hero, Wulf \n Class: Army support/Warrior"
 END
 
 CONTROLBAR:DunlandWulfHotkey
@@ -110404,11 +110412,11 @@ OBJECT:DunlandFrecaCroyu
 END
 
 CONTROLBAR:DunlandFrecaCroyuRecruit
-"Recruit a captain of the wildmen \n \n Lore: \n Freca (TA 2698 - TA 2754) was a lord of western Rohan who was best known for challenging Helm Hammerhand, the King of Rohan. He was a noble with Dunlending and Rohirric blood, who held lands at either side of the river Adorn, the border of Rohan, and claimed to be a descendant of King Fr awine of Rohan. Obtaining wealth and power from his rich domain, he constructed a stronghold at the source of the Adorn and paid little heed to the king although Helm called upon him to attend his councils."
+"Recruit a captain of the wildmen \n Class: Scout \n\n Lore: \n Freca (TA 2698 - TA 2754) was a lord of western Rohan who was best known for challenging Helm Hammerhand, the King of Rohan. He was a noble with Dunlending and Rohirric blood, who held lands at either side of the river Adorn, the border of Rohan, and claimed to be a descendant of King Fr awine of Rohan. Obtaining wealth and power from his rich domain, he constructed a stronghold at the source of the Adorn and paid little heed to the king although Helm called upon him to attend his councils."
 END
 
 CONTROLBAR:DunlandFrecaCroyuRevive
-"Revive the fallen Hero, Freca Croyu"
+"Revive the fallen Hero, Freca Croyu \n Class: Scout"
 END
 
 CONTROLBAR:DunlandFrecaCroyuHotkey
@@ -111064,11 +111072,11 @@ OBJECT:WildNarzug
 END
 
 CONTROLBAR:WildNarzugRecruit
-"Recruit the Leader of Gundabad Archers. \n Narzug is an expert shot even from the saddle of a racing Fell Warg. \n Shrouded in feral clothing, Narzug holds aloft a bow and carries a low-slung quiver of arrows. \n He has thick skin, and wears simple clothing such as straps and a loin cloth.  "
+"Recruit the Leader of Gundabad Archers \n Class: Archer/Army support \n\n Lore: \n Narzug is an expert shot even from the saddle of a racing Fell Warg. \n Shrouded in feral clothing, Narzug holds aloft a bow and carries a low-slung quiver of arrows. \n He has thick skin, and wears simple clothing such as straps and a loin cloth."
 END
 
 CONTROLBAR:WildNarzugRevive
-"Revive the fallen Hero, Narzug"
+"Revive the fallen Hero, Narzug \n Class: Archer/Army support"
 END
 
 CONTROLBAR:WildNarzugHotkey
@@ -111128,11 +111136,11 @@ OBJECT:WildFimbul
 END
 
 CONTROLBAR:WildFimbulRecruit
-"Recruit the Gundabad Hunter.\n\n Lore:\\ Fimbul was one of Azog's Orc hunters in The Hobbit and the lieutenant of the vile Yazneg, who led the Orc hunters after Thorin Oakenshield and his band of Dwarves. Fimbul later becomes Azog's right hand and second-in-command after Yazneg is fed to the Wargs by Azog for his failures."
+"Recruit the Gundabad Hunter \n Class: Scout/Army support \n\n Lore:\\ Fimbul was one of Azog's Orc hunters in The Hobbit and the lieutenant of the vile Yazneg, who led the Orc hunters after Thorin Oakenshield and his band of Dwarves. Fimbul later becomes Azog's right hand and second-in-command after Yazneg is fed to the Wargs by Azog for his failures."
 END
 
 CONTROLBAR:WildFimbulRevive
-"Revive the fallen Hero, Fimbul"
+"Revive the fallen Hero, Fimbul \n Class: Scout/Army support"
 END
 
 CONTROLBAR:WildFimbulHotkey
@@ -111184,7 +111192,7 @@ CONTROLBAR:ConstructYazneg
 END
 
 CONTROLBAR:ToolTipConstructYazneg
-"Recruit the Leader of Gundabad Warg Riders. \n Yazneg is the brutish and cruel captain of the Hunter Orcs. \n He leads this vicious band of creatures in an effort to track down and kill Thorin s Company   and anything else that gets in his way. "
+"Recruit the Leader of Gundabad Warg Riders. \n Yazneg is the brutish and cruel captain of the Hunter Orcs. \n He leads this vicious band of creatures in an effort to track down and kill Thorin´s Company and anything else that gets in his way. "
 END
 
 CONTROLBAR:LW_ToolTip_Yazneg
@@ -111196,11 +111204,11 @@ OBJECT:Yazneg
 END
 
 CONTROLBAR:YaznegRecruit
-"Recruit the Leader of Gundabad Warg Riders. \n Yazneg is the brutish and cruel captain of the Hunter Orcs. \n He leads this vicious band of creatures in an effort to track down and kill Thorin s Company   and anything else that gets in his way. "
+"Recruit the Leader of Gundabad Warg Riders \n Class: Cavalry support \n\n Lore: \n Yazneg is the brutish and cruel captain of the Hunter Orcs. \n He leads this vicious band of creatures in an effort to track down and kill Thorin´s Company and anything else that gets in his way. "
 END
 
 CONTROLBAR:YaznegRevive
-"Revive the fallen Hero, Yazneg"
+"Revive the fallen Hero, Yazneg \n Class: Cavalry support"
 END
 
 CONTROLBAR:YaznegHotkey
