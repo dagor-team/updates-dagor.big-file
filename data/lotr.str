@@ -19902,11 +19902,11 @@ CONTROLBAR:LW_Unit_WildScorpion
 END
 
 CONTROLBAR:LW_ToolTipBuild_EvilmenKhandSoldierHorde
-"The best warriors from Khand \n Strong vs: Depending on the situation \n"
+""Unit type: Regular Cavalry \n Class: Light Cavalry \n Strong vs: Archers and at flanking""
 END
 
 CONTROLBAR:LW_ToolTipBuild_EvilmenKhandRiderHorde
-"Cavalry Archers of Khand \n Strong vs: Swordsman"
+""Unit type: Regular Cavalry \n Class: Light Cavalry \n Strong vs: Archers and at flanking""
 END
 
 CONTROLBAR:LW_Unit_EvilmenKhandSoldierHorde
@@ -19918,11 +19918,11 @@ CONTROLBAR:LW_Unit_EvilmenKhandRiderHorde
 END
 
 OBJECT:KhandRider
-"Riders from Far Harad"
+"Cavalry Archers of Khand"
 END
 
 OBJECT:HordeKhandRider
-"Riders from Far Harad"
+"Cavalry Archers of Khand"
 END
 
 CONTROLBAR:LW_Unit_HordeKhandRider
@@ -19938,11 +19938,11 @@ CONTROLBAR:ToolTipToggleKhandWeapons
 END
 
 CONTROLBAR:ConstructEvilmenKhandRiderHorde
-"Riders from Far Harad"
+"Cavarly Archers of Khand"
 END
 
 CONTROLBAR:ToolTipBuildEvilmenKhandRiderHorde
-"Requires: Stables Level 2 \n Strong vs: Ranged"
+"Requires: Stables Level 2 \n Unit type: Regular Cavalry \n Class: Light Cavalry \n Strong vs: Archers and at flanking"
 END
 
 TOOLTIP:LackScorpionGiftwolke
@@ -21812,7 +21812,7 @@ CONTROLBAR:TooltipBuildHobbitBarracksLevel3Upgrade
 END
 
 CONTROLBAR:HobbitRiderHorde
-"Unit Type: Basic Cavalry \n Strong vs: Archers"
+"Unit Type: Basic Cavalry \n Class: Light Cavalry \n Strong vs: Archers and at flanking"
 END
 
 OBJECT:HobbitBarracks
@@ -58983,7 +58983,7 @@ CONTROLBAR:BuildElvenKnightHorde
 END
 
 CONTROLBAR:ToolTipBuildElvenKnightHorde
-"Requires: Green Pasture Level 3, Wind Rider Shields and Glorfindel level 5 \n Unit Type: Elite Cavalry \n Strong vs: Infantry, Cavalry and Heroes \n Imladris Library upgrades allow the battalion to unlock special abilities \n You can only train 3 battalions"
+"Requires: Green Pasture Level 3, Wind Rider Shields and Glorfindel level 5 \n Unit Type: Elite Cavalry \n Class: Light Cavalry \n Strong in melee, especially when flanking \n Weak vs: monsters and pikemen \n Imladris Library upgrades allow the battalion to unlock special abilities \n You can maintain only 3 battalions at a time"
 END
 
 CONTROLBAR:ToolTipBuildElvenKnightHordeInn
@@ -59007,11 +59007,11 @@ CONTROLBAR:LW_Unit_ElvenKnightHordePlural
 END
 
 CONTROLBAR:LW_ToolTipBuild_ElvenRivendellLancerHorde
-"Unit Type: Elite Cavalry\nStrong vs: Infantry and Cavalry\n"
+"Unit Type: Elite Cavalry \n Class: Light Cavalry \n Strong in melee, especially when flanking \n Weak vs: monsters and pikemen"
 END
 
 CONTROLBAR:LW_ToolTip_ElvenKnightHorde
-"\nUnit Type: Elite Cavalry\nStrong vs: Infantry and Cavalry"
+"Unit Type: Elite Cavalry \n Class: Light Cavalry \n Strong in melee, especially when flanking \n Weak vs: monsters and pikemen"
 END
 
 
@@ -59399,7 +59399,7 @@ CONTROLBAR:HobbitRiderHordeInn
 END
 
 CONTROLBAR:ToolTipHobbitRiderHordeInn
-"Unit Type: Basic Cavalry \n Strong vs: Archers"
+"Unit Type: Basic Cavalry \n Class: Light Cavalry \n Strong vs: Archers and at flanking"
 END
 
 BANNERUI:HordeHobbitKnight
@@ -59419,7 +59419,7 @@ CONTROLBAR:LW_Unit_HordeHobbitKnightPlural
 END
 
 CONTROLBAR:LW_ToolTip_HordeHobbitKnight
-"\nUnit Type: Basic Cavalry\nStrong vs: Archers"
+"Unit Type: Basic Cavalry \n Class: Light Cavalry \n Strong vs: Archers and at flanking"
 END
 
 
@@ -66821,15 +66821,15 @@ CONTROLBAR:BuildGoblinRiderHorde
 END
 
 CONTROLBAR:ToolTipBuildGoblinRiderHorde
-"Requires: The Great Goblin has been crowned and Cave Level 2 \n Unit Type: Regular Cavalry \n Strong vs: Swordsmen, Archers, Structures"
+"Requires: The Great Goblin has been crowned and Cave Level 2 \n Unit Type: Regular Cavalry \n Class: Light Cavalry \n Strong vs: Archers, Structures and at flanking"
 END
 
 CONTROLBAR:ToolTipBuildGoblinRiderHorde_forHighPass
-"Requires: Cave Level 2 \n Unit Type: Regular Cavalry \n Strong vs: Swordsmen, Archers, Structures"
+"Requires: Cave Level 2 \n Unit Type: Regular Cavalry \n Class: Light Cavalry \n Strong vs: Archers, Structures and at flanking"
 END
 
 CONTROLBAR:ToolTipBuildGoblinRiderHorde_Neu
-"Requires: Cave must be built \n Unit Type: Basic Cavalry \n Strong vs: Swordsmen, Archers, Structures"
+"Requires: Cave must be built \n Unit Type: Regular Cavalry \n Class: Light Cavalry \n Strong vs: Archers, Structures and at flanking"
 END
 
 BANNERUI:GoblinRider
@@ -66849,15 +66849,15 @@ CONTROLBAR:LW_Unit_GoblinRiderHordePlural
 END
 
 CONTROLBAR:LW_ToolTipBuild_GoblinRiderHorde
-"Unit Type: Basic Cavalry\nStrong vs: Infantry\n"
+"Unit Type: Regular Cavalry \n Class: Light Cavalry \n Strong vs: Archers, Structures and at flanking"
 END
 
 CONTROLBAR:LW_ToolTip_GoblinRiderHorde
-"\nUnit Type: Basic Cavalry\nStrong vs: Infantry"
+"Unit Type: Regular Cavalry \n Class: Light Cavalry \n Strong vs: Archers, Structures and at flanking"
 END
 
 CONTROLBAR:GoblinRiderHordeRecruit_Hordensammeln
-"Unit Type: Basic Cavalry \n Strong vs: Infantry"
+"Unit Type: Regular Cavalry \n Class: Light Cavalry \n Strong vs: Archers, Structures and at flanking"
 END
 
 OBJECT:WildWargPackHorde
@@ -91116,6 +91116,10 @@ OBJECT:ThlimEcthelCavalaryHorde_Summoned
 "Thlim Ecthel Horse Archers Summoned"
 END
 
+CONTROLBAR:LW_Unit_ThlimEcthelCavalaryHorde_Summoned
+"Unit Type: Elite Cavalry Archers \n Class: Light Cavalry \n Strong at range"
+END
+
 OBJECT:ThlimEcthelSpear
 "Thlim Ecthel Spearman"
 END
@@ -91161,7 +91165,7 @@ CONTROLBAR:TuorNobleGeist
 END
 
 CONTROLBAR:ToolTipTuorNobleGeist
-"Tuor stead-fastness inspires his troops \n Units of GondoliNain his vicinity are fearless and can't get knocked down \n Passive ability"
+"Tuor stead-fastness inspires his troops \n Units of Gondolin in his vicinity are fearless and can't get knocked down \n Passive ability"
 END
 
 CONTROLBAR:TuorDramborleg
@@ -93968,63 +93972,59 @@ CONTROLBAR:AlqualondeSpellInfobox
 END
 
 CONTROLBAR:ToolTipAlqualondeSpellInfobox
-"Requires: Army of the Past Ages \n Train the Alqualond  Guards \n and the lord of Alqualond  and King of the Teleri, Olwe "
+"Requires: Army of the Past Ages \n Train the Alqualonde Guardians \n and the lord of Alqualonde and King of the Teleri, Olwe "
 END
 
 CONTROLBAR:SelectAlqualondeUnits
-"Alqualond "
+"Alqualonde"
 END
 
 CONTROLBAR:ToolTipSelectAlqualondeUnits
-"Train the Alqualond  Guards \n and the lord of Alqualond  and King of the Teleri, Olwe "
+"Train the Alqualond Guards \n and the lord of Alqualonde and King of the Teleri, Olwe"
 END
 
 CONTROLBAR:BuildAlqualondeGuardianHorde
-"Alqualond  &Guards"
+"Alqualonde &Guardians"
 END
 
 CONTROLBAR:ToolTipBuildAlqualondeGuardianHorde
-"Requires: Army of the Past Ages \n Unit Type: Elite Pikemen & Cavalry \n Strong vs: Depending on the situation \n Can switch between Foot and Mount"
+"Requires: Army of the Past Ages \n Unit Type: Elite Pikemen & Light Cavalry \n On foot strong vs: Infantry \n Mounted strong vs: Archers and at flanking \n Can mount and dismount"
 END
 
 CONTROLBAR:AlqualondeGuardianHorde
-"Alqualonde Guards"
+"Alqualonde Guardians"
 END
 
 OBJECT:AlqualondeGuardianBanner
-"Alqualond  Banner"
+"Alqualonde Banner"
 END
 
 OBJECT:AlqualondeGuardianHorde
-"Alqualond  Guard"
-END
-
-OBJECT:AlqualondeGuardianHorde
-"Alqualond  Guards"
+"Alqualonde Guardians"
 END
 
 BANNERUI:AlqualondeGuardianHorde
-"Alqualond  Guard"
+"Alqualonde Guardians"
 END
 
 BANNERUI:AlqualondeGuardianHordes
-"Alqualond  Guards"
+"Alqualonde Guardians"
 END
 
 CONTROLBAR:LW_Unit_AlqualondeGuardianHorde
-"Alqualond  Guard Battalion"
+"Alqualonde Guardians Battalion"
 END
 
 CONTROLBAR:LW_Unit_AlqualondeGuardianHordePlural
-"Alqualond  Guard Battalions"
+"Alqualonde Guardian Battalions"
 END
 
 CONTROLBAR:LW_ToolTip_AlqualondeGuardianHorde
-"\nUnit Type: Elite Pikemen\n Strong vs: Depending on the situation"
+"Unit Type: Elite Pikemen & Light Cavalry \n On foot strong vs: Infantry \n Mounted strong vs: Archers and at flanking \n Can mount and dismount"
 END
 
 CONTROLBAR:LW_ToolTipBuild_AlqualondeGuardianHorde
-"Unit Type: Elite Pikemen\n Strong vs: Depending on the situation\n"
+"Unit Type: Elite Pikemen & Light Cavalry \n On foot strong vs: Infantry \n Mounted strong vs: Archers and at flanking \n Can mount and dismount"
 END
 
 CONTROLBAR:AlqualondeGuardianCharge
@@ -94032,9 +94032,8 @@ CONTROLBAR:AlqualondeGuardianCharge
 END
 
 CONTROLBAR:TooltipAlqualondeGuardianCharge
-"Requires: Level 8 \n Alqualond  Guards gain +100% armor and resist knokback \n Left click to Activate"
+"Requires: Level 8 \n Alqualonde Guardians gain +100% armor and resist knokback \n Left click to Activate"
 END
-
 
 OBJECT:MelianDoriathTree
 "Beleriand Tree"
