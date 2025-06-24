@@ -24929,7 +24929,7 @@ TOOLTIP:LackEvilmenPorter
 END
 
 CONTROLBAR:ToolTipBuildEvilmenrhunreiterHorde
-"Requires: Stable Level 3 \n Strong vs: Archery and Swordsmen"
+"Requires: Stable Level 3  \n Unit Type: Regular Cavalry \n Class: Heavy Cavalry \n Strong in melee \n Weak vs: Pikemen and Monsters"
 END
 
 CONTROLBAR:ConstructEvilmenrhunreiterHorde
@@ -39230,7 +39230,7 @@ SCRIPT:MATutorial_MissionText03
 END
 
 SCRIPT:MATutorial_MissionText04
-"Each battalion can enter a particular attack mode, or what we refer to as stances. These stances can boost their power or defense. Click on the Gondor soldier battalioNain the spotlight."
+"Each battalion can enter a particular attack mode, or what we refer to as stances. These stances can boost their power or defense. Click on the Gondor soldier battalion in the spotlight."
 END
 
 SCRIPT:MATutorial_MissionText05
@@ -48773,7 +48773,7 @@ WOTRSCRIPT:WOTR_Tutorial064subtitle
 END
 
 WOTRSCRIPT:WOTR_Tutorial065subtitle
-"From this panel, detailed stats for each battalioNain an army can be seen, and commands to the individual battalions themselves can be given."
+"From this panel, detailed stats for each battalion in an army can be seen, and commands to the individual battalions themselves can be given."
 END
 
 WOTRSCRIPT:WOTR_Tutorial066subtitle
@@ -67368,7 +67368,7 @@ CONTROLBAR:BuildGundabadWargPackHorde
 END
 
 CONTROLBAR:ToolTipBuilGundabadWargPackHorde
-"Unit Type: Regular Cavalry \n Strong vs: Cavalry \n You can only train 3 battalions"
+"Unit Type: Basic Cavalry \n Class: Light Cavalry \n Strong vs: Archers and at flanking \n You can only train 3 battalions"
 END
 
 BANNERUI:GundabadWargPack
@@ -67388,11 +67388,11 @@ CONTROLBAR:LW_Unit_GundabadWargPackPlural
 END
 
 CONTROLBAR:LW_ToolTipBuild_GundabadWargPack
-"Unit Type: Regular Cavalry \n Strong vs: Cavalry\n"
+"Unit Type: Basic Cavalry \n Class: Light Cavalry \n Strong vs: Cavalry\n"
 END
 
 CONTROLBAR:LW_ToolTip_GundabadWargPack
-"\nUnit Type: Regular Cavalry \n Strong vs: Cavalry"
+"\nUnit Type: Basic Cavalry \n Class: Light Cavalry \n Strong vs: Cavalry"
 END
 
 
@@ -67409,7 +67409,7 @@ CONTROLBAR:BuildGundabadWargRiderHorde
 END
 
 CONTROLBAR:ToolTipBuilGundabadWargRiderHorde
-"Requires: Yazneg recruited \n Unit Type: Regular Cavalry \n Strong vs: Infantry \n You can only train 3 battalions"
+"Requires: Yazneg recruited \n Unit Type: Advanced Cavalry \n Class: Heavy Cavalry \n Strong in melee \n Weak vs: Pikemen and Monsters \n You can only train 3 battalions"
 END
 
 BANNERUI:GundabadWargRider
@@ -67429,11 +67429,11 @@ CONTROLBAR:LW_Unit_GundabadWargRiderPlural
 END
 
 CONTROLBAR:LW_ToolTipBuild_GundabadWargRider
-"Unit Type: Regular Cavalry\nStrong vs: Infantry\n"
+"\n Unit Type: Advanced Cavalry \n Class: Heavy Cavalry \n Strong in melee \n Weak vs: Pikemen and Monsters"
 END
 
 CONTROLBAR:LW_ToolTip_GundabadWargRider
-"\nUnit Type: Regular Cavalry\nStrong vs: Infantry"
+"\n Unit Type: Advanced Cavalry \n Class: Heavy Cavalry \n Strong in melee \n Weak vs: Pikemen and Monsters"
 END
 
 
@@ -69060,7 +69060,7 @@ CONTROLBAR:ConstructAngmarSchwarzeRitterHorde
 END
 
 CONTROLBAR:ToolTipBuildAngmarSchwarzeRitterHorde
-"Requires: Chambers of the Black Guard and Zaphragor recruited \n Unit Type: Elite Cavalry \n Strong vs: Cavalry and Monsters"
+"Requires: Chambers of the Black Guard and Zaphragor recruited \n Unit Type: Elite Cavalry \n Class: Heavy Cavalry \n Strong in melee \n Weak vs: Pikemen"
 END
 
 BANNERUI:AngmarSchwarzeRitter
@@ -69080,11 +69080,19 @@ CONTROLBAR:LW_Unit_AngmarSchwarzeRitterHordePlural
 END
 
 CONTROLBAR:LW_ToolTipBuild_AngmarSchwarzeRitterHorde
-"Unit Type: Elite Cavalry\nStrong vs: Cavalry and Monsters\n"
+"\n Class: Heavy Cavalry \n Strong in melee \n Weak vs: Pikemen"
 END
 
 CONTROLBAR:LW_ToolTip_AngmarSchwarzeRitterHorde
-"\nUnit Type: Elite Cavalry\nStrong vs: Cavalry and Monsters"
+"Unit Type: Elite Cavalry \n Class: Heavy Cavalry \n Strong in melee \n Weak vs: Pikemen"
+END
+
+CONTROLBAR:LW_Unit_AngmarShadowKnightHorde
+"Shadow Knight battalion"
+END
+
+CONTROLBAR:LW_ToolTip_AngmarShadowKnightHorde
+"Unit Type: Elite Cavalry \n Class: Heavy Cavalry \n Strong in melee \n Weak vs: Pikemen"
 END
 
 CONTROLBAR:SpecialAbilityGardistenklingen
@@ -79158,7 +79166,7 @@ DIALOGEVENT:MTrAdv_OffT003subtitle
 END
 
 DIALOGEVENT:MTrAdv_OffT004subtitle
-"*Each Battalion can enter a particular attack mode, or what we refer to as Stances. These stances can boost their power or defense. Click on the Gondor Soldier BattalioNain the Spotlight."
+"*Each Battalion can enter a particular attack mode, or what we refer to as Stances. These stances can boost their power or defense. Click on the Gondor Soldier Battalion in the Spotlight."
 END
 
 DIALOGEVENT:MTrAdv_OffT005subtitle
@@ -79638,7 +79646,7 @@ DIALOGEVENT:WOTR_Tutorial064subtitle
 END
 
 DIALOGEVENT:WOTR_Tutorial065subtitle
-"*From this panel, detailed stats for each battalioNain an army can be seen, and commands to the individual battalions themselves can be given."
+"*From this panel, detailed stats for each battalion in an army can be seen, and commands to the individual battalions themselves can be given."
 END
 
 DIALOGEVENT:WOTR_Tutorial066subtitle
@@ -85767,7 +85775,7 @@ CONTROLBAR:ConstructArnorKnightHorde
 END
 
 CONTROLBAR:ToolTipConstructArnorKnightHorde
-"Unit Type: Regular Cavalry \n Strong vs: Swordsmen and Archers"
+"Unit Type: Regular Cavalry \n Class: Heavy Cavalry \n Strong in melee"
 END
 
 CONTROLBAR:ConstructArnorTrebuchet
@@ -86211,43 +86219,43 @@ CONTROLBAR:LW_ToolTip_ArnorFarm
 END
 
 CONTROLBAR:LW_ToolTipBuild_ArnorFighterHorde
-"Unit Type: Basic Infantry \n Strong vs. Pikemen\n"
+"Unit Type: Regular Infantry \n Strong vs. Pikemen\n"
 END
 
 CONTROLBAR:LW_ToolTip_ArnorFighterHorde
-"\nUnit Type: Basic Infantry \n Strong vs. Pikemen"
+"\nUnit Type: Regular Infantry \n Strong vs. Pikemen"
 END
 
 CONTROLBAR:LW_ToolTipBuild_ArnorArcherHorde
-"Unit Type: Basic Archer \n Strong at Range\n"
+"Unit Type: Regular Archer \n Strong at Range\n"
 END
 
 CONTROLBAR:LW_ToolTip_ArnorArcherHorde
-"\nUnit Type: Basic Archer\nStrong at Range"
+"\nUnit Type: Regular Archer\nStrong at Range"
 END
 
 CONTROLBAR:LW_ToolTipBuild_ArnorRangerHorde
-"Unit Type: Elite Archer \n Strong at Range\n"
+"Unit Type: Advanced Archer \n Strong at Range\n"
 END
 
 CONTROLBAR:LW_ToolTip_ArnorRangerHorde
-"\nUnit Type: Elite Archer \n Strong at Range"
+"\nUnit Type: Advanced Archer \n Strong at Range"
 END
 
 CONTROLBAR:LW_ToolTipBuild_ArnorTowerGuardHorde
-"Unit Type: Elite Pikemen \n Strong vs. Cavalry\n"
+"Unit Type: Regular Pikemen \n Strong vs. Cavalry\n"
 END
 
 CONTROLBAR:LW_ToolTip_ArnorTowerGuardHorde
-"\nUnit Type: Elite Pikemen \n Strong vs. Cavalry"
+"\nUnit Type: Regular Pikemen \n Strong vs. Cavalry"
 END
 
 CONTROLBAR:LW_ToolTipBuild_ArnorKnightHorde
-"Unit Type: Basic Cavalry \n Strong vs. Archers\n"
+"Unit Type: Regular Cavalry \n Class: Heavy Cavalry \n Strong in melee"
 END
 
 CONTROLBAR:LW_ToolTip_ArnorKnightHorde
-"\nUnit Type: Basic Cavalry \n Strong vs. Archers"
+"Unit Type: Regular Cavalry \n Class: Heavy Cavalry \n Strong in melee"
 END
 
 OBJECT:ArnorBuildingGeneral2
