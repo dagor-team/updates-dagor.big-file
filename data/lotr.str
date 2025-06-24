@@ -91075,6 +91075,14 @@ CONTROLBAR:ToolTipEcthelionWaterBall
 "Requires: Level 5 \n Ecthelion uses the hidden secret of his spear. \n Enemy units are hit by a water projectile. \n Effective against heroes. \n Left-click on target unit"
 END
 
+CONTROLBAR:SpecialAbilityEcthelionWaterExplosion
+"Sacred &Waters"
+END
+
+CONTROLBAR:TooltipSpecialAbilityEcthelionWaterExplosion
+"Requires: Level 3 \n Ecthelion uses the hidden wells of Gondolin to unleash a burst of water to drown the enemies. \n Enemy units are hit by a water burst knocking down enemy units and debuffing them. \n Left-click on the target area"
+END
+
 CONTROLBAR:EcthelionGondolinFountain
 "Gondoli&n Fountain"
 END
