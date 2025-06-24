@@ -14159,7 +14159,7 @@ ModifierList GondorFighterBlock
     ModelCondition    = ALTERNATE_FORMATION
 End
 
-ModifierList GondorKnightWedge
+ModifierList LightCavalryFormationBonus
     Category = FORMATION
     Modifier = DAMAGE_MULT 125%
     Modifier = ARMOR -25%
