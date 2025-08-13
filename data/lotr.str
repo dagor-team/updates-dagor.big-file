@@ -3132,6 +3132,14 @@ CONTROLBAR:ToggleQuadratFormation
 "Square Formation (&W)"
 END
 
+CONTROLBAR:SpecialAbilityBeregondKommandantKompanie
+"Protector of Gondolin"
+END
+
+CONTROLBAR:ToolTipSpecialAbilityBeregondKommandantKompanie
+"Requires: Level 5 \n Ecthelion calls his guards to protect an allied building, while elven workers repair it \n Upon choosing a nearby building, \n 8 Fighters of Gondolin will defend an allied building for 30s and it will get slowly repaired \n Left-click on a desired building"
+END
+
 CONTROLBAR:ToolTipToggleLineToQuadratFormation
 "Only available with a spear \n The units form a square with raised spears"
 END
