@@ -1068,10 +1068,10 @@ CommandSet AngbandFortressCommandSet
    10    = Command_LeadershipAngbandFortressPikes
    11    = Command_LeadershipAngbandFortressTowersSpire
 
-   12    = Command_ConstructAngbandIronWorm
-   13    = Command_ConstructAngbandFireDrake
-   14    = Command_ConstructAngbandDragon
-   15    = Command_RadialBack
+   12    = Command_ConstructAngbandTormentedElves
+   13    = Command_ConstructAngbandGateGuards
+   14    = Command_ConstructAngbandFireDrake
+   15    = Command_ConstructAngbandDragon
 
        16    = Command_FakeRingHeroReviveSlot
        17    = Command_FakeCreateAHeroReviveSlot
@@ -1108,10 +1108,10 @@ CommandSet AngbandFortressCommandSetLevel2
    10    = Command_LeadershipAngbandFortressPikes
    11    = Command_LeadershipAngbandFortressTowersSpire
 
-   12    = Command_ConstructAngbandIronWorm
-   13    = Command_ConstructAngbandFireDrake
-   14    = Command_ConstructAngbandDragon
-   15    = Command_RadialBack
+   12    = Command_ConstructAngbandTormentedElves
+   13    = Command_ConstructAngbandGateGuards
+   14    = Command_ConstructAngbandFireDrake
+   15    = Command_ConstructAngbandDragon
 
        16    = Command_FakeRingHeroReviveSlot
        17    = Command_FakeCreateAHeroReviveSlot
@@ -1148,10 +1148,10 @@ CommandSet AngbandFortressCommandSetLevel3
    10    = Command_LeadershipAngbandFortressPikes
    11    = Command_LeadershipAngbandFortressTowersSpire
 
-   12    = Command_ConstructAngbandIronWorm
-   13    = Command_ConstructAngbandFireDrake
-   14    = Command_ConstructAngbandDragon
-   15    = Command_RadialBack
+   12    = Command_ConstructAngbandTormentedElves
+   13    = Command_ConstructAngbandGateGuards
+   14    = Command_ConstructAngbandFireDrake
+   15    = Command_ConstructAngbandDragon
 
        16    = Command_FakeRingHeroReviveSlot
        17    = Command_FakeCreateAHeroReviveSlot
@@ -1188,10 +1188,10 @@ CommandSet AngbandFortressCommandSetLevel4
    10    = Command_LeadershipAngbandFortressPikes
    11    = Command_LeadershipAngbandFortressTowersSpire
 
-   12    = Command_ConstructAngbandIronWorm
-   13    = Command_ConstructAngbandFireDrake
-   14    = Command_ConstructAngbandDragon
-   15    = Command_RadialBack
+   12    = Command_ConstructAngbandTormentedElves
+   13    = Command_ConstructAngbandGateGuards
+   14    = Command_ConstructAngbandFireDrake
+   15    = Command_ConstructAngbandDragon
 
        16    = Command_FakeRingHeroReviveSlot
        17    = Command_FakeCreateAHeroReviveSlot
@@ -1227,10 +1227,10 @@ CommandSet AngbandFortressCommandSetLevel5
    10    = Command_LeadershipAngbandFortressPikes
    11    = Command_LeadershipAngbandFortressTowersSpire
 
-   12    = Command_ConstructAngbandIronWorm
-   13    = Command_ConstructAngbandFireDrake
-   14    = Command_ConstructAngbandDragon
-   15    = Command_RadialBack
+   12    = Command_ConstructAngbandTormentedElves
+   13    = Command_ConstructAngbandGateGuards
+   14    = Command_ConstructAngbandFireDrake
+   15    = Command_ConstructAngbandDragon
 
        16    = Command_FakeRingHeroReviveSlot
        17    = Command_FakeCreateAHeroReviveSlot

@@ -96593,6 +96593,39 @@ CONTROLBAR:LW_ToolTip_AngbandDragon
 "\nUnit Type: Elite Flying Monster\nStrong vs: Cavalry and Flying Monster"
 END
 
+CONTROLBAR:BuildTormentedElvesHorde
+"Angba&nd Tormented Elves"
+END
+
+CONTROLBAR:ToolTipBuildTormentedElvesHorde
+"Unit Type: Elite Archers \n Strong at range \n Weak vs: Cavalry and Monsters"
+END
+
+OBJECT:TormentedElvesHordeHorde
+"Angba&nd Tormented Elves"
+
+CONTROLBAR:LW_Unit_TormentedElvesHordeHorde
+"Angba&nd Tormented Elves"
+
+CONTROLBAR:LW_ToolTip_TormentedElvesHordeHorde
+"Horrific but unfinished creature of Morgoth \n\n Unit Type: Elite Archers \n Strong at range \n Weak vs: Cavalry and Monsters"
+END
+
+CONTROLBAR:EvilTactics
+"Unleashed Hordes"
+END
+
+CONTROLBAR:ToolTipEvilTactics
+"These unfinished creatures are not among the strongest but with enough numbers can cause significant problems \n Unit Horde bonus: +40% damage, +20% speed if higher in number than 48 \n Passive ability"
+END
+
+CONTROLBAR:WeaponUpgrade
+"Weapon Upgrade"
+END
+
+CONTROLBAR:ToolTipWeaponUpgrade
+"Requires: Level 5 \n Tormented elves gain new arrows \n Passive ability"
+END
 
 CONTROLBAR:AngbandArmorUpgrade
 "Armor Upgrade"
