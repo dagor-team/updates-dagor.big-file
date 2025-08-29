@@ -1069,7 +1069,7 @@ CommandSet AngbandFortressCommandSet
    11    = Command_LeadershipAngbandFortressTowersSpire
 
    12    = Command_ConstructAngbandTormentedElves
-   13    = Command_ConstructAngbandGateGuards
+   13    = Command_ConstructAngbandGateGuardsHorde
    14    = Command_ConstructAngbandFireDrake
    15    = Command_ConstructAngbandDragon
 
@@ -1109,7 +1109,7 @@ CommandSet AngbandFortressCommandSetLevel2
    11    = Command_LeadershipAngbandFortressTowersSpire
 
    12    = Command_ConstructAngbandTormentedElves
-   13    = Command_ConstructAngbandGateGuards
+   13    = Command_ConstructAngbandGateGuardsHorde
    14    = Command_ConstructAngbandFireDrake
    15    = Command_ConstructAngbandDragon
 
@@ -1149,7 +1149,7 @@ CommandSet AngbandFortressCommandSetLevel3
    11    = Command_LeadershipAngbandFortressTowersSpire
 
    12    = Command_ConstructAngbandTormentedElves
-   13    = Command_ConstructAngbandGateGuards
+   13    = Command_ConstructAngbandGateGuardsHorde
    14    = Command_ConstructAngbandFireDrake
    15    = Command_ConstructAngbandDragon
 
@@ -1189,7 +1189,7 @@ CommandSet AngbandFortressCommandSetLevel4
    11    = Command_LeadershipAngbandFortressTowersSpire
 
    12    = Command_ConstructAngbandTormentedElves
-   13    = Command_ConstructAngbandGateGuards
+   13    = Command_ConstructAngbandGateGuardsHorde
    14    = Command_ConstructAngbandFireDrake
    15    = Command_ConstructAngbandDragon
 
@@ -1228,7 +1228,7 @@ CommandSet AngbandFortressCommandSetLevel5
    11    = Command_LeadershipAngbandFortressTowersSpire
 
    12    = Command_ConstructAngbandTormentedElves
-   13    = Command_ConstructAngbandGateGuards
+   13    = Command_ConstructAngbandGateGuardsHorde
    14    = Command_ConstructAngbandFireDrake
    15    = Command_ConstructAngbandDragon
 
