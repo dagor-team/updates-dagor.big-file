@@ -1,22 +1,23 @@
 GENERAL
 	Cavalry classes added with all descritions added
-	Xp share for heroes will now function as in any other mod or version of the game with a rebalance to xp requirements for heroes
+	Xp share for heroes will now function as in any other mod or version of the game with a rebalance to xp requirements for heroes 
+		Archer heroes xp requirement increased by 
 	Units affected by mist invisibility can be detected from further away
 	Healing spell fixed + can now heal catapults and other machines
 	All basic infantry armor buffed against heroes (archers 20%, melee 30%)
 	Hero stats (health and damage) rebalanced
-	Most hero basic attacks got removed (only those which were added for heroes to level up)
+	Most hero basic attack AOE got removed (only those which were added for heroes to level up ex: Boromir)
 
 Gondor	
 	Boromir - cost revert 2300 -> 2000
 	Dol amroth swordsmen weapon fixed
 	Ithilien rangers recruitable from the Forbidden pool
 	Damrod - leadership now affects all ithilien units
-	Ithilien swordsmen armor and damge buffed
+	Ithilien swordsmen armor and damge buffed - values?
 		
 Angmar
 	Snowbind spell now grants full invulnerability
-	Mornamarths buff from the power of the Witch king heavily nerfed and no longer stacks with his level 1
+	Mornamarths buff from the power of the Witch king heavily nerfed and no longer stacks with his level 1 - values?
 	
 Rohan
 	Royal Guards - armor nerf against pikes by 40%
@@ -26,7 +27,7 @@ Rohan
 Arnor 
 	Guardians of arnor weapon fixed
 Goblins
-	Gundabad troll - speed buff
+	Gundabad troll - speed buff - value?
 	Great goblin plunder cart - despawn fix
 Mordor
 	
@@ -46,7 +47,7 @@ Loth
 		- cost decreased by 500, health increased by 1000, no longer produces money
 	Lorien swordsmen, archers and pikes price increased by 50, 
 	Grimbeorn armor buff
-	Haldir - Golden arrow moved to level 6
+	Haldir - Golden arrow moved to level 6 and has a new scaling leadership starting at level 4
 	
 Imladris
 	Library upgraded no longer disappear when the building is destroyed
