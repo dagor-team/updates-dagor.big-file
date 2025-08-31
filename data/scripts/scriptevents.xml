@@ -1093,6 +1093,11 @@
        <EventHandler EventName="ModelConditionUSER_2"    ScriptFunctionName="OnAlatarUser8" DebugSingleStep="false"/>
     </EventList>
 
+            <EventList Name="ImladrisBaStableFunctions" Inherit="BaseScriptFunctions">
+       <EventHandler EventName="ModelConditionUSER_1"    ScriptFunctionName="OnAlatarUser6" DebugSingleStep="false"/>
+       <EventHandler EventName="ModelConditionUSER_2"    ScriptFunctionName="OnAlatarUser8" DebugSingleStep="false"/>
+    </EventList>
+
 	<EventList Name="LorienWarriorFunctions" Inherit="InfantryFunctions">
         <EventHandler EventName="OnCreated"	ScriptFunctionName="OnLorienWarriorCreated" DebugSingleStep="false"/>
     </EventList>

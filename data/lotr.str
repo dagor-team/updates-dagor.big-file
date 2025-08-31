@@ -106469,7 +106469,7 @@ CONTROLBAR:ConstructBruchtalVeteranHorde
 END
 
 CONTROLBAR:ToolTipBuildBruchtalVeteranHorde
-"Requires: Barracks Level 3, Helmets of the Last Alliance, Forged Blades and Gil Galad level 5 on the battlefield \n Unit Type: Special Elite Infantry \n Strong vs: Everything \n You can only have a maximum of 3 veteran hordes at the same time"
+"Requires: Barracks Level 3, Helmets of the Last Alliance and Gil Galad level 5 on the battlefield \n Unit Type: Special Elite Infantry \n Strong vs: Everything \n You can only have a maximum of 3 veteran hordes at the same time"
 END
 
 CONTROLBAR:LW_Unit_HordeBruchtalVeteran
