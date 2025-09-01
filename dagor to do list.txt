@@ -1,0 +1,193 @@
+scout heroes
+withking expanded ability to make grond faster and perhaps cheaper
+formations, hotkeys - future
+
+not beginner friendly
+keeping secrets - 
+balance...
+
+TO DO NICO:
+Armorset.ini clean up
+
+
+
+PRIORITIES:
+not beginner friendly
+meta strats
+descriptions on heroes - me
+loth rework - me - done
+drogoth dmg test lvl 1 and past - works
+great goblin cart death - Nico
+ecthelion / turgon choice - done
+Ecthelion lvl 3 - water burst OCL small range with debuff
+Ecthelion lvl 5 - gradual rebuild with guarding units
+gilgalad commandset - me - done
+elrond commandset - me - done
+oogglie talk spell pre FA
+imla wizard range increase - Nico - done
+finish models
+mordor fa tormented elves texture
+cav reclassing heavy/light - make list + functions - me - done
+fx mass cav remove - Nico - done
+Rogash and Shelob stuck movement - Nico - done
+battlewagon trample battlewagon test - done
+HordesWaitForHordes ?
+haldir invis - done
+tree summon spell loth - 
+dunland hut build time - done
+melian stealth - done
+
+HARAD:
+desert terrain instead of frozen made with earthquake bits - switch FX - 10 pp - speed and damage buff, speed and trample debuff - palando buff it - DONE
+sunflare - 20 pp - DOT - DONE
+orc summon ta and fa version (mouth of sauron/balcmeg) - 20 pp - DONE
+market ??? - 10 pp (in the middle)
+horn - 5 pp (starting) - DONE
+Temple summon - sorcerers for rhun, scorpions for harad - 15 pp
+second faction unlock - 15 pp (before fa) - DONE
+weapon fire sort like a mix between tears of the valar and crebain, desert wind fx, less frequent weapon fire, doesnt do dmg, can be moved - 10 pp - alatar buff it - DONE
+wain riders of khand summon - before sunflare - 15 pp - small charriot in the position of the banner for cav
+continuous rebuild + temporary spikes dealing dmg exclusively to cav and monsters (lasts 20 sec) - 5 pp (starting)
+temporary bonus one of the harad heroes doing something else for each one (thru model condition) - 5 pp (middle)
+
+SULADAN ability concept - 4k
+-mount + leadership
+-blademaster
+-xp give
+-flood esq ability coming from the flanks with a wide radius, upon death the flood horses would summon their replacement (thargelion after fa)
+-lvl 7
+
+HUNTER 1,5K ish
+weapon switch (melee/spear throws)
+traps
+spear throwers (stealth) summon + activation thru weaponset upgrade and threat lvl increase on a target
+bouncing spears on spear throwers 
+Spear throw marks a hunt - random monster summons from the mark, 5s slow, permanent DOT nugget (conditioned on 5pp spell)
+
+SALEME
+spy on a building - bill ferny (edain)
+throwing darts - nico
+alligned regions - rhino riders - troll men
+pin whole map range 1m cast time, summons ping that on death summons 8 hasharin
+hero dmg buff leadership
+
+monster models: lions, matriach, scorpions
+new models: troll-men, rhino riders, hunter, lions, wain rider charriot, balchoth, new tractor
+
+HELMET - for the balchoth
+TEMPLE - 
+HALF TROLLS
+RHINOS - warbeast of mordor
+
+hobbit building ?
+gandalf ring
+sauron ring
+ice golem finish
+malbeth prophecy application - nico
+
+
+models from mich:
+wufl
+narzug
+bolg
+smaug?
+ogres
+warg pack
+
+TALK TOMORROW:
+fear resists - not passive lvl 1 on faction leaders - not urgent
+no oneshots without buffs - not urgent
+stacking buffs nerf - dmg and armor - not urgent
+fliers, monsters nerf - not urgent
+fears - rework - not urgent
+spearmen formation nerfs armor - not urgent
+buff spearmen scaling and revenge dmg - done
+revert hero xp gain - done
+Dol amroth cav nerf - done
+rework the last stand spell book dwarves - done
+knockback resist imladris - done
+redoing mordors first age - 
+mordor fire drakes need to have a proper trample + snow trolls - done
+eomer too tanky - done
+theodens glorious charge not apply to allied heroes - done
+horse range scaling on levels removed - done
+sarumans takeover needs to have lower radius - done
+removing all armor upgrades from first age units - done
+rework the shield uruk system again - done
+Radius of Speech Craft of Saruman - done
+galadriel slight buff - done
+spearthrowers dmg decrease - done
+limit the fucking sorcerers to 2 - done
+rogash lvl 8 armor nerf - done
+gondolin tower exit button - done
+heals not affecting allies - ?
+arnor hobbit summon replaced by lindon tower with recruiting cirdan inside - 
+ISENGARD - Uruks? Steelworks? shield uruks bonuses - not urgent 
+Vrasku bouncing arrow weapon lvl 1 - done
+Uruk captains - dedications and new abilities - done
+switch uruk bows and pikes in the pit - done
+Paralyze for singers remove - done
+unit type descriptions
+
+THORIN - remove mithril
+orcrist ability lvl 1, upgrade over levels, cursing on lvl 10 while active perhaps
+fear aura lvl 3 while orcrist active
+spell damage reduce of enemy heroes on hit debuff level 5
+level 7 health drain
+Runes dont affect these bonuses
+ON KING armor upgrade
+
+wainrider summon
+bounty hunter
+ogres nerf- done
+balchoth pikes - towe guard skl
+balchoth swords - rohan axemen
+balchoth banner - wildmen banner skl
+balchoth archers - rangers skl
+balchoth hero - eowyn skl
+khand pikes - towe guard skl
+khand swords - 
+khand cav - 
+chariot - 
+alatar and palando abilities
+dragon emperor ?
+arnor spellbook heal
+
+Traitors timed - 
+BOLDOG AND BALCMEG
+summon pings that give xp
+
+VAIRE - valar for harad?
+
+thargelion first age
+wain rider charriot and cav
+textures
+HEROES: bounty hunter rhun
+	general rhun
+	fa hero
+
+MordorBlackUrukBowHorde_Summoned
+MordorBlackUrukHorde_Summoned
+MordorMorgulOrkHorde_Summoned
+MordorMorgulriderHorde_Summoned
+MordorCirithOrkHorde_Summoned
+MordorMouthOfSauron
+
+Bounty hunter rhun:
+weapon switch and leadership mercs - lvl 1
+	- for bow commandset
+	- wounding arrow with DOT - lvl 4
+	- explosive arrow - lvl 2
+	- pin arrow - lvl 6
+	- doom arrow - lvl 8
+	- for sword commandset
+	- blademaster
+	- stealth (grima escape)
+	- disarm (modifier with 0% damage and spell damage)
+	- permanent mercs lvl 10
+Bounty hunter harad:
+weapon switch and leadership mercs - lvl 1
+grappling hook lvl 4 (running anim)
+poisson arrow with debuff (speed dmg) lvl 2
+permanent mercs lvl 7
+arrow wind with bleeding arrows and paralyze (5 per burst, 75 arrows, 5 per target) 

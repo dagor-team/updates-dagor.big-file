@@ -56396,11 +56396,11 @@ CONTROLBAR:ConstructRohanRoyalGuardHorde
 END
 
 CONTROLBAR:ToolTipBuildRohanRoyalGuardHorde
-"Requires: Level 3 Stables \n Unit Type: Elite Cavalry \n Strong vs: Infantry, Cavalry and Heroes \n You can only maintain 4 battalions at a time"
+"Requires: Level 3 Stables \n Unit Type: Elite Cavalry \n Class: Medium Cavalry \n Strong vs: Swordsmen, Archers, Cavalry and Heroes \n You can only maintain 4 battalions at a time"
 END
 
 CONTROLBAR:ToolTipBuildRohanRoyalGuardHorde_Edoras
-"Unit Type: Elite Cavalry \n Strong vs: Infantry and Cavalry \n You can only train 4 battalions"
+"Unit Type: Elite Cavalry \n Class: Medium Cavalry \n Strong vs: Swordsmen, Archers, Cavalry and Heroes \n You can only train 4 battalions"
 END
 
 BANNERUI:RohanRoyalGuard
@@ -56420,11 +56420,11 @@ CONTROLBAR:LW_Unit_RohanKoniglicheGardeHordePlural
 END
 
 CONTROLBAR:LW_ToolTipBuild_RohanKoniglicheGardeHorde
-"Unit Type: Elite Cavalry\nStrong vs: Infantry and Cavalry\n"
+"Unit Type: Elite Cavalry \n Class: Medium Cavalry \nStrong vs: Infantry and Cavalry\n"
 END
 
 CONTROLBAR:LW_ToolTip_RohanKoniglicheGardeHorde
-"\nUnit Type: Elite Cavalry\nStrong vs: Infantry and Cavalry"
+"\nUnit Type: Elite Cavalry \n Class: Medium Cavalry \nStrong vs: Infantry and Cavalry"
 END
 
 CONTROLBAR:TooltipChargeofGloryKingGuardUpgraded
@@ -61735,7 +61735,7 @@ CONTROLBAR:ConstructAglarondCavalaryHorde
 END
 
 CONTROLBAR:ToolTipConstructAglarondCavalaryHorde
-"Unit Type: Advanced Cavalry \n Strong vs: Swordsmen, Archers, Structures \n You can only train 3 battalions"
+"Unit Type: Advanced Cavalry \n Class: Medium Cavalry \n Strong vs: Swordsmen, Archers, Structures \n You can only train 3 battalions"
 END
 
 BANNERUI:AglarondCavalary
@@ -61755,11 +61755,11 @@ CONTROLBAR:LW_Unit_AglarondCavalaryHordePlural
 END
 
 CONTROLBAR:LW_ToolTipBuild_AglarondCavalaryHorde
-"Unit Type: Regular Cavalry\nStrong vs: Infantry\n"
+"Unit Type: Regular Cavalry \n Class: Medium Cavalry \n Strong vs: Infantry"
 END
 
 CONTROLBAR:LW_ToolTip_AglarondCavalaryHorde
-"\nUnit Type: Regular Cavalry\nStrong vs: Infantry"
+"\nUnit Type: Regular Cavalry \n Class: Medium Cavalry \n Strong vs: Infantry"
 END
 
 
@@ -63403,7 +63403,7 @@ CONTROLBAR:ConstructMordorMorgulriderHorde
 END
 
 CONTROLBAR:ToolTipBuildMordorMorgulriderHorde
-"Unit Type: Elite Cavalry \n Strong vs: Swordsmen, Archers, Cavalry, Heroes"
+"Unit Type: Elite Cavalry \n Class: Medium Cavalry \n Strong vs: Swordsmen, Archers, Heroes \n You can maintain 4 battalions at a time"
 END
 
 BANNERUI:MordorMorgulrider
@@ -63423,11 +63423,11 @@ CONTROLBAR:LW_Unit_MordorMorgulriderPlural
 END
 
 CONTROLBAR:LW_ToolTipBuild_MordorMorgulriderHorde
-"Unit Type: Elite Cavalry\nStrong vs: Infantry and Cavalry\n"
+"Unit Type: Elite Cavalry \n Class: Medium Cavalry \nStrong vs: Swordsmen, Archers, Heroes\n"
 END
 
 CONTROLBAR:LW_ToolTip_MordorMorgulriderHorde
-"\nUnit Type: Elite Cavalry\nStrong vs: Infantry and Cavalry"
+"\nUnit Type: Elite Cavalry \n Class: Medium Cavalry \nStrong vs: Swordsmen, Archers, Heroes"
 END
 
 OBJECT:MordorSpiderling
