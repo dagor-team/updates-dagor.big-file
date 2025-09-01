@@ -1,0 +1,30 @@
+
+LIGHT_CAVALRY - AngmarWolfRider AngmarThrallMasterWolfBanner GoblinSpiderRider MordorHaradrimRider MordorHaradrimRiderBanner RohanRohirrimArcher_mod MirkwoodElkrider IsengardWargBow
+IsengardWargRider_Bergwargreiter IsengardWargRiderBanner_Bergwargreiter GoblinRider WildGoblinRiderBanner HobbitCavalry EvilmenKhandRider ElvenKnight ElvenKnight_forFornost AlqualondeGuardianBanner AlqualondeGuardian 
+ThlimEcthelCavalaryBanner ThlimEcthelCavalary 
+
+MEDIUM_CAVALRY - IsengardWargRider_Zuchtwargreiter IsengardWargRiderBanner_Zuchtwargreiter ElvenRivendellLancer ElvenRivendellLancerBanner ElvenRivendellLancerMod
+RohirrimBanner RohanRohirrim RohanHeroldHorse 
+RohanHeerlagerRohirrim RohanHeerlagerRohirrim_Generalszelt RohanHeerlagerRohirrim_Waffenkammer RohanHeerlagerRohirrim_Rustkammer RohanHeerlagerRohirrim_RustkammerWaffenkammer RohanHeerlagerRohirrim_GeneralszeltRustkammerWaffenkammer
+AglarondCavalaryBanner AglarondCavalary ThargelionCavalaryBanner ThargelionCavalary Morgulrider MorgulRiderBanner RohanRoyalGuard AngmarWeißerWarg 
+
+HEAVY_CAVALRY - IronHillsScout IronHillsScoutBanner IsengardWargRider_Sharkuswargreiter IsengardWargRiderBanner_Sharkuswargreiter IsengardBlutwarg IsengardBlutwargRudelfuhrer GundabadWargRider 
+RohanAxtrohirrim IsenfurtReiter_Hauptmann GondorCavalry GondorCavalryBanner ArnorCavalryBanner ArnorCavalry IsenfurtReiter EisenbergRider EvilmenRhunrider AngmarShadowKnight EasterlingKataphrakt AngmarSchwarzeRitter 
+AngmarSchwarzeRitterBanner DolAmrothGardeMountedBanner DolAmrothGardeMounted GondorKnightsofDol MenegrothCavalary MenegrothCavalaryBanner BelegostRider BelegostRiderBanner TaniquetilExpeditionary TaniquetilExpeditionaryBanner 
+
+dol amroth, kataphracts get star formation
+kataphracts get new ability curved blades
+morgul riders - fix nazgul leaderships for them, new ability giving invincibility to pikes, no trample dmg, but knockback and debuff - 15 sec, -armor to cav and crush 25% and -25% dmg for pikes
+
+NICO:
+
+RohanHeroldHorseBanner - make child objects
+
+LIGHT (chasing down stuff (flanking): -armor; +dmg/speed (formation)) - 
+
+MEDIUM (trample bonus (base) light>speed: -armor; +trample (formation) - 
+
+HEAVY (fighters, bonus health (-speed -trample; +armor) - 
+
+
+

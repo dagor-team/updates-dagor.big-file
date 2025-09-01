@@ -1,4 +1,4 @@
-#define EVIL_EXPANDABLE MordorGoblinSwordsman MordorGoblinFighterHorde MordorGoblinSwordsman_Slaved MordorGoblinArcher MordorGoblinArcherHorde MordorGoblinArcher_Slaved Isengardorcfighter IsengardorcfighterHorde WildPlunderork WildPlunderorkHorde GoblinFighter GoblinFighterHorde WildBannerGoblin GorkilEliteHorde GoblinSpear GoblinSpearHorde GoblinSpearHordeFormation GoblinSpearHorde_FromDefectedLair GoblinArcher GoblinArcher1 GoblinArcher2 GoblinArcherHorde GoblinArcherHorde_FromDefectedLair GoblinArcherHordeFormation MordorBannerOrc MordorFighter MordorFighterHorde MordorFighterHorde_Summoned MordorFighter_Gorthaur MordorFighterHordeGorthaur_Summoned MordorAufseherFighterHordeComboHorde MordorAufseherHorde MordorAufseher02Horde MordorAufseher_forHorde MordorAufseher02_forHorde MordorAufseherPikemanHordeComboHorde AngmarOrcWarriors AngmarOrcWarrior WildSklaven WildSklaveHobbit WildSklaveZwerg WildSklaveBauer1 WildSklaveBauer2 WildSklavenHorde WildSklavenHordeFree DwarvenSklaven GoblinTunnel GoblinTunnelHorde GoblinFighterHorde_FromDefectedLair GoblinFighterGroﬂork GoblinFighteGroﬂorkHorde GoblinFighterHordeFormation MordorCirithSchnuffler MordorPikeman MordorPikemanHorde MordorPikemanHordePorcupine GoblinFighterGroﬂork_SummonedHorde GoblinFighterGroﬂork_Summoned WildMiniScorpionHorde WildMiniScorpion
+#define EVIL_EXPANDABLE MordorGoblinSwordsman MordorGoblinFighterHorde MordorGoblinSwordsman_Slaved MordorGoblinArcher MordorGoblinArcherHorde MordorGoblinArcher_Slaved Isengardorcfighter IsengardorcfighterHorde WildPlunderork WildPlunderorkHorde GoblinFighter GoblinFighterHorde WildBannerGoblin GorkilEliteHorde GoblinSpear GoblinSpearHorde GoblinSpearHordeFormation GoblinSpearHorde_FromDefectedLair GoblinArcher GoblinArcher1 GoblinArcher2 GoblinArcherHorde GoblinArcherHorde_FromDefectedLair GoblinArcherHordeFormation MordorBannerOrc MordorFighter MordorFighterHorde MordorFighterHorde_Summoned MordorFighter_Gorthaur MordorFighterHordeGorthaur_Summoned MordorAufseherFighterHordeComboHorde MordorAufseherHorde MordorAufseher02Horde MordorAufseher_forHorde MordorAufseher02_forHorde MordorAufseherPikemanHordeComboHorde AngmarOrcWarriors AngmarOrcWarrior WildSklaven WildSklaveHobbit WildSklaveZwerg WildSklaveBauer1 WildSklaveBauer2 WildSklavenHorde WildSklavenHordeFree DwarvenSklaven GoblinTunnel GoblinTunnelHorde GoblinFighterHorde_FromDefectedLair GoblinFighterGroﬂork GoblinFighteGroﬂorkHorde GoblinFighterHordeFormation MordorCirithSchnuffler MordorPikeman MordorPikemanHorde MordorPikemanHordePorcupine GoblinFighterGroﬂork_SummonedHorde GoblinFighterGroﬂork_Summoned WildMiniScorpionHorde WildMiniScorpionHordeMember WildMiniScorpion
 
 #define EVIL_EXPANDABLE_SUMMONED MordorMorgulOrk_Summoned MordorMorgulOrkHorde_Summoned AngmarOrcWarriors_Summoned AngmarOrcWarrior_Summoned MordorCirithOrk_Summoned MordorCirithOrkHorde_Summoned
 
@@ -6,52 +6,48 @@
 
 #define EVIL_CHEAP_SUMMONED RhudaurSpearman_Summoned IsengardWildman_Summoned IsengardWildmanAxe_Summoned RhudaurSpearmenHorde_Summoned RhudaurSlinger_Summoned RhudaurSlingerHorde_Summoned MordorBlackOrcHorde_Summoned MordorBlackOrc_Summoned
 
-#define EVIL_BASIC EvilmenHaradSword EvilmenHaradSwordHorde EvilmenHaradSwordHordeBlock MordorCorsairsOfUmbar MordorCorsairsOfUmbarHorde MordorCorsairBanner MordorCorsairsOfUmbarHordeInn MordorCorsairsOfUmbarHordeFree WildCorsairsOfUmbarHordeFree WildCorsairsOfUmbarHordeInn MordorBlackOrc_mod MordorBlackOrcHorde_mod AngmarThrallMaster AngmarThrallMasterBanner AngmarThrallMasterAxeBanner CorsairsOfUmbar CorsairsOfUmbarHorde AngmarOrkSchlachter AngmarBannerOrc AngmarOrkSchlachter1 AngmarOrkSchlachter2 AngmarOrkSchlachter3 AngmarOrkSchlachter4 AngmarOrkSchlachter5 AngmarOrkSchlachter6 AngmarOrkSchlachter7 AngmarOrkSchlachterHorde AngmarOrkSchlachterHordeFree
+#define EVIL_BASIC EvilmenHaradSword EvilmenHaradSwordHorde EvilmenHaradSwordHordeBlock MordorCorsairsOfUmbar MordorCorsairsOfUmbarHorde MordorCorsairBanner MordorCorsairsOfUmbarHordeInn MordorCorsairsOfUmbarHordeFree WildCorsairsOfUmbarHordeFree WildCorsairsOfUmbarHordeInn MordorBlackOrc_mod MordorBlackOrcHorde_mod AngmarThrallMaster AngmarThrallMasterBanner AngmarThrallMasterAxeBanner CorsairsOfUmbar CorsairsOfUmbarHorde AngmarOrkSchlachter AngmarBannerOrc AngmarOrkSchlachter1 AngmarOrkSchlachter2 AngmarOrkSchlachter3 AngmarOrkSchlachter4 AngmarOrkSchlachter5 AngmarOrkSchlachter6 AngmarOrkSchlachter7 AngmarOrkSchlachterHorde AngmarOrkSchlachterHordeFree HaradPikemanModHorde HaradPikemanMod HaradBannerCarrierNew
 
-#define EVIL_REGULAR_15 MordorCirithOrk MordorCirithOrkHorde MordorCirithOrkHordePorcupine MordorMorgulOrk MordorMorgulOrkHorde MordorAufseherCirithOrkHordeComboHorde MordorAufseherCirithOrkHordeComboHordePorcupine MordorAufseherMorgulOrkHordeComboHorde DolguldurArcher DolguldurArcherHorde MordorAufseherGuldurOrkHordeComboHorde MordorEasterling MordorEasterlingHorde MordorEasterlingPorcupineHorde MordorEasterlingHordeMod MordorEasterlingHordePorcupineMod IsengardFighter IsengardFighterHorde IsengardFighterHordeBlock IsengardPikeman IsengardPikemanHorde IsengardPikemanHordePorcupine IsengardUrukCrossbow IsengardUrukCrossbowHorde IsengardShielduruk IsengardShieldurukHorde IsengardPikemanShieldurukComboHorde IsengardShieldurukCrossbowComboHorde IsengardFighterShieldurukComboHorde
+#define EVIL_REGULAR_15 IsengardUglukHorde_Summoned IsengardEliteFighter MordorDolGuldurBannerOrc MordorMorgulBannerOrc MordorMorgulBannerOrc02 DolguldurOrk DolguldurOrkHorde MordorCirithOrk MordorCirithOrkHorde MordorCirithOrkHordePorcupine MordorMorgulOrk MordorMorgulOrkHorde MordorAufseherCirithOrkHordeComboHorde MordorAufseherCirithOrkHordeComboHordePorcupine MordorAufseherMorgulOrkHordeComboHorde DolguldurArcher DolguldurArcherHorde MordorAufseherGuldurOrkHordeComboHorde MordorEasterling MordorEasterlingHorde MordorEasterlingPorcupineHorde MordorEasterlingHordeMod MordorEasterlingHordePorcupineMod IsengardFighter IsengardFighterHorde IsengardFighterHordeBlock IsengardPikeman IsengardPikemanHorde IsengardPikemanHordePorcupine IsengardUrukCrossbow IsengardUrukCrossbowHorde IsengardShielduruk IsengardShieldurukHorde EvilmenRhunNewSword EvilmenRhunNewSwordHorde IsengardPikemanShieldurukComboHorde IsengardShieldurukCrossbowComboHorde IsengardFighterShieldurukComboHorde EvilMenRhunInfantryBanner
 
-#define EVIL_REGULAR_15_SUMMONED IsengardFighter_Summoned IsengardFighterHorde_Summoned IsengardPikeman_Summoned IsengardPikemanHorde_Summoned IsengardUrukCrossbow_Summoned IsengardUrukCrossbowHorde_Summoned IsengardShielduruk_Summoned IsengardShieldurukHorde_Summoned IsengardShieldurukCrossbowComboHorde_Summoned IsengardPikemanShieldurukComboHorde_Summoned IsengardFighterShieldurukComboHorde_Summoned
+#define EVIL_REGULAR_15_SUMMONED DolguldurOrk_Summoned DolguldurOrkHorde_Summoned IsengardFighter_Summoned IsengardFighterHorde_Summoned IsengardPikeman_Summoned IsengardPikemanHorde_Summoned IsengardUrukCrossbow_Summoned IsengardUrukCrossbowHorde_Summoned IsengardShielduruk_Summoned IsengardShieldurukHorde_Summoned IsengardShieldurukCrossbowComboHorde_Summoned IsengardPikemanShieldurukComboHorde_Summoned IsengardFighterShieldurukComboHorde_Summoned
 
-#define EVIL_REGULAR AngmarDarkDunedain WildMarauder WildMarauderHorde WildMarauderHordeFormation WildBannerMarauder WildGundabadBanner WildGundabadArcher WildGundabadArcherHorde WildGundabadMarauderSwords WildGundabadMarauderSwordHorde WildGundabadPike WildGundabadPikesHorde WildGundabadPikesHordePorcupine HaradHaradrimLancer HaradHaradrimLancerHorde HaradHaradrimBanner HaradHaradrimArcher HaradHaradrimArcherHorde MordorHaradrimArcherHordeMod UmbarCorsairarcher UmbarCorsairarcher_Slaved UmbarCorsairarcherFloatingBuilding_Slaved UmbarCorsairarcherHorde MordorBlackUrukBanner MordorCirithSchnuffler MordorBlackUruk  MordorUrukBanner MordorBlackUrukBow  MordorBlackUrukBowHorde MordorBlackUrukBowHorde_Limit MordorBlackUrukBowHorde_forTower MordorBlackUrukHorde MordorBlackUrukHorde_Limit MordorBlackUrukHorde_forTower AngmarRhudaurKnochenbrecher AngmarRhudaurKnochenbrecherHorde AngmarInfantryBanner AngmarDunedainPikeman AngmarDunedainPikemanHorde AngmarDunedainPikemanHorde_Edikt AngmarDunedainPikemanHordePorcupine AngmarDunedainPikemanHordePorcupine_Edikt AngmarNecroAcolyte AngmarNecroAcolyte_Summoned IsengardUrukScout IsengardUrukScoutHorde IsengardScoutBanner IsengardWildelite IsengardWildeliteHorde IsengardWildeliteHordeKampagne HaradArcher HaradArcherHorde HaradArcherMumak HaradArcherMumakil HaradArcherBarricade_Slaved
+#define EVIL_REGULAR EvilmenRhunArcher EvilmenRhunArcherHorde WildMarauder WildMarauderHorde WildMarauderHordeFormation WildBannerMarauder WildGundabadBanner WildGundabadArcher WildGundabadArcherHorde WildGundabadMarauderSwords WildGundabadMarauderSwordHorde WildGundabadPike WildGundabadPikesHorde WildGundabadPikesHordePorcupine HaradHaradrimLancer HaradHaradrimLancerHorde MordorHaradrimLancerMod MordorHaradrimLancerModHorde MordorHaradrimLancerModHordeWedge HaradHaradrimBanner HaradHaradrimArcher HaradHaradrimArcherHorde MordorHaradrimArcherHordeMod UmbarCorsairarcher UmbarCorsairarcher_Slaved UmbarCorsairarcherFloatingBuilding_Slaved UmbarCorsairarcherHorde MordorBlackUrukBanner MordorCirithSchnuffler MordorBlackUruk  MordorUrukBanner MordorBlackUrukBow  MordorBlackUrukBowHorde MordorBlackUrukBowHorde_Limit MordorBlackUrukBowHorde_forTower MordorBlackUrukHorde MordorBlackUrukHorde_Limit MordorBlackUrukHorde_forTower AngmarRhudaurKnochenbrecher AngmarRhudaurKnochenbrecherHorde AngmarInfantryBanner AngmarDarkDunedain AngmarDarkDunedainHorde AngmarDarkDunedainHorde_Edikt AngmarDunedainPikeman AngmarDunedainPikemanHorde AngmarDunedainPikemanHorde_Edikt AngmarDunedainPikemanHordePorcupine AngmarDunedainPikemanHordePorcupine_Edikt AngmarNecroAcolyte AngmarNecroAcolyte_Summoned IsengardUrukScout IsengardUrukScoutHorde IsengardScoutBanner IsengardWildelite IsengardWildeliteHorde IsengardWildeliteHordeKampagne HaradArcher HaradArcherHorde HaradArcherMumak HaradArcherMumakil HaradArcherBarricade_Slaved
 
-#define EVIL_REGULAR_SUMMONED MordorBlackUruk_Summoned MordorBlackUrukBow_Summoned MordorBlackUrukBowHorde_Summoned MordorBlackUrukHorde_Summoned AngmarRhudaurKnochenbrecher_Summoned AngmarRhudaurKnochenbrecherHorde_Summoned IsengardWildelite_Summoned IsengardWildeliteHorde_Summoned AngmarDarkDunedainHorde_Summoned AngmarDarkRangerHorde_Summoned
+#define EVIL_REGULAR_SUMMONED MordorBlackUruk_Summoned MordorBlackUrukBow_Summoned MordorBlackUrukBowHorde_Summoned MordorBlackUrukHorde_Summoned AngmarRhudaurKnochenbrecher_Summoned AngmarRhudaurKnochenbrecherHorde_Summoned IsengardWildelite_Summoned IsengardWildeliteHorde_Summoned AngmarDarkDunedainHorde_Summoned
 
-#define EVIL_ADVANCED AngmarDarkDunedainHorde AngmarDarkDunedainHorde_Edikt WildMarauderSwords WildMarauderSwordHorde WildMarauderSwordBanner MordorRhunSword MordorRhunSwordHorde MordorRhunSwordHordeShieldWall AngmarDarkRangerHorde AngmarDarkRangerHorde_Edikt AngmarDarkRanger AngmarRangerBanner
+#define EVIL_ADVANCED AngmarRangerBanner AngmarDarkRanger AngmarDarkRangerHorde AngmarDarkRangerHorde_Edikt AngmarDarkRangerHorde_Summoned EvilmenHasharin EvilmenSalemeHasharinHorde EvilmenHasharinHordeNew MordorSchwarzeOstlinge MordorSchwarzeOstlingeHorde IsengardUrukHauptmannHorde IsengardFighterHauptmannComboHorde IsengardPikemanHauptmannComboHorde IsengardHauptmannCrossbowComboHorde WildMarauderSwords WildMarauderSwordHorde WildMarauderSwordBanner MordorRhunSword MordorRhunSwordHorde MordorRhunSwordHordeShieldWall HaradSouthWatcherHorde HaradSouthWatcher
 
-#define EVIL_ADVANCED_8 AngmarHillTrollEdain AngmarHillTrollEdain_Summoned AngmarSnowTrollEdain AngmarSnowTrollEdain_Summoned AngmarSnowTrollHorde AngmarSnowTroll AngmarBannerSnowTroll AngmarBannerDireSnowTroll AngmarHillTrollHorde AngmarHillTroll AngmarBannerHillTroll
+#define EVIL_ADVANCED_8 AngmarHillTrollEdain AngmarHillTrollEdain_Summoned AngmarSnowTrollEdain AngmarSnowTrollEdain_Summoned AngmarSnowTrollHorde AngmarSnowTroll AngmarBannerSnowTroll AngmarHillTrollHorde AngmarHillTroll AngmarBannerHillTroll
 
-#define EVIL_ELITE WildTribeLeaderBodyGuard WildGundabadBodyGuardHorde EasterlingGuard EasterlingGuardHorde MordorMorgulschatten MordorMorgulschattenHorde AngmarShadowGuard AngmarShadowGuardHorde AngmarShadowGuardHorde_Zaphragor AngmarShadowGuardHorde_Gulzar AngmarShadowGuardHorde_Karsh AngmarNumElite AngmarNumEliteHorde AngmarGunstlingHK AngmarHauptmann AngmarHauptmannZaphragor AngmarHauptmannKarsh AngmarHauptmannGulzar AngmarNumEliteBanner AngmarNumEliteBannerZaphragor AngmarNumEliteBannerGulzar AngmarNumEliteBannerKarsh
+#define EVIL_ELITE DunlandSchlachter DunlandSchlachterHorde EvilmenKhandSoldier EvilmenKhandSoldierHorde WildTribeLeaderBodyGuard WildGundabadBodyGuardHorde EasterlingGuard EasterlingGuardHorde MordorMorgulschatten MordorMorgulschattenHorde AngmarShadowGuard AngmarShadowGuardHorde AngmarShadowGuardHorde_Zaphragor AngmarShadowGuardHorde_Gulzar AngmarShadowGuardHorde_Karsh AngmarNumElite AngmarNumEliteHorde AngmarGunstlingHK AngmarHauptmann AngmarHauptmannZaphragor AngmarHauptmannKarsh AngmarHauptmannGulzar AngmarNumEliteBanner AngmarNumEliteBannerZaphragor AngmarNumEliteBannerGulzar AngmarNumEliteBannerKarsh
 
-#define EVIL_ELITE_TRIO EvilmenHasharin EvilmenSalemeHasharinHorde EvilmenHasharinHordeNew IsengardManSlayer IsengardManSlayerHorde UnderworldSoulCollector UnderworldSoulCollectorHorde
+#define EVIL_ELITE_TRIO IsengardManSlayer IsengardManSlayerHorde AngmarVerdammter AngmarVerdammterHorde DunkelelfMagier DunkelelfMagierHorde
 
-#define EVIL_FIRST_AGE_REGULAR ThlimDoldronBanner ThlimDoldronArcher ThlimDoldronArcherHorde ThlimDoldronAxe ThlimDoldronAxeHorde ThargelionBanner ThargelionArcher ThargelionArcherHorde ThargelionSword ThargelionSwordHorde
+#define EVIL_FIRST_AGE_REGULAR AngbandRavager AngbandRavagerHorde ThlimDoldronBanner ThlimDoldronArcher ThlimDoldronArcherHorde ThlimDoldronAxe ThlimDoldronAxeHorde ThargelionBanner ThargelionArcher ThargelionArcherHorde ThargelionSword ThargelionSwordHorde TormentedElvesHorde TormentedElf
 
-#define EVIL_FIRST_AGE_ELITE_5 AngmarNumElite2 IronNumenorsHorde 
-
-
+#define EVIL_FIRST_AGE_ELITE_5 AngmarNumElite2 IronNumenorsHorde UnderworldSoulCollector UnderworldSoulCollectorHorde
 
 
+#define EVIL_BASIC_CAV AngmarWolfReiterHorde AngmarWolfRiders AngmarWolfRider GundabadWargPack GundabadWargPackHorde
 
+#define EVIL_REGULAR_CAV AngmarWeiﬂerWarg AngmarWeisseWargBanner AngmarWeiﬂerWargHorde EvilmenRhunrider EvilmenRhunriderHorde EvilmenRhunriderHordeLineFormation MordorHaradrimRiderHordeMod MordorHaradrimRider MordorHaradrimRiderBanner MordorHaradrimRiderHorde MordorHaradrimRiderHordeWedgeFormation IsengardWargRider IsengardWargRider_Sharkuswargreiter IsengardSharkuswargreiterHorde IsengardSharkuswargreiterHordeWedgeFormation IsengardWargRider_Zuchtwargreiter IsengardZuchtwargreiterHorde IsengardZuchtwargreiterHordeWedgeFormation IsengardWargRider_Bergwargreiter IsengardBergwargreiterHorde IsengardBergwargreiterHordeWedgeFormation IsengardWargRiderHorde IsengardWargRiderHorde_Summoned IsengardWargRiderHordeWedgeFormation IsengardWargRiderBanner IsengardWargRiderBanner_Sharkuswargreiter IsengardWargRiderBanner_Bergwargreiter IsengardWargRiderBanner_Zuchtwargreiter IsengardBlutwarg IsengardBlutwargRudelfuhrer GoblinRider GoblinRiderHorde GoblinRiderHordeWedgeFormation GoblinRiderHorde_FromDefectedLair WildGoblinRiderBanner AngmarThrallMasterWolfBanner
 
-#define EVIL_BASIC_CAV AngmarWolfReiter AngmarWolfReiterHorde AngmarWolfRider_Summoned AngmarWolfRiders AngmarWolfRiderHordeWedgeFormation AngmarWolfRider AngmarBannerWolfRider 
-
-#define EVIL_REGULAR_CAV AngmarWeiﬂerWarg AngmarWeiﬂerWargHorde EvilmenRhunrider EvilmenRhunriderHorde EvilmenRhunriderHordeLineFormation MordorHaradrimRiderHordeMod MordorHaradrimRider MordorHaradrimRiderBanner MordorHaradrimRiderHorde MordorHaradrimRiderHordeWedgeFormation IsengardWargRider IsengardWargRider_Sharkuswargreiter IsengardSharkuswargreiterHorde IsengardSharkuswargreiterHordeWedgeFormation IsengardWargRider_Zuchtwargreiter IsengardZuchtwargreiterHorde IsengardZuchtwargreiterHordeWedgeFormation IsengardWargRider_Bergwargreiter IsengardBergwargreiterHorde IsengardBergwargreiterHordeWedgeFormation IsengardWargRiderHorde IsengardWargRiderHorde_Summoned IsengardWargRiderHordeWedgeFormation IsengardWargRiderBanner IsengardWargRiderBanner_Sharkuswargreiter IsengardWargRiderBanner_Bergwargreiter IsengardWargRiderBanner_Zuchtwargreiter IsengardBlutwarg IsengardBlutwargRudelfuhrer GoblinRider GoblinRiderHorde GoblinRiderHordeWedgeFormation GoblinRiderHorde_FromDefectedLair WildGoblinRiderBanner AngmarThrallMasterWolfBanner
-
-#define EVIL_ADVANCED_CAV GundabadWargPack GundabadWargPackHorde GundabadWargRider GundabadWargRiderHorde GundabadWargRiderWedgeFormation IsengardWargBow IsengardWargBow_Summoned IsengardWargBowHorde IsengardWargBowHorde_Summoned GoblinSpiderRider GoblinSpiderRiderHorde
+#define EVIL_ADVANCED_CAV GundabadWargRider GundabadWargRiderHorde GundabadWargRiderWedgeFormation IsengardWargBow IsengardWargBow_Summoned IsengardWargBowHorde IsengardWargBowHorde_Summoned GoblinSpiderRider GoblinSpiderRiderHorde
 
 #define EVIL_ELITE_CAV AngmarShadowKnight AngmarShadowKnightHorde AngmarShadowKnightHorde_Karsh AngmarShadowKnightHorde_Gulzar AngmarShadowKnightHorde_Zaphragor EasterlingKataphrakt EasterlingKataphraktHorde EasterlingKataphraktHordeWedgeFormation AngmarSchwarzeRitter AngmarSchwarzeRitterHorde AngmarSchwarzeRitterBanner MordorMorgulrider MorgulRiderBanner MordorMorgulriderHorde
 
+#define EVIL_FIRST_AGE_CAV ThargelionCavalaryBanner ThargelionCavalary ThargelionCavalaryHorde ThargelionCavalaryHordeWedgeFormation
 
 
 
-
-#define EVIL_CHEAP_BEASTS AngmarDireWolfHorde AngmarDireWolf WildMiniSpiderForShelobh WildMiniSpiderHordeForShelobh WildMiniSpiderHordeForShelobhFast WildKankraSpiderMember WildKankraSpiderMemberHorde WildKankraSpiderMemberHordeProduce WildZuchtspinnen WildZuchtspinnenHorde WildMiniSpider WildMiniSpiderHorde ingHordeMemberForCreepHorde WildSpiderlingHordeMemberForCreep
+#define EVIL_CHEAP_BEASTS AngmarDireWolfHorde AngmarDireWolf AngmarBannerDireSnowTroll WildMiniSpiderForShelobh WildMiniSpiderHordeForShelobh WildMiniSpiderHordeForShelobhFast WildKankraSpiderMember WildKankraSpiderMemberHorde WildKankraSpiderMemberHordeProduce WildZuchtspinnen WildZuchtspinnenHorde WildMiniSpider WildMiniSpiderHorde ingHordeMemberForCreepHorde WildSpiderlingHordeMemberForCreep
 
 #define EVIL_BASIC_BEASTS MordorBannerSpiderling MordorSpiderling MordorSpiderlingHorde WildSpiderling WildSpiderlingForShelobh WildSpiderlingHordeForShelobh WildSpiderlingHordeForShelobhFast WildSpiderlingHordeMember WildSpiderlingHorde IsengardWargPack IsengardWargPackHorde WildWargPackHorde
 
-#define EVIL_FIRST_AGE_REGULAR_BEASTS TolinGaurhothWolf TolinGaurhothWolfHorde TolinGaurhothVampiresMinion TolinGaurhothVampires_Slaved
+#define EVIL_FIRST_AGE_REGULAR_BEASTS TolinGaurhothWolf TolinGaurhothWolfHorde 
 
-#define EVIL_FIRST_AGE_BEST_BEASTS AngbandBabyDrake AngbandBabyDrakeHorde
+#define EVIL_FIRST_AGE_BEST_BEASTS AngbandBabyDrake AngbandBabyDrakeHorde HeideMiniDragon HeideMiniDragonFree HeideMiniDragonHorde
 
 
 
@@ -60,17 +56,17 @@
 
 #define EVIL_CHEAP_CHAMPION WildDrummerOrc
 
-#define EVIL_BASIC_MONSTERS Ogre WildGiantBat WildScorpion AngmarBestie DesertScorpionBlack HaradScorpion_Slaved
+#define EVIL_BASIC_MONSTERS Ogre OgreHorde WildGiantBat AngmarBestie DesertScorpionBlack HaradScorpion_Slaved
 
 #define EVIL_REGULAR_MONSTERS MordorMountainTroll MordorCaveTroll CaveTroll_Slaved GoblinCaveTroll GoblinCaveTroll_FromTrollLair HillTroll_Slaved MordorCaveTroll_Summoned CaveTroll_HugeEdain GoblinCatapultTroll GoblinCatapulTrollExpansion MordorDrummerTroll
 
-#define EVIL_REGULAR_CHAMPION WildHauptmannork WildHauptmannorkWarg IsengardBeserker IsengardBeserker_Summoned MordorKastellan MordorKastellan_AI MordorKastellan_Old MordorKastellan_Old_AI
+#define EVIL_REGULAR_CHAMPION IsengardUrukHauptmann1 IsengardUrukHauptmann2 IsengardUrukHauptmann3 IsengardUrukHauptmann4 IsengardUrukHauptmann5 WildScorpion WildHauptmannork WildHauptmannorkWarg IsengardBeserker IsengardBeserker_Summoned MordorKastellan MordorKastellan_AI MordorKastellan_Old MordorKastellan_Old_AI
 
 #define EVIL_ADVANCED_MONSTERS AngmarGolem AngmarGolem_Summoned AngmarHeroWolf MordorHeroWolf AngmarHeroWolfHorde WildAttackTroll WildAttackTroll_Summoned MordorAttackTroll MordorTrollupgrade MordorTrollupgradeHammer MordorTrollupgradeSword MordorTrollupgradeKeule MordorOlogHai_Summoned MordorOlogHai WildBrutmutter WildZuchtdracheBaby WildZuchtdracheBaby_Slaved MordorAttackTroll_Summoned WildMountainGiant WildMountainGiantMod WildMountainGiant_Summoned
 
 #define EVIL_ELITE_MONSTERS MordorArgdush MordorGuritz MordorMurgash MordorArgdush_Summoned MordorGuritz_Summoned MordorMurgash_Summoned WildZuchtdrache WildZuchtdracheOld WildZuchtdracheOldFlying WildFireWyrm
 
-#define EVIL_FIRST_AGE_REGULAR_FLYING TolinGaurhothVampires
+#define EVIL_FIRST_AGE_REGULAR_FLYING TolinGaurhothVampires TolinGaurhothVampiresMinion TolinGaurhothVampires_Slaved
 
 #define EVIL_FIRST_AGE_BETTER_FLYING UnderworldDragon UnderworldDragon_Slaved
 
@@ -79,8 +75,6 @@
 #define EVIL_FIRST_AGE_ELITE_MONSTER AngbandFireDrake TolinGaurhothWereWolf ThargelionCharriot
 
 #define EVIL_FIRST_AGE_LEGENDARY_MONSTER AngbandBalrog AngbandBalrogCaptian_Summoned AngbandBalrogCaptian UnderworldDeamon ThargelionMumakil
-
-
 
 
 
@@ -644,8 +638,8 @@ END
 
 ExperienceLevel    Evil_Regular_Champion_InfantryLevel2
     TargetNames                       =    EVIL_REGULAR_CHAMPION
-    RequiredExperience                =    EXPERIENCE_REQUIRED_REGULAR_15_HORDE_2
-    ExperienceAward                   =    EXPERIENCE_AWARD_REGULAR_15_HORDE_2
+    RequiredExperience                =    EXPERIENCE_REQUIRED_REGULAR_CHAMPION_HORDE_2
+    ExperienceAward                   =    EXPERIENCE_AWARD_REGULAR_CHAMPION_HORDE_2
     Rank                              =    2
     Upgrades                          =    Upgrade_ObjectLevel2 Upgrade_MiniHordeLvl2 Upgrade_EliteHordeLvl2
     AttributeModifiers                =    RegularChampionHordeBonusRank2
@@ -669,8 +663,8 @@ END
 
 ExperienceLevel    Evil_Regular_Champion_InfantryLevel3
     TargetNames                       =    EVIL_REGULAR_CHAMPION
-    RequiredExperience                =    EXPERIENCE_REQUIRED_REGULAR_15_HORDE_3
-    ExperienceAward                   =    EXPERIENCE_AWARD_REGULAR_15_HORDE_3
+    RequiredExperience                =    EXPERIENCE_REQUIRED_REGULAR_CHAMPION_HORDE_3
+    ExperienceAward                   =    EXPERIENCE_AWARD_REGULAR_CHAMPION_HORDE_3
     Rank                              =    3
     Upgrades                          =    Upgrade_ObjectLevel3 Upgrade_MiniHordeLvl3 Upgrade_EliteHordeLvl3
     AttributeModifiers                =    RegularChampionHordeBonusRank3
@@ -694,8 +688,8 @@ END
 
 ExperienceLevel    Evil_Regular_Champion_InfantryLevel4
     TargetNames                       =    EVIL_REGULAR_CHAMPION
-    RequiredExperience                =    EXPERIENCE_REQUIRED_REGULAR_15_HORDE_4
-    ExperienceAward                   =    EXPERIENCE_AWARD_REGULAR_15_HORDE_4
+    RequiredExperience                =    EXPERIENCE_REQUIRED_REGULAR_CHAMPION_HORDE_4
+    ExperienceAward                   =    EXPERIENCE_AWARD_REGULAR_CHAMPION_HORDE_4
     Rank                              =    4
     Upgrades                          =    Upgrade_ObjectLevel4 Upgrade_MiniHordeLvl4 Upgrade_EliteHordeLvl4
     AttributeModifiers                =    RegularChampionHordeBonusRank4
@@ -719,8 +713,8 @@ END
 
 ExperienceLevel    Evil_Regular_Champion_InfantryLevel5
     TargetNames                       =    EVIL_REGULAR_CHAMPION
-    RequiredExperience                =    EXPERIENCE_REQUIRED_REGULAR_15_HORDE_5
-    ExperienceAward                   =    EXPERIENCE_AWARD_REGULAR_15_HORDE_5
+    RequiredExperience                =    EXPERIENCE_REQUIRED_REGULAR_CHAMPION_HORDE_5
+    ExperienceAward                   =    EXPERIENCE_AWARD_REGULAR_CHAMPION_HORDE_5
     Rank                              =    5
     Upgrades                          =    Upgrade_ObjectLevel5 Upgrade_MiniHordeLvl5 Upgrade_EliteHordeLvl5
     AttributeModifiers                =    RegularChampionHordeBonusRank5
@@ -741,7 +735,6 @@ ExperienceLevel    Evil_Regular_Champion_InfantryLevel5
         MaxSelectedUnits      =    40
     End
 END
-
 
 ;----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -1366,7 +1359,7 @@ ExperienceLevel    Evil_Elite_InfantryLevel5
     InformUpdateModule                =    Yes
     Rank                              =    5
     AttributeModifiers                =    EliteHordeBonusRank5
-    Upgrades                          =    Upgrade_ObjectLevel5 Upgrade_MiniHordeLvl5 Upgrade_EliteHordeLvl5
+    Upgrades                          =    Upgrade_ObjectLevel5 Upgrade_MiniHordeLvl5 Upgrade_EliteHordeLvl5 Upgrade_FormenosForgedBlades
     LevelUpFx                         =    FX:EvilLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -1420,7 +1413,7 @@ ExperienceLevel    Evil_Elite_InfantryLevel7
     InformUpdateModule                =    Yes
     Rank                              =    7
     AttributeModifiers                =    EliteHordeBonusRank7
-    Upgrades                          =    Upgrade_ObjectLevel7 Upgrade_MiniHordeLvl7 Upgrade_EliteHordeLvl7 Upgrade_FormenosForgedBlades
+    Upgrades                          =    Upgrade_ObjectLevel7 Upgrade_MiniHordeLvl7 Upgrade_EliteHordeLvl7
     LevelUpFx                         =    FX:EvilLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -1638,7 +1631,7 @@ ExperienceLevel    Evil_Elite3_InfantryLevel5
     InformUpdateModule                =    Yes
     Rank                              =    5
     AttributeModifiers                =    Elite3HordeBonusRank5
-    Upgrades                          =    Upgrade_ObjectLevel5 Upgrade_MiniHordeLvl5 Upgrade_EliteHordeLvl5
+    Upgrades                          =    Upgrade_ObjectLevel5 Upgrade_MiniHordeLvl5 Upgrade_EliteHordeLvl5 Upgrade_FormenosForgedBlades
     LevelUpFx                         =    FX:EvilLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -1692,7 +1685,7 @@ ExperienceLevel    Evil_Elite3_InfantryLevel7
     InformUpdateModule                =    Yes
     Rank                              =    7
     AttributeModifiers                =    Elite3HordeBonusRank7
-    Upgrades                          =    Upgrade_ObjectLevel7 Upgrade_MiniHordeLvl7 Upgrade_EliteHordeLvl7 Upgrade_FormenosForgedBlades
+    Upgrades                          =    Upgrade_ObjectLevel7 Upgrade_MiniHordeLvl7 Upgrade_EliteHordeLvl7
     LevelUpFx                         =    FX:EvilLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -1909,7 +1902,7 @@ ExperienceLevel    Evil_First_Age_RegularInfantryLevel5
     InformUpdateModule                =    Yes
     Rank                              =    5
     AttributeModifiers                =    First_Age_RegularInfantryHordeBonusRank5
-    Upgrades                          =    Upgrade_ObjectLevel5 Upgrade_MiniHordeLvl5 Upgrade_EliteHordeLvl5
+    Upgrades                          =    Upgrade_ObjectLevel5 Upgrade_MiniHordeLvl5 Upgrade_EliteHordeLvl5 Upgrade_FormenosForgedBlades
     LevelUpFx                         =    FX:EvilLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -1963,7 +1956,7 @@ ExperienceLevel    Evil_First_Age_RegularInfantryLevel7
     InformUpdateModule                =    Yes
     Rank                              =    7
     AttributeModifiers                =    First_Age_RegularInfantryHordeBonusRank7
-    Upgrades                          =    Upgrade_ObjectLevel7 Upgrade_MiniHordeLvl7 Upgrade_EliteHordeLvl7 Upgrade_FormenosForgedBlades
+    Upgrades                          =    Upgrade_ObjectLevel7 Upgrade_MiniHordeLvl7 Upgrade_EliteHordeLvl7
     LevelUpFx                         =    FX:EvilLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -2182,7 +2175,7 @@ ExperienceLevel    Evil_First_Age_EliteInfantryLevel5
     InformUpdateModule                =    Yes
     Rank                              =    5
     AttributeModifiers                =    First_Age_EliteInfantryHordeBonusRank5
-    Upgrades                          =    Upgrade_ObjectLevel5 Upgrade_MiniHordeLvl5 Upgrade_EliteHordeLvl5
+    Upgrades                          =    Upgrade_ObjectLevel5 Upgrade_MiniHordeLvl5 Upgrade_EliteHordeLvl5 Upgrade_FormenosForgedBlades
     LevelUpFx                         =    FX:EvilLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -2236,7 +2229,7 @@ ExperienceLevel    Evil_First_Age_EliteInfantryLevel7
     InformUpdateModule                =    Yes
     Rank                              =    7
     AttributeModifiers                =    First_Age_EliteInfantryHordeBonusRank7
-    Upgrades                          =    Upgrade_ObjectLevel7 Upgrade_MiniHordeLvl7 Upgrade_EliteHordeLvl7 Upgrade_FormenosForgedBlades
+    Upgrades                          =    Upgrade_ObjectLevel7 Upgrade_MiniHordeLvl7 Upgrade_EliteHordeLvl7
     LevelUpFx                         =    FX:EvilLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -2455,7 +2448,7 @@ ExperienceLevel    Evil_First_Age_EliteInfantryLevel5
     InformUpdateModule                =    Yes
     Rank                              =    5
     AttributeModifiers                =    First_Age_EliteInfantryHordeBonusRank5
-    Upgrades                          =    Upgrade_ObjectLevel5 Upgrade_MiniHordeLvl5 Upgrade_EliteHordeLvl5
+    Upgrades                          =    Upgrade_ObjectLevel5 Upgrade_MiniHordeLvl5 Upgrade_EliteHordeLvl5 Upgrade_FormenosForgedBlades
     LevelUpFx                         =    FX:EvilLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -2509,7 +2502,7 @@ ExperienceLevel    Evil_First_Age_EliteInfantryLevel7
     InformUpdateModule                =    Yes
     Rank                              =    7
     AttributeModifiers                =    First_Age_EliteInfantryHordeBonusRank7
-    Upgrades                          =    Upgrade_ObjectLevel7 Upgrade_MiniHordeLvl7 Upgrade_EliteHordeLvl7 Upgrade_FormenosForgedBlades
+    Upgrades                          =    Upgrade_ObjectLevel7 Upgrade_MiniHordeLvl7 Upgrade_EliteHordeLvl7
     LevelUpFx                         =    FX:EvilLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -2727,7 +2720,7 @@ ExperienceLevel    Evil_First_Age_RegularFlyingLevel5
     InformUpdateModule                =    Yes
     Rank                              =    5
     AttributeModifiers                =    First_Age_RegularFlyingHordeBonusRank5
-    Upgrades                          =    Upgrade_ObjectLevel5 Upgrade_MiniHordeLvl5 Upgrade_EliteHordeLvl5
+    Upgrades                          =    Upgrade_ObjectLevel5 Upgrade_MiniHordeLvl5 Upgrade_EliteHordeLvl5 Upgrade_FormenosForgedBlades
     LevelUpFx                         =    FX:EvilLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -2781,7 +2774,7 @@ ExperienceLevel    Evil_First_Age_RegularFlyingLevel7
     InformUpdateModule                =    Yes
     Rank                              =    7
     AttributeModifiers                =    First_Age_RegularFlyingHordeBonusRank7
-    Upgrades                          =    Upgrade_ObjectLevel7 Upgrade_MiniHordeLvl7 Upgrade_EliteHordeLvl7 Upgrade_FormenosForgedBlades
+    Upgrades                          =    Upgrade_ObjectLevel7 Upgrade_MiniHordeLvl7 Upgrade_EliteHordeLvl7
     LevelUpFx                         =    FX:EvilLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -2999,7 +2992,7 @@ ExperienceLevel    Evil_First_Age_RegularFlyingLevel5
     InformUpdateModule                =    Yes
     Rank                              =    5
     AttributeModifiers                =    First_Age_RegularFlyingHordeBonusRank5
-    Upgrades                          =    Upgrade_ObjectLevel5 Upgrade_MiniHordeLvl5 Upgrade_EliteHordeLvl5
+    Upgrades                          =    Upgrade_ObjectLevel5 Upgrade_MiniHordeLvl5 Upgrade_EliteHordeLvl5 Upgrade_FormenosForgedBlades
     LevelUpFx                         =    FX:EvilLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -3053,7 +3046,7 @@ ExperienceLevel    Evil_First_Age_RegularFlyingLevel7
     InformUpdateModule                =    Yes
     Rank                              =    7
     AttributeModifiers                =    First_Age_RegularFlyingHordeBonusRank7
-    Upgrades                          =    Upgrade_ObjectLevel7 Upgrade_MiniHordeLvl7 Upgrade_EliteHordeLvl7 Upgrade_FormenosForgedBlades
+    Upgrades                          =    Upgrade_ObjectLevel7 Upgrade_MiniHordeLvl7 Upgrade_EliteHordeLvl7
     LevelUpFx                         =    FX:EvilLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -3272,7 +3265,7 @@ ExperienceLevel    Evil_First_Age_BetterFlyingLevel5
     InformUpdateModule                =    Yes
     Rank                              =    5
     AttributeModifiers                =    First_Age_BetterFlyingHordeBonusRank5
-    Upgrades                          =    Upgrade_ObjectLevel5 Upgrade_MiniHordeLvl5 Upgrade_EliteHordeLvl5
+    Upgrades                          =    Upgrade_ObjectLevel5 Upgrade_MiniHordeLvl5 Upgrade_EliteHordeLvl5 Upgrade_FormenosForgedBlades
     LevelUpFx                         =    FX:EvilLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -3326,7 +3319,7 @@ ExperienceLevel    Evil_First_Age_BetterFlyingLevel7
     InformUpdateModule                =    Yes
     Rank                              =    7
     AttributeModifiers                =    First_Age_BetterFlyingHordeBonusRank7
-    Upgrades                          =    Upgrade_ObjectLevel7 Upgrade_MiniHordeLvl7 Upgrade_EliteHordeLvl7 Upgrade_FormenosForgedBlades
+    Upgrades                          =    Upgrade_ObjectLevel7 Upgrade_MiniHordeLvl7 Upgrade_EliteHordeLvl7
     LevelUpFx                         =    FX:EvilLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -3544,7 +3537,7 @@ ExperienceLevel    Evil_First_Age_LegendaryFlyingLevel5
     InformUpdateModule                =    Yes
     Rank                              =    5
     AttributeModifiers                =    First_Age_LegendaryFlyingHordeBonusRank5
-    Upgrades                          =    Upgrade_ObjectLevel5 Upgrade_MiniHordeLvl5 Upgrade_EliteHordeLvl5
+    Upgrades                          =    Upgrade_ObjectLevel5 Upgrade_MiniHordeLvl5 Upgrade_EliteHordeLvl5 Upgrade_FormenosForgedBlades
     LevelUpFx                         =    FX:EvilLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -3598,7 +3591,7 @@ ExperienceLevel    Evil_First_Age_LegendaryFlyingLevel7
     InformUpdateModule                =    Yes
     Rank                              =    7
     AttributeModifiers                =    First_Age_LegendaryFlyingHordeBonusRank7
-    Upgrades                          =    Upgrade_ObjectLevel7 Upgrade_MiniHordeLvl7 Upgrade_EliteHordeLvl7 Upgrade_FormenosForgedBlades
+    Upgrades                          =    Upgrade_ObjectLevel7 Upgrade_MiniHordeLvl7 Upgrade_EliteHordeLvl7
     LevelUpFx                         =    FX:EvilLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -3815,7 +3808,7 @@ ExperienceLevel    Evil_First_Age_EliteMontserLevel5
     InformUpdateModule                =    Yes
     Rank                              =    5
     AttributeModifiers                =    First_Age_EliteMontserHordeBonusRank5
-    Upgrades                          =    Upgrade_ObjectLevel5 Upgrade_MiniHordeLvl5 Upgrade_EliteHordeLvl5
+    Upgrades                          =    Upgrade_ObjectLevel5 Upgrade_MiniHordeLvl5 Upgrade_EliteHordeLvl5 Upgrade_FormenosForgedBlades
     LevelUpFx                         =    FX:EvilLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -3869,7 +3862,7 @@ ExperienceLevel    Evil_First_Age_EliteMontserLevel7
     InformUpdateModule                =    Yes
     Rank                              =    7
     AttributeModifiers                =    First_Age_EliteMontserHordeBonusRank7
-    Upgrades                          =    Upgrade_ObjectLevel7 Upgrade_MiniHordeLvl7 Upgrade_EliteHordeLvl7 Upgrade_FormenosForgedBlades
+    Upgrades                          =    Upgrade_ObjectLevel7 Upgrade_MiniHordeLvl7 Upgrade_EliteHordeLvl7
     LevelUpFx                         =    FX:EvilLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -4087,7 +4080,7 @@ ExperienceLevel    Evil_First_Age_LegendaryMontserLevel5
     InformUpdateModule                =    Yes
     Rank                              =    5
     AttributeModifiers                =    First_Age_LegendaryMontserHordeBonusRank5
-    Upgrades                          =    Upgrade_ObjectLevel5 Upgrade_MiniHordeLvl5 Upgrade_EliteHordeLvl5
+    Upgrades                          =    Upgrade_ObjectLevel5 Upgrade_MiniHordeLvl5 Upgrade_EliteHordeLvl5 Upgrade_FormenosForgedBlades
     LevelUpFx                         =    FX:EvilLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -4141,7 +4134,7 @@ ExperienceLevel    Evil_First_Age_LegendaryMontserLevel7
     InformUpdateModule                =    Yes
     Rank                              =    7
     AttributeModifiers                =    First_Age_LegendaryMontserHordeBonusRank7
-    Upgrades                          =    Upgrade_ObjectLevel7 Upgrade_MiniHordeLvl7 Upgrade_EliteHordeLvl7 Upgrade_FormenosForgedBlades
+    Upgrades                          =    Upgrade_ObjectLevel7 Upgrade_MiniHordeLvl7 Upgrade_EliteHordeLvl7
     LevelUpFx                         =    FX:EvilLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -4359,7 +4352,7 @@ ExperienceLevel    Evil_First_Age_RegularBeastsLevel5
     InformUpdateModule                =    Yes
     Rank                              =    5
     AttributeModifiers                =    First_Age_RegularBeastsHordeBonusRank5
-    Upgrades                          =    Upgrade_ObjectLevel5 Upgrade_MiniHordeLvl5 Upgrade_EliteHordeLvl5
+    Upgrades                          =    Upgrade_ObjectLevel5 Upgrade_MiniHordeLvl5 Upgrade_EliteHordeLvl5 Upgrade_FormenosForgedBlades
     LevelUpFx                         =    FX:EvilLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -4413,7 +4406,7 @@ ExperienceLevel    Evil_First_Age_RegularBeastsLevel7
     InformUpdateModule                =    Yes
     Rank                              =    7
     AttributeModifiers                =    First_Age_RegularBeastsHordeBonusRank7
-    Upgrades                          =    Upgrade_ObjectLevel7 Upgrade_MiniHordeLvl7 Upgrade_EliteHordeLvl7 Upgrade_FormenosForgedBlades
+    Upgrades                          =    Upgrade_ObjectLevel7 Upgrade_MiniHordeLvl7 Upgrade_EliteHordeLvl7
     LevelUpFx                         =    FX:EvilLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -4630,7 +4623,7 @@ ExperienceLevel    Evil_First_Age_BestBeastsLevel5
     InformUpdateModule                =    Yes
     Rank                              =    5
     AttributeModifiers                =    First_Age_BestBeastsHordeBonusRank5
-    Upgrades                          =    Upgrade_ObjectLevel5 Upgrade_MiniHordeLvl5 Upgrade_EliteHordeLvl5
+    Upgrades                          =    Upgrade_ObjectLevel5 Upgrade_MiniHordeLvl5 Upgrade_EliteHordeLvl5 Upgrade_FormenosForgedBlades
     LevelUpFx                         =    FX:EvilLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -4684,7 +4677,7 @@ ExperienceLevel    Evil_First_Age_BestBeastsLevel7
     InformUpdateModule                =    Yes
     Rank                              =    7
     AttributeModifiers                =    First_Age_BestBeastsHordeBonusRank7
-    Upgrades                          =    Upgrade_ObjectLevel7 Upgrade_MiniHordeLvl7 Upgrade_EliteHordeLvl7 Upgrade_FormenosForgedBlades
+    Upgrades                          =    Upgrade_ObjectLevel7 Upgrade_MiniHordeLvl7 Upgrade_EliteHordeLvl7
     LevelUpFx                         =    FX:EvilLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -5267,7 +5260,7 @@ ExperienceLevel    Evil_Elite_CavLevel5
     InformUpdateModule                =    Yes
     Rank                              =    5
     AttributeModifiers                =    EliteCavHordeBonusRank5
-    Upgrades                          =    Upgrade_ObjectLevel5 Upgrade_MiniHordeLvl5 Upgrade_EliteHordeLvl5
+    Upgrades                          =    Upgrade_ObjectLevel5 Upgrade_MiniHordeLvl5 Upgrade_EliteHordeLvl5 Upgrade_FormenosForgedBlades
     LevelUpFx                         =    FX:EvilLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -5321,7 +5314,7 @@ ExperienceLevel    Evil_Elite_CavLevel7
     InformUpdateModule                =    Yes
     Rank                              =    7
     AttributeModifiers                =    EliteCavHordeBonusRank7
-    Upgrades                          =    Upgrade_ObjectLevel7 Upgrade_MiniHordeLvl7 Upgrade_EliteHordeLvl7 Upgrade_FormenosForgedBlades
+    Upgrades                          =    Upgrade_ObjectLevel7 Upgrade_MiniHordeLvl7 Upgrade_EliteHordeLvl7
     LevelUpFx                         =    FX:EvilLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -5421,6 +5414,277 @@ ExperienceLevel    Evil_Elite_CavLevel10
         MaxSelectedUnits              =    40
     End
 End
+
+
+;--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+ExperienceLevel    Evil_First_Age_CavLevel1
+    TargetNames                       =    EVIL_FIRST_AGE_CAV
+    RequiredExperience                =    EXPERIENCE_REQUIRED_MINI_HORDE_1
+    ExperienceAward                   =    EXPERIENCE_AWARD_MINI_HORDE_1
+    InformUpdateModule                =    Yes
+    Upgrades                          =    Upgrade_EliteHordeLvl1
+    Rank                              =    1
+    LevelUpTintColor                  =    R:255 G:255    B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+
+    SelectionDecal
+        Texture                       =    decal_G_level4
+        Texture2                      =    decal_good_CO
+        Style                         =    SHADOW_MERGE_DECAL
+        OpacityMin                    =    80%
+        OpacityMax                    =    100%
+        MinRadius                     =    HORDE_DECAL_MIN_RADIUS
+        MaxRadius                     =    200
+        MaxSelectedUnits              =    40
+    End
+END
+
+ExperienceLevel    Evil_First_Age_CavLevel2
+    TargetNames                       =    EVIL_FIRST_AGE_CAV
+    RequiredExperience                =    EXPERIENCE_REQUIRED_MINI_HORDE_2
+    ExperienceAward                   =    EXPERIENCE_AWARD_MINI_HORDE_2
+    AttributeModifiers                =    MiniHordeBonusRank2
+    InformUpdateModule                =    Yes
+    Upgrades                          =    Upgrade_EliteHordeLvl2
+    Rank                              =    2
+    LevelUpFx                         =    FX:GandalfLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255    B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+
+    SelectionDecal
+        Texture                       =    decal_G_level4
+        Texture2                      =    decal_good_CO
+        Style                         =    SHADOW_MERGE_DECAL
+        OpacityMin                    =    80%
+        OpacityMax                    =    100%
+        MinRadius                     =    HORDE_DECAL_MIN_RADIUS
+        MaxRadius                     =    200
+        MaxSelectedUnits              =    40
+    End
+END
+
+ExperienceLevel    Evil_First_Age_CavLevel3
+    TargetNames                       =    EVIL_FIRST_AGE_CAV
+    RequiredExperience                =    EXPERIENCE_REQUIRED_MINI_HORDE_3
+    ExperienceAward                   =    EXPERIENCE_AWARD_MINI_HORDE_3
+    AttributeModifiers                =    MiniHordeBonusRank3
+    InformUpdateModule                =    Yes
+    Upgrades                          =    Upgrade_EliteHordeLvl3
+    Rank                              =    3
+    LevelUpFx                         =    FX:GandalfLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255    B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+
+    SelectionDecal
+        Texture                       =    decal_G_level4
+        Texture2                      =    decal_good_CO
+        Style                         =    SHADOW_MERGE_DECAL
+        OpacityMin                    =    80%
+        OpacityMax                    =    100%
+        MinRadius                     =    HORDE_DECAL_MIN_RADIUS
+        MaxRadius                     =    200
+        MaxSelectedUnits              =    40
+    End
+END
+
+ExperienceLevel    Evil_First_Age_CavLevel4
+    TargetNames                       =    EVIL_FIRST_AGE_CAV
+    RequiredExperience                =    EXPERIENCE_REQUIRED_MINI_HORDE_4
+    ExperienceAward                   =    EXPERIENCE_AWARD_MINI_HORDE_4
+    AttributeModifiers                =    MiniHordeBonusRank4
+    InformUpdateModule                =    Yes
+    Upgrades                          =    Upgrade_EliteHordeLvl4
+    Rank                              =    4
+    LevelUpFx                         =    FX:GandalfLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255    B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+
+    SelectionDecal
+        Texture                       =    decal_G_level4
+        Texture2                      =    decal_good_CO
+        Style                         =    SHADOW_MERGE_DECAL
+        OpacityMin                    =    80%
+        OpacityMax                    =    100%
+        MinRadius                     =    HORDE_DECAL_MIN_RADIUS
+        MaxRadius                     =    200
+        MaxSelectedUnits              =    40
+    End
+END
+
+ExperienceLevel    Evil_First_Age_CavLevel5
+    TargetNames                       =    EVIL_FIRST_AGE_CAV
+    RequiredExperience                =    EXPERIENCE_REQUIRED_MINI_HORDE_5
+    ExperienceAward                   =    EXPERIENCE_AWARD_MINI_HORDE_5
+    AttributeModifiers                =    MiniHordeBonusRank5
+    InformUpdateModule                =    Yes
+    Upgrades                          =    Upgrade_EliteHordeLvl5 Upgrade_FormenosForgedBlades
+    Rank                              =    5
+    LevelUpFx                         =    FX:GandalfLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255    B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+
+    SelectionDecal
+        Texture                       =    decal_G_level4
+        Texture2                      =    decal_good_CO
+        Style                         =    SHADOW_MERGE_DECAL
+        OpacityMin                    =    80%
+        OpacityMax                    =    100%
+        MinRadius                     =    HORDE_DECAL_MIN_RADIUS
+        MaxRadius                     =    200
+        MaxSelectedUnits              =    40
+    End
+END
+
+ExperienceLevel    Evil_First_Age_CavLevel6
+    TargetNames                       =    EVIL_FIRST_AGE_CAV
+    RequiredExperience                =    EXPERIENCE_REQUIRED_MINI_HORDE_6
+    ExperienceAward                   =    EXPERIENCE_AWARD_MINI_HORDE_6
+    AttributeModifiers                =    MiniHordeBonusRank6
+    InformUpdateModule                =    Yes
+    Upgrades                          =    Upgrade_EliteHordeLvl6
+    Rank                              =    6
+    LevelUpFx                         =    FX:GandalfLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255    B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+
+    SelectionDecal
+        Texture                       =    decal_G_level4
+        Texture2                      =    decal_good_CO
+        Style                         =    SHADOW_MERGE_DECAL
+        OpacityMin                    =    80%
+        OpacityMax                    =    100%
+        MinRadius                     =    HORDE_DECAL_MIN_RADIUS
+        MaxRadius                     =    200
+        MaxSelectedUnits              =    40
+    End
+END
+
+ExperienceLevel    Evil_First_Age_CavLevel7
+    TargetNames                       =    EVIL_FIRST_AGE_CAV
+    RequiredExperience                =    EXPERIENCE_REQUIRED_MINI_HORDE_7
+    ExperienceAward                   =    EXPERIENCE_AWARD_MINI_HORDE_7
+    AttributeModifiers                =    MiniHordeBonusRank7
+    InformUpdateModule                =    Yes
+    Upgrades                          =    Upgrade_EliteHordeLvl7
+    Rank                              =    7
+    LevelUpFx                         =    FX:GandalfLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255    B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+
+    SelectionDecal
+        Texture                       =    decal_G_level4
+        Texture2                      =    decal_good_CO
+        Style                         =    SHADOW_MERGE_DECAL
+        OpacityMin                    =    80%
+        OpacityMax                    =    100%
+        MinRadius                     =    HORDE_DECAL_MIN_RADIUS
+        MaxRadius                     =    200
+        MaxSelectedUnits              =    40
+    End
+END
+
+ExperienceLevel    Evil_First_Age_CavLevel8
+    TargetNames                       =    EVIL_FIRST_AGE_CAV
+    RequiredExperience                =    EXPERIENCE_REQUIRED_MINI_HORDE_8
+    ExperienceAward                   =    EXPERIENCE_AWARD_MINI_HORDE_8
+    AttributeModifiers                =    MiniHordeBonusRank8
+    InformUpdateModule                =    Yes
+    Upgrades                          =    Upgrade_EliteHordeLvl8
+    Rank                              =    8
+    LevelUpFx                         =    FX:GandalfLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255    B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+
+    SelectionDecal
+        Texture                       =    decal_G_level4
+        Texture2                      =    decal_good_CO
+        Style                         =    SHADOW_MERGE_DECAL
+        OpacityMin                    =    80%
+        OpacityMax                    =    100%
+        MinRadius                     =    HORDE_DECAL_MIN_RADIUS
+        MaxRadius                     =    200
+        MaxSelectedUnits              =    40
+    End
+END
+
+ExperienceLevel    Evil_First_Age_CavLevel9
+    TargetNames                       =    EVIL_FIRST_AGE_CAV
+    RequiredExperience                =    EXPERIENCE_REQUIRED_MINI_HORDE_9
+    ExperienceAward                   =    EXPERIENCE_AWARD_MINI_HORDE_9
+    AttributeModifiers                =    MiniHordeBonusRank9
+    InformUpdateModule                =    Yes
+    Upgrades                          =    Upgrade_EliteHordeLvl9
+    Rank                              =    9
+    LevelUpFx                         =    FX:GandalfLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255    B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+
+    SelectionDecal
+        Texture                       =    decal_G_level4
+        Texture2                      =    decal_good_CO
+        Style                         =    SHADOW_MERGE_DECAL
+        OpacityMin                    =    80%
+        OpacityMax                    =    100%
+        MinRadius                     =    HORDE_DECAL_MIN_RADIUS
+        MaxRadius                     =    200
+        MaxSelectedUnits              =    40
+    End
+END
+
+ExperienceLevel    Evil_First_Age_CavLevel10
+    TargetNames                       =    EVIL_FIRST_AGE_CAV
+    RequiredExperience                =    EXPERIENCE_REQUIRED_MINI_HORDE_10
+    ExperienceAward                   =    EXPERIENCE_AWARD_MINI_HORDE_10
+    AttributeModifiers                =    MiniHordeBonusRank10
+    InformUpdateModule                =    Yes
+    Upgrades                          =    Upgrade_EliteHordeLvl10
+    Rank                              =    10
+    LevelUpFx                         =    FX:GandalfLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255    B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+
+    SelectionDecal
+        Texture                       =    decal_G_level4
+        Texture2                      =    decal_good_CO
+        Style                         =    SHADOW_MERGE_DECAL
+        OpacityMin                    =    80%
+        OpacityMax                    =    100%
+        MinRadius                     =    HORDE_DECAL_MIN_RADIUS
+        MaxRadius                     =    200
+        MaxSelectedUnits              =    40
+    End
+END
 
 
 ;--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
