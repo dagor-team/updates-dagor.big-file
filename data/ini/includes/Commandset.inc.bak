@@ -1787,10 +1787,9 @@ CommandSet HaradBarracksCommandSet
         2    = Command_ConstructEvilmenHaradSwordHorde
         3    = Command_ConstructMordorHaradrimLancerModHordeBarracks
         4    = Command_ConstructHaradHaradrimArcherHordeBarracks
-        5    = Command_ConstructEvilmenKhandSoldierHorde
-        7    = Command_ConstructEvilmenKhandSoldierHorde
-        8    = Command_UpgradeHaradBarracksLevel2
-        9    = Command_Sell
+        5    = Command_ConstructMordorRhunSchwertHorde
+        6    = Command_UpgradeHaradBarracksLevel2
+        7    = Command_Sell
 End
 
 CommandSet HaradBarracksCommandSetLevel2
@@ -1798,8 +1797,7 @@ CommandSet HaradBarracksCommandSetLevel2
         2    = Command_ConstructEvilmenHaradSwordHorde
         3    = Command_ConstructMordorHaradrimLancerModHordeBarracks
         4    = Command_ConstructHaradHaradrimArcherHordeBarracks
-        5    = Command_ConstructEvilmenKhandSoldierHorde
-        7    = Command_ConstructEvilmenKhandSoldierHorde
+        5    = Command_ConstructMordorRhunSchwertHorde
         6    = Command_UpgradeHaradBarracksLevel3
         7    = Command_Sell
 End
@@ -1809,8 +1807,7 @@ CommandSet HaradBarracksCommandSetLevel3
         2    = Command_ConstructEvilmenHaradSwordHorde
         3    = Command_ConstructMordorHaradrimLancerModHordeBarracks
         4    = Command_ConstructHaradHaradrimArcherHordeBarracks
-        5    = Command_ConstructEvilmenKhandSoldierHorde
-        7    = Command_ConstructEvilmenKhandSoldierHorde
+        5    = Command_ConstructMordorRhunSchwertHorde
         6    = Command_Sell
 End
 

@@ -1,72 +1,58 @@
-GENERAL
-	Cavalry classes added with all descritions added
-	Xp share for heroes will now function as in any other mod or version of the game with a rebalance to xp requirements for heroes 
-		Archer heroes xp requirement increased by 
-	Units affected by mist invisibility can be detected from further away
-	Healing spell fixed + can now heal catapults and other machines
-	All basic infantry armor buffed against heroes (archers 20%, melee 30%)
-	Hero stats (health and damage) rebalanced
-	Most hero basic attack AOE got removed (only those which were added for heroes to level up ex: Boromir)
 
-Gondor	
-	Boromir - cost revert 2300 -> 2000
-	Dol amroth swordsmen weapon fixed
-	Ithilien rangers recruitable from the Forbidden pool
-	Damrod - leadership now affects all ithilien units
-	Ithilien swordsmen armor and damge buffed - values?
-		
-Angmar
-	Snowbind spell now grants full invulnerability
-	Mornamarths buff from the power of the Witch king heavily nerfed and no longer stacks with his level 1 - values?
-	
-Rohan
-	Royal Guards - armor nerf against pikes by 40%
-	Hama - healing in combat nerfed in combat from 3% -> 1% and doesnt replenish soldiers anymore
-	Taniquetil watchers capped to 6
-	Taniquetil Expeditionaries flanking bonus increased by 20%
+GENERAL
+	Creep wargs damage and armor nerf
+GONDOR	
+	Isildur
+		- level 1 fix
+	Finrod 
+		- level 4 fixed
+	Beregond
+		- gondor archer bonus fix
+ANGMAR
+	Ungoliant
+		- Unlight cd fix
+		- Trample decelaration lowered (buff)
+	Frost ball ability on the fortress slight dmg nerf
+	Witch-king 
+		- level 3 fix
+ROHAN
+	Helm Hammerhand Summon
+		- Only 1 Helm summon fix
+	Basic pikes buffed by 150 health
 Arnor 
-	Guardians of arnor weapon fixed
+	Swords of westerness cost 15 pp
+	Elendil, Araphant and Elros xp give abilities applied to first age units
+	Last alliance Elendil second ability fix
 Goblins
-	Gundabad troll - speed buff - value?
-	Great goblin plunder cart - despawn fix
+	Gorkil scavenger no longer applies to smaug or Fa units
+	Mountain giants dmg adjusted (lowered) for scaling
+	Scatha at level 3 gives scavenger to smaug and Fa units
+	Smaug health incerase and armor upgrade at level 5; damage to units nerfed by half
+	Smaug on the ground - armor nerf
+	Azog 
+		-level 1 fix
 Mordor
-	
+	Balcmeg - Level 6 leadership buff
+		- Level 1 new passive
+	Gothmog - new level 3
+	War beasts armor nerf + cp increase
+	Umbar archers +2 units in a horde + slight damage buff
+	Harad archers - Barbed arrows ability damage multiplier against smaug
 Loth
-	Galadriel - gift nerfed for her (cd reduction from 25% -> 15%)
-		  - level 5 cd increased from 35s -> 70s
-		  - level 7 cd increased from 190s -> 310s
-		  - level 9 moved to level 10 and no longer affects heroes
-	Radagast with the gift fixed
-	Sacred trees - no longer stealth units while they shoot
-		     - removed as a buildable building and added as a summon in the spellbook instead of the arrow volley
-	Fortress lanters radius decreased and no longer affects balrogs
-	Fortress invincibility radius lowered from 700 -> 400
-	Mirkwood fortress - no longer requires anything to be built, cost descreased 1500 -> 1000
-	Mirkwood guardians of the path locked behind silverthorns
-	Lorien garden now has new upgrades affecting economy to be bought
-		- cost decreased by 500, health increased by 1000, no longer produces money
-	Lorien swordsmen, archers and pikes price increased by 50, 
-	Grimbeorn armor buff
-	Haldir - Golden arrow moved to level 6 and has a new scaling leadership starting at level 4
-	
+	Legolas level 7 fix
+	Mirkwood archers armorset fix
 Imladris
-	Library upgraded no longer disappear when the building is destroyed
-	Loremasters - range revert
-	Gil galad and elrond can be bought simultaneously, glorfindel is permanent and the only choice will be made between ecthelion and turgon after first age has been aquired
-	Gil galad has been reverted to the state in which he was 2 or so years ago
-	Erestors farm takes less xp to level up
-	Ecthelion rework - new level 3 and 5
-	Erestor - cost revert to 500
-	Scholars - cost increased 100 -> 250 and buildtime increased by 15s
-	Mirkwood archers weapon fixed
-	Glorfindel - wind rider cd increased 150s -> 180s
-	All elites locked behind hero levels
-	
+
 Isengard
+	New unit - Dunland Brutes
+	Shield uruk system revamped
+	Slaves ignore Q select and cost 0 cp
+	Tol in Gaurtoth guards - level 2 fix
+	Grima Rework
+Erebor
+	Thorin III runes aplicable to the dain hall
+Iron hills
+	
+eren luin
 	
 	
-Dwarves
-	Unit healing rune´s healing nerfed by 50%, doesnt stack anymore, replenishes soldiers slower 2s -> 5s
-	Arkenguards - damage buffed by 15% against infantry
-	Earthshaker building debuff now affects fortresses
-	Battle wagon - Oil barrel locked behind level 4

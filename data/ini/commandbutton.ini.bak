@@ -49898,7 +49898,7 @@ CommandButton Command_SummonAvatharUngoliant
   SpecialPower            = SpecialAbilitySummonLegendaryHeros
   Options          = NEED_UPGRADE
   ButtonBorderType        = ACTION
-  ButtonImage             = HIAvatharUngoliant
+  ButtonImage             = HPAvatharUngoliant
   TextLabel               = CONTROLBAR:SummonAvatharUngoliant
   DescriptLabel           = CONTROLBAR:ToolTipAvatharSummonUngoliant
   InPalantir              = Yes

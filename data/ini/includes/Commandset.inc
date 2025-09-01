@@ -14,7 +14,30 @@ CommandSet BalcmegCommandSet
     18   = Command_SetStanceHoldGround
 End
 
+
+
+
+
 CommandSet ImladrisFortressCommandset
+    InitialVisible = 2
+	1    = Command_PurchaseHouseofElrond
+	2    = Command_PurchaseHouseofGilgalad
+End
+
+CommandSet ImladrisFortressCommandset2
+    InitialVisible = 2
+	1    = Command_PurchaseHouseofTheGoldenFlowerElrond
+	2    = Command_PurchaseHouseofTheSilverFountElrond
+End
+
+CommandSet ImladrisFortressCommandset3
+    InitialVisible = 2
+	1    = Command_PurchaseHouseofTheGoldenFlowerGilgalad
+	2    = Command_PurchaseHouseofTheSilverFountGilgalad
+End
+
+
+CommandSet HouseofTheGoldenFlowerElrondCommandSet
     InitialVisible = 6
 
     1    = Command_RingMechanikImladris
@@ -44,8 +67,114 @@ CommandSet ImladrisFortressCommandset
        24    = Command_FakeHeroReviveSlot9
        25    = Command_GwaihirReviveSlot
        26    = Command_FakeHeroReviveSlot11
+       27    = Command_FakeHeroReviveSlot12
+	   28    = Command_FakeHeroReviveSlot13
+       29    = Command_RadialBack
+End
+
+CommandSet HouseofTheSilverFountElrondCommandSet
+    InitialVisible = 6
+
+    1    = Command_RingMechanikImladris
+    2    = Command_SpielsystemImladris
+    3    = Command_SelectUpgradesImladrisFaction
+    4    = Command_SelectRevivablesImladrisFortress
+    6    = Command_Sell
+
+    7     = Command_ConstructImladrisPorter
+    8     = Command_PurchaseUpgradeElvenFortressEnchantedAnvil
+    9     = Command_PurchaseUpgradeElvenFortressBlessedMist
+    10    = Command_PurchaseUpgradeElvenFortressCrystalMoat
+    11    = Command_PurchaseUpgradeElvenFortressMysticFountains
+    12    = Command_PurchaseUpgradeElvenFortressEaglesNest
+    13    = Command_RadialBack
+
+       14    = Command_FakeRingHeroReviveSlot
+       15    = Command_FakeCreateAHeroReviveSlot
+       16    = Command_GenericReviveSlot1
+       17    = Command_GenericReviveSlot2
+       18    = Command_GenericReviveSlot3
+       19    = Command_GenericReviveSlot4
+       20    = Command_FakeHeroReviveSlot5
+       21    = Command_FakeHeroReviveSlot6
+       22    = Command_GenericReviveSlot7
+       23    = Command_FakeHeroReviveSlot8
+       24    = Command_FakeHeroReviveSlot9
+       25    = Command_GwaihirReviveSlot
+       26    = Command_FakeHeroReviveSlot11
+       27    = Command_FakeHeroReviveSlot12
+	   28    = Command_GenericReviveSlot13
+       29    = Command_RadialBack
+End
+
+
+CommandSet HouseofTheGoldenFlowerGilgaladCommandSet
+    InitialVisible = 6
+
+    1    = Command_RingMechanikImladris
+    2    = Command_SpielsystemImladris
+    3    = Command_SelectUpgradesImladrisFaction
+    4    = Command_SelectRevivablesImladrisFortress
+    6    = Command_Sell
+
+    7     = Command_ConstructImladrisPorter
+    8     = Command_PurchaseUpgradeElvenFortressEnchantedAnvil
+    9     = Command_PurchaseUpgradeElvenFortressBlessedMist
+    10    = Command_PurchaseUpgradeElvenFortressCrystalMoat
+    11    = Command_PurchaseUpgradeElvenFortressMysticFountains
+    12    = Command_PurchaseUpgradeElvenFortressEaglesNest
+    13    = Command_RadialBack
+
+       14    = Command_FakeRingHeroReviveSlot
+       15    = Command_FakeCreateAHeroReviveSlot
+       16    = Command_FakeHeroReviveSlot1
+       17    = Command_GenericReviveSlot2
+       18    = Command_GenericReviveSlot3
+       19    = Command_GenericReviveSlot4
+       20    = Command_GenericReviveSlot5
+       21    = Command_FakeHeroReviveSlot6
+       22    = Command_GenericReviveSlot7
+       23    = Command_FakeHeroReviveSlot8
+       24    = Command_FakeHeroReviveSlot9
+       25    = Command_GwaihirReviveSlot
+       26    = Command_FakeHeroReviveSlot11
        27    = Command_GenericReviveSlot12
 	   28    = Command_FakeHeroReviveSlot13
+       29    = Command_RadialBack
+End
+
+CommandSet HouseofTheSilverFountGilgaladCommandSet
+    InitialVisible = 6
+
+    1    = Command_RingMechanikImladris
+    2    = Command_SpielsystemImladris
+    3    = Command_SelectUpgradesImladrisFaction
+    4    = Command_SelectRevivablesImladrisFortress
+    6    = Command_Sell
+
+    7     = Command_ConstructImladrisPorter
+    8     = Command_PurchaseUpgradeElvenFortressEnchantedAnvil
+    9     = Command_PurchaseUpgradeElvenFortressBlessedMist
+    10    = Command_PurchaseUpgradeElvenFortressCrystalMoat
+    11    = Command_PurchaseUpgradeElvenFortressMysticFountains
+    12    = Command_PurchaseUpgradeElvenFortressEaglesNest
+    13    = Command_RadialBack
+
+       14    = Command_FakeRingHeroReviveSlot
+       15    = Command_FakeCreateAHeroReviveSlot
+       16    = Command_FakeHeroReviveSlot1
+       17    = Command_GenericReviveSlot2
+       18    = Command_GenericReviveSlot3
+       19    = Command_GenericReviveSlot4
+       20    = Command_FakeHeroReviveSlot5
+       21    = Command_FakeHeroReviveSlot6
+       22    = Command_GenericReviveSlot7
+       23    = Command_FakeHeroReviveSlot8
+       24    = Command_FakeHeroReviveSlot9
+       25    = Command_GwaihirReviveSlot
+       26    = Command_FakeHeroReviveSlot11
+       27    = Command_GenericReviveSlot12
+	   28    = Command_GenericReviveSlot13
        29    = Command_RadialBack
 End
 
@@ -82,8 +211,8 @@ CommandSet BelegostFortressCommandSet
        27      = Command_FakeHeroReviveSlot9
        28      = Command_FakeHeroReviveSlot18
        29      = Command_FakeHeroReviveSlot19
-       30      = Command_GenericReviveSlot20
-       31      = Command_FakeHeroReviveSlot21
+       30      = Command_FakeHeroReviveSlot20
+       31      = Command_GenericReviveSlot21
 
     32  = Command_SummonValinorAule
     33  = Command_RadialBack
@@ -122,8 +251,8 @@ CommandSet BelegostFortressCommandSetLevel2
        27      = Command_FakeHeroReviveSlot9
        28      = Command_FakeHeroReviveSlot18
        29      = Command_FakeHeroReviveSlot19
-       30      = Command_GenericReviveSlot20
-       31      = Command_FakeHeroReviveSlot21
+       30      = Command_FakeHeroReviveSlot20
+       31      = Command_GenericReviveSlot21
        
     32  = Command_SummonValinorAule
     33  = Command_RadialBack
@@ -162,8 +291,8 @@ InitialVisible = 4
        27      = Command_FakeHeroReviveSlot9
        28      = Command_FakeHeroReviveSlot18
        29      = Command_FakeHeroReviveSlot19
-       30      = Command_GenericReviveSlot20
-       31      = Command_FakeHeroReviveSlot21
+       30      = Command_FakeHeroReviveSlot20
+       31      = Command_GenericReviveSlot21
        
     32  = Command_SummonValinorAule
     33  = Command_RadialBack
@@ -202,8 +331,8 @@ InitialVisible = 4
        27      = Command_FakeHeroReviveSlot9
        28      = Command_FakeHeroReviveSlot18
        29      = Command_FakeHeroReviveSlot19
-       30      = Command_GenericReviveSlot20
-       31      = Command_FakeHeroReviveSlot21
+       30      = Command_FakeHeroReviveSlot20
+       31      = Command_GenericReviveSlot21
        
     32  = Command_SummonValinorAule
     33  = Command_RadialBack
@@ -242,8 +371,8 @@ CommandSet BelegostFortressCommandSetLevel5
        27      = Command_FakeHeroReviveSlot9
        28      = Command_FakeHeroReviveSlot18
        29      = Command_FakeHeroReviveSlot19
-       30      = Command_GenericReviveSlot20
-       31      = Command_FakeHeroReviveSlot21
+       30      = Command_FakeHeroReviveSlot20
+       31      = Command_GenericReviveSlot21
        
     32  = Command_SummonValinorAule
     33  = Command_RadialBack
@@ -1068,10 +1197,10 @@ CommandSet AngbandFortressCommandSet
    10    = Command_LeadershipAngbandFortressPikes
    11    = Command_LeadershipAngbandFortressTowersSpire
 
-   12    = Command_ConstructAngbandTormentedElves
-   13    = Command_ConstructAngbandGateGuardsHorde
-   14    = Command_ConstructAngbandFireDrake
-   15    = Command_ConstructAngbandDragon
+   12    = Command_ConstructAngbandIronWorm
+   13    = Command_ConstructAngbandFireDrake
+   14    = Command_ConstructAngbandDragon
+   15    = Command_RadialBack
 
        16    = Command_FakeRingHeroReviveSlot
        17    = Command_FakeCreateAHeroReviveSlot
@@ -1108,10 +1237,10 @@ CommandSet AngbandFortressCommandSetLevel2
    10    = Command_LeadershipAngbandFortressPikes
    11    = Command_LeadershipAngbandFortressTowersSpire
 
-   12    = Command_ConstructAngbandTormentedElves
-   13    = Command_ConstructAngbandGateGuardsHorde
-   14    = Command_ConstructAngbandFireDrake
-   15    = Command_ConstructAngbandDragon
+   12    = Command_ConstructAngbandIronWorm
+   13    = Command_ConstructAngbandFireDrake
+   14    = Command_ConstructAngbandDragon
+   15    = Command_RadialBack
 
        16    = Command_FakeRingHeroReviveSlot
        17    = Command_FakeCreateAHeroReviveSlot
@@ -1148,10 +1277,10 @@ CommandSet AngbandFortressCommandSetLevel3
    10    = Command_LeadershipAngbandFortressPikes
    11    = Command_LeadershipAngbandFortressTowersSpire
 
-   12    = Command_ConstructAngbandTormentedElves
-   13    = Command_ConstructAngbandGateGuardsHorde
-   14    = Command_ConstructAngbandFireDrake
-   15    = Command_ConstructAngbandDragon
+   12    = Command_ConstructAngbandIronWorm
+   13    = Command_ConstructAngbandFireDrake
+   14    = Command_ConstructAngbandDragon
+   15    = Command_RadialBack
 
        16    = Command_FakeRingHeroReviveSlot
        17    = Command_FakeCreateAHeroReviveSlot
@@ -1188,10 +1317,10 @@ CommandSet AngbandFortressCommandSetLevel4
    10    = Command_LeadershipAngbandFortressPikes
    11    = Command_LeadershipAngbandFortressTowersSpire
 
-   12    = Command_ConstructAngbandTormentedElves
-   13    = Command_ConstructAngbandGateGuardsHorde
-   14    = Command_ConstructAngbandFireDrake
-   15    = Command_ConstructAngbandDragon
+   12    = Command_ConstructAngbandIronWorm
+   13    = Command_ConstructAngbandFireDrake
+   14    = Command_ConstructAngbandDragon
+   15    = Command_RadialBack
 
        16    = Command_FakeRingHeroReviveSlot
        17    = Command_FakeCreateAHeroReviveSlot
@@ -1227,10 +1356,10 @@ CommandSet AngbandFortressCommandSetLevel5
    10    = Command_LeadershipAngbandFortressPikes
    11    = Command_LeadershipAngbandFortressTowersSpire
 
-   12    = Command_ConstructAngbandTormentedElves
-   13    = Command_ConstructAngbandGateGuardsHorde
-   14    = Command_ConstructAngbandFireDrake
-   15    = Command_ConstructAngbandDragon
+   12    = Command_ConstructAngbandIronWorm
+   13    = Command_ConstructAngbandFireDrake
+   14    = Command_ConstructAngbandDragon
+   15    = Command_RadialBack
 
        16    = Command_FakeRingHeroReviveSlot
        17    = Command_FakeCreateAHeroReviveSlot
@@ -1500,7 +1629,7 @@ CommandSet FormenosFortressCommandSetLevel2
     3    = Command_SelectLibraryFormenos
     4    = Command_SelectUnitsFormenos
     5    = Command_UpgradeFormenosFortressLevel3
-	
+    
     6    = Command_SummonValinorTulkas
     7    = Command_RadialBack
     
@@ -1652,6 +1781,15 @@ CommandSet FormenosFortressCommandSetLevel5
        32    = Command_RadialBack
 End
 
+CommandSet LorienGardenCommandSet
+    1   = Command_LeadershipMallornSprouts
+    2   = Command_LeadershipDiscountGaladrim
+    3   = Command_LeadershipDiscountUpgrades
+    4   = Command_PurchaseUpgradeBundnisWaldelben_New
+	5   = Command_PurchaseGardenUpgradeGrandHarvest
+    6   = Command_Sell
+End
+
 CommandSet AngmarMorgramirCommandSetMod
     1    = Command_ToggleStance
     2    = Command_SpecialAbilityMorgomirEdikt
@@ -1755,22 +1893,7 @@ End
 
 CommandSet  MordorHaradrimSchwerterCommandSet
     1       = Command_ToggleStance
-    2       = Command_ToggleFormationMarschformationHarad
-    3       = Command_PurchaseUpgradeMordorHaradBasicTraining
-    4       = Command_PurchaseUpgradeMordorHaradArmor
-    5       = Command_PurchaseUpgradeMordorHaradBlades
-    6       = Command_PurchaseUpgradeEvilmenShield
-    12      = Command_CaptureBuilding
-    13      = Command_AttackMove
-    14      = Command_EvilStop
-    16      = Command_SetStanceBattle
-    17      = Command_SetStanceAggressive
-    18      = Command_SetStanceHoldGround
-End
-
-CommandSet  EvilMenRhunSchwerterCommandSet
-    1       = Command_ToggleStance
-    2       = Command_ToggleFormationRhunSword
+    2       = Command_ToggleFormationMarschformation
     3       = Command_PurchaseUpgradeMordorHaradBasicTraining
     4       = Command_PurchaseUpgradeMordorHaradArmor
     5       = Command_PurchaseUpgradeMordorHaradBlades
@@ -1820,47 +1943,6 @@ CommandSet EvilmenSuladanCommandSet
     18      = Command_SetStanceHoldGround
 End
 
-CommandSet EvilmenSuladanCommandSetNew
-    1    = Command_ToggleStance
-    2    = Command_ToggleMountedSuladan
-    3    = Command_SpecialAbilityBladeOfMadrat
-    4    = Command_SpecialAbilityLordOfTheSands
-    5    = Command_SpecialAbilityFlankingManeuver
-    6    = Command_SpecialAbilitySuladanGloriousCharge
-    12    = Command_CaptureBuilding
-    13    = Command_AttackMove
-    14    = Command_Stop
-    16      = Command_SetStanceBattle
-    17      = Command_SetStanceAggressive
-    18      = Command_SetStanceHoldGround
-End
-
-CommandSet HaradBadHarkanCommandSet
-    1    = Command_ToggleStance
-    2    = Command_ToggleBadharkanWeapon
-    3    = Command_SpecialAbilitySalemeGiftfalle
-    4    = Command_SpecialAbilityHunterAmbush
-    5    = Command_SpecialAbilityPiercingThrows
-    6    = Command_SpecialAbilityAncientSpear
-    12    = Command_CaptureBuilding
-    13    = Command_AttackMove
-    14    = Command_Stop
-    16      = Command_SetStanceBattle
-    17      = Command_SetStanceAggressive
-    18      = Command_SetStanceHoldGround
-End
-
-CommandSet HaradBadHarkanCommandSet_Ambush
-    1    = Command_ToggleStance
-    2    = Command_SpecialAbilitySetupAmbush
-    3    = Command_SpecialAbilityActivateAmbush
-    12    = Command_CaptureBuilding
-    13    = Command_AttackMove
-    14    = Command_Stop
-    16      = Command_SetStanceBattle
-    17      = Command_SetStanceAggressive
-    18      = Command_SetStanceHoldGround
-End
 
 CommandSet HaradPorterSummonedCommandSet
     1 = Command_EvilStop
@@ -1873,36 +1955,8 @@ CommandSet HaradPorterSummonedCommandSet
     8 = Command_ConstructMordorTavern
 End
 
+
 CommandSet HaradBarracksCommandSet
-        2    = Command_ConstructEvilmenHaradSwordHorde
-        3    = Command_ConstructHaradrimSpearmanHordeMod
-        4    = Command_ConstructHaradHaradrimArcherHordeBarracks
-        5    = Command_ConstructMordorHaradrimLancerModHordeBarracks
-        7    = Command_ConstructEvilmenKhandSoldierHorde
-        8    = Command_UpgradeHaradBarracksLevel2
-        9    = Command_Sell
-End
-
-CommandSet HaradBarracksCommandSetLevel2
-        2    = Command_ConstructEvilmenHaradSwordHorde
-        3    = Command_ConstructHaradrimSpearmanHordeMod
-        4    = Command_ConstructHaradHaradrimArcherHordeBarracks
-        5    = Command_ConstructMordorHaradrimLancerModHordeBarracks
-        7    = Command_ConstructEvilmenKhandSoldierHorde
-        6    = Command_UpgradeHaradBarracksLevel3
-        7    = Command_Sell
-End
-
-CommandSet HaradBarracksCommandSetLevel3
-        2    = Command_ConstructEvilmenHaradSwordHorde
-        3    = Command_ConstructHaradrimSpearmanHordeMod
-        4    = Command_ConstructHaradHaradrimArcherHordeBarracks
-        5    = Command_ConstructMordorHaradrimLancerModHordeBarracks
-        7    = Command_ConstructEvilmenKhandSoldierHorde
-        6    = Command_Sell
-End
-
-CommandSet HaradBarracksMordorCommandSet
         1    = Command_ConstructEasterlingHorde
         2    = Command_ConstructEvilmenHaradSwordHorde
         3    = Command_ConstructMordorHaradrimLancerModHordeBarracks
@@ -1912,7 +1966,7 @@ CommandSet HaradBarracksMordorCommandSet
         7    = Command_Sell
 End
 
-CommandSet HaradBarracksMordorCommandSetLevel2
+CommandSet HaradBarracksCommandSetLevel2
         1    = Command_ConstructEasterlingHorde
         2    = Command_ConstructEvilmenHaradSwordHorde
         3    = Command_ConstructMordorHaradrimLancerModHordeBarracks
@@ -1922,7 +1976,7 @@ CommandSet HaradBarracksMordorCommandSetLevel2
         7    = Command_Sell
 End
 
-CommandSet HaradBarracksMordorCommandSetLevel3
+CommandSet HaradBarracksCommandSetLevel3
         1    = Command_ConstructEasterlingHorde
         2    = Command_ConstructEvilmenHaradSwordHorde
         3    = Command_ConstructMordorHaradrimLancerModHordeBarracks
@@ -2025,20 +2079,4 @@ CommandSet DwarvenBarracksDiplomacyCommandSet
      25     = Command_ConstructAglarondPikeHorde
      26     = Command_ConstructAglarondCavalaryHorde
      27     = Command_RadialBack
-End
-
-CommandSet HaradSouthWatcherHordeCommandSet
-    1     = Command_ToggleStance
-    2     = Command_SpecialAbilityMahudRaserei 
-    3       = Command_PurchaseUpgradeMordorHaradBasicTraining ;
-    4       = Command_PurchaseUpgradeMordorHaradArmor
-    5       = Command_PurchaseUpgradeMordorHaradBlades
-    6     = Command_PurchaseUpgradeEvilmenShield
-    7     = Command_ToggleFormationEvilMenHaradrimSoldier ;Command_ToggleFormationOrksNebelberge
-    12  = Command_CaptureBuilding
-    13  = Command_AttackMove
-    14  = Command_Stop
-    16      = Command_SetStanceBattle
-    17      = Command_SetStanceAggressive
-    18      = Command_SetStanceHoldGround
 End

@@ -406,127 +406,6 @@ ExperienceLevel    Good_Basic_InfantryLevel5
     End
 END
 
-;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-ExperienceLevel    Good_Basic_Infantry_Level1
-    TargetNames                       =    GOOD_BASIC_SUMMONED
-    RequiredExperience                =    EXPERIENCE_REQUIRED_BASIC_HORDE_1
-    ExperienceAward                   =    EXPERIENCE_AWARD_BASIC_HORDE_1
-    Rank                              =    1
-    Upgrades                          =    Upgrade_ObjectLevel1 Upgrade_MiniHordeLvl1 Upgrade_EliteHordeLvl1
-    SelectionDecal
-        Texture               =    decal_G_level1
-        Texture2              =    decal_good_CO
-        Style                 =    SHADOW_MERGE_DECAL
-        OpacityMin            =    80%
-        OpacityMax            =    100%
-        MinRadius             =    70
-        MaxRadius             =    200
-        MaxSelectedUnits      =    40
-    End
-END
-
-ExperienceLevel    Good_Basic_InfantryLevel2
-    TargetNames                       =    GOOD_BASIC_SUMMONED
-    RequiredExperience                =    EXPERIENCE_REQUIRED_BASIC_HORDE_2
-    ExperienceAward                   =    EXPERIENCE_AWARD_BASIC_HORDE_2
-    Rank                              =    2
-    Upgrades                          =    Upgrade_ObjectLevel2 Upgrade_MiniHordeLvl2 Upgrade_EliteHordeLvl2
-    AttributeModifiers                =    BasicHordeBonusRank2
-    LevelUpFx                         =    FX:GandalfLevelUp1FX
-    LevelUpTintColor                  =    R:255 G:255 B:255
-    LevelUpTintPreColorTime           =    500
-    LevelUpTintPostColorTime          =    3000
-    LevelUpTintSustainColorTime       =    500
-    EmotionType                       =    CHEER
-    SelectionDecal
-        Texture               =    decal_G_level2
-        Texture2              =    decal_good_CO
-        Style                 =    SHADOW_MERGE_DECAL
-        OpacityMin            =    80%
-        OpacityMax            =    100%
-        MinRadius             =    70
-        MaxRadius             =    200
-        MaxSelectedUnits      =    40
-    End
-END
-
-ExperienceLevel    Good_Basic_InfantryLevel3
-    TargetNames                       =    GOOD_BASIC_SUMMONED
-    RequiredExperience                =    EXPERIENCE_REQUIRED_BASIC_HORDE_3
-    ExperienceAward                   =    EXPERIENCE_AWARD_BASIC_HORDE_3
-    Rank                              =    3
-    Upgrades                          =    Upgrade_ObjectLevel3 Upgrade_MiniHordeLvl3 Upgrade_EliteHordeLvl3
-    AttributeModifiers                =    BasicHordeBonusRank3
-    LevelUpFx                         =    FX:GandalfLevelUp1FX
-    LevelUpTintColor                  =    R:255 G:255 B:255
-    LevelUpTintPreColorTime           =    500
-    LevelUpTintPostColorTime          =    3000
-    LevelUpTintSustainColorTime       =    500
-    EmotionType                       =    CHEER
-    SelectionDecal
-        Texture               =    decal_G_level3
-        Texture2              =    decal_good_CO
-        Style                 =    SHADOW_MERGE_DECAL
-        OpacityMin            =    80%
-        OpacityMax            =    100%
-        MinRadius             =    70
-        MaxRadius             =    200
-        MaxSelectedUnits      =    40
-    End
-END
-
-ExperienceLevel    Good_Basic_InfantryLevel4
-    TargetNames                       =    GOOD_BASIC_SUMMONED
-    RequiredExperience                =    EXPERIENCE_REQUIRED_BASIC_HORDE_4
-    ExperienceAward                   =    EXPERIENCE_AWARD_BASIC_HORDE_4
-    Rank                              =    4
-    Upgrades                          =    Upgrade_ObjectLevel4 Upgrade_MiniHordeLvl4 Upgrade_EliteHordeLvl4
-    AttributeModifiers                =    BasicHordeBonusRank4
-    LevelUpFx                         =    FX:GandalfLevelUp1FX
-    LevelUpTintColor                  =    R:255 G:255 B:255
-    LevelUpTintPreColorTime           =    500
-    LevelUpTintPostColorTime          =    3000
-    LevelUpTintSustainColorTime       =    500
-    EmotionType                       =    CHEER
-    SelectionDecal
-        Texture               =    decal_G_level4
-        Texture2              =    decal_good_CO
-        Style                 =    SHADOW_MERGE_DECAL
-        OpacityMin            =    80%
-        OpacityMax            =    100%
-        MinRadius             =    70
-        MaxRadius             =    200
-        MaxSelectedUnits      =    40
-    End
-END
-
-ExperienceLevel    Good_Basic_InfantryLevel5
-    TargetNames                       =    GOOD_BASIC_SUMMONED
-    RequiredExperience                =    EXPERIENCE_REQUIRED_BASIC_HORDE_5
-    ExperienceAward                   =    EXPERIENCE_AWARD_BASIC_HORDE_5
-    Rank                              =    5
-    Upgrades                          =    Upgrade_ObjectLevel5 Upgrade_MiniHordeLvl5 Upgrade_EliteHordeLvl5
-    AttributeModifiers                =    BasicHordeBonusRank5
-    LevelUpFx                         =    FX:GandalfLevelUp1FX
-    LevelUpTintColor                  =    R:255 G:255 B:255
-    LevelUpTintPreColorTime           =    500
-    LevelUpTintPostColorTime          =    3000
-    LevelUpTintSustainColorTime       =    500
-    EmotionType                       =    CHEER
-    SelectionDecal
-        Texture               =    decal_G_level4
-        Texture2              =    decal_good_CO
-        Style                 =    SHADOW_MERGE_DECAL
-        OpacityMin            =    80%
-        OpacityMax            =    100%
-        MinRadius             =    70
-        MaxRadius             =    200
-        MaxSelectedUnits      =    40
-    End
-END
-
 ;--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ExperienceLevel    Good_Basic10_Infantry_Level1
     TargetNames                       =    GOOD_BASIC_10
@@ -1656,7 +1535,7 @@ ExperienceLevel    Good_Elite_InfantryLevel5
     InformUpdateModule                =    Yes
     Rank                              =    5
     AttributeModifiers                =    EliteHordeBonusRank5
-    Upgrades                          =    Upgrade_ObjectLevel5 Upgrade_MiniHordeLvl5 Upgrade_EliteHordeLvl5 Upgrade_FormenosForgedBlades
+    Upgrades                          =    Upgrade_ObjectLevel5 Upgrade_MiniHordeLvl5 Upgrade_EliteHordeLvl5
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -1710,7 +1589,7 @@ ExperienceLevel    Good_Elite_InfantryLevel7
     InformUpdateModule                =    Yes
     Rank                              =    7
     AttributeModifiers                =    EliteHordeBonusRank7
-    Upgrades                          =    Upgrade_ObjectLevel7 Upgrade_MiniHordeLvl7 Upgrade_EliteHordeLvl7
+    Upgrades                          =    Upgrade_ObjectLevel7 Upgrade_MiniHordeLvl7 Upgrade_EliteHordeLvl7 Upgrade_FormenosForgedBlades
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -1928,7 +1807,7 @@ ExperienceLevel    Good_Elite10_InfantryLevel5
     InformUpdateModule                =    Yes
     Rank                              =    5
     AttributeModifiers                =    Elite10HordeBonusRank5
-    Upgrades                          =    Upgrade_ObjectLevel5 Upgrade_MiniHordeLvl5 Upgrade_EliteHordeLvl5 Upgrade_FormenosForgedBlades
+    Upgrades                          =    Upgrade_ObjectLevel5 Upgrade_MiniHordeLvl5 Upgrade_EliteHordeLvl5
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -1982,7 +1861,7 @@ ExperienceLevel    Good_Elite10_InfantryLevel7
     InformUpdateModule                =    Yes
     Rank                              =    7
     AttributeModifiers                =    Elite10HordeBonusRank7
-    Upgrades                          =    Upgrade_ObjectLevel7 Upgrade_MiniHordeLvl7 Upgrade_EliteHordeLvl7
+    Upgrades                          =    Upgrade_ObjectLevel7 Upgrade_MiniHordeLvl7 Upgrade_EliteHordeLvl7 Upgrade_FormenosForgedBlades
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -2200,7 +2079,7 @@ ExperienceLevel    Good_Veterans_InfantryLevel5
     InformUpdateModule                =    Yes
     Rank                              =    5
     AttributeModifiers                =    VeteransHordeBonusRank5
-    Upgrades                          =    Upgrade_ObjectLevel5 Upgrade_MiniHordeLvl5 Upgrade_EliteHordeLvl5 Upgrade_FormenosForgedBlades
+    Upgrades                          =    Upgrade_ObjectLevel5 Upgrade_MiniHordeLvl5 Upgrade_EliteHordeLvl5
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -2254,7 +2133,7 @@ ExperienceLevel    Good_Veterans_InfantryLevel7
     InformUpdateModule                =    Yes
     Rank                              =    7
     AttributeModifiers                =    VeteransHordeBonusRank7
-    Upgrades                          =    Upgrade_ObjectLevel7 Upgrade_MiniHordeLvl7 Upgrade_EliteHordeLvl7
+    Upgrades                          =    Upgrade_ObjectLevel7 Upgrade_MiniHordeLvl7 Upgrade_EliteHordeLvl7 Upgrade_FormenosForgedBlades
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -2742,7 +2621,7 @@ ExperienceLevel    Good_Elite3_InfantryLevel5
     InformUpdateModule                =    Yes
     Rank                              =    5
     AttributeModifiers                =    Elite3HordeBonusRank5
-    Upgrades                          =    Upgrade_ObjectLevel5 Upgrade_MiniHordeLvl5 Upgrade_EliteHordeLvl5 Upgrade_FormenosForgedBlades
+    Upgrades                          =    Upgrade_ObjectLevel5 Upgrade_MiniHordeLvl5 Upgrade_EliteHordeLvl5
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -2796,7 +2675,7 @@ ExperienceLevel    Good_Elite3_InfantryLevel7
     InformUpdateModule                =    Yes
     Rank                              =    7
     AttributeModifiers                =    Elite3HordeBonusRank7
-    Upgrades                          =    Upgrade_ObjectLevel7 Upgrade_MiniHordeLvl7 Upgrade_EliteHordeLvl7
+    Upgrades                          =    Upgrade_ObjectLevel7 Upgrade_MiniHordeLvl7 Upgrade_EliteHordeLvl7 Upgrade_FormenosForgedBlades
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -3142,7 +3021,7 @@ END
 ;----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-ExperienceLevel    Good_RegularChampion_Infantry_Level1
+ExperienceLevel    Good_RegularChampon_Infantry_Level1
     TargetNames                       =    GOOD_REGULAR_CHAMPION
     RequiredExperience                =    EXPERIENCE_REQUIRED_REGULAR_CHAMPION_HORDE_1
     ExperienceAward                   =    EXPERIENCE_AWARD_REGULAR_CHAMPION_HORDE_1
@@ -3160,13 +3039,13 @@ ExperienceLevel    Good_RegularChampion_Infantry_Level1
     End
 END
 
-ExperienceLevel    Good_RegularChampion_InfantryLevel2
+ExperienceLevel    Good_RegularChampon_InfantryLevel2
     TargetNames                       =    GOOD_REGULAR_CHAMPION
     RequiredExperience                =    EXPERIENCE_REQUIRED_REGULAR_CHAMPION_HORDE_2
     ExperienceAward                   =    EXPERIENCE_AWARD_REGULAR_CHAMPION_HORDE_2
     Rank                              =    2
     Upgrades                          =    Upgrade_ObjectLevel2 Upgrade_MiniHordeLvl2 Upgrade_EliteHordeLvl2
-    AttributeModifiers                =    RegularChampionHordeBonusRank2
+    AttributeModifiers                =    RegularChamponHordeBonusRank2
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -3185,13 +3064,13 @@ ExperienceLevel    Good_RegularChampion_InfantryLevel2
     End
 END
 
-ExperienceLevel    Good_RegularChampion_InfantryLevel3
+ExperienceLevel    Good_RegularChampon_InfantryLevel3
     TargetNames                       =    GOOD_REGULAR_CHAMPION
     RequiredExperience                =    EXPERIENCE_REQUIRED_REGULAR_CHAMPION_HORDE_3
     ExperienceAward                   =    EXPERIENCE_AWARD_REGULAR_CHAMPION_HORDE_3
     Rank                              =    3
     Upgrades                          =    Upgrade_ObjectLevel3 Upgrade_MiniHordeLvl3 Upgrade_EliteHordeLvl3
-    AttributeModifiers                =    RegularChampionHordeBonusRank3
+    AttributeModifiers                =    RegularChamponHordeBonusRank3
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -3210,13 +3089,13 @@ ExperienceLevel    Good_RegularChampion_InfantryLevel3
     End
 END
 
-ExperienceLevel    Good_RegularChampion_InfantryLevel4
+ExperienceLevel    Good_RegularChampon_InfantryLevel4
     TargetNames                       =    GOOD_REGULAR_CHAMPION
     RequiredExperience                =    EXPERIENCE_REQUIRED_REGULAR_CHAMPION_HORDE_4
     ExperienceAward                   =    EXPERIENCE_AWARD_REGULAR_CHAMPION_HORDE_4
     Rank                              =    4
     Upgrades                          =    Upgrade_ObjectLevel4 Upgrade_MiniHordeLvl4 Upgrade_EliteHordeLvl4
-    AttributeModifiers                =    RegularChampionHordeBonusRank4
+    AttributeModifiers                =    RegularChamponHordeBonusRank4
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -3235,13 +3114,13 @@ ExperienceLevel    Good_RegularChampion_InfantryLevel4
     End
 END
 
-ExperienceLevel    Good_RegularChampion_InfantryLevel5
+ExperienceLevel    Good_RegularChampon_InfantryLevel5
     TargetNames                       =    GOOD_REGULAR_CHAMPION
     RequiredExperience                =    EXPERIENCE_REQUIRED_REGULAR_CHAMPION_HORDE_5
     ExperienceAward                   =    EXPERIENCE_AWARD_REGULAR_CHAMPION_HORDE_5
     Rank                              =    5
     Upgrades                          =    Upgrade_ObjectLevel5 Upgrade_MiniHordeLvl5 Upgrade_EliteHordeLvl5
-    AttributeModifiers                =    RegularChampionHordeBonusRank5
+    AttributeModifiers                =    RegularChamponHordeBonusRank5
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -3261,268 +3140,13 @@ ExperienceLevel    Good_RegularChampion_InfantryLevel5
 END
 
 
-ExperienceLevel    Good_RegularChampion_Infantry_Level6
+ExperienceLevel    Good_RegularChampon_Infantry_Level6
     TargetNames                       =    GOOD_REGULAR_CHAMPION
     RequiredExperience                =    EXPERIENCE_REQUIRED_REGULAR_CHAMPION_HORDE_6
     ExperienceAward                   =    EXPERIENCE_AWARD_REGULAR_CHAMPION_HORDE_6
-    Rank                              =    6
-    Upgrades                          =    Upgrade_ObjectLevel6 Upgrade_MiniHordeLvl6 Upgrade_EliteHordeLvl6
-    AttributeModifiers                =    RegularChampionHordeBonusRank6
-    LevelUpFx                         =    FX:GandalfLevelUp1FX
-    LevelUpTintColor                  =    R:255 G:255 B:255
-    LevelUpTintPreColorTime           =    500
-    LevelUpTintPostColorTime          =    3000
-    LevelUpTintSustainColorTime       =    500
-    EmotionType                       =    CHEER
-	SelectionDecal
-        Texture               =    decal_G_level4
-        Texture2              =    decal_good_CO
-        Style                 =    SHADOW_MERGE_DECAL
-        OpacityMin            =    80%
-        OpacityMax            =    100%
-        MinRadius             =    70
-        MaxRadius             =    200
-        MaxSelectedUnits      =    40
-    End
-END
-
-ExperienceLevel    Good_RegularChampion_InfantryLevel7
-    TargetNames                       =    GOOD_REGULAR_CHAMPION
-    RequiredExperience                =    EXPERIENCE_REQUIRED_REGULAR_CHAMPION_HORDE_7
-    ExperienceAward                   =    EXPERIENCE_AWARD_REGULAR_CHAMPION_HORDE_7
-    Rank                              =    7
-    Upgrades                          =    Upgrade_ObjectLevel7 Upgrade_MiniHordeLvl7 Upgrade_EliteHordeLvl7
-    AttributeModifiers                =    RegularChampionHordeBonusRank7
-    LevelUpFx                         =    FX:GandalfLevelUp1FX
-    LevelUpTintColor                  =    R:255 G:255 B:255
-    LevelUpTintPreColorTime           =    500
-    LevelUpTintPostColorTime          =    3000
-    LevelUpTintSustainColorTime       =    500
-    EmotionType                       =    CHEER
-    SelectionDecal
-        Texture               =    decal_G_level4
-        Texture2              =    decal_good_CO
-        Style                 =    SHADOW_MERGE_DECAL
-        OpacityMin            =    80%
-        OpacityMax            =    100%
-        MinRadius             =    40
-        MaxRadius             =    200
-        MaxSelectedUnits      =    40
-    End
-END
-
-ExperienceLevel    Good_RegularChampion_InfantryLevel8
-    TargetNames                       =    GOOD_REGULAR_CHAMPION
-    RequiredExperience                =    EXPERIENCE_REQUIRED_REGULAR_CHAMPION_HORDE_8
-    ExperienceAward                   =    EXPERIENCE_AWARD_REGULAR_CHAMPION_HORDE_8
-    Rank                              =    8
-    Upgrades                          =    Upgrade_ObjectLevel8 Upgrade_MiniHordeLvl8 Upgrade_EliteHordeLvl8
-    AttributeModifiers                =    RegularChampionHordeBonusRank8
-    LevelUpFx                         =    FX:GandalfLevelUp1FX
-    LevelUpTintColor                  =    R:255 G:255 B:255
-    LevelUpTintPreColorTime           =    500
-    LevelUpTintPostColorTime          =    3000
-    LevelUpTintSustainColorTime       =    500
-    EmotionType                       =    CHEER
-    SelectionDecal
-        Texture               =    decal_G_level4
-        Texture2              =    decal_good_CO
-        Style                 =    SHADOW_MERGE_DECAL
-        OpacityMin            =    80%
-        OpacityMax            =    100%
-        MinRadius             =    40
-        MaxRadius             =    200
-        MaxSelectedUnits      =    40
-    End
-END
-
-ExperienceLevel    Good_RegularChampion_InfantryLevel9
-    TargetNames                       =    GOOD_REGULAR_CHAMPION
-    RequiredExperience                =    EXPERIENCE_REQUIRED_REGULAR_CHAMPION_HORDE_9
-    ExperienceAward                   =    EXPERIENCE_AWARD_REGULAR_CHAMPION_HORDE_9
-    Rank                              =    9
-    Upgrades                          =    Upgrade_ObjectLevel9 Upgrade_MiniHordeLvl9 Upgrade_EliteHordeLvl9
-    AttributeModifiers                =    RegularChampionHordeBonusRank9
-    LevelUpFx                         =    FX:GandalfLevelUp1FX
-    LevelUpTintColor                  =    R:255 G:255 B:255
-    LevelUpTintPreColorTime           =    500
-    LevelUpTintPostColorTime          =    3000
-    LevelUpTintSustainColorTime       =    500
-    EmotionType                       =    CHEER
-    SelectionDecal
-        Texture               =    decal_G_level4
-        Texture2              =    decal_good_CO
-        Style                 =    SHADOW_MERGE_DECAL
-        OpacityMin            =    80%
-        OpacityMax            =    100%
-        MinRadius             =    40
-        MaxRadius             =    200
-        MaxSelectedUnits      =    40
-    End
-END
-
-ExperienceLevel    Good_RegularChampion_InfantryLevel10
-    TargetNames                       =    GOOD_REGULAR_CHAMPION
-    RequiredExperience                =    EXPERIENCE_REQUIRED_REGULAR_CHAMPION_HORDE_10
-    ExperienceAward                   =    EXPERIENCE_AWARD_REGULAR_CHAMPION_HORDE_10
-    Rank                              =    10
-    Upgrades                          =    Upgrade_ObjectLevel10 Upgrade_MiniHordeLvl10 Upgrade_EliteHordeLvl10
-    AttributeModifiers                =    RegularChampionHordeBonusRank10
-    LevelUpFx                         =    FX:GandalfLevelUp1FX
-    LevelUpTintColor                  =    R:255 G:255 B:255
-    LevelUpTintPreColorTime           =    500
-    LevelUpTintPostColorTime          =    3000
-    LevelUpTintSustainColorTime       =    500
-    EmotionType                       =    CHEER
-    SelectionDecal
-        Texture               =    decal_G_level4
-        Texture2              =    decal_good_CO
-        Style                 =    SHADOW_MERGE_DECAL
-        OpacityMin            =    80%
-        OpacityMax            =    100%
-        MinRadius             =    40
-        MaxRadius             =    200
-        MaxSelectedUnits      =    40
-    End
-END
-
-;----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-
-ExperienceLevel    Good_First_Age_Champion_Infantry_Level1
-    TargetNames                       =    GOOD_FIRST_AGE_CHAMPION
-    RequiredExperience                =    EXPERIENCE_REQUIRED_REGULAR_CHAMPION_HORDE_1
-    ExperienceAward                   =    EXPERIENCE_AWARD_REGULAR_CHAMPION_HORDE_1
     Rank                              =    1
-    Upgrades                          =    Upgrade_ObjectLevel1 Upgrade_MiniHordeLvl1 Upgrade_EliteHordeLvl1
-    SelectionDecal
-        Texture               =    decal_G_level1
-        Texture2              =    decal_good_CO
-        Style                 =    SHADOW_MERGE_DECAL
-        OpacityMin            =    80%
-        OpacityMax            =    100%
-        MinRadius             =    40
-        MaxRadius             =    200
-        MaxSelectedUnits      =    40
-    End
-END
-
-ExperienceLevel    Good_First_Age_Champion_InfantryLevel2
-    TargetNames                       =    GOOD_FIRST_AGE_CHAMPION
-    RequiredExperience                =    EXPERIENCE_REQUIRED_REGULAR_CHAMPION_HORDE_2
-    ExperienceAward                   =    EXPERIENCE_AWARD_REGULAR_CHAMPION_HORDE_2
-    Rank                              =    2
-    Upgrades                          =    Upgrade_ObjectLevel2 Upgrade_MiniHordeLvl2 Upgrade_EliteHordeLvl2
-    AttributeModifiers                =    FirstAgeChampionHordeBonusRank2
-    LevelUpFx                         =    FX:GandalfLevelUp1FX
-    LevelUpTintColor                  =    R:255 G:255 B:255
-    LevelUpTintPreColorTime           =    500
-    LevelUpTintPostColorTime          =    3000
-    LevelUpTintSustainColorTime       =    500
-    EmotionType                       =    CHEER
-    SelectionDecal
-        Texture               =    decal_G_level2
-        Texture2              =    decal_good_CO
-        Style                 =    SHADOW_MERGE_DECAL
-        OpacityMin            =    80%
-        OpacityMax            =    100%
-        MinRadius             =    40
-        MaxRadius             =    200
-        MaxSelectedUnits      =    40
-    End
-END
-
-ExperienceLevel    Good_First_Age_Champion_InfantryLevel3
-    TargetNames                       =    GOOD_FIRST_AGE_CHAMPION
-    RequiredExperience                =    EXPERIENCE_REQUIRED_REGULAR_CHAMPION_HORDE_3
-    ExperienceAward                   =    EXPERIENCE_AWARD_REGULAR_CHAMPION_HORDE_3
-    Rank                              =    3
-    Upgrades                          =    Upgrade_ObjectLevel3 Upgrade_MiniHordeLvl3 Upgrade_EliteHordeLvl3
-    AttributeModifiers                =    FirstAgeChampionHordeBonusRank3
-    LevelUpFx                         =    FX:GandalfLevelUp1FX
-    LevelUpTintColor                  =    R:255 G:255 B:255
-    LevelUpTintPreColorTime           =    500
-    LevelUpTintPostColorTime          =    3000
-    LevelUpTintSustainColorTime       =    500
-    EmotionType                       =    CHEER
-    SelectionDecal
-        Texture               =    decal_G_level3
-        Texture2              =    decal_good_CO
-        Style                 =    SHADOW_MERGE_DECAL
-        OpacityMin            =    80%
-        OpacityMax            =    100%
-        MinRadius             =    40
-        MaxRadius             =    200
-        MaxSelectedUnits      =    40
-    End
-END
-
-ExperienceLevel    Good_First_Age_Champion_InfantryLevel4
-    TargetNames                       =    GOOD_FIRST_AGE_CHAMPION
-    RequiredExperience                =    EXPERIENCE_REQUIRED_REGULAR_CHAMPION_HORDE_4
-    ExperienceAward                   =    EXPERIENCE_AWARD_REGULAR_CHAMPION_HORDE_4
-    Rank                              =    4
-    Upgrades                          =    Upgrade_ObjectLevel4 Upgrade_MiniHordeLvl4 Upgrade_EliteHordeLvl4
-    AttributeModifiers                =    FirstAgeChampionHordeBonusRank4
-    LevelUpFx                         =    FX:GandalfLevelUp1FX
-    LevelUpTintColor                  =    R:255 G:255 B:255
-    LevelUpTintPreColorTime           =    500
-    LevelUpTintPostColorTime          =    3000
-    LevelUpTintSustainColorTime       =    500
-    EmotionType                       =    CHEER
-    SelectionDecal
-        Texture               =    decal_G_level4
-        Texture2              =    decal_good_CO
-        Style                 =    SHADOW_MERGE_DECAL
-        OpacityMin            =    80%
-        OpacityMax            =    100%
-        MinRadius             =    40
-        MaxRadius             =    200
-        MaxSelectedUnits      =    40
-    End
-END
-
-ExperienceLevel    Good_First_Age_Champion_InfantryLevel5
-    TargetNames                       =    GOOD_FIRST_AGE_CHAMPION
-    RequiredExperience                =    EXPERIENCE_REQUIRED_REGULAR_CHAMPION_HORDE_5
-    ExperienceAward                   =    EXPERIENCE_AWARD_REGULAR_CHAMPION_HORDE_5
-    Rank                              =    5
-    Upgrades                          =    Upgrade_ObjectLevel5 Upgrade_MiniHordeLvl5 Upgrade_EliteHordeLvl5
-    AttributeModifiers                =    FirstAgeChampionHordeBonusRank5
-    LevelUpFx                         =    FX:GandalfLevelUp1FX
-    LevelUpTintColor                  =    R:255 G:255 B:255
-    LevelUpTintPreColorTime           =    500
-    LevelUpTintPostColorTime          =    3000
-    LevelUpTintSustainColorTime       =    500
-    EmotionType                       =    CHEER
-    SelectionDecal
-        Texture               =    decal_G_level4
-        Texture2              =    decal_good_CO
-        Style                 =    SHADOW_MERGE_DECAL
-        OpacityMin            =    80%
-        OpacityMax            =    100%
-        MinRadius             =    40
-        MaxRadius             =    200
-        MaxSelectedUnits      =    40
-    End
-END
-
-
-ExperienceLevel    Good_First_Age_Champion_Infantry_Level6
-    TargetNames                       =    GOOD_FIRST_AGE_CHAMPION
-    RequiredExperience                =    EXPERIENCE_REQUIRED_REGULAR_CHAMPION_HORDE_6
-    ExperienceAward                   =    EXPERIENCE_AWARD_REGULAR_CHAMPION_HORDE_6
-    Rank                              =    6
     Upgrades                          =    Upgrade_ObjectLevel6 Upgrade_MiniHordeLvl6 Upgrade_EliteHordeLvl6
-    AttributeModifiers                =    FirstAgeChampionHordeBonusRank6
-    LevelUpFx                         =    FX:GandalfLevelUp1FX
-    LevelUpTintColor                  =    R:255 G:255 B:255
-    LevelUpTintPreColorTime           =    500
-    LevelUpTintPostColorTime          =    3000
-    LevelUpTintSustainColorTime       =    500
-    EmotionType                       =    CHEER
-	SelectionDecal
+    SelectionDecal
         Texture               =    decal_G_level4
         Texture2              =    decal_good_CO
         Style                 =    SHADOW_MERGE_DECAL
@@ -3534,13 +3158,13 @@ ExperienceLevel    Good_First_Age_Champion_Infantry_Level6
     End
 END
 
-ExperienceLevel    Good_First_Age_Champion_InfantryLevel7
-    TargetNames                       =    GOOD_FIRST_AGE_CHAMPION
+ExperienceLevel    Good_RegularChampon_InfantryLevel7
+    TargetNames                       =    GOOD_REGULAR_CHAMPION
     RequiredExperience                =    EXPERIENCE_REQUIRED_REGULAR_CHAMPION_HORDE_7
     ExperienceAward                   =    EXPERIENCE_AWARD_REGULAR_CHAMPION_HORDE_7
-    Rank                              =    7
+    Rank                              =    2
     Upgrades                          =    Upgrade_ObjectLevel7 Upgrade_MiniHordeLvl7 Upgrade_EliteHordeLvl7
-    AttributeModifiers                =    FirstAgeChampionHordeBonusRank7
+    AttributeModifiers                =    RegularChamponHordeBonusRank7
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -3559,38 +3183,13 @@ ExperienceLevel    Good_First_Age_Champion_InfantryLevel7
     End
 END
 
-ExperienceLevel    Good_First_Age_Champion_InfantryLevel8
-    TargetNames                       =    GOOD_FIRST_AGE_CHAMPION
+ExperienceLevel    Good_RegularChampon_InfantryLevel8
+    TargetNames                       =    GOOD_REGULAR_CHAMPION
     RequiredExperience                =    EXPERIENCE_REQUIRED_REGULAR_CHAMPION_HORDE_8
     ExperienceAward                   =    EXPERIENCE_AWARD_REGULAR_CHAMPION_HORDE_8
-    Rank                              =    8
+    Rank                              =    3
     Upgrades                          =    Upgrade_ObjectLevel8 Upgrade_MiniHordeLvl8 Upgrade_EliteHordeLvl8
-    AttributeModifiers                =    FirstAgeChampionHordeBonusRank8
-    LevelUpFx                         =    FX:GandalfLevelUp1FX
-    LevelUpTintColor                  =    R:255 G:255 B:255
-    LevelUpTintPreColorTime           =    500
-    LevelUpTintPostColorTime          =    3000
-    LevelUpTintSustainColorTime       =    500
-    EmotionType                       =    CHEER
-    SelectionDecal
-        Texture               =    decal_G_level8
-        Texture2              =    decal_good_CO
-        Style                 =    SHADOW_MERGE_DECAL
-        OpacityMin            =    80%
-        OpacityMax            =    100%
-        MinRadius             =    40
-        MaxRadius             =    200
-        MaxSelectedUnits      =    40
-    End
-END
-
-ExperienceLevel    Good_First_Age_Champion_InfantryLevel9
-    TargetNames                       =    GOOD_FIRST_AGE_CHAMPION
-    RequiredExperience                =    EXPERIENCE_REQUIRED_REGULAR_CHAMPION_HORDE_9
-    ExperienceAward                   =    EXPERIENCE_AWARD_REGULAR_CHAMPION_HORDE_9
-    Rank                              =    9
-    Upgrades                          =    Upgrade_ObjectLevel9 Upgrade_MiniHordeLvl9 Upgrade_EliteHordeLvl9
-    AttributeModifiers                =    FirstAgeChampionHordeBonusRank9
+    AttributeModifiers                =    RegularChamponHordeBonusRank8
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -3609,13 +3208,38 @@ ExperienceLevel    Good_First_Age_Champion_InfantryLevel9
     End
 END
 
-ExperienceLevel    Good_First_Age_Champion_InfantryLevel10
-    TargetNames                       =    GOOD_FIRST_AGE_CHAMPION
+ExperienceLevel    Good_RegularChampon_InfantryLevel9
+    TargetNames                       =    GOOD_REGULAR_CHAMPION
+    RequiredExperience                =    EXPERIENCE_REQUIRED_REGULAR_CHAMPION_HORDE_9
+    ExperienceAward                   =    EXPERIENCE_AWARD_REGULAR_CHAMPION_HORDE_9
+    Rank                              =    4
+    Upgrades                          =    Upgrade_ObjectLevel9 Upgrade_MiniHordeLvl9 Upgrade_EliteHordeLvl9
+    AttributeModifiers                =    RegularChamponHordeBonusRank9
+    LevelUpFx                         =    FX:GandalfLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+    SelectionDecal
+        Texture               =    decal_G_level4
+        Texture2              =    decal_good_CO
+        Style                 =    SHADOW_MERGE_DECAL
+        OpacityMin            =    80%
+        OpacityMax            =    100%
+        MinRadius             =    40
+        MaxRadius             =    200
+        MaxSelectedUnits      =    40
+    End
+END
+
+ExperienceLevel    Good_RegularChampon_InfantryLevel10
+    TargetNames                       =    GOOD_REGULAR_CHAMPION
     RequiredExperience                =    EXPERIENCE_REQUIRED_REGULAR_CHAMPION_HORDE_10
     ExperienceAward                   =    EXPERIENCE_AWARD_REGULAR_CHAMPION_HORDE_10
-    Rank                              =    10
-    Upgrades                          =    Upgrade_ObjectLevel10 Upgrade_MiniHordeLvl10 Upgrade_EliteHordeLvl10
-    AttributeModifiers                =    FirstAgeChampionHordeBonusRank10
+    Rank                              =    5
+    Upgrades                          =    Upgrade_ObjectLevel1 Upgrade_MiniHordeLvl1 Upgrade_EliteHordeLvl10
+    AttributeModifiers                =    RegularChamponHordeBonusRank5
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -3750,7 +3374,7 @@ ExperienceLevel    Good_First_Age_RegularInfantryLevel5
     InformUpdateModule                =    Yes
     Rank                              =    5
     AttributeModifiers                =    First_Age_RegularInfantryHordeBonusRank5
-    Upgrades                          =    Upgrade_ObjectLevel5 Upgrade_MiniHordeLvl5 Upgrade_EliteHordeLvl5 Upgrade_FormenosForgedBlades
+    Upgrades                          =    Upgrade_ObjectLevel5 Upgrade_MiniHordeLvl5 Upgrade_EliteHordeLvl5
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -3804,7 +3428,7 @@ ExperienceLevel    Good_First_Age_RegularInfantryLevel7
     InformUpdateModule                =    Yes
     Rank                              =    7
     AttributeModifiers                =    First_Age_RegularInfantryHordeBonusRank7
-    Upgrades                          =    Upgrade_ObjectLevel7 Upgrade_MiniHordeLvl7 Upgrade_EliteHordeLvl7
+    Upgrades                          =    Upgrade_ObjectLevel7 Upgrade_MiniHordeLvl7 Upgrade_EliteHordeLvl7 Upgrade_FormenosForgedBlades
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -4023,7 +3647,7 @@ ExperienceLevel    Good_First_Age_EliteInfantryLevel5
     InformUpdateModule                =    Yes
     Rank                              =    5
     AttributeModifiers                =    First_Age_EliteInfantryHordeBonusRank5
-    Upgrades                          =    Upgrade_ObjectLevel5 Upgrade_MiniHordeLvl5 Upgrade_EliteHordeLvl5 Upgrade_FormenosForgedBlades
+    Upgrades                          =    Upgrade_ObjectLevel5 Upgrade_MiniHordeLvl5 Upgrade_EliteHordeLvl5
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -4077,7 +3701,7 @@ ExperienceLevel    Good_First_Age_EliteInfantryLevel7
     InformUpdateModule                =    Yes
     Rank                              =    7
     AttributeModifiers                =    First_Age_EliteInfantryHordeBonusRank7
-    Upgrades                          =    Upgrade_ObjectLevel7 Upgrade_MiniHordeLvl7 Upgrade_EliteHordeLvl7
+    Upgrades                          =    Upgrade_ObjectLevel7 Upgrade_MiniHordeLvl7 Upgrade_EliteHordeLvl7 Upgrade_FormenosForgedBlades
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -4295,7 +3919,7 @@ ExperienceLevel    Good_First_Age_BetterFlyingLevel5
     InformUpdateModule                =    Yes
     Rank                              =    5
     AttributeModifiers                =    First_Age_BetterFlyingHordeBonusRank5
-    Upgrades                          =    Upgrade_ObjectLevel5 Upgrade_MiniHordeLvl5 Upgrade_EliteHordeLvl5 Upgrade_FormenosForgedBlades
+    Upgrades                          =    Upgrade_ObjectLevel5 Upgrade_MiniHordeLvl5 Upgrade_EliteHordeLvl5
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -4349,7 +3973,7 @@ ExperienceLevel    Good_First_Age_BetterFlyingLevel7
     InformUpdateModule                =    Yes
     Rank                              =    7
     AttributeModifiers                =    First_Age_BetterFlyingHordeBonusRank7
-    Upgrades                          =    Upgrade_ObjectLevel7 Upgrade_MiniHordeLvl7 Upgrade_EliteHordeLvl7
+    Upgrades                          =    Upgrade_ObjectLevel7 Upgrade_MiniHordeLvl7 Upgrade_EliteHordeLvl7 Upgrade_FormenosForgedBlades
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -5177,7 +4801,7 @@ ExperienceLevel    Good_Elite_CavLevel5
     InformUpdateModule                =    Yes
     Rank                              =    5
     AttributeModifiers                =    EliteCavHordeBonusRank5
-    Upgrades                          =    Upgrade_ObjectLevel5 Upgrade_MiniHordeLvl5 Upgrade_EliteHordeLvl5 Upgrade_FormenosForgedBlades
+    Upgrades                          =    Upgrade_ObjectLevel5 Upgrade_MiniHordeLvl5 Upgrade_EliteHordeLvl5
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
@@ -5231,7 +4855,7 @@ ExperienceLevel    Good_Elite_CavLevel7
     InformUpdateModule                =    Yes
     Rank                              =    7
     AttributeModifiers                =    EliteCavHordeBonusRank7
-    Upgrades                          =    Upgrade_ObjectLevel7 Upgrade_MiniHordeLvl7 Upgrade_EliteHordeLvl7
+    Upgrades                          =    Upgrade_ObjectLevel7 Upgrade_MiniHordeLvl7 Upgrade_EliteHordeLvl7 Upgrade_FormenosForgedBlades
     LevelUpFx                         =    FX:GandalfLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500

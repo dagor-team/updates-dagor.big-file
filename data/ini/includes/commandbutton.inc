@@ -115,8 +115,8 @@ CommandButton Command_SelectRevivablesMenegrothFortress
   TextLabel               = CONTROLBAR:SelectRevivablesMenegrothFortress
   DescriptLabel           = CONTROLBAR:ToolTipSelectRevivablesMenegrothFortress
   Radial                  = Yes
-  CommandRangeStart       = 16
-  CommandRangeCount       = 17
+  CommandRangeStart       = 14
+  CommandRangeCount       = 18
 End
 
 CommandButton Command_SelectUpgradesMenegrothFortress
@@ -137,7 +137,7 @@ CommandButton Command_SelectUnitsMenegrothFortress
   TextLabel               = CONTROLBAR:SelectUnitsMenegrothFortress
   DescriptLabel           = CONTROLBAR:ToolTipSelectUnitsMenegrothFortress
   Radial                  = Yes
-  CommandRangeStart       = 11
+  CommandRangeStart       = 10
   CommandRangeCount       = 5
 End
 
@@ -417,8 +417,8 @@ CommandButton Command_SelectUnitsAngbandThangorodrim
   TextLabel               = CONTROLBAR:SelectUnitsAngbandThangorodrim
   DescriptLabel           = CONTROLBAR:ToolTipSelectUnitsAngbandThangorodrim
   Radial                  = Yes
-  CommandRangeStart       = 8
-  CommandRangeCount       = 5
+  CommandRangeStart       = 9
+  CommandRangeCount       = 4
 End
 
 CommandButton Command_SelectRevivablesFormenosFortress
@@ -679,7 +679,7 @@ End
 CommandButton Command_ToggleFormationRhunschwerter
   Command                 = HORDE_TOGGLE_FORMATION
   Options                 = TOGGLE_IMAGE_ON_FORMATION OK_FOR_MULTI_SELECT OK_FOR_MULTI_EXECUTE
-  ButtonImage             = BIRedDoubleLineUp BIRedMarchformation
+  ButtonImage             = UCFormation_MenegrothGuard UCCommon_PorcupineFormationOff
   ButtonBorderType        = ACTION
   TextLabel               = CONTROLBAR:ToggleShieldWallFormation    CONTROLBAR:ToggleLineFormation
   DescriptLabel           = CONTROLBAR:ToolTipToggleRhunschwerterLineToShieldWallFormation    CONTROLBAR:ToolTipToggleTowerGuardShieldWallToLineFormation
@@ -933,83 +933,4 @@ CommandButton Command_DiplomacyGimli
   DescriptLabel               = CONTROLBAR:ToolTipSpecialAbilityGimliDiplomacy
   InPalantir            = Yes
   AutoAbility            = Yes
-End
-
-CommandButton Command_ArveduiFavour
-  Command                     = SPECIAL_POWER
-  SpecialPower                = SpecialAbilityArveduiFavour
-  Options                     = NEED_TARGET_ALLY_OBJECT
-  TextLabel                   = CONTROLBAR:SpecialAbilityFavourArvedui
-  CursorName                  = Defector
-  InvalidCursorName           = GenericInvalid
-  ButtonImage                 = HSArveduiFavour
-  ButtonBorderType            = ACTION
-  DescriptLabel               = CONTROLBAR:ToolTipSpecialAbilityFavourArvedui
-  InPalantir            = Yes
-  AutoAbility            = Yes
-End
-
-CommandButton Command_SpecialAbilityMahudRaserei 
-    Command                 = SPECIAL_POWER
-    SpecialPower            = SpecialAbilityMahudRaserei 
-    Options                 = OK_FOR_MULTI_SELECT OK_FOR_MULTI_EXECUTE
-    TextLabel               = CONTROLBAR:SpecialAbilityMahudRaserei
-    ButtonImage             = _uHaradMhdFiMahudRaserei
-    RadiusCursorType        = TrainingRadiusCursor    
-    ButtonBorderType        = ACTION
-    DescriptLabel           = CONTROLBAR:TooltipSpecialAbilityMahudRaserei
-    InPalantir    = Yes
-	AutoAbility   = Yes
-End
-
-CommandButton Command_SpecialAbilityMahudGuardMumak
-  Command                   = SPECIAL_POWER 
-  SpecialPower              = SpecialAbilityMahudGuardMumak
-  Options                   = NEED_TARGET_ALLY_OBJECT ; CONTEXTMODE_COMMAND
-  TextLabel                 = CONTROLBAR:GuardMumakMahud
-  CursorName                = Defector
-  InvalidCursorName         = GenericInvalid 
-  ButtonImage               = _uHaradMhdFiMahudGuardMumak
-  ButtonBorderType          = ACTION 
-  DescriptLabel             = CONTROLBAR:TooltipGuardMumakMahud
-  InPalantir      = Yes
-  AutoAbility     = Yes  
-  DisableOnModelCondition = USER_74
-End
-
-CommandButton Command_ToggleFormationEvilMenHaradrimSoldier
-    Command            = HORDE_TOGGLE_FORMATION                ; Gondor Soldier
-    Options            = TOGGLE_IMAGE_ON_FORMATION OK_FOR_MULTI_SELECT
-    ButtonImage        = UCFormation_Block UCFormation_Line
-    ButtonBorderType    = ACTION 
-    TextLabel        = CONTROLBAR:ToggleFormationHaradSouthWatcher         CONTROLBAR:ToggleFormationBackHaradSouthWatcher
-    DescriptLabel        = CONTROLBAR:ToolTipToggleFormationHaradSouthWatcher  CONTROLBAR:ToolTipToggleFormationBackHaradSouthWatcher
-    InPalantir        = Yes
-    DoubleClick        = Yes
-    UnitSpecificSound    = HaradrimVoiceWedgeFormation HaradrimVoiceLineFormation
-    DisableOnModelCondition = USER_74
-End
-
-CommandButton Command_ConstructHaradSouthWatcherHorde
-    Command                 = UNIT_BUILD
-    Object                  = HaradSouthWatcherHorde
-    Options                 = CANCELABLE
-    TextLabel               = CONTROLBAR:ConstructHaradMahudFighterHorde
-    ButtonImage             = __uMuhadButton ;UISouthWatcher
-    ButtonBorderType        = ACTION ;BUILD
-    DescriptLabel           = CONTROLBAR:ToolTipConstructHaradMahudFighterHorde
-    Radial                  = Yes
-    InPalantir              = Yes
-    ShowProductionCount     = Yes 
-    DisableOnModelCondition = USER_74
-End
-
-CommandButton Command_PorterConstructEvilMenMarketPlace
-    Command                = DOZER_CONSTRUCT
-    Object                = EvilMenMarketplace
-    TextLabel            = CONTROLBAR:ConstructMenMarketPlace
-    ButtonImage            = BGMarketplace
-    ButtonBorderType    = BUILD
-    DescriptLabel        = CONTROLBAR:ToolTipConstructMenMarketPlace
-    Radial                = Yes
 End

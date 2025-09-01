@@ -341,22 +341,24 @@ function SpyMoving(self, other)
     print(ObjectDescription(self).." spying movement of "..ObjectDescription(other));
 end
 
-function EcthelionConsiderUsingDefensePower(self, other, delay, amount)
-   -- Put up the shield if a big attack is coming and we have time to block it
-   if tonumber(delay) > 1 then
-       if tonumber(amount) >= 100 then
-           ObjectDoSpecialPower(self, "SpecialPowerShieldBubble")
-           return
-       end
-   end
-end
+--function GandalfConsiderUsingDefensePower(self, other, delay, amount)
+--    -- Put up the shield if a big attack is coming and we have time to block it
+--    if tonumber(delay) > 1 then
+--        if tonumber(amount) >= 100 then
+--            ObjectDoSpecialPower(self, "SpecialPowerShieldBubble")
+--            return
+--        end
+--    end
+--    
+--    -- Or, if we are being hit and there are alot of guys arround, do our cool pushback power
+--    if tonumber(ObjectCountNearbyEnemies(self, 50)) >= 4 then
+--        ObjectDoSpecialPower(self, "SpecialPowerTelekeneticPush")
+--        return
+--    end
+--end
 
 function GandalfTriggerWizardBlast(self)
     ObjectCreateAndFireTempWeapon(self, "GandalfWizardBlast")
-end
-
-function ObjectTriggerEnrageEnemies(self)
-    ObjectCreateAndFireTempWeapon(self, "GimliSturheitWeapon")
 end
 
 --function SarumanConsiderUsingDefensePower(self, other, delay, amount)
@@ -884,23 +886,6 @@ function OnKingAftermath(self)
     ObjectRemoveUpgrade( self, "Upgrade_TestBuilding_2" )
 end
 
-function OrcristShow(self)
-	ObjectGrantUpgrade( self, "Upgrade_TestBuilding_2" )
-	ObjectRemoveUpgrade( self, "Upgrade_TestBuilding" )
-end
-
-function OrcristHide(self)
-	ObjectRemoveUpgrade( self, "Upgrade_TestBuilding_2" )
-	ObjectGrantUpgrade( self, "Upgrade_TestBuilding" )
-end
-
-function UnleashCurse(self, other, delay, amount)
-	if tonumber(ObjectCountNearbyEnemies(self, 6)) >= 1 then
-        ObjectDoSpecialPower(self, "SpecialAbilityThorinCurse")
-        return
-    end
-end
-
 function OnArveduiBuild(self)
     ObjectGrantUpgrade( self, "Upgrade_TestBuilding" )
 end
@@ -1167,17 +1152,6 @@ end
 
 function OffRetterinderNot(self)
    ObjectRemoveUpgrade( self, "Upgrade_RaiseSchmiedekunst" )
-end
-
-function AttackSpeedChange(self)
-	ObjectDoSpecialPower( self, "SpecialAbilityWolfCult" )
-end
-function OnSnowStormCreated(self)
-	ObjectDoSpecialPower( self, "SpecialAbilitySnowStormFX" )
-end
-function RemoveSarumanChosenSide(self)
-    ObjectRemoveUpgrade( self, "Upgrade_SarumanFire" )
-    ObjectRemoveUpgrade( self, "Upgrade_SarumanBlessed" )
 end
 
 function OnThranduilUser8(self)

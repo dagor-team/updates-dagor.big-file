@@ -25412,7 +25412,7 @@ Weapon AngmarWitchkingSchattenklingeRing
     End
 End
 
-Weapon VeryStrongHeroCrush
+Weapon AngmarWitchkingCrush
   LeechRangeWeapon      = Yes
   AttackRange           = 9999999.0
   MeleeWeapon           = No
@@ -38809,7 +38809,7 @@ Weapon NaturmagierWurzelnEffecktWeapon
 
 End
 
-Weapon WachterderweissenStadtSword
+Weapon WachterderweiﬂenStadtSword
   LeechRangeWeapon      = Yes
   AttackRange           = STANDARD_MELEE_ATTACK_RANGE
   MeleeWeapon           = Yes

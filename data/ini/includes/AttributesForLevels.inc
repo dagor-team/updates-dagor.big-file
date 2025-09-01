@@ -183,6 +183,38 @@ End
 ;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
+ModifierList RegularChampionHordeBonusRank2
+    Category = LEVEL
+    Modifier = HEALTH REGULAR_CHAMPION_HORDE_HP_ADD_LVL2
+    Modifier = DAMAGE_ADD REGULAR_CHAMPION_HORDE_DAMAGE_ADD_LVL2
+    Duration = 0
+End
+
+ModifierList RegularChampionHordeBonusRank3
+    Category = LEVEL
+    Modifier = HEALTH REGULAR_CHAMPION_HORDE_HP_ADD_LVL3
+    Modifier = DAMAGE_ADD REGULAR_CHAMPION_HORDE_DAMAGE_ADD_LVL3
+    Duration = 0
+End
+
+ModifierList RegularChampionHordeBonusRank4
+    Category = LEVEL
+    Modifier = HEALTH REGULAR_CHAMPION_HORDE_HP_ADD_LVL4
+    Modifier = DAMAGE_ADD REGULAR_CHAMPION_HORDE_DAMAGE_ADD_LVL4
+    Duration = 0
+End
+
+ModifierList RegularChampionHordeBonusRank5
+    Category = LEVEL
+    Modifier = HEALTH REGULAR_CHAMPION_HORDE_HP_ADD_LVL5
+    Modifier = DAMAGE_ADD REGULAR_CHAMPION_HORDE_DAMAGE_ADD_LVL5
+    Duration = 0
+End
+
+
+;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 ModifierList RegularImladrisHordeBonusRank2
     Category = LEVEL
     Modifier = HEALTH REGULAR_HORDE_HP_ADD_LVL2 ImladrisFighterRank2 ImladrisBannerLeadership
@@ -248,7 +280,7 @@ End
 
 ModifierList AdvancedImladrisHordeBonusRank2
     Category = LEVEL
-    Modifier = HEALTH ADVANCED5_HORDE_HP_ADD_LVL2 ImladrisLancerRank2 ImladrisBannerLeadership
+    Modifier = HEALTH ADVANCED5_HORDE_HP_ADD_LVL2 ImladrisLancerRank2 ImladrisArcherRank2 ImladrisBannerLeadership
     Modifier = DAMAGE_ADD ADVANCED5_HORDE_DAMAGE_ADD_LVL2
     Duration = 0
 End
@@ -278,7 +310,7 @@ End
 
 ModifierList AdvancedImladrisMagesHordeBonusRank2
     Category = LEVEL
-    Modifier = HEALTH ADVANCED3_HORDE_HP_ADD_LVL2 ImladrisLancerRank2  ImladrisBannerLeadership
+    Modifier = HEALTH ADVANCED3_HORDE_HP_ADD_LVL2 ImladrisLancerRank2 ImladrisArcherRank2 ImladrisBannerLeadership
     Modifier = DAMAGE_ADD ADVANCED3_HORDE_DAMAGE_ADD_LVL2
     Duration = 0
 End
@@ -699,140 +731,37 @@ End
 ;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-ModifierList RegularChampionHordeBonusRank2
+ModifierList RegularChamponHordeBonusRank2
     Category = LEVEL
     Modifier = HEALTH REGULAR_CHAMPION_HORDE_HP_ADD_LVL2
     Modifier = DAMAGE_ADD REGULAR_CHAMPION_HORDE_DAMAGE_ADD_LVL2
     Duration = 0
 End
 
-ModifierList RegularChampionHordeBonusRank3
+ModifierList RegularChamponHordeBonusRank3
     Category = LEVEL
     Modifier = HEALTH REGULAR_CHAMPION_HORDE_HP_ADD_LVL3
     Modifier = DAMAGE_ADD REGULAR_CHAMPION_HORDE_DAMAGE_ADD_LVL3
     Duration = 0
 End
 
-ModifierList RegularChampionHordeBonusRank4
+ModifierList RegularChamponHordeBonusRank4
     Category = LEVEL
     Modifier = HEALTH REGULAR_CHAMPION_HORDE_HP_ADD_LVL4
     Modifier = DAMAGE_ADD REGULAR_CHAMPION_HORDE_DAMAGE_ADD_LVL4
     Duration = 0
 End
 
-ModifierList RegularChampionHordeBonusRank5
+ModifierList RegularChamponHordeBonusRank5
     Category = LEVEL
     Modifier = HEALTH REGULAR_CHAMPION_HORDE_HP_ADD_LVL5
     Modifier = DAMAGE_ADD REGULAR_CHAMPION_HORDE_DAMAGE_ADD_LVL5
     Duration = 0
 End
 
-ModifierList RegularChampionHordeBonusRank6
-    Category = LEVEL
-    Modifier = HEALTH REGULAR_CHAMPION_HORDE_HP_ADD_LVL6
-    Modifier = DAMAGE_ADD REGULAR_CHAMPION_HORDE_DAMAGE_ADD_LVL6
-    Duration = 0
-End
-
-ModifierList RegularChampionHordeBonusRank7
-    Category = LEVEL
-    Modifier = HEALTH REGULAR_CHAMPION_HORDE_HP_ADD_LVL7
-    Modifier = DAMAGE_ADD REGULAR_CHAMPION_HORDE_DAMAGE_ADD_LVL7
-    Duration = 0
-End
-
-ModifierList RegularChampionHordeBonusRank8
-    Category = LEVEL
-    Modifier = HEALTH REGULAR_CHAMPION_HORDE_HP_ADD_LVL8
-    Modifier = DAMAGE_ADD REGULAR_CHAMPION_HORDE_DAMAGE_ADD_LVL8
-    Duration = 0
-End
-
-ModifierList RegularChampionHordeBonusRank9
-    Category = LEVEL
-    Modifier = HEALTH REGULAR_CHAMPION_HORDE_HP_ADD_LVL9
-    Modifier = DAMAGE_ADD REGULAR_CHAMPION_HORDE_DAMAGE_ADD_LVL9
-    Duration = 0
-End
-
-ModifierList RegularChampionHordeBonusRank10
-    Category = LEVEL
-    Modifier = HEALTH REGULAR_CHAMPION_HORDE_HP_ADD_LVL10
-    Modifier = DAMAGE_ADD REGULAR_CHAMPION_HORDE_DAMAGE_ADD_LVL10
-    Duration = 0
-End
-
 ;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-
-
-ModifierList FirstAgeChampionHordeBonusRank2
-    Category = LEVEL
-    Modifier = HEALTH FIRST_AGE_CHAMPION_HORDE_HP_ADD_LVL2
-    Modifier = DAMAGE_ADD FIRST_AGE_CHAMPION_HORDE_DAMAGE_ADD_LVL2
-    Duration = 0
-End
-
-ModifierList FirstAgeChampionHordeBonusRank3
-    Category = LEVEL
-    Modifier = HEALTH  FIRST_AGE_CHAMPION_HORDE_HP_ADD_LVL3
-    Modifier = DAMAGE_ADD FIRST_AGE_CHAMPION_HORDE_DAMAGE_ADD_LVL3
-    Duration = 0
-End
-
-ModifierList FirstAgeChampionHordeBonusRank4
-    Category = LEVEL
-    Modifier = HEALTH  FIRST_AGE_CHAMPION_HORDE_HP_ADD_LVL4
-    Modifier = DAMAGE_ADD FIRST_AGE_CHAMPION_HORDE_DAMAGE_ADD_LVL4
-    Duration = 0
-End
-
-ModifierList FirstAgeChampionHordeBonusRank5
-    Category = LEVEL
-    Modifier = HEALTH  FIRST_AGE_CHAMPION_HORDE_HP_ADD_LVL5
-    Modifier = DAMAGE_ADD FIRST_AGE_CHAMPION_HORDE_DAMAGE_ADD_LVL5
-    Duration = 0
-End
-
-ModifierList FirstAgeChampionHordeBonusRank6
-    Category = LEVEL
-    Modifier = HEALTH  FIRST_AGE_CHAMPION_HORDE_HP_ADD_LVL6
-    Modifier = DAMAGE_ADD FIRST_AGE_CHAMPION_HORDE_DAMAGE_ADD_LVL6
-    Duration = 0
-End
-
-ModifierList FirstAgeChampionHordeBonusRank7
-    Category = LEVEL
-    Modifier = HEALTH  FIRST_AGE_CHAMPION_HORDE_HP_ADD_LVL7
-    Modifier = DAMAGE_ADD FIRST_AGE_CHAMPION_HORDE_DAMAGE_ADD_LVL7
-    Duration = 0
-End
-
-ModifierList FirstAgeChampionHordeBonusRank8
-    Category = LEVEL
-    Modifier = HEALTH  FIRST_AGE_CHAMPION_HORDE_HP_ADD_LVL8
-    Modifier = DAMAGE_ADD  FIRST_AGE_CHAMPION_HORDE_DAMAGE_ADD_LVL8
-    Duration = 0
-End
-
-ModifierList FirstAgeChampionHordeBonusRank9
-    Category = LEVEL
-    Modifier = HEALTH  FIRST_AGE_CHAMPION_HORDE_HP_ADD_LVL9
-    Modifier = DAMAGE_ADD FIRST_AGE_CHAMPION_HORDE_DAMAGE_ADD_LVL9
-    Duration = 0
-End
-
-ModifierList FirstAgeChampionHordeBonusRank10
-    Category = LEVEL
-    Modifier = HEALTH  FIRST_AGE_CHAMPION_HORDE_HP_ADD_LVL10
-    Modifier = DAMAGE_ADD FIRST_AGE_CHAMPION_HORDE_DAMAGE_ADD_LVL10
-    Duration = 0
-End
-
-
-
-;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ModifierList First_Age_RegularInfantryHordeBonusRank2
     Category = LEVEL
@@ -1506,6 +1435,7 @@ ModifierList ArcherCavHordeBonusRank2
     Category = LEVEL
     Modifier = HEALTH REGULARCAV_HORDE_HP_ADD_LVL2
     Modifier = DAMAGE_ADD ARCHERCAV_HORDE_DAMAGE_ADD_LVL2
+	Modifier = RANGE 4%
     Duration = 0
 End
 
@@ -1513,6 +1443,7 @@ ModifierList ArcherCavHordeBonusRank3
     Category = LEVEL
     Modifier = HEALTH REGULARCAV_HORDE_HP_ADD_LVL3
     Modifier = DAMAGE_ADD ARCHERCAV_HORDE_DAMAGE_ADD_LVL3
+	Modifier = RANGE 4%
     Duration = 0
 End
 
@@ -1520,6 +1451,7 @@ ModifierList ArcherCavHordeBonusRank4
     Category = LEVEL
     Modifier = HEALTH REGULARCAV_HORDE_HP_ADD_LVL4
     Modifier = DAMAGE_ADD ARCHERCAV_HORDE_DAMAGE_ADD_LVL4
+	Modifier = RANGE 4%
     Duration = 0
 End
 
@@ -1527,6 +1459,7 @@ ModifierList ArcherCavHordeBonusRank5
     Category = LEVEL
     Modifier = HEALTH REGULARCAV_HORDE_HP_ADD_LVL5
     Modifier = DAMAGE_ADD ARCHERCAV_HORDE_DAMAGE_ADD_LVL5
+	Modifier = RANGE 4%
     Duration = 0
 End
 
