@@ -447,7 +447,15 @@ CONTROLBAR:EasterlingKataphraktCharge
 END
 
 CONTROLBAR:TooltipEasterlingKataphraktCharge
-"Requires: Level 4 \n The Kataphrakts charge down the enemies of Rhun, gaining +25% speed and half the loss of speed when trampling; however, they lose -50% attack \n Left-click to activate"
+"Requires: Level 7 \n The Kataphrakts charge down the enemies of Rhun, gaining +25% speed and half the loss of speed when trampling; however, they lose -50% attack \n Left-click to activate"
+END
+
+CONTROLBAR:KataphractCurvedBlades
+"Curved Sabres"
+END
+
+CONTROLBAR:TooltipKataphractCurvedBlades
+"Requires: Level 3 \n The Kataphrakts engage enemy cavalry in mounted combat with their sabres giving them an edge \n for 35 seconds Kataphrakts gain 15% speed and deal 100 more damage to enemy cavalry \n Left-click to activate"
 END
 
 CONTROLBAR:EasterlingGuardCharge
@@ -22196,7 +22204,7 @@ CONTROLBAR:ConstructIsenfurtReiterHorde
 END
 
 CONTROLBAR:ToolTipBuildIsenfurtReiterHorde
-"Requires: Stables Level 3 \n Heavy Cavalry \n Strong vs: Infantry and Archers"
+"Requires: Stables Level 3 \n Class: Heavy Cavalry \n Strong in melee \n Weak trample capacity"
 END
 
 CONTROLBAR:ConstructIsenfurtWachterHorde
@@ -24937,7 +24945,7 @@ TOOLTIP:LackEvilmenPorter
 END
 
 CONTROLBAR:ToolTipBuildEvilmenrhunreiterHorde
-"Requires: Stable Level 3  \n Unit Type: Regular Cavalry \n Class: Heavy Cavalry \n Strong in melee \n Weak vs: Pikemen and Monsters"
+"Requires: Stable Level 3  \n Unit Type: Regular Cavalry \n Class: Heavy Cavalry \n Strong in melee \n Weak trample capacity"
 END
 
 CONTROLBAR:ConstructEvilmenrhunreiterHorde
@@ -24965,7 +24973,7 @@ CONTROLBAR:LW_Unit_EvilmenRhunriderHorde
 END
 
 CONTROLBAR:LW_ToolTip_EvilmenRhunriderHorde
-"\n Heavy Cavalry \n Strong vs: Archers"
+"Unit Type: Regular Cavalry \n Class: Heavy Cavalry \n Strong in melee \n Weak trample capacity"
 END
 
 OBJECT:MordorStall
@@ -54962,7 +54970,7 @@ CONTROLBAR:ConstructGondorKnightHorde
 END
 
 CONTROLBAR:ToolTipBuildGondorKnightHorde
-"Unit Type: Regular Cavalry \n Strong vs: Swordsmen, Archers \n Weak vs: Pikemen, Monsters"
+"Unit Type: Regular Cavalry \n Class: Heavy Cavalry \n Strong in melee \n Weak trample capacity"
 END
 
 BANNERUI:GondorKnight
@@ -54982,11 +54990,11 @@ CONTROLBAR:LW_Unit_GondorKnightHordePlural
 END
 
 CONTROLBAR:LW_ToolTipBuild_GondorKnightHorde
-"Unit Type: Basic Cavalry\nStrong vs: Archers\n"
+"Unit Type: Regular Cavalry \n Class: Heavy Cavalry \n Strong in melee \n Weak trample capacity"
 END
 
 CONTROLBAR:LW_ToolTip_GondorKnightHorde
-"\nUnit Type: Basic Cavalry\n Strong vs: Archers"
+"\nUnit Type: Regular Cavalry\n Class: Heavy Cavalry \n Strong in melee \n Weak trample capacity"
 END
 
 OBJECT:GondorKnightsofDol
@@ -55002,11 +55010,11 @@ CONTROLBAR:ConstructGondorKnightsofDolHorde
 END
 
 CONTROLBAR:ToolTipBuildGondorKnightsofDolHorde
-"Requires: Prince Imrahil on the battlefield and Stables Level 3 \n Unit Type: Elite Cavalry \n Strong vs: Infantry, Cavalry, Heroes, Structures \n You may only control 3 battalions at a time"
+"Requires: Prince Imrahil on the battlefield and Stables Level 3 \n Unit Type: Elite Cavalry \n Class: Heavy Cavalry \n Strong in melee \n Weak trample capacity \n You can only maintain 3 battalions at a time"
 END
 
 CONTROLBAR:ToolTipBuildGondorKnightsofDolHorde_King
-"Unit Type: Elite Cavalry \n Strong vs: Infantry and Monsters \n"
+"Unit Type: Elite Cavalry \n Class: Heavy Cavalry \n Strong in melee \n Weak trample capacity"
 END
 
 BANNERUI:GondorKnightsofDol
@@ -55026,11 +55034,11 @@ CONTROLBAR:LW_Unit_GondorKnightsofDolHordePlural
 END
 
 CONTROLBAR:LW_ToolTipBuild_GondorKnightsofDolHorde
-"Unit Type: Elite Cavalry\nStrong vs: Infantry and Monsters\n"
+"Unit Type: Elite Cavalry\n Class: Heavy Cavalry \n Strong in melee \n Weak trample capacity"
 END
 
 CONTROLBAR:LW_ToolTip_GondorKnightsofDolHorde
-"\nUnit Type: Elite Cavalry\nStrong vs: Infantry and Monsters"
+"\nUnit Type: Elite Cavalry\n Class: Heavy Cavalry \n Strong in melee \n Weak trample capacity"
 END
 
 
@@ -63652,7 +63660,7 @@ CONTROLBAR:ConstructEasterlingKataphraktHorde
 END
 
 CONTROLBAR:ToolTipBuildEasterlingKataphraktHorde
-"Requires: Khamul with Lieutenant's Insignia \n Unit Type: Elite Cavalry \n Strong vs: Archer and Cavalry \n You can only train 3 battalions"
+"Requires: Khamul with Lieutenant's Insignia \n Unit Type: Elite Cavalry \n Class: Heavy Cavalry \n Strong in melee \n Weak trample capacity \n You can only maintain 3 battalions at a time"
 END
 
 BANNERUI:EasterlingKataphrakt
@@ -63672,11 +63680,11 @@ CONTROLBAR:LW_Unit_EasterlingKataphraktHordePlural
 END
 
 CONTROLBAR:LW_ToolTipBuild_EasterlingKataphraktHorde
-"Unit Type: Elite Cavalry\nStrong vs: Archer and Cavalry\n"
+"Unit Type: Elite Cavalry\n Class: Heavy Cavalry \n Strong in melee \n Weak trample capacity"
 END
 
 CONTROLBAR:LW_ToolTip_EasterlingKataphraktHorde
-"\nUnit Type: Elite Cavalry\nStrong vs: Archer and Cavalry"
+"\nUnit Type: Elite Cavalry\n Class: Heavy Cavalry \n Strong in melee \n Weak trample capacity"
 END
 
 OBJECT:MordorSchwarzeOstlinge
@@ -67417,7 +67425,7 @@ CONTROLBAR:BuildGundabadWargRiderHorde
 END
 
 CONTROLBAR:ToolTipBuilGundabadWargRiderHorde
-"Requires: Yazneg recruited \n Unit Type: Advanced Cavalry \n Class: Heavy Cavalry \n Strong in melee \n Weak vs: Pikemen and Monsters \n You can only train 3 battalions"
+"Requires: Yazneg recruited \n Unit Type: Advanced Cavalry \n Class: Heavy Cavalry \n Strong in melee \n Weak trample capacity" \n You can only train 3 battalions"
 END
 
 BANNERUI:GundabadWargRider
@@ -67437,11 +67445,11 @@ CONTROLBAR:LW_Unit_GundabadWargRiderPlural
 END
 
 CONTROLBAR:LW_ToolTipBuild_GundabadWargRider
-"\n Unit Type: Advanced Cavalry \n Class: Heavy Cavalry \n Strong in melee \n Weak vs: Pikemen and Monsters"
+"\n Unit Type: Advanced Cavalry \n Class: Heavy Cavalry \n Strong in melee \n Weak trample capacity""
 END
 
 CONTROLBAR:LW_ToolTip_GundabadWargRider
-"\n Unit Type: Advanced Cavalry \n Class: Heavy Cavalry \n Strong in melee \n Weak vs: Pikemen and Monsters"
+"\n Unit Type: Advanced Cavalry \n Class: Heavy Cavalry \n Strong in melee \n Weak trample capacity""
 END
 
 
@@ -69068,7 +69076,7 @@ CONTROLBAR:ConstructAngmarSchwarzeRitterHorde
 END
 
 CONTROLBAR:ToolTipBuildAngmarSchwarzeRitterHorde
-"Requires: Chambers of the Black Guard and Zaphragor recruited \n Unit Type: Elite Cavalry \n Class: Heavy Cavalry \n Strong in melee \n Weak vs: Pikemen"
+"Requires: Chambers of the Black Guard and Zaphragor recruited \n Unit Type: Elite Cavalry \n Class: Heavy Cavalry \n Strong in melee \n Weak trample capacity""
 END
 
 BANNERUI:AngmarSchwarzeRitter
@@ -69088,11 +69096,11 @@ CONTROLBAR:LW_Unit_AngmarSchwarzeRitterHordePlural
 END
 
 CONTROLBAR:LW_ToolTipBuild_AngmarSchwarzeRitterHorde
-"\n Class: Heavy Cavalry \n Strong in melee \n Weak vs: Pikemen"
+"Unit Type: Elite Cavalry\n Class: Heavy Cavalry \n Strong in melee \n Weak trample capacity"
 END
 
 CONTROLBAR:LW_ToolTip_AngmarSchwarzeRitterHorde
-"Unit Type: Elite Cavalry \n Class: Heavy Cavalry \n Strong in melee \n Weak vs: Pikemen"
+"Unit Type: Elite Cavalry \n Class: Heavy Cavalry \n Strong in melee \n Weak trample capacity"
 END
 
 CONTROLBAR:LW_Unit_AngmarShadowKnightHorde
@@ -69100,7 +69108,7 @@ CONTROLBAR:LW_Unit_AngmarShadowKnightHorde
 END
 
 CONTROLBAR:LW_ToolTip_AngmarShadowKnightHorde
-"Unit Type: Elite Cavalry \n Class: Heavy Cavalry \n Strong in melee \n Weak vs: Pikemen"
+"Unit Type: Elite Cavalry \n Class: Heavy Cavalry \n Strong in melee \n Weak trample capacity"
 END
 
 CONTROLBAR:SpecialAbilityGardistenklingen
@@ -85783,7 +85791,7 @@ CONTROLBAR:ConstructArnorKnightHorde
 END
 
 CONTROLBAR:ToolTipConstructArnorKnightHorde
-"Unit Type: Regular Cavalry \n Class: Heavy Cavalry \n Strong in melee"
+"Unit Type: Regular Cavalry \n Class: Heavy Cavalry \n Strong in melee \n Weak trample capacity"
 END
 
 CONTROLBAR:ConstructArnorTrebuchet
@@ -86259,11 +86267,11 @@ CONTROLBAR:LW_ToolTip_ArnorTowerGuardHorde
 END
 
 CONTROLBAR:LW_ToolTipBuild_ArnorKnightHorde
-"Unit Type: Regular Cavalry \n Class: Heavy Cavalry \n Strong in melee"
+"Unit Type: Regular Cavalry \n Class: Heavy Cavalry \n Strong in melee \n Weak trample capacity"
 END
 
 CONTROLBAR:LW_ToolTip_ArnorKnightHorde
-"Unit Type: Regular Cavalry \n Class: Heavy Cavalry \n Strong in melee"
+"Unit Type: Regular Cavalry \n Class: Heavy Cavalry \n Strong in melee \n Weak trample capacity"
 END
 
 OBJECT:ArnorBuildingGeneral2
