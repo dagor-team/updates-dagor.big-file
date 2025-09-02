@@ -450,6 +450,14 @@ CONTROLBAR:TooltipEasterlingKataphraktCharge
 "Requires: Level 7 \n The Kataphrakts charge down the enemies of Rhun, gaining +25% speed and half the loss of speed when trampling; however, they lose -50% attack \n Left-click to activate"
 END
 
+CONTROLBAR:MorgulRiderCharge
+"Spirit Charge"
+END
+
+CONTROLBAR:TooltipMorgulRiderCharge
+"Requires: Level 7 \n The Riders of Morgul sweep through the enemy lines \n while charging they cant slow down and debuff and knockdown the enemies in their vicinity however deal no damage \n Left-click to activate"
+END
+
 CONTROLBAR:KataphractCurvedBlades
 "Curved Sabres"
 END
