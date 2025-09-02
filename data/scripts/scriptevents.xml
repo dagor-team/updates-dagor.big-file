@@ -395,6 +395,8 @@
 
     <EventList Name="RohirrimFunctions" Inherit="CavalryFunctions">
         <EventHandler EventName="OnCreated" ScriptFunctionName="OnRohirrimCreated" DebugSingleStep="false"/>
+		<EventHandler EventName="ModelConditionUSER_2" ScriptFunctionName="OnAlatarUser8" DebugSingleStep="false"/>
+		<EventHandler EventName="NotModelConditionUSER_2" ScriptFunctionName="OffAlatarUser8" DebugSingleStep="false"/>
     </EventList>
 
     <EventList Name="SummonedRohirrimFunctions" Inherit="CavalryFunctions">
