@@ -1097,6 +1097,7 @@
 
             <EventList Name="ImladrisBaStableFunctions" Inherit="BaseScriptFunctions">
        <EventHandler EventName="ModelConditionUSER_1"    ScriptFunctionName="OnAlatarUser6" DebugSingleStep="false"/>
+	   <EventHandler EventName="NotModelConditionUSER_1"    ScriptFunctionName="OffAlatarUser6" DebugSingleStep="false"/>
        <EventHandler EventName="ModelConditionUSER_2"    ScriptFunctionName="OnAlatarUser8" DebugSingleStep="false"/>
     </EventList>
 
