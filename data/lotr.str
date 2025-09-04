@@ -36440,11 +36440,19 @@ CONTROLBAR:ToolTipToggleLineToSpearheadFormation
 "+25% speed, can trample, -100% damage"
 END
 
-CONTROLBAR:ToolTipToggleGKnightLineToStarFormation
-"+25% damage, -40% speed"
+CONTROLBAR:ToolTipToggleLightCavFormation
+"-33% Armor, +25% damage"
 END
 
-CONTROLBAR:ToolTipToggleGKnightWedgeToLineFormation
+CONTROLBAR:ToolTipToggleMediumCavFormation
+"-33% Armor, +100% trample duration"
+END
+
+CONTROLBAR:ToolTipToggleHeavyCavFormation
+"+50% Armor, -40% speed, -50% trample duration"
+END
+
+CONTROLBAR:ToolTipToggleBackFormation
 "No bonus"
 END
 
@@ -96627,9 +96635,11 @@ END
 
 OBJECT:TormentedElvesHordeHorde
 "Angba&nd Tormented Elves"
+END
 
 CONTROLBAR:LW_Unit_TormentedElvesHordeHorde
 "Angba&nd Tormented Elves"
+END
 
 CONTROLBAR:LW_ToolTip_TormentedElvesHordeHorde
 "Horrific but unfinished creature of Morgoth \n\n Unit Type: Elite Archers \n Strong at range \n Weak vs: Cavalry and Monsters"
@@ -96657,6 +96667,14 @@ END
 
 CONTROLBAR:TooltipAngbandArmorUpgrade
 "Requires: Level 5 \n The dragon now has higher defences.\n Passive ability"
+END
+
+CONTROLBAR:BuildAngbandGateGuardsHorde
+"Angband Gate Gua&rds"
+END
+
+CONTROLBAR:ToolTipBuildAngbandGateGuardsHorde
+"Elite bunch of orc-like beings that guard the gates of the Fortress of Iron. \n No one is sure where these beings came from, but everyone who faced them can say that they arent ordinarily strong.\n\n Unit Type: Elite Infantry \n Strong in melee \n Weak vs: Monsters"
 END
 
 OBJECT:AngbandGateGuardHorde
