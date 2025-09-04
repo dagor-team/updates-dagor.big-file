@@ -96659,6 +96659,49 @@ CONTROLBAR:TooltipAngbandArmorUpgrade
 "Requires: Level 5 \n The dragon now has higher defences.\n Passive ability"
 END
 
+OBJECT:AngbandGateGuardHorde
+"Angband Gate Gua&rds"
+END
+
+CONTROLBAR:LW_Unit_AngbandGateGuardHorde
+"Angband Gate Gua&rds"
+END
+
+CONTROLBAR:LW_ToolTip_AngbandGateGuardHorde
+"Elite bunch of orc-like beings that guard the gates of the Fortress of Iron. \n No one is sure where these beings came from, but everyone who faced them can say that they arent ordinarily strong.\n\n Unit Type: Elite Infantry \n Strong in melee \n Weak vs: Monsters"
+END
+
+OBJECT:AngbandGateGuard
+"Angband Gate Gua&rd"
+END
+
+OBJECT:AngbandGateGuardBanner
+"Angband Gate Gua&rd Banner"
+END
+
+CONTROLBAR:AngbandMainProtectors
+"Guardians of the Gates"
+END
+
+CONTROLBAR:ToolTipAngbandMainProtectors
+"Each time a Guard dies all nearby mordor heroes get healed by 2% of their max health"
+END
+
+CONTROLBAR:AngbandGateGuardsSmash
+"Crushing Smas&h"
+END
+
+CONTROLBAR:ToolTipAngbandGateGuardsSmash
+"Requires: Level 2 \n Guards of Angband swing their poleaxes forward dealing massive damage and knockback to enemies in front of them"
+END
+
+CONTROLBAR:WeaponUpgrade2
+"Weapon Upgrade"
+END
+
+CONTROLBAR:ToolTipWeaponUpgrade2
+"Requires: Level 5 \n Gate Guards of Angband gain improved weapons \n Passive ability"
+END
 
 OBJECT:AngbandSchattenHorde
 "Angband Shadows"
