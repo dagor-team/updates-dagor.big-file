@@ -93889,7 +93889,7 @@ CONTROLBAR:BuildMenegrothCavalaryHorde
 END
 
 CONTROLBAR:ToolTipBuildMenegrothCavalaryHorde
-"Requires: Menegroth Fortress Level 3 \n Unit Type: Elite Cavalry \n Strong vs: Infantry"
+"Requires: Menegroth Fortress Level 3 \n Unit Type: First Age Cavalry \n Class: Heavy Cavalry \n Strong vs: Infantry"
 END
 
 
@@ -93991,11 +93991,11 @@ CONTROLBAR:LW_Unit_MenegrothCavalaryHordePlural
 END
 
 CONTROLBAR:LW_ToolTip_MenegrothCavalaryHorde
-"\nUnit Type: Elite Cavalry\nStrong vs. Infantry"
+"\nUnit Type: First Age Cavalry \n Class: Heavy Cavalry \n Strong vs. Infantry"
 END
 
 CONTROLBAR:LW_ToolTipBuild_MenegrothCavalaryHorde
-"Unit Type: Elite Cavalry\nStrong vs. Infantry \n"
+"Unit Type: First Age Cavalry \n Class: Heavy Cavalry \n Strong vs. Infantry \n"
 END
 
 CONTROLBAR:ToggleMenegrothEliteFormation
@@ -94958,7 +94958,7 @@ CONTROLBAR:LW_Unit_TaniquetilExpeditionaryHorde
 END
 
 CONTROLBAR:LW_ToolTip_TaniquetilExpeditionaryHorde
-"Unit Type: First Age Cavalry\nStrong vs: Archers and Swordsmen"
+"Unit Type: First Age Cavalry \n Class: Heavy Cavalry \n Strong in melee \n Weak trample capacity"
 END
 
 OBJECT:TaniquetilExpeditionaryHorde
@@ -94970,7 +94970,7 @@ CONTROLBAR:BuildTaniquetilExpeditionaryHorde
 END
 
 CONTROLBAR:ToolTipBuildTaniquetilExpeditionaryHorde
-"Requires: Noble Stud \n Unit Type: First Age Cavalry\nStrong vs: Archers and Swordsmen \n You can maintain only 3 battallions at a time"
+"Requires: Noble Stud \n Unit Type: First Age Cavalry\n Class: Heavy Cavalry \n Strong in melee \n Weak trample capacity \n You can maintain only 3 battallions at a time"
 END
 
 CONTROLBAR:LW_Unit_TaniquetilGuardHordePlural
@@ -95197,7 +95197,7 @@ CONTROLBAR:BuilBelegostRiderHorde
 END
 
 CONTROLBAR:ToolTipBuilBelegostRiderHorde
-"Requires Belegost Fortress Level 2 \n Unit Type: Elite Cavalry \n Strong vs: Infantry and Cavalry"
+"Requires Belegost Fortress Level 2 \n Unit Type: First Age Cavalry \n Class: Heavy Cavalry \n Strong in melee \n Weak trample capacity"
 END
 
 CONTROLBAR:BuildBelegostEliteHorde
@@ -95299,11 +95299,11 @@ CONTROLBAR:LW_Unit_BelegostRiderHordePlural
 END
 
 CONTROLBAR:LW_ToolTip_BelegostRiderHorde
-"\nUnit Type: Elite Cavalry\nStrong vs: Infantry and Cavalry"
+"\nUnit Type: First Age Cavalry \n Class: Heavy Cavalry \n Strong in melee \n Weak trample capacity"
 END
 
 CONTROLBAR:LW_ToolTipBuild_BelegostRiderHorde
-"Unit Type: Elite Cavalry\nStrong vs: Infantry and Cavalry\n"
+"Unit Type: Fist Age Cavalry\n Class: Heavy Cavalry \n Strong in melee \n Weak trample capacity"
 END
 
 OBJECT:BelegostElite
@@ -97452,7 +97452,7 @@ CONTROLBAR:BuildThargelionCavalaryHorde
 END
 
 CONTROLBAR:ToolTipBuilThargelionCavalaryHorde
-"Unit Type: Elite Cavalry \n Strong vs: Infantry"
+"Unit Type: First Age Cavalry \n Class: Medium Cavalry \n Strong vs: Swordsmen, Archers, Structures"
 END
 
 BANNERUI:ThargelionCavalary
@@ -97472,11 +97472,11 @@ CONTROLBAR:LW_Unit_ThargelionCavalaryHordePlural
 END
 
 CONTROLBAR:LW_ToolTipBuild_ThargelionCavalaryHorde
-"Unit Type: Elite Cavalry\nStrong vs: Infantry\n"
+"Unit Type: First Age Cavalry \n Class: Medium Cavalry \n Strong vs: Swordsmen, Archers, Structures\n"
 END
 
 CONTROLBAR:LW_ToolTip_ThargelionCavalaryHorde
-"\nUnit Type: Elite Cavalry\nStrong vs: Infantry"
+"\nUnit Type: First Age Cavalry \n Class: Medium Cavalry \n Strong vs: Swordsmen, Archers, Structures"
 END
 
 CONTROLBAR:ThargelionCavalaryCharge
