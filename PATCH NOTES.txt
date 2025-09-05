@@ -7,6 +7,7 @@ GENERAL
 	All basic infantry armor buffed against heroes (archers 20%, melee 30%)
 	Hero stats (health and damage) rebalanced
 	Most hero basic attack AOE got removed (only those which were added for heroes to level up ex: Boromir)
+	Crossbows take less time to aim (-1.5s)
 
 Gondor	
 	Boromir - cost revert 2300 -> 2000
@@ -63,6 +64,8 @@ Imladris
 	All elites locked behind hero levels
 	
 Isengard
+
+	Dunlandings: Less damage to buildings with torches but more to units
 	
 	
 Dwarves
