@@ -1,7 +1,7 @@
 GENERAL
 	Cavalry classes added with all descritions added
 	Xp share for heroes will now function as in any other mod or version of the game with a rebalance to xp requirements for heroes 
-		Archer heroes xp requirement increased by 
+	Archer heroes xp requirement increased by 
 	Units affected by mist invisibility can be detected from further away
 	Healing spell fixed + can now heal catapults and other machines
 	All basic infantry armor buffed against heroes (archers 20%, melee 30%)
