@@ -36452,6 +36452,10 @@ CONTROLBAR:ToolTipToggleHeavyCavFormation
 "+50% Armor, -40% speed, -50% trample duration"
 END
 
+CONTROLBAR:ToolTipToggleAxtCavFormation
+"+50% Armor, -30% speed, cant trample"
+END
+
 CONTROLBAR:ToolTipToggleBackFormation
 "No bonus"
 END
@@ -44153,7 +44157,11 @@ CONTROLBAR:ToggleSpearheadFormation
 END
 
 CONTROLBAR:ToggleStarFormation
-"&Star Formation"
+"Star Formation (&W)"
+END
+
+CONTROLBAR:ToggleSplitFormation
+"Split Formation (&W)"
 END
 
 CONTROLBAR:ToggleLineFormation
