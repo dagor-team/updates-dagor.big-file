@@ -91131,6 +91131,14 @@ CONTROLBAR:TooltipSpecialAbilityEcthelionWaterExplosion
 "Requires: Level 3 \n Ecthelion uses the hidden wells of Gondolin to unleash a burst of water to drown the enemies. \n Enemy units are hit by a water burst knocking down enemy units and debuffing them. \n Left-click on the target area"
 END
 
+CONTROLBAR:SpecialAbilityEcthelionKompanie
+"Defence of Go&ndolin"
+END
+
+CONTROLBAR:TooltipSpecialAbilityEcthelionKompanie
+"Requires: Level 5 \n Ecthelion orders 5 warriors of Gondolin to defend a building while it gets repaired by the builders of the hidden City. \n Allied building is guarded by 5 gondolin soldiers and getting repaired over time. \n Left-click on the target area"
+END
+
 CONTROLBAR:EcthelionGondolinFountain
 "Gondoli&n Fountain"
 END
