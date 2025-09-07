@@ -58946,7 +58946,7 @@ CONTROLBAR:BruchtalwachterHorde
 END
 
 CONTROLBAR:ToolTipBruchtalwachterHorde
-"Requires: Barracks Level 2, Forged Blades and Elrond level 5 on the battlefield \n Unit Type: Elite Infantry \n Strong vs: Infantry and Heroes \n Imladris Library upgrades allows the Guardian to unlock special abilities \n You can only build 4 Guardians at the same time"
+"Requires: Barracks Level 2 and Forged Blades \n Unit Type: Elite Infantry \n Strong vs: Infantry and Heroes \n Imladris Library upgrades allows the Guardian to unlock special abilities \n You can only build 4 Guardians at the same time"
 END
 
 BANNERUI:Bruchtalwachter

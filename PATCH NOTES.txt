@@ -14,11 +14,11 @@ Gondor
 	Dol amroth swordsmen weapon fixed
 	Ithilien rangers recruitable from the Forbidden pool
 	Damrod - leadership now affects all ithilien units
-	Ithilien swordsmen armor and damge buffed - values?
+	Ithilien swordsmen armor and damge buffed - 80 -> 120
 		
 Angmar
 	Snowbind spell now grants full invulnerability
-	Mornamarths buff from the power of the Witch king heavily nerfed and no longer stacks with his level 1 - values?
+	Mornamarths buff from the power of the Witch king heavily nerfed and no longer stacks with his level 1 - 50% -> 25% both armor and damage
 	
 Rohan
 	Royal Guards - armor nerf against pikes by 40%
@@ -28,7 +28,7 @@ Rohan
 Arnor 
 	Guardians of arnor weapon fixed
 Goblins
-	Gundabad troll - speed buff - value?
+	Gundabad troll - speed buff - 48 -> 55
 	Great goblin plunder cart - despawn fix
 Mordor
 	
@@ -47,7 +47,7 @@ Loth
 	Lorien garden now has new upgrades affecting economy to be bought
 		- cost decreased by 500, health increased by 1000, no longer produces money
 	Lorien swordsmen, archers and pikes price increased by 50, 
-	Grimbeorn armor buff
+	Grimbeorn 5% armor buff
 	Haldir - Golden arrow moved to level 6 and has a new scaling leadership starting at level 4
 	
 Imladris
@@ -65,7 +65,7 @@ Imladris
 	
 Isengard
 
-	Dunlandings: Less damage to buildings with torches but more to units
+	Dunlandings - less damage to buildings with torches but more to units
 	
 	
 Dwarves
