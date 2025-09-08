@@ -54631,6 +54631,18 @@ CONTROLBAR:ToolTipBuildRingValeSwordsmanHorde
 "Unit Type: Basic Infantry \n Strong vs: Archer and Pikemen"
 END
 
+CONTROLBAR:ConstructLehenLamedonRiderHorde
+"Lamedon &Riders"
+END
+
+CONTROLBAR:ToolTipBuildLehenLamedonRiderHorde
+"Unit Type: Regular Cavalry \n Class: Medium Cavalry \n Strong at trampling vs: Swordsmen and Archers"
+END
+
+CONTROLBAR:ToolTipBuildStableLehenLamedonRiderHorde
+"Requires: Gondor Beacon Level 2 \n Unit Type: Regular Cavalry \n Class: Medium Cavalry \n Strong at trampling vs: Swordsmen and Archers"
+END
+
 BANNERUI:RingValeSwordsman
 "Ringlo Vale Swordsman"
 END
@@ -56334,11 +56346,11 @@ CONTROLBAR:LW_Unit_RohanRohirrimHordePlural
 END
 
 CONTROLBAR:LW_ToolTipBuild_RohanRohirrimHorde
-"Unit Type: Regular Cavalry \n Class: Medium Cavarly \n Strong at trampling vs: Swordsmen and Archers"
+"Unit Type: Regular Cavalry \n Class: Medium Cavalry \n Strong at trampling vs: Swordsmen and Archers"
 END
 
 CONTROLBAR:LW_ToolTip_RohanRohirrimHorde
-"Unit Type: Regular Cavalry \n Class: Medium Cavarly \n Strong at trampling vs: Swordsmen and Archers"
+"Unit Type: Regular Cavalry \n Class: Medium Cavalry \n Strong at trampling vs: Swordsmen and Archers"
 END
 
 
@@ -56355,7 +56367,7 @@ CONTROLBAR:ConstructRohanAxtRohirrimHorde
 END
 
 CONTROLBAR:ToolTipBuildRohanAxtRohirrimHorde
-"Unit Type: Regular Cavalry \n Class: Heavy Cavarly \n Strong in melee, doesnt trample well"
+"Unit Type: Regular Cavalry \n Class: Heavy Cavalry \n Strong in melee, doesnt trample well"
 END
 
 BANNERUI:RohanAxtRohirrim
