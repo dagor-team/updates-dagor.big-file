@@ -19,7 +19,7 @@ Gondor
 Angmar
 	Snowbind spell now grants full invulnerability
 	Mornamarths buff from the power of the Witch king heavily nerfed and no longer stacks with his level 1 - 50% -> 25% both armor and damage
-	
+	Rogash pathfinding fixed
 Rohan
 	Royal Guards - armor nerf against pikes by 40%
 	Hama - healing in combat nerfed in combat from 3% -> 1% and doesnt replenish soldiers anymore
@@ -31,7 +31,7 @@ Goblins
 	Gundabad troll - speed buff - 48 -> 55
 	Great goblin plunder cart - despawn fix
 Mordor
-	
+	2 new first age units
 Loth
 	Galadriel - gift nerfed for her (cd reduction from 25% -> 15%)
 		  - level 5 cd increased from 35s -> 70s
