@@ -56296,6 +56296,14 @@ CONTROLBAR:LW_ToolTip_RohanSpeerwerferHorde
 "\nUnit Type: Regular Archer\nStrong vs: Cavalry and Monster"
 END
 
+OBJECT:HordeLamedonRider
+"Riders of Lamedon"
+END
+
+CONTROLBAR:ConstructLamedonRiderHorde
+"Riders of Lamedon (&Q)"
+END
+
 
 OBJECT:HordeRohanRohirrim
 "Rohirrim"
@@ -87666,7 +87674,7 @@ CONTROLBAR:KnightsofDolInspiration
 END
 
 CONTROLBAR:TooltipKnightsofDolInspiration
-"Requires: Level 2 \n Mounted units near the knights gain +50% damage and +50% armor \n Passive ability"
+"Requires: Level 2 \n Mounted units near the knights gain +50% damage and armor. They also can trample more enemies \n Passive ability"
 END
 
 CONTROLBAR:KnightsofDolChargeofGlory
