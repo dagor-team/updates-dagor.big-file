@@ -1862,6 +1862,21 @@ CommandSet HaradBadHarkanCommandSet_Ambush
     18      = Command_SetStanceHoldGround
 End
 
+CommandSet HaradNakhadirCommandSet
+	1	= Command_NakhadirWeaponToggle
+	2	= 
+	3	= 
+	4	= 
+	5	= 
+	6	= 
+	12	= Command_CaptureBuilding
+	13	= Command_AttackMove
+	14	= Command_Stop
+    16  = Command_SetStanceBattle
+    17  = Command_SetStanceAggressive
+    18  = Command_SetStanceHoldGround
+End
+
 CommandSet HaradPorterSummonedCommandSet
     1 = Command_EvilStop
     2 = Command_PorterExtinguishFire

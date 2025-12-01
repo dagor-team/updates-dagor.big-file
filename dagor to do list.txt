@@ -7,35 +7,24 @@ keeping secrets -
 balance...
 
 TO DO NICO:
-Armorset.ini clean up
+suladan king model
+perhaps saleme assasin model
+
+TO DO OOGGLIE:
 
 
+TO DO GORGO:
+abilities for saleme and bounty hunter and hunter + names
+hunter - done
+
+pikes porcupine formation
+zaphragor lvl 1, 6 cd increase
+goblins higher recruit time
+axe cav formation + trample dmg nerf
+descriptions
+captain swords for rohan
 
 PRIORITIES:
-not beginner friendly
-meta strats
-descriptions on heroes - me
-loth rework - me - done
-drogoth dmg test lvl 1 and past - works
-great goblin cart death - Nico
-ecthelion / turgon choice - done
-Ecthelion lvl 3 - water burst OCL small range with debuff
-Ecthelion lvl 5 - gradual rebuild with guarding units
-gilgalad commandset - me - done
-elrond commandset - me - done
-oogglie talk spell pre FA
-imla wizard range increase - Nico - done
-finish models
-mordor fa tormented elves texture
-cav reclassing heavy/light - make list + functions - me - done
-fx mass cav remove - Nico - done
-Rogash and Shelob stuck movement - Nico - done
-battlewagon trample battlewagon test - done
-HordesWaitForHordes ?
-haldir invis - done
-tree summon spell loth - 
-dunland hut build time - done
-melian stealth - done
 
 HARAD:
 desert terrain instead of frozen made with earthquake bits - switch FX - 10 pp - speed and damage buff, speed and trample debuff - palando buff it - DONE
@@ -75,7 +64,7 @@ monster models: lions, matriach, scorpions
 new models: troll-men, rhino riders, hunter, lions, wain rider charriot, balchoth, new tractor
 
 HELMET - for the balchoth
-TEMPLE - 
+TEMPLE - done
 HALF TROLLS
 RHINOS - warbeast of mordor
 
@@ -95,51 +84,11 @@ ogres
 warg pack
 
 TALK TOMORROW:
-fear resists - not passive lvl 1 on faction leaders - not urgent
-no oneshots without buffs - not urgent
-stacking buffs nerf - dmg and armor - not urgent
-fliers, monsters nerf - not urgent
-fears - rework - not urgent
-spearmen formation nerfs armor - not urgent
-buff spearmen scaling and revenge dmg - done
-revert hero xp gain - done
-Dol amroth cav nerf - done
-rework the last stand spell book dwarves - done
-knockback resist imladris - done
-redoing mordors first age - 
-mordor fire drakes need to have a proper trample + snow trolls - done
-eomer too tanky - done
-theodens glorious charge not apply to allied heroes - done
-horse range scaling on levels removed - done
-sarumans takeover needs to have lower radius - done
-removing all armor upgrades from first age units - done
-rework the shield uruk system again - done
-Radius of Speech Craft of Saruman - done
-galadriel slight buff - done
-spearthrowers dmg decrease - done
-limit the fucking sorcerers to 2 - done
-rogash lvl 8 armor nerf - done
-gondolin tower exit button - done
-heals not affecting allies - ?
-arnor hobbit summon replaced by lindon tower with recruiting cirdan inside - 
-ISENGARD - Uruks? Steelworks? shield uruks bonuses - not urgent 
-Vrasku bouncing arrow weapon lvl 1 - done
-Uruk captains - dedications and new abilities - done
-switch uruk bows and pikes in the pit - done
-Paralyze for singers remove - done
-unit type descriptions
 
-THORIN - remove mithril
-orcrist ability lvl 1, upgrade over levels, cursing on lvl 10 while active perhaps
-fear aura lvl 3 while orcrist active
-spell damage reduce of enemy heroes on hit debuff level 5
-level 7 health drain
-Runes dont affect these bonuses
-ON KING armor upgrade
+
 
 wainrider summon
 bounty hunter
-ogres nerf- done
 balchoth pikes - towe guard skl
 balchoth swords - rohan axemen
 balchoth banner - wildmen banner skl
@@ -153,18 +102,30 @@ alatar and palando abilities
 dragon emperor ?
 arnor spellbook heal
 
-Traitors timed - 
-BOLDOG AND BALCMEG
-summon pings that give xp
+Lion - to do
+Osse - valar for harad?
 
-VAIRE - valar for harad?
+thargelion first age - done
+wain rider charriot and cav - done
 
-thargelion first age
-wain rider charriot and cav
-textures
-HEROES: bounty hunter rhun
-	general rhun
-	fa hero
+Harad:
+-Suladan - Done
+-Saleme - to do (assasin version)
+-Muhad - Done without file
+-Alatar - Done without file
+	- figure out other abilities from 3.3
+	- new lvl 10 - arrowstorm (saruman lvl 10) weapons with ocl nuggets spawning tornados with a att nugget with 0% knockback resist
+-Hunter - Done without file
+-Bounty Hunter - Done without a file
+
+Rhun:
+-Balchoth - Done without file
+-Khamul - Done without file
+-General - to do
+-Palando - Done without file
+	- figure out other abilities from 3.3
+-Sorcerer - Done without file
+
 
 MordorBlackUrukBowHorde_Summoned
 MordorBlackUrukHorde_Summoned
@@ -172,22 +133,22 @@ MordorMorgulOrkHorde_Summoned
 MordorMorgulriderHorde_Summoned
 MordorCirithOrkHorde_Summoned
 MordorMouthOfSauron
+	- add to exp.ini
 
 Bounty hunter rhun:
 weapon switch and leadership mercs - lvl 1
 	- for bow commandset
 	- wounding arrow with DOT - lvl 4
-	- explosive arrow - lvl 2
 	- pin arrow - lvl 6
 	- doom arrow - lvl 8
 	- for sword commandset
 	- blademaster
 	- stealth (grima escape)
 	- disarm (modifier with 0% damage and spell damage)
-	- permanent mercs lvl 10
+	- permanent mercs lvl 10 - upgrade for mercs
 Bounty hunter harad:
 weapon switch and leadership mercs - lvl 1
 grappling hook lvl 4 (running anim)
-poisson arrow with debuff (speed dmg) lvl 2
+poisson arrow with debuff (speed dmg) lvl 2 -garbage
 permanent mercs lvl 7
 arrow wind with bleeding arrows and paralyze (5 per burst, 75 arrows, 5 per target) 
