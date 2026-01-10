@@ -1864,11 +1864,6 @@ End
 
 CommandSet HaradNakhadirCommandSet
 	1	= Command_NakhadirWeaponToggle
-	2	= 
-	3	= 
-	4	= 
-	5	= 
-	6	= 
 	12	= Command_CaptureBuilding
 	13	= Command_AttackMove
 	14	= Command_Stop

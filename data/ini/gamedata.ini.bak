@@ -11,7 +11,7 @@
 
 #define DWARVENRAMRIDERS +BelegostRider +BelegostRiderBanner +AglarondCavalary +AglarondBanner +EisenbergRider +IronHillsScout
 
-#define EVILMENSULADAN   NONE +MordorMumakil +MordorMumakil_Summoned +MordorMumakilAncient +MordorMumakil_SummonedAncient +ThargelionMumakil +HaradHaradrimArcher +HaradHaradrimLancer +EvilmenHaradSword +EvilmenRhunArcher +MordorHaradrimLancerMod +EvilmenRhunrider +MordorMumakil +EvilmenSaleme +EvilmenHasharin +MordorHaradrimArcher +EvilmenSalemeAlternative +MordorHaradrimRider +EvilmenHaradSword +MordorEasterling +EasterlingGuard +MordorRhunSword +HaradHaradrimBanner +UmbarCorsairarcher +MordorCastamir +MordorCorsairBanner +MordorCorsairsOfUmbar -STRUCTURE -MACHINE ALLIES
+#define EVILMENSULADAN   NONE +MordorMumakil +MordorMumakil_Summoned +MordorMumakilAncient +MordorMumakil_SummonedAncient +ThargelionMumakil +HaradHaradrimArcher +HaradHaradrimLancer +EvilmenHaradSword +EvilmenRhunArcher +MordorHaradrimLancerMod +EvilmenRhunrider +MordorMumakil +EvilmenSalemeAlternative +EvilmenHasharin +MordorHaradrimArcher +EvilmenSalemeAlternative +MordorHaradrimRider +EvilmenHaradSword +MordorEasterling +EasterlingGuard +MordorRhunSword +HaradHaradrimBanner +UmbarCorsairarcher +MordorCastamir +MordorCorsairBanner +MordorCorsairsOfUmbar -STRUCTURE -MACHINE ALLIES
 
 #define ALL_ALLIES                 ALL -STRUCTURE ALLIES
 #define ALL_ENEMIES                ALL -STRUCTURE ENEMIES

@@ -3257,7 +3257,7 @@ CONTROLBAR:SpecialAbilityGamlingVerstarkung
 END
 
 CONTROLBAR:ToolTipSpecialAbilityGamlingVerstarkung
-"Requires: Level 6 \n Gamling leads the horsemasters of rohan to take down the forces of evil  \n All mounted archers around gamling gain 50% damage and 20% range"
+"Requires: Level 6 \n Gamling leads the horsemasters of rohan to take down the forces of evil  \n All horse archers around gamling gain 50% damage"
 END
 
 CONTROLBAR:SpecialAbilityRadagastDornengestrupp
@@ -36449,11 +36449,11 @@ CONTROLBAR:ToolTipToggleMediumCavFormation
 END
 
 CONTROLBAR:ToolTipToggleHeavyCavFormation
-"+50% Armor, -40% speed, -50% trample duration"
+"+30% Armor, -40% speed, -50% trample duration"
 END
 
 CONTROLBAR:ToolTipToggleAxtCavFormation
-"+50% Armor, -30% speed, cant trample"
+"+20% Armor, -30% speed, cant trample"
 END
 
 CONTROLBAR:ToolTipToggleBackFormation
@@ -36482,10 +36482,6 @@ END
 
 CONTROLBAR:ToolTipToggleRArcherSkirmishToLineFormation
 "No bonus"
-END
-
-CONTROLBAR:ToolTipToggleTowerGuardLineToShieldWallFormation
-"+80% armor, -75% speed"
 END
 
 CONTROLBAR:ToolTipToggleRhunschwerterLineToShieldWallFormation
@@ -44409,7 +44405,7 @@ CONTROLBAR:ToggleShieldWallFormation
 END
 
 CONTROLBAR:ToolTipToggleShieldWallFormation
-"+50% armor \n -75% speed"
+"+25% armor \n +200% knockback resist \n -75% speed"
 END
 
 CONTROLBAR:TogglePhalanxFormation
@@ -55742,6 +55738,14 @@ UPGRADE:RohanAxes
 "Axes"
 END
 
+TOOLTIP:RohanPitchforks
+"Pitchforks"
+END
+
+UPGRADE:RohanPitchforks
+"Pitchforks"
+END
+
 CONTROLBAR:HeroldRohanWestfoldWachter
 "&Meduseld Soldiers"
 END
@@ -57701,7 +57705,7 @@ CONTROLBAR:ConstructElvenMirkwoodArcherHorde
 END
 
 CONTROLBAR:ToolTipBuildElvenMirkwoodArcherHorde
-"Requires: Mirkwood Barracks Level 3 and the Silverthorn Arrows technology \n Unit Type: Elite Archer \n Strong at Range \n You can only train 3 battalions"
+"Requires: Mirkwood Barracks Level 3 \n Unit Type: Elite Archer \n Strong at Range \n You can only train 3 battalions"
 END
 
 BANNERUI:ElvenMirkwoodArcher
@@ -72194,7 +72198,7 @@ CONTROLBAR:ToolTipToggleThranduilWeapons
 END
 
 CONTROLBAR:ToolTipToggleTowerGuardLineToPorcupineFormation
-"The units form a circle with pikes extended \n Battalion cannot move \n Enemy Cavalry will be slowed \n +100% Armor"
+"The units form a circle with pikes extended \n Battalion cannot move \n Enemy Cavalry will be slowed"
 END
 
 CONTROLBAR:ToolTipToggleTowerGuardPorcupineToLineFormation
@@ -106702,7 +106706,7 @@ CONTROLBAR:SpecialAbilityDrogothFireflightNew
 END
 
 CONTROLBAR:ToolTipSpecialAbilityDrogothFireflightNew
-"Requires Level 10 \n Sends a fiery dragon missile at selected target \n Left-click icon then left-click on target"
+"Requires Level 6 \n Sends a fiery dragon missile at selected target \n Left-click icon then left-click on target"
 END
 
 CONTROLBAR:SpecialAbilityIncinerateNew
