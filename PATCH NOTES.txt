@@ -1,11 +1,51 @@
 GENERAL
-	porcupine formation wont give any 3rd age pikes any armor 
+	 Advanced swordsmen take 10% less damage from unupgraded archers
+	First age heroes need aprox. 30% less xp to level up
 Angmar
-	Zaphragor lvl 1 cooldown increase 14 -> 28s, lvl 6 cooldown increase 180 -> 210s 
+	Hwaldar power of the witch king buff no longer gives double damage; pin (level 3) nerfed to melee range
+	Witchking health nerfed 9500 -> 8500
+	Guardist form of durmarth armor nerfed from StrongHeroArmor -> MediumHeroArmor; fixed his damage return
+	Mornamarth cost reduction for black numenorians (level 5) nerfed from 50% -> 25%
+	Black guards health increase from 1400 -> 1600
+	Shadow guards health increase from 2000 -> 3400
+	Shadow knight health nerfed from 5000 -> 3400
+	Angmar swordsmen damage nerfed from 200 -> 110 unupgraded and from 300 -> 190 upgraded
 Rohan
-	Axe Rohirrim - trample damage nerf from 240% -> 100%, formation armor nerf from 30% to 20%
-	Captain swordsmen health increase 800 -> 900, damage increase from 90 -> 190
-Arnor 
-	Palantir Guards formation removed
+	Gamling level 6 leadership no longer gives bonus range to horse archers
+	Draft health bonus increased from 50 -> 150
+	Haldir Summon now summons 3 battalions wielding swords when summoned
+	Haldir has an aditional ability and has all his other abilities unlocked
+	Peasants can now purchase axes after being drafted
+	Hama heal buffed from 0,5% max health per second to 1%
+	Eomer totem fixed
+	Camp rohirrim weapon switch fixed
+	Camp rohirrim general idle respawn rate decreased from 20s -> 5s
+	Rohan swordsmen health increase from 370 -> 420; damage increased from 50 -> 60
+	Ghost of Helm hammerhand has one more ability
+	Rohan axemen speed increased from 47 -> 52
+	3 hunters summon costs only 15 pp
+	Peasants damage increased from 26 -> 33 unupgraded; from 44 -> 55 with forged blades
+	Captain swordsmen damage increased from 90 -> 190 unupgraded; from 140 -> 260 upgraded
+Gondor
+	Lossarnach axemen speed nerfed from 62 -> 52
+	Tower guards health increased from 900 -> 1100
 Goblins
-	recruit time for basic goblin units increased from 18 -> 21s
+	xp award for goblin basic units increased by 1 for the first 3 levels
+	Drogoth health nerfed 12000 -> 10000; armor nerfed by 13%
+	Flying dragons armor nerfed by 25%
+Imladris
+	Veterans, Wind riders and Guardians are no longer locked behind hero levels
+	Scholar system removed
+Mordor
+	Corsair archers upgraded, damage nerf from 115 -> 110
+	Free orcs recruit time increased from 18s -> 20s
+	Orc pikemen and archers recruit time decreased from 20s -> 17s
+Lothlorien
+	Mirkwood elites no longer locked behind silverthorn arrows
+	Radast brambles cooldown increased from 60s to 90s
+	Mirror of galadriel ability moved to the primary palantir of the lothlorien fortress
+	Mirkwood palace guards health increased 1000 -> 1100
+	Thranduil aggressive stance weapon fixed
+Dwarves
+	Erebor axe throwers passive fixed
+	Nogroth smiths knockback increased from 10 -> 20

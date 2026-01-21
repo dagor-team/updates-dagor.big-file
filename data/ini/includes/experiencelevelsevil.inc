@@ -1,6 +1,8 @@
-#define EVIL_EXPANDABLE MordorGoblinSwordsman MordorGoblinFighterHorde MordorGoblinSwordsman_Slaved MordorGoblinArcher MordorGoblinArcherHorde MordorGoblinArcher_Slaved Isengardorcfighter IsengardorcfighterHorde WildPlunderork WildPlunderorkHorde GoblinFighter GoblinFighterHorde WildBannerGoblin GorkilEliteHorde GoblinSpear GoblinSpearHorde GoblinSpearHordeFormation GoblinSpearHorde_FromDefectedLair GoblinArcher GoblinArcher1 GoblinArcher2 GoblinArcherHorde GoblinArcherHorde_FromDefectedLair GoblinArcherHordeFormation MordorBannerOrc MordorFighter MordorFighterHorde MordorFighterHorde_Summoned MordorFighter_Gorthaur MordorFighterHordeGorthaur_Summoned MordorAufseherFighterHordeComboHorde MordorAufseherHorde MordorAufseher02Horde MordorAufseher_forHorde MordorAufseher02_forHorde MordorAufseherPikemanHordeComboHorde AngmarOrcWarriors AngmarOrcWarrior WildSklaven WildSklaveHobbit WildSklaveZwerg WildSklaveBauer1 WildSklaveBauer2 WildSklavenHorde WildSklavenHordeFree DwarvenSklaven GoblinTunnel GoblinTunnelHorde GoblinFighterHorde_FromDefectedLair GoblinFighterGroﬂork GoblinFighteGroﬂorkHorde GoblinFighterHordeFormation MordorCirithSchnuffler MordorPikeman MordorPikemanHorde MordorPikemanHordePorcupine GoblinFighterGroﬂork_SummonedHorde GoblinFighterGroﬂork_Summoned WildMiniScorpionHorde WildMiniScorpionHordeMember WildMiniScorpion
+#define EVIL_EXPANDABLE MordorGoblinSwordsman MordorGoblinFighterHorde MordorGoblinSwordsman_Slaved MordorGoblinArcher MordorGoblinArcherHorde MordorGoblinArcher_Slaved Isengardorcfighter IsengardorcfighterHorde WildBannerGoblin GorkilEliteHorde GoblinSpearHorde_FromDefectedLair GoblinArcherHorde_FromDefectedLair GoblinArcherHordeFormation MordorBannerOrc MordorFighter MordorFighterHorde MordorFighterHorde_Summoned MordorFighter_Gorthaur MordorFighterHordeGorthaur_Summoned MordorAufseherFighterHordeComboHorde MordorAufseherHorde MordorAufseher02Horde MordorAufseher_forHorde MordorAufseher02_forHorde MordorAufseherPikemanHordeComboHorde AngmarOrcWarriors AngmarOrcWarrior WildSklaven WildSklaveHobbit WildSklaveZwerg WildSklaveBauer1 WildSklaveBauer2 WildSklavenHorde WildSklavenHordeFree DwarvenSklaven GoblinTunnel GoblinTunnelHorde GoblinFighterHorde_FromDefectedLair GoblinFighterGroﬂork GoblinFighteGroﬂorkHorde GoblinFighterHordeFormation MordorCirithSchnuffler MordorPikeman MordorPikemanHorde MordorPikemanHordePorcupine GoblinFighterGroﬂork_SummonedHorde GoblinFighterGroﬂork_Summoned WildMiniScorpionHorde WildMiniScorpionHordeMember WildMiniScorpion
 
 #define EVIL_EXPANDABLE_SUMMONED MordorMorgulOrk_Summoned MordorMorgulOrkHorde_Summoned AngmarOrcWarriors_Summoned AngmarOrcWarrior_Summoned MordorCirithOrk_Summoned MordorCirithOrkHorde_Summoned
+
+#define GOBLIN_UNITS GoblinFighter GoblinFighterHorde WildPlunderork WildPlunderorkHorde GoblinSpear GoblinSpearHorde GoblinSpearHordeFormation GoblinArcher GoblinArcher1 GoblinArcher2 GoblinArcherHorde
 
 #define EVIL_CHEAP GoblinFighterHordeUpgraded GoblinFighterUpgraded GoblinSpearUpgraded GoblinSpearHordeUpgraded GoblinArcherBolg GoblinArcherBolgHorde MordorArcher MordorArcherForSlaved MordorArcherForBlackGate MordorArcherForGrond MordorArcher_Slaved MordorArcherBarricade_Slaved MordorArcherHorde MordorAufseherArcherHordeComboHorde MordorAufseherArcherHordeComboHorde_Fire MordorAufseher02ArcherHordeComboHorde_Fire MordorAufseher02ArcherHordeComboHorde AngmarRhudaurSpearmen AngmarRhudaurSpearman AngmarRhudaurSlingers AngmarRhudaurSpearmenNoBanner AngmarRhudaurSpearmenArnorBanner AngmarRhudaurSlinger AngmarRhudaurSlingersNoBanner IsengardWildman IsengardWildmanHorde IsengardWildmanHordeKampagne IsengardWildmanAxe IsengardWildmanAxeHorde IsengardWildSpearman IsengardWildSpearmanHorde IsengardWildmanAxeHordeMod IsengardWildmanAxeHordeModKampagne IsengardWildmanAxeHordeKampagne AngmarBannerOrcWarrior WildBannerGoblinBolg MordorAufseher WildBeutewagen WildBeutewagenFleisch WildBeutewagenGold WildBeutewagenBeute
 
@@ -336,6 +338,126 @@ ExperienceLevel    Evil_Cheap_InfantryLevel5
     TargetNames                       =    EVIL_CHEAP
     RequiredExperience                =    EXPERIENCE_REQUIRED_CHEAP_HORDE_5
     ExperienceAward                   =    EXPERIENCE_AWARD_CHEAP_HORDE_5
+    Rank                              =    5
+    Upgrades                          =    Upgrade_ObjectLevel5 Upgrade_MiniHordeLvl5 Upgrade_EliteHordeLvl5
+    AttributeModifiers                =    CheapHordeBonusRank5
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+    SelectionDecal
+        Texture               =    decal_I_level4
+        Texture2              =    decal_evil_CO
+        Style                 =    SHADOW_MERGE_DECAL
+        OpacityMin            =    80%
+        OpacityMax            =    100%
+        MinRadius             =    70
+        MaxRadius             =    200
+        MaxSelectedUnits      =    40
+    End
+END
+
+;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ExperienceLevel    Evil_Cheap_Infantry_Level1
+    TargetNames                       =    GOBLIN_UNITS
+    RequiredExperience                =    EXPERIENCE_REQUIRED_GOBLIN_HORDE_1
+    ExperienceAward                   =    EXPERIENCE_AWARD_GOBLIN_HORDE_1
+    Rank                              =    1
+    Upgrades                          =    Upgrade_ObjectLevel1 Upgrade_MiniHordeLvl1 Upgrade_EliteHordeLvl1
+    SelectionDecal
+        Texture               =    decal_I_level1
+        Texture2              =    decal_evil_CO
+        Style                 =    SHADOW_MERGE_DECAL
+        OpacityMin            =    80%
+        OpacityMax            =    100%
+        MinRadius             =    70
+        MaxRadius             =    200
+        MaxSelectedUnits      =    40
+    End
+END
+
+ExperienceLevel    Evil_Cheap_InfantryLevel2
+    TargetNames                       =    GOBLIN_UNITS
+    RequiredExperience                =    EXPERIENCE_REQUIRED_GOBLIN_HORDE_2
+    ExperienceAward                   =    EXPERIENCE_AWARD_GOBLIN_HORDE_2
+    Rank                              =    2
+    Upgrades                          =    Upgrade_ObjectLevel2 Upgrade_MiniHordeLvl2 Upgrade_EliteHordeLvl2
+    AttributeModifiers                =    CheapHordeBonusRank2
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+    SelectionDecal
+        Texture               =    decal_I_level2
+        Texture2              =    decal_evil_CO
+        Style                 =    SHADOW_MERGE_DECAL
+        OpacityMin            =    80%
+        OpacityMax            =    100%
+        MinRadius             =    70
+        MaxRadius             =    200
+        MaxSelectedUnits      =    40
+    End
+END
+
+ExperienceLevel    Evil_Cheap_InfantryLevel3
+    TargetNames                       =    GOBLIN_UNITS
+    RequiredExperience                =    EXPERIENCE_REQUIRED_GOBLIN_HORDE_3
+    ExperienceAward                   =    EXPERIENCE_AWARD_GOBLIN_HORDE_3
+    Rank                              =    3
+    Upgrades                          =    Upgrade_ObjectLevel3 Upgrade_MiniHordeLvl3 Upgrade_EliteHordeLvl3
+    AttributeModifiers                =    CheapHordeBonusRank3
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+    SelectionDecal
+        Texture               =    decal_I_level3
+        Texture2              =    decal_evil_CO
+        Style                 =    SHADOW_MERGE_DECAL
+        OpacityMin            =    80%
+        OpacityMax            =    100%
+        MinRadius             =    70
+        MaxRadius             =    200
+        MaxSelectedUnits      =    40
+    End
+END
+
+ExperienceLevel    Evil_Cheap_InfantryLevel4
+    TargetNames                       =    GOBLIN_UNITS
+    RequiredExperience                =    EXPERIENCE_REQUIRED_GOBLIN_HORDE_4
+    ExperienceAward                   =    EXPERIENCE_AWARD_GOBLIN_HORDE_4
+    Rank                              =    4
+    Upgrades                          =    Upgrade_ObjectLevel4 Upgrade_MiniHordeLvl4 Upgrade_EliteHordeLvl4
+    AttributeModifiers                =    CheapHordeBonusRank4
+    LevelUpFx                         =    FX:EvilLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+    SelectionDecal
+        Texture               =    decal_I_level4
+        Texture2              =    decal_evil_CO
+        Style                 =    SHADOW_MERGE_DECAL
+        OpacityMin            =    80%
+        OpacityMax            =    100%
+        MinRadius             =    70
+        MaxRadius             =    200
+        MaxSelectedUnits      =    40
+    End
+END
+
+ExperienceLevel    Evil_Cheap_InfantryLevel5
+    TargetNames                       =    GOBLIN_UNITS
+    RequiredExperience                =    EXPERIENCE_REQUIRED_GOBLIN_HORDE_5
+    ExperienceAward                   =    EXPERIENCE_AWARD_GOBLIN_HORDE_5
     Rank                              =    5
     Upgrades                          =    Upgrade_ObjectLevel5 Upgrade_MiniHordeLvl5 Upgrade_EliteHordeLvl5
     AttributeModifiers                =    CheapHordeBonusRank5

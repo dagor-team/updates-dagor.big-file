@@ -15,6 +15,21 @@
 ;------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
+#define EXPERIENCE_REQUIRED_GOBLIN_HORDE_1        1
+#define EXPERIENCE_REQUIRED_GOBLIN_HORDE_2        30
+#define EXPERIENCE_REQUIRED_GOBLIN_HORDE_3        40
+#define EXPERIENCE_REQUIRED_GOBLIN_HORDE_4        80
+#define EXPERIENCE_REQUIRED_GOBLIN_HORDE_5        140
+
+#define EXPERIENCE_AWARD_GOBLIN_HORDE_1            2
+#define EXPERIENCE_AWARD_GOBLIN_HORDE_2            3
+#define EXPERIENCE_AWARD_GOBLIN_HORDE_3            4
+#define EXPERIENCE_AWARD_GOBLIN_HORDE_4            5
+#define EXPERIENCE_AWARD_GOBLIN_HORDE_5            5
+
+;------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 #define EXPERIENCE_REQUIRED_CHEAP_HORDE_1        1
 #define EXPERIENCE_REQUIRED_CHEAP_HORDE_2        60
 #define EXPERIENCE_REQUIRED_CHEAP_HORDE_3        100

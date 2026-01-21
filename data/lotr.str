@@ -7359,7 +7359,7 @@ CONTROLBAR:SpecialAbilityUnablassigerPfeilregen
 END
 
 CONTROLBAR:ToolTipSpecialAbilityUnablassigerPfeilregen
-"Requires: Level 8 \n Only available in Ranged \n Haldir and Galadhrim near him for a short time 33% shoot faster \n Left click to activate"
+"Haldir and Galadhrim near him for 30 seconds deal 33% more damage\n Left click to activate"
 END
 
 CONTROLBAR:SpecialAbilityBotederHoffnung
@@ -8071,7 +8071,7 @@ CONTROLBAR:ToolTipAnfuhrerGaladhrim_New
 END
 
 CONTROLBAR:ToolTipAnfuhrerGaladhrim_NewSummon
-"Requires: Level 6 \n Haldir dons his battle armor and leads the Galadhrim in the battle \n Haldir takes 5% less damage while allied rohan infantry near him receive +30% attack \n Passive ability"
+"Haldir dons his battle armor and leads the Galadhrim in the battle \n Haldir takes 5% less damage while allied rohan infantry near him receive +30% attack \n Passive ability"
 END
 
 CONTROLBAR:ToolTipBregaladEntLeader_New
@@ -11086,7 +11086,7 @@ CONTROLBAR:RohanGimliRecruit_forHK
 END
 
 CONTROLBAR:AngmarDurmarthRecruit_forCarnDum
-"Recruit the lieutenant of the Black Guard \n Durmarth is the Guardsman and Enforcer of Angmar, the Captain of the Shadow Guard. He can change between acting as a Guardsman (Hero Supporter) or as an Enforcer (Hero Killer). \n \n Lore: \n Durmarth, was born a man of Arthedain, called Atauko. After his father's death, Durmarth and his mother moved with his uncle, who was abusive to them. After a while, he ended up killing his uncle and he had to flee, his mother getting killed in the process. After that, wolves were about to eat him, when a man, who turned out to be Gulzar, killed them and saved him.  Atauko was brought to Carn-D m, where he was given the name Durmarth by the High Sorcerer of Angmar. From then and onwards, he could not think of anything but his hatred for Arthedain. Durmarth became a loyal follower of the Iron Crown, learning to tame Wolves and Trolls (losing his left ring finger in the process). He swore to protect the man who had saved him, and after a while, he ended up becoming the Captain of the Shadow Guard of the Witch-King himself."
+"Recruit the lieutenant of the Black Guard \n Durmarth is the Guardsman and Enforcer of Angmar, the Captain of the Shadow Guard. He can change between acting as a Guardsman (Hero Supporter) or as an Enforcer (Hero Killer). \n \n Lore: \n Durmarth, was born a man of Arthedain, called Atauko. After his father's death, Durmarth and his mother moved with his uncle, who was abusive to them. After a while, he ended up killing his uncle and he had to flee, his mother getting killed in the process. After that, wolves were about to eat him, when a man, who turned out to be Gulzar, killed them and saved him. Atauko was brought to Carn-Dum, where he was given the name Durmarth by the High Sorcerer of Angmar. From then and onwards, he could not think of anything but his hatred for Arthedain. Durmarth became a loyal follower of the Iron Crown, learning to tame Wolves and Trolls (losing his left ring finger in the process). He swore to protect the man who had saved him, and after a while, he ended up becoming the Captain of the Shadow Guard of the Witch-King himself."
 END
 
 CONTROLBAR:ElendilAthelas
@@ -20867,7 +20867,7 @@ CONTROLBAR:ToolTipDurmarthSchwarzeGarde
 END
 
 CONTROLBAR:AngmarDurmarthRecruit
-" Recruit the lieutenant of the Black Guard \n Durmarth is the Guardsman and Enforcer of Angmar, the Captain of the Shadow Guard. He can change between acting as a Guardsman Class: Hero support \n or as an Enforcer Class: Hero Killer \n\n Lore: \n Durmarth, was born a man of Arthedain, called Atauko. After his father's death, Durmarth and his mother moved with his uncle, who was abusive to them. After a while, he ended up killing his uncle and he had to flee, his mother getting killed in the process. After that, wolves were about to eat him, when a man, who turned out to be Gulzar, killed them and saved him.  Atauko was brought to Carn-D m, where he was given the name Durmarth by the High Sorcerer of Angmar. From then and onwards, he could not think of anything but his hatred for Arthedain. Durmarth became a loyal follower of the Iron Crown, learning to tame Wolves and Trolls (losing his left ring finger in the process). He swore to protect the man who had saved him, and after a while, he ended up becoming the Captain of the Shadow Guard of the Witch-King himself. "
+" Recruit the lieutenant of the Black Guard \n Durmarth is the Guardsman and Enforcer of Angmar, the Captain of the Shadow Guard. He can change between acting as a Guardsman Class: Hero support \n or as an Enforcer Class: Hero Killer \n\n Lore: \n Durmarth, was born a man of Arthedain, called Atauko. After his father's death, Durmarth and his mother moved with his uncle, who was abusive to them. After a while, he ended up killing his uncle and he had to flee, his mother getting killed in the process. After that, wolves were about to eat him, when a man, who turned out to be Gulzar, killed them and saved him.  Atauko was brought to Carn-Dum, where he was given the name Durmarth by the High Sorcerer of Angmar. From then and onwards, he could not think of anything but his hatred for Arthedain. Durmarth became a loyal follower of the Iron Crown, learning to tame Wolves and Trolls (losing his left ring finger in the process). He swore to protect the man who had saved him, and after a while, he ended up becoming the Captain of the Shadow Guard of the Witch-King himself. "
 END
 
 CONTROLBAR:DurmarthLeadership
@@ -58970,7 +58970,7 @@ CONTROLBAR:BruchtalwachterHorde
 END
 
 CONTROLBAR:ToolTipBruchtalwachterHorde
-"Requires: Barracks Level 2, Elrond level 5 and Forged Blades \n Unit Type: Elite Infantry \n Strong vs: Infantry and Heroes \n Imladris Library upgrades allows the Guardian to unlock special abilities \n You can only build 4 Guardians at the same time"
+"Requires: Barracks Level 2 \n Unit Type: Elite Infantry \n Strong vs: Infantry and Heroes \n You can only build 4 Guardians at the same time"
 END
 
 BANNERUI:Bruchtalwachter
@@ -59047,7 +59047,7 @@ CONTROLBAR:BuildElvenKnightHorde
 END
 
 CONTROLBAR:ToolTipBuildElvenKnightHorde
-"Requires: Green Pasture Level 3, Wind Rider Shields and Glorfindel level 5 \n Unit Type: Elite Cavalry \n Class: Light Cavalry \n Strong in melee, especially when flanking \n Weak vs: monsters and pikemen \n Imladris Library upgrades allow the battalion to unlock special abilities \n You can maintain only 3 battalions at a time"
+"Requires: Green Pasture Level 3, Wind Rider Shields \n Unit Type: Elite Cavalry \n Class: Light Cavalry \n Strong in melee, especially when flanking \n Weak vs: monsters and pikemen \n You can maintain only 3 battalions at a time"
 END
 
 CONTROLBAR:ToolTipBuildElvenKnightHordeInn
@@ -67698,7 +67698,7 @@ CONTROLBAR:SpecialAbilityFortressMachtHK
 END
 
 CONTROLBAR:TooltipSpecialAbilityFortressMachtHK
-"The Power of the Witch-king is transferred to a selected hero \n Zaphragor: For a short, Zaphragor periodically explodes with magical devastation\n Maeglin: Momentarily heals allies heroes around him \n Mornamarth: Every Man of Carn-D m on the battlefield becomes one of the Elect \n Gulzar: Temporarily regenerates Acolytes with great speed \n Durmarth: For a short time, his seals are strengthened \n Rogash: Permanently receives an increase in his health and speed \n Karsh: Becomes permanently bound to the Iron Crown \n Hwaldar: Receives a massive increase to stats \n Beastmaster: Can merge with his beast into a powerful Werewolf \n Helegwen: Her arrows pierce through enemies \n Left-click on a Hero of Angmar"
+"The Power of the Witch-king is transferred to a selected hero \n Zaphragor: For a short, Zaphragor periodically explodes with magical devastation\n Maeglin: Momentarily heals allies heroes around him \n Mornamarth: Every Man of Carn-Dum on the battlefield becomes one of the Chosen \n Durmarth: Permanently receives double damage and his seals are strengthened \n Rogash: Permanently receives an increase in his health and speed \n Karsh: Becomes permanently bound to the Iron Crown \n Hwaldar: Permanently receives 25% speed and 75% armor \n Beastmaster: Can merge with his beast into a powerful Werewolf \n Helegwen: Her arrows pierce through enemies \n Left-click on a Hero of Angmar"
 END
 
 CONTROLBAR:PurchaseUpgradeAngmarFortressBanners
@@ -67939,7 +67939,7 @@ CONTROLBAR:PurchaseUpgradeGemacherderSchwarzenGarde
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeGemacherderSchwarzenGarde
-"Is required for the training of Black Numenorean Guard and Knight Guard \n\n Improved fighting capacities of Black Numenorians and Black Numenorian Pikemen"
+"Required to recruit Black Guard and Black Riders \n\n Unlocks veterancy bonus for Black Numenorians and Black Numenorian Pikemen giving them 60 health and 15 damage upon reaching level 5"
 END
 
 TOOLTIP:LackSchwarzeGarde
@@ -106586,7 +106586,7 @@ CONTROLBAR:ConstructBruchtalVeteranHorde
 END
 
 CONTROLBAR:ToolTipBuildBruchtalVeteranHorde
-"Requires: Barracks Level 3, Helmets of the Last Alliance and Gil Galad level 5 on the battlefield \n Unit Type: Special Elite Infantry \n Strong vs: Everything \n You can only have a maximum of 3 veteran hordes at the same time"
+"Requires: Barracks Level 3, Helmets of the Last Alliance and Forged blades researched \n Unit Type: Special Elite Infantry \n Strong vs: Everything \n You can only have a maximum of 3 veteran hordes at the same time"
 END
 
 CONTROLBAR:LW_Unit_HordeBruchtalVeteran
@@ -109185,7 +109185,7 @@ CONTROLBAR:SpecialAbilityLeuchtenderPfeil
 END
 
 CONTROLBAR:ToolTipSpecialAbilityLeuchtenderPfeil
-"Requires Level 2 \n Haldir shoots a mighty shining arrow which deals damage and paralyzes nearby enemies \n Left click on the icon then left click on the target"
+"Haldir shoots a mighty shining arrow which deals damage and pins a hero in place \n Left click on the icon then left click on the target"
 END
 
 CONTROLBAR:RohanPeasantsDraft

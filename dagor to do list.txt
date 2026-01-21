@@ -18,22 +18,15 @@ TO DO GORGO:
 abilities for saleme and bounty hunter and hunter + names
 hunter - done
 
-rohan haldir summon - 3 hordes/temporary spawns with swords - done
-peasants weapons after draft - done
-fix eomers lvl 5 - done
-lower the pp requirement for 3 hunters - done
-rohirrim from the camp using bows - done
-Helm more abilities before fa, summoned level 4 after fa - done
-taniquetil watchers dmg? - done
-eonwe - last 2 abilities fix
+rohan haldir summon - 3 hordes/temporary spawns with swords - bugged/crashes
+Helm more abilities before fa  - done; summoned level 4 after fa - 
+eonwe - last 2 abilities fix - 
 descriptions
-horse archer range - done
-tranduil aggressive stance range fix - done
-lossarnach axemen dmg - done
-durmarth - done
-loth elites - unlocked
-galadriels mirror put on the primary loth fortress commandset - done
-galadriel lvl 7 moved to lvl 10 and invulnerability given to mablung
+galadriel lvl 7 moved to lvl 10 and invulnerability given to mablung -
+imrahil lvl 3 and lvl 7 switched - 
+angband drakes -
+balrogs - 
+
 
 PRIORITIES:
 
