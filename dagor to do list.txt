@@ -26,7 +26,8 @@ galadriel lvl 7 moved to lvl 10 and invulnerability given to mablung -
 imrahil lvl 3 and lvl 7 switched - 
 angband drakes -
 balrogs - 
-
+peasants model update, include pitchforks - 
+pitchforks art - done
 
 PRIORITIES:
 
