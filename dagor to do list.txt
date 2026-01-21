@@ -28,6 +28,7 @@ angband drakes -
 balrogs - 
 peasants model update, include pitchforks - 
 pitchforks art - done
+gamling lvl 2 fix - 
 
 PRIORITIES:
 

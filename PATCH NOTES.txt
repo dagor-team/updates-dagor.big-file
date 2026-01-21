@@ -26,6 +26,7 @@ Rohan
 	3 hunters summon costs only 15 pp
 	Peasants damage increased from 26 -> 33 unupgraded; from 44 -> 55 with forged blades
 	Captain swordsmen damage increased from 90 -> 190 unupgraded; from 140 -> 260 upgraded
+	Eonwe´s best with weapons ability usable on valars
 Gondor
 	Lossarnach axemen speed nerfed from 62 -> 52
 	Tower guards health increased from 900 -> 1100
@@ -36,6 +37,7 @@ Goblins
 Imladris
 	Veterans, Wind riders and Guardians are no longer locked behind hero levels
 	Scholar system removed
+	Tulkas can pin valars
 Mordor
 	Corsair archers upgraded, damage nerf from 115 -> 110
 	Free orcs recruit time increased from 18s -> 20s

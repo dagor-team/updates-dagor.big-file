@@ -11042,7 +11042,7 @@ CONTROLBAR:TooltipGandalfderWeiﬂefor_HK
 END
 
 CONTROLBAR:ToolTipSpellbookSummonElben_HK
-"Haldir and his Elves renew the alliance \n Permanently summons Haldir and 3 Galadhrim on the battlefield \n Left-click on the icon, and then click a passable area"
+"Haldir and his elven guard come to renew their vow of alliance and help defend Helms Deep against the hordes of Isengard \n Temporarily summons Haldir and 3 Galadhrim on the battlefield \n Left-click on the icon, and then click a passable area"
 END
 
 CONTROLBAR:SpellBookErkenbrandWestfoldfor_HK
@@ -92860,7 +92860,7 @@ CONTROLBAR:EonweWrathofValinor
 END
 
 CONTROLBAR:ToolTipEonweWrathofValinor
-"Eonwe was sent to Middle-earth to fight the War of Wrath, leading the Vanyar\n The powerful Maia leads nearby troops, granting protection in combat\n Left-click to activate"
+"Eonwe was sent to Middle-earth to fight the War of Wrath, leading the Vanyar\n The powerful Maia leads nearby troops, granting tripple damage for all infantry and heroes for 30 seconds\n Left-click to activate"
 END
 
 CONTROLBAR:EonweElentariStarlight

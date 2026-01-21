@@ -1177,6 +1177,34 @@ END
 ;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
+ExperienceLevel    Good_Advanced_InfantryLevel5
+    TargetNames                       =    GOOD_ADVANCED_SUMMONED
+    RequiredExperience                =    1
+    ExperienceAward                   =    EXPERIENCE_AWARD_ADVANCED_HORDE_2
+    Rank                              =    2
+    Upgrades                          =    Upgrade_ObjectLevel1 Upgrade_MiniHordeLvl1 Upgrade_EliteHordeLvl1 Upgrade_ObjectLevel2 Upgrade_MiniHordeLvl2 Upgrade_EliteHordeLvl2
+    AttributeModifiers                =    AdvancedHordeBonusRank5
+    LevelUpFx                         =    FX:GandalfLevelUp1FX
+    LevelUpTintColor                  =    R:255 G:255 B:255
+    LevelUpTintPreColorTime           =    500
+    LevelUpTintPostColorTime          =    3000
+    LevelUpTintSustainColorTime       =    500
+    EmotionType                       =    CHEER
+    SelectionDecal
+        Texture               =    decal_G_level4
+        Texture2              =    decal_good_CO
+        Style                 =    SHADOW_MERGE_DECAL
+        OpacityMin            =    80%
+        OpacityMax            =    100%
+        MinRadius             =    70
+        MaxRadius             =    200
+        MaxSelectedUnits      =    40
+    End
+END
+
+;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 ExperienceLevel    Good_Advanced3_Infantry_Level1
     TargetNames                       =    GOOD_ADVANCED_3
     RequiredExperience                =    EXPERIENCE_REQUIRED_ADVANCED_3_HORDE_1
