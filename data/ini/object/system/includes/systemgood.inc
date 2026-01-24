@@ -243,7 +243,7 @@
         SpecialPowerTemplate        = SpellBookHornderNoldor
         AttributeModifier            = SpellBookRallyingCallModifier
         AttributeModifierRange        = 100
-        AttributeModifierAffects    = ANY +HORDE +INFANTRY -HERO -DOZER -IsengardFanatic -IsengardBerserkerHorde  -DwarvenZerker -DwarvenZerkerHorde -NoldorWarrior -NoldorWarriorHorde
+        AttributeModifierAffects    = ANY +HORDE +CAVALRY +INFANTRY -HERO -DOZER -IsengardFanatic -IsengardBerserkerHorde  -DwarvenZerker -DwarvenZerkerHorde -NoldorWarrior -NoldorWarriorHorde
         TriggerFX                    = FX_SpellNoldorHorn
         UpdateModuleStartsAttack    = No
         AvailableAtStart            = No
@@ -255,7 +255,7 @@
         SpecialPowerTemplate        = SpellBookHornderLorien
         AttributeModifier            = SpellBookRallyingCallModifier
         AttributeModifierRange        = 100
-        AttributeModifierAffects    = ANY +HORDE +INFANTRY -HERO -DOZER -IsengardFanatic -IsengardBerserkerHorde  -DwarvenZerker -DwarvenZerkerHorde -NoldorWarrior -NoldorWarriorHorde
+        AttributeModifierAffects    = ANY +HORDE +CAVALRY +INFANTRY -HERO -DOZER -IsengardFanatic -IsengardBerserkerHorde  -DwarvenZerker -DwarvenZerkerHorde -NoldorWarrior -NoldorWarriorHorde
         TriggerFX                    = FX_SpellGaladhrimHorn
         UpdateModuleStartsAttack    = No
         AvailableAtStart            = No
@@ -267,7 +267,7 @@
         SpecialPowerTemplate        = SpellBookWaffenderNoldor
         AttributeModifier            = SpellBookRallyingCallModifier
         AttributeModifierRange        = 100
-        AttributeModifierAffects    = ANY +HORDE +INFANTRY -HERO -DOZER -IsengardFanatic -IsengardBerserkerHorde  -DwarvenZerker -DwarvenZerkerHorde -NoldorWarrior -NoldorWarriorHorde
+        AttributeModifierAffects    = ANY +HORDE +CAVALRY +INFANTRY -HERO -DOZER -IsengardFanatic -IsengardBerserkerHorde  -DwarvenZerker -DwarvenZerkerHorde -NoldorWarrior -NoldorWarriorHorde
         TriggerFX                    = FX_SpellNoldorHorn
         UpdateModuleStartsAttack    = No
         AvailableAtStart            = No
@@ -771,7 +771,7 @@
         SpecialPowerTemplate         = SpellBookHornRohans
         AttributeModifier            = SpellBookRallyingCallModifier
         AttributeModifierRange       = 100
-        AttributeModifierAffects     = ANY +HORDE +INFANTRY -HERO -IsengardFanatic -IsengardBerserkerHorde  -DwarvenZerker -DwarvenZerkerHorde -NoldorWarrior -NoldorWarriorHorde
+        AttributeModifierAffects     = ANY +HORDE +CAVALRY +INFANTRY -HERO -IsengardFanatic -IsengardBerserkerHorde  -DwarvenZerker -DwarvenZerkerHorde -NoldorWarrior -NoldorWarriorHorde
         TriggerFX                    = FX_SpellKingAndCountry
         UpdateModuleStartsAttack     = No
         AvailableAtStart             = No
@@ -881,7 +881,7 @@
         SpecialPowerTemplate        = SpellBookZwergenhorn
         AttributeModifier            = SpellBookRallyingCallModifier
         AttributeModifierRange        = 100
-        AttributeModifierAffects    = ANY +HORDE +INFANTRY -HERO -IsengardFanatic -IsengardBerserkerHorde  -DwarvenZerker -DwarvenZerkerHorde -NoldorWarrior -NoldorWarriorHorde
+        AttributeModifierAffects    = ANY +HORDE +CAVALRY +INFANTRY -HERO -IsengardFanatic -IsengardBerserkerHorde  -DwarvenZerker -DwarvenZerkerHorde -NoldorWarrior -NoldorWarriorHorde
         TriggerFX                    = FX_SpellRallyingCallIH
         UpdateModuleStartsAttack    = No
         AvailableAtStart            = No
@@ -1016,7 +1016,7 @@
         SpecialPowerTemplate        = SpellBookRallyingCallKampagne
         AttributeModifier            = SpellBookRallyingCallModifier
         AttributeModifierRange        = 100
-        AttributeModifierAffects    = ANY +HORDE +INFANTRY -HERO -IsengardFanatic -IsengardBerserkerHorde  -DwarvenZerker -DwarvenZerkerHorde -NoldorWarrior -NoldorWarriorHorde
+        AttributeModifierAffects    = ANY +HORDE +CAVALRY +INFANTRY -HERO -IsengardFanatic -IsengardBerserkerHorde  -DwarvenZerker -DwarvenZerkerHorde -NoldorWarrior -NoldorWarriorHorde
         TriggerFX                    = FX_SpellRallyingCallGondor
         UpdateModuleStartsAttack    = No
         AvailableAtStart            = No

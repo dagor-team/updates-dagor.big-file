@@ -11,7 +11,7 @@ Angmar
 	Shadow knight health nerfed from 5000 -> 3400
 	Angmar swordsmen damage nerfed from 200 -> 110 unupgraded and from 300 -> 190 upgraded
 Rohan
-	Gamling level 6 leadership no longer gives bonus range to horse archers
+	Gamling level 6 leadership no longer gives bonus range to horse archers; now includes horse archers from the rohirrim camp
 	Draft health bonus increased from 50 -> 150
 	Haldir Summon now summons 3 battalions wielding swords when summoned
 	Haldir has an aditional ability and has all his other abilities unlocked
@@ -27,6 +27,7 @@ Rohan
 	Peasants damage increased from 26 -> 33 unupgraded; from 44 -> 55 with forged blades
 	Captain swordsmen damage increased from 90 -> 190 unupgraded; from 140 -> 260 upgraded
 	Eonwe´s best with weapons ability usable on valars
+	Spear throwes health increased from 350 -> 600; damage increased from 55 -> 75 unupgraded, 90 -> 120
 Gondor
 	Lossarnach axemen speed nerfed from 62 -> 52
 	Tower guards health increased from 900 -> 1100
@@ -49,5 +50,8 @@ Lothlorien
 	Mirkwood palace guards health increased 1000 -> 1100
 	Thranduil aggressive stance weapon fixed
 Dwarves
-	Erebor axe throwers passive fixed
+	Erebor axe throwers passive fixed; damage nerfed from 100 -> 70 unupgraded; from 200 -> 140 upgraded
 	Nogroth smiths knockback increased from 10 -> 20
+	Dwarven faction leaders attack speed decreased by 50%
+	Erebor dain level 10 catapults removed; Erebor defenders limited to 4
+	Iron hills dain level 10 a catapult removed
