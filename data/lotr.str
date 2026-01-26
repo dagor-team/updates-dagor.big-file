@@ -54458,7 +54458,7 @@ CONTROLBAR:ConstructGondorTowerGuardHorde
 END
 
 CONTROLBAR:ToolTipBuildGondorTowerGuardHorde
-"Requires: Barracks Level 2 \n Unit Type: Advanced Pikemen \n Strong vs: Cavalry and Monsters"
+"Requires: Barracks Level 3 \n Unit Type: Advanced Pikemen \n Strong vs: Cavalry and Monsters"
 END
 
 CONTROLBAR:ToolTipBuildGondorShieldGuardHorde_Monument
@@ -54608,6 +54608,26 @@ END
 
 CONTROLBAR:ToolTipBuildRingValeSwordsmanHorde
 "Unit Type: Basic Infantry \n Strong vs: Archer and Pikemen"
+END
+
+OBJECT:LamedonRider
+"Lamedon Rider"
+END
+
+OBJECT:LamedonRiderBanner
+"Lamedon Rider Banner"
+END
+
+OBJECT:HordeLamedonRiders
+"Lamedon Rider Horde"
+END
+
+CONTROLBAR:LW_Unit_LamedonRiderHorde
+"Lamedon Riders Battalion"
+END
+
+CONTROLBAR:LW_ToolTip_LamedonRiderHorde
+"\nUnit Type: Regular Cavalry\n Class: Medium Cavalry \n Strong at trampling vs: Archers and Swordsmen"
 END
 
 CONTROLBAR:ConstructLehenLamedonRiderHorde
@@ -65451,7 +65471,7 @@ CONTROLBAR:ConstructIsengardBergwargreiterHorde
 END
 
 CONTROLBAR:ToolTipBuildIsengardBergwargreiterHorde
-"Unit Type: Regular Cavalry \n Strong vs: Infantry"
+"Unit Type: Regular Cavalry \n Class: Light Cavalry \n Strong at flanking and vs: archers"
 END
 
 BANNERUI:Bergwargreiter
@@ -65483,7 +65503,7 @@ CONTROLBAR:ConstructIsengardZuchtwargreiterHorde
 END
 
 CONTROLBAR:ToolTipBuildIsengardZuchtwargreiterHorde
-"Requires: Warg Pit Level 2 \n Unit Type: Regular Cavalry \n Strong vs: Infantry"
+"Requires: Warg Pit Level 2 \n Unit Type: Regular Cavalry \n Class: Medium Cavalry \n Strong at trampling vs: Swordsmen and Archers"
 END
 
 BANNERUI:Zuchtwargreiter
@@ -65516,7 +65536,7 @@ CONTROLBAR:ConstructIsengardSharkuswargreiterHorde
 END
 
 CONTROLBAR:ToolTipBuildIsengardSharkuswargreiterHorde
-"Requires: Warg Pit Level 3 \n Unit Type: Regular Cavalry \n Strong vs: Infantry"
+"Requires: Warg Pit Level 3 \n Unit Type: Regular Cavalry \n Unit Type: Regular Cavalry \n Class: Medium Cavalry \n Strong in melee"
 END
 
 BANNERUI:Sharkuswargreiter
