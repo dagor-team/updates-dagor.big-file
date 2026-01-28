@@ -7,5 +7,8 @@ Imladris
 	Guardians new ability; armor increased pre level 5 and increased past level 5
 Mordor 
 	Suladan xp requirement and award increased
+	Saleme damage reduced from 400 -> 300
 Lothlorien
 	Beornings damage increased in human form and decreased in bear form
+Goblins
+	Angband baby drakes health nerfed from 2200 -> 2000

@@ -85857,7 +85857,7 @@ CONTROLBAR:ConstructArnorKnightHorde
 "Dunedain Knights (&W)"
 END
 
-CONTROLBAR:ToolTipConstructArnorKnightHorde
+CONTROLBAR:ToolTipBuildArnorKnightHorde
 "Unit Type: Regular Cavalry \n Class: Heavy Cavalry \n Strong in melee \n Weak trample capacity"
 END
 
