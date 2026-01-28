@@ -131,6 +131,14 @@
         <ModelConditionEvent Name="NOTModelConditionMOUNTED">
              <Conditions>-MOUNTED</Conditions>
         </ModelConditionEvent>
+		
+		<ModelConditionEvent Name="ModelConditionWEAPONSET_TOGGLE_1">
+             <Conditions>+WEAPONSET_TOGGLE_1</Conditions>
+        </ModelConditionEvent>
+
+		<ModelConditionEvent Name="ModelConditionNOTWEAPONSET_TOGGLE_1">
+             <Conditions>-WEAPONSET_TOGGLE_1</Conditions>
+        </ModelConditionEvent>
 
         <ModelConditionEvent Name="ModelConditionUSER_1">
              <Conditions>+USER_1</Conditions>

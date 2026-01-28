@@ -18,17 +18,15 @@ TO DO GORGO:
 abilities for saleme and bounty hunter and hunter + names
 hunter - done
 
-rohan haldir summon - 3 hordes/temporary spawns with swords - bugged/crashes
-Helm more abilities before fa  - done; summoned level 4 after fa - 
-eonwe - last 2 abilities fix - 
-descriptions
+imla guardians blademaster ability - 
+
+descriptions - quickbeam ability; durburz goblins name; goblin captain ability; Olwe name, level 10; palace guards type; summoned Hurin name; druadan banners; 
 galadriel lvl 7 moved to lvl 10 and invulnerability given to mablung -
 imrahil lvl 3 and lvl 7 switched - 
 angband drakes -
-balrogs - 
+balrogs - done
 peasants model update, include pitchforks - 
 pitchforks art - done
-gamling lvl 2 fix - 
 
 PRIORITIES:
 

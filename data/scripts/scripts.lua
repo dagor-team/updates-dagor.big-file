@@ -1169,6 +1169,16 @@ function OffRetterinderNot(self)
    ObjectRemoveUpgrade( self, "Upgrade_RaiseSchmiedekunst" )
 end
 
+function OnWeaponSwitch(self)
+   ObjectGrantUpgrade( self, "Upgrade_TestBuilding" )
+   ObjectRemoveUpgrade( self, "Upgrade_TestBuilding_2" )
+end
+
+function OffWeaponSwitch(self)
+   ObjectGrantUpgrade( self, "Upgrade_TestBuilding_2" )
+   ObjectRemoveUpgrade( self, "Upgrade_TestBuilding" )
+end
+
 function AttackSpeedChange(self)
 	ObjectDoSpecialPower( self, "SpecialAbilityWolfCult" )
 end

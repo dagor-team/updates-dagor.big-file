@@ -7558,8 +7558,16 @@ CONTROLBAR:ToolTipSpecialAbilityGildorScout
 "Gildor runs ahead to scout as a forward patrol. \n Gildor's farsight reveals an area on the map. \n Left click on a target area"
 END
 
+CONTROLBAR:GildorSkirmish
+"Helping Hand (&E)"
+END
+
+CONTROLBAR:ToolTipGildorSkirmish
+"Requires: Level 3 \n Gildor helps the elves of Rivendel win a skirmish \n Neary basic imladris units gain resources per kill for 15 seconds \n Left click to activate"
+END
+
 CONTROLBAR:SpecialAbilityGildorGesang
-"Gildor's Singing"
+"Gildor's Singing (&R)"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityGildorGesang
@@ -8071,7 +8079,7 @@ CONTROLBAR:ToolTipAnfuhrerGaladhrim_NewSummon
 END
 
 CONTROLBAR:ToolTipBregaladEntLeader_New
-"Quickbeam's hastiness encourages other ents to act more quickly\n Ents, including Treebeard, will be recruiteDainstantly for a short time\n Left-click to activate"
+"Quickbeam's hastiness encourages other ents to act more quickly\n Ents, including Treebeard, will be recruited instantly for a short time\n Left-click to activate"
 END
 
 CONTROLBAR:ToolTipHaldirElbenmantel
@@ -8319,7 +8327,7 @@ CONTROLBAR:ToolTipSpecialAbilityGlorfindelBalrogkiller_New
 END
 
 CONTROLBAR:BolgsLeibgarde
-"Durbagh sh Uruks"
+"Durbaghash Uruks"
 END
 
 CONTROLBAR:GenericMountTooltipHama
@@ -9936,7 +9944,7 @@ CONTROLBAR:SpecialAbilityDieHordenSammeln
 END
 
 CONTROLBAR:ToolTipSpecialAbilityDieHordenSammeln
-"Durburz selects a Goblin Cave as the rally point for his forces.\n The designated Goblin Cave can recruit Durbagh sh Goblins, elite versions of the normal goblin units.\n in addition, the Goblin Cave is guarded by Durbagh sh Elite Goblins.\n Left-click on a target allied Goblin Cave"
+"Durburz selects a Goblin Cave as the rally point for his forces.\n The designated Goblin Cave can recruit Durbaghash Goblins, elite versions of the normal goblin units.\n in addition, the Goblin Cave is guarded by Durbaghash Elite Goblins.\n Left-click on a target allied Goblin Cave"
 END
 
 CONTROLBAR:SpecialAbilityBannerderOrkhorde
@@ -9944,7 +9952,7 @@ CONTROLBAR:SpecialAbilityBannerderOrkhorde
 END
 
 CONTROLBAR:UntiefenGundabergKing
-"Durbagh sh Guardians"
+"Durbaghash Guardians"
 END
 
 CONTROLBAR:ToolTipBlutigesAntreibenBolg
@@ -16112,8 +16120,16 @@ CONTROLBAR:SpecialAbilityHammerschlage
 "Hammer"
 END
 
+CONTROLBAR:BladeMastery
+"Blade Mastery (&W)"
+END
+
+CONTROLBAR:ToolTipBladeMastery
+"Guardians gain double damage for 2 seconds \n\n Cooldown: 60 seconds \n Left-click to activate"
+END
+
 CONTROLBAR:SpecialAbilityBlitzendeKlingen
-"Flashing Blades"
+"Flashing Blades (&R)"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityBlitzendeKlingen
@@ -57915,7 +57931,7 @@ CONTROLBAR:LothlorienMirkwoodPalaceGuardHorde
 END
 
 CONTROLBAR:ToolTipBuildLothlorienMirkwoodPalaceGuardHorde
-"Requires: Captain of the Watch \n Unit Type: Elite Pikemen \n Strong vs: Cavalry and Monsters \n You can only build 4 units at the same time"
+"Requires: Captain of the Watch \n Unit Type: Advanced Pikemen \n Strong vs: Cavalry and Monsters \n You can only build 4 units at the same time"
 END
 
 BANNERUI:MirkwoodPalaceGuard
@@ -60886,7 +60902,7 @@ OBJECT:HordeDwarvenAxeThrower
 END
 
 CONTROLBAR:ConstructDwarvenAxeThrowerHorde
-"Erebor Axe Throwers (7R)"
+"Erebor Axe Throwers (&R)"
 END
 
 CONTROLBAR:ToolTipBuildDwarvenBowHorde
@@ -66713,15 +66729,15 @@ END
 
 
 OBJECT:GoblinFighterBolg
-"Durbagh sh Warrior"
+"Durbaghash Warrior"
 END
 
 OBJECT:HordeGoblinFightersUpgraded
-"Durbagh sh Warriors"
+"Durbaghash Warriors"
 END
 
 CONTROLBAR:ConstructGoblinFighterHordeUpgraded_Summoned
-"Durbagh sh &Warriors"
+"Durbaghash &Warriors"
 END
 
 CONTROLBAR:ToolTipBuildGoblinFighterHordeUpgraded_Summoned
@@ -66729,19 +66745,19 @@ CONTROLBAR:ToolTipBuildGoblinFighterHordeUpgraded_Summoned
 END
 
 BANNERUI:GoblinFighterHordeUpgraded
-"Durbagh sh Warrior"
+"Durbaghash Warrior"
 END
 
 BANNERUI:GoblinFighterHordeUpgradeds
-"Durbagh sh Warriors"
+"Durbaghash Warriors"
 END
 
 CONTROLBAR:LW_Unit_GoblinFighterHordeUpgraded
-"Durbagh sh Warrior Battalion"
+"Durbaghash Warrior Battalion"
 END
 
 CONTROLBAR:LW_Unit_GoblinFighterHordeUpgradedPlural
-"Durbagh sh Warrior Battalions"
+"Durbaghash Warrior Battalions"
 END
 
 CONTROLBAR:LW_ToolTip_GoblinFighterHordeUpgraded
@@ -66794,7 +66810,7 @@ CONTROLBAR:LW_ToolTip_GoblinArcherHorde
 END
 
 OBJECT:GoblinArcherBolg
-"Durbagh sh Archer"
+"Durbaghash Archer"
 END
 
 OBJECT:GoblinArcherBolgHorde
@@ -71472,7 +71488,7 @@ CONTROLBAR:ToolTipSummonRoyalGuard
 END
 
 CONTROLBAR:ToolTipSummonRoyalGuardEreborNew
-"Requires: Level 10 \n As King of the Dwarves, Dain calls 4 Guardian battalions from Erebor, 2 Battlewagons, 2 Catapults and 1 Earth Hammer \n Left-click on the icon, and then click a passable area"
+"Requires: Level 10 \n As King of the Dwarves, Dain calls 4 Guardian battalions from Erebor and 1 Earth Hammer \n Left-click on the icon, and then click a passable area"
 END
 
 CONTROLBAR:MightyRage
@@ -91484,15 +91500,15 @@ CONTROLBAR:ToolTipBelegBelthrondingVengeance
 END
 
 OBJECT:AlqualondOlwe
-"Olwe "
+"Olwe"
 END
 
 CONTROLBAR:LW_Hero_AlqualondOlwe
-"Olwe "
+"Olwe"
 END
 
 CONTROLBAR:AlqualondOlweRecruit
-"Recruit the King of the Teleri in Aman \n Class: Army support \n\n Lore: \n Olwe  was an Elf of the Teleri of Aman. When he and his kin reached Aman, they chose to remain there in both Tol Eressea and Alqualond  apart from the rest of the Elves of Aman. He became both Lord of Alqualond  and King of the Teleri. Olwe  was the father of Earwen and had several unnamed sons. He was the younger brother of Elwe  (Elu Thingol) and the older brother of Elmo. Other Telerin elves such Now  (Cirdan) were said to be akin to Olwe ."
+"Recruit the King of the Teleri in Aman \n Class: Army support \n\n Lore: \n Olwe  was an Elf of the Teleri of Aman. When he and his kin reached Aman, they chose to remain there in both Tol Eressea and Alqualond  apart from the rest of the Elves of Aman. He became both Lord of Alqualond  and King of the Teleri. Olwe  was the father of Earwen and had several unnamed sons. He was the younger brother of Elwe (Elu Thingol) and the older brother of Elmo. Other Telerin elves now were said to be akin to Olwe."
 END
 
 CONTROLBAR:AlqualondOlweRevive    
@@ -91500,7 +91516,7 @@ CONTROLBAR:AlqualondOlweRevive
 END
 
 CONTROLBAR:AlqualondOlweHotkey
-"O&lw "
+"O&lwe"
 END
 
 CONTROLBAR:ToggleOlweSetStanceGround
@@ -91508,7 +91524,7 @@ CONTROLBAR:ToggleOlweSetStanceGround
 END
 
 CONTROLBAR:ToolTipToggleOlweSetStanceGround
-"Shortkey: G \n Olwe  receives the blessing of Uinen \n When attacking, he generates a wave that pushes all nearby enemies\n in this stance, Olwe  loses armor and speed"
+"Shortkey: G \n Olwe receives the blessing of Uinen \n When attacking, he generates a wave that pushes all nearby enemies\n in this stance, Olwe  loses armor and speed"
 END
 
 CONTROLBAR:ToggleOlweSetStanceBattle
@@ -91528,7 +91544,7 @@ CONTROLBAR:ToolTipToggleOlweSetStanceAggressive
 END
 
 CONTROLBAR:OlweLeadership
-"High King of the Alqualond "
+"High King of the Alqualond"
 END
 
 CONTROLBAR:ToolTipOlweLeadership
@@ -91548,7 +91564,7 @@ CONTROLBAR:OlweFlooding
 END
 
 CONTROLBAR:TooltipOlweFlooding
-"Requires: Level 5 \n Olwe  floods the foundations of the structure \n Temporary deactivates selected structures and gates in the area \n Also the structures loses -20% armor \n Opens any gates in the target area \n Left click on target structure"
+"Requires: Level 5 \n Olwe floods the foundations of the structure \n Temporary deactivates selected structures and gates in the area \n Also the structures loses -20% armor \n Opens any gates in the target area \n Left click on target structure"
 END
 
 CONTROLBAR:OlweMagicShield
@@ -91560,13 +91576,12 @@ CONTROLBAR:ToolTipOlweMagicShield
 END
 
 CONTROLBAR:OlweUlmuriHorn
-"&Ulum ri Horn"
+"&Ulumuri Horn"
 END
 
 CONTROLBAR:ToolTipOlweUlmuriHorn
 "Requires: Level 10 \n Ulmo sounds the Ulum ri Horn, giving his favor to the followers of Olwe  \n Allied units gain +75% damage and +33% speed. \n Left click to activate"
 END
-
 
 OBJECT:DoriathOropher
 "Oropher"
@@ -91603,7 +91618,6 @@ END
 CONTROLBAR:ToolTipBuildSilvanArcherHorde
 "Requires: Menegroth Fortress Level 2 \n \n Unit Type: Elite Archer \n Strong at Range \n You can only control up to six battalions"
 END
-
 
 OBJECT:DoriathMelian
 "Melian"
@@ -92620,7 +92634,7 @@ END
 
 
 OBJECT:EdainHurin
-"Hur n"
+"Hurin"
 END
 
 CONTROLBAR:HurinBlackArrow
@@ -110064,15 +110078,15 @@ CONTROLBAR:ToolTipTaniquetilWatcherWeaponSong
 END
 
 OBJECT:GoblinFighterBolgSpear
-"Durbagh sh Spear Warrior"
+"Durbaghash Spear Warrior"
 END
 
 OBJECT:HordeGoblinFightersUpgradedSpear
-"Durbagh sh Spear Warriors"
+"Durbaghash Spear Warriors"
 END
 
 CONTROLBAR:LW_Unit_GoblinFighterHordeUpgradedSpear
-"Durbagh sh Spear Warrior Battalion"
+"Durbaghash Spear Warrior Battalion"
 END
 
 CONTROLBAR:LW_ToolTip_GoblinFighterHordeUpgradedSpear
@@ -110080,7 +110094,7 @@ CONTROLBAR:LW_ToolTip_GoblinFighterHordeUpgradedSpear
 END
 
 CONTROLBAR:ConstructGoblinSpearHordeUpgraded
-"Durbagh sh &Spear Warriors"
+"Durbaghash &Spear Warriors"
 END
 
 CONTROLBAR:ToolTipBuildGoblinSpearHordeUpgraded
