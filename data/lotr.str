@@ -7791,15 +7791,15 @@ CONTROLBAR:SpecialAbilityThorinBlutrausch
 END
 
 CONTROLBAR:ThorinDesperateCry
-"Desperate &Cry"
+"Battle &Cry"
 END
 
 CONTROLBAR:ToolTipThorinDesperateCry
-"Thorin in the despair of battle cries out loud causing enemies to cover in fear, all enemies will gain experience only half as fast and cannot gather ressources for killing enemies \n  Left-click to activate"
+"Thorin defended the Iron Hills against raiding partys for many Years. He cries out loud causing enemies to cover in fear, all enemies will gain experience only half as fast and cannot scavenge ressources \n  Left-click to activate"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityThorinBlutrausch
-"Requires Level 2: \n Thorin gives in to his rage allowing him to hit his enemies twice as hard \n Thorin deals +100% damage but loses 35% armor \n  Left-click to activate"
+"Requires Level 2: \n Thorin gives in to his rage allowing him to hit his enemies twice as hard \n Thorin deals +100% damage \n  Left-click to activate"
 END
 
 CONTROLBAR:SpecialAbilityThorinKampfgebrüll
@@ -7815,7 +7815,7 @@ CONTROLBAR:SpecialAbilityThorinRevanche
 END
 
 CONTROLBAR:ToolTipSpecialAbilityThorinRevanche
-"Requires: Level 10: \n Thorin s rage takes over and he delivers a bunch of heavy blows all around him, heavily damaging units and heroes alike while boosting his moral with every hit landed. \n  Left-click on the target"
+"Requires: Level 10: \n Thorin´s rage takes over and he delivers a bunch of heavy blows all around him, heavily damaging units and heroes alike while boosting his moral with every hit landed. \n  Left-click on the target"
 END
 
 OBJECT:DwarvenDrar
