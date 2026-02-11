@@ -7795,7 +7795,7 @@ CONTROLBAR:ThorinDesperateCry
 END
 
 CONTROLBAR:ToolTipThorinDesperateCry
-"Thorin in the despair of battle cries out loud causing enemies to cover in fear \n  Left-click to activate"
+"Thorin in the despair of battle cries out loud causing enemies to cover in fear, all enemies will gain experience only half as fast and cannot gather ressources for killing enemies \n  Left-click to activate"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityThorinBlutrausch
