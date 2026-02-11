@@ -1015,6 +1015,8 @@
         <EventHandler EventName="ModelConditionNOTUSER_8" ScriptFunctionName="OnKingAftermath" DebugSingleStep="false"/>
         <EventHandler EventName="ModelConditionWEAPONSET_HERO_MODE" ScriptFunctionName="OffAlatarUser6" DebugSingleStep="false"/>
         <EventHandler EventName="ModelConditionNOTWEAPONSET_HERO_MODE" ScriptFunctionName="OnAlatarUser6" DebugSingleStep="false"/>
+
+
      </EventList>
 
     <EventList Name="LeadershipFunctions" Inherit="ArnorHeroFunctions">

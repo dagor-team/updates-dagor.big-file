@@ -7783,7 +7783,7 @@ CONTROLBAR:SpecialAbilityEisenbergeEisernerWille
 END
 
 CONTROLBAR:ToolTipSpecialAbilityEisenbergeEisernerWille
-"Thorin III. is fueled by his rage hitting enemies harder when he is closer to death \n Passive Ability"
+"Thorin III. is fueled by his rage hitting enemies harder and when close to death every hit fuels his morale \n Passive Ability"
 END
 
 CONTROLBAR:SpecialAbilityThorinBlutrausch
@@ -7799,7 +7799,7 @@ CONTROLBAR:ToolTipThorinDesperateCry
 END
 
 CONTROLBAR:ToolTipSpecialAbilityThorinBlutrausch
-"Requires Level 3: \n Thorin gives in to his rage allowing him to hit his enemies twice as hard, however losing defence in the process \n Thorin deals +100% damage but loses 35% armor \n  Left-click to activate"
+"Requires Level 2: \n Thorin gives in to his rage allowing him to hit his enemies twice as hard \n Thorin deals +100% damage but loses 35% armor \n  Left-click to activate"
 END
 
 CONTROLBAR:SpecialAbilityThorinKampfgebrüll
