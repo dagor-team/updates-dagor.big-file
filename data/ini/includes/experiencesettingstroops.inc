@@ -396,55 +396,55 @@
 
 ;------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#define EXPERIENCE_AWARD_FIRST_AGE_BETTER_FLYING_HORDE_1           90
-#define EXPERIENCE_AWARD_FIRST_AGE_BETTER_FLYING_HORDE_2           120
-#define EXPERIENCE_AWARD_FIRST_AGE_BETTER_FLYING_HORDE_3           130
-#define EXPERIENCE_AWARD_FIRST_AGE_BETTER_FLYING_HORDE_4           140
-#define EXPERIENCE_AWARD_FIRST_AGE_BETTER_FLYING_HORDE_5           160
-#define EXPERIENCE_AWARD_FIRST_AGE_BETTER_FLYING_HORDE_6           180
-#define EXPERIENCE_AWARD_FIRST_AGE_BETTER_FLYING_HORDE_7           200
-#define EXPERIENCE_AWARD_FIRST_AGE_BETTER_FLYING_HORDE_8           230
-#define EXPERIENCE_AWARD_FIRST_AGE_BETTER_FLYING_HORDE_9           260
-#define EXPERIENCE_AWARD_FIRST_AGE_BETTER_FLYING_HORDE_10          300
+#define EXPERIENCE_AWARD_FIRST_AGE_BETTER_FLYING_HORDE_1           400
+#define EXPERIENCE_AWARD_FIRST_AGE_BETTER_FLYING_HORDE_2           530
+#define EXPERIENCE_AWARD_FIRST_AGE_BETTER_FLYING_HORDE_3           660
+#define EXPERIENCE_AWARD_FIRST_AGE_BETTER_FLYING_HORDE_4           790
+#define EXPERIENCE_AWARD_FIRST_AGE_BETTER_FLYING_HORDE_5           920
+#define EXPERIENCE_AWARD_FIRST_AGE_BETTER_FLYING_HORDE_6           1050
+#define EXPERIENCE_AWARD_FIRST_AGE_BETTER_FLYING_HORDE_7           1180
+#define EXPERIENCE_AWARD_FIRST_AGE_BETTER_FLYING_HORDE_8           1310
+#define EXPERIENCE_AWARD_FIRST_AGE_BETTER_FLYING_HORDE_9           1440
+#define EXPERIENCE_AWARD_FIRST_AGE_BETTER_FLYING_HORDE_10          1570
 
 ;------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#define EXPERIENCE_AWARD_FIRST_AGE_LEGENDARY_FLYING_HORDE_1           100
-#define EXPERIENCE_AWARD_FIRST_AGE_LEGENDARY_FLYING_HORDE_2           130
-#define EXPERIENCE_AWARD_FIRST_AGE_LEGENDARY_FLYING_HORDE_3           170
-#define EXPERIENCE_AWARD_FIRST_AGE_LEGENDARY_FLYING_HORDE_4           210
-#define EXPERIENCE_AWARD_FIRST_AGE_LEGENDARY_FLYING_HORDE_5           250
-#define EXPERIENCE_AWARD_FIRST_AGE_LEGENDARY_FLYING_HORDE_6           290
-#define EXPERIENCE_AWARD_FIRST_AGE_LEGENDARY_FLYING_HORDE_7           320
-#define EXPERIENCE_AWARD_FIRST_AGE_LEGENDARY_FLYING_HORDE_8           350
-#define EXPERIENCE_AWARD_FIRST_AGE_LEGENDARY_FLYING_HORDE_9           370
-#define EXPERIENCE_AWARD_FIRST_AGE_LEGENDARY_FLYING_HORDE_10          400
+#define EXPERIENCE_AWARD_FIRST_AGE_LEGENDARY_FLYING_HORDE_1           500
+#define EXPERIENCE_AWARD_FIRST_AGE_LEGENDARY_FLYING_HORDE_2           660
+#define EXPERIENCE_AWARD_FIRST_AGE_LEGENDARY_FLYING_HORDE_3           920
+#define EXPERIENCE_AWARD_FIRST_AGE_LEGENDARY_FLYING_HORDE_4           1080
+#define EXPERIENCE_AWARD_FIRST_AGE_LEGENDARY_FLYING_HORDE_5           1240
+#define EXPERIENCE_AWARD_FIRST_AGE_LEGENDARY_FLYING_HORDE_6           1400
+#define EXPERIENCE_AWARD_FIRST_AGE_LEGENDARY_FLYING_HORDE_7           1560
+#define EXPERIENCE_AWARD_FIRST_AGE_LEGENDARY_FLYING_HORDE_8           1720
+#define EXPERIENCE_AWARD_FIRST_AGE_LEGENDARY_FLYING_HORDE_9           1880
+#define EXPERIENCE_AWARD_FIRST_AGE_LEGENDARY_FLYING_HORDE_10          2040
 
 ;------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#define EXPERIENCE_AWARD_FIRST_AGE_ELITE_MONSTER_HORDE_1           100
-#define EXPERIENCE_AWARD_FIRST_AGE_ELITE_MONSTER_HORDE_2           120
-#define EXPERIENCE_AWARD_FIRST_AGE_ELITE_MONSTER_HORDE_3           130
-#define EXPERIENCE_AWARD_FIRST_AGE_ELITE_MONSTER_HORDE_4           140
-#define EXPERIENCE_AWARD_FIRST_AGE_ELITE_MONSTER_HORDE_5           160
-#define EXPERIENCE_AWARD_FIRST_AGE_ELITE_MONSTER_HORDE_6           180
-#define EXPERIENCE_AWARD_FIRST_AGE_ELITE_MONSTER_HORDE_7           200
-#define EXPERIENCE_AWARD_FIRST_AGE_ELITE_MONSTER_HORDE_8           230
-#define EXPERIENCE_AWARD_FIRST_AGE_ELITE_MONSTER_HORDE_9           260
-#define EXPERIENCE_AWARD_FIRST_AGE_ELITE_MONSTER_HORDE_10          300
+#define EXPERIENCE_AWARD_FIRST_AGE_ELITE_MONSTER_HORDE_1           200
+#define EXPERIENCE_AWARD_FIRST_AGE_ELITE_MONSTER_HORDE_2           300
+#define EXPERIENCE_AWARD_FIRST_AGE_ELITE_MONSTER_HORDE_3           400
+#define EXPERIENCE_AWARD_FIRST_AGE_ELITE_MONSTER_HORDE_4           500
+#define EXPERIENCE_AWARD_FIRST_AGE_ELITE_MONSTER_HORDE_5           600
+#define EXPERIENCE_AWARD_FIRST_AGE_ELITE_MONSTER_HORDE_6           700
+#define EXPERIENCE_AWARD_FIRST_AGE_ELITE_MONSTER_HORDE_7           800
+#define EXPERIENCE_AWARD_FIRST_AGE_ELITE_MONSTER_HORDE_8           900
+#define EXPERIENCE_AWARD_FIRST_AGE_ELITE_MONSTER_HORDE_9           1000
+#define EXPERIENCE_AWARD_FIRST_AGE_ELITE_MONSTER_HORDE_10          1200
 
 ;------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#define EXPERIENCE_AWARD_FIRST_AGE_LEGENDARY_MONSTER_HORDE_1           120
-#define EXPERIENCE_AWARD_FIRST_AGE_LEGENDARY_MONSTER_HORDE_2           120
-#define EXPERIENCE_AWARD_FIRST_AGE_LEGENDARY_MONSTER_HORDE_3           130
-#define EXPERIENCE_AWARD_FIRST_AGE_LEGENDARY_MONSTER_HORDE_4           140
-#define EXPERIENCE_AWARD_FIRST_AGE_LEGENDARY_MONSTER_HORDE_5           160
-#define EXPERIENCE_AWARD_FIRST_AGE_LEGENDARY_MONSTER_HORDE_6           200
-#define EXPERIENCE_AWARD_FIRST_AGE_LEGENDARY_MONSTER_HORDE_7           250
-#define EXPERIENCE_AWARD_FIRST_AGE_LEGENDARY_MONSTER_HORDE_8           300
-#define EXPERIENCE_AWARD_FIRST_AGE_LEGENDARY_MONSTER_HORDE_9           350
-#define EXPERIENCE_AWARD_FIRST_AGE_LEGENDARY_MONSTER_HORDE_10          400
+#define EXPERIENCE_AWARD_FIRST_AGE_LEGENDARY_MONSTER_HORDE_1           600
+#define EXPERIENCE_AWARD_FIRST_AGE_LEGENDARY_MONSTER_HORDE_2           800
+#define EXPERIENCE_AWARD_FIRST_AGE_LEGENDARY_MONSTER_HORDE_3           1000
+#define EXPERIENCE_AWARD_FIRST_AGE_LEGENDARY_MONSTER_HORDE_4           1200
+#define EXPERIENCE_AWARD_FIRST_AGE_LEGENDARY_MONSTER_HORDE_5           1400
+#define EXPERIENCE_AWARD_FIRST_AGE_LEGENDARY_MONSTER_HORDE_6           1600
+#define EXPERIENCE_AWARD_FIRST_AGE_LEGENDARY_MONSTER_HORDE_7           1800
+#define EXPERIENCE_AWARD_FIRST_AGE_LEGENDARY_MONSTER_HORDE_8           2000
+#define EXPERIENCE_AWARD_FIRST_AGE_LEGENDARY_MONSTER_HORDE_9           2200
+#define EXPERIENCE_AWARD_FIRST_AGE_LEGENDARY_MONSTER_HORDE_10          2400
 
 ;------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -461,16 +461,16 @@
 
 ;------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#define EXPERIENCE_AWARD_FIRST_AGE_BEST_BEASTS_HORDE_1           130
-#define EXPERIENCE_AWARD_FIRST_AGE_BEST_BEASTS_HORDE_2           150
-#define EXPERIENCE_AWARD_FIRST_AGE_BEST_BEASTS_HORDE_3           180
-#define EXPERIENCE_AWARD_FIRST_AGE_BEST_BEASTS_HORDE_4           220
-#define EXPERIENCE_AWARD_FIRST_AGE_BEST_BEASTS_HORDE_5           250
-#define EXPERIENCE_AWARD_FIRST_AGE_BEST_BEASTS_HORDE_6           300
-#define EXPERIENCE_AWARD_FIRST_AGE_BEST_BEASTS_HORDE_7           350
-#define EXPERIENCE_AWARD_FIRST_AGE_BEST_BEASTS_HORDE_8           400
-#define EXPERIENCE_AWARD_FIRST_AGE_BEST_BEASTS_HORDE_9           450
-#define EXPERIENCE_AWARD_FIRST_AGE_BEST_BEASTS_HORDE_10          500
+#define EXPERIENCE_AWARD_FIRST_AGE_BEST_BEASTS_HORDE_1           180
+#define EXPERIENCE_AWARD_FIRST_AGE_BEST_BEASTS_HORDE_2           300
+#define EXPERIENCE_AWARD_FIRST_AGE_BEST_BEASTS_HORDE_3           420
+#define EXPERIENCE_AWARD_FIRST_AGE_BEST_BEASTS_HORDE_4           540
+#define EXPERIENCE_AWARD_FIRST_AGE_BEST_BEASTS_HORDE_5           660
+#define EXPERIENCE_AWARD_FIRST_AGE_BEST_BEASTS_HORDE_6           780
+#define EXPERIENCE_AWARD_FIRST_AGE_BEST_BEASTS_HORDE_7           900
+#define EXPERIENCE_AWARD_FIRST_AGE_BEST_BEASTS_HORDE_8           1020
+#define EXPERIENCE_AWARD_FIRST_AGE_BEST_BEASTS_HORDE_9           1140
+#define EXPERIENCE_AWARD_FIRST_AGE_BEST_BEASTS_HORDE_10          1260
 
 ;------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 

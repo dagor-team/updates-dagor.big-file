@@ -1,5 +1,5 @@
 GENERAL
-	Bounty system fixed
+	Bounty system fixed; Valars and banner carriers will give 0 money, but every single unit and hero will give half of its cost if you have full scavenger
 	Cp limit fixed
 Imladris
 	Imladris archers xp requirement and award lowered
