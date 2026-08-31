@@ -42479,11 +42479,11 @@ CONTROLBAR:ToolTipPlusCommandPoints
 END
 
 CONTROLBAR:Scavenger
-"Scavenger"
+"Loot their bodies"
 END
 
 CONTROLBAR:ToolTipScavenger
-"All kills earn extra resources \n Passive ability"
+"All kills earn resources for 30 seconds \n Left-click to activate"
 END
 
 CONTROLBAR:Devastation
