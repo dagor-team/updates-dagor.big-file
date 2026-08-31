@@ -169,15 +169,6 @@
 		RequirementsFilterMPSkirmish    = SPELL_BOOK_REQUIREMENTS_FILTER
 		RequirementsFilterStrategic     = SPELL_BOOK_REQUIREMENTS_FILTER_STRATEGIC
     End
-	
-	Behavior = SpecialPowerModule	SpellBookDraft_Scavenger
-		SpecialPowerTemplate		= SpellBookScavenger
-		OCL                     = OCL_SpellBookGeschenkeLoriens
-        CreateLocation          = CREATE_AT_LOCATION
-        AvailableAtStart        = No
-        RequirementsFilterMPSkirmish = SPELL_BOOK_REQUIREMENTS_FILTER
-        RequirementsFilterStrategic = SPELL_BOOK_REQUIREMENTS_FILTER_STRATEGIC
-    End
 
     Behavior = OCLSpecialPower ModuleTag_MinasMorgulBombard
         SpecialPowerTemplate = SpellBookMinasMorgulBombard
