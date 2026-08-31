@@ -274,6 +274,7 @@
         AvailableAtStart     = No
         RequirementsFilterMPSkirmish = SPELL_BOOK_REQUIREMENTS_FILTER
         RequirementsFilterStrategic = SPELL_BOOK_REQUIREMENTS_FILTER_STRATEGIC
+        OnTriggerRechargeSpecialPower = SpellBookPaktdesHasses
     End
 
     Behavior = OCLSpecialPower ModuleTag_ArrowVolleyEvilMod
@@ -362,9 +363,10 @@
         AttributeModifierAffects    = CREEP_OBJECTFILTER
         AttributeModifierRange      = 60
         TriggerFX                   = FX_SarumanDominateTrigger
-	AvailableAtStart	    = No
+	    AvailableAtStart	        = No
         RequirementsFilterMPSkirmish = SPELL_BOOK_REQUIREMENTS_FILTER
         RequirementsFilterStrategic = SPELL_BOOK_REQUIREMENTS_FILTER_STRATEGIC
+        OnTriggerRechargeSpecialPower = SpellBookCreepStructure
     End
 
     Behavior = OCLSpecialPower ModuleTag_AngmarWargLair
