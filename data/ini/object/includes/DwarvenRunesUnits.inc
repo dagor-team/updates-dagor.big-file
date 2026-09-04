@@ -14,6 +14,11 @@
         AttributeModifier = SchmiedSchutzBonus
     End
 
+    Behavior = AttributeModifierUpgrade ModuleTag_Reichtum
+        TriggeredBy       = Upgrade_ZwergenschmiedReichtum
+        AttributeModifier = SchmiedReichtumMalus
+    End
+
     Behavior = PassiveAreaEffectBehavior ModuleTag_SplashOfHealingWater_Rune
         EffectRadius         = 120
         PingDelay            = 1000

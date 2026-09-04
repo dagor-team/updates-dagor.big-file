@@ -145,7 +145,7 @@ CONTROLBAR:LeadershipDiscountGaladrim
 END
 
 CONTROLBAR:ToolTipLeadershipDiscountGaladrim
-"All units in Lothlorien are 15% cheaper and train faster"
+"All units of Lothlorien are 15% cheaper and train faster"
 END
 
 CONTROLBAR:LeadershipDiscountUpgrades
@@ -4649,7 +4649,7 @@ CONTROLBAR:SpellBookRuneUnit1
 END
 
 CONTROLBAR:TooltipSpellBookRuneUnit1
-"The armor of the dwarven unit is enhanced by runes \n Allies near the unit are slowly healed \n left click on the desired dwarven battalion"
+"The armor of the dwarven unit is enhanced by runes \n Allies near the unit are slowly healed, the battalion loses 33% armor and deal 30% less damage \n left click on the desired dwarven battalion"
 END
 
 CONTROLBAR:SpellBookRuneUnit2
