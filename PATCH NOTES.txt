@@ -1,14 +1,36 @@
-GENERAL
-	Bounty system fixed; Valars and banner carriers will give 0 money, but every single unit and hero will give half of its cost if you have full scavenger
-	Cp limit fixed
-Imladris
-	Imladris archers xp requirement and award lowered
-	Gildor new level 3 ability
-	Guardians new ability; armor increased pre level 5 and increased past level 5
-Mordor 
-	Suladan xp requirement and award increased
-	Saleme damage reduced from 400 -> 300
-Lothlorien
-	Beornings damage increased in human form and decreased in bear form
-Goblins
-	Angband baby drakes health nerfed from 2200 -> 2000
+Patchnotes 4.09.2026:
+
+
+Angmar:
+	Witchking no longer resets cooldowns when mounting/dismounting
+	Black Guard Knights: Decreased damage and armor against Pikes
+
+Arnor:
+	Tooltip added to show which heroes received the favour of arvedui
+
+Dwarves: 
+	Units equipped with healing runes now a very distinct fx in order to notice them, also they lose 33% armor and damage
+	Mighty catapult damage buffed by 33%
+
+
+Gondor: 
+	Grey company weaponswitch fixed
+	Fire arrows for rangers fixed
+
+
+Rohan: 
+	Cp for Camp Rohirrim fixed (set to 60cp)
+
+
+Lothlorien:
+	Cp for Singers fixed
+	Bug where Wine cellars dont get a buff from grand harvest fixed
+	Bug where upgrades dont get a discount fixed
+	Galadhrim: Melee damage nerfed, no longer receive heavy armor by purchasing forged blades
+	Aqualonde Guardian Mount fixed
+
+General:
+	light and heavy cavalry trample damage buffed
+
+
+

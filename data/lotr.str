@@ -3972,6 +3972,10 @@ UPGRADE:FavourArvedui
 "Favoured"
 END
 
+TOOLTIP:FavourArvedui
+"Favour of Arvedui"
+END
+
 UPGRADE:GeschenkeLoriens
 "Gifts of Lothlorien"
 END
