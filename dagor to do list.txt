@@ -10,10 +10,6 @@ TO DO NICO:
 suladan king model
 perhaps saleme assasin model
 
-
-TO DO OOGGLIE:
-
-
 TO DO GORGO:
 abilities for saleme and bounty hunter and hunter + names
 hunter - done
@@ -88,8 +84,6 @@ ogres
 warg pack
 
 TALK TOMORROW:
-
-
 
 wainrider summon
 bounty hunter
