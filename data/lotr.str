@@ -6834,7 +6834,7 @@ CONTROLBAR:MorgomirIntrige
 END
 
 CONTROLBAR:ToolTipMorgomirIntrige
-"Requires: Level 8 \n Mornamarth's scheeming puts the enemy into disarray \n All enemies nearby an infiltrated unit fight each other for 20 seconds \n Left-click to activate"
+"Requires: Level 10 \n Mornamarth's scheeming puts the enemy into disarray \n All enemies nearby an infiltrated unit fight each other for 20 seconds \n Left-click to activate"
 END
 
 CONTROLBAR:ToolTipGothmogFuhrerschaft
@@ -57292,7 +57292,7 @@ CONTROLBAR:PurchaseTechnologyLothlorienLongBows
 END
 
 CONTROLBAR:ToolTipPurchaseTechnologyLothlorienLongBows
-"Allows battalions to upgrade with Longbows, increasing the range and sight"
+"Allows battalions to upgrade with Longbows \n +10% range \n +20% vision \n -10% speed"
 END
 
 CONTROLBAR:PurchaseUpgradeLothlorienLongBows
@@ -57300,7 +57300,7 @@ CONTROLBAR:PurchaseUpgradeLothlorienLongBows
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeLothlorienLongBows
-"Upgrade this battalion with Longbows \n increases the range and sight"
+"Upgrade this battalion with Longbows \n +10% range \n +20% vision \n -10% speed"
 END
 
 TOOLTIP:LothlorienLongBows
