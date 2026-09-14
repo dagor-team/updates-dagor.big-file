@@ -2,35 +2,31 @@ Patchnotes 4.09.2026:
 
 
 Angmar:
-	Witchking no longer resets cooldowns when mounting/dismounting
-	Black Guard Knights: Decreased damage and armor against Pikes
-
+	Black Guard Knights weapons fixed
+	
 Arnor:
-	Tooltip added to show which heroes received the favour of arvedui
-
+	
+	
 Dwarves: 
-	Units equipped with healing runes now a very distinct fx in order to notice them, also they lose 33% armor and damage
-	Mighty catapult damage buffed by 33%
-
-
+	Erebor catapults damage nerfed
+	
 Gondor: 
-	Grey company weaponswitch fixed
-	Fire arrows for rangers fixed
-
-
-Rohan: 
-	Cp for Camp Rohirrim fixed (set to 60cp)
-
-
+	
+	
+Isengard:
+	Tol in gaurhoth vampires damage increased against flyers by 300%
+	
 Lothlorien:
-	Cp for Singers fixed
-	Bug where Wine cellars dont get a buff from grand harvest fixed
-	Bug where upgrades dont get a discount fixed
-	Galadhrim: Melee damage nerfed, no longer receive heavy armor by purchasing forged blades
-	Aqualonde Guardian Mount fixed
-
+	
+	
+Mordor:
+	Tormented elves and Angband gate guards can be leveled up via minas morgul fortress
+	
+Rohan: 
+		
+	
 General:
-	light and heavy cavalry trample damage buffed
+	Fortresses health nerfed 30000 -> 25000; armor nerfed by 10% for all infantry and monster damage
 
 
 
