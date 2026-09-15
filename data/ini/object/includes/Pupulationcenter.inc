@@ -1,6 +1,6 @@
-   	Behavior = LargeGroupBonusUpdate ModuleTag_PopCenter1
+	Behavior = LargeGroupBonusUpdate ModuleTag_PopCenter1
 		UpdateRate		= 1000
-		HordeMemberFilter	= NONE +DEPRECATED
+		HordeMemberFilter	= NONE +POP_CENTER_BUILDING
 		Count			= 2
 		Radius			= 500
 		RubOffRadius		= 50
@@ -10,7 +10,7 @@
 
     Behavior = LargeGroupBonusUpdate ModuleTag_PopCenter2
 		UpdateRate		= 1000
-		HordeMemberFilter	= NONE +DEPRECATED
+		HordeMemberFilter	= NONE +POP_CENTER_BUILDING
 		Count			= 4
 		Radius			= 500
 		RubOffRadius		= 50
@@ -20,7 +20,7 @@
 
     Behavior = LargeGroupBonusUpdate ModuleTag_PopCenter3
 		UpdateRate		= 1000
-		HordeMemberFilter	= NONE +DEPRECATED
+		HordeMemberFilter	= NONE +POP_CENTER_BUILDING
 		Count			= 6
 		Radius			= 500
 		RubOffRadius		= 50
@@ -30,7 +30,7 @@
 
     Behavior = LargeGroupBonusUpdate ModuleTag_PopCenter4
 		UpdateRate		= 1000
-		HordeMemberFilter	= NONE +DEPRECATED
+		HordeMemberFilter	= NONE +POP_CENTER_BUILDING
 		Count			= 8
 		Radius			= 500
 		RubOffRadius		= 50
@@ -40,7 +40,7 @@
 
     Behavior = LargeGroupBonusUpdate ModuleTag_PopCenter5
 		UpdateRate		= 1000
-		HordeMemberFilter	= NONE +DEPRECATED
+		HordeMemberFilter	= NONE +POP_CENTER_BUILDING
 		Count			= 10
 		Radius			= 500
 		RubOffRadius		= 50
@@ -48,4 +48,4 @@
 		AttributeModifier	= PopCenterBonus2
     End
 
-    ;#include"..\..\..\Includes\Populationcenter.inc"
+    ;"..\Includes\Populationcenter.inc"
