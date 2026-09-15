@@ -95839,7 +95839,7 @@ CONTROLBAR:SpecialAbilityUngoliantUnlight
 END
 
 CONTROLBAR:ToolTipSpecialAbilityUngoliantUnlight
-"The Unlight weapon, a creation of Ungoliant filled with unspeakable horror and dread,\n muffles and swallows all life forms nearby, including the light. \n Left-click to unleash darkness"
+"The Unlight weapon, a creation of Ungoliant filled with unspeakable horror and dread,\n muffles and swallows all life forms nearby, including the light in order to heal the terrible spider. \n Left-click to unleash darkness"
 END
 
 OBJECT:AngbandGlaurung

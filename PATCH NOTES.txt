@@ -3,12 +3,13 @@ Patchnotes 4.09.2026:
 
 Angmar:
 	Black Guard Knights weapons fixed
+	Ungoliant Word of power: Damage and cd reduced(usable multiple times now)
 	
 Arnor:
 	
 	
 Dwarves: 
-	Erebor catapults damage nerfed
+	Erebor catapults dps nerfed
 	
 Gondor: 
 	
