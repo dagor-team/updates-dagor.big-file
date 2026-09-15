@@ -3261,7 +3261,7 @@ CONTROLBAR:SpecialAbilityRadagastDornengestrupp
 END
 
 CONTROLBAR:ToolTipSpecialAbilityRadagastDornengestrupp
-"Radagast can sprout a bramble bush under enemy units, slowing their movement and dealing thorns damage \n Left-click on the desired destination area"
+"Radagast sprouts a bramble bush under enemy units, slowing their movement and dealing thorn damage. Especially effective against Cavalry and Monsters \n Left-click on the desired destination area"
 END
 
 CONTROLBAR:SpecialAbilityFreundschaftsdienst
