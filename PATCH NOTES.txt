@@ -3,20 +3,31 @@ Patchnotes 4.09.2026:
 
 Angmar:
 	Black Guard Knights weapons fixed
+	Ungoliant Word of power: Damage and cd reduced(usable multiple times now)
 	
 Arnor:
 	
 	
 Dwarves: 
-	Erebor catapults damage nerfed
+	Erebor catapults dps nerfed
 	
 Gondor: 
 	
 	
 Isengard:
 	Tol in gaurhoth vampires damage increased against flyers by 300%
+
+Imladris: 
+	Ecthelion Geysir: 
+		easier to place
+		cooldown: 120s ->100s
 	
 Lothlorien:
+	Radagast Brambles:
+		Delay between damage 1200 ->700
+		DMG 65 -> 35, Type partially changed to Pike, less damage to archers and Infrantry, more damage to Monsters and Cavalry
+		DPS 54 -> 50
+		Slow 50% ->25% for everything but Cav and Monsters
 	
 	
 Mordor:
