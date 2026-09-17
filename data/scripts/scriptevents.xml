@@ -963,8 +963,8 @@
      </EventList>
 
      <EventList Name="AngmarStructuresFunctions" Inherit="BaseScriptFunctions">
-        <EventHandler EventName="ModelConditionUSER_8" ScriptFunctionName="OnKing" DebugSingleStep="false"/>
-        <EventHandler EventName="ModelConditionNOTUSER_8" ScriptFunctionName="OnKingAftermath" DebugSingleStep="false"/>
+        <EventHandler EventName="ModelConditionUSER_7" ScriptFunctionName="OnKing" DebugSingleStep="false"/>
+        <EventHandler EventName="ModelConditionNOTUSER_7" ScriptFunctionName="OnKingAftermath" DebugSingleStep="false"/>
      </EventList>
 
      <EventList Name="AlatarFunctions" Inherit="BaseScriptFunctions">
