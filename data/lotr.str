@@ -331,11 +331,11 @@ CONTROLBAR:TooltipSpellBookThargelionArmy
 END
 
 CONTROLBAR:FloodOarni
-"The Fury of Oss "
+"The Fury of Osse"
 END
 
 CONTROLBAR:TooltipFloodOarni
-"As a spirit of the sea in the service of Ulmo, Oss  guarded the waters around Middle-earth. \n Oss  sends the Oarni to help the Men of the West. Heroes hit by the spirits suffer major debuffs while units suffer damage and will get knocked down \n Left-click icon then left-click on target area"
+"As a spirit of the sea in the service of Ulmo, Osse guarded the waters around Middle-earth. \n Osse sends the Oarni to help the Men of the West. Heroes hit by the spirits suffer major debuffs while units suffer damage and will get knocked down \n Left-click icon then left-click on target area"
 END
 
 
@@ -27897,7 +27897,7 @@ OBJECT:LothlorienCirdan
 END
 
 CONTROLBAR:LothlorienCirdanRecruit
-"Recruit the Lord of Gray Havens \n Class: Warrior/Lindon support \n \n Lore: \n Cirdan, also known as Now  and Cirdan the Shipwright, was a Telerin Elf (of which he was one of the wisest princes), a great mariner and shipwright in Middle-earth. Cirdan was the lord of the Falas and then of the Balar during much of the First Age, one of the wisest and perhaps the mightiest of the Moriquendi. He was the bearer of the Great Ring Narya, which he in turn gave to Gandalf. He was kin to both Elwe  and Olwe . He is one of the 3 oldest living elves in Middle-earth at the end of the Third Age, along with Galadriel and Celeborn, who were all born during the Years of the Trees. At the end of the Third Age, there were no other elves who had been alive at the start of the First Age. Cirdan is one of 2 elves, the other being Celeborn, to have spent the most time in Middle-Earth of any elf by being present in more ages than any other elf. Cirdan and Celeborn were in Arda from sometime late in the Years of the Trees, through the First Age, until the Fourth Age. Tolkien has written that Cirdan would sail on the last ship into the West, as he is the Lord of the Grey Havens. So, it can thus be known that Cirdan had the longest incarnated single life span of any elf, having entered Arda during the Years of the Trees and having left for Valinor later in the Fourth Age than any other Elf"
+"Recruit the Lord of Gray Havens \n Class: Warrior/Lindon support \n \n Lore: \n Cirdan, also known as Now  and Cirdan the Shipwright, was a Telerin Elf (of which he was one of the wisest princes), a great mariner and shipwright in Middle-earth. Cirdan was the lord of the Falas and then of the Balar during much of the First Age, one of the wisest and perhaps the mightiest of the Moriquendi. He was the bearer of the Great Ring Narya, which he in turn gave to Gandalf. He was kin to both Elwe and Olwe. He is one of the 3 oldest living elves in Middle-earth at the end of the Third Age, along with Galadriel and Celeborn, who were all born during the Years of the Trees. At the end of the Third Age, there were no other elves who had been alive at the start of the First Age. Cirdan is one of 2 elves, the other being Celeborn, to have spent the most time in Middle-Earth of any elf by being present in more ages than any other elf. Cirdan and Celeborn were in Arda from sometime late in the Years of the Trees, through the First Age, until the Fourth Age. Tolkien has written that Cirdan would sail on the last ship into the West, as he is the Lord of the Grey Havens. So, it can thus be known that Cirdan had the longest incarnated single life span of any elf, having entered Arda during the Years of the Trees and having left for Valinor later in the Fourth Age than any other Elf"
 END
 
 CONTROLBAR:UglukBerserker
@@ -91512,7 +91512,7 @@ CONTROLBAR:LW_Hero_AlqualondOlwe
 END
 
 CONTROLBAR:AlqualondOlweRecruit
-"Recruit the King of the Teleri in Aman \n Class: Army support \n\n Lore: \n Olwe  was an Elf of the Teleri of Aman. When he and his kin reached Aman, they chose to remain there in both Tol Eressea and Alqualond  apart from the rest of the Elves of Aman. He became both Lord of Alqualond  and King of the Teleri. Olwe  was the father of Earwen and had several unnamed sons. He was the younger brother of Elwe (Elu Thingol) and the older brother of Elmo. Other Telerin elves now were said to be akin to Olwe."
+"Recruit the King of the Teleri in Aman \n Class: Army support \n\n Lore: \n Olwe was an Elf of the Teleri of Aman. When he and his kin reached Aman, they chose to remain there in both Tol Eressea and Alqualonde, apart from the rest of the Elves of Aman. He became both Lord of Alqualonde and King of the Teleri. Olwe was the father of Earwen and had several unnamed sons. He was the younger brother of Elwe (Elu Thingol) and the older brother of Elmo. Other Telerin elves now were said to be akin to Olwe."
 END
 
 CONTROLBAR:AlqualondOlweRevive    
@@ -91528,7 +91528,7 @@ CONTROLBAR:ToggleOlweSetStanceGround
 END
 
 CONTROLBAR:ToolTipToggleOlweSetStanceGround
-"Shortkey: G \n Olwe receives the blessing of Uinen \n When attacking, he generates a wave that pushes all nearby enemies\n in this stance, Olwe  loses armor and speed"
+"Shortkey: G \n Olwe receives the blessing of Uinen \n When attacking, he generates a wave that pushes all nearby enemies\n in this stance, Olwe loses armor and speed"
 END
 
 CONTROLBAR:ToggleOlweSetStanceBattle
@@ -91536,15 +91536,15 @@ CONTROLBAR:ToggleOlweSetStanceBattle
 END
 
 CONTROLBAR:ToolTipToggleOlweSetStanceBattle
-"Shortcut: F \n This is the default stance Olwe  engages his enemies with\n in this stance, Olwe  will auto-acquire enemies within a medium range"
+"Shortcut: F \n This is the default stance Olwe engages his enemies with\n in this stance, Olwe will auto-acquire enemies within a medium range"
 END
 
 CONTROLBAR:ToggleOlweSetStanceAggressive
-"Gift of Oss  Stance"
+"Gift of Osse Stance"
 END
 
 CONTROLBAR:ToolTipToggleOlweSetStanceAggressive
-"Shortkey: D \n Olwe  receives the blessing of Oss  \n He improves his attack with the sword by knocking down his enemies \n in this stance, Olwe  gains invulnerability to fire and magic attacks but loses armor"
+"Shortkey: D \n Olwe receives the blessing of Osse \n He improves his attack with the sword by knocking down his enemies \n in this stance, Olwe gains invulnerability to fire and magic attacks but loses armor"
 END
 
 CONTROLBAR:OlweLeadership
@@ -91560,7 +91560,7 @@ CONTROLBAR:OlweMounted
 END
 
 CONTROLBAR:TooltipOlweMounted
-"Left-click to mount and dismount Olwe 's white horse" 
+"Left-click to mount and dismount Olwe's white horse" 
 END
 
 CONTROLBAR:OlweFlooding
@@ -91584,7 +91584,7 @@ CONTROLBAR:OlweUlmuriHorn
 END
 
 CONTROLBAR:ToolTipOlweUlmuriHorn
-"Requires: Level 10 \n Ulmo sounds the Ulum ri Horn, giving his favor to the followers of Olwe  \n Allied units gain +75% damage and +33% speed. \n Left click to activate"
+"Requires: Level 10 \n Ulmo sounds the Ulumuri Horn, giving his favor to the followers of Olwe \n Allied units gain +75% damage and +33% speed. \n Left click to activate"
 END
 
 OBJECT:DoriathOropher
