@@ -95621,6 +95621,14 @@ CONTROLBAR:ToolTipAncalagonIncinerate
 "Ancalagon releases a terrible storm of fire, \n burning all units in a wide area. \n Left-click to activate and then click on the desired position"
 END
 
+CONTROLBAR:AncalagonRoar
+"Dragon's Roar"
+END
+
+CONTROLBAR:ToolTipAncalagonRoar
+"Ancalagon releases an ear-shattering roar that knockbacks nearby enemy units and stuns them for 15 seconds.\n "Enemies in a wider area do not escape uneffected and suffer -20% and -33% armor.\n Left-click to activate"
+END
+
 OBJECT:AngbandGothmog
 "Gothmog"
 END
