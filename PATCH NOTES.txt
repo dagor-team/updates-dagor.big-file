@@ -3,21 +3,31 @@ Patchnotes 4.09.2026:
 
 Angmar:
 	Black Guard Knights weapons fixed
+	Ungolianth WoP reverted to original (short cd, low damage); new ability instead of shelob summon
 	
 Arnor:
 	Cavalry buffed to advanced tier
-	
+	Army of the dead speed increased 60 -> 80
+	Ar-pharazon damage buffed against archers and heroes
+
 Dwarves: 
 	Erebor catapults damage nerfed
+	Belegost warriors health increased 2500 -> 2800
+	
+Goblins:
+	Spellbook fixed
+	Balrogs
 	
 Gondor: 
 	
 	
 Isengard:
 	Tol in gaurhoth vampires damage increased against flyers by 300%
+	Uruk captains health increased 2400 -> 3500
+	Berserkers not dying fixed
 	
 Lothlorien:
-	
+	Radagast level 10 and 7 switched; requires more xp to level up
 	
 Mordor:
 	Tormented elves and Angband gate guards can be leveled up via minas morgul fortress
@@ -27,6 +37,5 @@ Rohan:
 	
 General:
 	Fortresses health nerfed 30000 -> 25000; armor nerfed by 10% for all infantry and monster damage
-
-
-
+	All valars now reveal hidden (stealthed) units
+	Some descriptions fixed

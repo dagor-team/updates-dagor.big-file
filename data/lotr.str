@@ -3285,7 +3285,7 @@ CONTROLBAR:SpecialAbilityRadagastFreunde
 END
 
 CONTROLBAR:ToolTipSpecialAbilityRadagastFreunde
-"Requires: Level 10 \n Radagast can summon a fellow eagle to topple the desired units,\ncausing them to suffer massive damage \n Left-click on the desired units, siege weapons or heroes"
+"Requires: Level 7 \n Radagast can summon a fellow eagle to topple the desired units,\ncausing them to suffer massive damage \n Left-click on the desired units, siege weapons or heroes"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityRadagastFreunde2
@@ -12514,11 +12514,11 @@ CONTROLBAR:ToolTipSpidermanErhohteReflexe
 END
 
 CONTROLBAR:SpidermanNetz
-"Large spider web"
+"Web of hunger"
 END
 
 CONTROLBAR:ToolTipSpidermanNetz
-"Spider-Man creates a large spider's web that holds the selected unit caught in it and poisoned strong \n Left click on the desired destination"
+"Ungolianth wraps enemies in its webs, rooting them in place for 30 seconds \n Left click on the desired destination"
 END
 
 CONTROLBAR:SpidermanNahkampfKick
@@ -28525,7 +28525,7 @@ CONTROLBAR:ConvertEnemy
 END
 
 CONTROLBAR:ToolTipConvertEnemy
-"Requires: Level 7 \n Radagast uses his power to turn enemies into harmless animals \n Left click on icon then left click on target area"
+"Requires: Level 10 \n Radagast uses his power to turn enemies into harmless animals \n Left click on icon then left click on target area"
 END
 
 CONTROLBAR:ToolTipConvertEnemy2
@@ -65916,7 +65916,7 @@ TOOLTIP:LackHerrscherNebelbergeGorkil_Neu
 END
 
 CONTROLBAR:ToolTipPurchaseHerrscherNebelbergeGorkil
-"Effects: Spider Riders are now available in the Spider Pit.\n Gorkil receives enhanced abilities and goblins and half-trolls with poison weapons deal additional damage.\n Gorkil gains 60 Dmg on foot, additional speed and armor"
+"Effects: Spider Riders are now available in the Spider Pit.\n Gorkil receives enhanced abilities and goblins and half-trolls with poison weapons deal additional damage.\n Gorkil gains 30% armor and 1200 health."
 END
 
 UPGRADE:AzogKrone
@@ -95654,7 +95654,7 @@ CONTROLBAR:GothmogHighCaptainofAngband
 END
 
 CONTROLBAR:ToolTipGothmogHighCaptainofAngband
-"The Lord of Balrogs and the High Captain of Angband \n was one of the chief servants of the Dark Lord Morgoth, granting him with an equal rank to that of Sauron. \n Nearby Balrogs are increasingly inflamed by his heat, becoming inmune to frost damage\n Passive ability"
+"The Lord of Balrogs and the High Captain of Angband \n was one of the chief servants of the Dark Lord Morgoth, granting him with an equal rank to that of Sauron. \n Nearby Balrogs are increasingly inflamed by his heat, gaining 50% resistance to frost damage\n Passive ability"
 END
 
 CONTROLBAR:GothmogWings
@@ -95706,7 +95706,7 @@ CONTROLBAR:LW_ToolTip_AngbandScatha
 END
 
 CONTROLBAR:AngbandScathaRecruit
-"Recruit one of the greatest of the Long-worms that infested the Grey Mountains in the north of Middle-earth. \n \n Lore: \n Of his life, little is known. However it is possible that Scatha was a remnant of the dragons of Morgoth that fled into Northeast after the War of Wrath at the end of the First Age. It is not certain whether Scatha was the dragon which killed Dain I and his son Fr r. The death of Scatha at the hands of Fram, He appeared in the Third Age, and his lair was in the southern slopes of the Grey Mountains. He greatly troubled the Dwarves and Men living in the lands North of the Wilderland and had stolen a great deal of their treasure. He was slain by the  oth od leader Fram, son of Frumgar (an ancestor of Eorl the Young) in the early days of the  oth od (roughly TA 2000). After Scatha's demise, peace came to the land save for a dispute over his stolen treasure. In his hoard was found a silver horn, the Horn of Rohan later given to Meriadoc Brandybuck by  Eowyn. The Dwarves also claimed the horn (partially justified as the Horn of Rohan was said to be Dwarven make) but Fram would not give them anything. Instead, Fram sent them a necklace made out of Scatha's teeth. The Dwarves were insulted and may have slain him and took what they wanted."
+"Recruit one of the greatest of the Long-worms that infested the Grey Mountains in the north of Middle-earth. \n \n Lore: \n Of its life, little is known. However it is possible that Scatha was a remnant of the dragons of Morgoth that fled into Northeast after the War of Wrath at the end of the First Age. It is not certain whether Scatha was the dragon which killed Dain I and his son Frór. It appeared in the Third Age in the southern slopes of the Grey Mountains. He greatly troubled the Dwarves and Men living in the lands north of the Wilderland and had stolen a great deal of their treasure. He was slain by Fram, son of Frumgar (an ancestor of Eorl the Young). After Scatha's demise, peace came to the land save for a dispute over his stolen treasure. In his hoard was found a silver horn, the Horn of Rohan later given to Meriadoc Brandybuck by Eowyn."
 END
 
 CONTROLBAR:AngbandScathaRevive
@@ -95722,7 +95722,7 @@ CONTROLBAR:AngbandScathaPillage
 END
 
 CONTROLBAR:ToolTipAngbandScathaPillage
-"Scatha steals treasures when killing enemies. \n Passive ability"
+"Scatha steals resources when attacking buildings \n Passive ability"
 END
 
 CONTROLBAR:AngbandScathaScreech
@@ -95730,7 +95730,7 @@ CONTROLBAR:AngbandScathaScreech
 END
 
 CONTROLBAR:TooltipAngbandScathaScreech
-"Requires: Level 3 \n Scatha's screams incite fear in his foes, causes enemy units to flee in terror. \n Left-click to activate"
+"Requires: Level 3 \n Scatha's screams incite fear in its foes, causes enemy units to flee in terror. \n Left-click to activate"
 END
 
 CONTROLBAR:AngbandScathaArmorUpgrade
@@ -95738,7 +95738,7 @@ CONTROLBAR:AngbandScathaArmorUpgrade
 END
 
 CONTROLBAR:TooltipAngbandScathaArmorUpgrade
-"Requires: Level 5 \n Scatha covers his body with jewels stolen from the dwarves. \n His armor is improved. \n Passive ability"
+"Requires: Level 5 \n Scatha covers its body with jewels stolen from the dwarves. \n Its armor is improved. \n Passive ability"
 END
 
 CONTROLBAR:AngbandScathaTreasure

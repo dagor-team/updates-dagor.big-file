@@ -265,7 +265,6 @@
         AvailableAtStart     = No
         RequirementsFilterMPSkirmish = SPELL_BOOK_REQUIREMENTS_FILTER
         RequirementsFilterStrategic = SPELL_BOOK_REQUIREMENTS_FILTER_STRATEGIC
-        OnTriggerRechargeSpecialPower = SpellBookPaktdesHasses
     End
 
     Behavior = OCLSpecialPower ModuleTag_ArrowVolleyEvilMod
@@ -357,7 +356,6 @@
 	    AvailableAtStart	        = No
         RequirementsFilterMPSkirmish = SPELL_BOOK_REQUIREMENTS_FILTER
         RequirementsFilterStrategic = SPELL_BOOK_REQUIREMENTS_FILTER_STRATEGIC
-        OnTriggerRechargeSpecialPower = SpellBookCreepStructure
     End
 
     Behavior = OCLSpecialPower ModuleTag_AngmarWargLair
