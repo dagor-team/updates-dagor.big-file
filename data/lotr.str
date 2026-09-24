@@ -9976,7 +9976,7 @@ CONTROLBAR:SpecialAbilityBannerderOrkhordeKing
 END
 
 CONTROLBAR:ToolTipSpecialAbilityBannerderOrkhordeKing
-"All Goblin hordes in Durburz's vicinity are provided with a Banner Carrier in order to unite the forces into organized battalions \n Passive: requires: Army Of The Past Ages \n all Durgnabash goblins and half trolls gain 25% armor, 33 additional damage and resistance to knockback but are 20% slower\n Left-click to activate"
+"All Goblin hordes in Durburz's vicinity are provided with a Banner Carrier in order to unite the forces into organized battalions \n Passive: requires: Army Of The Past Ages \n all Durgnabash goblins and half trolls gain 25% armor, 33% damage and resistance to knockback but are 20% slower\n Left-click to activate"
 END
 
 CONTROLBAR:TheElfRing
@@ -96981,7 +96981,7 @@ CONTROLBAR:BuildAngbanddBalrog
 END
 
 CONTROLBAR:ToolTipBuildAngbanddBalrog
-"Requires: Level 4 Thangorodrim Fortress \n Unit Type: Elite Monster \n Strong vs: Infantry, Heroes and Structures \n You can only train 2 Balrogs"
+"Requires: Level 4 Thangorodrim Fortress \n Unit Type: Elite Monster \n Strong vs: Infantry, Heroes and Structures \n You can only train 3 Balrogs"
 END
 
 UPGRADE:Upgrade_AngbandBalrogPeitsche
@@ -97169,23 +97169,23 @@ CONTROLBAR:AngbandBalrogLeadership
 END
 
 CONTROLBAR:ToolTipAngbandBalrogLeadership
-"Balrogs are terrible creatures that have been spreading \n among Morgoth's rule and have learned much of his power \n Enemies around the Balrog recharge all of their spells 25% slower. \n Passive ability"
+"Balrogs are terrible creatures that have been spreading \n among Morgoth's rule and have learned much of his power \n Enemies around the Balrog recharge all of their spells 25% slower. \n\n Requires: Level 10 \n The flame of the balrog intesifies. \n Balrog gets and armor upgrade. \n Passive ability"
 END
 
 CONTROLBAR:ToolTipAngbandBalrogFireWhip
-"Requires: Fire Whips Ability \n Attack with a Flamewhip \n Effective against heroes \n Left click on the icon and then click on the target"
+"Requires: Level 3 \n Attack with a Flamewhip \n Effective against heroes \n Left click on the icon and then click on the target"
 END
 
 CONTROLBAR:ToolTipAngbandBalrogScream
-"Requires: Screaming Ability \n Balrogs have screams that make opponents quiver with fear \n Left click to activate"
+"Requires: Level 5 \n Balrogs have screams that make opponents quiver with fear \n Left click to activate"
 END
 
 CONTROLBAR:ToolTipAngbandBalrogWings
-"Requires: Wing Ability \n The balrog shakes his wings for a short flight \n Left click on the icon and then click the target area"
+"Requires: Level 7 \n The balrog shakes his wings for a short flight \n Left click on the icon and then click the target area"
 END
 
 CONTROLBAR:ToolTipAngbandBalrogBreath
-"Requires: Fire Breath Ability \n Spit Fire \n Left click on the icon and then click the target area"
+"Requires: Level 9 \n Spit Fire \n Left click on the icon and then click the target area"
 END
 
 

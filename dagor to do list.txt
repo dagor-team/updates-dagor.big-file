@@ -18,23 +18,13 @@ galadriel lvl 7 moved to lvl 10 and invulnerability given to mablung
 TO DO GORGO:
 abilities for saleme and bounty hunter and hunter + names
 hunter - done
-ungolianth abilities switch (cobweb instead of shelob, -vision on the world of power)
-buff the speed of army of the dead +10%
+
 balrogs nerf leap dmg and fire breath
-ancalagon new ability
-belegost warriors buff?
-lower xp give of fire drakes
-goblin spellbook fix
-remove all other scavengers
-melian summon cd check
-valars revealing invis
-radagast rework
-isengard captains buff
+
 
 imla guardians blademaster ability - 
-descriptions - quickbeam ability; durburz goblins name; goblin captain ability; Olwe name, level 10; palace guards type; summoned Hurin name; druadan banners; 
+descriptions - goblin captain ability; summoned Hurin name; druadan banners; 
 imrahil lvl 3 and lvl 7 switched - 
-angband drakes -
 peasants model update, include pitchforks - 
 pitchforks art - done
 isengard general figure out

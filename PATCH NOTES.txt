@@ -2,7 +2,6 @@ Patchnotes 4.09.2026:
 
 
 Angmar:
-	Black Guard Knights weapons fixed
 	Ungolianth WoP reverted to original (short cd, low damage); new ability instead of shelob summon
 	
 Arnor:
@@ -17,14 +16,16 @@ Dwarves:
 Goblins:
 	Spellbook fixed
 	Balrogs
+	Ancalagon new ability
 	
 Gondor: 
-	
+	Manwe damage nerf; cd increase of his teleport from 40s -> 2m
 	
 Isengard:
 	Tol in gaurhoth vampires damage increased against flyers by 300%
 	Uruk captains health increased 2400 -> 3500
 	Berserkers not dying fixed
+	Wormtongue level 10 duration decreased 2m -> 1m
 	
 Lothlorien:
 	Radagast level 10 and 7 switched; requires more xp to level up
