@@ -13,6 +13,7 @@ Dwarves:
 	Erebor catapults damage nerfed
 	Belegost warriors health increased 2500 -> 2800
 	Erebor Dain barracks commandset fixed
+	Ironhills Crossbows massive Damage nerf
 	
 Goblins:
 	Spellbook fixed
