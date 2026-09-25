@@ -12,20 +12,24 @@ Arnor:
 Dwarves: 
 	Erebor catapults damage nerfed
 	Belegost warriors health increased 2500 -> 2800
+	Erebor Dain barracks commandset fixed
 	
 Goblins:
 	Spellbook fixed
-	Balrogs
+	Balrogs special scaling removed; now come out at level 3; can build 3 instead of 2
 	Ancalagon new ability
+	Stone golems no longer trample heroes
 	
 Gondor: 
 	Manwe damage nerf; cd increase of his teleport from 40s -> 2m
-	
+	Faramirs level 9 no longer affects allies
+
 Isengard:
 	Tol in gaurhoth vampires damage increased against flyers by 300%
 	Uruk captains health increased 2400 -> 3500
 	Berserkers not dying fixed
 	Wormtongue level 10 duration decreased 2m -> 1m
+	Taur-nu-fuin sentinels regenerate and heal at level 2
 	
 Lothlorien:
 	Radagast level 10 and 7 switched; requires more xp to level up
@@ -34,7 +38,7 @@ Mordor:
 	Tormented elves and Angband gate guards can be leveled up via minas morgul fortress
 	
 Rohan: 
-		
+	
 	
 General:
 	Fortresses health nerfed 30000 -> 25000; armor nerfed by 10% for all infantry and monster damage

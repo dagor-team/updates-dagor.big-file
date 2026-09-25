@@ -2,25 +2,17 @@ scout heroes
 withking expanded ability to make grond faster and perhaps cheaper
 formations, hotkeys - future
 
-not beginner friendly
-keeping secrets - 
-balance...
-
 TO DO NICO:
 suladan king model
 perhaps saleme assasin model
 armor buffs from pings to fortresses
 angmar cata model import
-dain barracks without gimli commandset fix
 hall of the kingsmen model import
 galadriel lvl 7 moved to lvl 10 and invulnerability given to mablung
 
 TO DO GORGO:
 abilities for saleme and bounty hunter and hunter + names
 hunter - done
-
-balrogs nerf leap dmg and fire breath
-
 
 imla guardians blademaster ability - 
 descriptions - goblin captain ability; summoned Hurin name; druadan banners; 
