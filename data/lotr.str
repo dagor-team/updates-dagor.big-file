@@ -241,7 +241,7 @@ CONTROLBAR:SpellBookRadagastRohan
 END
 
 CONTROLBAR:TooltipSpellBookHelmHammerhand
-"The ghost of Helm Hammerhand appears for a short time to fullfil his oath and bring vengeance to those who seek to destroy Rohan. \n Variation (Need Army of the Past Ages): Summons Helm Hammerhand with 2 battaillons of his elite guards. \n Left click on a desired area"
+"The ghost of Helm Hammerhand appears for a short time to fullfil his oath and bring vengeance to those who seek to destroy Rohan. \n Variation (Need Army of the Past Ages): Summons Helm Hammerhand with 2 battaillons of his elite guards. If he reaches level 6 or level 10 respectively, he will retain his levels upon his resummon. \n Left click on a desired area"
 END
 
 CONTROLBAR:RohanFarmInfobox
@@ -27379,7 +27379,7 @@ CONTROLBAR:BaukunstMorias
 END
 
 CONTROLBAR:ToolTipBaukunstMorias
-"Requires: Level 6 \n The architecture of the Dwarves of Khazad-dum repairs destroyed building \n Left click on the desired target building"
+"The architecture of the Dwarves of Khazad-dum repairs destroyed building \n Left click on the desired target building"
 END
 
 CONTROLBAR:ThorinGlanzdesArkensteins
@@ -92683,7 +92683,7 @@ CONTROLBAR:HelmHammerHandLastStand
 END
 
 CONTROLBAR:ToolTipHelmHammerHandLastStand
-"Helm Hammerhand will fight to the death. \n He will continue to attack his enemies a few seconds after he dies. \n Ability is activated automatically"
+"Helm Hammerhand will fight to the death. \n He will continue to attack his enemies a few seconds after he dies.\n Ability is activated automatically"
 END
 
 CONTROLBAR:HelmHammerHandHorn
@@ -92707,7 +92707,7 @@ CONTROLBAR:HelmHammerHandLeadership
 END
 
 CONTROLBAR:ToolTipHelmHammerHandLeadership
-"Requires: Level 8 \n All infantry units, around the map, get all upgrades. \n Nearby infantry units gain 50% defense against siege attacks and structures. \n Passive ability"
+"Requires: Level 8 \n All infantry units, around the map, get all upgrades. \n Nearby infantry units gain 50% armor against heroic attacks. \n Passive ability"
 END
 
 CONTROLBAR:HelmHammerHandLeadership2
@@ -92715,7 +92715,7 @@ CONTROLBAR:HelmHammerHandLeadership2
 END
 
 CONTROLBAR:ToolTipHelmHammerHandLeadership2
-"Nearby infantry units gain 50% defense against heroic attacks. \n If the ghost of Hammerhand reaches level 5, he comes back to life fully to fullfil his oath and get revenge on thosse he deems responsible. \n Passive ability"
+"Nearby infantry units gain 50% armor against heroic attacks. \n If the ghost of Hammerhand reaches level 5, he comes back to life fully to fullfil his oath and get revenge on thosse he deems responsible. \n Passive ability"
 END
 
 
@@ -96702,12 +96702,20 @@ CONTROLBAR:ToolTipBuildTormentedElvesHorde
 "Unit Type: Elite Archers \n Strong at range \n Weak vs: Cavalry and Monsters"
 END
 
+OBJECT:TormentedElf
+"Tormented Elf"
+END
+
+OBJECT:TormentedElfBanner
+"Tormented Elf Bannerbearer"
+END
+
 OBJECT:TormentedElvesHordeHorde
-"Angba&nd Tormented Elves"
+"Angband Tormented Elves"
 END
 
 CONTROLBAR:LW_Unit_TormentedElvesHordeHorde
-"Angba&nd Tormented Elves"
+"Angband Tormented Elves"
 END
 
 CONTROLBAR:LW_ToolTip_TormentedElvesHordeHorde

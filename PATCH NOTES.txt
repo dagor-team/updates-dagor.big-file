@@ -13,12 +13,14 @@ Dwarves:
 	Erebor catapults damage nerfed
 	Belegost warriors health increased 2500 -> 2800
 	Erebor Dain barracks commandset fixed
+	Aglarond hunters upgraded sword fixed
 	
 Goblins:
 	Spellbook fixed
 	Balrogs special scaling removed; now come out at level 3; can build 3 instead of 2
 	Ancalagon new ability
 	Stone golems no longer trample heroes
+	Half-troll swordsmen cp increased 50 -> 60
 	
 Gondor: 
 	Manwe damage nerf; cd increase of his teleport from 40s -> 2m
@@ -38,7 +40,7 @@ Mordor:
 	Tormented elves and Angband gate guards can be leveled up via minas morgul fortress
 	
 Rohan: 
-	
+	Helm Hammerhand is now summoned at level 3; new scaling system; descriptions fixed
 	
 General:
 	Fortresses health nerfed 30000 -> 25000; armor nerfed by 10% for all infantry and monster damage
