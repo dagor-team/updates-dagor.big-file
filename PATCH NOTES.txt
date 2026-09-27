@@ -14,6 +14,7 @@ Dwarves:
 	Belegost warriors health increased 2500 -> 2800
 	Erebor Dain barracks commandset fixed
 	Aglarond hunters upgraded sword fixed
+	Ironhills Crossbows massive Damage nerf
 	
 Goblins:
 	Spellbook fixed
