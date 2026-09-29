@@ -97370,7 +97370,7 @@ CONTROLBAR:BuildTolinGaurhothVampiresHorde
 END
 
 CONTROLBAR:ToolTipTolinGaurhothVampiresHorde
-"Unit Type: Elite Flying Monster \n Strong vs: Infantry and Cavalry \n You can train a maximum of 5 Vampires"
+"Unit Type: Elite Flying Monster \n Only Against: Monster, flyers and siege \n You can train a maximum of 5 Vampires"
 END
 
 CONTROLBAR:BuildTolinGaurhothWolfHorde
@@ -97410,11 +97410,11 @@ CONTROLBAR:LW_Unit_TolinGaurhothVampiresHordePlural
 END
 
 CONTROLBAR:LW_ToolTipBuild_TolinGaurhothVampiresHorde
-"Unit Type: Elite Flying Monster\nStrong vs: Infantry and Cavalry\n"
+"Unit Type: Elite Flying Monster\n Only Against: Monster, flyers and siege\n"
 END
 
 CONTROLBAR:LW_ToolTip_TolinGaurhothVampiresHorde
-"\nUnit Type: Elite Flying Monster\nStrong vs: Infantry and Cavalry"
+"\nUnit Type: Elite Flying Monster\n Only Against: Monster, flyers and siege"
 END
 
 CONTROLBAR:TolinGaurhothVampiresMinionsSpawn
@@ -97442,7 +97442,7 @@ CONTROLBAR:TolinGaurhothVampiresDreadVisage
 END
 
 CONTROLBAR:ToolTipTolinGaurhothVampiresDreadVisage
-"Requires: Level 6 \n Significantly reduces enemy Armor and Damage \n Passive ability"
+"Requires: Level 5 \n Significantly reduces enemy Armor and Damage \n Passive ability"
 END
 
 OBJECT:TolinGaurhothWolfHorde
