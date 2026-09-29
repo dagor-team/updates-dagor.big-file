@@ -91426,6 +91426,14 @@ CONTROLBAR:ToolTipMablungGraceofMerethAderthad
 "Requires: Level 7 \n As a participant of the meeting of "Mereth Aderthad" held by Fingolfin,\n Mablung strengthens the bonds of brotherhood with other elves.\n Mablung permanently increases the health of a selected allied unit.\n Left-click icon then left-click on desired units"
 END
 
+CONTROLBAR:MablungTightBonds
+"Grace of &Mereth Aderthad"
+END
+
+CONTROLBAR:ToolTipMablungTightBonds
+"Requires: Level 7 \n As a participant of the meeting of "Mereth Aderthad" held by Fingolfin,\n Mablung strengthens the bonds of brotherhood with other elves.\n\n Mablung gains 10% speed and 20% damage for 15 seconds every time an elven hero dies within a medium area around him.\n Passive ability"
+END
+
 CONTROLBAR:MablungEpesse
 "E&pess "
 END

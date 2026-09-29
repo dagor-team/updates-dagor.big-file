@@ -353,7 +353,7 @@
          <!-- <EventHandler EventName="DamageIncoming" ScriptFunctionName="SarumanConsiderUsingDefensePower" DebugSingleStep="false"/> -->
     </EventList>
    
-    <EventList Name="LegolasFunctions" Inherit="BaseScriptFunctions">
+    <EventList Name="LegolasFunctions" Inherit="LothHeroFunctions">
         <EventHandler EventName="OnCreated"                ScriptFunctionName="OnLegolasCreated" DebugSingleStep="false"/>
     </EventList> 
     
@@ -739,7 +739,7 @@
         <EventHandler EventName="OnRing" ScriptFunctionName="OnRingUpgrade" DebugSingleStep="false"/>
      </EventList>
 
-     <EventList Name="RadagastFunctions" Inherit="BaseScriptFunctions">
+     <EventList Name="RadagastFunctions" Inherit="LothHeroFunctions">
 	<EventHandler EventName="UsingSpecialOne" ScriptFunctionName="GandalfTriggerWizardBlast" DebugSingleStep="false"/>
         <EventHandler EventName="UsingSpecialTwo" ScriptFunctionName="GandalfTriggerWizardBlast" DebugSingleStep="false"/>
 	<EventHandler EventName="ModelConditionUSER_6" ScriptFunctionName="GandalfTriggerWizardBlast" DebugSingleStep="false"/>
@@ -748,12 +748,12 @@
         <EventHandler EventName="OnRing" ScriptFunctionName="OnRingUpgrade" DebugSingleStep="false"/>
      </EventList>
 
-    <EventList Name="RadagastAdlerFunctions">
+    <EventList Name="RadagastAdlerFunctions" Inherit="LothHeroFunctions">
         <EventHandler EventName="UsingSpecialOne" ScriptFunctionName="GandalfTriggerWizardBlast" DebugSingleStep="false"/>
         <EventHandler EventName="BeScary" ScriptFunctionName="RadiateTerrorEx" DebugSingleStep="false"/>
     </EventList>
 
-    <EventList Name="GaladrielEdainFunctions" Inherit="BaseScriptFunctions">
+    <EventList Name="GaladrielEdainFunctions" Inherit="LothHeroFunctions">
         <EventHandler EventName="BeScary"     ScriptFunctionName="RadiateTerrorEx" DebugSingleStep="false"/>
         <EventHandler EventName="OnDestroyed" ScriptFunctionName="RemoveGaladrielChosenSide" DebugSingleStep="false"/>	
         <EventHandler EventName="OnRing"      ScriptFunctionName="OnRingUpgrade" DebugSingleStep="false"/>
@@ -803,6 +803,11 @@
 
     <EventList Name="CarcFunctions">
          <EventHandler EventName="BeScary"           ScriptFunctionName="RadiateTerrorEx" DebugSingleStep="false"/>
+    </EventList>
+	
+	<EventList Name="LothHeroFunctions" Inherit="BaseScriptFunctions">
+         <EventHandler EventName="ModelConditionUSER_1"           ScriptFunctionName="OnRetterinderNot" DebugSingleStep="false"/>
+		 <EventHandler EventName="NOTModelConditionUSER_1"           ScriptFunctionName="OffRetterinderNot" DebugSingleStep="false"/>
     </EventList>
 
     <EventList Name="ErestorBannerFunctions" Inherit="MordorOrcFunctions">
@@ -1077,14 +1082,14 @@
         <EventHandler EventName="OnCreated" ScriptFunctionName="OnRoyalGuardDismounting" DebugSingleStep="false"/>
      </EventList>
 
-     <EventList Name="OlweFunctions" Inherit="BaseScriptFunctions">
+     <EventList Name="OlweFunctions" Inherit="LothHeroFunctions">
         <EventHandler EventName="ModelConditionUSER_6" ScriptFunctionName="OnOlweUser6" DebugSingleStep="false"/>
         <EventHandler EventName="ModelConditionNOTUSER_6" ScriptFunctionName="OffAOlweUser6" DebugSingleStep="false"/>
         <EventHandler EventName="ModelConditionUSER_8" ScriptFunctionName="OnOlweUser8" DebugSingleStep="false"/>
         <EventHandler EventName="ModelConditionNOTUSER_8" ScriptFunctionName="OffOlweUser8" DebugSingleStep="false"/>
      </EventList>
 
-     <EventList Name="ElvenThranduilFunctions" Inherit="BaseScriptFunctions">
+     <EventList Name="ElvenThranduilFunctions" Inherit="LothHeroFunctions">
         <EventHandler EventName="OnCreated"    		  ScriptFunctionName="OnThranduilDefault" DebugSingleStep="false"/>	
         <EventHandler EventName="ModelConditionUSER_4"    ScriptFunctionName="BecomeDamagedState" DebugSingleStep="false"/>
         <EventHandler EventName="ModelConditionNOTUSER_4" ScriptFunctionName="BecomeDamagedStateAfter" DebugSingleStep="false"/>
