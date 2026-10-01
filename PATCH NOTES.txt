@@ -38,12 +38,12 @@ Lothlorien:
 	Radagast level 10 and 7 switched; requires more xp to level up
 	
 Mordor:
-	Tormented elves and Angband gate guards can be leveled up via minas morgul fortress
 	
 Rohan: 
 	Helm Hammerhand is now summoned at level 3; new scaling system; descriptions fixed
+	Erkenbrand level 7 cooldown increased 1m -> 3m
 	
 General:
-	Fortresses health nerfed 30000 -> 25000; armor nerfed by 10% for all infantry and monster damage
+	Fortresses armor nerfed by 10% for all infantry and monster damage
 	All valars now reveal hidden (stealthed) units
 	Some descriptions fixed
