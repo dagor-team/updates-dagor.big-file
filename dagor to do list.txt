@@ -15,11 +15,16 @@ abilities for saleme and bounty hunter and hunter + names
 hunter - done
 
 imla guardians blademaster ability - 
-descriptions - goblin captain ability; summoned Hurin name; druadan banners; 
+descriptions - Spellbook spell cooldowns
 imrahil lvl 3 and lvl 7 switched - 
 peasants model update, include pitchforks - 
 pitchforks art - done
-isengard general figure out
+isengard general figure out 
+
+TIER_1        300000 -> 5 minutes
+TIER_2        425000 -> 7
+TIER_3        550000 -> 9
+TIER_4        700000 -> 12
 
 PRIORITIES:
 

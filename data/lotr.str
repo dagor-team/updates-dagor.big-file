@@ -162,11 +162,11 @@ CONTROLBAR:SpellBookForestLothlorien
 END
 
 CONTROLBAR:TooltipSpellBookForestLothlorien
-"The presence of the White Lady in the Forest of Lothlorien intimidates all trespassers, reducing the attack of enemy units by 50% for 15 seconds\n Left-click on the desired destination"
+"The presence of the White Lady in the Forest of Lothlorien intimidates all trespassers, reducing the attack of enemy units by 50% for 15 seconds\n Left-click on the desired area \n Cooldown: 5 minutes"
 END
 
 CONTROLBAR:TooltipSpellBookGeschenkeLoriens_Neu2
-"The target hero recieves a specific gift from Lothlorien: \n Galadriel (Without the Silmaril): Recieves a Magical Necklace that decreases the cooldown of her abilities and increases her damage by 60.\n Celeborn: Gains his Silver Blade as a passive, granting him +100% damage. Also grants allies close to him +50% damage for a short time.\n Haldir: "Golden Arrow" is replaced with "White Arrow of Galadriel" which stuns all units in a large radius.\n Rumil or Orophin: Grants them armour of the Galadhrim which gives them a large increase to their armour at the cost of speed.\n Thranduil: Equips his Battle Armour increasing his defense and vision range.\n Legolas: Recieves the Bow of Galadriel, improving the damage of "Hawk Strike" and "Arrow Wind".\n  Tauriel: Recieves an enchanted brooch that heals allied heroes close to her.\n Radagast: Receives an Elent·ri gem from Galadriel, increasing the power of his staff.\n Left-Click on the icon and then click the desired hero."
+"The target hero recieves a specific gift from Lothlorien: \n Galadriel (Without the Silmaril): Recieves a Magical Necklace that decreases the cooldown of her abilities and increases her damage by 60.\n Celeborn: Gains his Silver Blade as a passive, granting him +100% damage. Also grants allies close to him +50% damage for a short time.\n Haldir: "Golden Arrow" is replaced with "White Arrow of Galadriel" which stuns all units in a large radius.\n Rumil or Orophin: Grants them armour of the Galadhrim which gives them a large increase to their armour at the cost of speed.\n Thranduil: Equips his Battle Armour increasing his defense and vision range.\n Legolas: Recieves the Bow of Galadriel, improving the damage of "Hawk Strike" and "Arrow Wind".\n  Tauriel: Recieves an enchanted brooch that heals allied heroes close to her.\n Radagast: Receives an Elent·ri gem from Galadriel, increasing the power of his staff.\n Left-Click on the desired hero \n Cooldown: 7 minutes"
 END
 
 CONTROLBAR:SpellBookNoldorAman
@@ -241,7 +241,7 @@ CONTROLBAR:SpellBookRadagastRohan
 END
 
 CONTROLBAR:TooltipSpellBookHelmHammerhand
-"The ghost of Helm Hammerhand appears for a short time to fullfil his oath and bring vengeance to those who seek to destroy Rohan. \n Variation (Need Army of the Past Ages): Summons Helm Hammerhand with 2 battaillons of his elite guards. If he reaches level 6 or level 10 respectively, he will retain his levels upon his resummon. \n Left click on a desired area"
+"The ghost of Helm Hammerhand appears for a short time to fullfil his oath and bring vengeance to those who seek to destroy Rohan. \n Variation (Need Army of the Past Ages): Summons Helm Hammerhand with 2 battaillons of his elite guards. If he reaches level 6 or level 10 respectively, he will retain his levels upon his resummon. \n Left click on a desired area \n Cooldown: 12 minutes"
 END
 
 CONTROLBAR:RohanFarmInfobox
@@ -257,7 +257,7 @@ CONTROLBAR:SpellBookSteppenRohans
 END
 
 CONTROLBAR:TooltipSpellBookSteppenRohans
-"Changes the area of terrain, creating a steppe on the battlefield. Nearby allied units are 10% faster, deal 10% more damage and cavalry will slow down 50% less when trampling \n Left click on icon then left click on target area"
+"Changes the area of terrain, creating a steppe on the battlefield. Nearby allied units are 10% faster, deal 10% more damage and cavalry will slow down 50% less when trampling \n Left click on the target area \n Cooldown: 7 minutes"
 END
 
 CONTROLBAR:RohanHauptmannMount
@@ -335,7 +335,7 @@ CONTROLBAR:FloodOarni
 END
 
 CONTROLBAR:TooltipFloodOarni
-"As a spirit of the sea in the service of Ulmo, Osse guarded the waters around Middle-earth. \n Osse sends the Oarni to help the Men of the West. Heroes hit by the spirits suffer major debuffs while units suffer damage and will get knocked down \n Left-click icon then left-click on target area"
+"As a spirit of the sea in the service of Ulmo, Osse guarded the waters around Middle-earth. \n Osse sends the Oarni to help the Men of the West. Heroes hit by the spirits suffer major debuffs while units suffer damage and will get knocked down \n Left-click on the target area \n Cooldown: 12 minutes"
 END
 
 
@@ -997,7 +997,7 @@ CONTROLBAR:SpellBookLothlorienPfeilsalve
 END
 
 CONTROLBAR:TooltipSpellBookLothlorienPfeilsalve
-"Summon a sacred tree of Lothlorien \n Left click on icon then left click on target area"
+"Summon a sacred tree of Lothlorien \n Left click on a target area \n Cooldown: 7 minutes"
 END
 
 CONTROLBAR:SpellBookElberethGilthoniel
@@ -1005,7 +1005,7 @@ CONTROLBAR:SpellBookElberethGilthoniel
 END
 
 CONTROLBAR:TooltipSpellBookElberethGilthoniel
-"The elves can see the Stars of Elbereth \n Cancels Freezing Rain or Darkness \n Allied units gain 50% armor, 10% more speed and resist fear for a short period and allied structures gain 50% more armor \n Left click to activate"
+"The elves can see the Stars of Elbereth \n Cancels Freezing Rain or Darkness \n Allied units gain 50% armor, 10% more speed and resist fear for a short period and allied structures gain 50% more armor \n Left click to activate \n Cooldown: 9 minutes"
 END
 
 CONTROLBAR:SpecialAbilityBanndesNekromanten
@@ -1657,7 +1657,7 @@ CONTROLBAR:ToolTipSpecialAbilityCastamirBrandschatzen_Neu
 END
 
 CONTROLBAR:TooltipSpellBookGeschenkeLoriens_Neu
-"A desired hero receives a gift from Lothlorien \n Left-click on the icon and then click the desired hero"
+"A desired hero receives a gift from Lothlorien \n Left-click on the desired hero"
 END
 
 CONTROLBAR:HaldirWhiteArrow
@@ -2993,7 +2993,7 @@ CONTROLBAR:SpellBookSummonHeerlager
 END
 
 CONTROLBAR:TooltipSpellBookSummonHeerlager
-"Establishes a Military Camp of Rohan in the targeted area \n intermittently sends Rohirrim who get upgraded by every expansion tent \n increases command point limit by 150 \n Left click icon then left click on passable area"
+"Establishes a Military Camp of Rohan in the targeted area \n intermittently sends Rohirrim who get upgraded by every expansion tent \n increases command point limit by 150 \n Left click on a passable area \n Cooldown: 9 minutes"
 END
 
 CONTROLBAR:ToggleHeroWeapons
@@ -3769,7 +3769,7 @@ CONTROLBAR:ArnorSummonLindon
 END
 
 CONTROLBAR:ToolTipArnorSummonLindon
-"Summon a couple of Lindon lancers with an elven barracs from which elves of Lindon can be trained \n Left-click on the icon and then click passable area"
+"Summon a couple of Lindon lancers with an elven barracks from which elves of Lindon can be trained \n Left-click on the icon and then click passable area \n Cooldown: 9 minutes"
 END
 
 CONTROLBAR:ArnorSummonHobbits
@@ -4233,7 +4233,7 @@ CONTROLBAR:SpellBookSummonRohanGondor
 END
 
 CONTROLBAR:TooltipSpellBookSummonRohanGondor
-"Rohan stands by the people of Gondor in their greatest need \n Temporarily summon Theoden,  Eowyn, Eomer, Merry, and 6 battalions of Rohirrim \n Variation (Need Army of the Past Ages): Summons Orome with his hounds of Valinor \n Left-click the icon then left-click on target area"
+"Rohan stands by the people of Gondor in their greatest need \n Temporarily summon Theoden, Eowyn, Eomer, Merry, and 6 battalions of Rohirrim \n Variation (Need Army of the Past Ages): Summons Orome with his hounds of Valinor \n Left-click on the target area \n Cooldown: 12 minutes"
 END
 
 CONTROLBAR:DwarvenKhazadDumFactionInfobox
@@ -4293,7 +4293,7 @@ CONTROLBAR:SpecialAbilitySpecialAbilityLeuchtfeuerGondor
 END
 
 CONTROLBAR:ToolTipSpecialAbilitySpecialAbilityLeuchtfeuerGondor
-"The beacons of Gondor have been ignited \n Allies from the fiefdoms of Gordon have gathered at the beacon \n Passive Ability"
+"The beacons of Gondor have been ignited \n Allies from the fiefdoms of Gondor have gathered and come to Gondor¥s aid \n Left on the target area \n Cooldown: 7 minutes"
 END
 
 CONTROLBAR:PurchaseMorthrondFiefdom
@@ -4373,7 +4373,7 @@ CONTROLBAR:SpellBookLetztesBundnissArnor
 END
 
 CONTROLBAR:TooltipSpellBookLetztesBundnissArnor
-"Temporarily summon an army of Soldiers \n Left-click on the target area"
+"Temporarily summon an army of elves and men \n Left-click on the target area \n Cooldown: 12 minutes"
 END
 
 CONTROLBAR:TooltipSpellBookLetztesBundnissImladris
@@ -4385,7 +4385,7 @@ CONTROLBAR:WaelderCardolans
 END
 
 CONTROLBAR:TooltipWaelderCardolans
-"A Forest of Cardolan blooms from the ground, granting allied troops in the target area +30% armor and are fearless \n Enemy units lose all leaderships \n Left-click on the icon and then click the target area"
+"A Forest of Cardolan blooms from the ground, granting allied troops in the target area +30% armor and are fearless \n Enemy units lose all leaderships \n Left-click on the icon and then click the target area \n Cooldown: 7 minutes"
 END
 
 CONTROLBAR:GandalfTheGreyHotkey
@@ -4425,11 +4425,11 @@ CONTROLBAR:EndloseHorden
 END
 
 CONTROLBAR:TooltipEndloseHorden
-"The endless hordes of Mordor are inexhaustible \n Replaces one fallen unit of every horde on the battlefield \n Left-click to activate"
+"The endless hordes of Mordor are inexhaustible \n Replaces one fallen unit of every horde on the battlefield \n Left-click to activate \n Cooldown: 5 minutes"
 END
 
 CONTROLBAR:TooltipHornGondorsNew
-"The Horn of Gondor rings out and \n inspires the troops of the White City \n +50% attack and +20% speed for allied troops \n Left-click on the icon then left-click on target area"
+"The Horn of Gondor rings out and inspires the troops of the White City \n +50% attack, +50% armor and +20% speed for allied troops \n Left-click on target area \n Cooldown: 5 minutes"
 END
 
 CONTROLBAR:SpellbookErschutterung
@@ -4949,16 +4949,12 @@ CONTROLBAR:SchwerterderWesternis
 "Swords of Westerness"
 END
 
-CONTROLBAR:SchwerterderWesternis
-"Swords of Westerness"
-END
-
 CONTROLBAR:ToolTipSchwerterderWesternis
-"Equip these battalions with Swords of Westernesse \n These blades of westerness give +100 damage, +10% experience gaine and +400 health to Arnor heroes. \n Left-click on the desired heroes."
+"Equip heroes of Arnor with Swords of Westernesse \n These blades of westerness give +100 damage, +10% experience gain and +400 health to heroes of Arnor. \n Left-click on the desired heroes \n Cooldown: 9 minutes"
 END
 
 CONTROLBAR:ToolTipSchwerterderWesternisShort
-"Equip these battalions with Swords of Westernesse \n These blades protect their bearers from magic, poison, and the elements and lend them strength to face all kinds of enemies. Particularly powerful vs. Ringwraiths and Barrow-wights \n If used on Archers they will gain Bows of the Westernesse \n Left-click on the desired battalions"
+"Equip heroes of Arnor with Swords of Westernesse \n These blades will grant permanent increase in health and damage \n Left-click on the desired heroes \n Cooldown: 9 minutes"
 END
 
 TOOLTIP:SchwerterderWesternis
@@ -7271,7 +7267,7 @@ CONTROLBAR:LW_Hero_ImladrisGildor
 END
 
 CONTROLBAR:TooltipSpellBookDieGraueSchaar
-"The Grey Company rushes to the aid of Gondor \n Briefly calls upon Halbarad, the sons of Elrond and the 30 Rangers \n Left-click on the icon and then click passable area"
+"The Grey Company rushes to the aid of Gondor \n Briefly calls upon Halbarad, the sons of Elrond and the 3 battalions Rangers \n Left-click on a passable area \n Cooldown: 9 minutes"
 END
 
 CONTROLBAR:ToolTipThorinEichenschildKing
@@ -9932,7 +9928,7 @@ CONTROLBAR:ToolTipSpecialAbilityTunnelgraberdesGroﬂorksKing
 END
 
 CONTROLBAR:TooltipSpellBookVerzauberterFluss
-"Out of the Mirkwood forest flows a mystical stream, which paralyzes whomsoever dares to drink from it \n Flood a target area with a mystical stream, in order to paralyze hostile forces \n Left click on the target location"
+"Out of the Mirkwood forest flows a mystical stream, which paralyzes whomsoever dares to drink from it \n Flood a target area with a mystical stream, in order to paralyze hostile forces \n Left click on the target location \n Cooldown: 7 minutes"
 END
 
 TOOLTIP:LackLevelLorienBasicTraining
@@ -10292,7 +10288,7 @@ CONTROLBAR:SpecialAbilityErestorsFarm
 END
 
 CONTROLBAR:ToolTipSpecialAbilityErestorsFarm
-"Erestor spends a lot of his time studying in the beautiful gardens of the last homely house,\n so much so that elrond designated a whole garden just for him.\n \n Erestor summons a garden house that provides resources, but also grants him experience.\n Left-click on a target area"
+"Erestor spends a lot of his time studying in the beautiful gardens of the last homely house,\n so much so that elrond designated a whole garden just for him.\n \n Erestor summons a garden house that provides resources, but also grants him experience.\n The farm must be placed outside the area already taken by a farm.\n Left-click on a free area"
 END
 
 CONTROLBAR:ErestorZweiteReihe
@@ -10453,7 +10449,7 @@ CONTROLBAR:BaumeisterArnors
 END
 
 CONTROLBAR:ToolTipBaumeisterArnors
-"Selected allied buildings are fully repaired \n Left-click on the desired target area"
+"Selected allied buildings are fully repaired \n Left-click on the desired target area \n Cooldown: 5 minutes"
 END
 
 CONTROLBAR:DiplomatischeBeziehungenArvedui
@@ -11050,7 +11046,7 @@ CONTROLBAR:TooltipGandalfderWeiﬂefor_HK
 END
 
 CONTROLBAR:ToolTipSpellbookSummonElben_HK
-"Haldir and his elven guard come to renew their vow of alliance and help defend Helms Deep against the hordes of Isengard \n Temporarily summons Haldir and 3 Galadhrim on the battlefield \n Left-click on the icon, and then click a passable area"
+"Haldir and his elven guard come to renew their vow of alliance and help defend Helms Deep against the hordes of Isengard \n Temporarily summons Haldir and 15 Galadhrim on the battlefield \n Left-click on a passable area \n Cooldown: 9 minutes"
 END
 
 CONTROLBAR:SpellBookErkenbrandWestfoldfor_HK
@@ -19641,15 +19637,15 @@ CONTROLBAR:RunBitchWaterIsComin
 END
 
 CONTROLBAR:ToolTipRunBitchWaterIsComin
-"Summons a massive tidal wave that engulfs enemy units \n Left click on the icon and then click the target area"
+"Summons a massive tidal wave that engulfs enemy units \n Left click on the target area \n Cooldown: 12 minutes"
 END
 
 CONTROLBAR:GiftOfTheKingdom
-"Blood of the N men reans"
+"Blood of the Numenoreans"
 END
 
 CONTROLBAR:TooltipGiftOfTheKingdom
-"The Blood of Ancient N men reans gives people of Arnor longevity \n Arnor soldiers regenerate permanently \n Passive ability"
+"The Blood of Ancient Numenoreans gives people of Arnor longevity \n Arnor soldiers regenerate permanently \n Passive ability"
 END
 
 CONTROLBAR:SwordsOfThePast
@@ -19681,7 +19677,7 @@ CONTROLBAR:TooltipHornOfArnor
 END
 
 CONTROLBAR:HornOfArnor
-"If their horns sound, the soldiers of Arnor fight with renewed courage \n The selected allies cause +50% damage and get +50% armor"
+"If their horns sound, the soldiers of Arnor fight with renewed courage \n The selected allies cause +50% damage and get +50% armor \n Cooldown: 5 minutes"
 END
 
 CONTROLBAR:HealingOfTheOld
@@ -19689,7 +19685,7 @@ CONTROLBAR:HealingOfTheOld
 END
 
 CONTROLBAR:TooltipHealingOfTheOld
-"Among the ancients traditional recipes heal the wounded and Arnor replace a fallen per battalion \n Left click on the icon and then click the desired units"
+"Among the ancients traditional recipes heal the wounded and Arnor replace a fallen per battalion \n Left click on the icon and then click the desired units \n Cooldown: 5 minutes"
 END
 
 CONTROLBAR:SchmiedekunstderZwillinge
@@ -26119,7 +26115,7 @@ CONTROLBAR:SpellbookHornHelmHammerhands
 END
 
 CONTROLBAR:TooltipSpellbookHornHelmHammerhands
-"Lets the trumpet horns of Rohan sound over the battlefield \n The selected allies cause +50% damage, +50% armor and +20% speed \n Left click on the icon and then click the desired units"
+"Lets the trumpet horns of Rohan sound over the battlefield \n Selected allies gain +50% damage, +50% armor and +20% speed \n Left click on the desired units \n Cooldown: 5 minutes"
 END
 
 CONTROLBAR:Winterernte
@@ -26131,7 +26127,7 @@ CONTROLBAR:TooltipWinterernte
 END
 
 CONTROLBAR:TooltipSimbelmyne
-"Since time immemorial, Simbelmyne has grown on the mounds of dead heroes \n Heals units and replaces a fallen unit per battalion \n Left click on the icon and then click the desired units"
+"Since time immemorial, Simbelmyne has grown on the mounds of dead heroes \n Heals units and replaces a fallen unit per battalion \n Left click on the the desired units \n Cooldown: 5 minutes"
 END
 
 CONTROLBAR:Simbelmyne
@@ -26539,7 +26535,7 @@ CONTROLBAR:BandderGefahrten
 END
 
 CONTROLBAR:ToolTipBandderGefahrten
-"Temporarily summon Aragorn, Gimli and Legolas \n Variation (Need Army of the Past Ages): Temporarily summon Galdor, Hur n and Huor\n Left click to the battlefield on the icon, then click a passable area"
+"Temporarily summon Aragorn, Gimli and Legolas \n Variation (Need Army of the Past Ages): Temporarily summon Galdor, Hurin and Huor\n Left click on a passable area \n Cooldown: 9 minutes"
 END
 
 CONTROLBAR:ToolTipPurchaseRohanKing
@@ -26651,7 +26647,7 @@ CONTROLBAR:SpellBookZornFangorns
 END
 
 CONTROLBAR:TooltipSpellBookZornFangorns
-"The Ents go to war to save the free people of Middle-earth \n Variation (Need Army of the Past Ages): Yavanna Kementari, the Queen of Earth, joins her ents. \n Left click on the icon, and then click a passable area"
+"The Ents go to war to save the free people of Middle-earth \n Variation (Need Army of the Past Ages): Yavanna Kementari, the Queen of Earth, joins her ents. \n Left click on a passable area \n Cooldown: 13 minutes, 20 seconds"
 END
 
 CONTROLBAR:HornNoldor
@@ -26659,7 +26655,7 @@ CONTROLBAR:HornNoldor
 END
 
 CONTROLBAR:TooltipHornNoldor
-"Let the horn of the Noldor resound \n The selected allies cause +50% damage \n Left click on the icon and then click the desired units"
+"Let the horn of the Noldor resound \n The selected allies gain +50% attack, +50% armor and +20% speed \n Left click on the desired units \n Cooldown: 5 minutes"
 END
 
 CONTROLBAR:TooltipGoldeneWalder
@@ -26775,7 +26771,7 @@ CONTROLBAR:WaelderIthiliens
 END
 
 CONTROLBAR:TooltipWaelderIthiliens
-"The forests of Ithilien protect their inhabitants, granting allied troops with +50% armor and fear immunity \n Enemy units lose all leaderships \n Left-click on the icon and then click the target area"
+"The forests of Ithilien protect their inhabitants, granting allied troops with +50% armor and fear immunity \n Enemy units lose all leaderships \n Left-click on the target area \n Cooldown: 7 minutes"
 END
 
 CONTROLBAR:HornGondors
@@ -26787,7 +26783,7 @@ CONTROLBAR:SummonAdler
 END
 
 CONTROLBAR:TooltipSummonAdler
-"Calls Gwaihir s 3 loyal Eagles to your side for a short time \n Left-click on icon then left-click on target area"
+"Calls Gwaihir s 3 loyal Eagles to your side for a short time \n Left-click on the target area \n Cooldown: 9 minutes"
 END
 
 CONTROLBAR:SummonWaldlaeufer
@@ -26815,7 +26811,7 @@ Upgrade:FortressHelmHammerhand
 END
 
 CONTROLBAR:TooltipBaumeisterGondors
-"The skilled masons of Gondor repair \n selected buildings in no time \n Left-click on the icon and then click the target area"
+"The skilled masons of Gondor repair selected buildings in no time \n Left-click on the target area \n Cooldown: 7 minutes"
 END
 
 CONTROLBAR:GandalftheWhite
@@ -29345,7 +29341,7 @@ CONTROLBAR:RainOfTheValar
 END
 
 CONTROLBAR:TooltipRainOfTheValar
-"Let the tears of the Valar rain down in the target area \n Left click on the icon and then click the target area"
+"Let the tears of the Valar rain down in the target area \n Left click on the target area \n Cooldown: 12 minutes"
 END
 
 CONTROLBAR:SpellbookWindhauchManwes
@@ -29353,7 +29349,7 @@ CONTROLBAR:SpellbookWindhauchManwes
 END
 
 CONTROLBAR:TooltipSpellbookWindhauchManwes
-"Summon a breath of wind of Valars Manwe to blow your enemies henceforth \n Left-click on the icon and then click the target area"
+"Summon a breath of wind of Valars Manwe to blow your enemies henceforth \n Left-click on the target area \n Cooldown: 5 minutes"
 END
 
 CONTROLBAR:WulfgarLeadership
@@ -42487,7 +42483,7 @@ CONTROLBAR:Scavenger
 END
 
 CONTROLBAR:ToolTipScavenger
-"All kills earn extra resources \n Passive ability"
+"All kills earn extra resources for 30 seconds\n Left-click to activate"
 END
 
 CONTROLBAR:Devastation
@@ -42591,7 +42587,7 @@ CONTROLBAR:Heal
 END
 
 CONTROLBAR:ToolTipHeal
-"Heals units and replaces one dead man per battalion \n Left-click icon then left-click on target units"
+"Heals units and replaces one dead man per battalion \n Left-click icon then left-click on target units \n Cooldown: 5 minutes"
 END
 
 CONTROLBAR:DwarvenRiches
@@ -42619,7 +42615,7 @@ CONTROLBAR:Draft
 END
 
 CONTROLBAR:ToolTipDraft
-"Active: All Peasants of Rohan become armed with sword and shield, gaining an increase to damage and armour. \n Passive: At Level 2, the Peasants of Rohan can specialize with a weapon of their choice and join the Militia of Rohan. \n Left click to activate"
+"Active: All Peasants of Rohan become armed with sword and shield, gaining an increase to damage and armour. \n Passive: At Level 2, the Peasants of Rohan can specialize with a weapon of their choice and join the Militia of Rohan. \n Left click to activate \n Cooldown: 5 minutes"
 END
 
 CONTROLBAR:ElvenGifts
@@ -42763,7 +42759,7 @@ CONTROLBAR:LoneTower
 END
 
 CONTROLBAR:TooltipLoneTower
-"Summons a defensive tower \n You can summon 3 in the same game \n Left click icon then left click on pathable location"
+"Summons a defensive tower \n You can summon 3 in the same game \n Left click icon then left click on pathable location \n Cooldown: 7 minutes"
 END
 
 CONTROLBAR:RunesOfPower
@@ -99610,7 +99606,7 @@ CONTROLBAR:BlutliniederKonige
 END
 
 CONTROLBAR:TooltipBlutliniederKonige
-"Call the mighty Army of the ancestors from the early days of the war against Angmar on the battlefield in order to renew the glory of Arnor \n Arveleg and an army of Arnor soldiers appears in the target area for a limited time"
+"Call the mighty Army of the ancestors from the early days of the war against Angmar on the battlefield in order to renew the glory of Arnor \n Arveleg and an army of Arnor soldiers appears for a limited time \n Cooldown: 9 minutes"
 END
 
 UPGRADE:GandalfGeschichteMittelerdes
