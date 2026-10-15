@@ -93511,6 +93511,14 @@ CONTROLBAR:ToolTipTribalViolence
 "Requires: Level 3 \n Unit gains 25% damage if under 25% max health and continues fighting even after deathblow  \n Passive ability"
 END
 
+CONTROLBAR:GondolinArmorUpgrade
+"Armor Upgrade"
+END
+
+CONTROLBAR:ToolTipGondolinArmorUpgrade
+"Requires: Level 5 \n Unit gains a armor upgrade \n Passive ability"
+END
+
 CONTROLBAR:FormenosWeaponUpgrade
 "Weapon Upgrade"
 END
@@ -94889,7 +94897,7 @@ CONTROLBAR:TaniquetilFortressLevel2
 END
 
 CONTROLBAR:ToolTipTaniquetilFortressLevel2
-"+10% Training Speed \n increases hit points of the Fortress \n Allows to training Taniquetil Watcher \n Allows to use Cloud Break"
+"+10% Training Speed \n increases hit points of the Fortress \n Allows to training Taniquetil Watcher"
 END
 
 CONTROLBAR:TaniquetilFortressLevel3
@@ -94897,7 +94905,7 @@ CONTROLBAR:TaniquetilFortressLevel3
 END
 
 CONTROLBAR:ToolTipTaniquetilFortressLevel3
-"+20% Training Speed \n increases hit points of the Fortress \n Allows to training Taniquetil Captain"
+"+20% Training Speed \n increases hit points of the Fortress \n Allows to training Taniquetil Captain \n Allows to use Summon Eagles"
 END
 
 CONTROLBAR:TaniquetilFortressLevel4
@@ -94905,7 +94913,7 @@ CONTROLBAR:TaniquetilFortressLevel4
 END
 
 CONTROLBAR:ToolTipTaniquetilFortressLevel4
-"+30% Training Speed \n increases hit points of the Fortress \n Allows to use Summon Eagles"
+"+30% Training Speed \n increases hit points of the Fortress"
 END
 
 CONTROLBAR:TaniquetilFortressLevel5
@@ -94913,7 +94921,7 @@ CONTROLBAR:TaniquetilFortressLevel5
 END
 
 CONTROLBAR:ToolTipTaniquetilFortressLevel5
-"+40% Training Speed \n increases hit points of the Fortress \n Eonwe can be summoned"
+"+40% Training Speed \n increases hit points of the Fortress \n \n Eonwe can be summoned"
 END
 
 CONTROLBAR:SelectRevivablesTaniquetilFortress
@@ -94961,7 +94969,7 @@ CONTROLBAR:TaniquetilFortressRebuild
 END
 
 CONTROLBAR:TooltipTaniquetilFortressRebuild
-"Requires: Taniquetil Fortress Level 2 \n Heals structures \n Left-click icon then left-click on target structures"
+"Heals structures \n Left-click icon then left-click on target structures"
 END
 
 CONTROLBAR:TaniquetilFortressSummonEagle
@@ -94977,7 +94985,7 @@ CONTROLBAR:BuildTaniquetilGuardHorde
 END
 
 CONTROLBAR:ToolTipBuildTaniquetilGuardHorde
-"Unit Type: Elite Pikemen \n Strong vs: Cavalry and Monster"
+"Unit Type: First Age Pikemen \n Strong vs: Cavalry and Monster"
 END
 
 CONTROLBAR:BuildTaniquetilWatcherHorde
@@ -94985,7 +94993,7 @@ CONTROLBAR:BuildTaniquetilWatcherHorde
 END
 
 CONTROLBAR:ToolTipBuildTaniquetilWatcherHorde
-"Requires: Taniquetil Barracks Level 2 \n Unit Type: Elite Archer \n Strong vs: Depending on the situation \n Can switch between Sword and Bow \n You can maintain 6 battalions simultaneously"
+"Requires: Taniquetil Barracks Level 2 \n Unit Type: First Age Archer \n Strong vs: Depending on the situation \n Can switch between Sword and Bow \n You can maintain 6 battalions simultaneously"
 END
 
 CONTROLBAR:BuildTaniquetilCaptian
@@ -94993,9 +95001,8 @@ CONTROLBAR:BuildTaniquetilCaptian
 END
 
 CONTROLBAR:ToolTipTaniquetilCaptian
-"Requires: Taniquetil Barracks Level 3 \n Unit Type: Heroic Infantry \n Strong vs: Heroes and Structures"
+"Requires: Taniquetil Barracks Level 3 \n Unit Type: First Age Champion \n Strong vs: Heroes and Structures"
 END
-
 
 OBJECT:TaniquetilBanner
 "Taniquetil Banner"
@@ -95050,11 +95057,11 @@ CONTROLBAR:LW_Unit_TaniquetilGuardHordePlural
 END
 
 CONTROLBAR:LW_ToolTip_TaniquetilGuardHorde
-"\nUnit Type: Elite Pikemen\nStrong vs: Cavalry and Monster"
+"\nUnit Type: First Age Pikemen\nStrong vs: Cavalry and Monsters"
 END
 
 CONTROLBAR:LW_ToolTipBuild_TaniquetilGuardHorde
-"Unit Type: Elite Pikemen\nStrong vs: Cavalry and Monster\n"
+"Unit Type: First Age Pikemen\nStrong vs: Cavalry and Monsters\n"
 END
 
 
@@ -95079,11 +95086,11 @@ CONTROLBAR:LW_Unit_TaniquetilWatcherHordePlural
 END
 
 CONTROLBAR:LW_ToolTip_TaniquetilWatcherHorde
-"\nUnit Type: Elite Archer\nStrong vs: Depending on the situation"
+"\nUnit Type: First Age Archer\nStrong vs: Depending on the situation"
 END
 
 CONTROLBAR:LW_ToolTipBuild_TaniquetilWatcherHorde
-"Unit Type: Elite Archer\nStrong vs: Depending on the situation\n"
+"Unit Type: First Age Archer\nStrong vs: Depending on the situation\n"
 END
 
 
@@ -95108,11 +95115,11 @@ CONTROLBAR:LW_Unit_TaniquetilCaptianPlural
 END
 
 CONTROLBAR:LW_ToolTip_TaniquetilCaptian
-"\nUnit Type: Heroic Infantry\nStrong vs: Heroes and Structures"
+"\nUnit Type: First Age Champion\nStrong vs: Heroes and Structures"
 END
 
 CONTROLBAR:LW_ToolTipBuild_TaniquetilCaptian
-"Unit Type: Heroic Infantry\nStrong vs: Heroes and Structures\n"
+"Unit Type: First Age Champion\nStrong vs: Heroes and Structures\n"
 END
 
 CONTROLBAR:TaniquetilCaptianLeadership
@@ -95129,7 +95136,7 @@ CONTROLBAR:PurchaseSpellBelegostTechnology
 END
 
 CONTROLBAR:TooltipPurchaseSpellBelegostTechnology
-"Summons the support of the armies of Belegost \n Heroes: Azaghal and Telchar \n Summoned Hero: Aule  \n Passive ability"
+"Summons the support of the armies of Belegost \n Heroes: Azaghal, Telchar and Durin I. \n Summoned Hero: Aule \n Passive ability"
 END
 
 TOOLTIP:RequirementBelegostSpellTechnology
@@ -95302,11 +95309,11 @@ CONTROLBAR:LW_Unit_NogrodSmitePlural
 END
 
 CONTROLBAR:LW_ToolTip_NogrodSmite
-"\nUnit Type: Fist Age Champion\nStrong at supporting your own units"
+"\nUnit Type: Fist Age Champion\nStrong at supporting dwarven units"
 END
 
 CONTROLBAR:LW_ToolTipBuild_NogrodSmite
-"Unit Type: Fist Age Champion\nStrong at supporting your own units\n"
+"Unit Type: Fist Age Champion\nStrong at supporting dwarven units\n"
 END
 
 CONTROLBAR:NogrodSmiteBonus
@@ -95557,7 +95564,7 @@ END
 
 
 CONTROLBAR:AncalegonRage
-"Greatest of The Urul ki"
+"Greatest of The Uruloki"
 END
 
 CONTROLBAR:TooltipAncalegonRage
