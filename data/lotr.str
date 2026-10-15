@@ -3077,7 +3077,7 @@ CONTROLBAR:ToolTipSpecialAbilityGardedesPrinzen
 END
 
 CONTROLBAR:ToolTipSpecialAbilityImrahilPrinzengarde
-"Requires: Level 10 \n Imrahil summons his Prince Guard from Dol Amroth to his side. \n If the guard is summoned while Imrahil is on foot, the Prince Guard will be on foot. \n If summoned while Imrahil is mounted, the Prince Guard will also be mounted. \n Only one battalion of Prince Guard can be on the battlefield at once \n Left-click on a passable area"
+"Requires: Level 3 \n Imrahil summons his Prince Guard from Dol Amroth to his side. \n If the guard is summoned while Imrahil is on foot, the Prince Guard will be on foot. \n If summoned while Imrahil is mounted, the Prince Guard will also be mounted. \n Only one battalion of Prince Guard can be on the battlefield at once \n Left-click on a passable area"
 END
 
 CONTROLBAR:SpecialAbilityDisziplin
@@ -3097,7 +3097,7 @@ CONTROLBAR:SpecialAbilityImrahilEhre
 END
 
 CONTROLBAR:ToolTipSpecialAbilityImrahilEhre
-"Requires: Level 3 \n Only available while mounted \n Imrahil dashes through the enemy ranks and tramples his enemies under the hooves of his mighty war-horse even ignoring enemy pikemen \n Left-click to activate"
+"Requires: Level 10 \n Only available while mounted \n Imrahil dashes through the enemy ranks and tramples his enemies under the hooves of his mighty war-horse even ignoring enemy pikemen \n Left-click to activate"
 END
 
 CONTROLBAR:TogglePalantir1_Imrahil
@@ -91624,7 +91624,7 @@ CONTROLBAR:BuildSilvanArcherHorde
 END
 
 CONTROLBAR:ToolTipBuildSilvanArcherHorde
-"Requires: Menegroth Fortress Level 2 \n \n Unit Type: Elite Archer \n Strong at Range \n You can only control up to six battalions"
+"Requires: Menegroth Fortress Level 2 \n \n Unit Type: First Age Archer \n Strong at Range \n You can maintain only six battalions"
 END
 
 OBJECT:DoriathMelian
@@ -93946,7 +93946,7 @@ CONTROLBAR:BuildMenegrothGuardHorde
 END
 
 CONTROLBAR:ToolTipBuildMenegrothGuardHorde
-"Unit Type: Elite Pikemen \n Strong vs: Cavalry and Monsters"
+"Unit Type: First Age Pikemen \n Strong vs: Cavalry and Monsters"
 END
 
 CONTROLBAR:BuildMenegrothEliteHorde
@@ -93954,7 +93954,7 @@ CONTROLBAR:BuildMenegrothEliteHorde
 END
 
 CONTROLBAR:ToolTipBuildMenegrothEliteHorde
-"Requires: Menegroth Fortress Level 2 \n Unit Type: Elite Infantry \n Strong vs: Infantry"
+"Requires: Menegroth Fortress Level 2 \n Unit Type: First Age Infantry \n Strong vs: Infantry and Heroes"
 END
 
 CONTROLBAR:BuildMenegrothCavalaryHorde
@@ -93995,11 +93995,11 @@ CONTROLBAR:LW_Unit_MenegrothGuardHordePlural
 END
 
 CONTROLBAR:LW_ToolTip_MenegrothGuardHorde
-"\nUnit Type: Elite Pikemen\nStrong vs. Cavalry"
+"\nUnit Type: First Age Pikemen\nStrong vs. Cavalry"
 END
 
 CONTROLBAR:LW_ToolTipBuild_MenegrothGuardHorde
-"Unit Type: Elite Pikemen\nStrong vs. Cavalry\n"
+"Unit Type: First Age Pikemen\nStrong vs. Cavalry\n"
 END
 
 OBJECT:MenegrothElite
@@ -94027,11 +94027,11 @@ CONTROLBAR:LW_Unit_MenegrothEliteHordePlural
 END
 
 CONTROLBAR:LW_ToolTip_MenegrothEliteHorde
-"\nUnit Type: Elite Infantry\nStrong vs: Archer"
+"\nUnit Type: First Age Infantry\nStrong vs: Archer"
 END
 
 CONTROLBAR:LW_ToolTipBuild_MenegrothEliteHorde
-"Unit Type: Elite Infantry\nStrong vs: Archer\n"
+"Unit Type: First Age Infantry\nStrong vs: Archer\n"
 END
 
 CONTROLBAR:MenegrothEliteSpionage
@@ -94079,7 +94079,6 @@ CONTROLBAR:ToolTipToggleMenegrothEliteFormation_Neu
 "+40% Speed, -25% Attack"
 END
 
-
 CONTROLBAR:AlqualondeSpellInfobox
 "Sighs of Eldamar"
 END
@@ -94101,7 +94100,7 @@ CONTROLBAR:BuildAlqualondeGuardianHorde
 END
 
 CONTROLBAR:ToolTipBuildAlqualondeGuardianHorde
-"Requires: Army of the Past Ages \n Unit Type: Elite Pikemen & Light Cavalry \n On foot strong vs: Infantry \n Mounted strong vs: Archers and at flanking \n Can mount and dismount"
+"Requires: Army of the Past Ages \n Unit Type: First Age Pikemen & Light Cavalry \n On foot strong vs: Infantry \n Mounted strong vs: Archers and at flanking \n Can mount and dismount"
 END
 
 CONTROLBAR:AlqualondeGuardianHorde
@@ -94133,11 +94132,11 @@ CONTROLBAR:LW_Unit_AlqualondeGuardianHordePlural
 END
 
 CONTROLBAR:LW_ToolTip_AlqualondeGuardianHorde
-"Unit Type: Elite Pikemen & Light Cavalry \n On foot strong vs: Infantry \n Mounted strong vs: Archers and at flanking \n Can mount and dismount"
+"Unit Type: First Age Pikemen & Light Cavalry \n On foot strong vs: Infantry \n Mounted strong vs: Archers and at flanking \n Can mount and dismount"
 END
 
 CONTROLBAR:LW_ToolTipBuild_AlqualondeGuardianHorde
-"Unit Type: Elite Pikemen & Light Cavalry \n On foot strong vs: Infantry \n Mounted strong vs: Archers and at flanking \n Can mount and dismount"
+"Unit Type: First Age Pikemen & Light Cavalry \n On foot strong vs: Infantry \n Mounted strong vs: Archers and at flanking \n Can mount and dismount"
 END
 
 CONTROLBAR:AlqualondeGuardianCharge
@@ -94294,7 +94293,7 @@ CONTROLBAR:BuildEdainOutlawBarahirHorde
 END
 
 CONTROLBAR:ToolTipBuildEdainOutlawBarahirHorde
-"Requires: Tol Galen Fortress Level 3 \n Unit Type: Elite Archer \n Strong vs: Depending on the situation \n Can switch between Sword and Bow"
+"Requires: Tol Galen Fortress Level 3 \n Unit Type: First Age Archer \n Strong vs: Depending on the situation \n Can switch between Sword and Bow"
 END
 
 CONTROLBAR:BuildEdainOutlawBarahirEliteHorde
@@ -94302,7 +94301,7 @@ CONTROLBAR:BuildEdainOutlawBarahirEliteHorde
 END
 
 CONTROLBAR:ToolTipBuildEdainOutlawBarahirEliteHorde
-"Unit Type: Elite Infantry \n Strong vs: Infantry and Heroes"
+"Unit Type: First Age Infantry \n Strong vs: Infantry and Heroes"
 END
 
 CONTROLBAR:BuildValinorEagle
@@ -94310,7 +94309,7 @@ CONTROLBAR:BuildValinorEagle
 END
 
 CONTROLBAR:ToolTipBuildValinorEagle
-"Requires: Tol Galen Fortress Level 4 \n Unit Type: Elite Flying Monster \n Strong vs: Infantry, Cavalry and Structures \n You can only train 5 Eagles at the same time"
+"Requires: Tol Galen Fortress Level 4 \n Unit Type: First Age Flying Monster \n Strong vs: Infantry, Cavalry and Structures \n You can only train 5 Eagles at the same time"
 END
 
 UPGRADE:Upgrade_DorthonionFortressEagleBonus
@@ -94390,11 +94389,11 @@ CONTROLBAR:LW_Unit_EdainOutlawBarahirPlural
 END
 
 CONTROLBAR:LW_ToolTip_EdainOutlawBarahir
-"\nUnit Type: Elite Archer\nStrong vs: Depending on the situation"
+"\nUnit Type: First Age Archer\nStrong vs: Depending on the situation"
 END
 
 CONTROLBAR:LW_ToolTipBuild_EdainOutlawBarahir
-"Unit Type: Elite Archer\nStrong vs: Depending on the situation\n"
+"Unit Type: First Age Archer\nStrong vs: Depending on the situation\n"
 END
 
 CONTROLBAR:EdainOutlawWeaponToggle
@@ -94446,11 +94445,11 @@ CONTROLBAR:LW_Unit_EdainOutlawBarahirEliteHordePlural
 END
 
 CONTROLBAR:LW_ToolTip_EdainOutlawBarahirEliteHorde
-"\nUnit Type: Elite Infantry\nStrong vs: Hero"
+"\nUnit Type: First Age Infantry\nStrong vs: Heroes"
 END
 
 CONTROLBAR:LW_ToolTipBuild_EdainOutlawBarahirEliteHorde
-"Unit Type: Elite Infantry\nStrong vs: Hero\n"
+"Unit Type: First Age Infantry\nStrong vs: Heroes\n"
 END
 
 CONTROLBAR:TooltipEdainOutlawBarahirEliteArmorUpgrade
@@ -94487,11 +94486,11 @@ CONTROLBAR:LW_Unit_ValinorEaglePlural
 END
 
 CONTROLBAR:LW_ToolTip_ValinorEagle
-"\nUnit Type: Elite Flying Monster\nStrong vs: Infantry and Cavalry"
+"\nUnit Type: First Age Flying Monster\nStrong vs: Infantry, Cavalry and Structures"
 END
 
 CONTROLBAR:LW_ToolTipBuild_ValinorEagle
-"Unit Type: Elite Flying Monster\nStrong vs: Infantry and Cavalry\n"
+"Unit Type: First Age Flying Monster\nStrong vs: Infantry, Cavalry and Structures\n"
 END
 
 CONTROLBAR:ValinorEagleLeadership
@@ -94540,11 +94539,11 @@ CONTROLBAR:BuildNargothrondHammerHorde
 END
 
 CONTROLBAR:ToolTipNargothrondHammerHorde
-"Unit Type: Elite Infantry \n Strong vs: Infantry and Monsters"
+"Unit Type: First Age Infantry \n Strong vs: Monsters"
 END
 
 CONTROLBAR:ToolTipNargothrondHammerHorde2
-"Requires: Tol Galen Fortress Level 2 \n Unit Type: Elite Infantry \n Strong vs: Infantry and Monsters"
+"Requires: Tol Galen Fortress Level 2 \n Unit Type: First Age Infantry \n Strong vs: Monsters"
 END
 
 OBJECT:NargothrondBanner
@@ -94576,11 +94575,11 @@ CONTROLBAR:LW_Unit_NargothrondHammerHordePlural
 END
 
 CONTROLBAR:LW_ToolTipBuild_NargothrondHammerHorde
-"Unit Type: Elite Infantry\nStrong vs: Monster\n"
+"Unit Type: First Age Infantry\nStrong vs: Monster\n"
 END
 
 CONTROLBAR:LW_ToolTip_NargothrondHammerHorde
-"\nUnit Type: Elite Infantry\nStrong vs: Monster"
+"\nUnit Type: First Age Infantry\nStrong vs: Monster"
 END
 
 CONTROLBAR:NargothrondToggleBlockFormation    
@@ -94773,7 +94772,7 @@ CONTROLBAR:BuildNumenorCrossbowHorde
 END
 
 CONTROLBAR:ToolTipBuildNumenorCrossbowHorde
-"Unit Type: Elite Archer \n Strong at Ranged"
+"Unit Type: First Age Archer \n Strong at Ranged"
 END
 
 CONTROLBAR:NumenorCrossbowCharge
@@ -94797,7 +94796,7 @@ CONTROLBAR:BuildNumenorGuardHorde
 END
 
 CONTROLBAR:ToolTipBuildNumenorGuardHorde
-"Requires Armenelos Fortress Level 2 \n Unit Type: Elite Pikemen \n Strong vs: Cavalry and Monster"
+"Requires Armenelos Fortress Level 2 \n Unit Type: First Age Pikemen \n Strong vs: Cavalry and Monster"
 END
 
 OBJECT:NumenorWarrior
@@ -94813,7 +94812,7 @@ CONTROLBAR:BuildNumenorWarriorHorde
 END
 
 CONTROLBAR:ToolTipBuildNumenorWarriorHorde
-"Requires Armenelos Fortress Level 3 \n Unit Type: Elite Infantry \n Strong vs: Infantry"
+"Requires Armenelos Fortress Level 3 \n Unit Type: First Age Swordsmen \n Strong vs: Infantry"
 END
 
 CONTROLBAR:NumenorWarriorCharge
@@ -94821,7 +94820,7 @@ CONTROLBAR:NumenorWarriorCharge
 END
 
 CONTROLBAR:TooltipNumenorWarriorCharge
-"Requires: Level 10 \n For 20 seconds, the Numenor Warrior rode on, nor be overturned or thrown \n Left click to activate"
+"Requires: Level 10 \n For 20 seconds, the Numenor Warrior cannot be trampled, nor be overturned or thrown \n Left click to activate"
 END
 
 
@@ -94854,7 +94853,7 @@ UPGRADE:Upgrade_TaniquetilFortressSpellTechnology
 END
 
 CONTROLBAR:ConstructTaniquetilFortress
-"Build Ta&niquetil Barracks"
+"Build Ta&niquetil Fortress"
 END
 
 CONTROLBAR:ToolTipConstructTaniquetilFortress
@@ -94870,7 +94869,7 @@ OBJECT:TaniquetilFortressDescription
 END
 
 CONTROLBAR:TaniquetilFortress
-"Taniquetil Barracks"
+"Taniquetil Fortress"
 END
 
 CONTROLBAR:ToolTipTaniquetilFortress
@@ -94878,43 +94877,43 @@ CONTROLBAR:ToolTipTaniquetilFortress
 END
 
 UPGRADE:Upgrade_TaniquetilFortressLevel2
-"Taniquetil Barracks Level 2"
+"Taniquetil Fortress Level 2"
 END
 
 UPGRADE:Upgrade_TaniquetilFortressLevel3
-"Taniquetil Barracks Level 3"
+"Taniquetil Fortress Level 3"
 END
 
 CONTROLBAR:TaniquetilFortressLevel2
-"Upgr&ade Barracks Level 2"
+"Upgr&ade Fortress Level 2"
 END
 
 CONTROLBAR:ToolTipTaniquetilFortressLevel2
-"+10% Training Speed \n increases hit points of the Barracks \n Allows to training Taniquetil Watcher \n Allows to use Cloud Break"
+"+10% Training Speed \n increases hit points of the Fortress \n Allows to training Taniquetil Watcher \n Allows to use Cloud Break"
 END
 
 CONTROLBAR:TaniquetilFortressLevel3
-"Upgr&ade Barracks Level 3"
+"Upgr&ade Fortress Level 3"
 END
 
 CONTROLBAR:ToolTipTaniquetilFortressLevel3
-"+20% Training Speed \n increases hit points of the Barracks \n Allows to training Taniquetil Captain \n Allows to use Mist & Summon Eagle"
+"+20% Training Speed \n increases hit points of the Fortress \n Allows to training Taniquetil Captain"
 END
 
 CONTROLBAR:TaniquetilFortressLevel4
-"Upgr&ade Barracks Level 4"
+"Upgr&ade Fortress Level 4"
 END
 
 CONTROLBAR:ToolTipTaniquetilFortressLevel4
-"+30% Training Speed \n increases hit points of the Barracks"
+"+30% Training Speed \n increases hit points of the Fortress \n Allows to use Summon Eagles"
 END
 
 CONTROLBAR:TaniquetilFortressLevel5
-"Upgr&ade Barracks Level 5"
+"Upgr&ade Fortress Level 5"
 END
 
 CONTROLBAR:ToolTipTaniquetilFortressLevel5
-"+40% Training Speed \n increases hit points of the Barracks \n Eonwe can be summoned"
+"+40% Training Speed \n increases hit points of the Fortress \n Eonwe can be summoned"
 END
 
 CONTROLBAR:SelectRevivablesTaniquetilFortress
@@ -94962,7 +94961,7 @@ CONTROLBAR:TaniquetilFortressRebuild
 END
 
 CONTROLBAR:TooltipTaniquetilFortressRebuild
-"Requires: Taniquetil Barracks Level 2 \n Heals structures \n Left-click icon then left-click on target structures"
+"Requires: Taniquetil Fortress Level 2 \n Heals structures \n Left-click icon then left-click on target structures"
 END
 
 CONTROLBAR:TaniquetilFortressSummonEagle
@@ -94970,7 +94969,7 @@ CONTROLBAR:TaniquetilFortressSummonEagle
 END
 
 CONTROLBAR:ToolTipTaniquetilFortressSummonEagle
-"Requires: Taniquetil Barracks Level 3 \n Manwe sends his eagles to help in the battle \n 2 eagles are summoned for a short time \n Left-click icon then left-click on target area"
+"Requires: Taniquetil Fortress Level 3 \n Manwe sends his eagles to help in the battle \n 2 eagles are summoned for a short time \n Left-click icon then left-click on target area"
 END
 
 CONTROLBAR:BuildTaniquetilGuardHorde
@@ -95262,7 +95261,7 @@ CONTROLBAR:BuilNogrodSmite
 END
 
 CONTROLBAR:ToolTipBuilNogrodSmite
-"Unit Type: Support \n Strong at supporting your own units"
+"Unit Type: Fist Age Champion \n Strong at supporting dwarven units"
 END
 
 CONTROLBAR:BuilBelegostRiderHorde
@@ -95270,7 +95269,7 @@ CONTROLBAR:BuilBelegostRiderHorde
 END
 
 CONTROLBAR:ToolTipBuilBelegostRiderHorde
-"Requires Belegost Fortress Level 2 \n Unit Type: First Age Cavalry \n Class: Heavy Cavalry \n Strong in melee \n Weak trample capacity"
+"Requires Belegost Fortress Level 2 \n Unit Type: First Age Cavalry \n Class: Heavy Cavalry \n Strong in melee vs: Infantry \n Weak trample capacity"
 END
 
 CONTROLBAR:BuildBelegostEliteHorde
@@ -95278,7 +95277,7 @@ CONTROLBAR:BuildBelegostEliteHorde
 END
 
 CONTROLBAR:ToolTipBuildBelegostEliteHorde
-"Requires Belegost Fortress Level 3 \n Unit Type: Elite Infantry \n Strong vs: Monster and Heroes"
+"Requires Belegost Fortress Level 3 \n Unit Type: Elite Infantry \n Strong vs: Monsters and Heroes"
 END
 
 
@@ -95303,11 +95302,11 @@ CONTROLBAR:LW_Unit_NogrodSmitePlural
 END
 
 CONTROLBAR:LW_ToolTip_NogrodSmite
-"\nUnit Type: Support\nStrong at supporting your own units"
+"\nUnit Type: Fist Age Champion\nStrong at supporting your own units"
 END
 
 CONTROLBAR:LW_ToolTipBuild_NogrodSmite
-"Unit Type: Support\nStrong at supporting your own units\n"
+"Unit Type: Fist Age Champion\nStrong at supporting your own units\n"
 END
 
 CONTROLBAR:NogrodSmiteBonus
@@ -95372,11 +95371,11 @@ CONTROLBAR:LW_Unit_BelegostRiderHordePlural
 END
 
 CONTROLBAR:LW_ToolTip_BelegostRiderHorde
-"\nUnit Type: First Age Cavalry \n Class: Heavy Cavalry \n Strong in melee \n Weak trample capacity"
+"\nUnit Type: First Age Cavalry \n Class: Heavy Cavalry \n Strong in melee vs: Infantry \n Weak trample capacity"
 END
 
 CONTROLBAR:LW_ToolTipBuild_BelegostRiderHorde
-"Unit Type: Fist Age Cavalry\n Class: Heavy Cavalry \n Strong in melee \n Weak trample capacity"
+"Unit Type: Fist Age Cavalry\n Class: Heavy Cavalry \n Strong in melee vs: Infantry \n Weak trample capacity"
 END
 
 OBJECT:BelegostElite
@@ -95404,11 +95403,11 @@ CONTROLBAR:LW_Unit_BelegostEliteHordePlural
 END
 
 CONTROLBAR:LW_ToolTip_BelegostEliteHorde
-"\nUnit Type: Elite Infantry\nStrong vs: Monster and Heroes"
+"\nUnit Type: Fist Age Infantry\nStrong vs: Monsters and Heroes"
 END
 
 CONTROLBAR:LW_ToolTipBuild_BelegostEliteHorde
-"Unit Type: Elite Infantry\nStrong vs: Monster and Heroes\n"
+"Unit Type: Fist Age Infantry\nStrong vs: Monsters and Heroes\n"
 END
 
 CONTROLBAR:BelegostRiderCharge
@@ -97185,7 +97184,7 @@ CONTROLBAR:ToolTipAngbandBalrogLeadership
 END
 
 CONTROLBAR:ToolTipAngbandBalrogFireWhip
-"Requires: Level 3 \n Attack with a Flamewhip \n Effective against heroes \n Left click on the icon and then click on the target"
+"Requires: Level 3 \n Attack with a Flamewhip \n Effective against heroes \n Left click on the target"
 END
 
 CONTROLBAR:ToolTipAngbandBalrogScream
@@ -97193,11 +97192,11 @@ CONTROLBAR:ToolTipAngbandBalrogScream
 END
 
 CONTROLBAR:ToolTipAngbandBalrogWings
-"Requires: Level 7 \n The balrog shakes his wings for a short flight \n Left click on the icon and then click the target area"
+"Requires: Level 7 \n The balrog shakes his wings for a short flight \n Left click on the target area"
 END
 
 CONTROLBAR:ToolTipAngbandBalrogBreath
-"Requires: Level 9 \n Spit Fire \n Left click on the icon and then click the target area"
+"Requires: Level 9 \n Spit Fire \n Left click on the target area"
 END
 
 

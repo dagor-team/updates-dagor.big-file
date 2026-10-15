@@ -597,11 +597,11 @@
 #define EXPERIENCE_REQUIRED_CHEAP_MONSTER_HORDE_4        170
 #define EXPERIENCE_REQUIRED_CHEAP_MONSTER_HORDE_5        280
 
-#define EXPERIENCE_AWARD_CHEAP_MONSTER_HORDE_1            3
-#define EXPERIENCE_AWARD_CHEAP_MONSTER_HORDE_2            4
-#define EXPERIENCE_AWARD_CHEAP_MONSTER_HORDE_3            5
-#define EXPERIENCE_AWARD_CHEAP_MONSTER_HORDE_4            6
-#define EXPERIENCE_AWARD_CHEAP_MONSTER_HORDE_5            7
+#define EXPERIENCE_AWARD_CHEAP_MONSTER_HORDE_1            10
+#define EXPERIENCE_AWARD_CHEAP_MONSTER_HORDE_2            20
+#define EXPERIENCE_AWARD_CHEAP_MONSTER_HORDE_3            30
+#define EXPERIENCE_AWARD_CHEAP_MONSTER_HORDE_4            40
+#define EXPERIENCE_AWARD_CHEAP_MONSTER_HORDE_5            50
 
 ;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
