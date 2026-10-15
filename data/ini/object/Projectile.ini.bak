@@ -12713,7 +12713,7 @@ Object SonstigeMagicGolem
 
     ArmorSet
         Conditions            = None
-        Armor                 = AttackTrollArmorMod
+        Armor                 = TrollHeavyArmor
         DamageFX              = GolemDamageFX
     End
 

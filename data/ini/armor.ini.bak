@@ -4420,49 +4420,6 @@ Armor EdainDrummerTrollArmor
   FlankedPenalty        =  25%
 End
 
-
-Armor EdainTrollArmor
-  Armor = DEFAULT               25%
-  Armor = SLASH                 25%
-  Armor = PIERCE               110%
-  Armor = CAVALRY_RANGED       90%
-  Armor = SPECIALIST           75%
-  Armor = CRUSH                  2%
-  Armor = CAVALRY               25%
-  Armor = SIEGE                 70%
-  Armor = FLAME                100%
-  Armor = FROST                100%
-  Armor = MAGIC                100%
-  Armor = HERO                 110%
-  Armor = HERO_RANGED          165%
-  Armor = STRUCTURAL            75%
-  Armor = CHOP                  25%
-  Armor = URUK                  25%
-  FlankedPenalty        =  25%
-End
-
-
-Armor EdainTrollArmor
-  Armor = DEFAULT               15%
-  Armor = SLASH                 15%
-  Armor = PIERCE                90%
-  Armor = CAVALRY_RANGED        80%
-  Armor = SPECIALIST            60%
-  Armor = CRUSH                  1%
-  Armor = CAVALRY               15%
-  Armor = SIEGE                 60%
-  Armor = FLAME                 80%
-  Armor = FROST                 80%
-  Armor = MAGIC                 80%
-  Armor = HERO                  90%
-  Armor = HERO_RANGED          120%
-  Armor = STRUCTURAL            45%
-  Armor = CHOP                  15%
-  Armor = URUK                  15%
-  FlankedPenalty        =  25%
-End
-
-
 Armor EdainTrollHeavyArmorSword
   Armor = DEFAULT               15%
   Armor = SLASH                 15%
