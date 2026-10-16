@@ -3,6 +3,8 @@ Patchnotes 4.09.2026:
 
 Angmar:
 	Rogash armor nerf against pikes from 20% -> 45%
+	Hill Trolls aoe nerf
+	Snow trolls: Speed buff by 7%, Health and Damage buffed, additional Damage to buildings
 	
 Arnor:
 	
@@ -13,6 +15,7 @@ Dwarves:
 	
 Goblins:
 	Buhrdur armor nerf against pikes from 20% -> 45%; health increased form 7000 -> 8600
+	Drummer Goblin armor fix
 	
 Gondor: 
 	Imrahil level 3 and 10 switched
@@ -26,7 +29,6 @@ Imladris:
 	Gondolin guards slight health buff and damage nerf, will no longer receive a weapon upgrade from level 5 instead will get an armor upgrade
 	
 Lothlorien:
-	Mablung crash fix
 	
 Mordor:
 	Drummer trolls health increased 3600 -> 4500; damage taken from pikes nerfed from 20% -> 100%
@@ -39,3 +41,4 @@ General:
 	drake lairs give less xp
 	wight lairs give more xp
 	General descriptions
+	power Point Generation 10% slower
