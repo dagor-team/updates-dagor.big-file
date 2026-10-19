@@ -7,7 +7,7 @@ Angmar:
 	Snow trolls: Speed buff by 7%, Health and Damage buffed, additional Damage to buildings
 	
 Arnor:
-	
+	Healing by Blood of Numenor nerfed by 50% (40hp/s to 20)
 
 Dwarves: 
 	Belegost warriors damage buffed against monsters but nerfed against infantry
@@ -23,7 +23,7 @@ Gondor:
 	Imrahil level 3 and 10 switched
 
 Isengard:
-	Tol in gaurhoth vampires damage increased against flyers by another 450% (200->) added DoT with lifesteal (50dmg per second over 30s)
+	Tol in gaurhoth vampires damage increased against flyers by another 450% (200->) added DoT with lifesteal (50dmg per second over 30s), armor against arrows buffed by 25%
 
 Imladris:
 	Gondolin archers slight damage and health buff, but will no longer receive a weapon upgrade from level 5
