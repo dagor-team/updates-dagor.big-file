@@ -5,7 +5,9 @@ Angmar:
 	Rogash armor nerf against pikes from 20% -> 45%
 	Hill Trolls aoe nerf
 	Snow trolls: Speed buff by 7%, Health and Damage buffed, additional Damage to buildings
-	
+	Angmar elite units captain upgrade cost increase from 50 -> 300
+	Witch-kings level 5 nerfed and made scaling
+
 Arnor:
 	
 
@@ -16,6 +18,7 @@ Dwarves:
 Goblins:
 	Buhrdur armor nerf against pikes from 20% -> 45%; health increased form 7000 -> 8600
 	Drummer Goblin armor fix
+	Adult dragons from drake lair removed the ability to fly; new ability; give less xp
 	
 Gondor: 
 	Imrahil level 3 and 10 switched

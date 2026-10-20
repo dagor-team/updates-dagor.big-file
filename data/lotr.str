@@ -15553,6 +15553,10 @@ CONTROLBAR:TooltipColdDrakeAlly
 END
 
 CONTROLBAR:ToolTipSpecialAbilityZuchtdracheFireball
+"Requires: Level 7 \n The cultured dragon fires a massive fireball at the target area \n Left-click on the desired destination area"
+END
+
+CONTROLBAR:ToolTipSpecialAbilityZuchtdracheFireballFlying
 "The cultured dragon fires a massive fireball at the target area \n Left-click on the desired destination area"
 END
 
@@ -18393,7 +18397,7 @@ CONTROLBAR:WitchKingSnowStorm
 END
 
 CONTROLBAR:ToolTipWitchKingSnowStorm
-"Requires: Level 5 \n Under the tutelage of the Dark Lord himself, Witch-King of angmar gained a lot new magic powers \n Witch-King uses this new gained power to manipulate the weather creating a blizard on the battlefield, which debuffs and damages enemy units in the area\n left-click to activate" 
+"Under the tutelage of the Dark Lord himself, Witch-King of angmar gained a lot new magic powers \n Witch-King uses this new gained power to project his might on the battlefield \n debuffs enemy units in a medium area \n\n At level 3: for 30 seconds also summons a storm dealing dealing damage in a small area around him \n At level 5: the storm slows enemies by 25% for its duration \n At level 7: the might debuff is projected onto a large area \n At level 10 the damage of the storm is doubled and extendes further around him \n left-click to activate" 
 END
 
 CONTROLBAR:ConstructMordorArmory
@@ -68641,7 +68645,7 @@ CONTROLBAR:PurchaseUpgradeGunstlingKarshs
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeGunstlingKarshs
-"The Black Guards gains the favor of the Whispering Shadow of Angmar \n Grants the Guard Dark Blades, causing enemy units in the area to fear them and reanimate fallen souls into Barrow-wights"
+"Requires: Level 3 \n The Black Guards gains the favor of the Whispering Shadow of Angmar \n Grants the Guard Dark Blades, causing enemy units in the area to fear them and reanimate fallen souls into Barrow-wights"
 END
 
 TOOLTIP:GunstlingKarshs
@@ -68661,7 +68665,7 @@ CONTROLBAR:PurchaseUpgradeGunstlingGulzars
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeGunstlingGulzars
-"The Black Guard gains the favor of the Supreme Sorcerer \n Grants the Guard Blades of Twilight, making them twice as protected against elemental damage and sear enemies with magical strikes"
+"Requires: Level 3 \n The Black Guard gains the favor of the Supreme Sorcerer \n Grants the Guard Blades of Twilight, making them twice as protected against elemental damage and sear enemies with magical strikes"
 END
 
 TOOLTIP:GunstlingGulzars
@@ -68681,7 +68685,7 @@ CONTROLBAR:PurchaseUpgradeGunstlingZaphragors
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeGunstlingZaphragors
-"The Black Guard gains the favor of the most faithful subject of the Witch-king \n Grants the Guard Berserker Blades, enraging the soldiers to deal area of effect and +25% damage"
+"Requires: Level 3 \n The Black Guard gains the favor of the most faithful subject of the Witch-king \n Grants the Guard Berserker Blades, enraging the soldiers to deal area of effect and +25% damage"
 END
 
 TOOLTIP:GunstlingZaphragors
@@ -71596,7 +71600,7 @@ CONTROLBAR:SpecialAbilityFireDrakeInferno
 END
 
 CONTROLBAR:ToolTipSpecialAbilityFireDrakeInferno
-"Requires Level 10 \n Breathes fire over a selected area \n Left-click icon then left-click on target area"
+"Requires Level 4 \n Breathes fire over a selected area \n Left-click icon then left-click on target area"
 END
 
 CONTROLBAR:SpecialAbilityFiresOfDoom
