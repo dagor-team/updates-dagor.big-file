@@ -9,7 +9,7 @@ Angmar:
 	Witch-kings level 5 nerfed and made scaling
 
 Arnor:
-	
+	Healing by Blood of Numenor nerfed by 50% (40hp/s to 20)
 
 Dwarves: 
 	Belegost warriors damage buffed against monsters but nerfed against infantry
@@ -19,12 +19,14 @@ Goblins:
 	Buhrdur armor nerf against pikes from 20% -> 45%; health increased form 7000 -> 8600
 	Drummer Goblin armor fix
 	Adult dragons from drake lair removed the ability to fly; new ability; give less xp
+	Half troll Swords: Nerfed damage and health by 30% price increase by 150, additional damage to heroes removed
+	Half troll Pikes: Nerfed damage by 40%, nerfed hit speed by 10%, additional damage to buildings removed
 	
 Gondor: 
 	Imrahil level 3 and 10 switched
 
 Isengard:
-	Tol in gaurhoth vampires damage increased against flyers by 300%
+	Tol in gaurhoth vampires damage increased against flyers by another 450% (200->) added DoT with lifesteal (50dmg per second over 30s), armor against arrows buffed by 25%
 
 Imladris:
 	Gondolin archers slight damage and health buff, but will no longer receive a weapon upgrade from level 5

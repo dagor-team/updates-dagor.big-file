@@ -97376,7 +97376,7 @@ CONTROLBAR:BuildTolinGaurhothVampiresHorde
 END
 
 CONTROLBAR:ToolTipTolinGaurhothVampiresHorde
-"Unit Type: Elite Flying Monster \n Only Against: Monster, flyers and siege \n You can train a maximum of 5 Vampires"
+"Unit Type: Elite Flying Monster that sucks the blood of big targets to regenerate health \n Only Against: Monster, flyers and siege \n You can train a maximum of 5 Vampires"
 END
 
 CONTROLBAR:BuildTolinGaurhothWolfHorde
