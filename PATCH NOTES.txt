@@ -24,9 +24,10 @@ Goblins:
 	
 Gondor: 
 	Imrahil level 3 and 10 switched
+	Fiefdom units recruit time slightly nerfed
 
 Isengard:
-	Tol in gaurhoth vampires damage increased against flyers by another 450% (200->) added DoT with lifesteal (50dmg per second over 30s), armor against arrows buffed by 25%
+	Tol in gaurhoth vampires damage increased against flyers by another 450% (200->) added damage over time with lifesteal (50dmg per second over 30s), armor against arrows buffed by 25%
 
 Imladris:
 	Gondolin archers slight damage and health buff, but will no longer receive a weapon upgrade from level 5

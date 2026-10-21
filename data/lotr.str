@@ -12038,7 +12038,7 @@ CONTROLBAR:TooltipBuhrdursZorn
 END
 
 CONTROLBAR:ToolTipMollokSteinschlag
-"Requires: Level 7 \n Mollok stabs his weapon into the ground, smashing small rocks into the air. \n Enemy buildings receive enormous damage \n Left-click to activate"
+"Requires: Level 5 \n Mollok stabs his weapon into the ground, smashing small rocks into the air. \n Enemy buildings receive enormous damage \n Left-click to activate"
 END
 
 CONTROLBAR:Trollanfuhrer
@@ -26759,7 +26759,7 @@ CONTROLBAR:MollokLeap
 END
 
 CONTROLBAR:ToolTipMollokLeap
-"Requires: Level 10 \n Mollok jumps to a position and causes a rupture, knocking foes off their feet \n Left-click on the icon and then click the target area"
+"Requires: Level 8 \n Mollok jumps to a position and causes a rupture, knocking foes off their feet \n Left-click on the icon and then click the target area"
 END
 
 CONTROLBAR:TooltipAnduril
@@ -27407,7 +27407,7 @@ CONTROLBAR:GothmogEliteOrks
 END
 
 CONTROLBAR:ToolTipMollokTrollhohen
-"Requires: Level 5 \n Mollok calls for the aid of a Troll from the Trollshaws to support him. The Troll will stay beside his king until death \n Left-click to the desired target area"
+"Requires: Level 10 \n Mollok calls for his troll guard. \n Summons 3 Olog-hai that fight beside him until death. \n Left-click to the desired target area"
 END
 
 CONTROLBAR:MollokTrollhohen
