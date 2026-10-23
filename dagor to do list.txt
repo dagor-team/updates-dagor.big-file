@@ -14,7 +14,6 @@ TO DO GORGO:
 abilities for saleme and bounty hunter and hunter + names
 hunter - done
 
-imla guardians blademaster ability - 
 descriptions - Spellbook spell cooldowns
 imrahil lvl 3 and lvl 7 switched - 
 peasants model update, include pitchforks - 
