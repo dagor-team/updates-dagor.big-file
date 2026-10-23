@@ -433,7 +433,7 @@ Weapon ArveduiFavourPingWeaponWarhead
     AttributeModifierNugget
            AttributeModifier   = FavourArveduiUpgrade
            DamageFXType     = EVIL_ARROW_PIERCE
-           SpecialObjectFilter  = ARNOR_LEADERSHIP_HEROES_OBF
+           SpecialObjectFilter  = NONE +HERO -SUMMONED SAME_PLAYER
            Radius        = 10.0
     End
 End
