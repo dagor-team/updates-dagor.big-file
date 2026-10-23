@@ -4221,7 +4221,7 @@ CONTROLBAR:ToolTipGlanzderNoldor
 END
 
 CONTROLBAR:ToolTipGlanzderNoldor_Spell
-"Requires: The Favour of the last King \n The Splendour of the Noldor paralyses enemies and allows allies to regenerate \n Left click to activate"
+"Requires: The Favour of the first King \n The Splendour of the Noldor paralyses enemies and allows allies to regenerate \n Left click to activate"
 END
 
 OBJECT:DwarfenCarcRaben
@@ -10396,11 +10396,11 @@ CONTROLBAR:SpecialAbilityElrondsRatschlag
 END
 
 CONTROLBAR:ToolTipSpecialAbilityElrondsRatschlag
-"Requires: The favour of the last King \n Elrond can share his ancient knowledge with a hero.  \n The selected hero gets great experience \n Left click on an allied hero"
+"Requires: The favour of the first King \n Elrond can share his ancient knowledge with a hero.  \n The selected hero gets great experience \n Left click on an allied hero"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityElrondsRatschlag_Spell
-"Requires: The favour of the last King \n Elrond can share his ancient knowledge with a hero.  \n The selected hero gets great experience \n Left click on an allied hero"
+"Requires: The favour of the first King \n Elrond can share his ancient knowledge with a hero.  \n The selected hero gets great experience \n Left click on an allied hero"
 END
 
 
@@ -10997,7 +10997,7 @@ CONTROLBAR:ToolTipSpecialAbilityAnarionNahkampfstellung
 END
 
 CONTROLBAR:ToolTipSpecialAbilityAnarionNahkampfstellung_Spell
-"Requires: The favour of the last King \n Allied infantry and heroes close to Anarion gain +75% defense against melee weapons, but -25% against missile weapons \n Left-click to activate"
+"Requires: The favour of the first King \n Allied infantry and heroes close to Anarion gain +75% defense against melee weapons, but -25% against missile weapons \n Left-click to activate"
 END
 
 
@@ -11242,7 +11242,7 @@ CONTROLBAR:ToolTipSpecialAbilityArnorIsildurNarsil
 END
 
 CONTROLBAR:ToolTipSpecialAbilityArnorIsildurNarsil_Spell
-"Requires: The favour of the last king \n Isildur, the heir of the throne of Gondor, revives the power of Narsil \n Deals the targeted enemy much damage \n Left click on target"
+"Requires: The favour of the first king \n Isildur, the heir of the throne of Gondor, revives the power of Narsil \n Deals the targeted enemy much damage \n Left click on target"
 END
 
 CONTROLBAR:GandalfderGraueRecruit_forFornost
@@ -71539,6 +71539,14 @@ CONTROLBAR:ToolTipSpecialAbilityFavourArvedui
 "Requires: Level 5 \n As the last King of Arnor, Arvedui can grant his fellow heroes favour, permanently allowing them to fight their enemies more effiecently \n \n Carthaen: Carthaen is granted better armor \n Argeleb: Argeleb is granted royal armor for his service \n Arraphant: Arraphant now also commands the builders of Fornost, ordering the restoration of guarded buildings. \n Arranarth: Arranarth is taught in the arts of healing by Elrond, increasing the amount of healing his athelas can achieve. \n Cirdan: For his aid against the forces of Angmar he earns the respect of the king. His leadership is increased. \n Earnur: Earnur is now more proficient in his fight against the Captains of evil. For every 1000 damage he suffers from heroes, he returns half and knocks them back. \n Elendil: The founder of the Kingdoms of the North and South is granted bodyguards of Minas Arnor. \n Halbarad: The captain of the dunedain is granted new abilities. \n Elros: Elros is granted a new weapon to unleash. Every strike he deals has the chance to aid Arnor. \n Vardamir: Vardamir is fueled by rage, dealing increased damage to the monsters that wronged his people in the past. \n Tindomiel: The beauty of the daughter of Numenor is famous is the kindom. For each hero around her, she gets improved armor. \n \nleft klick on an hero of Arnor \n "
 END
 
+CONTROLBAR:HighKingElendil
+"Favour of the High King"
+END
+
+CONTROLBAR:ToolTipHighKingElendil
+"Requires Level 7: \n \n As the High King of both Arnor Elendil is in very high relations with his allies. \n All summoned heroes can used their locked abilities"
+END
+
 CONTROLBAR:GoblinKingPoisonedStinger
 "Poisoned Sti&nger"
 END
@@ -109152,7 +109160,7 @@ CONTROLBAR:ToolTipAzogShout
 END
 
 CONTROLBAR:ToolTipArvelegShatterPalantir
-"Requires: The favour of the last King \n Arveleg shatters the Palantir of Amon Sul on the ground to create a powerful explosion that destroys all units nearby and himself"
+"Requires: The favour of the first King \n Arveleg shatters the Palantir of Amon Sul on the ground to create a powerful explosion that destroys all units nearby and himself"
 END
 
 OBJECT:MordorHaradrimBanner
