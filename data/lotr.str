@@ -86758,7 +86758,7 @@ CONTROLBAR:ToolTipConstructAngmarPorter
 END
 
 CONTROLBAR:ToolTipRogashLeap
-"Requires: Level 5 \n Rogash jumps to a location causing \n area-effect damage \n Left click icon then left click on target area"
+"Requires: Level 5 \n Rogash jumps to a location causing \n area-effect damage. \n Disabled while Rage of the north is active. \n Left click icon then left click on target area"
 END
 
 CONTROLBAR:ToolTipRageoftheNorth

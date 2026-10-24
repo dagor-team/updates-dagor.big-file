@@ -2,7 +2,7 @@ Patchnotes 20.10.2026:
 
 
 Angmar:
-	Rogash armor nerf against pikes from 20% -> 45%
+	Rogash armor nerf against pikes from 20% -> 45%; Jump use disabled with blademaster active
 	Hill Trolls aoe nerf
 	Snow trolls: Speed buff by 7%, Health and Damage buffed, additional Damage to buildings
 	Angmar elite units captain upgrade cost increase from 50 -> 300
