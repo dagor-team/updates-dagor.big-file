@@ -2,14 +2,15 @@ Patchnotes 20.10.2026:
 
 
 Angmar:
-	Rogash armor nerf against pikes from 20% -> 45%; Jump use disabled with blademaster active
+	Rogash armor nerf against pikes from 20% -> 45%; leap disallowed while level 10 is active
 	Hill Trolls aoe nerf
 	Snow trolls: Speed buff by 7%, Health and Damage buffed, additional Damage to buildings
-	Angmar elite units captain upgrade cost increase from 50 -> 300
-	Witch-kings level 5 nerfed and made scaling
+	Angmar elite units captain upgrade cost increase from 50 -> 300; hero dedication locked behind level 3
+	Witch-kings level 5 nerfed and made scaling; rework
 
 Arnor:
 	Healing by Blood of Numenor nerfed by 50% (40hp/s to 20)
+	
 
 Dwarves: 
 	Belegost warriors damage buffed against monsters but nerfed against infantry
@@ -21,6 +22,7 @@ Goblins:
 	Adult dragons from drake lair removed the ability to fly; new ability; give less xp
 	Half troll Swords: Nerfed damage and health by 30% price increase by 150, additional damage to heroes removed
 	Half troll Pikes: Nerfed damage by 40%, nerfed hit speed by 10%, additional damage to buildings removed
+	Balrogs given stances; Health reverted to 9000; recruit properly at level 3
 	
 Gondor: 
 	Imrahil level 3 and 10 switched
@@ -36,6 +38,7 @@ Imladris:
 	
 Lothlorien:
 	
+
 Mordor:
 	Drummer trolls health increased 3600 -> 4500; damage taken from pikes nerfed from 20% -> 100%
 	Mollok armor nerf against pikes from 20% -> 45%

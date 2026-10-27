@@ -21034,7 +21034,7 @@ CONTROLBAR:TooltipUngoliathAlly
 END
 
 CONTROLBAR:ToolTipHourOfTheWitchKingNew
-"Requires: Level 9 \n The Witch-king of Angmar crushes the will of the chosen enemy hero \nThe special skill timers of the target are set to "just used" \n Left-click on the icon and then click on the target"
+"Requires: Level 10 \n The Witch-king of Angmar crushes the will of the chosen enemy hero \nThe special skill timers of the target are set to "just used" \n Left-click on the icon and then click on the target"
 END
 
 CONTROLBAR:ToolTipHourOfTheAngWitchKingNew
