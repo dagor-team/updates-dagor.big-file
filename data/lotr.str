@@ -14962,6 +14962,10 @@ OBJECT:DwarvenDurin
 "Durin the Deathless"
 END
 
+OBJECT:DwarvenDurinV
+"Durin the fifth"
+END
+
 Upgrade:FortressDunkelstahlplatten
 "Dark Steel Plates"
 END
@@ -71503,6 +71507,14 @@ CONTROLBAR:ToolTipMightyRage
 "Requires: Level 3 \n Heals targeted units \n Targeted units gain +50% damage and +50% armor \n Left-click icon then left-click on target units \n Does not stack"
 END
 
+CONTROLBAR:KhazadSiege
+"Mithril siege equipment"
+END
+
+CONTROLBAR:ToolTipKhazadSiege
+"The dwarves of Khazad Dum are masters of their work with Machines and Siege Machines. \n Siege engines in the area are healed and receive +30% Range, Vision, Damage and Armor. \n Left-click icon then left-click on target units \n "
+END
+
 CONTROLBAR:GloinSlam
 "Sla&m"
 END
@@ -109165,6 +109177,14 @@ END
 
 CONTROLBAR:ToolTipArvelegShatterPalantir
 "Requires: The favour of the first King \n Arveleg shatters the Palantir of Amon Sul on the ground to create a powerful explosion that destroys all units nearby and himself"
+END
+
+CONTROLBAR:ForgesofKhazadDum
+"Forges of Khazad Dum"
+END
+
+CONTROLBAR:ToolTipForgesofKhazadDum
+"Requires: The favour of the first King \n Durin the fifth brings the best armor and weapons from Khazad dum with him. All summoned units in his presence aquire upgrades"
 END
 
 OBJECT:MordorHaradrimBanner
