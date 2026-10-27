@@ -22888,11 +22888,11 @@ CONTROLBAR:ToolTipBuildLindonLanzentragerHorde
 "Unit Type: Regular Pikeman \n Strong vs: Cavalry and Monsters"
 END
 
-OBJECT:LindonHeavenLancer
+OBJECT:LindonHavenLancer
 "Lancer of Mithlond"
 END
 
-OBJECT:LindonHeavenLancerHorde
+OBJECT:LindonHavenLancerHorde
 "Lancers of Mithlond"
 END
 
