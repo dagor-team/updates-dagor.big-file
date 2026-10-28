@@ -4373,7 +4373,7 @@ CONTROLBAR:SpellBookLetztesBundnissArnor
 END
 
 CONTROLBAR:TooltipSpellBookLetztesBundnissArnor
-"Temporarily summon an army of elves and men \n Left-click on the target area \n Cooldown: 12 minutes"
+"Temporarily summon an army of elves and men \n\n Army of the past ages variant: \n Dwarves under Durin IV join the fight for freedom in the Middle-Earth \n Left-click on the target area \n Cooldown: 12 minutes"
 END
 
 CONTROLBAR:TooltipSpellBookLetztesBundnissImladris

@@ -1821,6 +1821,52 @@ End
 
 
 
+ModifierList RegularMonsterHordeBonusRank2
+    Category = LEVEL
+    Modifier = HEALTH REGULARMONSTER_HORDE_HP_ADD_LVL2
+    Modifier = DAMAGE_ADD REGULARMONSTER_HORDE_DAMAGE_ADD_LVL2
+    Duration = 0
+End
+
+ModifierList RegularMonsterHordeBonusRank3
+    Category = LEVEL
+    Modifier = HEALTH REGULARMONSTER_HORDE_HP_ADD_LVL3
+    Modifier = DAMAGE_ADD REGULARMONSTER_HORDE_DAMAGE_ADD_LVL3
+    Duration = 0
+End
+
+ModifierList RegularMonsterHordeBonusRank4
+    Category = LEVEL
+    Modifier = HEALTH REGULARMONSTER_HORDE_HP_ADD_LVL4
+    Modifier = DAMAGE_ADD REGULARMONSTER_HORDE_DAMAGE_ADD_LVL4
+    Duration = 0
+End
+
+ModifierList RegularMonsterHordeBonusRank5
+    Category = LEVEL
+    Modifier = HEALTH REGULARMONSTER_HORDE_HP_ADD_LVL5
+    Modifier = DAMAGE_ADD REGULARMONSTER_HORDE_DAMAGE_ADD_LVL5
+    Duration = 0
+End
+
+ModifierList RegularMonsterHordeBonusRank6
+    Category = LEVEL
+    Modifier = HEALTH REGULARMONSTER_HORDE_HP_ADD_LVL5
+    Modifier = DAMAGE_ADD REGULARMONSTER_HORDE_DAMAGE_ADD_LVL5
+    Duration = 0
+End
+
+ModifierList RegularMonsterHordeBonusRank7
+    Category = LEVEL
+    Modifier = HEALTH REGULARMONSTER_HORDE_HP_ADD_LVL5
+    Modifier = DAMAGE_ADD REGULARMONSTER_HORDE_DAMAGE_ADD_LVL5
+    Duration = 0
+End
+
+;----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
 ModifierList AdvancedMonsterHordeBonusRank2
     Category = LEVEL
     Modifier = HEALTH ADVANCEDMONSTER_HORDE_HP_ADD_LVL2
@@ -1843,6 +1889,41 @@ ModifierList AdvancedMonsterHordeBonusRank4
 End
 
 ModifierList AdvancedMonsterHordeBonusRank5
+    Category = LEVEL
+    Modifier = HEALTH ADVANCEDMONSTER_HORDE_HP_ADD_LVL5
+    Modifier = DAMAGE_ADD ADVANCEDMONSTER_HORDE_DAMAGE_ADD_LVL5
+    Duration = 0
+End
+
+ModifierList AdvancedMonsterHordeBonusRank6
+    Category = LEVEL
+    Modifier = HEALTH ADVANCEDMONSTER_HORDE_HP_ADD_LVL5
+    Modifier = DAMAGE_ADD ADVANCEDMONSTER_HORDE_DAMAGE_ADD_LVL5
+    Duration = 0
+End
+
+ModifierList AdvancedMonsterHordeBonusRank7
+    Category = LEVEL
+    Modifier = HEALTH ADVANCEDMONSTER_HORDE_HP_ADD_LVL5
+    Modifier = DAMAGE_ADD ADVANCEDMONSTER_HORDE_DAMAGE_ADD_LVL5
+    Duration = 0
+End
+
+ModifierList AdvancedMonsterHordeBonusRank8
+    Category = LEVEL
+    Modifier = HEALTH ADVANCEDMONSTER_HORDE_HP_ADD_LVL5
+    Modifier = DAMAGE_ADD ADVANCEDMONSTER_HORDE_DAMAGE_ADD_LVL5
+    Duration = 0
+End
+
+ModifierList AdvancedMonsterHordeBonusRank9
+    Category = LEVEL
+    Modifier = HEALTH ADVANCEDMONSTER_HORDE_HP_ADD_LVL5
+    Modifier = DAMAGE_ADD ADVANCEDMONSTER_HORDE_DAMAGE_ADD_LVL5
+    Duration = 0
+End
+
+ModifierList AdvancedMonsterHordeBonusRank10
     Category = LEVEL
     Modifier = HEALTH ADVANCEDMONSTER_HORDE_HP_ADD_LVL5
     Modifier = DAMAGE_ADD ADVANCEDMONSTER_HORDE_DAMAGE_ADD_LVL5
