@@ -630,6 +630,8 @@
 #define EXPERIENCE_AWARD_REGULAR_MONSTER_HORDE_3            130
 #define EXPERIENCE_AWARD_REGULAR_MONSTER_HORDE_4            140
 #define EXPERIENCE_AWARD_REGULAR_MONSTER_HORDE_5            150
+#define EXPERIENCE_AWARD_REGULAR_MONSTER_HORDE_6            170
+#define EXPERIENCE_AWARD_REGULAR_MONSTER_HORDE_7            190
 
 ;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -644,6 +646,11 @@
 #define EXPERIENCE_AWARD_ADVANCED_MONSTER_HORDE_3            180
 #define EXPERIENCE_AWARD_ADVANCED_MONSTER_HORDE_4            190
 #define EXPERIENCE_AWARD_ADVANCED_MONSTER_HORDE_5            200
+#define EXPERIENCE_AWARD_ADVANCED_MONSTER_HORDE_6            220
+#define EXPERIENCE_AWARD_ADVANCED_MONSTER_HORDE_7            240
+#define EXPERIENCE_AWARD_ADVANCED_MONSTER_HORDE_8            260
+#define EXPERIENCE_AWARD_ADVANCED_MONSTER_HORDE_9            280
+#define EXPERIENCE_AWARD_ADVANCED_MONSTER_HORDE_10           300
 
 ;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 

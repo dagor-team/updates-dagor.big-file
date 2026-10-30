@@ -58,13 +58,13 @@
 
 #define EVIL_CHEAP_CHAMPION WildDrummerOrc
 
-#define EVIL_BASIC_MONSTERS Ogre OgreHorde WildGiantBat AngmarBestie DesertScorpionBlack HaradScorpion_Slaved WildZuchtdracheBaby WildZuchtdracheBaby_Slaved
+#define EVIL_BASIC_MONSTERS Ogre OgreHorde WildGiantBat AngmarBestie DesertScorpionBlack HaradScorpion_Slaved
 
-#define EVIL_REGULAR_MONSTERS WildZuchtdrache MordorMountainTroll MordorCaveTroll CaveTroll_Slaved GoblinCaveTroll GoblinCaveTroll_FromTrollLair HillTroll_Slaved MordorCaveTroll_Summoned CaveTroll_HugeEdain GoblinCatapultTroll GoblinCatapulTrollExpansion MordorDrummerTroll
+#define EVIL_REGULAR_MONSTERS MordorMountainTroll MordorCaveTroll CaveTroll_Slaved GoblinCaveTroll GoblinCaveTroll_FromTrollLair HillTroll_Slaved MordorCaveTroll_Summoned CaveTroll_HugeEdain GoblinCatapultTroll GoblinCatapulTrollExpansion MordorDrummerTroll
 
 #define EVIL_REGULAR_CHAMPION IsengardUrukHauptmann1 IsengardUrukHauptmann2 IsengardUrukHauptmann3 IsengardUrukHauptmann4 IsengardUrukHauptmann5 WildScorpion WildHauptmannork WildHauptmannorkWarg IsengardBeserker IsengardBeserker_Summoned MordorKastellan MordorKastellan_AI MordorKastellan_Old MordorKastellan_Old_AI
 
-#define EVIL_ADVANCED_MONSTERS WildZuchtdracheOld AngmarGolem AngmarGolem_Summoned AngmarHeroWolf MordorHeroWolf AngmarHeroWolfHorde WildAttackTroll WildAttackTroll_Summoned MordorAttackTroll MordorTrollupgrade MordorTrollupgradeHammer MordorTrollupgradeSword MordorTrollupgradeKeule MordorOlogHai_Summoned MordorOlogHai WildBrutmutter MordorAttackTroll_Summoned WildMountainGiant WildMountainGiantMod WildMountainGiant_Summoned
+#define EVIL_ADVANCED_MONSTERS AngmarGolem AngmarGolem_Summoned AngmarHeroWolf MordorHeroWolf AngmarHeroWolfHorde WildAttackTroll WildAttackTroll_Summoned MordorAttackTroll MordorTrollupgrade MordorTrollupgradeHammer MordorTrollupgradeSword MordorTrollupgradeKeule MordorOlogHai_Summoned MordorOlogHai WildBrutmutter MordorAttackTroll_Summoned WildMountainGiant WildMountainGiantMod WildMountainGiant_Summoned
 
 #define EVIL_ELITE_MONSTERS MordorArgdush MordorGuritz MordorMurgash MordorArgdush_Summoned MordorGuritz_Summoned MordorMurgash_Summoned WildFireWyrm
 
@@ -6394,7 +6394,7 @@ ExperienceLevel    Evil_Regular_MonsterLevel5
     ExperienceAward                   =    EXPERIENCE_AWARD_REGULAR_MONSTER_HORDE_5
     Rank                              =    5
     Upgrades                          =    Upgrade_ObjectLevel5 Upgrade_MiniHordeLvl5 Upgrade_EliteHordeLvl5
-    AttributeModifiers                =    RegularBeastsHordeBonusRank5
+    AttributeModifiers                =    RegularMonsterHordeBonusRank5
     LevelUpFx                         =    FX:EvilLevelUp1FX
     LevelUpTintColor                  =    R:255 G:255 B:255
     LevelUpTintPreColorTime           =    500
