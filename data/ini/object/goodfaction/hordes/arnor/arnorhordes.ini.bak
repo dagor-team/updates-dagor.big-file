@@ -2211,7 +2211,7 @@ End
 ChildObject ArnorKnightHorde_Summoned ArnorKnightHorde
     IsTrainable         = No
     CommandPoints         = 0
-    CommandSet         = ArnorKnightHordeCommandSet_Summoned
+    CommandSet         = EmptySummonedCommandset
     EquivalentTo         = ArnorKnightHorde
 
     DisplayName         = OBJECT:HordeArnorKnight
