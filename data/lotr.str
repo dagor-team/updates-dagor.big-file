@@ -9956,11 +9956,11 @@ CONTROLBAR:UntiefenGundabergKing
 END
 
 CONTROLBAR:ToolTipBlutigesAntreibenBolg
-"Requires: Level 3 \n Durburz disposes a horde to set an example to whomsoever intends on faltering \n To avoid sharing the same fate, the goblim maggots are driven into battle with relentless vigor \n All nearby allied units temporarily fear each other and, subsequently, gain +200% Attack and +20% speed.\n Select a target horde which shall be tributed"
+"Requires: Level 3 \n Durburz disposes a horde to set an example to whomsoever intends on faltering \n To avoid sharing the same fate, the goblim maggots are driven into battle with relentless vigor \n All nearby allied units temporarily fear each other and, subsequently, gain +20% Attack and +20% speed.\n Select a target horde which shall be tributed"
 END
 
 CONTROLBAR:ToolTipBlutigesAntreibenBolgKing
-"Requires: Level 3 \n Durburz disposes a horde to set an example to whomsoever intends on faltering \n To avoid sharing the same fate, the goblin maggots are driven into battle with relentless vigor \n All nearby allied units temporarily fear each other and, subsequently, gain +300% Attack and +30% speed.\n Select a target horde which shall be tributed"
+"Requires: Level 3 \n Durburz disposes a horde to set an example to whomsoever intends on faltering \n To avoid sharing the same fate, the goblin maggots are driven into battle with relentless vigor \n All nearby allied units temporarily fear each other and, subsequently, gain +50% Attack and +30% speed.\n Select a target horde which shall be tributed"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityBannerderOrkhorde
