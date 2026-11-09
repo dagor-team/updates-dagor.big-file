@@ -10,7 +10,7 @@ Arnor:
 Dwarves: 
 
 Goblins:
-
+-Durburz can no longer kill allies and heroes with Bloody Driving, descriptions fixed
 	
 Gondor: 
 
