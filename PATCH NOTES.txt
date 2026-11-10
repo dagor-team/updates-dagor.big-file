@@ -17,6 +17,7 @@ Gondor:
 Isengard:
 -Saruman Level up radius +100%
 -Ugluk Level 1 and 7 affect men to a lesser extent
+-Wolves: +100 Health, increased Damage to swords and archers (10%)
 
 Imladris:
 -Elrond and Gorfindel dps nerf

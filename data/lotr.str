@@ -1535,7 +1535,7 @@ CONTROLBAR:BoldogLeadership
 End
 
 CONTROLBAR:ToolTipBoldogLeadership
-"Boldog, the captain of Angband, lead the orc raid on the marches of Doriath.\n Friendly infantry gain +15% armor and damage as well as 20% resistance to magic.\n Passive Ability"
+"Boldog, the captain of Angband, lead the orc raid on the marches of Doriath.\n Friendly infantry and heroes gain +15% armor and damage as well as 20% resistance to magic.\n Passive Ability, does not affect monsters"
 End
 
 
