@@ -16,6 +16,8 @@ Gondor:
 
 Isengard:
 -Saruman Level up radius +100%
+-Ugluk Level 1 and 7 affect men to a lesser extent
+
 Imladris:
 -Elrond and Gorfindel dps nerf
 -twins damage -50, health +400
@@ -31,3 +33,4 @@ Rohan:
 	
 General:
 -first age heroes damage fix
+-Wizard blast Damage: -10%

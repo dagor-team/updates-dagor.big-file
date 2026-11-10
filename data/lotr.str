@@ -26207,7 +26207,7 @@ CONTROLBAR:SarumanVielfarbig
 END
 
 CONTROLBAR:TooltipSarumanVielfarbig
-"Saruman of Many Colors used his entire wrath against the free peoples of Middle-earth \n Saruman permanently gains +50% magic damage, +50% armor against magic and -25% recharge time of all spells \n Allows the construction of Palantir Monuments \n Passive ability"
+"Saruman of Many Colors used his entire wrath against the free peoples of Middle-earth \n Saruman permanently gains +100% magic damage and -25% recharge time of all spells \n Allows the construction of Palantir Monuments \n Passive ability"
 END
 
 CONTROLBAR:PurchaseUpgradeHeilendesLicht
@@ -28693,7 +28693,7 @@ CONTROLBAR:UglukMedizin
 END
 
 CONTROLBAR:ToolTipUglukMedizin
-"Ugluk administers to his Uruk-hai dark medicine\n Selected Uruks in the target area are healed\n Left-click on the desired destinations"
+"Ugluk administers dark medicine to hisallies \n Selected Uruks in the target area are fully healed. Men in the area are healed to a lesser extent \n Left-click on the desired destinations"
 END
 
 CONTROLBAR:DenethorNumenorischesBlut
@@ -103246,7 +103246,7 @@ CONTROLBAR:UglukBefehlHarterMarsch
 END
 
 CONTROLBAR:ToolTipUglukBefehlHarterMarsch
-"Requires: Level 6 \n Ugluk suspects the enemy are nearby and pushes his Uruk-hai faster \n All allied Uruk-hai and Orcs near him gain +50% and +30% attack speed \n Left click to activate"
+"Requires: Level 7 \n Ugluk suspects enemies are nearby and pushes his troops faster \n All allied Uruk-hai and Orcs near him gain +30% Attack. All units including Uruks and Orcs gain +50% speed. \n Left click to activate"
 END
 
 CONTROLBAR:UglukBefehlZusammenbleiben
