@@ -15,10 +15,11 @@ Goblins:
 Gondor: 
 
 Isengard:
-
+-Saruman Level up radius +100%
 Imladris:
 -Elrond and Gorfindel dps nerf
 -twins damage -50, health +400
+-Archers -25%dmg
 	
 Lothlorien:
 	

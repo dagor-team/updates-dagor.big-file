@@ -15132,7 +15132,7 @@ CONTROLBAR:ToolTipGaladrieldunkleHerrin
 END
 
 CONTROLBAR:GaladrielTornadoEdain
-"Lady of the &Storms"
+"Lady of the S&torms"
 END
 
 CONTROLBAR:TooltipGaladrielTornadoEdain
@@ -36700,7 +36700,7 @@ CONTROLBAR:SpecialAbilityBalrogBreath
 END
 
 CONTROLBAR:SpecialAbilityBalrogWings
-"Win&gs"
+"Wi&ngs"
 END
 
 CONTROLBAR:KnifeFighter
@@ -90938,7 +90938,7 @@ CONTROLBAR:ToolTipFingolfinCiclon
 END
 
 CONTROLBAR:FingolfinRage
-"Ra&ge"
+"Rage &W"
 END
 
 CONTROLBAR:ToolTipFingolfinRage
@@ -91300,7 +91300,7 @@ CONTROLBAR:ToolTipTuorNobleGeist
 END
 
 CONTROLBAR:TuorDramborleg
-"&Dramborleg"
+"(&A) Dramborleg"
 END
 
 CONTROLBAR:ToolTipTTuorDramborleg
@@ -91872,7 +91872,7 @@ CONTROLBAR:ToolTipBerenLeadership
 END
 
 CONTROLBAR:BerenDisguise
-"&Draugluin Skin"
+"(&H) Draugluin Skin"
 END
 
 CONTROLBAR:ToolTipBerenDisguise
