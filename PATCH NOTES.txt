@@ -1,4 +1,4 @@
-Patchnotes 20.10.2026:
+Patchnotes 4.11.2026:
 
 
 Angmar:
@@ -6,9 +6,16 @@ Angmar:
 
 Arnor:
 
+	Healing by Blood of Numenor nerfed by 50% (40hp/s to 20)
+	Last alliance summon revamped 
+	Elendil new level 7
+	Numenorian crossbows now cost 75 cp instead of 45
 
 Dwarves: 
-
+	Belegost warriors damage buffed against monsters but nerfed against infantry
+	Belegost riders damage buffed against infantry
+	Thorin no longer affects allies with his leaderships and abilities
+	
 Goblins:
 -Durburz can no longer kill allies and heroes with Bloody Driving, descriptions fixed
 	
@@ -20,6 +27,12 @@ Isengard:
 -Wolves: +100 Health, increased Damage to swords and archers (10%)
 
 Imladris:
+	Gondolin archers slight damage and health buff, but will no longer receive a weapon upgrade from level 5
+	Gondolin warriors slight health buff and damage nerf, will no longer receive a weapon upgrade from level 5 instead will get an armor upgrade
+	Gondolin guards slight health buff and damage nerf, will no longer receive a weapon upgrade from level 5 instead will get an armor upgrade
+	All formenos units buffed by 200 health
+	Imladris catapults light weapon no longers paralyzes, but blinds instead
+
 -Elrond and Gorfindel dps nerf
 -twins damage -50, health +400
 -Archers -25%dmg
@@ -33,5 +46,14 @@ Rohan:
 	
 	
 General:
+
+	descriptions of spellbook powers include cooldowns
+	drake lairs give less xp
+	wight lairs give more xp
+	General descriptions
+	power Point Generation 10% slower
+	trample revenge weapons buffed by 300% against monsters
+
 -first age heroes damage fix
 -Wizard blast Damage: -10%
+

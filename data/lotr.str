@@ -54643,11 +54643,11 @@ OBJECT:LamedonRiderBanner
 END
 
 OBJECT:HordeLamedonRiders
-"Lamedon Rider Horde"
+"Lamedon Cavalry"
 END
 
 CONTROLBAR:LW_Unit_LamedonRiderHorde
-"Lamedon Riders Battalion"
+"Lamedon Cavalry Battalion"
 END
 
 CONTROLBAR:LW_ToolTip_LamedonRiderHorde
@@ -87497,7 +87497,7 @@ CONTROLBAR:HeartOfEvil
 END
 
 CONTROLBAR:ToolTipHeartOfEvil
-"Requires: Level 6 \n Balcmeg means "heart of evil in the Eldarin tounge". Balcmeg debuffs enemies by -15% armor with each swing of his mace (this does not apply while using Fury of Morgoth). Balcmeg also gives scavenger to nearby mordor orcs and makes them resistant to knockback. \n Passive"
+"Requires: Level 6 \n Balcmeg means "heart of evil in the Eldarin tongue". Balcmeg debuffs enemies by -15% armor with each swing of his mace. Balcmeg also gives scavenger to nearby mordor orcs and makes them resistant to knockback. \n Passive"
 END
 
 CONTROLBAR:BalcmegImmortal    
