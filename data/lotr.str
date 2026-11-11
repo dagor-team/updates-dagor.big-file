@@ -54643,11 +54643,11 @@ OBJECT:LamedonRiderBanner
 END
 
 OBJECT:HordeLamedonRiders
-"Lamedon Rider Horde"
+"Lamedon Cavalry"
 END
 
 CONTROLBAR:LW_Unit_LamedonRiderHorde
-"Lamedon Riders Battalion"
+"Lamedon Cavalry Battalion"
 END
 
 CONTROLBAR:LW_ToolTip_LamedonRiderHorde
