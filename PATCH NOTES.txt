@@ -2,13 +2,10 @@ Patchnotes 4.11.2026:
 
 
 Angmar:
-	Rogash armor nerf against pikes from 20% -> 45%; leap disallowed while level 10 is active
-	Hill Trolls aoe nerf
-	Snow trolls: Speed buff by 7%, Health and Damage buffed, additional Damage to buildings
-	Angmar elite units captain upgrade cost increase from 50 -> 300; hero dedication locked behind level 3
-	Witch-kings level 5 nerfed and made scaling; rework
+-Underworld wizard damage nerf
 
 Arnor:
+
 	Healing by Blood of Numenor nerfed by 50% (40hp/s to 20)
 	Last alliance summon revamped 
 	Elendil new level 7
@@ -20,19 +17,14 @@ Dwarves:
 	Thorin no longer affects allies with his leaderships and abilities
 	
 Goblins:
-	Buhrdur armor nerf against pikes from 20% -> 45%; health increased form 7000 -> 8600
-	Drummer Goblin armor fix
-	Adult dragons from drake lair removed the ability to fly; new ability; give less xp
-	Half troll Swords: Nerfed damage and health by 30% price increase by 150, additional damage to heroes removed
-	Half troll Pikes: Nerfed damage by 40%, nerfed hit speed by 10%, additional damage to buildings removed
-	Balrogs given stances; Health reverted to 9000; recruit properly at level 3
+-Durburz can no longer kill allies and heroes with Bloody Driving, descriptions fixed
 	
 Gondor: 
-	Imrahil level 3 and 10 switched
-	Fiefdom units recruit time slightly nerfed
 
 Isengard:
-	Tol in gaurhoth vampires damage increased against flyers by another 450% (200->) added damage over time with lifesteal (50dmg per second over 30s), armor against arrows buffed by 25%
+-Saruman Level up radius +100%
+-Ugluk Level 1 and 7 affect men to a lesser extent
+-Wolves: +100 Health, increased Damage to swords and archers (10%)
 
 Imladris:
 	Gondolin archers slight damage and health buff, but will no longer receive a weapon upgrade from level 5
@@ -40,20 +32,28 @@ Imladris:
 	Gondolin guards slight health buff and damage nerf, will no longer receive a weapon upgrade from level 5 instead will get an armor upgrade
 	All formenos units buffed by 200 health
 	Imladris catapults light weapon no longers paralyzes, but blinds instead
+
+-Elrond and Gorfindel dps nerf
+-twins damage -50, health +400
+-Archers -25%dmg
 	
 Lothlorien:
 	
 
 Mordor:
-	Drummer trolls health increased 3600 -> 4500; damage taken from pikes nerfed from 20% -> 100%
-	Mollok armor nerf against pikes from 20% -> 45%
+-Gorthaur Flaming Strike damage 3600 ->, no longer affected by blademaster
 Rohan: 
 	
 	
 General:
+
 	descriptions of spellbook powers include cooldowns
 	drake lairs give less xp
 	wight lairs give more xp
 	General descriptions
 	power Point Generation 10% slower
 	trample revenge weapons buffed by 300% against monsters
+
+-first age heroes damage fix
+-Wizard blast Damage: -10%
+

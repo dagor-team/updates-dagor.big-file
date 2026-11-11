@@ -1535,7 +1535,7 @@ CONTROLBAR:BoldogLeadership
 End
 
 CONTROLBAR:ToolTipBoldogLeadership
-"Boldog, the captain of Angband, lead the orc raid on the marches of Doriath.\n Friendly infantry gain +15% armor and damage as well as 20% resistance to magic.\n Passive Ability"
+"Boldog, the captain of Angband, lead the orc raid on the marches of Doriath.\n Friendly infantry and heroes gain +15% armor and damage as well as 20% resistance to magic.\n Passive Ability, does not affect monsters"
 End
 
 
@@ -9956,11 +9956,11 @@ CONTROLBAR:UntiefenGundabergKing
 END
 
 CONTROLBAR:ToolTipBlutigesAntreibenBolg
-"Requires: Level 3 \n Durburz disposes a horde to set an example to whomsoever intends on faltering \n To avoid sharing the same fate, the goblim maggots are driven into battle with relentless vigor \n All nearby allied units temporarily fear each other and, subsequently, gain +200% Attack and +20% speed.\n Select a target horde which shall be tributed"
+"Requires: Level 3 \n Durburz disposes a horde to set an example to whomsoever intends on faltering \n To avoid sharing the same fate, the goblim maggots are driven into battle with relentless vigor \n All nearby allied units temporarily fear each other and, subsequently, gain +20% Attack and +20% speed.\n Select a target horde which shall be tributed"
 END
 
 CONTROLBAR:ToolTipBlutigesAntreibenBolgKing
-"Requires: Level 3 \n Durburz disposes a horde to set an example to whomsoever intends on faltering \n To avoid sharing the same fate, the goblin maggots are driven into battle with relentless vigor \n All nearby allied units temporarily fear each other and, subsequently, gain +300% Attack and +30% speed.\n Select a target horde which shall be tributed"
+"Requires: Level 3 \n Durburz disposes a horde to set an example to whomsoever intends on faltering \n To avoid sharing the same fate, the goblin maggots are driven into battle with relentless vigor \n All nearby allied units temporarily fear each other and, subsequently, gain +50% Attack and +30% speed.\n Select a target horde which shall be tributed"
 END
 
 CONTROLBAR:ToolTipSpecialAbilityBannerderOrkhorde
@@ -15132,7 +15132,7 @@ CONTROLBAR:ToolTipGaladrieldunkleHerrin
 END
 
 CONTROLBAR:GaladrielTornadoEdain
-"Lady of the &Storms"
+"Lady of the S&torms"
 END
 
 CONTROLBAR:TooltipGaladrielTornadoEdain
@@ -26207,7 +26207,7 @@ CONTROLBAR:SarumanVielfarbig
 END
 
 CONTROLBAR:TooltipSarumanVielfarbig
-"Saruman of Many Colors used his entire wrath against the free peoples of Middle-earth \n Saruman permanently gains +50% magic damage, +50% armor against magic and -25% recharge time of all spells \n Allows the construction of Palantir Monuments \n Passive ability"
+"Saruman of Many Colors used his entire wrath against the free peoples of Middle-earth \n Saruman permanently gains +100% magic damage and -25% recharge time of all spells \n Allows the construction of Palantir Monuments \n Passive ability"
 END
 
 CONTROLBAR:PurchaseUpgradeHeilendesLicht
@@ -28693,7 +28693,7 @@ CONTROLBAR:UglukMedizin
 END
 
 CONTROLBAR:ToolTipUglukMedizin
-"Ugluk administers to his Uruk-hai dark medicine\n Selected Uruks in the target area are healed\n Left-click on the desired destinations"
+"Ugluk administers dark medicine to hisallies \n Selected Uruks in the target area are fully healed. Men in the area are healed to a lesser extent \n Left-click on the desired destinations"
 END
 
 CONTROLBAR:DenethorNumenorischesBlut
@@ -36700,7 +36700,7 @@ CONTROLBAR:SpecialAbilityBalrogBreath
 END
 
 CONTROLBAR:SpecialAbilityBalrogWings
-"Win&gs"
+"Wi&ngs"
 END
 
 CONTROLBAR:KnifeFighter
@@ -54643,11 +54643,11 @@ OBJECT:LamedonRiderBanner
 END
 
 OBJECT:HordeLamedonRiders
-"Lamedon Rider Horde"
+"Lamedon Cavalry"
 END
 
 CONTROLBAR:LW_Unit_LamedonRiderHorde
-"Lamedon Riders Battalion"
+"Lamedon Cavalry Battalion"
 END
 
 CONTROLBAR:LW_ToolTip_LamedonRiderHorde
@@ -90938,7 +90938,7 @@ CONTROLBAR:ToolTipFingolfinCiclon
 END
 
 CONTROLBAR:FingolfinRage
-"Ra&ge"
+"Rage &W"
 END
 
 CONTROLBAR:ToolTipFingolfinRage
@@ -91300,7 +91300,7 @@ CONTROLBAR:ToolTipTuorNobleGeist
 END
 
 CONTROLBAR:TuorDramborleg
-"&Dramborleg"
+"(&A) Dramborleg"
 END
 
 CONTROLBAR:ToolTipTTuorDramborleg
@@ -91872,7 +91872,7 @@ CONTROLBAR:ToolTipBerenLeadership
 END
 
 CONTROLBAR:BerenDisguise
-"&Draugluin Skin"
+"(&H) Draugluin Skin"
 END
 
 CONTROLBAR:ToolTipBerenDisguise
@@ -103246,7 +103246,7 @@ CONTROLBAR:UglukBefehlHarterMarsch
 END
 
 CONTROLBAR:ToolTipUglukBefehlHarterMarsch
-"Requires: Level 6 \n Ugluk suspects the enemy are nearby and pushes his Uruk-hai faster \n All allied Uruk-hai and Orcs near him gain +50% and +30% attack speed \n Left click to activate"
+"Requires: Level 7 \n Ugluk suspects enemies are nearby and pushes his troops faster \n All allied Uruk-hai and Orcs near him gain +30% Attack. All units including Uruks and Orcs gain +50% speed. \n Left click to activate"
 END
 
 CONTROLBAR:UglukBefehlZusammenbleiben
