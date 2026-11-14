@@ -7455,7 +7455,7 @@ OBJECT:BalinMoria
 END
 
 CONTROLBAR:TooltipHerrvonMoriaEredLuin
-"Requires: Level 5 \n The Lord of Khazad-Dum leads the dwarves into battle \n Dwarfs allies near Balin get +50% armor and +25% attack \n Passive ability"
+"Requires: Level 5 \n The Lord of Khazad-Dum leads the dwarves into battle \n Dwarfs allies near Balin get +33% armor and +25% attack \n Passive ability"
 END
 
 CONTROLBAR:SpecialAbilityDrarSpeerfeuer
@@ -29133,7 +29133,7 @@ CONTROLBAR:HerrvonMoria
 END
 
 CONTROLBAR:TooltipHerrvonMoria
-"Requires: Level 5:\n The Lord of Moria leads the dwarves into the battle. \n +50% defense for allied dwarves near Balin. \n Passive ability"
+"Requires: Level 5:\n The Lord of Moria leads the dwarves into the battle. \n +25% defense for allied dwarves near Balin. \n Passive ability"
 END
 
 CONTROLBAR:SummonKhazadumWaechter
@@ -58956,7 +58956,7 @@ CONTROLBAR:BuildBruchtalBogenschuetzenHorde
 END
 
 CONTROLBAR:ToolTipBuildBruchtalBogenschuetzenHorde
-"Unit Type: Regular Archer \n Strong at Range \n Upgrades from the Imladris Library unlock special abilities"
+"Unit Type: Regular Archer \n Strong at Range \n You can only have a maximum of 7 battalions \n Upgrades from the Imladris Library unlock special abilities"
 END
 
 BANNERUI:BruchtalBogenschuetzen
