@@ -106532,6 +106532,14 @@ CONTROLBAR:TooltipWaffenmeisterWaffenkunst_Neu
 "Requires: Valley of knowlegde and wisdom \n For 30 seconds, blade masters nearly double their attack speed and deal more damage to enemy units\n Left-click to activate"
 END
 
+CONTROLBAR:LibraryWisdomSystem
+"Libraries of Rivendell"
+END
+
+CONTROLBAR:ToolTipLibraryWisdomSystem
+"The libraries of Imladris are known as a centre of wisdom througout middle earth. For each wisdom aquired here, the imladris library produces more resources. \n Passive ability"
+END
+
 CONTROLBAR:SelectUpgradesImladrisBasicUnits
 "Library of Imladris"
 END
@@ -106545,7 +106553,7 @@ CONTROLBAR:BibliothekMilitarkunst
 END
 
 CONTROLBAR:ToolTipPurchaseBibliothekMilitarkunst
-"Scholars study the military arts of the Noldor \n Unlocks an additional ability for standard troops"
+"Scholars study the military arts of the Noldor \n Unlocks an additional ability for standard troops \n Increases resource production of the library by 25"
 END
 
 CONTROLBAR:BibliothekMilitarkunstEntwickelt
@@ -106553,7 +106561,7 @@ CONTROLBAR:BibliothekMilitarkunstEntwickelt
 END
 
 CONTROLBAR:ToolTipPurchaseBibliothekMilitarkunstEntwickelt
-"Additional scholars study the military arts of the Noldor \n Unlocks an additional ability for elite troops"
+"Additional scholars study the military arts of the Noldor \n Unlocks an additional ability for elite troops \n Increases resource production of the library by 50"
 END
 
 CONTROLBAR:BibliothekSchmiedekunst
@@ -106561,7 +106569,7 @@ CONTROLBAR:BibliothekSchmiedekunst
 END
 
 CONTROLBAR:ToolTipPurchaseBibliothekSchmiedekunst
-"Scholars study the Blacksmithing Arts of Doriath \n Allows Imladris troops to purchase the Blades of Eregion \n When purchases troops will automaticly gain the Forged Blades upgrade"
+"Scholars study the Blacksmithing Arts of Doriath \n Allows Imladris troops to purchase the Blades of Eregion \n When purchases troops will automaticly gain the Forged Blades upgrade \n Increases resource production of the library by 100"
 END
 
 UPGRADE:BibliothekSchmiedekunst
@@ -106573,7 +106581,7 @@ CONTROLBAR:BibliothekSchmiedekunstEntwickelt
 END
 
 CONTROLBAR:ToolTipPurchaseBibliothekSchmiedekunstEntwickelt
-"Additional scholars study the Blacksmithing Arts of Eregion \n Allows Imladris troops to purchase the Golden Tip Arrows of Eregion \n When purchases troops will automaticly gain the Golden Arrow upgrade"
+"Additional scholars study the Blacksmithing Arts of Eregion \n Allows Imladris troops to purchase the Golden Tip Arrows of Eregion \n When purchases troops will automaticly gain the Golden Arrow upgrade \n Increases resource production of the library by 100"
 END
 
 CONTROLBAR:ThePowerofVilya
