@@ -7455,7 +7455,7 @@ OBJECT:BalinMoria
 END
 
 CONTROLBAR:TooltipHerrvonMoriaEredLuin
-"Requires: Level 5 \n The Lord of Khazad-Dum leads the dwarves into battle \n Dwarfs allies near Balin get +50% armor and +25% attack \n Passive ability"
+"Requires: Level 5 \n The Lord of Khazad-Dum leads the dwarves into battle \n Dwarfs allies near Balin get +33% armor and +25% attack \n Passive ability"
 END
 
 CONTROLBAR:SpecialAbilityDrarSpeerfeuer
@@ -29133,7 +29133,7 @@ CONTROLBAR:HerrvonMoria
 END
 
 CONTROLBAR:TooltipHerrvonMoria
-"Requires: Level 5:\n The Lord of Moria leads the dwarves into the battle. \n +50% defense for allied dwarves near Balin. \n Passive ability"
+"Requires: Level 5:\n The Lord of Moria leads the dwarves into the battle. \n +25% defense for allied dwarves near Balin. \n Passive ability"
 END
 
 CONTROLBAR:SummonKhazadumWaechter
@@ -55110,7 +55110,7 @@ CONTROLBAR:ConstructGondorTrebuchet
 END
 
 CONTROLBAR:ToolTipBuildGondorTrebuchet
-"Unit Type: Regular Siege Equipment \n Strong vs: Buildings \n You can only build 6 Catapults at the same time"
+"Unit Type: Regular Siege Equipment \n Range: 600 \n Strong vs: Structures and Siege \n You can only build 6 Catapults at the same time"
 END
 
 BANNERUI:Trebuchet
@@ -56200,7 +56200,7 @@ CONTROLBAR:ConstructRohanTrebuchet
 END
 
 CONTROLBAR:ToolTipBuildRohanTrebuchet
-"Requires: Barracks Level 3 \n Unit Type: Basic Siege Equipment \n Strong vs: Structures \n You can only build 6 Catapults at the same time"
+"Requires: Barracks Level 3 \n Unit Type: Weak Siege Equipment \n Range: 500 \n Strong vs: Structures and Units \n You can only build 6 Catapults at the same time"
 END
 
 BANNERUI:RohanTrebuchet
@@ -58956,7 +58956,7 @@ CONTROLBAR:BuildBruchtalBogenschuetzenHorde
 END
 
 CONTROLBAR:ToolTipBuildBruchtalBogenschuetzenHorde
-"Unit Type: Regular Archer \n Strong at Range \n Upgrades from the Imladris Library unlock special abilities"
+"Unit Type: Regular Archer \n Strong at Range \n You can only have a maximum of 7 battalions \n Upgrades from the Imladris Library unlock special abilities"
 END
 
 BANNERUI:BruchtalBogenschuetzen
@@ -61328,8 +61328,16 @@ CONTROLBAR:ConstructDwarvenCatapult
 "Dwarven &Catapult"
 END
 
-CONTROLBAR:ToolTipBuildDwarvenCatapult
-"Requires: Siege Works Level 2 \n Unit Type: Basic Siege Equipment \n Strong vs: Structures \n You can only build 6 Catapults at the same time"
+CONTROLBAR:ToolTipBuildEreborCatapult
+"Requires: Siege Works Level 2 \n Unit Type: Advanced Siege Equipment \n Range: 550 \n Very Strong vs: Structures and Siege \n The catapults of Erebor are engineered to deal immense damage \n You can only build 6 Catapults at the same time"
+END
+
+CONTROLBAR:ToolTipBuildEredLuinCatapult
+"Requires: Siege Works Level 2 \n Unit Type: Advanced Siege Equipment \n Range: 700 \n Very Strong vs: Structures and Siege \n The catapults of the Ered Luin are engineered to bombard enemy strongolds over vast distances with astonishing precision \n You can only build 6 Catapults at the same time"
+END
+
+CONTROLBAR:ToolTipBuildIronHillsCatapult
+"Requires: Siege Works Level 2 \n Unit Type: Advanced Siege Equipment \n Range: 550 \n Very Strong vs: Structures and Units \n The catapults of the Iron Hills are engineered to bombard enemy units over large distances with many small projectiles. While not very precise and inefficient against single targets, it can bombard a bigger area than other siege machines \n You can only build 6 Catapults at the same time"
 END
 
 BANNERUI:DwarvenCatapult
@@ -63829,7 +63837,7 @@ CONTROLBAR:ConstructMordorCatapult
 END
 
 CONTROLBAR:ToolTipBuildMordorCatapult_Neu
-" Unit Type: Basic Siege Equipment \n Strong vs: Structures \n You can only build 6 Catapults at the same time"
+" Unit Type: Weak Siege Equipment \n Range: 450 \n Strong vs: Structures and Units \n You can only build 6 Catapults at the same time"
 END
 
 BANNERUI:MordorCatapult
@@ -63866,7 +63874,7 @@ CONTROLBAR:BuildMordorTrollCatapult
 END
 
 CONTROLBAR:ToolTipBuildMordorTrollCatapult
-"Requires: Reinforcements of Cirith Ungol \n Unit Type: Regular Siege Equipment \n Strong vs: Structures \n You can only build 6 Catapults at the same time"
+"Requires: Reinforcements of Cirith Ungol \n Unit Type: Regular Siege Equipment \n Range: 600 \n Strong vs: Structures and Siege \n You can only build 6 Catapults at the same time"
 END
 
 BANNERUI:MordorTrollCatapult
@@ -65721,7 +65729,7 @@ CONTROLBAR:ConstructIsengardSiegeBallista
 END
 
 CONTROLBAR:ToolTipBuildIsengardSiegeBallista
-"Requires: Siege Works Level 2 \n Unit Type: Regular Siege Equipment \n Strong vs: Structures \n You can only build 6 Ballista's at the same time"
+"Requires: Siege Works Level 2 \n Unit Type: Regular Siege Equipment \n Range: 550 \n Strong vs: Structures and Monsters \n You can only build 6 Ballista's at the same time"
 END
 
 BANNERUI:IsengardBallista
@@ -69542,7 +69550,7 @@ CONTROLBAR:ConstructAngmarTrollSling
 END
 
 CONTROLBAR:TooltipBuildAngmarTrollSling
-"Unit Type: Regular Siege Equipment \n Strong vs: Structures \n You can only build 6 Catapults at the same time"
+"Unit Type: Regular Siege Equipment \n Range: 600 \n Strong vs: Structures and Siege \n You can only build 6 Catapults at the same time"
 END
 
 CONTROLBAR:TooltipBuildAngmarTrollSling_Neu
@@ -85934,7 +85942,7 @@ CONTROLBAR:ToolTipBuildGondorWachterBrunnendHorde
 END
 
 CONTROLBAR:ToolTipBuildArnorTrebuchet
-"Unit Type: Siege Equipement \n Strong vs: Structures \n You can only build 6 Catapults at the same time"
+"Unit Type: Regular Siege Equipement \n Range: 600 \n Strong vs: Structures and Siege \n You can only build 6 Catapults at the same time"
 END
 
 CONTROLBAR:ToolTipBuildArnorFireStonePorter
@@ -106597,7 +106605,7 @@ CONTROLBAR:ConstructImladrisCatapult
 END
 
 CONTROLBAR:ToolTipBuildImladrisCatapult
-"Powerful long-range weapon \n Strongest against buildings, but still effective against most targets \n Cannot fire on nearby enemies and is vulnerable to melee attacks  \n You can only build 6 Catapults at the same time"
+"Powerful long-range weapon \n Range: 550 \n Strong vs: Structures and Siege \n Imladris catapults sacrifice some range for quicker reload time and the ability to shoot targets nearer to the catapult  \n You can only build 6 Catapults at the same time"
 END
 
 OBJECT:ImladrisCatapult

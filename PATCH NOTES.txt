@@ -41,7 +41,7 @@ Lothlorien:
 	
 
 Mordor:
--Gorthaur Flaming Strike damage 3600 ->, no longer affected by blademaster
+-Gorthaur Flaming Strike damage 3600 -> 3000, no longer affected by blademaster
 Rohan: 
 	
 	
