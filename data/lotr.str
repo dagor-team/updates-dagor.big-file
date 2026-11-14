@@ -7418,6 +7418,14 @@ CONTROLBAR:ToolTipSpecialAbilityStreitmachtderZwergenreiche
 "Requires: Level 10 \n The Lord of the Iron Hills calls together a force of the Dwarven realms.\n Units from all across the Dwarven Empire are permanently summoned.\n If Dain is mounted on his war boar, he spawns 4 Goat Rider battalions. \n Left-click on the desired destination area"
 END
 
+CONTROLBAR:DainFinalStand
+"Fight to the Death!"
+END
+
+CONTROLBAR:ToolTipDainFinalStand
+"Requires: Level 5 \n King Dain fought over the body of his old friend, king Brand of Dale who layed beneath his feet, slayed by the easterling arrows, buying precious seconds for the retreating civilians of Dale. \n Dain gains +50% attack speed and fears enemies in a medium radius for 30 seconds, but due to his old body straining takes the same damage with every hit. \n\n cooldown: 3 minutes \n Left-click to activate"
+END
+
 CONTROLBAR:SpecialAbilityDainHallen
 "Defend the Halls!"
 END
