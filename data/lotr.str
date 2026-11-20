@@ -7531,7 +7531,7 @@ CONTROLBAR:DrarGloriousStand
 END
 
 CONTROLBAR:ToolTipDrarGloriousStand
-"Requires: Level 3 \n During one of his many travels, Drár was passing through a canyon in the Grey mountains with a company dwarves trying to reach the Lonely mountain,\n when they were ambushed by a band of orcs. Drár quickly organized his company in defensive positions and successfully fended off the attack. \n \n Drár and nearby dwarven crossbows gain double attack speed, but lose half their movement speed. \n Left click to activate"
+"Requires: Level 5 \n During one of his many travels, Drár was passing through a canyon in the Grey mountains with a company dwarves trying to reach the Lonely mountain,\n when they were ambushed by a band of orcs. Drár quickly organized his company in defensive positions and successfully fended off the attack. \n \n Drár and nearby dwarven crossbows gain double attack speed, but lose half their movement speed. \n Left click to activate"
 END
 
 CONTROLBAR:ToolTipElvenCloakGildor
@@ -11386,7 +11386,7 @@ CONTROLBAR:ToggleEisenbergEliteWeapon
 END
 
 CONTROLBAR:ToolTipToggleEisenbergEliteWeapon
-"Left-click to switch between pickaxe and sword with shield \n The pickaxe offers more damage and knockback, but swings slower and does less damage to buildings"
+"Left-click to switch between pickaxe and sword with shield \n The pickaxe offers more damage against unarmored targets, but swings slower and does less damage to buildings"
 END
 
 CONTROLBAR:ToolTipSpecialAbilitySarumanFireballOrthanc
