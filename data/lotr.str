@@ -1048,6 +1048,14 @@ CONTROLBAR:TooltipFaramirSummonForbiddenPool
 "Requires: Level 6 \n Faramir summmons the secret base from Ithilien.\n The Forbidden Pool can recruit Damrod and various Ranger soldiers.\n Only one Pool may be summoned at a time.\n Left-click on the icon and select the desired target area"
 END
 
+CONTROLBAR:SpellBookBlindingLight
+"Light of Varda and Aerien"
+END
+
+CONTROLBAR:ToolTipSpellBookBlindingLight
+Calls a birght beam of the light of sun and stars to the battlefield. Blinds archers in the area and weakens enemy speed and damage \n Left click icon then left click on target area
+ENDEND
+
 OBJECT:Vingilot
 "Vingilot"
 END
@@ -25591,7 +25599,7 @@ CONTROLBAR:BilboMithrilhemd
 END
 
 CONTROLBAR:ToolTipBilboMithrilhemd
-"Requires: Level 6 \n return for which, the dwarves that Bilbo has helped several times on their journey to Erebor out of trouble, he gets a mithril \n Durable double Armor \n  \n  Passive ability"
+"Requires: Level 6 \n For his help to reclaim Erebor, Thorin gifted Bilbo a mail made of Mithril, one of the most valuable and resistant materials in Arda.  \n Durable double Armor \n  \n  Passive ability"
 END
 
 CONTROLBAR:BilboDisguise
@@ -112084,4 +112092,26 @@ CONTROLBAR:TooltipSpecialAbilityMahudRaserei
 "Mahud tribal warriors go into a blind rage \n for 30 seconds they leave their usual formation and move 25% faster \n additionally, during this time they deal area damage and knock down enemy units"
 END
 
+CONTROLBAR:Councilmember
+"Council Member"
+END
+CONTROLBAR:TooltipCouncilmemberBilbo
+"Bilbo joins the councel of Elrond"
+END
+
+CONTROLBAR:TooltipCouncilmemberLegolas
+"Legolas joins the councel of Elrond"
+END
+
+CONTROLBAR:TooltipCouncilmemberBoromir
+"Boromir joins the councel of Elrond"
+END
+
+CONTROLBAR:TooltipCouncilmemberGimliGloin
+"Gimli and Gloin join the councel of Elrond"
+END
+
+CONTROLBAR:TooltipCouncilmemberGandalf
+"Gandalf joins the councel of Elrond"
+END
 
