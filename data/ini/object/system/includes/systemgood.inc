@@ -230,6 +230,16 @@
         RequirementsFilterStrategic = SPELL_BOOK_REQUIREMENTS_FILTER_STRATEGIC
     End
 
+    Behavior = OCLSpecialPower ModuleTag_BlindingLight
+        SpecialPowerTemplate             = SpellBookBlindingLight
+        OCL                              = OCL_SpecialPowerBlindingLight
+        CreateLocation                   = CREATE_AT_LOCATION
+        AvailableAtStart                 = No
+        RequirementsFilterMPSkirmish = SPELL_BOOK_REQUIREMENTS_FILTER
+        RequirementsFilterStrategic = SPELL_BOOK_REQUIREMENTS_FILTER_STRATEGIC
+    End
+
+
     Behavior = OCLSpecialPower ModuleTag_VerzaubertesWasser
         SpecialPowerTemplate = SpellBookVerzauberterFluss
         OCL                  = OCL_SpellBookVerzauberterFluss
