@@ -25599,7 +25599,7 @@ CONTROLBAR:BilboMithrilhemd
 END
 
 CONTROLBAR:ToolTipBilboMithrilhemd
-"Requires: Level 6 \n For his help to reclaim Erebor, Thorin gifted Bilbo a mail made of Mithril, one of the most valuable and resistant materials in Arda.  \n Durable double Armor \n  \n  Passive ability"
+"Requires: Level 5 \n For his help to reclaim Erebor, Thorin gifted Bilbo a mail made of Mithril, one of the most valuable and resistant materials in Arda.  \n Durable double Armor \n  \n  Passive ability"
 END
 
 CONTROLBAR:BilboDisguise
@@ -68419,7 +68419,7 @@ END
 // ANGMAR UPGRADES
 
 CONTROLBAR:ThrallMasterUpgradeOrcWarriors
-"Gundabad Orc Grunts (&Q)"
+"Gundabad Orc Grunts (&O)"
 END
 
 CONTROLBAR:TooltipThrallMasterUpgradeOrcWarriors
@@ -68443,7 +68443,7 @@ UPGRADE:AngmarThrallMasterRhudaurSpearmen
 END
 
 CONTROLBAR:ThrallMasterUpgradeRhudaurSlingers
-"Rhudaur Axe Throwers (&E)"
+"Rhudaur Axe Throwers (&A)"
 END
 
 CONTROLBAR:TooltipThrallMasterUpgradeRhudaurSlingers
