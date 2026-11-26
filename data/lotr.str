@@ -12418,11 +12418,11 @@ CONTROLBAR:SpecialPowerElrondsRat
 END
 
 CONTROLBAR:TooltipSpecialPowerElrondsRatSPellbook
-"Elrond will convene a council to convince \n the humans, elves, dwarves and wizards to attend \n Randomly calls upon the aid of humans, dwarves, elves or gandalf for a short time \n Left click on the icon and then click the desired destination area"
+"Elrond will convene a council to convince \n the humans, elves, dwarves and wizards to attend \n Summons a building where the council will convene. The longer the building stays on the map, the more council members will join \n Left click on the icon and then click the desired destination area"
 END
 
 CONTROLBAR:TooltipSpecialPowerElrondsRat
-"Elrond convenes a council to convince \n attend the humans, elves, dwarves and wizards to rally to his aid \n Random variations \n Variant 1: Legolas and 2 battalions of Mirkwood archers are called briefly \n Variant 2: Gimli and Gloin are called briefly \n Variant 3: Boromir and 3 Gondor Battalions are called briefly \n Variant 4: Gandalf the Grey is called briefly \n Left click on the icon and then click passable area"
+"Elrond will convene a council to convince \n the humans, elves, dwarves and wizards to attend \n Summons a building where the council will convene. The longer the building stays on the map, the more council members will join \n Left click on the icon and then click the desired destination area"
 END
 
 OBJECT:Scherge
@@ -112092,9 +112092,14 @@ CONTROLBAR:TooltipSpecialAbilityMahudRaserei
 "Mahud tribal warriors go into a blind rage \n for 30 seconds they leave their usual formation and move 25% faster \n additionally, during this time they deal area damage and knock down enemy units"
 END
 
+CONTROLBAR:CouncilSummon
+"Summon the Council"
+END
+
 CONTROLBAR:Councilmember
 "Council Member"
 END
+
 CONTROLBAR:TooltipCouncilmemberBilbo
 "Bilbo joins the councel of Elrond"
 END
@@ -112114,4 +112119,9 @@ END
 CONTROLBAR:TooltipCouncilmemberGandalf
 "Gandalf joins the councel of Elrond"
 END
+
+CONTROLBAR:TooltipCouncilSummonRing
+"Summon the current Council members of the council of the one ring"
+END
+
 
