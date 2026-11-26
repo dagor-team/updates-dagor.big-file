@@ -4,55 +4,57 @@ Patchnotes 4.11.2026:
 Angmar:
 -Underworld wizard damage nerf
 
-Arnor:
+Isengard: 
+Steel Bolts nerf against heroes and structures
 
-	Healing by Blood of Numenor nerfed by 50% (40hp/s to 20)
-	Last alliance summon revamped 
-	Elendil new level 7
-	Numenorian crossbows now cost 75 cp instead of 45
+Arnor:
+arnor archers slight health and dmg buff
+dunedain swords affected by discounts
+
 
 Dwarves: 
-	Belegost warriors damage buffed against monsters but nerfed against infantry
-	Belegost riders damage buffed against infantry
-	Thorin no longer affects allies with his leaderships and abilities
+
 	
 Goblins:
 -Durburz can no longer kill allies and heroes with Bloody Driving, descriptions fixed
 	
 Gondor: 
+-Dol amroth swords armor and dmg buff
+-morthond archer dmg, health nerf
+-Gondor archers +70% health, +15%dmg
 
 Isengard:
 -Saruman Level up radius +100%
 -Ugluk Level 1 and 7 affect men to a lesser extent
 -Wolves: +100 Health, increased Damage to swords and archers (10%)
 
+
 Imladris:
-	Gondolin archers slight damage and health buff, but will no longer receive a weapon upgrade from level 5
-	Gondolin warriors slight health buff and damage nerf, will no longer receive a weapon upgrade from level 5 instead will get an armor upgrade
-	Gondolin guards slight health buff and damage nerf, will no longer receive a weapon upgrade from level 5 instead will get an armor upgrade
-	All formenos units buffed by 200 health
-	Imladris catapults light weapon no longers paralyzes, but blinds instead
 
 -Elrond and Gorfindel dps nerf
 -twins damage -50, health +400
--Archers -25%dmg
+-Archers -10% dmg, capped to 7 
+-Library system reworked
+-Council of Elrond reworked
+-New Spell
+-heavy armor health buff removed
 	
 Lothlorien:
 	
 
 Mordor:
 -Gorthaur Flaming Strike damage 3600 -> 3000, no longer affected by blademaster
+
 Rohan: 
+Captain Infantry damage, health and armor buff
 	
 	
 General:
 
-	descriptions of spellbook powers include cooldowns
-	drake lairs give less xp
-	wight lairs give more xp
-	General descriptions
-	power Point Generation 10% slower
-	trample revenge weapons buffed by 300% against monsters
+	Pike revenge damage against cav and heroes nerfed by 12%
+	Siege Rework
+
+
 
 -first age heroes damage fix
 -Wizard blast Damage: -10%
