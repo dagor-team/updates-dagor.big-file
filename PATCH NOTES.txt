@@ -10,6 +10,7 @@ Steel Bolts nerf against heroes and structures
 Arnor:
 arnor archers slight health and dmg buff
 dunedain swords affected by discounts
+arnor swords, +150 health
 
 
 Dwarves: 
@@ -17,10 +18,12 @@ Dwarves:
 	
 Goblins:
 -Dragon Strike -33%dmg	
+
 Gondor: 
 -Dol amroth swords armor and dmg buff
--morthond archer dmg, health nerf
+-fiefdom units dmg, health nerf
 -Gondor archers +70% health, +15%dmg
+-Gondor soldiers and pikes, health and dmg buff
 
 Isengard:
 -Saruman Level up radius +100%
@@ -39,7 +42,8 @@ Imladris:
 -heavy armor health buff removed
 	
 Lothlorien:
-	
+	Cleansing of the forest: +150% radius
+	Radagast with gifts: Delay between shots: 5s -> 3s
 
 Mordor:
 -Gorthaur Flaming Strike damage 3600 -> 3000, no longer affected by blademaster
@@ -52,9 +56,10 @@ General:
 
 	Pike revenge damage against cav and heroes nerfed by 12%
 	Siege Rework
+	Durmarth, Twins, Saleme, eowyn armor fix
 
 
 
 -first age heroes damage fix
--Wizard blast Damage: -10%
+-Wizard blast Damage: -10%, 10% bonus damage against archers
 
