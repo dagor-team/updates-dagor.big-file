@@ -16,8 +16,7 @@ Dwarves:
 
 	
 Goblins:
--Durburz can no longer kill allies and heroes with Bloody Driving, descriptions fixed
-	
+-Dragon Strike -33%dmg	
 Gondor: 
 -Dol amroth swords armor and dmg buff
 -morthond archer dmg, health nerf

@@ -36,12 +36,12 @@
         PingDelay               = 2000
         HealPercentPerSecond    = 10%
         AllowFilter             = ANY +INFANTRY +CAVALRY +HERO -MACHINE +MONSTER -IMMOBILE +DOZER
-        NonStackable            = Yes
+        NonStackable            = No
         HealFX                  = FX_SpellHealUnitHealBuff
     End
 
-        Behavior = BannerCarrierUpdate Runesreplentish1UpdateModuleTag
-        IdleSpawnRate            = 3000
+    Behavior = BannerCarrierUpdate Runesreplentish1UpdateModuleTag
+        IdleSpawnRate            = 1000
         UnitSpawnFX              = FX_BannerCarrierSpawnUnit
         ReplenishNearbyHorde     = Yes
         ReplenishAllNearbyHordes = Yes

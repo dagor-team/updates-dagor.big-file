@@ -1053,8 +1053,8 @@ CONTROLBAR:SpellBookBlindingLight
 END
 
 CONTROLBAR:ToolTipSpellBookBlindingLight
-Calls a birght beam of the light of sun and stars to the battlefield. Blinds archers in the area and weakens enemy speed and damage \n Left click icon then left click on target area
-ENDEND
+"Calls a birght beam of the light of sun and stars to the battlefield. Blinds archers in the area and weakens enemy speed and damage \n Left click icon then left click on target area"
+END
 
 OBJECT:Vingilot
 "Vingilot"
@@ -58433,6 +58433,14 @@ END
 
 OBJECT:ElrondGartenDescription
 "Support Structure \n Trains Scholars and Elven Lords"
+END
+
+OBJECT:ElrondGarten2
+"Elronds Council"
+END
+
+OBJECT:ElrondGartenDescription2
+"Council of Elrond, Summons Heroes"
 END
 
 CONTROLBAR:ConstructElrondshaus
