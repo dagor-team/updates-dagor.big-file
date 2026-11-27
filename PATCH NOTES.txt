@@ -3,9 +3,13 @@ Patchnotes 4.11.2026:
 
 Angmar:
 -Underworld wizard damage nerf
+-Eco buff no longer affects allied Angmar Players
 
 Isengard: 
-Steel Bolts nerf against heroes and structures
+-Steel Bolts nerf against heroes and structures
+-Grima:Last abilities switched, sabotage nerfed
+-Dunland Elites buffed
+-tolingauroth wolves: -60% exp award
 
 Arnor:
 arnor archers slight health and dmg buff
@@ -44,6 +48,7 @@ Imladris:
 Lothlorien:
 	Cleansing of the forest: +150% radius
 	Radagast with gifts: Delay between shots: 5s -> 3s
+	galadriel level 7: -20% lightnings
 
 Mordor:
 -Gorthaur Flaming Strike damage 3600 -> 3000, no longer affected by blademaster

@@ -17309,7 +17309,7 @@ CONTROLBAR:SpecialAbilityUnterwandern
 END
 
 CONTROLBAR:ToolTipSpecialAbilityUnterwandern
-"Requires: Level 10 \n Years of intrigue allow Grima Wormtongue to sabotage the enemy \n Buildings in the immediate vicinity of the selected fortress take 50% more damage \n Additionally, all affected building actions are temporarly disabled \n Only applicable to fortresses \n Left-click on an enemy stronghold"
+"Requires: Level 7 \n Years of intrigue allow Grima Wormtongue to sabotage the enemy \n Buildings in the immediate vicinity of the selected fortress take 10% more damage \n Additionally, all affected building actions are temporarly disabled \n Only applicable to fortresses \n Left-click on an enemy stronghold"
 END
 
 CONTROLBAR:SpecialPowerSchutztmich
@@ -17317,7 +17317,7 @@ CONTROLBAR:SpecialPowerSchutztmich
 END
 
 CONTROLBAR:ToolTipSpecialPowerSchutztmich
-"Denethor calls his bodyguards persohnlichen \ protect him \n Briefly Denethor is surrounded by his men and protect \n For the period from 10 seconds to heal Denethor, but can cause no harm \n Left click to activate"
+"Denethor calls his bodyguards to protect him \n Briefly Denethor is surrounded by his men and protected \n For the period from 10 seconds to heal Denethor, but can cause no harm \n Left click to activate"
 END
 
 CONTROLBAR:SpecialAbilityFlammeAnors
@@ -17377,7 +17377,7 @@ CONTROLBAR:ToolTipWizardBlastVerfuhrte
 END
 
 CONTROLBAR:ToolTipCorrodeAllegianceMod
-"Requires: Level 7 \n Bring the selected enemy hero temporarily under control \n Left click on the icon and then click on the target"
+"Requires: Level 10 \n Bring the selected enemy hero temporarily under control \n Left click on the icon and then click on the target"
 END
 
 OBJECT:GoblinBillTomBertHorde
