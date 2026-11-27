@@ -4,6 +4,8 @@ Patchnotes 4.11.2026:
 Angmar:
 -Underworld wizard damage nerf
 -Eco buff no longer affects allied Angmar Players
+-Snow Trolls -50% Siege Damage, -15% damage
+-Hill Trolls -30% dmg, aoe reduced
 
 Isengard: 
 -Steel Bolts nerf against heroes and structures
@@ -21,7 +23,10 @@ Dwarves:
 
 	
 Goblins:
--Dragon Strike -33%dmg	
+-Dragon Strike -33%dmg
+-First Age heroes require more xp
+-Drogoth heal fixed (50%)
+-All Fireballs nerfed
 
 Gondor: 
 -Dol amroth swords armor and dmg buff
@@ -39,7 +44,7 @@ Imladris:
 
 -Elrond and Gorfindel dps nerf
 -twins damage -50, health +400
--Archers -10% dmg, capped to 7 
+-Archers capped to 7, price 450->500 
 -Library system reworked
 -Council of Elrond reworked
 -New Spell
@@ -62,6 +67,7 @@ General:
 	Pike revenge damage against cav and heroes nerfed by 12%
 	Siege Rework
 	Durmarth, Twins, Saleme, eowyn armor fix
+	Wingblast -50% damage to archers
 
 
 
